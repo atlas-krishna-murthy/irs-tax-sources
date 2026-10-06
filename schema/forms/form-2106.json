@@ -1,0 +1,225 @@
+{
+  "form": {
+    "id": "form-2106",
+    "form": "Form 2106",
+    "title": "Employee Business Expenses",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f2106--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/i2106--2025.pdf",
+    "lines": [
+      {
+        "line": "6",
+        "caption": "Total expenses. In Column A, add lines 1 through 4 and enter the result. In Column B, enter the amount from line 5",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Reimbursements received from employer. Include reimbursements reported on Form W-2, box 12, code \u201cL.\u201d Do not include amounts reported on Form W-2, box 1. (See instructions.)",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Add the amounts on line 9 for both columns and enter the total here. Also, enter the total on Schedule 1 (Form 1040), line 12. Employees with impairment-related work expenses, see the instructions for rules on where to enter the total on your return",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "1",
+        "caption": "Vehicle expense from line 22 or line 29. (Rural mail carriers: See instructions.)",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Parking fees, tolls, and transportation, including trains, buses, etc., that didn\u2019t involve overnight travel or commuting to and from work",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Travel expense while away from home overnight, including lodging, airfare, car rental, etc. Don\u2019t include meals",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Business expenses not included on lines 1 through 3. Don\u2019t include meals",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Meals expenses (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Subtract line 7 from line 6. If zero or less, enter -0-. However, if line 7 is greater than line 6 in Column A, report the excess as income on Form 1040, 1040-SR, or 1040-NR, line 1a",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "9",
+        "caption": "In Column A, enter the amount from line 8. In Column B, see the instructions for the amount to enter",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Enter the date the vehicle was placed in service",
+        "type": "date"
+      },
+      {
+        "line": "12",
+        "caption": "Total miles the vehicle was driven during 2025",
+        "type": "count"
+      },
+      {
+        "line": "13",
+        "caption": "Business miles included on line 12",
+        "type": "count"
+      },
+      {
+        "line": "14",
+        "caption": "Percent of business use. Divide line 13 by line 12",
+        "type": "percent"
+      },
+      {
+        "line": "15",
+        "caption": "Average daily roundtrip commuting distance",
+        "type": "count"
+      },
+      {
+        "line": "16",
+        "caption": "Commuting miles included on line 12",
+        "type": "count"
+      },
+      {
+        "line": "17",
+        "caption": "Other miles. Add lines 13 and 16 and subtract the total from line 12",
+        "type": "count"
+      },
+      {
+        "line": "18",
+        "caption": "Was your vehicle available for personal use during off-duty hours?",
+        "type": "checkbox"
+      },
+      {
+        "line": "19",
+        "caption": "Do you (or your spouse) have another vehicle available for personal use?",
+        "type": "checkbox"
+      },
+      {
+        "line": "20",
+        "caption": "Do you have evidence to support your deduction?",
+        "type": "checkbox"
+      },
+      {
+        "line": "21",
+        "caption": "If \u201cYes,\u201d is the evidence written?",
+        "type": "checkbox"
+      },
+      {
+        "line": "22",
+        "caption": "Multiply line 13 by 70\u00a2 (0.70). Enter the result here and on line 1",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "23",
+        "caption": "Gasoline, oil, repairs, vehicle insurance, etc.",
+        "type": "money"
+      },
+      {
+        "line": "24a",
+        "caption": "Vehicle rentals",
+        "type": "money"
+      },
+      {
+        "line": "24b",
+        "caption": "Inclusion amount (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "24c",
+        "caption": "Subtract line 24b from line 24a",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "25",
+        "caption": "Value of employer-provided vehicle (applies only if 100% of annual lease value was included on Form W-2\u2014see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "26",
+        "caption": "Add lines 23, 24c, and 25",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "27",
+        "caption": "Multiply line 26 by the percentage on line 14",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "28",
+        "caption": "Depreciation (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "29",
+        "caption": "Add lines 27 and 28. Enter total here and on line 1",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "30",
+        "caption": "Enter cost or other basis (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Enter section 179 deduction and special allowance (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "32",
+        "caption": "Multiply line 30 by line 14 (see instructions if you claimed the section 179 deduction or special allowance)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "33",
+        "caption": "Enter depreciation method and percentage (see instructions)",
+        "type": "text"
+      },
+      {
+        "line": "34",
+        "caption": "Multiply line 32 by the percentage on line 33 (see instructions)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "35",
+        "caption": "Add lines 31 and 34",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "36",
+        "caption": "Enter the applicable limit explained in the line 36 instructions",
+        "type": "money"
+      },
+      {
+        "line": "37",
+        "caption": "Multiply line 36 by the percentage on line 14",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "38",
+        "caption": "Enter the smaller of line 35 or line 37. If you skipped lines 36 and 37, enter the amount from line 35. Also enter this amount on line 28 above",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ]
+  }
+}

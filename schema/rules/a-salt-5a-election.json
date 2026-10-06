@@ -1,0 +1,64 @@
+{
+  "rule": {
+    "id": "a-salt-5a-election",
+    "title": "Electing general sales taxes leaves the income taxes off Schedule A line 5a",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "W-2.17",
+        "W-2.19",
+        "1099-R.14",
+        "1099-R.17",
+        "1099-G.11",
+        "W-2G.15",
+        "W-2G.17",
+        "1099-NEC.5",
+        "1099-MISC.16",
+        "1099-INT.17",
+        "1099-DIV.16",
+        "4852.7f",
+        "4852.7g",
+        "4852.8g",
+        "4852.8h",
+        "1099-B.16",
+        "1099-K.8",
+        "1099-OID.14",
+        "1099-DA.16",
+        "1042-S.17a",
+        "taxpayer-tax-payment-records.state_and_local_income_taxes_paid"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "salt-5a-elects-general-sales-taxes"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "salt-5a-elects-general-sales-taxes",
+        "is": "general_sales_taxes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "income_taxes",
+      "because": "Schedule A line 5a takes state and local income taxes unless the taxpayer elects general sales taxes; no election has been recorded."
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Schedule A (Form 1040)",
+      "line": "5a",
+      "revision": "2025",
+      "wording": "You can elect to deduct state and local general sales taxes instead of state and local income taxes.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    }
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "form": {
+    "id": "form-8962",
+    "form": "Form 8962",
+    "title": "Premium Tax Credit (PTC)",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8962--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8962",
+    "notes": "refundable: mixed, and the two outcomes are OPPOSITE. This form reconciles the advance payments the Marketplace already made against the credit actually allowed. If the credit allowed exceeds the advances, line 26 is a REFUNDABLE net premium tax credit and goes to Schedule 3 Part II line 9. If the advances exceed the credit allowed, line 29 is a REPAYMENT \u2014 an addition to tax \u2014 and goes to Schedule 2 Part I line 1a. The two are mutually exclusive: line 26 instructs 'If line 25 is greater than line 24, leave this line blank and continue to line 27.' NOTE ON LINE NUMBERS: the net PTC is line 26 and the repayment is line 29 on the 2025 form. Line 24 is Total PTC and line 27 is the raw excess before the repayment limitation at line 28 \u2014 neither of those is the line that routes. Line 6 is 'Reserved for future use'; it formerly carried the 400%-of-federal-poverty-line eligibility cliff, which does not apply for 2025. The line 28 repayment limitation is still in force for 2025 (Rev. Proc. 2024-40 section 2.07: $375/$750 under 200% FPL, $975/$1,950 at 200-300%, $1,625/$3,250 at 300-400%); P.L. 119-21 removes the repayment limitation for tax years beginning after December 31, 2025. Printed revision: Form 8962 (2025), Created 3/25/25.",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Tax family size. Enter your tax family size. See instructions",
+        "type": "count"
+      },
+      {
+        "line": "2a",
+        "caption": "Modified AGI. Enter your modified AGI. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "2b",
+        "caption": "Enter the total of your dependents' modified AGI. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Household income. Add the amounts on lines 2a and 2b. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Federal poverty line. Enter the federal poverty line amount from Table 1-1, 1-2, or 1-3. See instructions. Check the appropriate box for the federal poverty table used. a Alaska b Hawaii c Other 48 states and DC",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Household income as a percentage of federal poverty line (see instructions)",
+        "type": "percent"
+      },
+      {
+        "line": "6",
+        "caption": "Reserved for future use",
+        "type": "text"
+      },
+      {
+        "line": "7",
+        "caption": "Applicable figure. Using your line 5 percentage, locate your \u201capplicable figure\u201d on the table in the instructions",
+        "type": "percent"
+      },
+      {
+        "line": "8a",
+        "caption": "Annual contribution amount. Multiply line 3 by line 7. Round to nearest whole dollar amount",
+        "type": "money"
+      },
+      {
+        "line": "8b",
+        "caption": "Monthly contribution amount. Divide line 8a by 12. Round to nearest whole dollar amount",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Are you allocating policy amounts with another taxpayer or do you want to use the alternative calculation for year of marriage? See instructions.",
+        "type": "checkbox"
+      },
+      {
+        "line": "10",
+        "caption": "See the instructions to determine if you can use line 11 or must complete lines 12 through 23.",
+        "type": "checkbox"
+      },
+      {
+        "line": "11",
+        "caption": "Annual Totals",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "12",
+        "caption": "January",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "13",
+        "caption": "February",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "14",
+        "caption": "March",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "15",
+        "caption": "April",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "16",
+        "caption": "May",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "17",
+        "caption": "June",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "18",
+        "caption": "July",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "19",
+        "caption": "August",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "20",
+        "caption": "September",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "21",
+        "caption": "October",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "22",
+        "caption": "November",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "23",
+        "caption": "December",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "24",
+        "caption": "Total PTC. Enter the amount from line 11, column (e), or add lines 12 through 23, column (e), and enter the total here",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Advance payment of PTC. Enter the amount from line 11, column (f), or add lines 12 through 23, column (f), and enter the total here",
+        "type": "money"
+      },
+      {
+        "line": "26",
+        "caption": "Net PTC. If line 24 is greater than line 25, subtract line 25 from line 24. Enter the difference here and on Schedule 3 (Form 1040), line 9. If line 24 equals line 25, enter -0-. Stop here. If line 25 is greater than line 24, leave this line blank and continue to line 27",
+        "type": "money"
+      },
+      {
+        "line": "27",
+        "caption": "Excess advance payment of PTC. If line 25 is greater than line 24, subtract line 24 from line 25. Enter the difference here",
+        "type": "money"
+      },
+      {
+        "line": "28",
+        "caption": "Repayment limitation (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "29",
+        "caption": "Excess advance PTC repayment. Enter the smaller of line 27 or line 28 here and on Schedule 2 (Form 1040), line 1a",
+        "type": "money"
+      },
+      {
+        "line": "30",
+        "caption": "Allocation 1 \u2014 (a) Policy Number (Form 1095-A, line 2) (b) SSN of other taxpayer (c) Allocation start month (d) Allocation stop month (e) Premium Percentage (f) SLCSP Percentage (g) Advance Payment of the PTC Percentage",
+        "type": "text"
+      },
+      {
+        "line": "31",
+        "caption": "Allocation 2 \u2014 (a) Policy Number (Form 1095-A, line 2) (b) SSN of other taxpayer (c) Allocation start month (d) Allocation stop month (e) Premium Percentage (f) SLCSP Percentage (g) Advance Payment of the PTC Percentage",
+        "type": "text"
+      },
+      {
+        "line": "32",
+        "caption": "Allocation 3 \u2014 (a) Policy Number (Form 1095-A, line 2) (b) SSN of other taxpayer (c) Allocation start month (d) Allocation stop month (e) Premium Percentage (f) SLCSP Percentage (g) Advance Payment of the PTC Percentage",
+        "type": "text"
+      },
+      {
+        "line": "33",
+        "caption": "Allocation 4 \u2014 (a) Policy Number (Form 1095-A, line 2) (b) SSN of other taxpayer (c) Allocation start month (d) Allocation stop month (e) Premium Percentage (f) SLCSP Percentage (g) Advance Payment of the PTC Percentage",
+        "type": "text"
+      },
+      {
+        "line": "34",
+        "caption": "Have you completed all policy amount allocations?",
+        "type": "checkbox"
+      },
+      {
+        "line": "35",
+        "caption": "Alternative entries for your SSN \u2014 (a) Alternative family size (b) Alternative monthly contribution amount (c) Alternative start month (d) Alternative stop month",
+        "type": "text"
+      },
+      {
+        "line": "36",
+        "caption": "Alternative entries for your spouse's SSN \u2014 (a) Alternative family size (b) Alternative monthly contribution amount (c) Alternative start month (d) Alternative stop month",
+        "type": "text"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "2",
+        "because": "'Schedule 2 (Form 1040), line 1a' in line 29's caption and the 'Page 2' header \u2014 references, not a line of Form 8962"
+      },
+      {
+        "slot": "73",
+        "because": "'Attachment Sequence No. 73' in the form header, not a line"
+      }
+    ]
+  }
+}

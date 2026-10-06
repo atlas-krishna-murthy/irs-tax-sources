@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-loan-principal",
+    "wording": "Is this item a repayment of loan principal (rather than interest)?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 principal, not deductible"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 interest only"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this item a repayment of loan principal (rather than interest)?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Publication 527",
+        "line": "Depreciation",
+        "revision": "2025",
+        "wording": "You can\u2019t simply deduct your mortgage or principal payments, or the cost of furniture, fixtures, and equipment, as an expense.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p527--2025.pdf"
+      }
+    }
+  }
+}

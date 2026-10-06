@@ -1,0 +1,236 @@
+{
+  "form": {
+    "id": "schedule-3",
+    "form": "Schedule 3 (Form 1040)",
+    "title": "Additional Credits and Payments",
+    "kind": "schedule",
+    "revision": "2025",
+    "revision_printed_as": "Schedule 3 (Form 1040) 2025 Created 11/17/25",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040s3--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1040gi",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Foreign tax credit. Attach Form 1116 if required",
+        "type": "money",
+        "part": "I",
+        "computed_by_software": true
+      },
+      {
+        "line": "2",
+        "caption": "Credit for child and dependent care expenses from Form 2441, line 11. Attach Form 2441",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "3",
+        "caption": "Education credits from Form 8863, line 19",
+        "type": "money",
+        "part": "I",
+        "computed_by_software": true
+      },
+      {
+        "line": "4",
+        "caption": "Retirement savings contributions credit. Attach Form 8880",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "5a",
+        "caption": "Residential clean energy credit from Form 5695, line 15",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "5b",
+        "caption": "Energy efficient home improvement credit from Form 5695, line 32",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6",
+        "caption": "Other nonrefundable credits:",
+        "type": "text",
+        "part": "I"
+      },
+      {
+        "line": "6a",
+        "caption": "General business credit. Attach Form 3800",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6b",
+        "caption": "Credit for prior year minimum tax. Attach Form 8801",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6c",
+        "caption": "Adoption credit. Attach Form 8839",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6d",
+        "caption": "Credit for the elderly or disabled. Attach Schedule R",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6e",
+        "caption": "Reserved for future use",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6f",
+        "caption": "Clean vehicle credit. Attach Form 8936",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6g",
+        "caption": "Mortgage interest credit. Attach Form 8396",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6h",
+        "caption": "District of Columbia first-time homebuyer credit. Attach Form 8859",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6i",
+        "caption": "Qualified electric vehicle credit. Attach Form 8834",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6j",
+        "caption": "Alternative fuel vehicle refueling property credit. Attach Form 8911",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6k",
+        "caption": "Credit to holders of tax credit bonds. Attach Form 8912",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6l",
+        "caption": "Amount on Form 8978, line 14. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6m",
+        "caption": "Credit for previously owned clean vehicles. Attach Form 8936",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6z",
+        "caption": "Other nonrefundable credits. List type and amount:",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "7",
+        "caption": "Total other nonrefundable credits. Add lines 6a through 6z",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8",
+        "caption": "Add lines 1 through 4, 5a, 5b, and 7. Enter here and on Form 1040, 1040-SR, or 1040-NR, line 20",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "9",
+        "caption": "Net premium tax credit. Attach Form 8962",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      },
+      {
+        "line": "10",
+        "caption": "Amount paid with request for extension to file (see instructions)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "11",
+        "caption": "Excess social security and tier 1 RRTA tax withheld",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      },
+      {
+        "line": "12",
+        "caption": "Credit for federal tax on fuels. Attach Form 4136",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "13",
+        "caption": "Other payments or refundable credits:",
+        "type": "text",
+        "part": "II"
+      },
+      {
+        "line": "13a",
+        "caption": "Form 2439",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "13b",
+        "caption": "Section 1341 credit for repayment of amounts included in income from earlier years",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      },
+      {
+        "line": "13c",
+        "caption": "Net elective payment election amount from Form 3800, Part III, line 6, column (j)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "13d",
+        "caption": "Deferred amount of net 965 tax liability (see instructions)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "13z",
+        "caption": "Other refundable credits (see instructions):",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "14",
+        "caption": "Total other payments or refundable credits. Add lines 13a through 13z",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "15",
+        "caption": "Add lines 9 through 12 and 14. Enter here and on Form 1040, 1040-SR, or 1040-NR, line 31",
+        "type": "money",
+        "part": "II"
+      }
+    ],
+    "notes": "One printed page. Part I Nonrefundable Credits (lines 1-8); Part II Other Payments and Refundable Credits (lines 9-15). Line 6 has sub-lines a-m and z; line 13 has a-d and z. No line number or caption changed between TY2024 and TY2025.",
+    "face_not_boxes": [
+      {
+        "slot": "03",
+        "because": "the Attachment Sequence No. printed in the form header, not a line"
+      }
+    ]
+  }
+}

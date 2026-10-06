@@ -1,0 +1,41 @@
+{
+  "rule": {
+    "id": "c-meals-50",
+    "title": "Schedule C line 24b takes 50% of the client's business meals",
+    "class": "sheet",
+    "years": [
+      2025
+    ],
+    "operator": "share",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-business-income-and-expense-records.business_meals"
+      ]
+    },
+    "inputs": [],
+    "params": {},
+    "amounts": {
+      "all": {
+        "share": 0.5
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule C (Form 1040)",
+      "line": "Line 24b",
+      "revision": "2025",
+      "wording": "Amount of deduction. In most cases, you can deduct only 50% of your business meal expenses, including meals incurred while away from home on business.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+    },
+    "open_point": "50% is applied to every business-meal figure. The same paragraph raises it to 80% for meals during a Department of Transportation hours-of-service duty period, and allows 100% for meals treated as an employee's wages or reported to a nonemployee on Form 1099-NEC; both turn on a person's answer and no question is declared for them yet. Replaces Schedule C line 24b's client_item transform (multiply 0.5), which must be retired with this rule or the figure is halved twice.",
+    "research_ids": [
+      "c-meals-50"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-restates-a-figure-another-form-on-this-sheet-reports",
+    "wording": "Is this item the same payment a form already on this sheet reports on the same line (a Form W-2, 1099, 1098, 1098-C, SSA-1099, a Form 1040-ES voucher, or the settlement statement) \u2014 so counting it would count the payment twice?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 the same payment, already counted"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 a payment no other form reports"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this item the same payment a form already on this sheet reports on the same line (a Form W-2, 1099, 1098, 1098-C, SSA-1099, a Form 1040-ES voucher, or the settlement statement) \u2014 so counting it would count the payment twice?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Line 8a",
+        "revision": "2025",
+        "wording": "Form 1098 doesn't show all interest paid. If you paid more interest to the recipient than is shown on Form 1098, include the larger deductible amount on line 8a",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

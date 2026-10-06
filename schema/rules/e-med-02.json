@@ -1,0 +1,48 @@
+{
+  "rule": {
+    "id": "e-med-02",
+    "title": "Medical expenses count in the year paid, never for future care",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-medical-expense-records.medical_and_dental_expenses_paid",
+        "taxpayer-medical-expense-records.qualified_long_term_care_insurance_premiums"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-was-not-paid-in-2025"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-was-not-paid-in-2025",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Was this NOT paid (or charged to a credit card) in 2025, or is it a payment for care to be received in a later year?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 502",
+      "line": "What Expenses Can You Include This Year?",
+      "revision": "2025",
+      "wording": "You can include only the medical and dental expenses you paid this year but generally not payments for medical or dental care you will receive in a future year.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p502--2025.pdf"
+    },
+    "research_ids": [
+      "e-med-02"
+    ]
+  }
+}

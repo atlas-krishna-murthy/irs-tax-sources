@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "id": "k1-ac-proceeds-not-in-a-business",
+    "title": "K-1 code AC interest is not a Schedule E figure when the proceeds went to an investment or to personal use",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "k-1-1065.13.AC",
+        "k-1-1120s.12.AC"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "k1-debt-financed-proceeds-use"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "k1-debt-financed-proceeds-use",
+        "in": [
+          "investment",
+          "personal"
+        ]
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Partner's Instructions for Schedule K-1 (Form 1065)",
+      "line": "Box 13, code AC",
+      "revision": "2025",
+      "wording": "If the proceeds were used in an investment activity, report the interest on Form 4952. If the proceeds are used for personal purposes, the interest is generally not deductible.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf"
+    },
+    "open_point": "Investment interest reaches Schedule A line 9 only through Form 4952's limitation, which the tax software computes; the sheet counts the figure 0.00 on its row and keeps the printed amount."
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "document": {
+    "id": "1099-B",
+    "title": "Proceeds From Broker and Barter Exchange Transactions",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form 1099-B (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099b--2025.pdf",
+    "issued_by": "broker or barter exchange",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "applicable checkbox on form 8949",
+        "label": "Applicable checkbox on Form 8949",
+        "type": "code"
+      },
+      {
+        "box": "1a",
+        "label": "Description of property (Example: 100 sh. XYZ Co.)",
+        "type": "text"
+      },
+      {
+        "box": "1b",
+        "label": "Date acquired",
+        "type": "date"
+      },
+      {
+        "box": "1c",
+        "label": "Date sold or disposed",
+        "type": "date"
+      },
+      {
+        "box": "1d",
+        "label": "Proceeds",
+        "type": "money"
+      },
+      {
+        "box": "1e",
+        "label": "Cost or other basis",
+        "type": "money"
+      },
+      {
+        "box": "1f",
+        "label": "Accrued market discount",
+        "type": "money"
+      },
+      {
+        "box": "1g",
+        "label": "Wash sale loss disallowed",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Short-term gain or loss / Long-term gain or loss / Ordinary",
+        "type": "checkbox",
+        "codes": [
+          {
+            "code": "short-term",
+            "label": "Short-term gain or loss"
+          },
+          {
+            "code": "long-term",
+            "label": "Long-term gain or loss"
+          },
+          {
+            "code": "ordinary",
+            "label": "Ordinary"
+          }
+        ]
+      },
+      {
+        "box": "3",
+        "label": "If checked, proceeds from:",
+        "type": "checkbox",
+        "codes": [
+          {
+            "code": "collectibles",
+            "label": "Collectibles"
+          },
+          {
+            "code": "qof",
+            "label": "QOF"
+          }
+        ]
+      },
+      {
+        "box": "4",
+        "label": "Federal income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "If checked, noncovered security",
+        "type": "checkbox"
+      },
+      {
+        "box": "6",
+        "label": "Reported to IRS:",
+        "type": "checkbox",
+        "codes": [
+          {
+            "code": "gross",
+            "label": "Gross proceeds"
+          },
+          {
+            "code": "net",
+            "label": "Net proceeds"
+          }
+        ]
+      },
+      {
+        "box": "7",
+        "label": "If checked, loss is not allowed based on amount in 1d",
+        "type": "checkbox"
+      },
+      {
+        "box": "8",
+        "label": "Profit or (loss) realized in 2025 on closed contracts",
+        "type": "money"
+      },
+      {
+        "box": "9",
+        "label": "Unrealized profit or (loss) on open contracts\u201412/31/2024",
+        "type": "money"
+      },
+      {
+        "box": "10",
+        "label": "Unrealized profit or (loss) on open contracts\u201412/31/2025",
+        "type": "money"
+      },
+      {
+        "box": "11",
+        "label": "Aggregate profit or (loss) on contracts",
+        "type": "money"
+      },
+      {
+        "box": "12",
+        "label": "If checked, basis reported to IRS",
+        "type": "checkbox"
+      },
+      {
+        "box": "13",
+        "label": "Bartering",
+        "type": "money"
+      },
+      {
+        "box": "14",
+        "label": "State name",
+        "type": "text"
+      },
+      {
+        "box": "15",
+        "label": "State identification no.",
+        "type": "text"
+      },
+      {
+        "box": "16",
+        "label": "State tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed above the issuer's block on every copy. A corrected form replaces one furnished earlier; its figures are the ones to use, never counted beside the earlier form's."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed on Copy A (the issuer's filing copy) and the state copy; the recipient's Copy B does not print it."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "FR-016 mark. An account or other unique number the issuer assigned; identification only, never a figure."
+      },
+      {
+        "box": "fatca",
+        "label": "FATCA filing requirement",
+        "type": "checkbox",
+        "notes": "FR-016 mark. The issuer reports this account under chapter 4; the recipient may also have to file Form 8938. Moves no figure."
+      },
+      {
+        "box": "cusip-number",
+        "label": "CUSIP number",
+        "type": "identifier",
+        "notes": "Recipient instruction: 'Shows the CUSIP (Committee on Uniform Security Identification Procedures) number or other applicable identifying number.' Identification only."
+      }
+    ],
+    "notes": "Boxes 8, 9 and 10 are COMPONENTS of box 11 and must never be routed separately \u2014 see aggregate '1099b.11'. Box 13 (bartering) is ordinary income, not capital, and is out of this part's scope. Box 4 is withholding."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099B",
+    "note": null
+  }
+}

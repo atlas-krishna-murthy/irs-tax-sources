@@ -1,0 +1,64 @@
+{
+  "form": {
+    "id": "form-8911",
+    "form": "Form 8911",
+    "title": "Alternative Fuel Vehicle Refueling Property Credit",
+    "kind": "form",
+    "revision": "Rev. December 2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8911--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8911",
+    "notes": "refundable: false for the personal-use part. Line 10 goes to Schedule 3 Part I line 6j; line 3 (business/investment use) goes to Form 3800 Part III line 1s. IN FORCE FOR THE WHOLE OF 2025. The Instructions for Form 8911 state verbatim: 'P.L. 119-21, commonly known as the One Big Beautiful Bill Act changed the termination date for the section 30C alternative fuel vehicle refueling property credit from December 31, 2032, to June 30, 2026.' So unlike the vehicle credits this one survives past 2025 and dies mid-2026, on a PLACED IN SERVICE test rather than an acquisition test. VERSION TRAP: this is a continuous-use form. Its face prints '(Rev. December 2025)', not '2025', even though it is served from the irs-prior/f8911--2025.pdf path. Recorded as printed.",
+    "lines": [
+      {
+        "line": "A",
+        "caption": "Enter the total number of qualified alternative fuel vehicle refueling properties for which you are claiming this credit, and complete and file a separate Schedule A (Form 8911) for each qualifying property. See instructions",
+        "type": "count"
+      },
+      {
+        "line": "1",
+        "caption": "Enter the total credit amount figured in Part II of Schedule(s) A (Form 8911)",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Alternative fuel vehicle refueling property credit from partnerships and S corporations (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Business/investment use part of credit. Add lines 1 and 2. Partnerships and S corporations not electing elective payment, stop here and report this amount on Schedule K. All others, report this amount on Form 3800, Part III, line 1s",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Enter the total credit amount figured in Part III of Schedule(s) A (Form 8911)",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Regular tax before credits:",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Net regular tax. Subtract line 6c from line 5. If zero or less, enter -0- and stop here; do not file this form unless you are claiming a credit on line 3",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Tentative minimum tax (see instructions):",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Subtract line 8 from line 7. If zero or less, stop here; do not file this form unless you are claiming a credit on line 3",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Personal use part of credit. Enter the smaller of line 4 or line 9 here and on Schedule 3 (Form 1040), line 6j; or the appropriate line of your return. If line 9 is smaller than line 4, see instructions",
+        "type": "money"
+      }
+    ]
+  }
+}

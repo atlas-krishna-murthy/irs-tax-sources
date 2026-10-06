@@ -1,0 +1,134 @@
+{
+  "document": {
+    "id": "broker-consolidated-statement",
+    "title": "Broker's consolidated annual tax reporting statement",
+    "kind": "container",
+    "revision": "2025",
+    "revision_printed_as": null,
+    "source_url": null,
+    "issued_by": "broker",
+    "container_of": [
+      "1099-B",
+      "1099-DA",
+      "1099-DIV",
+      "1099-INT",
+      "1099-OID",
+      "1099-MISC"
+    ],
+    "boxes": [],
+    "notes": "A substitute statement, not a form. Form 8949 says of it: 'A substitute statement will have the same information as Form 1099-B or Form 1099-DA.' It routes nothing of its own \u2014 its constituents do. Its per-category summary table ('Summary of Proceeds, Gains & Losses, Adjustments and Withholding') is the usual real-world source of the Form 8949 category totals."
+  },
+  "extraction": {
+    "model": "custom.broker-consolidated-statement",
+    "note": "Read by the declared custom model, over the statement's SUMMARY pages only. The constituents' own prebuilt models cannot read this page: it prints four forms' totals and a Form 8949 category table at once, and it is where Schedule D's figures are. The per-lot detail pages are classified supporting-detail and are never read (spec 068 FR-028).",
+    "custom": {
+      "reads": "the summary pages of a broker's consolidated annual statement",
+      "sections": [
+        {
+          "document": "1099-DIV",
+          "boxes": [
+            "1a",
+            "1b",
+            "2a",
+            "2b",
+            "2c",
+            "2d",
+            "2e",
+            "2f",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11-fatca-filing-requirement",
+            "12",
+            "13",
+            "16"
+          ]
+        },
+        {
+          "document": "1099-INT",
+          "boxes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "17"
+          ]
+        },
+        {
+          "document": "1099-MISC",
+          "boxes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "8",
+            "16"
+          ]
+        },
+        {
+          "document": "1099-OID",
+          "boxes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "8",
+            "10",
+            "11",
+            "9",
+            "14"
+          ]
+        },
+        {
+          "document": "1099-B",
+          "boxes": [
+            "4",
+            "8",
+            "9",
+            "10",
+            "11",
+            "16"
+          ]
+        }
+      ],
+      "summary_table": {
+        "document": "1099-B",
+        "caption": "Summary of proceeds, gains & losses, adjustments and withholding",
+        "row_per": "Form 8949 category",
+        "columns": {
+          "category": "applicable checkbox on form 8949",
+          "term": "2",
+          "proceeds": "1d",
+          "basis": "1e",
+          "market_discount": "1f",
+          "wash_sale": "1g",
+          "net_gain": null
+        },
+        "proof": [
+          "table_closes",
+          "categories_sum"
+        ],
+        "note": "One row per Form 8949 category. Each row is its own reporting unit because the routes turn on facts that differ per category (a wash sale sends category A to Form 8949; a clean category D takes the Schedule D line 8a shortcut). net_gain names no box: it is the figure each row's own arithmetic is proved against, never a placed figure."
+      },
+      "not_declared": "1099-DA is in container_of but no measured statement has printed it; it is left undeclared rather than guessed. Fees and reconciliations print on these pages and belong to no constituent box \u2014 transcribed, routed nowhere (FR-004a). State tax withheld IS read, into each constituent's own state box (spec 080 T046), because each now reaches Schedule A 5a."
+    }
+  }
+}

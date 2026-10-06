@@ -1,0 +1,45 @@
+{
+  "rule": {
+    "id": "pay-08",
+    "title": "Only estimated payments made for 2025 reach line 26",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1040-ES.voucher",
+        "taxpayer-tax-payment-records.federal_estimated_tax_payments"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "estimated-payment-is-for-2025"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "estimated-payment-is-for-2025",
+        "is": "no"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "yes",
+      "because": "An estimated payment on the 2025 record is for 2025 unless a preparer says otherwise"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1040",
+      "line": "26",
+      "revision": "2025",
+      "wording": "Enter any estimated federal income tax payments you made for 2025.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    }
+  }
+}

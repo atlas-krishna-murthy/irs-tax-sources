@@ -1,0 +1,82 @@
+{
+  "form": {
+    "id": "ws-capital-loss-carryover",
+    "form": "Capital Loss Carryover Worksheet",
+    "title": "Capital Loss Carryover Worksheet\u2014Lines 6 and 14",
+    "kind": "worksheet",
+    "revision": "2025",
+    "revision_printed_as": "Capital Loss Carryover Worksheet (2025)",
+    "source_url": "https://www.irs.gov/instructions/i1040sd",
+    "instructions_url": "https://www.irs.gov/instructions/i1040sd",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Enter the amount from your 2024 Form 1040, 1040-SR, or 1040-NR, line 15. If the amount would have been a loss if you could enter a negative number on that line, enclose the amount in parentheses",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Enter the loss from your 2024 Schedule D, line 21, as a positive amount",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Combine lines 1 and 2. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Enter the smaller of line 2 or line 3",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Enter the loss from your 2024 Schedule D, line 7, as a positive amount",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Enter any gain from your 2024 Schedule D, line 15. If a loss, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Add lines 4 and 6",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Short-term capital loss carryover for 2025. Subtract line 7 from line 5. If zero or less, enter -0-. If more than zero, also enter this amount on Schedule D, line 6",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "9",
+        "caption": "Enter the loss from your 2024 Schedule D, line 15, as a positive amount",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Enter any gain from your 2024 Schedule D, line 7. If a loss, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Subtract line 5 from line 4. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Add lines 10 and 11",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Long-term capital loss carryover for 2025. Subtract line 12 from line 9. If zero or less, enter -0-. If more than zero, also enter this amount on Schedule D, line 14",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "notes": "A WORKSHEET, NOT A FILED FORM, AND ITS ONLY INPUTS ARE LAST YEAR'S RETURN. Its own preamble: 'Use this worksheet to figure your capital loss carryovers from 2024 to 2025 if your 2024 Schedule D, line 21, is a loss and (a) that loss is a smaller loss than the loss on your 2024 Schedule D, line 16; or (b) if the amount on your 2024 Form 1040, 1040-SR or 1040-NR, line 15 would be less than zero if you could enter a negative amount on that line. Otherwise, you don't have any carryovers.' Line 8 feeds Schedule D line 6 and line 13 feeds Schedule D line 14. WITHOUT THE PRIOR RETURN THESE ARE UNKNOWABLE \u2014 report the gap, never assume zero. Also: 'If you and your spouse once filed a joint return and are filing separate returns for 2025, any capital loss carryover from the joint return can be deducted only on the return of the spouse who actually had the loss.'"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "document": {
+    "id": "8288-A",
+    "title": "Statement of Withholding on Certain Dispositions by Foreign Persons",
+    "kind": "information_return",
+    "revision": "Rev. January 2023",
+    "revision_printed_as": "Form 8288-A (Rev. January 2023)",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f8288a.pdf",
+    "issued_by": "transferee/withholding agent",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "3",
+        "label": "Amount realized",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Federal income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "withholding-agent-tin",
+        "label": "WITHHOLDING AGENT'S U.S. TIN",
+        "type": "tin"
+      },
+      {
+        "box": "foreign-person-tin",
+        "label": "U.S. TIN of FOREIGN PERSON subject to withholding (see instructions)",
+        "type": "tin"
+      },
+      {
+        "box": "foreign-person-name",
+        "label": "FOREIGN PERSON'S name subject to withholding",
+        "type": "text"
+      },
+      {
+        "box": "1",
+        "label": "Date of transfer",
+        "type": "date"
+      },
+      {
+        "box": "2",
+        "label": "Gain recognized by foreign corporation",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Withholding under section:",
+        "type": "code",
+        "codes": [
+          {
+            "code": "a",
+            "label": "1445"
+          },
+          {
+            "code": "b",
+            "label": "1446(f)(1)"
+          }
+        ]
+      },
+      {
+        "box": "6",
+        "label": "FOREIGN PERSON subject to withholding:",
+        "type": "code",
+        "codes": [
+          {
+            "code": "a",
+            "label": "Individual"
+          },
+          {
+            "code": "b",
+            "label": "Corporation"
+          },
+          {
+            "code": "c",
+            "label": "Partnership"
+          },
+          {
+            "code": "d",
+            "label": "Other (specify)"
+          }
+        ]
+      },
+      {
+        "box": "7",
+        "label": "Country code of FOREIGN PERSON subject to withholding",
+        "type": "text"
+      },
+      {
+        "box": "8",
+        "label": "Description of property transferred",
+        "type": "text"
+      }
+    ],
+    "notes": "FIRPTA withholding. Named in the Form 1040 instructions for line 25c but NOT in the original scope brief -- found by reading the instructions."
+  },
+  "extraction": {
+    "model": "custom.8288-A",
+    "note": "Azure ships no prebuilt-tax model for this form, so it reached the generic reader - which emits no field bearing these box names, so every cited route out of this document was dead while looking implemented (spec 075 US1/W42). Read by the declared custom model over every box the Rev. 1-2023 face prints (spec 080 T047).",
+    "custom": {
+      "reads": "a Form 8288-A, Statement of Withholding on Certain Dispositions by Foreign Persons.",
+      "sections": [
+        {
+          "document": "8288-A",
+          "boxes": [
+            "withholding-agent-tin",
+            "foreign-person-tin",
+            "foreign-person-name",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ]
+        }
+      ]
+    }
+  }
+}

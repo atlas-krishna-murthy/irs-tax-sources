@@ -1,0 +1,61 @@
+{
+  "rule": {
+    "id": "a-patr-01",
+    "title": "A patronage dividend from a business reaches Schedule C line 6",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "route_among",
+    "acts_on": {
+      "boxes": [
+        "1099-PATR.1"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "patronage-dividend-paid-on"
+      }
+    ],
+    "params": {
+      "cases": [
+        {
+          "when": {
+            "answer": "patronage-dividend-paid-on",
+            "is": "business_income"
+          },
+          "to": {
+            "form": "schedule-c",
+            "line": "6"
+          }
+        },
+        {
+          "when": {
+            "answer": "patronage-dividend-paid-on",
+            "is": "other_taxable"
+          },
+          "to": {
+            "form": "form-1040",
+            "line": "8",
+            "sub_line": "8z"
+          }
+        }
+      ]
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1099-PATR",
+      "line": "Instructions for Recipient",
+      "revision": "2025",
+      "wording": "Generally, if you are an individual, report any amounts shown in boxes 1, 2, 3, and 5 as ordinary income, unless nontaxable, on your income tax return.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1099ptr--2025.pdf"
+    }
+  }
+}

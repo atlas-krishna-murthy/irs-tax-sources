@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-entertainment",
+    "wording": "Is this item an entertainment, amusement or recreation expense (not a business meal or travel)?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 entertainment, not deductible"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 a business meal or travel expense"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this item an entertainment, amusement or recreation expense (not a business meal or travel)?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule C (Form 1040)",
+        "line": "Line 24b",
+        "revision": "2025",
+        "wording": "Do not include entertainment expenses on this line.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+      }
+    }
+  }
+}

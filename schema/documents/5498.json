@@ -1,0 +1,244 @@
+{
+  "document": {
+    "id": "5498",
+    "title": "IRA Contribution Information",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form 5498 (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f5498--2025.pdf",
+    "issued_by": "the IRA trustee or issuer",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "IRA contributions (other than amounts in boxes 2-4, 8-10, 13a, and 14a)",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Rollover contributions",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Roth IRA conversion amount",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Recharacterized contributions",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "FMV of account",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "Life insurance cost included in box 1",
+        "type": "money"
+      },
+      {
+        "box": "8",
+        "label": "SEP contributions",
+        "type": "money"
+      },
+      {
+        "box": "9",
+        "label": "SIMPLE contributions",
+        "type": "money"
+      },
+      {
+        "box": "10",
+        "label": "Roth IRA contributions",
+        "type": "money"
+      },
+      {
+        "box": "11",
+        "label": "If checked, required minimum distribution for 2026",
+        "type": "checkbox"
+      },
+      {
+        "box": "12a",
+        "label": "RMD date",
+        "type": "date"
+      },
+      {
+        "box": "12b",
+        "label": "RMD amount",
+        "type": "money"
+      },
+      {
+        "box": "13a",
+        "label": "Postponed/late contrib.",
+        "type": "money"
+      },
+      {
+        "box": "13b",
+        "label": "Year",
+        "type": "text"
+      },
+      {
+        "box": "13c",
+        "label": "Code",
+        "type": "code",
+        "codes": [
+          {
+            "code": "FD",
+            "label": "due to an extension of the contribution due date because of a federally designated disaster"
+          },
+          {
+            "code": "PO",
+            "label": "a rollover of a qualified plan loan offset"
+          },
+          {
+            "code": "SC",
+            "label": "the selfcertification procedure for a late rollover contribution"
+          },
+          {
+            "code": "EO13239",
+            "label": "for Afghanistan and associated direct support areas"
+          },
+          {
+            "code": "EO12744",
+            "label": "for the Arabian Peninsula areas"
+          },
+          {
+            "code": "PL115-97",
+            "label": "for the Sinai Peninsula of Egypt"
+          },
+          {
+            "code": "EO13119",
+            "label": "for the Yugoslavia operations areas"
+          },
+          {
+            "code": "PL106-21",
+            "label": "for the Yugoslavia operations areas"
+          }
+        ]
+      },
+      {
+        "box": "14a",
+        "label": "Repayments",
+        "type": "money"
+      },
+      {
+        "box": "14b",
+        "label": "Code",
+        "type": "code",
+        "codes": [
+          {
+            "code": "QR",
+            "label": "qualified reservist"
+          },
+          {
+            "code": "DD",
+            "label": "qualified disaster"
+          },
+          {
+            "code": "BA",
+            "label": "qualified birth or adoption"
+          },
+          {
+            "code": "EP",
+            "label": "emergency personal expense"
+          },
+          {
+            "code": "DA",
+            "label": "domestic abuse victim"
+          },
+          {
+            "code": "TI",
+            "label": "terminally ill individual"
+          }
+        ]
+      },
+      {
+        "box": "15a",
+        "label": "FMV of certain specified assets",
+        "type": "money"
+      },
+      {
+        "box": "15b",
+        "label": "Code(s)",
+        "type": "code",
+        "codes": [
+          {
+            "code": "A",
+            "label": "Stock or other ownership interest in a corporation that is not readily tradable on an established securities market."
+          },
+          {
+            "code": "B",
+            "label": "Short- or long-term debt obligation that is not traded on an established securities market."
+          },
+          {
+            "code": "C",
+            "label": "Ownership interest in a limited liability company or similar entity (unless the interest is traded on an established securities market)."
+          },
+          {
+            "code": "D",
+            "label": "Real estate."
+          },
+          {
+            "code": "E",
+            "label": "Ownership interest in a partnership, trust, or similar entity (unless the interest is traded on an established securities market)."
+          },
+          {
+            "code": "F",
+            "label": "Option contract or similar product that is not offered for trade on an established option exchange."
+          },
+          {
+            "code": "G",
+            "label": "Other asset that does not have a readily available FMV."
+          },
+          {
+            "code": "H",
+            "label": "More than two types of assets (listed in A through G) are held in this IRA."
+          }
+        ]
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a recipient's copy never carries it. Declared because the face prints it (FR-016)."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox"
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier"
+      },
+      {
+        "box": "7-ira",
+        "label": "IRA",
+        "type": "checkbox"
+      },
+      {
+        "box": "7-sep",
+        "label": "SEP",
+        "type": "checkbox"
+      },
+      {
+        "box": "7-simple",
+        "label": "SIMPLE",
+        "type": "checkbox"
+      },
+      {
+        "box": "7-roth-ira",
+        "label": "Roth IRA",
+        "type": "checkbox"
+      }
+    ],
+    "notes": "THIS DOCUMENT ROUTES NOWHERE, deliberately. It is a VERIFICATION document, not a routing source, for two reasons. (1) It arrives too late: the Instructions for Forms 1099-R and 5498 say 'File Form 5498, IRA Contribution Information, with the IRS by June 1, 2026' - after the April filing deadline, so the return is normally already filed when it appears. (2) It reports what was CONTRIBUTED, which is not what is DEDUCTIBLE: the IRA deduction on Schedule 1 line 20 is limited by earned income and, for a taxpayer covered by an employer plan, phased out by modified AGI, and a Roth contribution (box 10) is never deductible at all. The deduction therefore comes from the taxpayer's own assertion worked through the IRA Deduction Worksheet. Use this form to CHECK that assertion - box 1 against the amount claimed, box 10 to catch a Roth contribution claimed as deductible, box 7 for the account type. Box 1 is already exclusive of boxes 2-4, 8-10, 13a and 14a, so those are not components of it. The 2025 Form 1040 instructions for line 20 point at this document: 'A statement should be sent to you by June 1, 2026, that shows all contributions to your traditional IRA for 2025.'"
+  },
+  "extraction": {
+    "model": null,
+    "note": "Azure ships no prebuilt-tax model for this form; read generically."
+  }
+}

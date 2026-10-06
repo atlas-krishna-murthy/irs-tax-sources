@@ -1,0 +1,43 @@
+{
+  "rule": {
+    "id": "v1-new-r10",
+    "title": "ABLE-account earnings used for qualified disability expenses, or rolled over in 60 days, are not income",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-QA.2"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "able-distribution-used-for-qualified-expenses"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "able-distribution-used-for-qualified-expenses",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1099-QA",
+      "line": "Box 2",
+      "revision": "2025",
+      "wording": "Generally, amounts distributed that are used to pay for qualified disability expenses, or rolled over to another ABLE account within 60 days, are not included in income.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1099qa--2025.pdf"
+    },
+    "open_point": "A program-to-program transfer is not in box 1 at all (the face says so), so no rule acts on it. A partly qualified distribution's taxable part is a computation; box 2 then counts as printed."
+  }
+}

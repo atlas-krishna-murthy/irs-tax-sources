@@ -1,0 +1,82 @@
+{
+  "document": {
+    "id": "1099-A",
+    "title": "Acquisition or Abandonment of Secured Property",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-A (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099a--2025.pdf",
+    "issued_by": "lender who acquired, or knew of the abandonment of, property securing its loan",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "Marks this statement as correcting one already furnished for the same year."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a filer's mark, never a figure."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "The filer's own account number; identification only."
+      },
+      {
+        "box": "lender-tin",
+        "label": "LENDER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "borrower-tin",
+        "label": "BORROWER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "1",
+        "label": "Date of lender\u2019s acquisition or knowledge of abandonment",
+        "type": "date",
+        "notes": "The face sets boxes 1 and 2 side by side, so both captions wrap into each other in the text renderings; the caption is the face's own."
+      },
+      {
+        "box": "2",
+        "label": "Balance of principal outstanding",
+        "type": "money",
+        "notes": "'Shows the debt (principal only) owed to the lender on the loan when the interest in the property was acquired by the lender or on the date the lender first knew or had reason to know that the property was abandoned.'"
+      },
+      {
+        "box": "3",
+        "label": "",
+        "type": "text",
+        "notes": "'Box 3. Reserved for future use.'"
+      },
+      {
+        "box": "4",
+        "label": "Fair market value of property",
+        "type": "money",
+        "notes": "'If the amount in box 4 is less than the amount in box 2, and your debt is canceled, you may have cancellation of debt income.'"
+      },
+      {
+        "box": "5",
+        "label": "Check if the borrower was personally liable for repayment of the debt",
+        "type": "checkbox",
+        "notes": "Copy A's caption; Copy B prints 'If checked, the borrower was personally liable for repayment of the debt'."
+      },
+      {
+        "box": "6",
+        "label": "Description of property",
+        "type": "text"
+      }
+    ],
+    "notes": "A 1099-A reports an EVENT, not income: gain or loss on the acquisition is the borrower's basis against the debt canceled (or the sale proceeds), and any cancellation-of-debt income usually arrives on a Form 1099-C. Losses on personal-use property are not deductible."
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

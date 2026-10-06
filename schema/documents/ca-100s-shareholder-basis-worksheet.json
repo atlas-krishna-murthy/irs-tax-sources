@@ -1,0 +1,18 @@
+{
+  "document": {
+    "id": "CA-100S-shareholder-basis-worksheet",
+    "title": "S Corporation Shareholder Stock and Debt Basis Limitations Worksheet (California, Form 100S)",
+    "kind": "information_return",
+    "jurisdiction": "US-CA",
+    "revision": "2025",
+    "revision_printed_as": "Form 100S Shareholder Stock and Debt Basis Limitations Worksheet",
+    "issued_by": "the S corporation's preparer, for the California return",
+    "container_of": null,
+    "boxes": [],
+    "notes": "California's version of the federal stock-and-debt basis computation (the federal one is Form 7203 / shareholder-basis-records). California basis differs from federal basis wherever California does not conform, so this worksheet must never stand in for the federal basis record."
+  },
+  "extraction": {
+    "model": null,
+    "note": "Out of this map's jurisdiction (US-CA). Classifiable so it can be named and held; deliberately not extracted federally."
+  }
+}

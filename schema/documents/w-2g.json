@@ -1,0 +1,162 @@
+{
+  "document": {
+    "id": "W-2G",
+    "title": "Certain Gambling Winnings",
+    "kind": "information_return",
+    "revision": "Rev. December 2023",
+    "revision_printed_as": "Form W-2G (Rev. 12-2023)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/fw2g--2023.pdf",
+    "issued_by": "the payer of the gambling winnings",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Reportable winnings",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Date won",
+        "type": "date"
+      },
+      {
+        "box": "3",
+        "label": "Type of wager",
+        "type": "text"
+      },
+      {
+        "box": "4",
+        "label": "Federal income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Transaction",
+        "type": "text"
+      },
+      {
+        "box": "6",
+        "label": "Race",
+        "type": "text"
+      },
+      {
+        "box": "7",
+        "label": "Winnings from identical wagers",
+        "type": "money"
+      },
+      {
+        "box": "8",
+        "label": "Cashier",
+        "type": "text"
+      },
+      {
+        "box": "9",
+        "label": "WINNER'S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "10",
+        "label": "Window",
+        "type": "text"
+      },
+      {
+        "box": "11",
+        "label": "First identification no.",
+        "type": "text"
+      },
+      {
+        "box": "12",
+        "label": "Second identification no.",
+        "type": "text"
+      },
+      {
+        "box": "13",
+        "label": "State/Payer's state identification no.",
+        "type": "text"
+      },
+      {
+        "box": "14",
+        "label": "State winnings",
+        "type": "money"
+      },
+      {
+        "box": "15",
+        "label": "State income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "16",
+        "label": "Local winnings",
+        "type": "money"
+      },
+      {
+        "box": "17",
+        "label": "Local income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "18",
+        "label": "Name of locality",
+        "type": "text"
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a recipient's copy never carries it. Declared because the face prints it (FR-016)."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED",
+        "type": "checkbox"
+      },
+      {
+        "box": "calendar-year",
+        "label": "For calendar year",
+        "type": "text",
+        "notes": "The Rev. 12-2023 face is continuous-use: the payer writes the year after a printed '20'. A W-2G for another year is not this return's."
+      }
+    ],
+    "notes": "The revision in force for tax year 2025 is Rev. December 2023. irs-prior/fw2g--2025.pdf returns 404 because no 2024 or 2025 revision was issued; the next revision after 12-2023 is Rev. January 2026, which irs.gov/pub/irs-pdf/fw2g.pdf serves today and which is for calendar year 2026. Confirmed against Publication 1179 (Rev. Proc. 2025-22), the 2025 substitute-forms revenue procedure, whose exhibit prints 'Form W-2G (Rev. 12-2023)'. The box layout is identical between the 12-2023 and 1-2026 revisions. Box 4 federal income tax withheld reaches Form 1040 line 25c, NOT 25b: line 25b is for Form(s) 1099, and the Instructions for Form 1040 list W-2G withholding as the first bullet under 'Line 25c-Other Forms'.",
+    "face_not_boxes": [
+      {
+        "slot": "20",
+        "because": "The printed '20' is the century of the hand-entered 'For calendar year 20__', declared as box calendar-year."
+      }
+    ]
+  },
+  "extraction": {
+    "model": "custom.W-2G",
+    "note": "Azure ships no prebuilt-tax model for this form, so it reached the generic reader \u2014 which emits no field bearing these box names, so every cited route out of this document was dead while looking implemented (spec 075 US1/W42). Read by the declared custom model over the boxes this document declares. Its 18 boxes include the state and local block (13-18), which reaches different lines from the federal ones.",
+    "custom": {
+      "reads": "a Form W-2G, Certain Gambling Winnings. Several may print on one page, and each payer's is its own form.",
+      "sections": [
+        {
+          "document": "W-2G",
+          "boxes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "calendar-year",
+            "corrected"
+          ]
+        }
+      ]
+    }
+  }
+}

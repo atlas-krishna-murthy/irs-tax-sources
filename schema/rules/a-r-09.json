@@ -1,0 +1,86 @@
+{
+  "rule": {
+    "id": "a-r-09",
+    "title": "A code 3 disability pension is line 1h before the minimum retirement age and line 5b after it",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "route_among",
+    "acts_on": {
+      "boxes": [
+        "1099-R.2a"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "disability-pension-before-minimum-retirement-age"
+      },
+      {
+        "kind": "box",
+        "ref": "1099-R.7"
+      }
+    ],
+    "params": {
+      "cases": [
+        {
+          "when": {
+            "all": [
+              {
+                "box": "1099-R.7",
+                "in": [
+                  "3"
+                ],
+                "match": "code"
+              },
+              {
+                "answer": "disability-pension-before-minimum-retirement-age",
+                "is": "yes"
+              }
+            ]
+          },
+          "to": {
+            "form": "form-1040",
+            "line": "1h"
+          }
+        },
+        {
+          "when": {
+            "all": [
+              {
+                "box": "1099-R.7",
+                "in": [
+                  "3"
+                ],
+                "match": "code"
+              },
+              {
+                "answer": "disability-pension-before-minimum-retirement-age",
+                "is": "no"
+              }
+            ]
+          },
+          "to": {
+            "form": "form-1040",
+            "line": "5b"
+          }
+        }
+      ]
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1040",
+      "line": "1h",
+      "revision": "2025",
+      "wording": "Disability pensions received after you reach minimum retirement age and other payments shown on Form 1099-R (other than payments from an IRA) are reported on lines 5a and 5b.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "qualified-dividend-holding-period-met",
+    "wording": "Was every dividend in this Form 1099-DIV box 1b paid on stock held at least 61 days in the 121-day period around its ex-dividend date?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 box 1b is qualified as printed"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 none of box 1b meets the holding period"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "yes",
+      "because": "Dividends the payer reports as qualified are qualified unless a preparer says the holding period was not met"
+    },
+    "basis": {
+      "citation": {
+        "form": "Form 1040",
+        "line": "3a",
+        "revision": "2025",
+        "wording": "Dividends you received on any share of stock that you held for less than 61 days during the 121-day period that began 60 days before the ex-dividend date.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+      }
+    }
+  }
+}

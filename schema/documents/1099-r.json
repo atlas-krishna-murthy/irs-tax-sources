@@ -1,0 +1,305 @@
+{
+  "document": {
+    "id": "1099-R",
+    "title": "Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc.",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form 1099-R, 2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099r--2025.pdf",
+    "issued_by": "plan administrator, IRA trustee, insurance company or other payer",
+    "recipient": {
+      "name": "Recipient.Name",
+      "tin": "Recipient.TIN",
+      "note": "The extractor's own field names, measured on stored reads (engagement 16, 2026-10-02). Read by `Owner.of` to say whose figure this is (spec 079 FR-035); the TIN's last four only."
+    },
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Gross distribution",
+        "type": "money"
+      },
+      {
+        "box": "2a",
+        "label": "Taxable amount",
+        "type": "money"
+      },
+      {
+        "box": "2b-taxable-amount-not-determined",
+        "label": "Taxable amount not determined",
+        "type": "checkbox"
+      },
+      {
+        "box": "2b-total-distribution",
+        "label": "Total distribution",
+        "type": "checkbox"
+      },
+      {
+        "box": "3",
+        "label": "Capital gain (included in box 2a)",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Federal income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Employee contributions/Designated Roth contributions or insurance premiums",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "Net unrealized appreciation in employer's securities",
+        "type": "money"
+      },
+      {
+        "box": "7",
+        "label": "Distribution code(s)",
+        "type": "code",
+        "codes": [
+          {
+            "code": "1",
+            "label": "Early distribution, no known exception (in most cases, under age 59 1/2)."
+          },
+          {
+            "code": "2",
+            "label": "Early distribution, exception applies (under age 59 1/2)."
+          },
+          {
+            "code": "3",
+            "label": "Disability."
+          },
+          {
+            "code": "4",
+            "label": "Death."
+          },
+          {
+            "code": "5",
+            "label": "Prohibited transaction."
+          },
+          {
+            "code": "6",
+            "label": "Section 1035 exchange (a tax-free exchange of life insurance, annuity, qualified long-term care insurance, or endowment contracts)."
+          },
+          {
+            "code": "7",
+            "label": "Normal distribution."
+          },
+          {
+            "code": "8",
+            "label": "Excess contributions plus earnings/excess deferrals (and/or earnings) taxable in 2025."
+          },
+          {
+            "code": "9",
+            "label": "Cost of current life insurance protection."
+          },
+          {
+            "code": "A",
+            "label": "May be eligible for 10-year tax option (see Form 4972)."
+          },
+          {
+            "code": "B",
+            "label": "Designated Roth account distribution."
+          },
+          {
+            "code": "C",
+            "label": "Reportable death benefits under section 6050Y."
+          },
+          {
+            "code": "D",
+            "label": "Annuity payments from nonqualified annuities that may be subject to tax under section 1411."
+          },
+          {
+            "code": "E",
+            "label": "Distributions under Employee Plans Compliance Resolution System (EPCRS)."
+          },
+          {
+            "code": "F",
+            "label": "Charitable gift annuity."
+          },
+          {
+            "code": "G",
+            "label": "Direct rollover of a distribution to a qualified plan, a section 403(b) plan, a governmental section 457(b) plan, or an IRA."
+          },
+          {
+            "code": "H",
+            "label": "Direct rollover of a designated Roth account distribution to a Roth IRA or Roth SIMPLE IRA."
+          },
+          {
+            "code": "J",
+            "label": "Early distribution from a Roth IRA or Roth SIMPLE IRA, no known exception (in most cases, under age 59 1/2)."
+          },
+          {
+            "code": "K",
+            "label": "Distribution of traditional IRA assets not having a readily available FMV."
+          },
+          {
+            "code": "L",
+            "label": "Loans treated as distributions."
+          },
+          {
+            "code": "M",
+            "label": "Qualified plan loan offset."
+          },
+          {
+            "code": "N",
+            "label": "Recharacterized IRA contribution made for 2025 and recharacterized in 2025."
+          },
+          {
+            "code": "P",
+            "label": "Excess contributions plus earnings/excess deferrals (and/or earnings) taxable in 2024 or a previous year."
+          },
+          {
+            "code": "Q",
+            "label": "Qualified distribution from a Roth IRA or Roth SIMPLE IRA."
+          },
+          {
+            "code": "R",
+            "label": "Recharacterized IRA contribution made for 2024 or a previous year and recharacterized in 2025."
+          },
+          {
+            "code": "S",
+            "label": "Early distribution from a SIMPLE IRA in first 2 years, no known exception (under age 59 1/2)."
+          },
+          {
+            "code": "T",
+            "label": "Roth IRA or Roth SIMPLE IRA distribution, exception applies."
+          },
+          {
+            "code": "U",
+            "label": "Dividend distribution from ESOP under section 404(k). Note: This distribution isn't eligible for rollover."
+          },
+          {
+            "code": "W",
+            "label": "Charges or payments for purchasing qualified long-term care insurance contracts under combined arrangements."
+          },
+          {
+            "code": "Y",
+            "label": "Qualified charitable distribution (QCD) claimed by taxpayer under section 408(d)(8)."
+          }
+        ]
+      },
+      {
+        "box": "7-ira-sep-simple",
+        "label": "IRA/SEP/SIMPLE",
+        "type": "checkbox"
+      },
+      {
+        "box": "8",
+        "label": "Other",
+        "type": "money"
+      },
+      {
+        "box": "8-percent",
+        "label": "Other (percentage)",
+        "type": "percent"
+      },
+      {
+        "box": "9a",
+        "label": "Your percentage of total distribution",
+        "type": "percent"
+      },
+      {
+        "box": "9b",
+        "label": "Total employee contributions",
+        "type": "money"
+      },
+      {
+        "box": "10",
+        "label": "Amount allocable to IRR within 5 years",
+        "type": "money"
+      },
+      {
+        "box": "11",
+        "label": "1st year of desig. Roth contrib.",
+        "type": "text"
+      },
+      {
+        "box": "13",
+        "label": "Date of payment",
+        "type": "date"
+      },
+      {
+        "box": "14",
+        "label": "State tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "15",
+        "label": "State/Payer's state no.",
+        "type": "text"
+      },
+      {
+        "box": "16",
+        "label": "State distribution",
+        "type": "money"
+      },
+      {
+        "box": "17",
+        "label": "Local tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "18",
+        "label": "Name of locality",
+        "type": "text"
+      },
+      {
+        "box": "19",
+        "label": "Local distribution",
+        "type": "money"
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a recipient's copy never carries it. Declared because the face prints it (FR-016)."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox"
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier"
+      },
+      {
+        "box": "12-fatca",
+        "label": "FATCA filing requirement",
+        "type": "checkbox"
+      }
+    ],
+    "notes": "Box 2b is two separate checkboxes ('Taxable amount not determined' and 'Total distribution'), not a money box. Box 3 is INSIDE box 2a ('Capital gain (included in box 2a)') and must not be routed separately - see the aggregate 1099r.2a. The IRA/SEP/SIMPLE checkbox beside box 7 is what decides whether the distribution reaches 1040 lines 4a/4b or 5a/5b: the Instructions for Recipient say 'If the IRA/SEP/SIMPLE box is checked, you've received a traditional IRA, SEP, or SIMPLE distribution.' Box 7 code Y (qualified charitable distribution) is NEW for 2025. Box 7 declares its full code table inline, so a route may address 7.G or 7.Y directly as well as test the box7_distribution_code fact."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099R",
+    "note": "Azure answers the IRA/SEP/SIMPLE checkbox by MEANING (`IsIraSepSimple`), never by number, and `distribution_is_from_an_ira`'s determination addressed it by that reader name \u2014 a second spelling of a box this document already declares, held together by nothing. Declared here so the determination, the mapping row and the reader all name `7-ira-sep-simple` (spec 078). Placement-neutral: neither spelling routes anywhere, the checkbox only ANSWERS the 4a/5a pick. Box 2b is answered as ONE field (`Box2b[0]`) whose VALUE names the ticked checkbox \u2014 `totalDistribution` measured on engagement 16 document 118 (box 7 = G), `taxableAmountNotDetermined` the value the 2b flag has always keyed on \u2014 so `fields` maps it as a selection onto the two declared 2b checkboxes (spec 080 F-008). Box 7's two-code format and the leaf names of boxes 8-19 are still unmeasured.",
+    "fields": {
+      "IsIraSepSimple": {
+        "box": "7-ira-sep-simple"
+      },
+      "Box2b": {
+        "selection": {
+          "taxableAmountNotDetermined": "2b-taxable-amount-not-determined",
+          "totalDistribution": "2b-total-distribution"
+        }
+      },
+      "IsCorrected": {
+        "box": "corrected"
+      },
+      "Recipient.AccountNumber": {
+        "box": "account-number"
+      },
+      "Box12": {
+        "box": "12-fatca"
+      },
+      "Box8Percentage": {
+        "box": "8-percent"
+      }
+    }
+  }
+}

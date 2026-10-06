@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "id": "e-ch-07",
+    "title": "A noncash gift over $5,000 needs a qualified appraisal",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-charitable-contribution-records.gifts_other_than_by_cash_or_check"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-a-noncash-gift-over-5000-without-a-qualified-appraisal"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-a-noncash-gift-over-5000-without-a-qualified-appraisal",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this a noncash gift (or group of similar items) claimed at over $5,000 with no qualified written appraisal, and none of the exceptions applies (a qualified vehicle with a written acknowledgment, certain inventory, publicly traded securities, certain intellectual property)?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 526",
+      "line": "Deductions Over $5,000",
+      "revision": "2025",
+      "wording": "If you claim a deduction of over $5,000 for a noncash charitable contribution, you must have the contemporaneous written acknowledgement (see CWA, earlier), obtain a qualified written appraisal of the donated property from a qualified appraiser, and complete Form 8283, Section B.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p526--2025.pdf"
+    },
+    "research_ids": [
+      "e-ch-07"
+    ]
+  }
+}

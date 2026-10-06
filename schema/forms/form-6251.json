@@ -1,0 +1,361 @@
+{
+  "form": {
+    "id": "form-6251",
+    "form": "Form 6251",
+    "title": "Alternative Minimum Tax\u2014Individuals",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f6251--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i6251",
+    "lines": [
+      {
+        "line": "1a",
+        "caption": "Subtract Schedule 1-A (Form 1040), line 37, from Form 1040, 1040-SR, or 1040-NR, line 14",
+        "type": "money"
+      },
+      {
+        "line": "1b",
+        "caption": "Subtract line 1a from Form 1040, 1040-SR, or 1040-NR, line 11b (if less than zero, enter as a negative amount)",
+        "type": "money"
+      },
+      {
+        "line": "2a",
+        "caption": "If filing Schedule A (Form 1040), enter the taxes from Schedule A, line 7; otherwise, enter the amount from Form 1040 or 1040-SR, line 12e",
+        "type": "money"
+      },
+      {
+        "line": "2b",
+        "caption": "Tax refund from Schedule 1 (Form 1040), line 1 or line 8z",
+        "type": "money"
+      },
+      {
+        "line": "2c",
+        "caption": "Investment interest expense (difference between regular tax and AMT)",
+        "type": "money"
+      },
+      {
+        "line": "2d",
+        "caption": "Depletion (difference between regular tax and AMT)",
+        "type": "money"
+      },
+      {
+        "line": "2e",
+        "caption": "Net operating loss deduction from Schedule 1 (Form 1040), line 8a. Enter as a positive amount",
+        "type": "money"
+      },
+      {
+        "line": "2f",
+        "caption": "Alternative tax net operating loss deduction",
+        "type": "money"
+      },
+      {
+        "line": "2g",
+        "caption": "Interest from specified private activity bonds exempt from the regular tax",
+        "type": "money"
+      },
+      {
+        "line": "2h",
+        "caption": "Qualified small business stock, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "2i",
+        "caption": "Exercise of incentive stock options (excess of AMT income over regular tax income)",
+        "type": "money"
+      },
+      {
+        "line": "2j",
+        "caption": "Estates and trusts (amount from Schedule K-1 (Form 1041), box 12, code A)",
+        "type": "money"
+      },
+      {
+        "line": "2k",
+        "caption": "Disposition of property (difference between AMT and regular tax gain or loss)",
+        "type": "money"
+      },
+      {
+        "line": "2l",
+        "caption": "Depreciation on assets placed in service after 1986 (difference between regular tax and AMT)",
+        "type": "money"
+      },
+      {
+        "line": "2m",
+        "caption": "Passive activities (difference between AMT and regular tax income or loss)",
+        "type": "money"
+      },
+      {
+        "line": "2n",
+        "caption": "Loss limitations (difference between AMT and regular tax income or loss)",
+        "type": "money"
+      },
+      {
+        "line": "2o",
+        "caption": "Circulation costs (difference between regular tax and AMT)",
+        "type": "money"
+      },
+      {
+        "line": "2p",
+        "caption": "Long-term contracts (difference between AMT and regular tax income)",
+        "type": "money"
+      },
+      {
+        "line": "2q",
+        "caption": "Mining costs (difference between regular tax and AMT)",
+        "type": "money"
+      },
+      {
+        "line": "2r",
+        "caption": "Research and experimental costs (difference between regular tax and AMT)",
+        "type": "money"
+      },
+      {
+        "line": "2s",
+        "caption": "Income from certain installment sales before January 1, 1987",
+        "type": "money"
+      },
+      {
+        "line": "2t",
+        "caption": "Intangible drilling costs preference",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Other adjustments, including income-based related adjustments",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Alternative minimum taxable income. Combine lines 1b through 3. (If married filing separately and line 4 is more than $900,350, see instructions.)",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Exemption. IF your filing status is... Single or head of household AND line 4 is not over $626,350 THEN enter $88,100; Married filing jointly or qualifying surviving spouse, $1,252,700, enter $137,000; Married filing separately, $626,350, enter $68,500. If line 4 is over the amount shown above for your filing status, see instructions.",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Subtract line 5 from line 4. If more than zero, go to line 7. If zero or less, enter -0- here and on lines 7, 9, and 11, and go to line 10",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "If line 6 is $239,100 or less ($119,550 or less if married filing separately), multiply line 6 by 26% (0.26). Otherwise, multiply line 6 by 28% (0.28) and subtract $4,782 ($2,391 if married filing separately) from the result",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Alternative minimum tax foreign tax credit (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Tentative minimum tax. Subtract line 8 from line 7",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Add Form 1040 or 1040-SR, line 16 (minus any tax from Form 4972), and Schedule 2 (Form 1040), line 1z. Subtract from the result Schedule 3 (Form 1040), line 1 and any negative amount reported on Form 8978, line 14 (treated as a positive number). If zero or less, enter -0-. If you used Schedule J to figure your tax on Form 1040 or 1040-SR, line 16, refigure that tax without using Schedule J before completing this line. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "AMT. Subtract line 10 from line 9. If zero or less, enter -0-. Enter here and on Schedule 2 (Form 1040), line 2",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "12",
+        "caption": "Enter the amount from Form 6251, line 6. If you are filing Form 2555, enter the amount from line 3 of the worksheet in the instructions for line 7",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "13",
+        "caption": "Enter the amount from line 4 of the Qualified Dividends and Capital Gain Tax Worksheet in the Instructions for Form 1040 or the amount from line 13 of the Schedule D Tax Worksheet in the Instructions for Schedule D (Form 1040), whichever applies (as refigured for the AMT, if necessary). See instructions. If you are filing Form 2555, see instructions for the amount to enter",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "14",
+        "caption": "Enter the amount from Schedule D (Form 1040), line 19 (as refigured for the AMT, if necessary). See instructions. If you are filing Form 2555, see instructions for the amount to enter",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "15",
+        "caption": "If you did not complete a Schedule D Tax Worksheet for the regular tax or the AMT, enter the amount from line 13. Otherwise, add lines 13 and 14, and enter the smaller of that result or the amount from line 10 of the Schedule D Tax Worksheet (as refigured for the AMT, if necessary). If you are filing Form 2555, see instructions for the amount to enter",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "16",
+        "caption": "Enter the smaller of line 12 or line 15",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "17",
+        "caption": "Subtract line 16 from line 12",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "18",
+        "caption": "If line 17 is $239,100 or less ($119,550 or less if married filing separately), multiply line 17 by 26% (0.26). Otherwise, multiply line 17 by 28% (0.28) and subtract $4,782 ($2,391 if married filing separately) from the result",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "19",
+        "caption": "Enter:",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "20",
+        "caption": "Enter the amount from line 5 of the Qualified Dividends and Capital Gain Tax Worksheet or the amount from line 14 of the Schedule D Tax Worksheet, whichever applies (as figured for the regular tax). If you did not complete either worksheet for the regular tax, enter the amount from Form 1040 or 1040-SR, line 15; if zero or less, enter -0-. If you are filing Form 2555, see instructions for the amount to enter",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "21",
+        "caption": "Subtract line 20 from line 19. If zero or less, enter -0-",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "22",
+        "caption": "Enter the smaller of line 12 or line 13",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "23",
+        "caption": "Enter the smaller of line 21 or line 22. This amount is taxed at 0%",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "24",
+        "caption": "Subtract line 23 from line 22",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "25",
+        "caption": "Enter:",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "26",
+        "caption": "Enter the amount from line 21",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "27",
+        "caption": "Enter the amount from line 5 of the Qualified Dividends and Capital Gain Tax Worksheet or the amount from line 21 of the Schedule D Tax Worksheet, whichever applies (as figured for the regular tax). If you did not complete either worksheet for the regular tax, enter the amount from Form 1040 or 1040-SR, line 15; if zero or less, enter -0-. If you are filing Form 2555, see instructions for the amount to enter",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "28",
+        "caption": "Add line 26 and line 27",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "29",
+        "caption": "Subtract line 28 from line 25. If zero or less, enter -0-",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "30",
+        "caption": "Enter the smaller of line 24 or line 29",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "31",
+        "caption": "Multiply line 30 by 15% (0.15)",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "32",
+        "caption": "Add lines 23 and 30",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "33",
+        "caption": "Subtract line 32 from line 22",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "34",
+        "caption": "Multiply line 33 by 20% (0.20)",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "35",
+        "caption": "Add lines 17, 32, and 33",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "36",
+        "caption": "Subtract line 35 from line 12",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "37",
+        "caption": "Multiply line 36 by 25% (0.25)",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "38",
+        "caption": "Add lines 18, 31, 34, and 37",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "39",
+        "caption": "If line 12 is $239,100 or less ($119,550 or less if married filing separately), multiply line 12 by 26% (0.26). Otherwise, multiply line 12 by 28% (0.28) and subtract $4,782 ($2,391 if married filing separately) from the result",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "40",
+        "caption": "Enter the smaller of line 38 or line 39 here and on line 7. If you are filing Form 2555, do not enter this amount on line 7. Instead, enter it on line 4 of the worksheet in the instructions for line 7",
+        "type": "money",
+        "part": "III"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "1",
+        "because": "'line 1 or line 8z' \u2014 a reference inside line 2b's caption to Schedule 1 (Form 1040), not a line of this form (lines 1a and 1b are declared)"
+      },
+      {
+        "slot": "2",
+        "because": "'Schedule 2 (Form 1040), line 2' in line 11's caption and the 'Page 2' header \u2014 references, not a line (lines 2a-2t are declared)"
+      },
+      {
+        "slot": "11b",
+        "because": "'Form 1040, 1040-SR, or 1040-NR, line 11b' \u2014 a reference inside line 1b's caption"
+      },
+      {
+        "slot": "32",
+        "because": "'Attachment Sequence No. 32' in the form header"
+      }
+    ]
+  }
+}

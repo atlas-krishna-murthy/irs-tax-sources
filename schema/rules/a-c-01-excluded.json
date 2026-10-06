@@ -1,0 +1,43 @@
+{
+  "rule": {
+    "id": "a-c-01-excluded",
+    "title": "Canceled debt excluded from income in full counts nothing",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-C.2"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "canceled-debt-was"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "canceled-debt-was",
+        "is": "excluded"
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1099-C",
+      "line": "Instructions for Debtor",
+      "revision": "2025",
+      "wording": "However, you may not have to include all of the canceled debt in your income. There are exceptions and exclusions, such as bankruptcy and insolvency.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1099c--2025.pdf"
+    },
+    "open_point": "Only an exclusion of the WHOLE box 2 is applied; the excluded part of a partial exclusion is Form 982's figure."
+  }
+}

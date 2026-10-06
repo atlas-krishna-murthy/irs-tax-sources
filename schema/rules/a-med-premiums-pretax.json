@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "id": "a-med-premiums-pretax",
+    "title": "Premiums paid pretax are never medical expenses",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-medical-expense-records.medical_and_dental_expenses_paid"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-an-insurance-premium-paid-pretax"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-an-insurance-premium-paid-pretax",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this an insurance premium paid by a pretax reduction of the taxpayer's pay (a cafeteria plan), so not included in box 1 of the Form W-2?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "Line 1",
+      "revision": "2025",
+      "wording": "You can't include insurance premiums paid by making a pretax reduction to your employee compensation because these amounts are already being excluded from your income by not being included in box 1 of your Form(s) W-2.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "research_ids": [
+      "a-med-premiums-pretax"
+    ]
+  }
+}

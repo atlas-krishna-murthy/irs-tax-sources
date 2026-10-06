@@ -1,0 +1,159 @@
+{
+  "document": {
+    "id": "1098-Q",
+    "title": "Qualifying Longevity Annuity Contract Information",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1098-Q (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1098q--2025.pdf",
+    "issued_by": "issuer of a qualifying longevity annuity contract (QLAC)",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "Marks this statement as correcting one already furnished for the same year."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a filer's mark, never a figure."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "The filer's own account number; identification only."
+      },
+      {
+        "box": "issuer-tin",
+        "label": "ISSUER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "participant-tin",
+        "label": "PARTICIPANT\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "plan-number",
+        "label": "Plan number",
+        "type": "text"
+      },
+      {
+        "box": "plan-name",
+        "label": "Name of plan",
+        "type": "text"
+      },
+      {
+        "box": "plan-sponsor-ein",
+        "label": "Plan sponsor\u2019s EIN",
+        "type": "tin"
+      },
+      {
+        "box": "1a",
+        "label": "Annuity amount on start date",
+        "type": "money"
+      },
+      {
+        "box": "1b",
+        "label": "Annuity start date",
+        "type": "date"
+      },
+      {
+        "box": "2",
+        "label": "If checked, start date may be accelerated",
+        "type": "checkbox"
+      },
+      {
+        "box": "3",
+        "label": "Total premiums",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "FMV of QLAC",
+        "type": "money"
+      },
+      {
+        "box": "5a",
+        "label": "January",
+        "type": "money",
+        "notes": "The premium paid in that month; the 'dd' beside it is the day of the last payment."
+      },
+      {
+        "box": "5b",
+        "label": "February",
+        "type": "money",
+        "notes": "The premium paid in that month; the 'dd' beside it is the day of the last payment."
+      },
+      {
+        "box": "5c",
+        "label": "March",
+        "type": "money",
+        "notes": "The premium paid in that month; the 'dd' beside it is the day of the last payment."
+      },
+      {
+        "box": "5d",
+        "label": "April",
+        "type": "money",
+        "notes": "The premium paid in that month; the 'dd' beside it is the day of the last payment."
+      },
+      {
+        "box": "5e",
+        "label": "May",
+        "type": "money",
+        "notes": "The premium paid in that month; the 'dd' beside it is the day of the last payment."
+      },
+      {
+        "box": "5f",
+        "label": "June",
+        "type": "money",
+        "notes": "The premium paid in that month; the 'dd' beside it is the day of the last payment."
+      },
+      {
+        "box": "5g",
+        "label": "July",
+        "type": "money",
+        "notes": "The premium paid in that month; the 'dd' beside it is the day of the last payment."
+      },
+      {
+        "box": "5h",
+        "label": "August",
+        "type": "money",
+        "notes": "The premium paid in that month; the 'dd' beside it is the day of the last payment."
+      },
+      {
+        "box": "5i",
+        "label": "September",
+        "type": "money",
+        "notes": "The premium paid in that month; the 'dd' beside it is the day of the last payment."
+      },
+      {
+        "box": "5j",
+        "label": "October",
+        "type": "money",
+        "notes": "The premium paid in that month; the 'dd' beside it is the day of the last payment."
+      },
+      {
+        "box": "5k",
+        "label": "November",
+        "type": "money",
+        "notes": "The premium paid in that month; the 'dd' beside it is the day of the last payment."
+      },
+      {
+        "box": "5l",
+        "label": "December",
+        "type": "money",
+        "notes": "The premium paid in that month; the 'dd' beside it is the day of the last payment."
+      }
+    ],
+    "notes": "Status of a QLAC; nothing on it is income or a deduction. Its value is left out of the RMD calculation for the plan or IRA that holds it."
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

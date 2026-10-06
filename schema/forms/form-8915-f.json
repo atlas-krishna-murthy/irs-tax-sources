@@ -1,0 +1,199 @@
+{
+  "form": {
+    "id": "form-8915-f",
+    "form": "Form 8915-F",
+    "title": "Qualified Disaster Retirement Plan Distributions and Repayments",
+    "kind": "form",
+    "revision": "Rev. December 2025",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f8915f.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8915f",
+    "lines": [
+      {
+        "line": "13",
+        "caption": "Add lines 11 and 12. This is your total income this year from other-than-IRA retirement plan qualified disaster distributions",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Total repayment. Enter the amount, if any, from Worksheet 3. This is your total repayment for this year of other-than-IRA retirement plan qualified disaster distributions. Attach your completed Worksheet 3, if applicable, to the back of this form",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Amount subject to tax this year. Subtract line 14 from line 13. If zero or less, enter -0-. Include this amount in the total on line 5b of this year's Form 1040, 1040-SR, or 1040-NR. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Add lines 22 and 23. This is your total income this year from IRA qualified disaster distributions",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Total repayment. Enter the amount, if any, from Worksheet 5. This is your total repayment for this year of IRA qualified disaster distributions. Attach your completed Worksheet 5, if applicable, to the back of this form",
+        "type": "money"
+      },
+      {
+        "line": "26",
+        "caption": "Amount subject to tax. Subtract line 25 from line 24. If zero or less, enter -0-. Include this amount in the total on line 4b of this year's Form 1040, 1040-SR, or 1040-NR. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "30",
+        "caption": "Subtract line 29 from line 28",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Enter the total amount of any repayments you made. See instructions for allowable repayments. Don't include any repayments treated as rollovers on this year's Form 8606. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "32",
+        "caption": "Taxable amount. Subtract line 31 from line 30. If the distribution is: \u2022 From an IRA, include this amount in the total on line 4b of this year's Form 1040, 1040-SR, or 1040-NR. \u2022 From a retirement plan (other than an IRA), include this amount in the total on line 5b of this year's Form 1040, 1040-SR, or 1040-NR.",
+        "type": "money"
+      },
+      {
+        "line": "1a",
+        "caption": "(i) If you checked 2021 in item A and 2020 in item B, do one of the following. \u2022 If either you didn\u2019t file 2020 Form 8915-E or, on 2020 Form 8915-E, you only reported disasters other than those listed in the Part I Disaster Table earlier, skip lines 1a through 1d, and on line 1e enter $100,000 times the number of disasters you entered in the Part I Disaster Table. \u2022 Otherwise, complete lines 1a through 1e, entering on line 1a $100,000 times the number of disasters you entered in the Part I Disaster Table that were also reported on 2020 Form 8915-E, but do not include the coronavirus. (ii) If you checked 2021 or later in both item A and item B, do one of the following. (For 2021 and later disasters, the limit is $22,000, not $100,000, per disaster.) \u2022 If you listed only one disaster in the Part I Disaster Table and a prior year\u2019s Form 8915-F doesn\u2019t list that disaster in item C, skip to line 1e and enter $22,000 there. \u2022 If you listed only one disaster in the Part I Disaster Table and a prior year\u2019s Form 8915-F lists that disaster in item C, complete lines 1a through 1e, entering $22,000 on line 1a. \u2022 Otherwise, for lines 1a through 5, see the instructions to determine whether you must use Worksheet 1B in the instructions",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "1b",
+        "caption": "Enter the total qualified disaster distributions made to you in prior year(s) for all disasters in the Part I Disaster Table. See Part I in the instructions",
+        "type": "money"
+      },
+      {
+        "line": "1c",
+        "caption": "Subtract line 1b from line 1a",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "1d",
+        "caption": "Enter $22,000 ($100,000 if you checked 2020 in item B) times the number of qualified disasters that you entered in the Part I Disaster Table but didn\u2019t enter in item C on a prior year\u2019s Form 8915-F, or in Part I of 2020 Form 8915-E if you checked 2020 in item B",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "1e",
+        "caption": "Total available qualified disaster distribution amount for this year. Enter the sum of lines 1c and 1d.",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "2",
+        "caption": "Enter, in column (a), distributions from retirement plans (other than IRAs) made this year",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Enter, in column (a), distributions from traditional IRAs made this year. Traditional IRAs include traditional SEP IRAs and traditional SIMPLE IRAs",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Enter, in column (a), distributions from Roth IRAs made this year. Roth IRAs include Roth SEP IRAs and Roth SIMPLE IRAs",
+        "type": "money"
+      },
+      {
+        "line": "5a",
+        "caption": "Enter, on line 5a, column (a), the total distributions from lines 2 through 4 in column (a) that aren\u2019t qualified disaster distributions",
+        "type": "money"
+      },
+      {
+        "line": "5b",
+        "caption": "Do (1) through (3) below in the order indicated.",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "6",
+        "caption": "Total qualified disaster distributions. Enter the amount from line 5b, column (b).",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "7",
+        "caption": "Taxable amount. Enter the excess of the sum of lines 2 through 4 in column (a) over the amount on line 6.",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "8",
+        "caption": "Did you enter an amount on line 2, column (b)?",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Enter the applicable cost of distributions, if any. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Subtract line 9 from line 8. This is the taxable amount of your other-than-IRA retirement plan qualified disaster distributions",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "11",
+        "caption": "The entire taxable amount on line 10 will be spread over 3 years unless you elect to have it taxed in this year.",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "12",
+        "caption": "Enter the amount, if any, from Worksheet 2 in the instructions. This is your income for prior years from other-than-IRA retirement plan qualified disaster distributions.",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "16",
+        "caption": "Did you enter an amount on line 3, column (b), or line 4, column (b)?",
+        "type": "checkbox"
+      },
+      {
+        "line": "17",
+        "caption": "Did you receive a qualified disaster distribution from an IRA that is required to be reported on this year\u2019s Form 8606?",
+        "type": "checkbox"
+      },
+      {
+        "line": "18",
+        "caption": "Enter the amount, if any, from this year\u2019s Form 8606, line 15b.",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "19",
+        "caption": "Enter the amount, if any, from this year\u2019s Form 8606, line 25b.",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "20",
+        "caption": "Enter the amount from line 3, column (b), if any. Don\u2019t include on line 20 any amounts reported on Form 8606",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "21",
+        "caption": "Add lines 18, 19, and 20. This is the taxable amount of your IRA qualified disaster distributions",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "22",
+        "caption": "The entire taxable amount on line 21 will be spread over 3 years unless you elect to have it taxed in this year.",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "23",
+        "caption": "Enter the amount, if any, from Worksheet 4 in the instructions. This is your income for prior years from IRA qualified disaster distributions.",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ]
+  }
+}

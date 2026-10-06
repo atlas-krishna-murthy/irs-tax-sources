@@ -1,0 +1,194 @@
+Form    1125-A                                                      Cost of Goods Sold
+(Rev. November 2024)                                                                                                                                        OMB No. 1545-0123
+                                                   Attach to Form 1120, 1120-C, 1120-F, 1120S, or 1065.
+Department of the Treasury
+Internal Revenue Service                          Go to www.irs.gov/Form1125A for the latest information.
+Name                                                                                                                                          Employer identification number
+
+
+   1     Inventory at beginning of year   .   .    .   .    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .     .   .   .   .   .         1
+   2     Purchases . . . . . .            .   .    .   .    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .     .   .   .   .   .         2
+   3     Cost of labor . . . . . . . . . . .                        .   .   .   .   .   .   .   .   .   .   .   .   .   .     .   .   .   .   .         3
+   4     Additional section 263A costs (attach schedule) .          .   .   .   .   .   .   .   .   .   .   .   .   .   .     .   .   .   .   .         4
+   5     Other costs (attach schedule) . . . . . .                  .   .   .   .   .   .   .   .   .   .   .   .   .   .     .   .   .   .   .         5
+   6     Total. Add lines 1 through 5 .   .   .    .   .    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .     .   .   .   .   .         6
+   7     Inventory at end of year . .     .   .    .   .    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .     .   .   .   .   .         7
+   8     Cost of goods sold. Subtract line 7 from line 6. Enter here and on Form 1120, page 1, line 2, or the appropriate
+         line of your tax return. See instructions . . . . . . . . . . . . . . . . . . . . . .                                                          8
+   9a    Check all methods used for valuing closing inventory. See instructions.
+          (i)     Cost
+         (ii)     Lower of cost or market
+        (iii)   Other (specify method used and attach explanation)
+         For certain small business taxpayers, alternative methods of accounting for inventories:
+        (iv)    Non-incidental materials and supplies method
+       (v)   AFS method
+      (vi)   Non-AFS method
+    b Check if there was a writedown of subnormal goods                 .   .   .   .   .   .   .   .   .   .   .   .   .     .   .   .   .   .   .     .      .    .    .
+    c    Check if the LIFO inventory method was adopted this tax year for any goods (if checked, attach Form 970) . .                             .    . .          .    .
+    d    (i) If the LIFO inventory method was used for this tax year, enter amount of closing inventory figured under LIFO                            9d(i)
+         (ii) If the LIFO inventory method was used for this tax year, enter amount of the closing LIFO Reserve . . . .                               9d(ii)
+    e    If property is produced or acquired for resale, do the rules of section 263A apply to the entity? See instructions .                     .                Yes       No
+    f    Was there any change in determining quantities, cost, or valuations between opening and closing inventory? If “Yes,”
+         attach explanation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                             Yes       No
+
+Section references are to the Internal                     If inventories are required, you generally                       Uniform capitalization rules. The uniform
+Revenue Code unless otherwise noted.                       must use an accrual method of accounting                         capitalization rules of section 263A
+                                                           for sales and purchases of inventory items.                      generally require you to capitalize, or
+What’s New                                                                                                                  include in inventory, certain costs incurred
+                                                           Exception for small business taxpayers.
+Small business taxpayers. For tax years                    A small business taxpayer can account for                        in connection with the following.
+beginning after December 31, 2023, if filing               inventory by treating the inventory as                           • The production of real property and
+Form 1125-A for a small business taxpayer                  non-incidental materials and supplies (line                      tangible personal property held in inventory
+that uses an alternative method of                         9a(iv)), or conforming to its treatment of                       or held for sale in the ordinary course of
+accounting for inventories, check the                      inventory in an applicable financial                             business.
+applicable box on line 9a(iv) through 9a(vi).              statement (as defined in section 451(b)(3))
+See the instructions for line 9.                                                                                            • Real property or personal property
+                                                           (line 9a(v)). If it does not have an applicable                  (tangible and intangible) acquired for resale.
+                                                           financial statement, a small business
+General Instructions                                       taxpayer can use the method of accounting
+                                                                                                                            • The production of real property and
+                                                                                                                            tangible personal property for use in its
+Purpose of Form                                            used in its books and records prepared
+                                                                                                                            trade or business or in an activity engaged
+                                                           according to its accounting procedures
+Use Form 1125-A to figure and deduct cost                                                                                   in for profit.
+                                                           (line 9a(vi)).
+of goods sold for certain entities.                                                                                            A small business taxpayer is not required
+                                                               See the discussion on small business
+Who Must File                                                                                                               to capitalize costs under section 263A. See
+                                                           taxpayers in the instructions for your tax
+                                                                                                                            section 263A(i).
+Filers of Form 1120, 1120-C, 1120-F,                       return. Also see sections 448(c) and 471(c).
+1120S, or 1065 must complete and attach                                                                                        See the discussion on section 263A
+                                                               For additional guidance on methods of
+Form 1125-A if the applicable entity reports                                                                                uniform capitalization rules in the
+                                                           accounting, see Pub. 538, Accounting
+a deduction for cost of goods sold.                                                                                         instructions for your tax return before
+                                                           Periods and Methods. For guidance on
+                                                                                                                            completing Form 1125-A. Also see
+                                                           changing methods of accounting, see Form
+Inventories                                                3115, Application for Change in Accounting
+                                                                                                                            Regulations sections 1.263A-1 through
+Generally, inventories are required at the                                                                                  1.263A-3. See Regulations section
+                                                           Method, and the Instructions for Form
+beginning and end of each tax year if the                                                                                   1.263A-4 for rules for property produced in
+                                                           3115.
+production, purchase, or sale of                                                                                            a farming business and Pub. 225, Farmer’s
+merchandise is an income-producing                                                                                          Tax Guide.
+factor. See Regulations section 1.471-1(a).
+
+
+
+
+For Paperwork Reduction Act Notice, see instructions.                                           Cat. No. 55988R                                   Form 1125-A (Rev. 11-2024)
+Form 1125-A (Rev. 11-2024)                                                                                                                Page 2
+
+
+Specific Instructions                             Per-unit retain allocations. A cooperative          Inventories can be valued at:
+                                                  is allowed to deduct from its taxable            • Cost,
+Line 1. Inventory at Beginning of                 income amounts paid during the payment
+                                                                                                   • Cost or market value (whichever is lower),
+Year                                              period for the tax year as per-unit retain
+                                                                                                   or
+If you are changing your method of                allocations to the extent paid in money,
+                                                  qualified per-unit retain certificates, or       • Any other method approved by the IRS
+accounting for the current tax year, you                                                           that conforms to the requirements of the
+must refigure last year’s closing inventory       other property with respect to marketing
+                                                  occurring during the tax year. A per-unit        applicable regulations cited below.
+using the new method of accounting. Enter
+the result on line 1. If there is a difference    retain allocation is any allocation from a          Under lower of cost or market, the term
+between last year’s closing inventory and         cooperative to a patron for products             “market” (for normal goods) means the
+the refigured amount, attach an                   marketed for the patron without reference        current bid price prevailing on the inventory
+explanation and take it into account when         to the cooperative net earnings. A qualified     valuation date for the particular
+figuring any section 481(a) adjustment.           per-unit retain certificate is any per-unit      merchandise in the volume usually
+                                                  retain certificate that the distributee has      purchased by the filer. For a manufacturer,
+Line 2. Purchases                                 agreed to take into account at its stated        market applies to the basic elements of
+Reduce purchases by items withdrawn for           dollar amount.                                   cost—raw materials, labor, and burden. If
+personal use. For a partnership, the cost of      Nonqualified per-unit retain certificates        section 263A applies, the basic elements of
+these items should be shown on Schedule           redeemed this year. Include the amount           cost must reflect the current bid price of all
+K and Schedule K-1 as distributions to            paid in money or other property (except          direct costs and all indirect costs properly
+partners.                                         amounts already included as per-unit retain      allocable to goods on hand at the inventory
+                                                  certificates) to patrons to redeem               date.
+Line 4. Additional Section 263A                   nonqualified per-unit retain certificates. No       Inventory may be valued below cost
+Costs                                             deduction is allowed at the time of              when the merchandise is unsalable at
+If you elected a simplified method of             issuance for a nonqualified per-unit retain      normal prices or unusable in the normal
+accounting, enter on line 4 the balance of        certificate. However, the cooperative may        way because the goods are subnormal due
+section 263A costs paid or incurred during        take a deduction in the year the certificate     to damage, imperfections, shopwear,
+the tax year not includible on lines 2, 3, and    is redeemed, subject to the stated dollar        change of style, odd or broken lots, or
+5.                                                amount of the certificate. See section 1383.     other similar causes, including second-
+   If you elected the simplified production       Also see the instructions for Form 1120-C,       hand goods taken in exchange. The goods
+method or the modified simplified                 line 30h, for a special rule for figuring the    may be valued at the bona fide selling
+production method, additional section             cooperative’s tax in the year of redemption      price, minus the direct cost of disposition
+263A costs are generally those costs, other       of a nonqualified per-unit retain certificate.   (but not less than scrap value). Bona fide
+than interest, that are not included in your                                                       selling price means actual offering of
+                                                  Line 7. Inventory at End of Year                 goods during a period ending not later than
+section 471 costs but that are required to
+                                                  See Regulations sections 1.263A-1 through        30 days after inventory date.
+be capitalized under section 263A. For
+                                                  1.263A-3 for details on figuring the amount         The methods on line 9a are methods of
+details, see Regulations section
+                                                  of additional section 263A costs to be           accounting. Any method, once established,
+1.263A-2(b).
+                                                  included in ending inventory.                    cannot be changed in a later year without
+   If you elected the simplified resale
+method, additional section 263A costs are         Line 8. Cost of Goods Sold                       requesting a change in accounting method.
+generally those costs incurred with respect                                                        See the Instructions for Form 3115 for
+                                                  Enter the amount from line 8 on your tax
+to the following categories.                                                                       more information on requesting accounting
+                                                  return as follows. Filers of Form 1120,
+                                                                                                   method changes.
+• Off-site storage or warehousing.                1120-C, 1120S, and 1065, enter cost of
+                                                  goods sold on page 1, line 2. Filers of Form     Lines 9c and 9d. LIFO method. If this is
+• Purchasing.                                                                                      the first year the last-in, first-out (LIFO)
+                                                  1120-F, enter cost of goods sold on
+• Handling, such as processing,                   Section II, line 2.                              inventory method was either adopted or
+assembling, repackaging, and transporting.                                                         extended to inventory goods not previously
+• General and administrative costs (mixed         Line 9. Inventory Valuation                      valued under the LIFO method provided in
+service costs).                                   Methods                                          section 472, attach Form 970, Application
+                                                  Complete line 9 as follows.                      To Use LIFO Inventory Method, or a
+Line 5. Other Costs                                                                                statement with the information required by
+                                                  Line 9a. Inventory methods. Check all            Form 970. Check the LIFO box on line 9c.
+Enter on line 5 any costs paid or incurred
+                                                  applicable boxes on lines 9a(i) through          On line 9d(i), enter the amount of total
+during the tax year not entered on lines 2
+                                                  9a(iii) to indicate how the value of an          closing inventories figured under section
+through 4. Attach a statement listing details
+                                                  inventory item is figured.                       472.
+of the costs.
+                                                    For certain small business taxpayers that         If you changed or extended your
+Special Rules for Cooperatives                    have adopted or changed to an alternative        inventory method to LIFO and had to write
+Cooperatives are allowed to deduct certain        accounting method that is an exception to        up the opening inventory to cost in the year
+per-unit retain allocations. Include these        the general inventory requirements               of election, report the effect of the write-up
+costs on line 5. Attach a statement listing       described above, check a box on lines            as other income, on your applicable return,
+details of per-unit retain allocations paid in:   9a(iv) through 9a(vi) in lieu of checking an     proportionately over a 3-year period that
+• Qualified per-unit retain certificates,         applicable box on lines 9a(i) through 9a(iii).   begins with the year of the LIFO election.
+• Money or other property (except                   See Regulations sections 1.471-1(b)(3)            On line 9d(ii), enter the closing LIFO
+nonqualified per-unit certificates), and          through (6) and your accounting                  Reserve. The closing LIFO Reserve is
+                                                  procedures.                                      figured by subtracting the LIFO value of the
+• Nonqualified per-unit retain certificates
+redeemed this year.                                                                                inventory subject to a LIFO method that is
+                                                                                                   on hand at the end of the tax year from the
+                                                                                                   first-in, first-out (FIFO) value of that
+                                                                                                   inventory. If the closing LIFO Reserve
+                                                                                                   amount is negative, place the amount on
+                                                                                                   line 9d(ii) in parentheses.
+Form 1125-A (Rev. 11-2024)                                                                                                           Page 3
+
+Note: Entities using the LIFO method that       States. You are required to give us the           The time needed to complete and file
+make an S corporation election or transfer      information. We need it to ensure that you     this form will vary depending on individual
+LIFO inventory to an S corporation in a         are complying with these laws and to allow     circumstances. The estimated burden for
+nonrecognition transaction may be subject       us to figure and collect the right amount of   business taxpayers filing this form is
+to an additional tax attributable to the LIFO   tax.                                           approved under OMB control number
+recapture amount. See the instructions for         You are not required to provide the         1545-0123 and is included in the estimates
+Form 1120, Schedule J, line 11, or the          information requested on a form that is        shown in the instructions for their business
+applicable line on your tax return.             subject to the Paperwork Reduction Act         income tax return.
+Line 9e. If property is produced or             unless the form displays a valid OMB              If you have comments concerning the
+acquired for resale and the rules of section    control number. Books or records relating      accuracy of these time estimates or
+263A apply to the corporation, cooperative,     to a form or its instructions must be          suggestions for making this form simpler,
+partnership, or other applicable entity,        retained as long as their contents may         we would be happy to hear from you. See
+check the “Yes” box on line 9e.                 become material in the administration of       the instructions for the tax return with
+                                                any Internal Revenue law. Generally, tax       which this form is filed.
+Paperwork Reduction Act Notice. We              returns and return information are
+ask for the information on this form to carry   confidential, as required by section 6103.
+out the Internal Revenue laws of the United
+

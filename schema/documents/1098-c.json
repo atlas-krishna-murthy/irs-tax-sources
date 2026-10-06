@@ -1,0 +1,169 @@
+{
+  "document": {
+    "id": "1098-C",
+    "title": "Contributions of Motor Vehicles, Boats, and Airplanes",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1098-C (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1098c--2025.pdf",
+    "issued_by": "the donee charitable organization",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Date of contribution",
+        "type": "date"
+      },
+      {
+        "box": "2a",
+        "label": "Odometer mileage",
+        "type": "count"
+      },
+      {
+        "box": "2b",
+        "label": "Year",
+        "type": "text"
+      },
+      {
+        "box": "2c",
+        "label": "Make",
+        "type": "text"
+      },
+      {
+        "box": "2d",
+        "label": "Model",
+        "type": "text"
+      },
+      {
+        "box": "3",
+        "label": "Vehicle or other identification number",
+        "type": "text"
+      },
+      {
+        "box": "4a",
+        "label": "Donee certifies that vehicle was sold in arm's length transaction to unrelated party",
+        "type": "checkbox"
+      },
+      {
+        "box": "4b",
+        "label": "Date of sale",
+        "type": "date"
+      },
+      {
+        "box": "4c",
+        "label": "Gross proceeds from sale (see instructions)",
+        "type": "money"
+      },
+      {
+        "box": "5a",
+        "label": "Donee certifies that vehicle will not be transferred for money, other property, or services before completion of material improvements or significant intervening use",
+        "type": "checkbox"
+      },
+      {
+        "box": "5b",
+        "label": "Donee certifies that vehicle is to be transferred to a needy individual for significantly below fair market value in furtherance of donee's charitable purpose",
+        "type": "checkbox"
+      },
+      {
+        "box": "5c",
+        "label": "Donee certifies the following detailed description of material improvements or significant intervening use and duration of use",
+        "type": "text"
+      },
+      {
+        "box": "6a",
+        "label": "Did you provide goods or services in exchange for the vehicle?",
+        "type": "code",
+        "codes": [
+          {
+            "code": "yes",
+            "label": "Yes"
+          },
+          {
+            "code": "no",
+            "label": "No"
+          }
+        ],
+        "note": "Printed as a Yes / No pair of boxes, so the answer is which one is ticked - one of two codes, never a single tick whose absence means No."
+      },
+      {
+        "box": "6b",
+        "label": "Value of goods and services provided in exchange for the vehicle",
+        "type": "money"
+      },
+      {
+        "box": "6c",
+        "label": "Describe the goods and services, if any, that were provided. If this box is checked, donee certifies that the goods and services consisted solely of intangible religious benefits",
+        "type": "text"
+      },
+      {
+        "box": "7",
+        "label": "Under the law, the donor may not claim a deduction of more than $500 for this vehicle if this box is checked",
+        "type": "checkbox"
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "note": "A corrected form REPLACES the one it corrects for the same account: the two are never both counted. Which copy stands is a person's call, made by reading the two side by side."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "note": "Printed on Copy A (the IRS's copy) only; a recipient's copy carries no VOID box. Declared so a Copy A that reaches the packet is recognised for what it is - a form that reports nothing."
+      },
+      {
+        "box": "6c-intangible-religious-benefits",
+        "label": "If this box is checked, donee certifies that the goods and services consisted solely of intangible religious benefits",
+        "type": "checkbox",
+        "note": "The checkbox at the end of box 6c; the description itself stays box 6c (text)."
+      },
+      {
+        "box": "donor-tin",
+        "label": "DONOR'S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "donor-name",
+        "label": "DONOR'S name",
+        "type": "text"
+      }
+    ],
+    "notes": "The deductible amount is NOT the vehicle's fair market value whenever box 4a is certified - it is box 4c, the gross proceeds the charity actually got on sale. Where 5a or 5b is certified instead (the charity will use or materially improve the vehicle, or give it to a needy individual) fair market value applies and box 4c is absent. Box 7 caps the deduction at $500 outright. Reading box 4c as if it were always the deduction, or substituting FMV when 4a is checked, are the two ways this document is misread."
+  },
+  "extraction": {
+    "model": "custom.1098-C",
+    "note": "Azure ships no prebuilt-tax model for this form, so it reached the generic reader \u2014 which emits no field bearing these box names, so every cited route out of this document was dead while looking implemented (spec 075 US1/W42). Read by the declared custom model over the boxes this document declares. ",
+    "custom": {
+      "reads": "a Form 1098-C, Contributions of Motor Vehicles, Boats, and Airplanes, and the donee's acknowledgement printed with it.",
+      "sections": [
+        {
+          "document": "1098-C",
+          "boxes": [
+            "corrected",
+            "void",
+            "donor-name",
+            "donor-tin",
+            "1",
+            "2a",
+            "2b",
+            "2c",
+            "2d",
+            "3",
+            "4a",
+            "4b",
+            "4c",
+            "5a",
+            "5b",
+            "5c",
+            "6a",
+            "6b",
+            "6c",
+            "6c-intangible-religious-benefits",
+            "7"
+          ]
+        }
+      ]
+    }
+  }
+}

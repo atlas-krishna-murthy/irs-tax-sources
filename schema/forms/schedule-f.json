@@ -1,0 +1,398 @@
+{
+  "form": {
+    "id": "schedule-f",
+    "form": "Schedule F (Form 1040)",
+    "title": "Profit or Loss From Farming",
+    "kind": "schedule",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040sf--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1040sf",
+    "lines": [
+      {
+        "line": "A",
+        "caption": "Principal crop or activity",
+        "type": "text"
+      },
+      {
+        "line": "B",
+        "caption": "Enter code from Part IV",
+        "type": "code"
+      },
+      {
+        "line": "C",
+        "caption": "Accounting method: Cash / Accrual",
+        "type": "checkbox"
+      },
+      {
+        "line": "D",
+        "caption": "Employer ID number (EIN) (see instr.)",
+        "type": "tin"
+      },
+      {
+        "line": "E",
+        "caption": "Did you \u201cmaterially participate\u201d in the operation of this business during 2025? If \u201cNo,\u201d see instructions for limit on passive losses",
+        "type": "checkbox"
+      },
+      {
+        "line": "F",
+        "caption": "Did you make any payments in 2025 that would require you to file Form(s) 1099? See instructions",
+        "type": "checkbox"
+      },
+      {
+        "line": "G",
+        "caption": "If \u201cYes,\u201d did you or will you file required Form(s) 1099?",
+        "type": "checkbox"
+      },
+      {
+        "line": "1a",
+        "caption": "Sales of purchased livestock and other resale items (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "1b",
+        "caption": "Cost or other basis of purchased livestock or other items reported on line 1a",
+        "type": "money"
+      },
+      {
+        "line": "1c",
+        "caption": "Subtract line 1b from line 1a",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Sales of livestock, produce, grains, and other products you raised",
+        "type": "money"
+      },
+      {
+        "line": "3a",
+        "caption": "Cooperative distributions (Form(s) 1099-PATR)",
+        "type": "money"
+      },
+      {
+        "line": "3b",
+        "caption": "Cooperative distributions (Form(s) 1099-PATR): Taxable amount",
+        "type": "money"
+      },
+      {
+        "line": "4a",
+        "caption": "Agricultural program payments (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "4b",
+        "caption": "Agricultural program payments (see instructions): Taxable amount",
+        "type": "money"
+      },
+      {
+        "line": "5a",
+        "caption": "Commodity Credit Corporation (CCC) loans reported under election",
+        "type": "money"
+      },
+      {
+        "line": "5b",
+        "caption": "CCC loans forfeited",
+        "type": "money"
+      },
+      {
+        "line": "5c",
+        "caption": "CCC loans forfeited: Taxable amount",
+        "type": "money"
+      },
+      {
+        "line": "6a",
+        "caption": "Crop insurance proceeds and federal crop disaster payments (see instructions): Amount received in 2025",
+        "type": "money"
+      },
+      {
+        "line": "6b",
+        "caption": "Crop insurance proceeds and federal crop disaster payments (see instructions): Taxable amount",
+        "type": "money"
+      },
+      {
+        "line": "6c",
+        "caption": "If election to defer to 2026 is attached, check here",
+        "type": "checkbox"
+      },
+      {
+        "line": "6d",
+        "caption": "Amount deferred from 2024",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Custom hire (machine work) income",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Other income, including federal and state gasoline or fuel tax credit or refund (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Gross income. Add amounts in the right column (lines 1c, 2, 3b, 4b, 5a, 5c, 6b, 6d, 7, and 8). If you use the accrual method, enter the amount from Part III, line 50. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Car and truck expenses (see instructions). Also attach Form 4562",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Chemicals",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Conservation expenses (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Custom hire (machine work)",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Depreciation and section 179 expense (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Employee benefit programs other than on line 23",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Feed",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Fertilizers and lime",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "Freight and trucking",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "Gasoline, fuel, and oil",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Insurance (other than health)",
+        "type": "money"
+      },
+      {
+        "line": "21a",
+        "caption": "Interest (see instructions): Mortgage (paid to banks, etc.)",
+        "type": "money"
+      },
+      {
+        "line": "21b",
+        "caption": "Interest (see instructions): Other",
+        "type": "money"
+      },
+      {
+        "line": "22",
+        "caption": "Labor hired (less employment credits)",
+        "type": "money"
+      },
+      {
+        "line": "23",
+        "caption": "Pension and profit-sharing plans",
+        "type": "money"
+      },
+      {
+        "line": "24a",
+        "caption": "Rent or lease (see instructions): Vehicles, machinery, equipment",
+        "type": "money"
+      },
+      {
+        "line": "24b",
+        "caption": "Rent or lease (see instructions): Other (land, animals, etc.)",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Repairs and maintenance",
+        "type": "money"
+      },
+      {
+        "line": "26",
+        "caption": "Seeds and plants",
+        "type": "money"
+      },
+      {
+        "line": "27",
+        "caption": "Storage and warehousing",
+        "type": "money"
+      },
+      {
+        "line": "28",
+        "caption": "Supplies",
+        "type": "money"
+      },
+      {
+        "line": "29",
+        "caption": "Taxes",
+        "type": "money"
+      },
+      {
+        "line": "30",
+        "caption": "Utilities",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Veterinary, breeding, and medicine",
+        "type": "money"
+      },
+      {
+        "line": "32a",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "32b",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "32c",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "32d",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "32e",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "32f",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "33",
+        "caption": "Total expenses. Add lines 10 through 32f. If line 32f is negative, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "34",
+        "caption": "Net farm profit or (loss). Subtract line 33 from line 9. If a profit, stop here and see instructions for where to report. If a loss, complete line 36.",
+        "type": "money"
+      },
+      {
+        "line": "35",
+        "caption": "Reserved for future use",
+        "type": "text"
+      },
+      {
+        "line": "36",
+        "caption": "Check the box that describes your investment in this activity and see instructions for where to report your loss: a All investment is at risk. b Some investment is not at risk.",
+        "type": "checkbox"
+      },
+      {
+        "line": "37",
+        "caption": "Sales of livestock, produce, grains, and other products (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "38a",
+        "caption": "Cooperative distributions (Form(s) 1099-PATR)",
+        "type": "money"
+      },
+      {
+        "line": "38b",
+        "caption": "Cooperative distributions (Form(s) 1099-PATR): Taxable amount",
+        "type": "money"
+      },
+      {
+        "line": "39a",
+        "caption": "Agricultural program payments",
+        "type": "money"
+      },
+      {
+        "line": "39b",
+        "caption": "Agricultural program payments: Taxable amount",
+        "type": "money"
+      },
+      {
+        "line": "40a",
+        "caption": "Commodity Credit Corporation (CCC) loans: CCC loans reported under election",
+        "type": "money"
+      },
+      {
+        "line": "40b",
+        "caption": "Commodity Credit Corporation (CCC) loans: CCC loans forfeited",
+        "type": "money"
+      },
+      {
+        "line": "40c",
+        "caption": "Commodity Credit Corporation (CCC) loans: Taxable amount",
+        "type": "money"
+      },
+      {
+        "line": "41",
+        "caption": "Crop insurance proceeds",
+        "type": "money"
+      },
+      {
+        "line": "42",
+        "caption": "Custom hire (machine work) income",
+        "type": "money"
+      },
+      {
+        "line": "43",
+        "caption": "Other income (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "44",
+        "caption": "Add amounts in the right column for lines 37 through 43 (lines 37, 38b, 39b, 40a, 40c, 41, 42, and 43)",
+        "type": "money"
+      },
+      {
+        "line": "45",
+        "caption": "Inventory of livestock, produce, grains, and other products at beginning of the year. Do not include sales reported on Form 4797",
+        "type": "money"
+      },
+      {
+        "line": "46",
+        "caption": "Cost of livestock, produce, grains, and other products purchased during the year",
+        "type": "money"
+      },
+      {
+        "line": "47",
+        "caption": "Add lines 45 and 46",
+        "type": "money"
+      },
+      {
+        "line": "48",
+        "caption": "Inventory of livestock, produce, grains, and other products at end of year",
+        "type": "money"
+      },
+      {
+        "line": "49",
+        "caption": "Cost of livestock, produce, grains, and other products sold. Subtract line 48 from line 47*",
+        "type": "money"
+      },
+      {
+        "line": "50",
+        "caption": "Gross income. Subtract line 49 from line 44. Enter the result here and on Part I, line 9",
+        "type": "money"
+      }
+    ]
+  }
+}

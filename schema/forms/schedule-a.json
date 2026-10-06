@@ -1,0 +1,194 @@
+{
+  "form": {
+    "id": "schedule-a",
+    "form": "Schedule A (Form 1040)",
+    "title": "Itemized Deductions",
+    "kind": "schedule",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040sa--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Medical and dental expenses (see instructions)",
+        "type": "money",
+        "rules": [
+          "a-med-floor"
+        ]
+      },
+      {
+        "line": "2",
+        "caption": "Enter amount from Form 1040 or 1040-SR, line 11b",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Multiply line 2 by 7.5% (0.075)",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Subtract line 3 from line 1. If line 3 is more than line 1, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "State and local taxes (SALT).",
+        "type": "text"
+      },
+      {
+        "line": "5a",
+        "caption": "State and local income taxes or general sales taxes. You may include either income taxes or general sales taxes on line 5a, but not both. If you elect to include general sales taxes instead of income taxes, check this box",
+        "type": "money",
+        "rules": [
+          "a-salt-cap"
+        ]
+      },
+      {
+        "line": "5b",
+        "caption": "State and local real estate taxes (see instructions)",
+        "type": "money",
+        "sources": {
+          "grain": "schedule",
+          "parts_are": "same_payment",
+          "check": "none",
+          "on_check_fail": "hold",
+          "without_whole": "sum_parts",
+          "citation": {
+            "form": "Schedule A (Form 1040)",
+            "line": "5b",
+            "revision": "2025",
+            "wording": "State and local real estate taxes",
+            "source_url": "https://www.irs.gov/pub/irs-prior/f1040sa--2025.pdf"
+          },
+          "note": "THE ONE LINE WITH NO CHECK, AND THE ONLY ONE WITH NO WHOLE. A lender's escrowed real estate tax (Form 1098 box 10) and the county's own bill are ONE PAYMENT reported on two kinds of paper \u2014 and the two amounts NEED NOT AGREE: the lender reports what it disbursed in the calendar year, the county bills an instalment year, and a taxpayer may have paid one bill direct and escrowed another. So nothing can check them and nothing may strike one out. Both are marked, both are counted as the documents state them, and a person settles it. Report, never repair.\n\n`grain: schedule` because this line is the RETURN's, not an activity's: the residence has no Schedule E column to sit in, and the rental half of the same 1098 forks to Schedule E 16, which does have an activity and does have a check."
+        },
+        "rules": [
+          "a-salt-cap"
+        ]
+      },
+      {
+        "line": "5c",
+        "caption": "State and local personal property taxes",
+        "type": "money",
+        "rules": [
+          "a-salt-cap"
+        ]
+      },
+      {
+        "line": "5d",
+        "caption": "Add lines 5a through 5c",
+        "type": "money"
+      },
+      {
+        "line": "5e",
+        "caption": "Enter the smaller of line 5d or $40,000 ($20,000 if married filing separately). If Form 1040 or 1040-SR, line 11b is more than $500,000 ($250,000 if married filing separately), or if you completed Form 2555, Form 4563, or excluded income from Puerto Rico, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Other taxes. List type and amount:",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Add lines 5e and 6",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Home mortgage interest and points. If you didn't use all of your home mortgage loan(s) to buy, build, or improve your home, see instructions and check this box",
+        "type": "checkbox"
+      },
+      {
+        "line": "8a",
+        "caption": "Home mortgage interest and points reported to you on Form 1098. See instructions if limited",
+        "type": "money"
+      },
+      {
+        "line": "8b",
+        "caption": "Home mortgage interest not reported to you on Form 1098. See instructions if limited. If paid to the person from whom you bought the home, see instructions and show that person's name, identifying no., and address",
+        "type": "money"
+      },
+      {
+        "line": "8c",
+        "caption": "Points not reported to you on Form 1098. See instructions for special rules",
+        "type": "money"
+      },
+      {
+        "line": "8d",
+        "caption": "Reserved for future use",
+        "type": "money"
+      },
+      {
+        "line": "8e",
+        "caption": "Add lines 8a through 8c",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Investment interest. Attach Form 4952 if required. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Add lines 8e and 9",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Gifts by cash or check. If you made any gift of $250 or more, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Other than by cash or check. If you made any gift of $250 or more, see instructions. You must attach Form 8283 if over $500",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Carryover from prior year",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "14",
+        "caption": "Add lines 11 through 13",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Casualty and theft loss(es) from a federally declared disaster (other than net qualified disaster losses). Attach Form 4684 and enter the amount from line 18 of that form. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Other\u2014from list in instructions. List type and amount:",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Add the amounts in the far right column for lines 4 through 16. Also, enter this amount on Form 1040 or 1040-SR, line 12e",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "If you elect to itemize deductions even though they are less than your standard deduction, check this box",
+        "type": "checkbox"
+      },
+      {
+        "line": "5a-sales-tax-election",
+        "caption": "If you elect to include general sales taxes instead of income taxes, check this box",
+        "type": "checkbox",
+        "notes": "The election printed inside line 5a; it decides whether 5a holds income taxes or general sales taxes, never both."
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "07",
+        "because": "the Attachment Sequence No. printed in the form header, not a line"
+      }
+    ],
+    "revision_printed_as": "Schedule A (Form 1040) 2025 Created 11/20/25"
+  }
+}

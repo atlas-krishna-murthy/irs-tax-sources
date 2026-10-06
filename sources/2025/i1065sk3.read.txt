@@ -1,0 +1,2863 @@
+2025
+
+Partner’s Instructions for
+Schedule K-3 (Form 1065)
+Partner’s Share of Income, Deductions, Credits, etc.—International (For Partner’s
+Use Only)
+Section references are to the Internal Revenue Code unless
+otherwise noted.
+
+Future Developments
+For the latest information about developments related to
+Schedule K-3 (Form 1065) and its instructions, such as
+legislation enacted after they were published, go to IRS.gov/
+Form1065.
+
+What’s New
+Schedule K-3, Part IV, Section 1. The One Big Beautiful Bill
+Act (P.L. 119-21) amended section 250 in part by adding to the
+list of gross income items that are excluded in determining
+deduction eligible income (DEI). The added exclusion relates to
+income and gain from the sale or other disposition of intangible
+property (as defined in section 367(d)(4)), and any other
+property of a type that is subject to depreciation, amortization, or
+depletion by the seller. These amendments apply to sales or
+other dispositions occurring after June 16, 2025.
+Schedule K-3, Part X, Section 1. Lines 15 and 16 have been
+revised to allow partnerships to specify other types of gain and
+amounts. Lines 19 and 20 have been revised to allow
+partnerships to specify other types of income and amounts.
+
+General Instructions
+The Partner’s Instructions for Schedule K-1 (Form 1065)
+generally apply to Schedule K-3, including Inconsistent
+Treatment of Items and Errors. These instructions provide
+additional information specific to Schedule K-3 for tax years
+beginning in 2025.
+
+Purpose of Schedule K-3
+
+Schedule K-3 (Form 1065) reports items of international tax
+relevance from the operation of a partnership. You must include
+this information on your tax or information returns, if applicable.
+See separate parts for specific instructions. You only need to use
+the schedules that are applicable to you. For example, in
+general, if the partner receiving Schedule K-3 is a domestic
+corporation, the partnership wouldn’t have completed and filed
+Part X, Foreign Partner’s Character and Source of Income and
+Deductions, because that part is inapplicable to domestic
+corporation partners. If the partner receiving Schedule K-3 is
+itself a partnership, it’ll use information from Schedule K-3 to
+complete Schedules K-3 to report to its partners.
+The proper treatment of certain items by the partner is
+dependent on information that the partnership may not have;
+thus, the partnership may have reported certain information on
+Schedule K-3 based on assumptions that are incorrect. In such
+cases, the partner must treat the items according to the partner’s
+actual facts, and if appropriate file a Form 8082, Notice of
+Inconsistent Treatment or Administrative Adjustment Request
+(AAR), to identify and explain the inconsistency.
+Dec 10, 2025
+
+Domestic partnerships with no or limited foreign activity. A
+partnership with no foreign source income, no assets generating
+foreign source income, and no foreign taxes paid or accrued may
+be reporting information to partners on Schedules K-3. For
+example, if you claim a credit for foreign taxes paid and/or
+accrued separately from your partnership interest, you may need
+certain information from the partnership to complete Form 1116,
+Foreign Tax Credit; or Form 1118, Foreign Tax
+Credit—Corporations. Also, if you’re a domestic corporation, a
+domestic partnership may be required to complete Part IX when
+the partnership makes certain deductible payments to foreign
+parties related to you. The information reported in Part IX will
+assist you as a domestic corporation in determining the amount
+of base erosion payments made through the partnership, and in
+determining if you’re subject to the base erosion and anti-abuse
+tax (BEAT). See also Part IV concerning foreign-derived
+intangible income (FDII) for when a domestic partnership with
+solely domestic activity may be reporting information to you, Part
+XI for when a domestic or foreign publicly traded partnership
+(PTP) as defined in section 7704(b) with no foreign activity may
+be reporting information to you, and Part XII if you’re a partner in
+a qualified derivatives dealer (QDD) partnership (as defined in
+the Part XII instructions).
+Example 1—Part IX required to determine base erosion
+payments. Foreign corporation wholly owns DC, a domestic
+corporation, and FC, a foreign corporation. DC satisfies the
+gross receipts test; see Regulations section 1.59A-2(d). In Year
+1, DC owns a 50% interest in domestic partnership USP. An
+unrelated domestic corporation owns the remaining 50% interest
+in USP. DC’s investment in USP doesn’t qualify for the small
+partner exception defined in Regulations section 1.59A-7(d)(2).
+In Year 1, USP pays FC $100 for services. The services aren’t
+eligible for the services cost method exception; see Regulations
+section 1.59A-3(b)(3)(i). DC’s distributive share of the $100
+payment to FC is $50. For purposes of determining whether a
+payment or accrual by a partnership is a base erosion payment,
+any amount paid or accrued by USP is treated as paid or
+accrued by each partner based on the partner’s distributive
+share of the item of deduction with respect to that amount; see
+Regulations section 1.59A-7(d)(2). Therefore, DC is treated as
+having paid $50 to FC. DC must complete Form 8991, Tax on
+Base Erosion Payments of Taxpayers With Substantial Gross
+Receipts, to compute its base erosion minimum tax amount (if
+any); therefore, DC receives Part IX of Schedule K-3 (Form
+1065) from USP.
+
+How To Use Schedule K-3
+Reporting currency. All amounts are reported in U.S. dollars
+except where otherwise specified.
+References to other forms. References in these instructions to
+Form 1040, U.S. Individual Income Tax Return, are intended, if
+applicable, to include Form 1040-SR, U.S. Income Tax Return for
+Seniors, as well as other tax returns for noncorporate partners
+such as Form 1041, U.S. Income Tax Return for Estates and
+Trusts. Similarly, references to Form 1120, U.S. Corporation
+
+Instructions for Schedule K-3 (Form 1065) (2025) Catalog Number 74716D
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+Income Tax Return, are intended, if applicable, to apply to other
+forms in the 1120 series. References to forms which have been
+replaced are intended, if applicable, to include the replacement
+forms.
+Uses of the parts of Schedule K-3, in general. The following
+are brief descriptions of each part of Schedule K-3. Detailed
+information is provided later in the Specific Instructions.
+Part I. Part I is used to determine any international tax items
+not reported elsewhere on Schedule K-3 (Form 1065).
+Part II. Part II is used to determine your distributive share of
+partnership income and loss by source and separate category of
+income for purposes of the foreign tax credit limitation. Partners
+will use the information to claim and figure a foreign tax credit on
+Form 1116 or 1118.
+Part III. Part III is used to determine the allocation and
+apportionment of research and experimental (R&E) expenses,
+interest expense, and the FDII deduction for purposes of the
+foreign tax credit limitation. Also use this part to determine your
+distributive share of the partnership’s creditable foreign taxes
+paid or accrued, and to determine income adjustments under
+section 743(b) by source and separate category. Partners use
+the information to figure and claim a foreign tax credit on Form
+1116 or 1118.
+Part IV. Part IV is used to determine your deduction with
+respect to FDII. Partners use the information to claim and figure
+a section 250 deduction with respect to FDII on Form 8993,
+Section 250 Deduction for Foreign-Derived Intangible Income
+(FDII) and Global Intangible Low-Taxed Income (GILTI).
+Part V. Part V is used, along with other information known to
+you, such as from Schedule P (Form 5471), Previously Taxed
+Earnings and Profits of U.S. Shareholders of Certain Foreign
+Corporations, to determine your share of distributions by foreign
+corporations to the partnership that are attributable to previously
+taxed earnings and profits (PTEP) in your annual PTEP accounts
+with respect to the foreign corporations (which are excludable
+from your gross income) or non-previously taxed earnings and
+profits (E&P), and the amount of foreign currency gain or loss on
+the PTEP that you’re required to recognize under section 986(c).
+Use the information to figure and report the dividends and
+foreign currency gain or loss on Forms 1040 and 1120.
+Part VI. Part VI is used to determine your income inclusions
+under sections 951(a) and 951A if you’re a U.S. shareholder of
+any of the listed controlled foreign corporations (CFCs). Partners
+use the information to complete Form 8992, U.S. Shareholder
+Calculation of Global Intangible Low-Taxed Income, and Forms
+1040 and 1120 with respect to subpart F income inclusions,
+section 951(a)(1)(B) inclusions, and section 951A inclusions.
+Part VII. Part VII is used to complete Form 8621, Information
+Return by a Shareholder of a Passive Foreign Investment
+Company or Qualified Electing Fund, and to provide information
+required to determine your inclusion with respect to the passive
+foreign investment company (PFIC).
+Part VIII. Part VIII is used to determine your deemed paid
+taxes on inclusions under section 951A, 951(a)(1), or 1293(f).
+Domestic corporate partners and partners making a section 962
+election use the information to figure a deemed paid foreign tax
+credit on Form 1118.
+Part IX. Part IX is used to figure the BEAT. Corporate partners
+use the information to complete Form 8991.
+Part X. Part X is used to provide information to a foreign
+partner (or a pass-through entity partner with a foreign owner) to
+determine its tax liability or reporting requirements with respect
+to income effectively connected with a U.S. trade or business
+(ECI) or with respect to fixed, determinable, annual, or periodical
+(FDAP) income. Partners use the information to figure and report
+any U.S. tax liability on Form 1040-NR, U.S. Nonresident Alien
+Income Tax Return; Form 1120-F, U.S. Income Tax Return of a
+Foreign Corporation; or other applicable forms.
+2
+
+Part XI. Certain partners that have entered into section
+871(m) transactions referencing units in the partnership will use
+any information reported in this part to determine their U.S.
+withholding tax and reporting obligations with respect to those
+transactions under section 871(m) and related rules, including
+for purposes of determining the amounts to report on Form 1042,
+Annual Withholding Tax Return for U.S. Source Income of
+Foreign Persons; and Form 1042-S, Foreign Person’s U.S.
+Source Income Subject to Withholding.
+Part XII. Partners of QDD partnerships may use this
+information to determine their U.S. tax liability or U.S. withholding
+tax obligations and to figure and report any U.S. tax liability on
+Form 1042-S.
+Part XIII. Use this information as follows.
+• If you’re a nonresident alien individual, foreign trust, or
+foreign estate, complete Schedule P (Form 1040-NR),
+Foreign Partner’s Interests in Certain Partnerships
+Transferred During Tax Year.
+• If you’re a foreign corporation, complete Schedule P (Form
+1120-F), List of Foreign Partner’s Interests in Partnerships,
+Parts IV and V.
+• If you’re a foreign partnership, complete Form 4797, Sales of
+Business Property; and Form 8949, Sales and Other
+Dispositions of Capital Assets, as needed.
+• If this is an installment sale, see Form 6252, Installment Sale
+Income.
+
+Specific Instructions
+Schedule K-3 Identifying Information
+Item E—Part applicability. The partnership answered “Yes” to
+indicate the applicable parts of Schedule K-3. The partnership
+answered “No” to indicate the inapplicable parts of
+Schedule K-3.
+
+Part I. Partner’s Share of
+Partnership’s Other Current Year
+International Information
+
+This part reports your information for international tax items not
+reported elsewhere on Schedule K-3.
+
+Box 1. Gain on personal property sale. In general, income
+from the sale of personal property is sourced according to the
+residence of the seller; see section 865(a). If the partnership
+sells nondepreciable personal property (other than inventory and
+certain intangible property), you, the partner, are treated as the
+seller. Therefore, you’ll need to determine the source of the gain
+reported in column (f) of Part II, line 1. In general, if you’re a U.S.
+citizen or resident alien individual, the gain is U.S. source.
+However, as outlined in section 865(g), a U.S. citizen or resident
+alien individual with a tax home as defined in section 911(d)(3) in
+a foreign country is treated as a nonresident if an income tax of
+at least 10% is imposed by and paid to a foreign country
+regarding such sale; see section 865(g)(2). See also sections
+865(e)(1) and 865(h) for other sourcing provisions for which the
+information provided in box 1 may be helpful. See section 865 for
+exceptions to the general sourcing rule.
+If the partnership checked box 1 in Part I, use the information
+attached to Schedule K-3 to determine if a foreign country
+imposed a tax of at least 10% or more on the gain from each
+sale. If so, and you have a tax home in a foreign country, such
+gain is foreign source income and reported on Form 1116. For
+more information, see the instructions for column (f) of Part II,
+later.
+Box 2. Foreign oil and gas taxes. A separate foreign tax credit
+limitation is applied to foreign oil and gas taxes. See section
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+907(a) and Regulations section 1.907(a)-1 for details. If the
+partnership had such taxes, it checked box 2 and attached a
+partially completed Schedule I (Form 1118), Reduction of
+Foreign Oil and Gas Taxes, to Schedule K-3. If you’re a
+corporation, use the partially completed Schedule I to complete
+your Schedule I (Form 1118). If you’re an individual, estate, or
+trust, see Form 1116, Part III, line 12, and the associated
+instructions for the applicable reduction for individuals.
+
+example, by way of a subpart F or GILTI inclusion with respect to
+related income.
+
+Box 3. Splitter arrangements. Foreign income taxes with
+respect to a foreign tax credit splitting event are suspended until
+the related income is taken into account by the taxpayer; see
+section 909. There is a foreign tax credit splitting event with
+respect to foreign income taxes of a payor if in connection with a
+splitter arrangement, as defined in Regulations section
+1.909-2(b), the income was, is, or will be taken into account by a
+covered person; see Regulations section 1.909-2(a). A covered
+person, as defined in Regulations section 1.909-1(a)(4),
+includes, for example, any entity in which the payor holds,
+directly or indirectly, at least a 10% ownership interest
+(determined by vote or value). A payor, as defined in Regulations
+section 1.909-1(a)(3), includes, for example, a person that takes
+foreign income taxes paid or accrued by a partnership into
+account pursuant to section 702(a)(6).
+If the partnership checked box 3 in Part I, it attached a
+statement that separately identifies any arrangement, along with
+your share of the taxes paid or accrued in connection with the
+arrangement in which the partnership participates that would
+qualify as a splitter arrangement under section 909. The box
+should be checked only if the partnership knows or has reason
+to know an entity that took into account related income from the
+arrangement is a covered person with respect to one or more
+partners. For example, you’re a payor of a foreign income tax if
+you take into account the foreign income taxes paid or accrued
+by the partnership under section 702(a)(6). If the partnership
+wholly owns a reverse hybrid (as defined in Regulations section
+1.909-2(b)(1)(iv)) and you own 10% or more (determined by vote
+or value) of the interest in the partnership, the reverse hybrid is a
+covered person with respect to you. You can’t credit the foreign
+income taxes paid or accrued by the partnership with respect to
+the reverse hybrid until you or the partnership takes into account
+the related income of the reverse hybrid. Until then, the taxes are
+suspended. The partnership reported your share of the
+potentially suspended taxes as a result of the application of
+section 909 on Part III, Section 4, line 2E. If you’re a corporation,
+complete Form 1118, Schedule G, line E, for taxes suspended
+under section 909. If you’re an individual, estate, or trust, include
+on Form 1116, Part III, line 12, taxes suspended under section
+909. If you’re required to complete Form 5471, Information
+Return of U.S. Persons With Respect to Certain Foreign
+Corporations, for a CFC, include in column (d) of Schedule E
+(Form 5471), Schedule E-1, line 3b, taxes suspended under
+section 909.
+If the partnership checked box 3, and the statement indicates
+that the partnership took into account the related income from
+the splitter arrangement, the taxes are partially or fully
+unsuspended depending on the amount of related income taken
+into account. Even though the taxes are unsuspended, in certain
+cases you might not be eligible to claim a credit for those taxes,
+for example, when the related income is taken into account as
+part of a dividend for which you’re eligible for a section 245A
+deduction. To the extent you’re eligible to claim a credit for
+unsuspended taxes, these amounts may be claimed on Form
+1116 or 1118, as applicable. If you’re required to complete Form
+5471, for a CFC, report the unsuspended taxes in column (d) of
+Schedule E (Form 5471), Schedule E-1, line 3a.
+In some cases, you may take into account related income
+directly that allows you to partially or fully unsuspend taxes, for
+
+Box 4. Foreign tax translation. If the partnership checked
+box 4, it’ll attach a statement described in the instructions for
+Part III, Section 4.
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+Caution: There might be a splitter arrangement with respect to
+the partner even if the partnership didn’t identify one, given that
+the partnership didn’t have the information available to the
+partner. Therefore, you must identify such arrangement even if
+box 3 isn’t checked.
+
+Box 5. High-taxed income. If the partnership checked box 5,
+you must determine if the passive income reported to you by the
+partnership is treated as income in another separate category.
+The partnership should have attached Worksheets 1 and/or 2,
+from the Partnership Instructions for Schedules K-2 and K-3
+(Form 1065). Under section 904(d)(2)(B)(iii), income received or
+accrued by a U.S. person that would otherwise be passive
+income isn’t treated as passive income if the income is
+determined to be high-taxed income. You must group your
+distributive shares of passive income from a partnership
+according to the rules in Regulations section 1.904-4(c)(3).
+However, under Regulations 1.904-4(c)(5)(ii), the portion, if any,
+of the distributive share of income attributable to income earned
+by a domestic partnership through a foreign qualified business
+unit (QBU) is separately grouped under the rules of Regulations
+section 1.904-4(c)(4).
+Use Schedule K-3 and your taxes on your other passive
+income (that is, passive income that isn’t attributable to your
+distributive share of the partnership’s income as reported on
+Schedule K-3) to determine if you need to assign passive
+income and the associated taxes to another separate category
+of income. You must allocate and apportion your expenses to
+this passive income to determine if the income is treated as
+income in another separate category. This includes both your
+distributive share of partnership expenses and expense incurred
+by you directly. If you’re a corporation, see the Instructions for
+Form 1118 for how to report your income and taxes reclassified
+under the high-taxed income rule. If you’re an individual, estate,
+or trust, see the Instructions for Form 1116 for how to report your
+income and taxes reclassified under the high-taxed income rule.
+Box 6. Section 267A disallowed deduction. If the partnership
+checked box 6 in Part I and attached a statement titled “Section
+267A Disallowed Deduction,” prepare your tax return by taking
+into account that you aren’t allowed a deduction for any of the
+amounts listed in that statement. Thus, for example, don’t claim
+as a deduction any amount reported on Schedule K-3, Part II,
+Section 2, lines 41 through 43, or Part X, Section 2, line 9, to the
+extent listed in the statement as an amount for which a deduction
+is disallowed under section 267A. In addition, you may be
+required to report the amount of your disallowed deductions
+under section 267A. See, for example, Form 1120, Schedule K,
+question 21; and Form 1120-F, U.S. Income Tax Return of a
+Foreign Corporation, Additional Information, item EE.
+Caution: Box 6 and the accompanying statement describe only
+interest or royalty paid or accrued by the partnership for which
+the partnership knows, or has reason to know, that you’re
+disallowed a deduction under section 267A. In certain cases, the
+partnership may not know, or have reason to know, that you’re
+disallowed a deduction for interest or royalty paid or accrued by
+the partnership. See the instructions for Form 1065, Schedule B,
+question 22, for additional information.
+For your share of any interest or royalty paid or accrued by the
+partnership, you must apply section 267A and determine
+whether a deduction is disallowed, regardless of whether box 6
+is checked or whether the amount is listed on the accompanying
+statement.
+3
+
+Boxes 8 and 9. Form 5471 information and other forms. If
+applicable, the partnership will attach the relevant portions of
+Form 5471; Form 5713, International Boycott Report; and other
+relevant international tax forms. If the partnership has filed Form
+8990, Limitation on Business Interest Expense Under Section
+163(j), the partnership will also provide on Schedule K-1 the
+information needed to complete Form 8990, Schedule A, for
+foreign partners which are required to report their distributive
+shares of excess business interest expense, excess taxable
+income, and excess business interest income, if any, that are
+attributable to ECI.
+Box 9 will be checked if the partnership attached Form 8858,
+Form 8621, or both to its Form 1065. If you need information
+from these forms, request it from the partnership.
+
+and trusts, or domestic corporation may claim a credit for taxes
+paid or accrued, and in some cases deemed paid, to foreign
+countries or U.S. territories. In general, foreign corporations and
+nonresident alien individuals may claim a credit for taxes paid or
+accrued to foreign countries or U.S. territories with respect to
+ECI. The amount of foreign tax credit in a tax year is generally
+limited to the lesser of the foreign income taxes paid or accrued
+or the U.S. tax on foreign source income. The limitation is figured
+by separate categories of foreign source income, including
+foreign branch category, passive category, and general category.
+See the instructions for Forms 1116 and 1118, as well as Pub.
+514, Foreign Tax Credit for Individuals, for a summary of the
+rules for determining the sources and separate categories of
+income.
+
+Box 10. Partner loan transactions. If this box is checked, the
+partnership identified upstream or downstream partnership loan
+transactions. See Regulations sections 1.861-9(e)(8) and (9) for
+purposes of determining special rules regarding interest
+expense allocation and apportionment if you have such loan
+transactions with the partnership.
+
+Note: If you’re a partnership that is a partner in a partnership,
+the information that you receive on your Schedule K-3, Parts II
+and III, will need to be included on the Schedules K-3, Parts II
+and III, that you provide to your partners.
+
+Caution: There might be a partner loan transaction even if the
+partnership didn’t identify one, given that the partnership didn’t
+have the information available to the partner.
+Box 11. Dual consolidated loss. If the partnership checked
+box 11 and you’re a domestic corporation (other than a regulated
+investment company (RIC), a real estate investment trust (REIT),
+or an S corporation), the dual consolidated loss (DCL) rules
+pursuant to Regulations sections 1.1503(d)-1 through -8 may
+apply to your share of certain partnership items. In order to
+comply with the DCL rules, take into account the information
+provided in the attachment to this schedule (for example, your
+share of the income or DCL attributable to the partnership’s
+foreign branch or interest in a hybrid entity).
+Box 12. Form 8865 information. If the partnership transferred
+property to a foreign partnership that would subject one or more
+of its domestic partners to reporting under section 6038B and
+Regulations section 1.6038B-2(a)(2) but didn’t file Schedule O
+(Form 8865), Transfer of Property to a Foreign Partnership,
+containing all the information required under Regulations section
+1.6038B-2, with respect to the transfer, the partnership must
+provide the necessary information for each partner to fulfill its
+reporting requirements under Regulations section 1.6038B-2.
+The partnership should have attached the relevant information to
+Schedule K-3, as applicable to the partner.
+Box 13. Other international items. If the partnership has
+transactions, income, deductions, payments, or anything else
+that implicates the international tax provisions of the Code and
+such items aren’t otherwise reported on this part or other parts of
+Schedule K-3, the partnership reported that information on a
+statement and checked box 13.
+If you’re a CFC partner (or in the case of a pass-through entity
+partner, you have a CFC partner), the partnership attached
+information to Schedule K-3 so that the U.S. shareholder may
+complete Form 5471. For example, if you’re a CFC partner in the
+partnership, the U.S. shareholder of the CFC will need to report
+the information reported on your Schedule K-3, Parts II and III,
+on Form 5471, in particular, Schedule E (Form 5471). If you’re a
+controlled foreign partnership (CFP) partner (or in the case of a
+pass-through entity partner, you have a CFP partner), the
+partnership attached information to Schedule K-3 so that the
+U.S. partner in the CFP may complete Form 8865.
+
+Parts II and III
+
+Schedule K-3, Parts II and III, report information you use to figure
+the foreign tax credit. In general, a U.S. individual, U.S. citizen or
+U.S. resident individual beneficiary of certain domestic estates
+4
+
+Partnership with U.S. partners and limited or no foreign activity. In many instances, a partnership with no foreign partners,
+no foreign source income, no assets generating foreign source
+income, and no foreign income taxes paid or accrued may have
+reported information on Schedule K-3. For example, if you claim
+the foreign tax credit, you generally need certain information
+from the partnership in Schedule K-3, Parts II and III, to complete
+Form 1116 or 1118. This information should have been reported
+in prior years, including before the Tax Cuts and Jobs Act of
+2017, with the Schedules K and K-1, and is information you need
+to compute the foreign tax credit limitation, which determines the
+amount of foreign tax credit available to you.
+Exceptions. You may not have received Schedule K-3 if the
+partnership was eligible for an exception. See Domestic Filing
+Exception in the Partnership Instructions for Schedules K-2 and
+K-3 (Form 1065). Also, if you (or, if you’re a pass-through entity,
+your direct or indirect partner) are eligible to claim a foreign tax
+credit, you aren’t required to receive Schedule K-3, Parts II and
+III, if you or your partners aren’t required to complete Form 1116.
+This could be the case, for example, because you (or, if you’re a
+pass-through entity, your direct or indirect partners) qualify for an
+exception to filing Form 1116. See section 904(j) and Form 1116
+exemption exception in the Partnership Instructions for
+Schedules K-2 and K-3 (Form 1065). However, see reasons
+below for requesting the Schedule K-3 when you’re required to
+file Form 1116.
+Example 2—domestic filing exception met; issuance of
+Schedule K-3 not required. A married couple, U.S. citizens,
+each own a 50% interest in USP, a domestic partnership. USP
+invests in a RIC. USP receives a Form 1099 from the RIC
+reporting $100 of creditable foreign taxes paid or accrued on
+passive category foreign source income. USP doesn’t have any
+foreign activity aside from that of the RIC. USP notifies the
+couple on an attachment to the Schedule K-1 that they won’t
+receive Schedule K-3 unless they request it. The married couple
+don’t request Schedule K-3 from USP for tax year 2025.
+Because USP qualified for the domestic filing exception, USP
+didn’t complete Schedule K-3 for the couple.
+Reasons to request Schedule K-3 from domestic partnerships with limited or no foreign activity. Section 904
+generally limits the foreign tax credit to the lesser of the foreign
+taxes paid or accrued or the portion of U.S. tax liability
+attributable to foreign source taxable income. Foreign source
+taxable income is foreign source gross income less allocable
+expenses. In general, the partnership completed Schedule K-3,
+Parts II and III, because the partnership’s gross income, gross
+receipts, expenses, assets, and foreign income taxes paid or
+accrued may affect the foreign tax credit available to the partner.
+The source of certain gross income is determined by the partner.
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+In addition, some expenses of the partnership are allocated and
+apportioned by the partner. Because the income source and
+expense allocation are determined by the partner in certain
+cases, it’s not possible for the partner to assume that all income
+of the partnership is U.S. source and all expenses of the
+partnership reduce U.S. source income. Also, the allocation and
+apportionment of certain partner expenses take into account
+distributive shares of assets and income of the partnership that
+aren’t otherwise reported on Schedule K-1. For example, under
+section 865(i)(5), for sourcing purposes, personal property sold
+by the partnership is treated as sold by the partners. Generally,
+income from the sale of certain nondepreciable personal
+property (excluding inventory and certain other property) is
+sourced according to the residence of the seller. In cases in
+which the partner is a pass-through entity, the partnership might
+not know the ultimate residence of the first non-pass-through
+partner. The distributive share of the partnership’s gain on the
+sale of personal property isn’t separately stated on
+Schedule K-1, but is reported in Schedule K-3, Part II.
+As another example, the partner’s R&E expenses (which
+include the distributive share of the partnership’s R&E expenses)
+are allocated and apportioned by the partner; see Regulations
+section 1.861-17(f). R&E expenses are allocated and
+apportioned based on the gross receipts by Standard Industrial
+Classification (SIC) code. The distributive share of the R&E
+expenses by SIC code isn’t separately stated on Schedule K-1,
+but is reported in Schedule K-3, Part II. The partner needs
+Schedule K-3, Part III, Section 1, for the partner’s share of the
+partnership’s gross receipts by SIC code for purposes of
+allocating and apportioning R&E expenses.
+In some cases, the partner will be able to use the information
+reported in Parts II and III to increase the foreign tax credit
+limitation, and the amount of available foreign tax credit to the
+partner. For example, Schedule K-3, Part III, Section 2, provides
+the partner with the tax book value of the assets of the
+partnership. In general, a partner apportions interest expense to
+reduce U.S. source gross income or foreign source gross income
+based on the tax book value of its assets, including its
+distributive share of the partnership’s interest expense and
+assets; see section 864(e)(2) and Regulations section
+1.861-9(e). Taking into account the assets of a domestic
+partnership generating solely U.S. source income would result in
+more expense allocated to U.S. source gross income and less
+expense allocated to reduce foreign source gross income.
+Additional foreign source income increases the partner’s foreign
+tax credit limitation, and the ability of the partner to claim foreign
+tax credits. The regulations provide exceptions to asset method
+apportionment for certain less-than-10% limited partners, and
+these instructions take this into account such that the
+partnership isn’t required to provide these partners with certain
+portions of Schedule K-3. Schedule K-1 doesn’t separately state
+the distributive share of the partnership’s total interest expense,
+or the tax book value of the assets, whereas the Schedule K-3
+contains this information. See Regulations section 1.861-9(e).
+See Lines 39 and 40 and Lines 41 through 43 under Part II; and
+Section 2 under Part III, later, for further guidance.
+
+and, therefore, the domestic filing exception doesn’t apply to
+USP with respect to Kirby. USP provides Parts II and III of
+Schedule K-3 to Kirby. Kirby’s share of the tax book value of
+USP’s assets is $50,000, which is reported in column (a) of
+Schedule K-3, Part III, Section 2. Not including its distributive
+share of the assets of USP, the tax book value of Kirby’s assets is
+$50,000. Of Kirby’s assets, $10,000 generates passive category
+foreign source income and $40,000 generates U.S. source
+income. Kirby has passive category foreign source taxable
+income before interest expense of $8,000 and Kirby’s U.S. tax
+rate is 25%. Kirby’s interest expense and USP’s assets are
+characterized in the same category under sections 163 and 469
+for purposes of Temporary Regulations section 1.861-9T(d).
+Kirby uses the tax book value (as opposed to the alternative tax
+book value) to allocate and apportion interest expense.
+Kirby’s interest expense is apportioned between U.S. source
+and foreign source income ratably based on the tax book value
+of Kirby’s U.S. source and foreign source assets. Without taking
+into account the distributive share of USP’s assets, the amount
+of Kirby’s interest expense that would reduce foreign source
+gross income is $1,000 ($5,000 x $10,000/$50,000). Therefore,
+Kirby’s foreign source taxable income would be $7,000 ($8,000 −
+$1,000). At a 25% U.S. tax rate, Kirby may only use $1,750 (25%
+(0.25) x $7,000) of the $2,000 of foreign income taxes. See
+section 904.
+Taking into account the distributive share of USP’s assets, the
+amount of Kirby’s interest expense that reduces passive
+category foreign source gross income is $500 ($5,000 x
+$10,000/$100,000). Therefore, Kirby’s passive category foreign
+source taxable income would be $7,500 ($8,000 − $500). At a
+25% U.S. tax rate, Kirby may use $1,875 (25% (0.25) x $7,500)
+of the $2,000 of foreign income taxes—an additional foreign tax
+credit amount of $125 after taking into account Kirby’s share of
+the tax book value of the partnership assets.
+Darby doesn’t request a Schedule K-3 from USP for tax year
+2025. Under the domestic filing exception, USP didn’t complete
+Schedule K-3 for Darby.
+
+Example 3—Parts II and III required for partnership with
+no foreign activity. U.S. citizens Kirby and Darby own equal
+interests in USP, a domestic partnership. USP has no foreign
+activity. In Year 1, Kirby pays $2,000 of foreign income taxes on
+passive category income other than capital gains. Such taxes
+are reported to Kirby on a payee statement. Kirby has interest
+expense of $5,000, and USP doesn’t have interest expense.
+None of Kirby’s interest expense is directly allocable to Kirby’s
+gross income. Kirby doesn’t have an overall domestic loss in tax
+year 2025.
+Because Kirby must complete Form 1116 to claim a foreign
+tax credit, Kirby requests a Schedule K-3 by the 1-month date
+
+Example 4—Part II, not Part III, required for partnership
+with no foreign activity. The facts are the same as in
+Example 3, except that Kirby has $5,000 of expenses described
+in Regulations section 1.861-8(e)(9), and Kirby and USP have
+no other expenses. Further, Kirby’s share of USP’s gross income
+is $50,000. Not including its distributive share of the income of
+USP, Kirby’s gross income is $50,000. Of Kirby’s gross income,
+$5,000 is foreign source gross income and $45,000 is U.S.
+source gross income. USP doesn’t have any gross income the
+source of which is determined by the partner.
+Kirby’s expenses must be ratably apportioned based on
+Kirby’s gross income (including its distributive share of the
+income of USP); see Regulations section 1.861-8(c)(3).
+Therefore, USP provided Schedule K-3, Part II, to Kirby. Before
+taking into account the distributive share of USP’s gross income,
+the amount of Kirby’s expenses described in Regulations section
+1.861-8(e)(9) that reduce foreign source gross income is $500
+($5,000 x $5,000/$50,000). Therefore, Kirby’s foreign source
+taxable income would be $4,500 ($5,000 − $500). At a 25% U.S.
+tax rate, Kirby may only use $1,125 (25% (0.25) x $4,500) of the
+$2,000 of foreign income taxes. See section 904.
+Taking into account the distributive share of USP’s gross
+income, the amount of Kirby’s expenses described in
+Regulations section 1.861-8(e)(9) that reduce foreign source
+gross income is $250 ($5,000 x $5,000/$100,000). Therefore,
+Kirby’s foreign source taxable income would be $4,750 ($5,000 −
+$250). At a 25% U.S. tax rate, Kirby may use $1,187.50 (25%
+(0.25) x $4,750) of the $2,000 of foreign income taxes—an
+additional foreign tax credit amount of $62.50 after taking into
+account Kirby’s distributive share of the gross income of USP.
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+5
+
+Because Kirby and USP don’t have R&E expenses or interest
+expense, and because USP didn’t pay or accrue any foreign
+income taxes, USP didn’t provide Schedule K-3, Part III, to Kirby.
+Note: A partner may need the distributive share of the
+partnership’s gross income for purposes of allocating and
+apportioning expenses other than those described in
+Regulations section 1.861-8(e)(9) and should request this
+information from the partnership if it’s needed and if it hasn’t
+been provided.
+
+Part II. Foreign Tax Credit Limitation
+Column (a). U.S. source. Don’t report amounts in this column
+on Form 1116 or 1118 unless you elect to re-source such
+income under an applicable U.S. income tax treaty. See sections
+904(d)(6) and 865(h). See the instructions for Forms 1116 and
+1118 for income re-sourced by treaty reported as a separate
+category of income.
+Columns (b) through (e). Foreign source. Add the amounts
+reported in these columns to your other income in these
+separate categories and report the total amounts on the
+applicable Form 1116, Part I; or Form 1118, Schedule A.
+Exception. If you’re a limited partner, you hold less than 10%
+of the value of the partnership, and you didn’t hold your interest
+in the ordinary course of the partner’s active trade or business,
+then any amounts reported on Schedule K-3 in the following
+locations should generally be reported as passive category
+income.
+• Part II, Section 1, columns (b), (d), and (e).
+• Part III, Section 1, columns (b), (d), and (e).
+• Part III, Section 3, columns (c) and (d).
+• Part III, Section 5, columns (b), (c), (e), and (f).
+Deductions reported in columns (b), (d), and (e) of Part II,
+Section 2, should generally be reported as reducing passive
+category income. Similarly, any foreign income taxes paid or
+accrued on foreign source income in columns (b), (c), (e), and (f)
+of Part III, Section 4, should generally be assigned to passive
+category income; see Regulations section 1.904-4(n)(1)(ii). If
+you’re a limited partner that owns less than 10% of a capital and
+profits interest in the partnership, Part III, Section 2, wasn’t
+completed by the partnership; see Regulations section
+1.861-9(e)(4). See section 904(d)(2)(B)(iii)(II) and Regulations
+section 1.904-4(c) for an exception to passive category if income
+is subject to a high rate of foreign tax.
+Column (f). Sourced by partner. You must determine the
+source and separate category of the income reported in this
+column. The income in this column will generally be with respect
+to sale of personal property other than inventory, depreciable
+property, and certain intangible property and will generally be
+sourced under section 865. This column might also include
+foreign currency gain on a section 988 transaction. If you’re a
+U.S. citizen or resident, sales and gains reported in this column
+will generally be U.S. source income and not reported on Form
+1116 or 1118 unless you elect to re-source such income under
+an applicable income tax treaty. There are certain exceptions, for
+example, a U.S. citizen or resident with a tax home (as defined in
+section 911(d)(3)) in another country is treated as a nonresident
+if an income tax of at least 10% is imposed by and paid to a
+foreign country regarding such sale. See the instructions for
+box 1 of Part I, earlier. Also, the source of foreign currency gain
+or loss on section 988 transactions may be determined by
+reference to the residence of the QBU on whose books the
+asset, liability, or item of income or expense is properly reflected.
+See the Instructions for Form 1118 and Pub. 514 for additional
+details.
+
+6
+
+Section 1—Gross Income (Lines 1 Through 24)
+
+Form 1118, Schedule A, requires a corporation to separately
+report certain types of gross income by source and separate
+category. Schedule K-3, Part II, lines 1 through 23, generally
+follow the separately reported types of gross income on Form
+1118, Schedule A. Individuals must follow the same sourcing
+rules, but Form 1116 only requires reporting of total gross
+income from foreign sources by separate category. Therefore,
+those required to file Form 1116 would report the amount from
+Schedule K-3, Part II, Section 1, line 24, taking into account
+section 904(b)(2) and PTEP adjustments, by country on their
+Form 1116, Part I, line 1a. Because all gross income is reported
+on one line on Form 1116, the remaining instructions generally
+refer only to Form 1118 reporting.
+
+Country code. Lines 1 through 24 require the partnership to
+report for each gross income item, on a separate line (A, B, or
+C), the two-letter code from the list at IRS.gov/CountryCodes for
+the foreign country or U.S. territory within which the gross
+income is sourced. If a type of income is sourced from more than
+three countries, a statement is attached to expand
+Schedule K-3, Part II, for that type of income to report the
+additional countries.
+Note: Schedule K-3 reports gross income by country or U.S.
+territory because such information is requested on Forms 1116
+and 1118. Income and taxes are reported by country on Forms
+1116 and 1118 so that the IRS may, for example, initially
+evaluate whether taxpayers are claiming credits for compulsory
+payments to foreign governments.
+If applicable, the partnership entered in column (f) the foreign
+country to which the partnership paid tax of at least 10% of the
+gain. See sections 865(e) and 865(g).
+Each gross income item (for example, sales vs. interest
+income) may have different countries listed on A, B, C, etc.,
+given that the partnership might not have sales income and
+interest income, for example, from the same country. Line 24
+should add each country’s total income reported on Part II,
+regardless of which line such income is reported, whether A, B,
+C, etc.
+Note: For column (f) of Part II, if the partnership entered the
+code XX, it was because it couldn’t determine the country or
+U.S. territory from which the gross income is sourced because
+the source is determined by your residence, or for pass-through
+entities, the residence of the first non-pass-through partner.
+Exceptions. The instructions for Forms 1116 and 1118
+specify exceptions from the requirement to report gross income
+by foreign country or U.S. territory with respect to RICs and
+section 863(b). See the instructions for Forms 1116 and 1118 for
+these exceptions that apply.
+Line 1. Sales. If you file Form 1118, add the amount reported
+on this line to your other sales and report the total in column 7 of
+Form 1118, Schedule A, by separate category. See Column (f).
+Sourced by partner, earlier, for more information.
+Line 2. Gross income from performance of services. If you
+file Form 1118, add the amount reported on this line to your other
+gross income from performance of services and report the total
+in column 8 of Form 1118, Schedule A, by separate category.
+Lines 3, 4, and 10. Rental income, royalties, and license
+fees. If you file Form 1118, add the amount reported on these
+lines to your other rental income, royalties, and license fees and
+report the total in column 6 of Form 1118, Schedule A, by
+separate category.
+Line 5. Guaranteed payments. If you file Form 1118, add the
+amount reported on this line to your other guaranteed payments
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+and report the total in column 11 of Form 1118, Schedule A, by
+separate category.
+
+2. Report the total in column 9 of Form 1118, Schedule A, by
+separate category.
+
+Line 6. Interest income. If you file Form 1118, add the amount
+reported on this line to your other interest income and report the
+total in column 5 of Form 1118, Schedule A, by separate
+category.
+
+3. Identify the type of gain as section 986(c) gain in column 10
+of Form 1118, Schedule A.
+
+Lines 7 and 8. Ordinary dividends and qualified dividends.
+Some of the amounts reported on these lines may be attributable
+to PTEP in annual PTEP accounts that you have with respect to
+a foreign corporation and are therefore excludable from your
+gross income. If you file Form 1116, don’t include the amount
+attributable to PTEP in your annual accounts on Part I, line 1a.
+If you file Form 1118, add the amount reported on these lines,
+less the amount attributable to PTEP in your annual PTEP
+accounts, to your other dividends and report the total in column 4
+of Form 1118, Schedule A, by separate category.
+See the Instructions for Form 1116 for additional information
+on the rules regarding capital gain rate differentials (as defined in
+section 904(b)(3)(D)) for qualified dividends.
+Lines 11 through 15 and 27 through 30. Capital gains and
+losses. Section 904(b)(2)(B) contains rules regarding
+adjustments to account for capital gain rate differentials (as
+defined in section 904(b)(3)(D)) for any tax year. These rules
+apply to individuals and may require adjustments to the amounts
+on lines 11 through 15, which in turn affect the total amount on
+line 24. See the Instructions for Form 1116 for additional
+information. If you file Form 1116, report Schedule K-3, Part II,
+lines 27 through 30, on Form 1116, Part I, line 5, by separate
+category.
+If you file Form 1118, add the amounts reported on
+Schedule K-3, Part II, lines 11 through 15, to other gross income
+you report in column 11 of Form 1118, Schedule A, by separate
+category. Add the amounts reported on Schedule K-3, Part II,
+lines 27 through 30, to other amounts you report in column 13(j)
+of Form 1118, Schedule A; column (e) of Form 1118,
+Schedule H, Part II; or column (e) of Form 1118, Schedule H,
+Part III, as applicable, by separate category.
+Line 12. Net long-term capital gain. Line 12 doesn’t include
+gains reported on lines 13, 14, and/or 15.
+Line 14. Unrecaptured section 1250 gain. If gain is both
+unrecaptured section 1250 gain and net section 1231 gain, the
+gain is reported on line 14 and not on line 15. The partnership
+included an attachment indicating the amount of unrecaptured
+section 1250 gain that is also net section 1231 gain.
+Line 28. Net long-term capital loss. Line 28 doesn’t include
+losses reported on line 29.
+Lines 16 and 46. Section 986(c) gain and loss. These lines
+report the partnership’s share of a lower-tier pass-through
+entity’s section 986(c) gain or loss, and the amount of section
+986(c) gain or loss on distributions of PTEP sourced from the
+partnership’s annual PTEP accounts. You’ll need to determine
+your foreign currency gain or loss under section 986(c) with
+respect to distributed PTEP sourced from annual PTEP accounts
+that you have with respect to a foreign corporation, using
+Schedule K-3, Part V.
+The amount of foreign currency gain and loss that you report
+on Form 1118 and other forms, for example, Form 1040 or 1120,
+will include your share of the partnership’s foreign currency gain
+or loss under section 986(c) and your own foreign currency gain
+or loss under section 986(c). If you file Form 1118, complete the
+following.
+1. Add the amount from Schedule K-3, Part II, line 16, to your
+other section 986(c) gain.
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+4. Add the amount from Schedule K-3, Part II, line 46, to your
+other section 986(c) losses.
+5. Enter the total, as applicable, by separate category, in:
+• Form 1118, Schedule A, column 13(h);
+• Form 1118, Schedule H, Part II, column (e); or
+• Form 1118, Schedule H, Part III, column (e).
+If you entered an amount in column 13(h) of Form 1118,
+Schedule A, enter the type of loss as section 986(c) loss in
+column 13(i) of Form 1118, Schedule A.
+Lines 17 and 47. Section 987 gain and loss. If you file Form
+1118, complete the following.
+1. Add the amount from Schedule K-3, Part II, line 17, to your
+other section 987 gain.
+2. Enter the total in column 9 of Form 1118, Schedule A, by
+separate category.
+3. Identify the type of gain as section 987 gain in column 10 of
+Form 1118, Schedule A.
+4. Add the amount from Schedule K-3, Part II, line 47, to your
+other section 987 loss.
+5. Enter the total, as applicable, by separate category, in:
+• Form 1118, Schedule A, column 13(h);
+• Form 1118, Schedule H, Part II, column (e); or
+• Form 1118, Schedule H, Part III, column (e).
+If you entered an amount in column 13(h) of Form 1118,
+Schedule A, enter the type of loss as section 987 loss in column
+13(i) of Form 1118, Schedule A.
+Lines 18 and 48. Section 988 gain and loss. The source of
+foreign currency gain or loss on section 988 transactions is
+generally determined by reference to the residence of the
+taxpayer or QBU on whose books the asset, liability, or item of
+income or expense is properly reflected. If the source of the
+foreign currency gain or loss is determined by reference to the
+residence of the taxpayer, the foreign currency gain and loss will
+be reported in column (f). For example, if you’re a U.S. resident,
+such gain or loss is U.S. source and wouldn’t be reported on
+Form 1116 or 1118. If you file Form 1118, complete the
+following.
+1. Add the amount from Schedule K-3, Part II, line 18, to your
+other section 988 gain.
+2. Enter the total in column 9 of Form 1118, Schedule A, by
+separate category.
+3. Identify the type of gain as section 988 gain in column 10 of
+Form 1118, Schedule A. See the instructions for column (f).
+4. Add the amount from Schedule K-3, Part II, line 48, to your
+other section 988 loss.
+5. Enter the total, as applicable, by separate category, in:
+• Form 1118, Schedule A, column 13(h);
+• Form 1118, Schedule H, Part II, column (e); or
+• Form 1118, Schedule H, Part III, column (e).
+If you entered an amount in column 13(h) of Form 1118,
+Schedule A, enter the type of loss as section 988 loss in column
+13(i) of Form 1118, Schedule A.
+Line 20. Other income. If you file Form 1118, add the amount
+reported on this line to your other income and report the total in
+column 11 of Form 1118, Schedule A, by separate category.
+7
+
+Line 24. Total gross income. If you file Form 1116, add the
+amounts from lines A, B, and C (and additional lines, if
+applicable) to your other foreign source gross income from those
+countries, and enter the totals on Form 1116, Part I, line 1a,
+taking into account any section 904(b) adjustments for capital
+gains, as described earlier, for Schedule K-3, Part II, lines 11
+through 15, or PTEP adjustments, as described earlier, for
+Schedule K-3, Part II, lines 7 and 8, and line 16.
+If you file Form 1118, add the amounts from lines A, B, and C
+(and additional lines, if applicable) to your other foreign source
+gross income from those countries, and enter the totals in
+column 11 of Form 1118, Schedule A, taking into account any
+PTEP adjustments, as described earlier, for Schedule K-3, Part
+II, lines 7 and 8, and line 16.
+
+Section 2—Deductions (Lines 25 Through 54)
+
+Form 1118, Schedule A, requires a corporation to separately
+report certain types of deductions and losses by source and
+separate category. Separate reporting is required because each
+type of deduction may be allocated and apportioned according
+to a different methodology; see Regulations sections 1.861-8
+through -20. For purposes of allocating and apportioning
+expenses, in general, a partner adds the distributive share of the
+partnership’s deductions with other deductions incurred directly
+by the partner or through other pass-through entities including
+partnerships, S corporations, and trusts (see Regulations
+section 1.904-5(a)(4)(iv) for a definition of pass-through entity);
+see Regulations section 1.861-8(e)(15). Schedule K-3, Part II,
+lines 25 through 53, generally follow the separately reported
+types of deductions and losses on Form 1118, Schedule A.
+Individuals must generally follow the same expense allocation
+and apportionment rules, but Form 1116 only requires separate
+reporting of certain deductions. See Form 1116, Part I, lines 2
+through 5.
+
+Line 25. Expenses allocable to sales income. If you file Form
+1118, add the amount reported on this line to your other
+expenses allocable to sales income and report the total in
+column 13(f) of Form 1118, Schedule A, by separate category.
+Line 26. Expenses allocable to gross income from performance of services. If you file Form 1118, add the amount
+reported on this line to your other expenses allocable to gross
+income from performance of services and report the total in
+column 13(g) of Form 1118, Schedule A, by separate category.
+Lines 31, 37, 44, and 45. Other deductions. If you file Form
+1118, add the amounts reported on these lines to your other
+deductions and report the total in column 13(j) of Form 1118,
+Schedule A; column (e) of Form 1118, Schedule H, Part II; or
+column (e) of Form 1118, Schedule H, Part III, as applicable, by
+separate category.
+Line 32. Research & experimental (R&E) expenses. Add the
+R&E expenses reported in column (f) to your other R&E
+expenses. After determining the portion of such expenses that
+are allocable to U.S. source income or foreign source income
+because they are performed predominantly in a particular
+geographic area, if you file Form 1118, report the remaining R&E
+expenses in Form 1118, Schedule H, Part I. See Regulations
+section 1.861-17(f).
+Lines 33 and 35. Allocable rental, royalty, and licensing expenses—depreciation, depletion, and amortization. If you
+file Form 1118, add the amounts reported on these lines to your
+other allocable rental, royalty, and licensing expenses
+(depreciation, depletion, and amortization) and report the total in
+column 13(d) of Form 1118, Schedule A, by separate category.
+Lines 34 and 36. Allocable rental, royalty, and licensing expenses—other than depreciation, depletion, and amortization. If you file Form 1118, add the amounts reported on these
+8
+
+lines to your other allocable rental, royalty, and licensing
+expenses (other than depreciation, depletion, and amortization)
+and report the total in column 13(e) of Form 1118, Schedule A,
+as applicable, by separate category.
+Caution: If box 6 of Part I is checked, royalty expenses may
+include amounts for which you aren’t allowed a deduction under
+section 267A. See the statement for box 6 of Part I attached to
+Schedule K-3.
+Line 38. Charitable contributions. Charitable contribution
+deductions shouldn’t be reported on Form 1116 or 1118
+because such deductions are allocable to U.S. source income.
+Lines 39 and 40. Interest expense specifically allocable under Regulations section 1.861-10(e) and Temporary Regulations section 1.861-10T. If you file Form 1118, add the
+amounts reported on these lines to your other interest expense
+specifically allocable under Regulations section 1.861-10(e) and
+Temporary Regulations section 1.861-10T and report the total in
+column (b) of Form 1118, Schedule H, Part II, lines 1b and c.
+Lines 41 through 43. Other interest expense. If you file Form
+1118, add the sum of the interest expense included on these
+lines to your other interest expense and report the total in column
+(b) of Form 1118, Schedule H, Part II, line 2.
+If you file Form 1116, allocate and apportion the sum of the
+interest expense included on these lines and report the allocated
+and apportioned amounts on the applicable separate category
+Form 1116, Part I, line 4b. Interest expense incurred by certain
+individuals, estates, and trusts is allocated and apportioned
+based on the categories of interest expense in sections 163 and
+469, adjusted for any interest expense directly allocated under
+Temporary Regulations section 1.861-10T. See Regulations
+section 1.861-9(e)(3) and Temporary Regulations sections
+1.861-9T(d)(1) and (3).
+Exception. If you’re a limited partner, and your ownership,
+together with ownership by persons that bear a relationship to
+the partner described in section 267(b) or section 707, of the
+capital and profits interest of the partnership is less than 10%,
+your distributive share of the partnership’s interest expense
+generally reduces passive category foreign source gross
+income. See Regulations sections 1.861-9(e)(4)(i) and
+1.904-4(n)(1)(ii) for further guidance. If you file Form 1118, report
+interest expense from such limited partners on the passive
+category column 13(j) of Form 1118, Schedule A, unless the
+high-taxed income exception of section 904(d)(2)(B)(iii)(II) is
+applicable. If you file Form 1116, report such interest expense on
+the passive category Form 1116, Part I, line 4b, unless the
+high-taxed income exception of section 904(d)(2)(B)(iii)(II) is
+applicable. However, if your partnership interest is held in the
+ordinary course of your active trade or business, your share of
+the partnership’s interest expense is apportioned in accordance
+with your share of gross foreign source income in each separate
+category and gross U.S. source income from the partnership.
+Report the interest expense on the appropriate Form 1116 or
+1118, as applicable.
+Exception. See Regulations sections 1.861-9(e)(8) and (9)
+for special rules concerning downstream and upstream
+partnership loans that require a matching of related interest
+income to interest expense allocations.
+Caution: If box 6 of Part I is checked, interest expense may
+include amounts for which you aren’t allowed a deduction under
+section 267A. See the statement for box 6 of Part I attached to
+Schedule K-3.
+Exception. See Temporary Regulations section 1.861-9T(d)
+(1) for an exception to the apportionment of interest expense
+when an individual’s foreign source income (including income
+excluded under section 911) doesn’t exceed $5,000. Such
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+interest expense may be allocated entirely to U.S. source
+income.
+Line 45. Foreign taxes not creditable but deductible. See
+the instructions for Forms 1116 and 1118 for examples of foreign
+taxes not creditable but deductible.
+Note: Foreign taxes that are creditable (even if a partner
+chooses to deduct such taxes) aren’t reported as expenses on
+Part II. Don’t claim a foreign tax credit on Form 1116 or 1118 for
+amounts reported on line 45. However, you may claim a
+deduction for such taxes on the applicable form, including Forms
+1040 and 1120.
+Creditable foreign taxes are reported on Part III, Section 4.
+Line 49. Other allocable deductions. If you file Form 1118,
+add the amounts reported on this line to your other allocable
+deductions and enter the total in column 13(j) of Form 1118,
+Schedule A, by separate category.
+Line 50. Other apportioned share of deductions. If you file
+Form 1118, add the amounts reported on this line to your other
+apportioned share of deductions and report the total in column
+(e) of Form 1118, Schedule H, Part II; or column (e) of Form
+1118, Schedule H, Part III, by separate category.
+
+Part III. Other Information for
+Preparation of Form 1116 or 1118
+Section 1—R&E Expenses Apportionment
+Factors
+
+This section reports the information that you need to allocate and
+apportion your R&E expenses for foreign tax credit limitation
+purposes. R&E expenses are allocated and apportioned by the
+partner; see Regulations section 1.861-17(f)(1). Individual,
+estate, and trust partners will use this Section 1 to determine the
+R&E expenses reported on Form 1116, Part I. See the
+Instructions for Form 1116. Because Form 1116 doesn’t include
+detailed entries for R&E expenses, the line instructions below
+only refer to Form 1118. Corporate partners will use this Section
+1 to determine the R&E expenses reported on Form 1118,
+Schedule H, Part I.
+Line 1. Gross receipts by SIC code. Add the amounts
+reported on line 1 by SIC code to your other gross receipts and
+report on Form 1118, Schedule H, Part I.
+Line 2. Exclusive apportionment with respect to total R&E
+expenses entered on Part II, line 32. Add the amounts
+reported on line 2 to the partner’s other R&E expenses related to
+activity performed in the United States and the amount of R&E
+expenses related to activity performed outside the United States
+by SIC code. See the Instructions for Form 1118 to determine
+the exclusive apportionment of the R&E expenses.
+
+Section 2—Interest Expense Apportionment
+Factors
+
+This section includes the information that you need to allocate
+and apportion your interest expense for foreign tax credit
+limitation purposes. This part is relevant for all partners with
+interest expense (including the share of the partnership’s interest
+expense) except certain limited partners with less than a 10%
+partnership interest; see Regulations section 1.861-9(e)(4)(i).
+Individual, estate, and trust partners will use this Section 2 to
+determine the interest expense reported on Form 1116, Part I,
+line 4b. See the Instructions for Form 1116. Because the interest
+expense is reported on one line on Form 1116, the instructions
+below don’t refer to Form 1116.
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+Corporate partners will use this Section 2 to determine the
+interest expense reported on Form 1118, Schedule H, Part II.
+The particular line reporting on Form 1118 is specified below.
+Stewardship expenses. In the case of the partner’s
+stewardship expenses incurred to oversee the partnership, the
+partnership’s value is determined and characterized under the
+asset method in Regulations section 1.861-9 (taking into
+account any adjustments under sections 734(b) and 743(b)); see
+Regulations section 1.861-8(e)(4)(ii)(C). Therefore, these Part III,
+Section 2, instructions generally apply to the partner’s
+stewardship expenses.
+Line 3. Assets attracting directly allocable interest expense
+under Regulations section 1.861-10(e). If you file Form 1118,
+add the amount reported on this line to your other assets
+attracting directly allocable interest expense under Regulations
+section 1.861-10(e) and report the total in column (a) of Form
+1118, Schedule H, Part II, line 1b.
+Line 4. Other assets attracting directly allocable interest
+expense under Temporary Regulations section 1.861-10T.
+If you file Form 1118, add the amount reported on this line to
+your other assets attracting directly allocable interest expense
+under Temporary Regulations section 1.861-10T and report the
+total in column (a) of Form 1118, Schedule H, Part II, line 1c.
+Line 5. Assets excluded from apportionment formula. If you
+file Form 1118, add the amount reported on this line to your other
+assets excluded from apportionment formulas and report the
+total in column (a) of Form 1118, Schedule H, Part II, line 1d.
+Line 6. Total assets used for apportionment. If you file Form
+1118, add the amount reported on this line to your other assets
+used for apportionment and report the total in column (a) of Form
+1118, Schedule H, Part II, lines 2 and 3, as applicable.
+Line 6a is the sum of lines 1 and 2 less the sum of lines 3, 4,
+and 5. Line 6a is divided into the types of assets on lines 6b, 6c,
+and 6d if you’re a partner that is an individual, estate, or trust, or
+if you’re a pass-through entity partner that may have an
+individual, estate, or trust as a partner.
+Example 5—Parts II and III: asset method apportionment
+of interest expense. Kendall, a U.S. citizen, owns a 10%
+interest in USP, a domestic partnership. USP is engaged in the
+active conduct of a U.S. trade or business. USP’s business
+generates only domestic source income. USP separately has an
+investment portfolio consisting of several less-than-10% stock
+investments. USP has a bank loan. The proceeds of the bank
+loan were divided equally between the business and the
+investment portfolio. Kendall’s only business assets and
+investment assets are its distributive share of those owned by
+USP. Kendall’s only interest expense is that from its distributive
+share of the USP loan.
+Kendall’s share of the interest expense for USP’s business is
+$2,000 and is apportioned on the basis of business assets.
+Because all business income is domestic source, the business
+assets are deemed domestic assets and reported in column (a)
+of Schedule K-3, Part III, Section 2, line 6b. Kendall’s $2,000
+share of the interest expense is reported in column (f) of
+Schedule K-3, Part II, line 41, and is apportioned to U.S. source
+gross income by the partner; therefore, it doesn’t need to be
+reported on Form 1116.
+The interest expense for Kendall’s share of USP’s
+investments is $2,000 and is reported in column (f) of
+Schedule K-3, Part II, line 42. The investment interest must be
+apportioned on the basis of investment assets. Kendall’s
+distributive share of the adjusted basis in USP’s stock is $8,000
+with respect to the stock generating domestic source income
+and $12,000 with respect to the stock generating foreign source
+passive income. These amounts are reported in columns (a) and
+(c) of Schedule K-3, Part III, Section 2, line 6c, respectively. $800
+9
+
+(($8,000/$20,000) x $2,000) is apportioned to domestic source
+income and $1,200 (($12,000/$20,000) x $2,000) is apportioned
+to foreign source passive income. The amount apportioned to
+foreign source passive income is reported on the passive
+category Form 1116, line 4b.
+Lines 7 and 8. Basis in stock of 10%-owned noncontrolled
+foreign corporations and of CFCs. The amounts reported on
+lines 7 and 8 are subsets of the amounts reported on line 6
+representing the value of stock held by the partnership in certain
+foreign corporations. In determining its foreign tax credit
+limitation, a corporate partner should disregard interest expense
+that is properly allocable to stock of a 10%-owned foreign
+corporation that has been characterized as a section 245A
+asset. See section 904(b)(4) and Regulations section
+1.904(b)-3(a)(1)(ii).
+The amount of properly allocable deductions is determined by
+treating the section 245A subgroup for each separate category
+as a statutory grouping for purposes of allocating and
+apportioning interest deductions on the basis of assets. Assets
+in a section 245A subgroup only include stock of a specified
+10%-owned foreign corporation that has been characterized as a
+section 245A asset. The stock is characterized as a section
+245A asset to the extent it generates income that would
+generate a dividends received deduction under section 245A if
+distributed. This doesn’t include income that is included as
+GILTI, subpart F income, or a section 956 inclusion or income
+described in section 245(a)(5) (which gives rise to a dividends
+received deduction under section 245 instead of section 245A).
+In the case of a specified 10%-owned foreign corporation that
+isn’t a CFC, if you’re eligible for the section 245A deduction for
+distributions received from that corporation, all of the value of its
+stock is generally in a section 245A subgroup because the stock
+generally generates dividends eligible for the section 245A
+deduction (and can’t generate an inclusion under section 951(a)
+(1) or 951A(a)). See Regulations section 1.904(b)-3(c)(2).
+The amount reported on line 7 is the value of stock of the
+partnership-owned specified 10%-owned foreign corporation
+that isn’t a CFC. Use the information provided in the attachment
+to line 7 to determine if such amount should be reported on Form
+1118, Schedule H, Part II, lines 3a through 3f, as (a) section
+245A dividend, or (b) other.
+If the specified 10%-owned foreign corporation is a CFC, you
+must subdivide a portion of the value of stock in each separate
+category and in the residual grouping for U.S. source income
+between a section 245A and non-section 245A subgroup under
+the rules described in Regulations section 1.861-13(a)(5).
+The amount reported on line 8 is the value of the stock in
+partnership-owned CFCs. Use the information provided in the
+attachment to line 8 to determine if such amount should be
+reported on Form 1118, Schedule H, Part II, lines 3a through 3f,
+as (a) section 245A dividend, or (b) other.
+
+Section 3—Foreign-Derived Intangible Income
+(FDII) Deduction Apportionment Factors
+
+Section 3 reports the information necessary for you to assign the
+FDII deduction to a source and separate category such that it
+may be reported on Form 1118, Schedule A; or Form 1116, Part
+I.
+
+Section 4—Foreign Taxes
+
+Section 4 reports your share of the foreign income taxes paid or
+accrued by the partnership by separate category and source.
+Line 1. Direct (section 901 or 903) foreign taxes. Report the
+taxes on line 1 in the applicable portions of Form 1116, Part II,
+and Form 1118, Schedule B, Part I, for the applicable separate
+category of income. To complete those parts, refer to the
+10
+
+statement attached to Schedule K-3, referred to earlier in the
+instructions for box 4 of Part I with the following information.
+• The dates on which the taxes were paid or accrued.
+• The exchange rates used.
+• The amounts in both foreign currency and U.S. dollars. See
+section 986(a).
+The partner takes its distributive share of the partnership’s
+foreign income taxes into account in the partner’s tax year with or
+within which the partnership’s tax year ends regardless of
+whether the partner or partnership takes foreign income taxes
+into account on the cash or accrual basis.
+Line 2. Reduction of taxes (total). Report the total reduction
+of taxes for each separate category of income from this line on
+Form 1116, Part III, line 12; and Form 1118, Schedule B, Part II,
+line 3.
+Line 3. Foreign tax redeterminations. Report the
+redetermined foreign income taxes from this line on Schedule L
+(Form 1118), Foreign Tax Redeterminations; and Schedule C
+(Form 1116), Foreign Tax Redeterminations, as applicable. In
+addition, the partner should file an amended return, if required,
+to report the foreign tax redetermination and change in U.S. tax
+liability. See the instructions for Form 1116 or 1118 and
+Regulations sections 1.905-3 through -5 for additional
+information.
+Note: If you’re an accrual method taxpayer, generally you may
+not claim a credit for additional taxes reported on Schedule K-3,
+Part III, Section 4, line 3, by the partnership unless those taxes
+have been paid. See section 905(c)(2) and Regulations section
+1.905-3(a).
+Use the information in the attachment provided by the
+partnership to complete Schedule L (Form 1118) and/or
+Schedule C (Form 1116), as applicable.
+If the partnership checked the “Contested tax” box and
+reported information about a contested foreign income tax on
+line 3, the partnership has remitted a contested foreign income
+tax liability to a foreign country. Under Regulations section
+1.905-1(f)(2), you as the partner may elect to claim a provisional
+foreign tax credit for your distributive share of such contested
+foreign income tax liability. To make the election to claim the
+provisional foreign tax credit, file Form 7204, Consent To Extend
+the Time To Assess Tax Related to Contested Foreign Income
+Taxes—Provisional Foreign Tax Credit Agreement. See the
+instructions for Form 1116 or 1118, and the Instructions for Form
+7204 for additional information.
+
+Section 5—Other Tax Information
+
+Section 5 reports the section 743(b) income adjustments
+allocated to you by source, separate category, and class of gross
+income. The section 743(b) income adjustments should be
+included as relevant in other parts of Schedule K-3. For example,
+the section 743(b) income adjustments should be reflected as
+part of the total depreciation reported on Part II, Section 2.
+Therefore, you don’t need to adjust other reported amounts for
+the section 743(b) income adjustments.
+No credit is allowed for taxes paid or accrued to a country
+described in section 901(j). However, a deduction is generally
+allowed with respect to a tax described in section 901(j).
+
+Part IV. Information on Partner’s
+Section 250 Deduction With Respect
+to Foreign-Derived Intangible Income
+(FDII)
+A domestic corporate partner should use this Part to calculate
+the partner’s FDII on Form 8993.
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+Section 1—Information To Determine Deduction
+Eligible Income (DEI) and Qualified Business
+Asset Investment (QBAI) on Form 8993
+Lines 1 through 7. A partner must include the amount reported
+to it on line 1 in calculating the gross income on Form 8993,
+line 1. The partner must also include any amounts that it
+identifies from Schedule K-3, lines 3 through 7, that aren’t
+attributable to its DEI on Form 8993, Part I, lines 2a through 2h.
+Line 3a. Income and gain from the sale or other
+disposition of intangible property under section 250(b)(3)
+(A)(i)(VII)(aa). The partnership has provided on this line the net
+amount of income and gain from the sale or other disposition of
+intangible property (as defined in section 367(d)(4)) before
+interest and R&E deductions, occurring after June 16, 2025,
+subject to exceptions as provided by the Secretary.
+Line 3b. Income and gain from the sale or other
+disposition of certain other property under section 250(b)
+(3)(A)(i)(VII)(bb). The partnership has provided on this line the
+net amount of income and gain from the sale or other disposition
+of any other property of a type that is subject to depreciation,
+amortization, or depletion by the seller before interest and R&E
+deductions, occurring after June 16, 2025, subject to exceptions
+as provided by the Secretary.
+Note: For purposes of lines 3a and 3b, sale or other disposition
+includes a deemed sale or other deemed disposition or a
+transaction subject to section 367(d). Sale or other disposition
+doesn’t include any lease or license.
+Use information on Schedule K-3, Part IV, Section 1, lines 2a
+through 2c, and in Section 3 to determine the expenses properly
+allocable to DEI on Form 8993, Part I, line 5.
+Example 6—partner’s reporting of DEI and QBAI. DC is a
+domestic corporation that owns a 50% interest in a domestic
+partnership, USP. USP manufactures and sells Product A and
+provides services solely to U.S. persons. The services give rise
+to domestic oil and gas extraction income (DOGEI) for purposes
+of section 250(b)(3)(A)(i)(V). USP has $200 in gross receipts
+from sales of Product A, $100 in cost of goods sold, and $50 in
+properly allocated and apportioned deductions (none of which
+are interest or R&E expenses). USP reports these amounts on
+Schedule K-2, Part IV, Section 1, lines 2a through 2c,
+respectively, and 50% of these amounts on the same section
+and lines of the Schedule K-3 that USP issues to DC, because
+this information is necessary for DC to compute its DEI. The net
+amount increases DC’s DEI, which increases its deemed
+intangible income (DII) and in turn increases its section 250
+deduction for FDII. DC uses these amounts to calculate its gross
+DEI on Form 8993, Part I, line 4.
+USP has $100 in gross receipts from services, $50 in cost of
+services, and $25 in properly allocated and apportioned
+deductions (none of which are interest or R&E expenses).
+Because the performance of these services results in DOGEI, it
+doesn’t give rise to DEI, but rather 50% of the net amount of $25
+($100 – ($50 + $25) = $25) is reported on Schedule K-3, Part IV,
+Section 1, line 6, so that DC can treat this amount as an
+exclusion from its DEI. DC’s DEI is determined without this
+amount by subtracting the amount from DEI on Form 8993, Part
+I, line 2e.
+USP owns two properties, Asset C which has an adjusted
+basis of $1,000, and Asset D which has an adjusted basis of
+$1,200. Asset C is used in the production of Product A and Asset
+D is used in providing the DOGEI services. Because sales of
+Product A give rise to DEI, 50% or $500 of the partnership’s
+adjusted basis in Asset C ($1,000) is reported to DC on
+Schedule K-3, Part IV, Section 1, line 8. This increases DC’s
+QBAI, and thereby increases DC’s deemed tangible income
+return (DTIR). The increase to DTIR decreases DC’s DII which in
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+turn decreases its section 250 deduction for FDII. DC uses the
+amount to determine its DTIR from partnerships on Form 8993,
+Part I, line 7b.
+Note: Some of the amounts reported on these lines related to
+distributions by foreign corporations may be attributable to PTEP
+in annual PTEP accounts that a partner has with respect to a
+foreign corporation and are therefore excludable from the
+partner’s gross income. See sections 959(a) and (d).
+Line 8. Partnership QBAI. A partner must include the amount
+reported to it on this line, in calculating the QBAI used to
+determine its DTIR on Form 8993, Part I, line 7b. However, for
+certain items determined by the partner that affect the amount of
+a partner’s adjusted bases included in its share of partnership
+specified tangible property, the partner must use and the
+partnership must provide information that separately
+distinguishes between the amount of the adjusted bases in a
+partnership’s tangible property that the domestic corporation
+would include in its adjusted bases in the partnership specified
+tangible property and the amount of the adjusted bases in the
+partnership’s tangible property that the domestic corporation
+would not include in its adjusted bases in the partnership
+specified tangible property; see Regulations section
+1.250(b)-2(g).
+
+Section 2—Information To Determine
+Foreign-Derived Deduction Eligible Income
+(FDDEI) on Form 8993
+Line 9. Gross receipts. A partner must include the amounts
+reported to it on this line, on Form 8993, Part II, line 9b. However,
+the partner must only include the portion of the amounts from
+columns (a) through (c) of Schedule K-3, Part IV, Section 2,
+line 9, that are attributable to its gross DEI on Form 8993, Part I,
+line 4.
+Note: Don’t include any income and gain from the sale or other
+disposition (including pursuant to the deemed sale or other
+deemed disposition or a transaction subject to section 367(d)) of
+intangible property (as defined in section 367(d)(4)), and any
+other property of a type that is subject to depreciation,
+amortization, or depletion by the seller, occurring after June 16,
+2025 (see the instructions for line 3a and line 3b, earlier).
+Line 10. COGS. A partner must include the amounts reported
+to it on this line, on Form 8993, Part II, line 10b. However, the
+partner must only include the portion of the amount on columns
+(a) through (c) of Schedule K-3, Part IV, Section 2, line 10, that is
+attributable to its gross DEI on Form 8993, Part I, line 4.
+Line 11. Allocable deductions. A partner must include the
+amounts reported to it on this line, on Form 8993, Part II, line 13.
+Line 12. Other apportioned deductions. A partner must
+include the amounts reported to it on this line, on Form 8993,
+Part II, line 17. However, the partner must only include the
+portion of the amount on Schedule K-3, Part IV, Section 2,
+line 12, that is attributable to its gross DEI on Form 8993, Part I,
+line 4.
+
+Section 3—Other Information for Preparation of
+Form 8993
+Interest Expense and Interest Expense
+Apportionment Factors
+This section reports the information that you need to allocate and
+apportion your interest expense for FDII purposes.
+Lines 13A and 13B. Include these amounts on Form 8993, Part
+I, line 5, and/or Part II, line 14.
+11
+
+Line 13C. Other interest expense. Add the interest expense
+to your other interest expense.
+Exception. Certain corporate partners with a less-than-10%
+interest in a partnership shall directly allocate their distributive
+shares of the partnership’s interest expense to its distributive
+share of partnership gross income; see Regulations section
+1.861-9(e)(4). After apportionment, if necessary, include the
+appropriate amount of interest expense on Form 8993, Part I,
+line 5, and/or Part II, line 14.
+Line 14. Interest expense apportionment factors. Corporate
+partners will use this section to determine the interest expense
+reported on Form 8993, Part I, line 5; and Part II, line 14.
+
+R&E Expenses and R&E Expenses Apportionment
+Factors
+This section reports the information that you need to allocate and
+apportion your R&E expenses for FDII purposes. R&E expenses
+are allocated and apportioned by the partner. See Regulations
+section 1.861-17(f)(1).
+Line 15. Gross receipts by SIC code. Add the amounts to the
+partner's other gross receipts by SIC code.
+Line 16. R&E expenses by SIC code. Add the amounts to the
+partner’s other R&E expenses by SIC code.
+
+Part V. Distributions From Foreign
+Corporations to Partnership
+
+Use Part V to determine your share of distributions by foreign
+corporations to the partnership (with your share being reported
+in this Part V) that are attributable to PTEP in your annual PTEP
+accounts with respect to the foreign corporations (which are
+excludable from your gross income) or non-previously taxed
+E&P, and the amount of foreign currency gain or loss on the
+PTEP that you’re required to recognize under section 986(c).
+The amount of foreign currency gain or loss on the PTEP that
+you’re required to recognize under section 986(c) is equal to the
+excess of the U.S. dollar amount of the PTEP over your U.S.
+dollar basis in the PTEP. If the distributed PTEP was maintained
+in a functional currency other than the U.S. dollar, the U.S. dollar
+amount of the distributed PTEP is determined by translating the
+distributed PTEP into U.S. dollars using the spot rate on the date
+that the PTEP was distributed; see section 989(b)(1). Your U.S.
+dollar basis in the distributed PTEP is generally equal to the U.S.
+dollar amount of E&P that you previously included in gross
+income; see sections 989(b)(1) and (3).
+Also use Part V, in combination with other information known
+to you, to claim and figure a foreign tax credit on Form 1116 or
+1118, and, if eligible, to claim and figure a dividends received
+deduction under section 245A on Form 1120 with respect to the
+distributions that are attributable to non-previously taxed E&P.
+Include the U.S. dollar amount of E&P distributions from
+qualified foreign corporations in determining the amount of
+qualified dividends you report on Form 1040, line 3a, or the
+amount of dividends reported on Form 1120. A foreign
+corporation identified as a qualified foreign corporation in column
+(j) that is a PFIC (as defined in section 1297) as to you for the tax
+year of the foreign corporation in which the distribution was
+made, or the preceding tax year, isn’t a qualified foreign
+corporation, regardless of whether it’s indicated as such in
+column (j). See section 1(h)(11)(C)(iii)(I) and Notice 2004-70,
+2004-44 I.R.B. 724.
+
+However, don’t include the U.S. dollar amount of E&P
+distributions from a foreign corporation to the extent the
+distributions are attributable to PTEP in annual PTEP accounts
+that you have with respect to the foreign corporation, or
+attributable to E&P that are excludable from your gross income
+under section 1293(c), in determining the amount of dividends
+that you report on Form 1040, line 3a or 3b; or Form 1120. See
+Notice 2019-01, 2019-02 I.R.B. 275.
+Include the amount of foreign currency gain or loss that you’re
+required to recognize under section 986(c) in determining the
+amount to report on Form 1120; or Schedule 1 (Form 1040),
+line 8.
+Note: If the partnership is a domestic partnership, the
+partnership may have annual PTEP accounts under section 959
+with respect to the foreign corporation or may have earnings with
+respect to the foreign corporation that, when distributed, can be
+excluded from the partnership’s income under section 1293(c)
+for amounts included in income by the partnership under section
+951(a) or 1293(a), respectively. In such a case:
+• If the distributing foreign corporation is a PFIC and isn’t a
+CFC with respect to which you or any other direct or indirect
+partner is a U.S. shareholder (as defined in section 951(b)),
+the partnership may exclude your share of any distribution
+from the foreign corporation in your Schedule K-3, Part V, to
+the extent such distribution constitutes a distribution
+excludable from the partnership’s gross income under
+section 1293(c);
+• If the distributing foreign corporation is a CFC with respect to
+which the partnership has PTEP for amounts it included in
+income under section 951(a) (only to the extent such PTEP
+relates to tax years of the CFC beginning before January 25,
+2022), the partnership may exclude your share of any
+distribution from the foreign corporation in your
+Schedule K-3, Part V, to the extent such distribution is
+attributable to PTEP under section 959; or
+• If the distributing foreign corporation is both a CFC and a
+PFIC, and the partnership has no PTEP for amounts
+included in income under section 951(a) that can be
+excluded from the partnership’s gross income under section
+959 when distributed, the partnership will report your share
+of the entire distribution in your Schedule K-3, Part V, and
+will provide you with information on any amounts that may
+be excluded from the partnership’s gross income under
+section 1293(c), if applicable.
+If the partnership is a domestic partnership and received a
+distribution that is (a) attributable to PTEP in an annual PTEP
+account of the partnership, or (b) attributable to E&P that are
+excludable from the partnership’s gross income under section
+1293(c), that is treated as a dividend for purposes of section
+1411 (that is, for purposes of the net investment income tax
+(NIIT)) and, therefore, may be net investment income (NII) (such
+PTEP, NII PTEP), it’ll attach a statement to Schedule K-3
+regarding your share of the partnership’s NII PTEP. If you’re an
+individual who is a U.S. citizen or resident, or a domestic trust or
+estate, use the U.S. dollar amounts of NII PTEP reported on the
+statement, and follow the Instructions for Form 8960 to figure
+and report your NII. Corporate partners aren’t subject to the NIIT;
+see Regulations sections 1.1411-1 through -10 for details. Note
+that your share of a distribution received by the partnership that
+is attributable to PTEP in your annual PTEP accounts, or
+attributable to E&P that are excludable from your gross income
+under section 1293(c), may also be treated as a dividend for
+purposes of section 1411 and, therefore, may be NII PTEP.
+
+Include the U.S. dollar amount of E&P distributions from a
+nonqualified foreign corporation in determining the amount of
+ordinary dividends you report on Form 1040, line 3b; or Form
+1120.
+
+Note: Columns (e) and (f) are reported in the foreign
+corporation’s functional currency.
+
+12
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+Part VI. Information on Partner’s
+Section 951(a)(1) and Section 951A
+Inclusions
+
+Use Part VI to include in gross income the appropriate amount of
+subpart F income inclusion and/or section 951(a)(1)(B)
+inclusion, and to complete Form 8992.
+
+For each CFC listed in column (a) of Schedule K-3, Part VI, of
+which you’re a U.S. shareholder, include the amounts of subpart
+F income and section 951(a)(1)(B) inclusion reported on Part VI
+in determining the amount you report on Form 1120,
+Schedule C, line 16; or Schedule 1 (Form 1040), line 8.
+Note that, for corporate partners, in determining the amount
+you report on Form 1120, Schedule C, line 16, the section 951(a)
+(1)(B) inclusion amounts reported in Schedule K-3, Part VI, may
+be reduced under Regulations section 1.956-1(a)(2).
+For each CFC listed in column (a) for which you’re a U.S.
+shareholder, report the tested income and tested loss for each
+CFC in columns (c) and (d), respectively, of Schedule A (Form
+8992) and include your share of each CFC’s items described in
+columns (i) through (n) of Schedule K-3, Part VI, in determining
+the amount to report in columns (e) through (j), respectively, of
+Schedule A (Form 8992).
+
+Part VII. Information Regarding
+Passive Foreign Investment
+Companies (PFICs)
+
+U.S. persons may be required to complete and file Form 8621
+and/or include amounts in income with respect to PFICs owned
+through a partnership. This includes PFICs with respect to which
+no qualified electing fund (QEF) or section 1296 mark-to-market
+(MTM) election has been made and unpedigreed QEFs (section
+1291 funds), as well as PFICs with respect to which a pedigreed
+QEF, a section 1296 MTM, or other election has been, or may
+be, made. For information regarding the requirement to file Form
+8621, as well as certain filing exceptions, see Regulations
+section 1.1298-1 and the Form 8621 instructions.
+Use the information provided in this Schedule K-3, Part VII
+(including any supplemental attachments (Table 6 or 7, from the
+Partnership Instructions for Schedules K-2 and K-3 (Form 1065),
+if applicable)), as instructed below, to complete Form 8621 with
+respect to each PFIC for which you have a filing obligation.
+Additionally, for any PFIC that you own through your interest in
+the partnership, use the information provided in this
+Schedule K-3, Part VII (including any supplemental attachments
+(Table 6 or 7, from the Partnership Instructions for Schedules K-2
+and K-3 (Form 1065), if applicable)), to determine your income
+inclusion with respect to the PFIC (if any) and complete your U.S.
+federal income tax return.
+If a PFIC reported on this Schedule K-3 also constitutes a
+CFC within the meaning of section 957 (PFIC/CFC) and you’re a
+U.S. shareholder (within the meaning of section 951(b)) with
+respect to that PFIC/CFC, the information on this schedule with
+respect to that PFIC/CFC may not be relevant to you. The box in
+Section 1, column (m), will be checked if the PFIC also
+constitutes a CFC. See section 1297(d) for additional
+information.
+
+Section 1—General Information
+Columns (a) through (e). General information. If you’re
+required to complete Form 8621 with respect to a PFIC reported
+on this schedule, use this information to complete the Form 8621
+background information.
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+Columns (f) through (i). Summary of annual information. If
+you’re required to complete Form 8621 with respect to a PFIC
+reported on this schedule, enter this information on Form 8621,
+Part I, lines 1 through 4.
+Note: If you’re making an election under Regulations section
+1.1291-10, 1.1297-3, or 1.1298-3 with respect to a PFIC
+reported on this Schedule K-3, Part VII, you may need additional
+information from the partnership regarding the value of the PFIC
+shares reported in column (i) that isn’t reported here.
+Column (j). Election made by partnership. If the partnership
+is a domestic partnership, this column will indicate to you (using
+the codes below) whether the partnership has made an election
+with respect to the PFIC which binds the partners. If the
+partnership is a foreign partnership, no code will be entered in
+this column; however, if certain information with respect to the
+PFIC is provided, you may be able to make certain elections with
+respect to the PFIC on Form 8621.
+
+Partnership Election Codes for Column (j)
+Codes
+
+Election type
+
+QEF
+
+Qualified electing fund election
+
+MTM
+
+Section 1296 mark-to-market election
+
+Note: In general, if the partnership is a domestic partnership
+and has made a pedigreed QEF or section 1296 MTM election
+with respect to a PFIC, the partnership isn’t required to complete
+Schedule K-3, Part VII, with respect to that PFIC if the
+partnership files Form 8621 for that PFIC. In that case, you may
+not be required to file Form 8621 with respect to that PFIC and
+income inclusions with respect to the PFIC, if any, will be figured
+by the partnership and reported to you on Schedule K-1, Part III.
+However, if the partnership is a domestic partnership that has
+made a pedigreed QEF or section 1296 MTM election with
+respect to a PFIC for which the partnership doesn’t file Form
+8621, if the partnership owns stock of an unpedigreed QEF, or if
+the partnership is making a section 1296 MTM election with
+respect to stock in a PFIC in the current tax year if the current tax
+year isn’t the first year of the partnership’s holding period in the
+stock (non-initial section 1296 MTM election), it’s required to
+complete Schedule K-3, Part VII, with that PFIC’s information,
+and you may be required to file Form 8621 with respect to that
+PFIC. See Regulations section 1.1298-1(b)(2) and the Form
+8621 instructions for additional information.
+Additionally, if the partnership marks to market stock of a
+PFIC as described in Regulations section 1.1291-1(c)(4), the
+partnership generally doesn’t need to report information about
+the PFIC in Schedules K-2 and K-3, Part VII. In such a case, the
+partnership should report its MTM gain or loss on Schedule K
+and report your share of those amounts in Schedule K-1, Part III.
+Note, however, in such a case there may be instances in which
+you’ll need additional information from the partnership to meet
+your tax obligations with respect to a PFIC for which the
+partnership has marked to market the stock as described in
+Regulations section 1.1291-1(c)(4), such as when the section
+1291 rules apply to you because the stock wasn’t marked by the
+partnership in the first year of its holding period. In such
+instances, the partnership should provide you with the needed
+information and may use Schedule K-3, Part VII, to do so.
+Columns (k) through (n). Information regarding elections.
+Use the information provided in these columns to make certain
+elections with respect to a PFIC on Form 8621, Part II. If you
+don’t intend to make any election with respect to a PFIC reported
+on this Schedule K-3, Part VII, you may generally ignore these
+boxes for that PFIC.
+
+13
+
+Note: If you’re making an election under Regulations section
+1.1291-9, 1.1297-3, or 1.1298-3 with respect to a PFIC/CFC, or
+a PFIC that is a former PFIC within the meaning of Regulations
+section 1.1291-9(j)(2)(iv), you may need additional information
+from the partnership that isn’t reported on this Schedule K-3,
+Part VII, including information with respect to the PFIC’s E&P.
+
+Section 2—Additional Information on PFIC or
+Qualified Electing Fund (QEF)
+Note: The partnership will complete Section 2 with respect to
+each PFIC reported in Section 1, and each line completed with
+respect to a PFIC in Section 1 corresponds to the same line in
+Section 2. If the PFIC has no current year activity or has no other
+information for the partnership to report in columns (c) through
+(o), the partnership will only include the name and employer
+identification number (EIN) or reference ID number of the PFIC in
+columns (a) and (b) and will leave columns (c) through (o) blank
+with respect to that PFIC.
+
+QEF Information
+Columns (c) and (d). Partner’s share of ordinary earnings
+and of net capital gain. This information is to assist you in
+determining your income inclusions from certain PFICs with
+respect to which a QEF election has been, or may be, made.
+If the partnership is a domestic partnership that has made a
+pedigreed QEF election with respect to a PFIC, and the
+domestic partnership files Form 8621 for that PFIC, that PFIC will
+typically not be reported in Schedule K-3, Part VII. In that case,
+your share of the domestic partnership’s QEF inclusions, if any,
+will be reported to you in Schedule K-1, Part III. However, in the
+event the domestic partnership doesn’t file Form 8621 for a PFIC
+for which the domestic partnership has made a pedigreed QEF
+election, or if the domestic partnership owns stock of an
+unpedigreed QEF, you may be required to file Form 8621 for that
+PFIC. See Regulations section 1.1298-1(b)(2) for additional
+information.
+If you’re required to file Form 8621 for a PFIC reported in
+Schedule K-3, Part VII, enter the amounts from columns (c) and
+(d) on Form 8621, Part III, lines 6a and 7a, respectively, and
+include these amounts in gross income on your U.S. federal
+income tax return unless you’re making an election under section
+1294 with respect to the QEF for the current tax year. If you’re
+making a section 1294 election with respect to the QEF for the
+current tax year, use the rest of Form 8621, Part III, lines 8 and 9,
+to determine the amount of deferred tax with respect to the QEF
+for the current tax year.
+Note: If your interest in the partnership constitutes an applicable
+partnership interest within the meaning of section 1061(c) or the
+regulations thereunder, you may need additional information not
+reported on this Schedule K-3 from the QEF with respect to its
+computation of its net capital gain (as defined in Regulations
+section 1.1293-1(a)(2)) to perform certain computations under
+section 1061 or the regulations thereunder. The partnership may
+aid you in obtaining the information from the QEF, though the
+QEF isn’t required to provide it. See section 1061 and
+Regulations sections 1.1061-4 and -6 for more information.
+
+Section 1296 Mark-to-Market Information
+Columns (e) and (f). FMV of PFIC shares at beginning and
+end of tax year. This information is to assist you in determining
+your gain or loss from certain PFICs with respect to which an
+MTM election under section 1296 has been, or may be, made
+(MTM PFIC), including PFICs with respect to which the
+partnership is making a non-initial section 1296 MTM election.
+14
+
+If the partnership is a domestic partnership and has made an
+MTM election under section 1296 with respect to a PFIC (other
+than a non-initial section 1296 MTM election), and the domestic
+partnership files Form 8621 for that MTM PFIC, that MTM PFIC
+will typically not be reported in Schedule K-3, Part VII. In that
+case, your share of the domestic partnership’s MTM gain or loss,
+if any, will be reported to you in Schedule K-1, Part III. However,
+in the event the domestic partnership doesn’t file Form 8621 for
+an MTM PFIC or if the domestic partnership is making a
+non-initial section 1296 MTM election with respect to a PFIC,
+you may have a reporting obligation for that PFIC. See
+Regulations section 1.1298-1(b)(2) for additional information. A
+partnership is also not required to complete Schedule K-3, Part
+VII, with respect to a PFIC if it has marked stock of a PFIC to
+market as described in Regulations section 1.1291-1(c)(4),
+though it may provide you with certain information in
+Schedule K-3, Part VII, if the PFIC stock isn’t marked to market in
+the first year of the partnership’s holding period.
+If you’re required to file Form 8621 with respect to an MTM
+PFIC reported in Schedule K-3, Part VII, enter the amount from
+column (f) on Form 8621, Part IV, line 10a. You may need
+additional information from the partnership regarding your share
+of its adjusted tax basis in the MTM PFIC stock to complete the
+rest of Form 8621, Part IV. Your share of the partnership’s
+adjusted tax basis in the MTM PFIC stock may be equal to your
+share of the fair market value (FMV) of the stock at the beginning
+of the prior tax year reported in column (e) of Schedule K-3, Part
+VII, Section 2. However, your share of the partnership’s adjusted
+tax basis in the MTM PFIC stock may not be equal to the FMV of
+the stock at the beginning of the prior tax year, depending on the
+amounts of prior year income inclusions and the amounts
+allowed a deduction with respect to the MTM PFIC. Once you
+determine your share of the partnership’s adjusted tax basis in
+the MTM PFIC shares, enter this amount on Form 8621, Part IV,
+line 10b, and use the rest of Form 8621, Part IV, lines 10c
+through 12, to determine your MTM gain or loss to include on
+your U.S. federal income tax return.
+Additionally, if the partnership is a domestic partnership and
+is making a non-initial section 1296 MTM election with respect to
+a PFIC, you should use the information for that PFIC from
+columns (g) through (o) of Schedule K-3, Part VII, Section 2, and
+the corresponding instructions described below to determine
+whether you have received an excess distribution with respect to
+the PFIC stock, or whether your distributive share of the
+domestic partnership’s section 1296(a) gain for the tax year (if
+any) is treated as an excess distribution. This will help you
+determine any corresponding additions to tax and interest
+charges under section 1291. For special rules related to RICs
+that are shareholders of PFICs with respect to which a non-initial
+section 1296 MTM election has been made, see Regulations
+section 1.1296-1(i)(3).
+
+Section 1291 and Other Information
+Generally, this information is to assist you in satisfying any
+information reporting obligations for, and in figuring income
+inclusions with respect to, section 1291 funds. However, except
+as otherwise provided, this information may be relevant to PFICs
+with respect to which a pedigreed QEF election, a section 1296
+MTM election (including a non-initial section 1296 MTM
+election), or other election has been made by you or the
+partnership.
+Column (g). Dates PFIC shares were acquired. This
+information is provided to help you assess your holding period in
+the PFIC stock through your ownership in the partnership.
+Unless also provided in column (g) of Section 1, with respect to
+an acquisition of stock in the PFIC during the partnership’s tax
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+year, these dates don’t need to be entered on Form 8621 or on
+your U.S. federal income tax return.
+Note: The dates entered in this column (g) will be the dates the
+partnership acquired the PFIC stock. If you acquired your
+partnership interest after the date listed with respect to a PFIC,
+you may have a different holding period with respect to the PFIC
+stock.
+Column (h). Amount of cash and FMV of property distributed by PFIC during the current tax year. Your share of the
+amount of cash and FMV of property distributed by the PFIC
+during the tax year may be reported on different parts of Form
+8621, or not reported at all on Form 8621.
+
+Where on Form 8621 To Report Distributions From
+PFICs
+IF you’re a shareholder of a...
+
+THEN...
+
+section 1291 fund, PFIC with respect
+to which a domestic partnership is
+making a non-initial section 1296
+MTM election, or a PFIC for which
+now may be treated as a qualifying
+insurance corporation, and for which
+you’re required to file Form 8621
+
+enter this amount on Form 8621, Part
+V, line 15a.
+
+QEF for which you aren’t making a
+section 1294 election for the current
+tax year
+
+you don’t need to enter this on Form
+8621.
+
+QEF for which you’re making a
+section 1294 election for the current
+tax year
+
+enter this amount on Form 8621, Part
+III, line 8b.
+
+MTM PFIC (other than a PFIC with
+respect to which the partnership is
+making a non-initial section 1296
+MTM election)
+
+you don’t need to enter this on Form
+8621.
+
+meaning of section 1291(g) and doesn’t include taxes
+attributable to QEF inclusions under section 1293. If you’re a
+corporate shareholder of a QEF that meets the ownership
+requirements of section 1293(f)(3), use Part VIII to determine
+your deemed paid foreign tax credit under section 960, including
+with respect to inclusions under section 1293(f).
+Column (k). Total distributions from PFIC in preceding 3
+tax years. This information is to help you assess your excess
+distribution and resulting other income, additional tax, and
+interest charge with respect to each section 1291 fund in which
+you’re a shareholder through your ownership in the partnership
+or with respect to a PFIC for which the partnership is making a
+non-initial section 1296 MTM election. If you’re required to file
+Form 8621 with respect to one of these types of PFICs owned by
+the partnership, use this amount to determine the amount to
+include on Form 8621, Part V, line 15b, and use the rest of Form
+8621, Part V, lines 15 and 16, to determine the amount of any
+excess distribution and resulting other income, additional tax,
+and interest charge to include on your U.S. federal income tax
+return with respect to the section 1291 fund.
+Note: The information in column (k) of Schedule K-3, Part VII,
+Section 2, is only relevant with respect to section 1291 funds and
+PFICs with respect to which the partnership is making a
+non-initial section 1296 MTM election and isn’t relevant for any
+PFIC with respect to which a pedigreed QEF election or other
+section 1296 MTM election has been, or may be, made.
+Column (l). Dates PFIC shares disposed of during tax year.
+This information is provided to help you assess the treatment to
+you on any disposition by the partnership of stock in a PFIC in
+combination with column (g). These dates don’t need to be
+entered on Form 8621.
+Note: Your holding period of the PFIC stock may have begun on
+a different date than the partnership’s holding period.
+
+Note: Your share of foreign taxes in column (j) of Schedule K-3,
+Part VII, Section 2, includes only foreign taxes within the
+
+Columns (m) through (o). This information is to assist you in
+figuring any gain or loss on the partnership’s disposition of PFIC
+stock.
+For each section 1291 fund in which you’re a shareholder
+through your ownership in the partnership or with respect to any
+PFIC for which the partnership is making a non-initial section
+1296 MTM election for which you’re required to file Form 8621,
+enter the amount from column (o) of Schedule K-3, Part VII,
+Section 2, on Form 8621, Part V, line 15f, and use the rest of
+Form 8621, Part V, line 16, to determine the amount of any
+resulting other income, additional tax, and interest charge to
+include on your U.S. federal income tax return with respect to the
+PFIC. Your adjusted tax basis in the PFIC shares as reported by
+the partnership should reflect any adjustments in the
+partnership’s shares in the PFIC that are specific to you; you may
+also need to make corresponding adjustments to your basis in
+your partnership interest.
+For each MTM PFIC (including a PFIC with respect to which a
+domestic partnership is making a non-initial section 1296 MTM
+election) in which you’re a shareholder through your ownership in
+the partnership, and with respect to which you’re required to file
+Form 8621, enter the amounts from columns (m) and (n) of
+Schedule K-3, Part VII, Section 2, on Form 8621, Part IV, lines
+13a and 13b, respectively. Complete the rest of Form 8621, Part
+IV, lines 13 and 14, to determine your MTM gain or loss to
+include on your U.S. federal income tax return. Your basis in the
+MTM PFIC shares as reported by the partnership should reflect
+adjustments made by the partnership with respect to the MTM
+PFIC, as well as any other partner-specific adjustments such as
+section 743(b) adjustments; you may also need to make
+corresponding adjustments to your basis in your partnership
+interest. See section 1296(b)(2) for additional information on
+adjustments to basis in MTM PFIC shares held by foreign
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+15
+
+Note: Deemed distributions by QEFs aren’t reported in
+Schedule K-3, Part VII. If you make, or have made, an election
+under section 1294 and are deemed to have received a
+distribution from the QEF, this information is required to complete
+Form 8621, Parts III and VI. See section 1294(f) and Temporary
+Regulations section 1.1294-1T for additional information.
+Note: If you have made a section 1294 election with respect to a
+QEF owned by the partnership, a distribution of earnings by the
+QEF will terminate the section 1294 election to the extent the
+election is attributable to the earnings distributed. In such a case,
+enter the amount of the distribution on Form 8621, Part VI,
+line 22. See Temporary Regulations section 1.1294-1T(e) and
+the Form 8621, Part VI, instructions for additional information.
+Column (i). Dates of distribution. This information is to help
+you assess any information related to the date of a distribution
+from a PFIC. You don’t need to enter these dates on Form 8621
+or on your U.S. federal income tax return.
+Column (j). Total creditable foreign taxes attributable to
+distribution by PFIC. This information is to help you assess
+any available foreign tax credit attributable to an excess
+distribution from a section 1291 fund or PFIC with respect to
+which the partnership is making a non-initial section 1296 MTM
+election in which you’re a shareholder through your ownership in
+the partnership. If you’re required to file Form 8621 with respect
+to one of these types of PFICs owned by the partnership, use
+this amount to determine your foreign tax credit to include on
+Form 8621, Part V, line 16d. See section 1291(g) for additional
+information on creditable foreign taxes.
+
+partnerships with respect to section 1296 income inclusions and
+deductions.
+For each QEF in which you’re a shareholder through your
+ownership in the partnership with respect to which you have
+previously made a section 1294 election, and for which you’re
+required to file Form 8621, if amounts are reported in columns
+(m) through (o) of Schedule K-3, Part VII, Section 2, with respect
+to the QEF, the disposition may have partially or completely
+terminated your election, and you may need to complete Form
+8621, Part VI, lines 21 through 24. See Temporary Regulations
+section 1.1294-1T and the Form 8621 instructions for additional
+information.
+Note: If you have made a QEF election with respect to a PFIC
+which you own indirectly through the partnership, you may be
+required to adjust your share of the tax basis in the PFIC shares
+as reported by the partnership, and thus your gain or loss
+reported in column (o), by cumulative QEF inclusions and
+distributions made by the QEF; your basis in your partnership
+interest may need to be similarly adjusted. See section 1293(d)
+for more information on basis adjustments with respect to QEFs.
+
+Part VIII. Partner’s Interest in Foreign
+Corporation Income (Section 960)
+
+Note: Amounts on this part are reported in foreign currency.
+In general, for purposes of the foreign tax credit, a domestic
+corporate U.S. shareholder of a CFC is deemed to pay all or a
+portion of the foreign income taxes paid or accrued by the CFC
+that are properly attributable to subpart F income or tested
+income of the CFC that the U.S. shareholder includes in gross
+income; see sections 960(a) and (d). See also section 1293(f)
+with respect to QEF inclusions from a PFIC. The domestic
+corporate U.S. shareholder may claim a credit for such foreign
+taxes, subject to certain limitations. Individuals, estates, and
+trusts may also claim a foreign tax credit for foreign income taxes
+deemed paid with respect to a CFC. However, they must make
+an election under section 962.
+To calculate the foreign taxes deemed paid by a partner that’s
+a corporate U.S. shareholder of a CFC held by a partnership, the
+income, deductions, and taxes of the CFC must be assigned to
+separate categories of income and then to income groups in
+those separate categories; see Regulations section 1.960-1(c)
+(1). This is completed on Schedule Q (Form 5471), CFC Income
+by CFC Income Groups. The income groups include the subpart
+F income group, the tested income group, and the residual
+income group. Each single item of foreign base company income
+as defined in Regulations section 1.954-1(c)(1)(iii) is a separate
+subpart F income group; see Regulations section 1.960-1(d)(2)
+(ii)(B). The tested income group consists of tested income within
+a section 904 category; see Regulations section 1.960-1(d)(2)(ii)
+(C). The residual income group consists of any income not in the
+
+other income groups or in a PTEP group; see Regulations
+section 1.960-1(d)(2)(ii)(D). See Regulations section 1.960-3(c)
+(3) with respect to the PTEP groups. The PTEP groups aren’t
+reported in this Schedule K-3, Part VIII.
+A partner claiming a deemed paid credit with respect to an
+inclusion under section 951 will use Schedule K-3, Part VIII, to
+complete Form 1118, Schedule C; see section 960(a).
+
+Where To Report Information From Schedule K-3
+(Form 1065), Part VIII
+Use information from
+Schedule K-3, Part VIII, column...
+
+To report in Form 1118,
+Schedule C, column...
+
+(ii)
+
+8(a)
+
+(iii)
+
+6
+
+(iv)
+
+7
+
+The partner must also complete column 5 of Form 1118,
+Schedule C, with information from Schedule K-3, Part VIII.
+Note: The amount entered in column 8(a) of Form 1118,
+Schedule C, won’t equal the share of the net income in the
+subpart F income group if there’s a qualified deficit. See
+Regulations section 1.960-2(b)(3)(ii).
+Similarly, a partner claiming a deemed paid credit with
+respect to an inclusion under section 951A will use the
+information reported on Schedule K-3, Part VIII, line 2, to
+complete Form 1118, Schedule D; see section 960(d).
+
+Where To Report Information From Schedule K-3
+(Form 1065), Part VIII, Line 2
+Use information from
+Schedule K-3, Part VIII, line 2,
+column...
+
+To report in Form 1118,
+Schedule D, Part I, column...
+
+(ii)
+
+5
+
+(iii)
+
+6
+
+(iv)
+
+8
+
+Example 7—use Schedule K-3 to claim deemed paid
+credit. In Year 1, USP, a domestic partnership, has two
+domestic corporate partners with equal interests in the
+partnership. USP wholly owns CFC. CFC’s reference ID number
+is 1234. CFC earns passive category interest income of 100u
+sourced from Country X and pays a withholding tax of $20 to
+Country X. The code for Country X is X. USP reports the
+following to each of its partners in Schedule K-3, Part VIII.
+
+Example 7—USP’s Schedule K-3, Part VIII, for Partners
+A
+
+EIN or reference ID number of CFC . . . . . . .
+
+C
+
+If PAS was entered on line B, applicable grouping under Regulations section 1.904-4(c)
+
+1
+
+. . . . . . . . . .
+
+PAS
+
+. . . . . . . . . . . . . . . . . . . . . . . .
+
+B Separate category
+
+(i)
+
+(i) Country code
+
+(ii) Partner’s share of
+foreign corporation’s net
+income (functional
+currency)
+
+(iii) Foreign
+corporation’s total net
+income (functional
+currency)
+
+(iv) Foreign
+corporation’s current
+year foreign taxes for
+which credit allowed
+(U.S. dollars)
+
+X
+
+50u
+
+100u
+
+$20
+
+Subpart F income groups
+a Dividends, interest, rents, royalties, and annuities
+(total)
+(1) Unit: CFC
+
+16
+
+1234
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+On Form 1118, Schedule C, for the passive category income,
+each domestic corporate partner reports the information
+
+received on Schedule K-3 as shown in Example—Domestic
+Corporate Partner’s Form 1118, Schedule C.
+
+Example—Domestic Corporate Partner’s Form 1118, Schedule C
+5. Subpart F Income Group
+1a. Name of
+Foreign
+Corporation
+
+CFC
+
+(a) Reg. sec.
+(b) Reg. sec.
+1.960-1(d)(2)(ii) 1.904-4(c)(3)(i)–
+(B)(2)
+(iv)
+DIRRA
+
+i
+
+(c) Unit
+
+CFC
+
+6. Total Net
+Income in
+Subpart F
+Income Group
+(functional
+currency)
+
+7. Total Eligible
+Current Year
+Taxes in Subpart
+F Income Group
+(U.S. dollars)
+
+100u
+
+$20
+
+Part IX. Partner’s Information for Base
+Erosion and Anti-Abuse Tax (Section
+59A)
+
+If you’re a corporate partner of a partnership, use this part from
+the partnership to determine your BEAT liability, if any. The BEAT
+is generally levied on certain large corporations that have
+deductions and certain other similar items paid or accrued to
+foreign related parties that are 3% of their total deductions or
+higher (2% in the case of certain banks or registered securities
+dealers), a determination referred to as the "base erosion
+percentage test." Corporate partners that are applicable
+taxpayers under Regulations section 1.59A-2 may be subject to
+the BEAT. See Regulations section 1.59A-7 for further
+information regarding the application of section 59A to
+partnerships, and the Instructions for Form 8991 to determine
+whether a corporate partner is an applicable taxpayer subject to
+the BEAT. Certain small partners aren’t required to include the
+partner’s amount of base erosion tax benefits resulting from a
+base erosion payment made by a partnership. See Regulations
+section 1.59A-7(d)(2) for further information regarding the
+application of the exception for small partners.
+
+Section 1—Applicable Taxpayer
+Lines 1 Through 4
+The amounts shown on lines 1 through 4 reflect the partner’s
+distributive share of gross receipts from the partnership’s
+business or rental activities. The partner should use the
+information from lines 2 through 4 to complete Form 8991, Part I,
+line 1b.
+Line 1. Gross receipts for section 59A(e). This is the
+partner’s distributive share of gross receipts for the tax year as
+described in Temporary Regulations section 1.448-1T(f)(2)(iv).
+Line 5. Amounts included in the denominator of the base
+erosion percentage as described in Regulations section
+1.59A-2(e)(3)(i)(B). This is the partner’s distributive share of
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+8. Section 951(a)(1)
+Inclusion Attributable to
+Subpart F Income Group
+(a)
+Functional
+Currency
+50u
+
+(b) U.S.
+Dollars
+
+9. Divide
+Column
+8(a) by
+Column 6
+
+10. Tax
+Deemed Paid
+(multiply
+column 7 by
+column 9)
+
+0.500
+
+$10
+
+the partnership’s deductions to be included in the denominator
+of the partner’s base erosion percentage. For a description of
+deductions that aren’t included in the denominator, see
+Regulations section 1.59A-2(e)(3)(ii).
+
+Section 2—Base Erosion Payments and Base
+Erosion Tax Benefits
+Lines 6 Through 19
+The partner should use the information from lines 7 through 16 to
+complete Form 8991, Schedule A, lines 2 through 11.
+Line 7. Cost sharing transaction payments. Include the
+amounts from columns (b) and (c) on Form 8991, Schedule A,
+line 2.
+Line 8. Purchase or creations of property rights for intangibles (patents, trademarks, etc.). This is the partner’s
+distributive share of amounts paid or accrued to a foreign person
+that’s a related party of the partner in connection with the
+acquisition or creation of intangible property rights (patents,
+copyrights, trademarks, trade secrets, etc.) that’s subject to the
+allowance for depreciation (or amortization in lieu of
+depreciation). Include the amounts from columns (b) and (c) on
+Form 8991, Schedule A, line 3.
+Line 9. Rents, royalties, and license fees. Include the
+amounts from columns (b) and (c) on Form 8991, Schedule A,
+line 4.
+Line 10a. Compensation/consideration paid for services
+NOT excepted by section 59A(d)(5). Include the amounts
+from columns (b) and (c) on Form 8991, Schedule A, line 5a.
+Line 10b. Compensation/consideration paid for services
+excepted by section 59A(d)(5). Include the amount from
+column (a) on Form 8991, Schedule A, line 5b.
+Line 11. Interest expense. If you’re a foreign corporate partner,
+the partnership completed Worksheet A for your distributive
+share of items. Use the information to help complete your Form
+8991.
+
+17
+
+Worksheet A
+Foreign Partner’s Distributive Share of Interest Paid or Accrued by the Partnership
+(a)
+
+(b)
+
+Total interest paid or accrued in the
+current year
+
+(c)
+
+Interest paid or accrued to foreign
+Interest expense paid or accrued to
+related parties of the foreign partner foreign related parties of the foreign
+in the current year
+partner that is allowed as a
+deduction in the current year
+
+(1) Foreign partner’s distributive share of interest
+expense on liabilities described in Regulations
+section 1.882-5(a)(1)(ii)(A) or (B)
+(2) Foreign partner’s distributive share of interest
+paid on U.S.-booked liabilities under Regulations
+section 1.882-5(d)(2)(vii)
+(3) Foreign partner’s distributive share of interest
+paid on all other liabilities of the partnership
+Totals. Combine lines (1) through (3)
+
+Column (a). This is the partner’s distributive share of all
+interest paid or accrued by the partnership for the tax year
+(excluding interest paid or accrued in a prior year treated as paid
+or accrued in the current year under section 163(j) or similar
+provisions).
+Column (b). This is the partner’s distributive share of all
+interest expense paid or accrued by the partnership for the tax
+year (excluding interest paid or accrued in a prior year treated as
+paid or accrued in the current year under section 163(j) or similar
+provisions) that is paid or accrued to a foreign person that is a
+related party of the partner.
+Column (c). This is the partner’s base erosion tax benefit
+attributable to interest expense paid or accrued by the
+partnership that is allowed as a deduction in the current tax year.
+See Regulations section 1.59A-3(b)(4) for more information on
+how a foreign corporation with a U.S. trade or business or
+permanent establishment determines the amount of interest that
+is a base erosion tax benefit.
+For domestic corporate partners, include the total amount
+from line 11 in columns (a-1), (a-2), (b-1), and (b-2) of Form
+8991, Schedule A, line 6.
+For foreign corporate partners, the amounts in columns (b)
+and (c) of Worksheet A, are used to determine the amounts to be
+included in columns (a-1), (a-2), (b-1), and (b-2) of Form 8991,
+Schedule A, line 6.
+
+Line 14b. Qualified derivative payments excepted by section 59A(h). This is the partner’s distributive share of qualified
+derivative payments excepted by section 59A(h). Generally, a
+qualified derivative payment is any payment made by the
+taxpayer pursuant to a derivative contract, provided that the
+taxpayer (a) recognizes gain or loss on the derivative contract as
+if it were sold for its FMV on the last business day of the tax year;
+(b) treats the gain or loss as ordinary; and (c) treats the
+character of all other items of income, deduction, gain, or loss
+with respect to a payment pursuant to the derivative as ordinary.
+A payment isn’t a qualified derivative payment if the payment
+would be treated as a base erosion payment if it were not made
+pursuant to a derivative (such as interest, royalty, or services
+income). With respect to a contract with both derivative and
+nonderivative components, a payment isn’t a qualified derivative
+payment if it’s properly allocable to the nonderivative component.
+Enter the amount from line 14b on Form 8991, Schedule A,
+line 9b. This meets the reporting requirements of Regulations
+sections 1.59A-6(b)(2) and 1.6038A-2(b)(7)(ix).
+
+Line 12. Payments for the purchase of tangible personal
+property. Include the amounts from columns (b) and (c) on
+Form 8991, Schedule A, line 7.
+
+Line 17, column (c). Base erosion tax benefits related to
+payments included on lines 6 through 16, on which tax is
+imposed by section 871, 881, or 884(f), with respect to which tax
+has been withheld under section 1441 or 1442 at the 30%
+statutory withholding tax rate or subject to tax under Regulations
+section 1.884-4(a)(2)(ii) at the 30% statutory rate. Include the
+amount from column (c) on Form 8991, Schedule A, line 13.
+
+Line 13. Premiums and/or other considerations paid or accrued for insurance and reinsurance as covered by sections 59A(d)(3) and (c)(2)(A)(iii). Include the amounts from
+columns (b) and (c) on Form 8991, Schedule A, line 8.
+Line 14a. Nonqualified derivative payments. The amounts
+on this line are reported on Form 8991, Schedule A, line 9.
+Column (a). This is the partner’s distributive share of all
+amounts paid or accrued by the partnership attributable to
+derivative contracts as defined in section 59A(h)(4).
+Column (b). This is the partner’s distributive share of
+amounts paid or accrued by the partnership to a foreign person
+that is a related party of the partner attributable to derivative
+contracts that aren’t eligible for the qualified derivative payments
+exception under Regulations section 1.59A-6 (nonqualified
+derivative payments).
+Column (c). This is the partner’s base erosion tax benefit
+attributable to nonqualified derivative payments paid or accrued
+by the partnership to a foreign person that is a related party of
+the partner.
+18
+
+Line 15. Payments reducing gross receipts made to surrogate foreign corporation. Include the amounts from columns
+(b) and (c) on Form 8991, Schedule A, line 10.
+Line 16. Other payments—specify. Include the amounts from
+columns (b) and (c) on Form 8991, Schedule A, line 11.
+
+Line 18, column (c). Portion of base erosion tax benefits
+included on lines 6 through 16, on which tax is imposed by
+section 871 or 881, with respect to which tax has been withheld
+under section 1441 or 1442 at a reduced withholding rate
+pursuant to an income tax treaty or subject to a reduced rate of
+tax under Regulations section 1.844-4(a)(2)(ii). Multiply the
+amount of the base erosion tax benefit by a fraction equal to the
+rate of tax imposed under the treaty over the 30% (0.30)
+statutory rate. Include the amount from column (c) on Form
+8991, Schedule A, line 14.
+For more information regarding this computation, see the
+Instructions for Worksheet for Schedule A, Line 14 in the
+Instructions for Form 8991.
+Line 19, column (c). Total base erosion tax benefits. The
+partner should use the information from Section 1, lines 1
+through 5, and column (c) of Section 2, line 19, to assist in the
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+partner’s determination of whether the partner is an applicable
+taxpayer and to complete the applicable lines on Form 8991 and
+Schedule A.
+
+Part X. Foreign Partner’s Character
+and Source of Income and
+Deductions
+
+Use this part if you’re a foreign person that earns ECI from U.S.
+and/or foreign sources and/or U.S. source FDAP income to
+determine if you have a U.S. tax obligation for the applicable tax
+year. You may be required to figure your U.S. income tax liability
+and file U.S. income tax returns and forms (for example, Form
+1040-NR, Form 1120-F, and other applicable forms).
+
+Section 1—Gross Income
+
+The partnership uses Part X to report your distributive share of
+income that is subject to tax in the United States. You must
+report items of income from your Part X on your tax return and
+accompanying schedules. Each line in this section of the
+schedule corresponds to a line on Form 1065, Schedule K, lines
+1 through 11. For a more detailed description of the types of
+income listed on each line, see Income (Loss) under Part III in
+the Partner’s Instructions for Schedule K-1 (Form 1065).
+Column (a). Total. This is your distributive share of the
+partnership’s gross income.
+Column (b). Partner determination. If income is reported in
+column (b), it means that the partnership was unable to
+determine the income’s source. You must determine the source
+of income in column (b). The source of income is important in
+determining how to report income on your tax return. Each type
+of income has its own sourcing rules. For example, if you have
+capital gains listed in column (b), you must determine the source
+of such gain under section 865. For more information on
+sourcing rules for particular items of income, see Pub. 514 and
+section 865. Once you have determined the source of the
+income in column (b), use the statement the partnership
+attached to Schedule K-3 to report the income. If you determine
+the income is U.S. source, the statement attached to
+Schedule K-3 will advise reporting the income as either ECI,
+FDAP, or other. If you determine the income is foreign source, the
+statement will advise whether the income should be reported as
+ECI.
+Columns (c) and (d). Effectively connected income.
+Nonresident aliens should complete Form 1040-NR using the
+following instructions.
+Caution: Foreign corporations should report ECI on Schedule P
+(Form 1120-F), in accordance with its instructions.
+Lines 1 through 5. Report amounts of ECI from lines 1 through
+5 on Schedule E (Form 1040), Supplemental Income and Loss,
+and attach it to your tax return. See Income (Loss) under Part III
+in the Partner’s Instructions for Schedule K-1 (Form 1065) for
+more information on how to complete Schedule E.
+Line 6. Interest income. Report amounts of ECI from line 6 on
+Form 1040-NR, line 2b.
+Line 7. Dividends. Report amounts of ECI from line 7 on Form
+1040-NR, line 3a or 3b.
+Line 8. Dividend equivalents. If you’re a pass-through entity
+and provide Schedules K-3 to your partners, see the instructions
+for Part X, line 8, in the Partnership Instructions for Schedules
+K-2 and K-3 (Form 1065).
+Line 9. Royalties and license fees. Report amounts of ECI
+from line 9 on Schedule E (Form 1040), line 4.
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+Lines 10 through 14. Report amounts of ECI from lines 10
+through 14 on Schedule D (Form 1040) or Form 4797, Sales of
+Business Property, attached to your tax return. Such amounts
+include, for example, gains from the disposition of a U.S. real
+property interest. See Income (Loss) under Part III in the
+Partner’s Instructions for Schedule K-1 (Form 1065), and the
+instructions for Form 1040-NR, line 7, for more information on
+how to report this income.
+Line 11. Net long-term capital gain. Line 11 doesn’t include
+gains reported on lines 12, 13, and 14.
+Line 14. Net section 1231 gain. Line 14 doesn’t include net
+section 1231 gain that is also unrecaptured section 1250 gain.
+Such gain is reported on line 13.
+Note: Don’t report foreign source income listed in column (d) as
+ECI if you determine it’s subpart F income as defined under
+section 952(a).
+Caution: Don’t report income listed in column (d) as ECI if it’s
+dividends, interest, or royalties paid by a foreign corporation in
+which you own or are considered to own (within the meaning of
+section 958) more than 50% of the total combined voting power
+of all classes of stock entitled to vote.
+Column (e). U.S. source non-ECI (FDAP).
+Nonresident aliens. Generally, amounts of U.S. source
+non-ECI from column (e) are entered on your Schedule NEC
+(Form 1040-NR).
+Foreign corporations. Generally, amounts of U.S. source
+non-ECI from column (e) are reported on your Form 1120-F,
+Section I.
+Caution: Although the partnership determined this income isn’t
+effectively connected to its trade or business, the income could
+be effectively connected to your U.S. trade or business. See Pub.
+519, U.S. Tax Guide for Aliens, or the Instructions for Form
+1120-F for more information on when U.S. source income is ECI.
+Column (f). U.S. source non-ECI (other). If you’re engaged in
+any trade or business within the United States, report these
+amounts as ECI on your tax return as directed by the Instructions
+for Form 1040-NR or the Instructions for Form 1120-F. If you
+aren’t so engaged, you generally don’t need to report these
+amounts on your tax return. However, non-ECI transportation
+income subject to tax under section 887 is reported on Form
+1120-F, Section I, line 9, as applicable. Nonresident individuals
+report the section 887 non-ECI transportation tax on Form
+1040-NR, line 23c.
+
+Section 2—Deductions, Losses, and Net Income
+
+In figuring a foreign corporation’s or nonresident alien’s ECI,
+deductions are allowed only if they are allocated and
+apportioned to income effectively connected with a U.S. trade or
+business; see sections 861(b), 873, and 882(c). To determine
+ECI, a foreign corporation and nonresident alien individual must
+allocate and apportion deductions and losses to gross income in
+the ECI statutory grouping and to gross income in the non-ECI
+residual grouping; see Regulations section 1.861-8(f)(1)(iv). For
+additional guidance for foreign corporations, see Schedule H
+(Form 1120-F), Deductions Allocated to Effectively Connected
+Income Under Regulations Section 1.861-8; and Schedule I
+(Form 1120-F), Interest Expense Allocation Under Regulations
+Section 1.882-5. For additional guidance for nonresident aliens,
+see the Instructions for Form 1040-NR. Schedule K-3, Part X,
+Section 2, also generally corresponds to the deductions
+separately reported on Form 1065, Schedule K.
+Add the foreign corporation’s share of partnership expenses
+to the foreign corporation’s expenses and enter those expenses
+on Schedule H (Form 1120-F). The following instructions provide
+19
+
+specific instructions for reporting expenses on Form 1120-F. See
+the Instructions for Form 1040-NR to determine the appropriate
+placement of the nonresident alien partner’s share of the
+partnership’s expenses.
+Column (b). Partner determination. Include the foreign
+corporation’s share of partnership expenses that must be
+apportioned to ECI by the foreign corporation on Schedule H
+(Form 1120-F), Part II. This includes R&E expenses and interest
+expense.
+Columns (c) and (d). Partnership determination—ECI.
+Enter the foreign corporation’s share of partnership deductions
+definitely related and allocated to ECI in Schedule H (Form
+1120-F), Part I.
+Columns (e) through (g). Partnership determination—non-ECI. Enter the foreign corporation’s share of
+partnership deductions definitely related and allocated to
+non-ECI in Schedule H (Form 1120-F), Part I.
+Line 2. R&E expenses. Add the foreign corporation’s share of
+partnership R&E expenses to the foreign corporation’s other
+R&E expenses and apportion such R&E expenses to ECI. Enter
+the resultant amount on Schedule H (Form 1120-F), Part I and
+Part II. See Regulations section 1.861-17(f).
+
+Line 3a. U.S.-booked liabilities of partnership. These
+amounts may be reported by the foreign partner on Schedule P
+(Form 1120-F), Part III, line 11; and in column (b) of Schedule I
+(Form 1120-F), line 8. As indicated in the instructions for Part X,
+Section 2, line 7, the interest expense on U.S.-booked liabilities
+as defined in Regulations section 1.882-5(d)(2)(vii) should
+generally be reported by the foreign partner on Schedule P
+(Form 1120-F), line 8; and in column (b) of Schedule I (Form
+1120-F), line 9.
+Line 3b. Directly allocated partnership indebtedness.
+These amounts may be reported by the foreign partner on
+Schedule P (Form 1120-F), Part III, line 10a. The interest
+expense on indebtedness described in Regulations section
+1.882-5(a)(1)(ii)(B) should generally be reported by the foreign
+partner on Schedule P (Form 1120-F), Part II, line 7; and
+Schedule I (Form 1120-F), line 22.
+Line 4a. Personnel of U.S. trade or business. Add the
+amount reported on this line to other amounts you report on
+Schedule H (Form 1120-F), Part III, line 23a.
+Line 4b. Worldwide personnel. Add the amount reported on
+this line to other amounts you report on Schedule H (Form
+1120-F), Part III, line 23b.
+
+Line 7. Interest expense on U.S.-booked liabilities. A foreign
+corporate partner generally reports its share of interest expense
+on the partnership’s U.S.-booked liabilities, as described in
+Regulations section 1.882-5(d)(2)(vii), on Schedule P (Form
+1120-F), Part II, line 8. Then, the total interest expense on
+U.S.-booked liabilities from Schedule P (Form 1120-F), line 8,
+(including the amount from column (b) of Schedule K-3, Part X,
+Section 2, line 7) will be entered in , column (b) of Schedule I
+(Form 1120-F), line 9.
+
+Line 5. Gross receipts from sales or services by SIC code.
+If you have R&E expenses, use the appropriate information from
+this line.
+
+Line 10. Section 59(e)(2) expenditures. R&E expenses aren’t
+included on this line. R&E expenses that are also section 59(e)
+(2) expenditures are included on line 2.
+
+Part XI. Section 871(m) Covered
+Partnerships
+
+Line 12. Net long-term capital loss. Line 12 doesn’t include
+losses reported on line 13.
+Line 16. Charitable contributions. Charitable contributions
+may be deducted whether or not they’re effectively connected
+with a U.S. trade or business. See sections 873(b)(2) and 882(c)
+(1)(B), and Regulations section 1.882-4(b) for more information.
+Caution: If box 6 of Part I is checked, interest or royalty
+expenses may include amounts for which the partner isn’t
+allowed a deduction under section 267A. See the statement for
+box 6 of Part I attached to Schedule K-3.
+
+Section 3—Allocation and Apportionment
+Methods for Deductions
+
+Section 3 provides information you may use to apportion
+deductions to ECI or non-ECI. See Regulations sections 1.861-8
+through -20 and Temporary Regulations sections 1.861-8T
+and -9T. The ratios listed below generally correspond to the
+ratios in Schedule H (Form 1120-F), Part III.
+Line 1a. Gross ECI. Add the amount reported on this line to
+other amounts you report on Schedule H (Form 1120-F), Part III,
+line 21a.
+Line 1b. Worldwide gross income. Add the amount reported
+on this line to other amounts you report on Schedule H (Form
+1120-F), Part III, line 21b.
+Line 2a. Average U.S. assets (inside basis). If you use the
+ratio of the U.S. assets (inside basis) to the worldwide assets
+method to apportion expenses to ECI, check “Yes” on
+Schedule H (Form 1120-F), Part III, line 24, and attach a
+statement.
+20
+
+Lines 7 and 8. Other allocation and apportionment key.
+Check “Yes” on Schedule H (Form 1120-F), Part III, line 24 or 25,
+if you used another apportionment method based on amounts
+entered on lines 7 and 8. Attach a statement to Form 1120-F.
+
+Section 4—Reserved for Future Use
+
+If you’re a U.S. or foreign person that has entered into a section
+871(m) transaction that references units in the partnership, use
+this part to determine your U.S. withholding tax and reporting
+obligations with respect to those transactions under section
+871(m) and related sections, including for purposes of
+determining the amounts to report on Forms 1042 and 1042-S.
+This part will be provided if the partnership is a PTP that (a) is
+a covered partnership as defined in Regulations section
+1.871-15(m)(1), or (b) directly or indirectly holds an interest in a
+lower-tier partnership that is a covered partnership. The
+information in this part is to permit you to determine your U.S.
+withholding tax and reporting obligations under section 871(m)
+and related rules if you’re a U.S. or foreign person that has
+entered into a section 871(m) transaction that references units in
+the partnership, including for purposes of determining the
+amounts to report on Forms 1042 and 1042-S.
+If you’ve entered into a potential section 871(m) transaction
+with another person that references units in the partnership, you
+may need this information to determine your obligations under
+section 871(m) and related rules. Generally, a potential section
+871(m) transaction is a securities lending or sale-repurchase
+transaction, a notional principal contract, or any other specified
+financial transaction that references one or more underlying
+securities, and an underlying security is any interest in an entity
+that could give rise to a U.S. source dividend. See Regulations
+section 1.871-15 for additional information, including the
+definitions of underlying securities and potential section 871(m)
+transactions.
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+Part XII. Section 871(m) Tax Liability
+of a Qualified Derivatives Dealer
+(QDD)
+
+If you’re a U.S. or foreign person that is a partner in a partnership
+that is, or has one or more branches that are, a QDD, as defined
+under the qualified intermediary agreement in Rev. Proc.
+2022-43 (QDD partnership), use this part to determine your U.S.
+tax or withholding tax and reporting obligations with respect to
+the QDD activities, including, if applicable, to determine the
+amounts to report on Forms 1042 and 1042-S.
+
+Part XIII. Foreign Partner’s
+Distributive Share of Deemed Sale
+Items on Transfer of Partnership
+Interest
+
+Use this part to determine the information you must report about
+the effectively connected gain or loss arising from the transfer of
+an interest in a partnership.
+
+In general. Section 864(c)(8) requires a foreign partner that
+directly or indirectly transfers part or all of an interest in a
+partnership engaged in the conduct of a trade or business in the
+United States to include in income the effectively connected gain
+or loss from the transfer. A partnership distribution is considered
+a transfer when it results in recognition of gain or loss. See
+Regulations section 1.731-1(a).
+Information regarding the transfer of an interest in a
+partnership engaged in the conduct of a trade or business in the
+United States must be provided to the partnership no later than
+30 days after the transfer by any of the following transferors: (a) a
+foreign person; (b) a domestic partnership that has a foreign
+person as a direct partner; or (c) a domestic partnership that has
+actual knowledge that a foreign person holds, through one or
+more partnerships, an interest in the domestic partnership.
+To determine the amount of gain or loss described in section
+864(c)(8), generally, a foreign transferor must first determine its
+gain or loss on the transfer of a partnership interest (outside gain
+or loss). For this purpose, outside gain or loss is determined
+
+Partner's Instructions for Schedule K-3 (Form 1065) (2025)
+
+under all relevant provisions of the Code and the regulations
+thereunder. A foreign transferor may recognize capital gain or
+loss (outside capital gain or loss) and ordinary gain or loss
+(outside ordinary gain or loss) on the transfer of its partnership
+interest and must separately apply section 864(c)(8) with respect
+to its capital gain or loss and its ordinary gain or loss. Part XIII,
+line 1, provides the information for the partner to determine its
+outside ordinary gain or outside ordinary loss. The partner then
+applies Regulations section 1.751-1(a)(2) to determine its
+outside capital gain or loss.
+Line instructions. The foreign transferor must compare the
+outside gain or loss amounts with the relevant aggregate
+deemed sale effectively connected gain or loss provided on Part
+XIII, lines 2 and 3. The foreign transferor only includes in income
+the lower of the outside amount and the deemed sale effectively
+connected amount. This determination is made separately with
+respect to capital gain or loss and ordinary gain or loss. For
+example, a foreign transferor would compare its outside ordinary
+gain to its aggregate deemed sale effectively connected ordinary
+gain, treating the former as effectively connected gain only to the
+extent it doesn’t exceed the latter. Similarly, the foreign transferor
+would compare its outside capital gain to its aggregate deemed
+sale effectively connected capital gain, treating the former as
+effectively connected gain only to the extent it doesn’t exceed
+the latter.
+Amounts entered on lines 4 and 5 are subsets of the amount
+entered on line 3 and don’t apply to a foreign transferor that is a
+corporation.
+Unless there is an amount only entered on line 7, use this
+information as follows.
+• If you’re a nonresident alien individual, foreign trust, or
+foreign estate, complete Schedule P (Form 1040-NR).
+• If you’re a foreign corporation, complete Schedule P (Form
+1120-F), Parts IV and V.
+• If you’re a foreign partnership, complete Form 4797 and
+Form 8949, Sales and Other Dispositions of Capital Assets,
+as needed.
+• If this is an installment sale, see Form 6252.
+If an amount is only entered on line 7, use it to determine gain
+or loss from the transfer of the partnership interest when
+completing Form 8949.
+
+21
+
+

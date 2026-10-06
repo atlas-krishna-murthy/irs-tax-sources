@@ -1,0 +1,57 @@
+{
+  "rule": {
+    "id": "a-g-02",
+    "title": "A 2024 state or local income tax refund is not income where 2024 deducted general sales taxes instead",
+    "class": "prior_year",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-G.2"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "box",
+        "ref": "1099-G.3"
+      },
+      {
+        "kind": "prior_year",
+        "ref": "schedule a line 5a general sales taxes"
+      }
+    ],
+    "params": {
+      "when": {
+        "all": [
+          {
+            "box": "1099-G.3",
+            "in": [
+              "2024"
+            ]
+          },
+          {
+            "prior_year": "schedule a line 5a general sales taxes",
+            "is": true
+          }
+        ]
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Schedule 1 (Form 1040)",
+      "line": "1",
+      "revision": "2025",
+      "wording": "if, in the year you paid the tax, you either (a) didn't itemize deductions, or (b) elected to deduct state and local general sales taxes instead of state and local income taxes.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "Case (b) is decided by last year's paper: the 2024 Schedule A line 5a box elects general sales taxes, so none of the refund is taxable. Case (a), 'didn't itemize', is NOT applied: no 2024 line prints it, and reading it from a Schedule A missing from the packet would decide on absence — the prior returns arrive with pages missing. Where 2024 itemized and deducted income taxes, how much of the refund is income is the State and Local Income Tax Refund Worksheet (computation state-local-income-tax-refund-taxable), never this rule. Box 3 must say 2024: the prior return held is 2024's, and a refund of another year's tax is not answered by it."
+  }
+}

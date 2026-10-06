@@ -1,0 +1,106 @@
+{
+  "document": {
+    "id": "1099-C",
+    "title": "Cancellation of Debt",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-C (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099c--2025.pdf",
+    "issued_by": "the creditor",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Date of identifiable event",
+        "type": "date"
+      },
+      {
+        "box": "2",
+        "label": "Amount of debt discharged",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Interest, if included in box 2",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Debt description",
+        "type": "text"
+      },
+      {
+        "box": "5",
+        "label": "If checked, the debtor was personally liable for repayment of the debt",
+        "type": "checkbox"
+      },
+      {
+        "box": "6",
+        "label": "Identifiable event code",
+        "type": "code",
+        "codes": [
+          {
+            "code": "A",
+            "label": "Bankruptcy"
+          },
+          {
+            "code": "B",
+            "label": "Other judicial debt relief"
+          },
+          {
+            "code": "C",
+            "label": "Statute of limitations or expiration of deficiency period"
+          },
+          {
+            "code": "D",
+            "label": "Foreclosure election"
+          },
+          {
+            "code": "E",
+            "label": "Debt relief from probate or similar proceeding"
+          },
+          {
+            "code": "F",
+            "label": "By agreement"
+          },
+          {
+            "code": "G",
+            "label": "Decision or policy to discontinue collection"
+          },
+          {
+            "code": "H",
+            "label": "Other actual discharge before identifiable event"
+          }
+        ]
+      },
+      {
+        "box": "7",
+        "label": "Fair market value of property",
+        "type": "money"
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed above the issuer's block on every copy. A corrected form replaces one furnished earlier; its figures are the ones to use, never counted beside the earlier form's."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed on Copy A (the issuer's filing copy) and the state copy; the recipient's Copy B does not print it."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "FR-016 mark. An account or other unique number the issuer assigned; identification only, never a figure."
+      }
+    ],
+    "notes": "irs-prior/f1099c--2025.pdf returns 404 because the revision in force for tax year 2025 is Rev. April 2025 and no newer revision has been issued; the current-path PDF prints '(Rev. April 2025)' on its face. Box 3 is INSIDE box 2 ('Interest, if included in box 2') and must not be routed separately - see aggregate 1099c.2. Box 6 declares its identifiable event code table inline, verbatim from the Instructions for Recipient, box 6."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099C",
+    "note": null
+  }
+}

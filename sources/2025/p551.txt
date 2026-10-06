@@ -1,0 +1,1560 @@
+                                                                        Contents
+                                                                        Future Developments . . . . . . . . . . . . . . . . . . . . . . . 1
+Publication 551                                                         What’s New . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+(Rev. December 2025)
+                                                                        Reminder . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+
+Basis of                                                                Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+                                                                        Cost Basis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+Assets                                                                     Stocks and Bonds . . . . . . . . . . . . . . . . . . . . . . . 3
+                                                                           Real Property . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+                                                                           Business Assets . . . . . . . . . . . . . . . . . . . . . . . . . 4
+                                                                           Allocating the Basis . . . . . . . . . . . . . . . . . . . . . . 5
+                                                                        Adjusted Basis . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+                                                                           Increases to Basis . . . . . . . . . . . . . . . . . . . . . . . 6
+                                                                           Decreases to Basis . . . . . . . . . . . . . . . . . . . . . . . 7
+                                                                        Basis Other Than Cost . . . . . . . . . . . . . . . . . . . . . 10
+                                                                           Property Received for Services . . . . . . . . . . . . . 10
+                                                                           Taxable Exchanges . . . . . . . . . . . . . . . . . . . . . . 11
+                                                                           Nontaxable Exchanges . . . . . . . . . . . . . . . . . . . 11
+                                                                           Property Transferred From a Spouse . . . . . . . . . 14
+                                                                           Property Received as a Gift . . . . . . . . . . . . . . . . 14
+                                                                           Inherited Property . . . . . . . . . . . . . . . . . . . . . . . 15
+                                                                           Property Changed to Business or Rental Use . . . 17
+                                                                        How To Get Tax Help . . . . . . . . . . . . . . . . . . . . . . . 17
+                                                                        Glossary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+                                                                        Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+
+
+                                                                        Future Developments
+                                                                        For the latest information about developments related to
+                                                                        Pub. 551, such as legislation enacted after this publication
+                                                                        was published, go to IRS.gov/Pub551.
+
+
+
+                                                                        What’s New
+                                                                        Uniform capitalization rules. For tax years beginning in
+                                                                        2025, small businesses are not subject to the uniform cap-
+                                                                        italization rules if the average annual gross receipts are
+                                                                        $31 million or less for the 3 preceding tax years and the
+                                                                        business isn't a tax shelter. See Uniform Capitalization
+                                                                        Rules, later.
+                                                                        New guidance regarding the basis of certain inheri-
+                                                                        ted property. Section 1014(f) requires that basis of cer-
+ Get forms and other information faster and easier at:                  tain property acquired from a decedent be consistent with
+ • IRS.gov (English)             • IRS.gov/Korean (한국어)                 the value of the property as finally determined for estate
+ • IRS.gov/Spanish (Español)     • IRS.gov/Russian (Pусский)            tax purposes. For the final regulations under section 1014,
+ • IRS.gov/Chinese (中文)          • IRS.gov/Vietnamese (Tiếng Việt)
+                                                                        Basis Of Property Acquired From A Decedent, see T.D.
+                                                                        9991,      2024-40       I.R.B.  646,     at    IRS.gov/irb/
+                                                                        2024-40_IRB#TD-9991.
+
+
+
+
+                                            Publication 551 (Rev. 12-2025) Catalog Number 15094C
+Dec 2, 2025                            Department of the Treasury Internal Revenue Service www.irs.gov
+                                                                   Getting tax forms, instructions, and publications.
+Reminder                                                        Go to IRS.gov/Forms to download current and prior-year
+                                                                forms, instructions, and publications.
+Photographs of missing children. The Internal Reve-                Ordering tax forms, instructions, and publications.
+nue Service is a proud partner with the National Center for     Go to IRS.gov/OrderForms to order current forms, instruc-
+Missing & Exploited Children® (NCMEC). Photographs of           tions, and publications; call 800-829-3676 to order
+missing children selected by the Center may appear in           prior-year forms and instructions. The IRS will process
+this publication on pages that would otherwise be blank.        your order for forms and publications as soon as possible.
+You can help bring these children home by looking at the        Don’t resubmit requests you’ve already sent us. You can
+photographs        and      calling      1-800-THE-LOST         get forms and publications faster online.
+(1-800-843-5678) if you recognize a child.
+                                                                Useful Items
+                                                                You may want to see:
+Introduction
+                                                                 Publication
+Basis is the amount of your investment in property for tax
+purposes. Use the basis of property to figure depreciation,          463 Travel, Gift, and Car Expenses
+                                                                          463
+
+
+
+
+amortization, depletion, and casualty losses. Also, use it
+                                                                     523 Selling Your Home
+to figure gain or loss on the sale or other disposition of
+                                                                          523
+
+
+
+
+property. You must keep accurate records of all items that           525 Taxable and Nontaxable Income
+affect the basis of property so you can make these com-
+                                                                          525
+
+
+
+
+putations.                                                           527 Residential Rental Property
+                                                                          527
+
+
+
+
+   This publication is divided into the following sections.          530 Tax Information for Homeowners
+    • Cost Basis
+                                                                          530
+
+
+
+
+                                                                     537 Installment Sales
+    • Adjusted Basis
+                                                                          537
+
+
+
+
+                                                                     544 Sales and Other Dispositions of Assets
+    • Basis Other Than Cost
+                                                                          544
+
+
+
+
+    The basis of property you buy is usually its cost. You           547 Casualties, Disasters, and Thefts
+                                                                          547
+
+
+
+
+may also have to capitalize (add to basis) certain other             550 Investment Income and Expenses
+costs related to buying or producing the property.
+                                                                          550
+
+
+
+
+    Your original basis in property is adjusted (increased or        559 Survivors, Executors, and Administrators
+                                                                          559
+
+
+
+
+decreased) by certain events. If you make improvements
+                                                                     587 Business Use of Your Home
+to the property, increase your basis. If you take deductions
+                                                                          587
+
+
+
+
+for depreciation or casualty losses, reduce your basis.              946 How To Depreciate Property
+    You can't determine your basis in some assets by cost.
+                                                                          946
+
+
+
+
+This includes property you receive as a gift or inheritance.     Form (and Instructions)
+It also applies to property received in an involuntary con-
+                                                                     706 United States Estate (and Generation-Skipping
+version and certain other circumstances.
+                                                                         Transfer) Tax Return
+                                                                          706
+
+
+
+
+Comments and suggestions. We welcome your com-                       706-A United States Additional Estate Tax Return
+ments about this publication and suggestions for future
+                                                                                       706-A
+
+
+
+
+editions.                                                            8594 Asset Acquisition Statement
+                                                                                8594
+
+
+
+
+   You can send us comments through IRS.gov/
+FormComments. Or, you can write to the Internal Revenue         See How To Get Tax Help near the end of this publication
+Service, Tax Forms and Publications, 1111 Constitution          for information about getting publications and forms.
+Ave. NW, IR-6526, Washington, DC 20224.
+   Although we can’t respond individually to each com-
+ment received, we do appreciate your feedback and will          Cost Basis
+consider your comments and suggestions as we revise
+our tax forms, instructions, and publications. Don’t send
+tax questions, tax returns, or payments to the above ad-        Terms you may need to know
+dress.                                                          (see Glossary):
+   Getting answers to your tax questions. If you have              Business assets
+a tax question not answered by this publication or the How         Real property
+To Get Tax Help section at the end of this publication, go
+to the IRS Interactive Tax Assistant page at IRS.gov/              Unstated interest
+Help/ITA where you can find topics by using the search
+feature or viewing the categories listed.
+                                                                The basis of property you buy is usually its cost. The cost
+                                                                is the amount you pay in cash, debt obligations, other
+
+2                                                                                              Publication 551 (12-2025)
+property, or services. Your cost also includes amounts you        Real Property
+pay for the following items.
+ • Sales tax.                                                     Real property, also called real estate, is land and generally
+                                                                  anything built on or attached to it. If you buy real property,
+ • Freight.                                                       certain fees and other expenses become part of your cost
+ • Installation and testing.                                      basis in the property.
+ • Excise taxes.                                                  Real estate taxes. If you pay real estate taxes the seller
+ • Legal and accounting fees (when they must be capi-             owed on real property you bought, and the seller didn't re-
+    talized).                                                     imburse you, treat those taxes as part of your basis. You
+                                                                  can't deduct them as taxes.
+ • Revenue stamps.                                                   If you reimburse the seller for taxes the seller paid for
+ • Recording fees.                                                you, you can usually deduct that amount as an expense in
+                                                                  the year of purchase. Don't include that amount in the ba-
+ • Real estate taxes (if assumed for the seller).                 sis of the property. If you didn't reimburse the seller, you
+You may also have to capitalize (add to basis) certain            must reduce your basis by the amount of those taxes.
+other costs related to buying or producing property.
+                                                                  Settlement costs. Your basis includes the settlement
+Loans with low or no interest. If you buy property on a           fees and closing costs for buying property. You can't in-
+time-payment plan that charges little or no interest, the ba-     clude in your basis the fees and costs for getting a loan on
+sis of your property is generally your stated purchase            property. A fee for buying property is a cost that must be
+price, minus the amount of the stated purchase price con-         paid even if you bought the property for cash.
+sidered to be unstated interest or original issue discount,          The following items are some of the settlement fees or
+whichever is applicable. You generally have unstated in-          closing costs you can include in the basis of your property.
+terest or original issue discount if your interest rate is less
+than the applicable federal rate. For more information, see
+                                                                   • Abstract fees (abstract of title fees).
+Unstated Interest and Original Issue Discount in Pub. 537.         • Charges for installing utility services.
+Purchase of a business. When you purchase a trade or               • Legal fees (including title search and preparation of
+business, you generally purchase all assets used in the               the sales contract and deed).
+business operations, such as land, buildings, and machi-           • Recording fees.
+nery. Allocate the price among the various assets, includ-
+ing any section 197 intangibles. See Allocating the Basis,
+                                                                   • Surveys.
+later.                                                             • Transfer taxes.
+                                                                   • Owner's title insurance.
+Stocks and Bonds                                                   • Any amounts the seller owes that you agree to pay,
+The basis of stocks or bonds you buy is generally the pur-            such as back taxes or interest, recording or mortgage
+chase price plus any costs of purchase, such as commis-               fees, charges for improvements or repairs, and sales
+sions and recording or transfer fees. If you get stocks or            commissions.
+bonds other than by purchase, your basis is usually deter-           Settlement costs don't include amounts placed in es-
+mined by the fair market value (FMV) or the previous own-         crow for the future payment of items such as taxes and in-
+er's adjusted basis of the stock.                                 surance.
+                                                                     The following items are some settlement fees and clos-
+   You must adjust the basis of stocks for certain events
+                                                                  ing costs you can't include in the basis of the property.
+that occur after purchase. See Stocks and Bonds in chap-
+ter 4 of Pub. 550 for more information on the basis of             1. Casualty insurance premiums.
+stock.
+                                                                   2. Rent for occupancy of the property before closing.
+Identifying stock or bonds sold. If you can adequately             3. Charges for utilities or other services related to occu-
+identify the shares of stock or the bonds you sold, their ba-         pancy of the property before closing.
+sis is the cost or other basis of the particular shares of
+stock or bonds. If you buy and sell securities at various          4. Charges connected with getting a loan. The following
+times in varying quantities and you can't adequately iden-            are examples of these charges.
+tify the shares you sell, the basis of the securities you sell         a. Points (discount points, loan origination fees).
+is the basis of the securities you acquired first. For more
+information about identifying securities you sell, see                 b. Mortgage insurance premiums.
+Stocks and Bonds under Basis of Investment Property in                 c. Loan assumption fees.
+chapter 4 of Pub. 550.
+                                                                      d. Cost of a credit report.
+Mutual fund shares. If you sell mutual fund shares ac-
+quired at different times and prices, you can choose to use            e. Fees for an appraisal required by a lender.
+an average basis. For more information, see Pub. 550.
+
+Publication 551 (12-2025)                                                                                                        3
+ 5. Fees for refinancing a mortgage.                            Business Assets
+If these costs relate to business property, items (1)
+through (3) are deductible as business expenses. Items          Terms you may need to know
+(4) and (5) must be capitalized as costs of getting a loan
+and can be deducted over the period of the loan.
+                                                                (see Glossary):
+                                                                    Amortization
+Points. If you pay points to obtain a loan (including a
+mortgage, second mortgage, line of credit, or a home                Capitalization
+equity loan), don't add the points to the basis of the rela-        Depletion
+ted property. Generally, you deduct the points over the
+                                                                    Depreciation
+term of the loan.
+                                                                    Fair market value (FMV)
+   Points on home mortgage. Special rules may apply
+to points you and the seller pay when you obtain a mort-            Going concern value
+gage to purchase your main home. If certain requirements            Goodwill
+are met, you can deduct the points in full for the year in
+which they're paid. Reduce the basis of your home by any            Intangible property
+seller-paid points. For more information, see Points in Pub.        Modified Accelerated Cost Recovery System
+936, Home Mortgage Interest Deduction.                              (MACRS) property
+Assumption of mortgage. If you buy property and as-                 Personal property
+sume (or buy subject to) an existing mortgage on the                Recapture
+property, your basis includes the amount you pay for the
+property plus the amount to be paid on the mortgage.                Section 179 deduction
+                                                                    Section 197 intangibles
+  Example. If you buy a building for $20,000 cash and
+assume a mortgage of $80,000 on it, your basis is                   Tangible property
+$100,000.
+
+Constructing assets. If you build property or have as-
+sets built for you, your expenses for this construction are     If you purchase property to use in your business, your ba-
+part of your basis. Some of these expenses include the          sis is usually its actual cost to you. If you construct, create,
+following costs.                                                or otherwise produce property, you must capitalize the
+                                                                costs as your basis. In certain circumstances, you may be
+    • Land.                                                     subject to the uniform capitalization rules (discussed
+    • Labor and materials.                                      next).
+
+    • Architect's fees.                                         Uniform Capitalization Rules
+    • Building permit charges.
+    • Payments to contractors.                                  The uniform capitalization rules specify the costs you add
+                                                                to basis in certain circumstances.
+    • Payments for rental equipment.
+                                                                Activities subject to the rules. You must use the uni-
+    • Inspection fees.                                          form capitalization rules if you do any of the following in
+In addition, if you own a business and use your employ-         your trade or business or activity carried on for profit.
+ees, material, and equipment to build an asset, don't de-       However, see Exceptions below.
+duct the following expenses. You must include them in the
+asset's basis.                                                   • Produce real or tangible personal property for use in
+                                                                    the business or activity.
+    • Employee wages paid for the construction work, re-
+      duced by any employment credits allowed.                   • Produce real or tangible personal property for sale to
+                                                                    customers.
+    • Depreciation on equipment you own while it's used in
+      the construction.                                          • Acquire property for resale.
+                                                                   You produce property if you construct, build, install,
+    • Operating and maintenance costs for equipment used        manufacture, develop, improve, create, raise, or grow the
+      in the construction.
+                                                                property. Treat property produced for you under a contract
+    • The cost of business supplies and materials used in       as produced by you up to the amount you pay or costs you
+      the construction.                                         otherwise incur for the property. Tangible personal prop-
+                                                                erty includes films, sound recordings, video tapes, books,
+   Caution: Don't include the value of your own labor, or       or similar property.
+any other labor you didn't pay for, in the basis of any prop-      Under the uniform capitalization rules, you must capital-
+erty you construct.                                             ize all direct costs and an allocable part of most indirect
+                                                                costs you incur due to your production or resale activities.
+
+4                                                                                                Publication 551 (12-2025)
+To capitalize means to include certain expenses in the ba-     Intangible Assets
+sis of property you produce or in your inventory costs
+rather than deduct them as a current expense. You re-          Intangible assets include goodwill, patents, copyrights,
+cover these costs through deductions for depreciation,         trademarks, trade names, and franchises. The basis of an
+amortization, or cost of goods sold when you use, sell, or     intangible asset is usually the cost to buy or create it. If
+otherwise dispose of the property.                             you acquire multiple assets, for example, an ongoing busi-
+   Any cost you can't use to figure your taxable income for    ness for a lump sum, see Allocating the Basis, later, to fig-
+any tax year isn't subject to the uniform capitalization       ure the basis of the individual assets. The basis of certain
+rules.                                                         intangibles can be amortized. See the instructions for
+                                                               Form 4562 for information on the amortization of these
+   Example. If you incur a business meal expense for           costs.
+which your deduction would be limited to 50% of the cost
+of the meal, that amount is subject to the uniform capitali-   Patents. The basis of a patent you get for an invention is
+zation rules. The nondeductible part of the cost isn't sub-    the cost of development, such as research and experi-
+ject to the uniform capitalization rules.                      mental expenditures, drawings, working models, and at-
+                                                               torneys' and governmental fees. If you deduct the re-
+More information. For more information about these             search and experimental expenditures as current
+rules, see the regulations under section 263A of the Inter-    business expenses, you can't include them in the basis of
+nal Revenue Code and Pub. 538, Accounting Periods and          the patent. The value of the inventor's time spent on an in-
+Methods.                                                       vention isn't part of the basis.
+Exceptions. For tax years beginning in 2025, you're not        Copyrights. If you're an author, the basis of a copyright
+subject to the uniform capitalization rules if your average    will usually be the cost of getting the copyright plus copy-
+annual gross receipts are $31 million or less for the 3 pre-   right fees, attorneys' fees, clerical assistance, and the cost
+ceding tax years and you're not a tax shelter. See section     of plates that remain in your possession. Don't include the
+263A(i).                                                       value of your time as the author, or any other person's time
+                                                               you didn't pay for.
+   Caution: The average annual gross receipts test
+threshold amount may be adjusted for inflation. Publica-       Franchises, trademarks, and trade names. If you buy
+tion 551 may not be revised to reflect this amount. For tax    a franchise, trademark, or trade name, the basis is its cost,
+years beginning after 2025, see the instructions for your      unless you can deduct your payments as a business ex-
+applicable income tax return for the average annual gross      pense.
+receipts test threshold amount for the current tax year. The
+average annual gross receipts test threshold amount is         Allocating the Basis
+also available at IRS.gov/Newsroom/Inflation-Adjusted-
+Tax-Items-by-Tax-Year. Select the applicable tax year          If you buy multiple assets for a lump sum, allocate the
+news release, then click the Revenue Procedure link to         amount you pay among the assets you receive. You must
+see the threshold amount under Limitation on Use of Cash       make this allocation to figure your basis for depreciation
+Method of Accounting.                                          and gain or loss on a later disposition of any of these as-
+   In addition, the following are not subject to the uniform   sets. See Trade or Business Acquired below.
+capitalization rules.
+ • Property you produce that you don't use in your trade,      Group of Assets Acquired
+    business, or activity conducted for profit.
+                                                               If you buy multiple assets for a lump sum, you and the
+ • Research and experimental expenses deductible un-           seller may agree to a specific allocation of the purchase
+    der section 174 or 174A of the Internal Revenue Code.      price among the assets in the sales contract. If this alloca-
+ • Qualified creative expenses you pay or incur as a free-     tion is based on the value of each asset and you and the
+    lance (self-employed) writer, photographer, or artist      seller have adverse tax interests, the allocation will gener-
+    that are otherwise deductible on your tax return.          ally be accepted. However, see Trade or Business Ac-
+                                                               quired next.
+ • Property you produce under a long-term contract, ex-
+    cept for certain home construction contracts.
+                                                               Trade or Business Acquired
+ • Before 2018, costs for personal property acquired for
+    resale if your (or your predecessor's) average annual      If you acquire a trade or business, allocate the considera-
+    gross receipts for the 3 previous tax years don't ex-      tion paid to the various assets acquired. Generally, reduce
+    ceed $10 million.                                          the consideration paid by any cash and general deposit
+For other exceptions to the uniform capitalization rules,      accounts (including checking and savings accounts) re-
+see section 1.263A-1(b) of the regulations.                    ceived. Allocate the remaining consideration to the other
+   For information on the special rules that apply to costs    business assets received in proportion to (but not more
+incurred in the business of farming, see chapter 6 in Pub.     than) their FMV in the following order.
+225, Farmer's Tax Guide.
+
+
+Publication 551 (12-2025)                                                                                                  5
+ 1. Certificates of deposit, U.S. government securities,           If the building is a certified historic structure, the modifi-
+    foreign currency, and actively traded personal prop-         cation must also be part of a certified rehabilitation.
+    erty, including stock and securities.                          If these conditions are met, add the costs of the modifi-
+                                                                 cations to the basis of the building.
+ 2. Accounts receivable, other debt instruments, and as-
+    sets you mark to market at least annually for federal        Subdivided lots. If you buy a tract of land and subdivide
+    income tax purposes.                                         it, you must determine the basis of each lot. This is neces-
+ 3. Property of a kind that would properly be included in        sary because you must figure the gain or loss on the sale
+    inventory if on hand at the end of the tax year or prop-     of each individual lot. As a result, you don't recover your
+    erty held primarily for sale to customers in the ordi-       entire cost in the tract until you have sold all of the lots.
+    nary course of business.                                         To determine the basis of an individual lot, multiply the
+                                                                 total cost of the tract by a fraction. The numerator is the
+ 4. All other assets except section 197 intangibles, good-       FMV of the lot and the denominator is the FMV of the en-
+    will, and going concern value.                               tire tract.
+ 5. Section 197 intangibles except goodwill and going               Future improvement costs. If you're a developer and
+    concern value.                                               sell subdivided lots before the development work is com-
+ 6. Goodwill and going concern value (whether or not             pleted, you can (with IRS consent) include in the basis of
+    they qualify as section 197 intangibles).                    the properties sold an allocation of the estimated future
+                                                                 cost for common improvements. See Revenue Procedure
+Agreement. The buyer and seller may enter into a written         92-29, 1992-1 C.B. 748, for more information, including an
+agreement as to the allocation of any consideration or the       explanation of the procedures for getting consent from the
+FMV of any of the assets. This agreement is binding on           IRS.
+both parties unless the IRS determines the amounts are
+not appropriate.                                                    Use of erroneous cost basis. If you made a mistake
+                                                                 in figuring the cost basis of subdivided lots sold in previ-
+Reporting requirement. Both the buyer and seller in-             ous years, you can't correct the mistake for years for which
+volved in the sale of business assets must report to the         the statute of limitations (generally, 3 tax years) has ex-
+IRS the allocation of the sales price among section 197 in-      pired. Figure the basis of any remaining lots by allocating
+tangibles and the other business assets. Use Form 8594           the correct original cost basis of the entire tract among the
+to provide this information. The buyer and seller should         original lots.
+each attach Form 8594 to their federal income tax return
+for the year in which the sale occurred.                            Example. You bought a tract of land to which you as-
+                                                                 signed a cost of $15,000. You subdivided the land into 15
+More information. See Sale of a Business in chapter 2            building lots of equal size and equitably divided your basis
+of Pub. 544 for more information.                                so that each lot had a basis of $1,000. You treated the
+                                                                 sale of each lot as a separate transaction and figured gain
+Land and Buildings                                               or loss separately on each sale.
+                                                                    Several years later, you determine that your original ba-
+If you buy buildings and the land on which they stand for a      sis in the tract was $22,500 and not $15,000. You sold
+lump sum, allocate the basis of the property among the           eight lots using $8,000 of basis in years for which the stat-
+land and the buildings so you can figure the depreciation        ute of limitations has expired. You now can take $1,500 of
+allowable on the buildings.                                      basis into account for figuring gain or loss only on the sale
+                                                                 of each of the remaining seven lots ($22,500 basis divided
+   Figure the basis of each asset by multiplying the lump        among all 15 lots). You can't refigure the basis of the eight
+sum by a fraction. The numerator is the FMV of that asset        lots sold in tax years barred by the statute of limitations.
+and the denominator is the FMV of the whole property at
+the time of purchase. If you're not certain of the FMV of
+the land and buildings, you can allocate the basis based
+on their assessed values for real estate tax purposes.
+                                                                 Adjusted Basis
+Demolition of building. Add demolition costs and other           Before figuring gain or loss on a sale, exchange, or other
+losses incurred for the demolition of any building to the ba-    disposition of property, or figuring allowable depreciation,
+sis of the land on which the demolished building was loca-       depletion, or amortization, you must usually make certain
+ted. Don't claim the costs as a current deduction.               adjustments to the basis of the property. The result of
+                                                                 these adjustments to the basis is the adjusted basis.
+    Modification of building. A modification of a building
+won't be treated as a demolition if both the following con-
+ditions are satisfied.
+                                                                 Increases to Basis
+    • 75% or more of the existing external walls of the build-   Increase the basis of any property by all items properly
+      ing are retained in place as internal or external walls.   added to a capital account. These include the cost of any
+                                                                 improvements having a useful life of more than 1 year.
+    • 75% or more of the existing internal structural frame-
+      work of the building is retained in place.
+
+6                                                                                                 Publication 551 (12-2025)
+Table 1. Examples of Increases and Decreases to Basis
+ Increases to basis                                            Decreases to basis
+ Capital improvements:                                         Exclusion from income of subsidies for energy conservation measures
+   Putting an addition on your home
+   Replacing an entire roof                                    Casualty or theft loss deductions and insurance reimbursements
+   Paving your driveway
+   Installing central air conditioning                         Certain vehicle credits
+   Rewiring your home
+ Assessments for local improvements:                           Section 179 deduction
+   Water connections
+   Sidewalks
+   Roads
+ Casualty losses:                                              Depreciation
+   Restoring damaged property
+                                                               Nontaxable corporate distributions
+ Legal fees:
+   Cost of defending and perfecting a title
+ Zoning costs
+   Rehabilitation expenses also increase basis. However,         Deducting vs. Capitalizing Costs
+you must subtract any rehabilitation credit allowed for
+these expenses before you add them to your basis. If you         Don't add to your basis costs you can deduct as current
+have to recapture any of the credit, increase your basis by      expenses. For example, amounts paid for incidental re-
+the recaptured amount.                                           pairs or maintenance that are deductible as business ex-
+   If you make additions or improvements to business             penses can't be added to basis. However, you can choose
+property, keep separate accounts for them. Also, you must        either to deduct or to capitalize certain other costs. If you
+depreciate the basis of each according to the depreciation       capitalize these costs, include them in your basis. If you
+rules that would apply to the underlying property if you had     deduct them, don't include them in your basis. See Uni-
+placed it in service at the same time you placed the addi-       form Capitalization Rules, earlier.
+tion or improvement in service. For more information, see
+Pub. 946.                                                           The costs you can choose to deduct or to capitalize in-
+                                                                 clude the following.
+   The following items increase the basis of property.
+                                                                   • Carrying charges, such as interest and taxes, that you
+ • The cost of extending utility service lines to the prop-           pay to own property, except carrying charges that
+    erty.                                                             must be capitalized under the uniform capitalization
+ • Impact fees.                                                       rules.
+ • Legal fees, such as the cost of defending and perfect-          • Research and experimental costs.
+    ing title.                                                     • Intangible drilling and development costs for oil, gas,
+ • Legal fees for obtaining a decrease in an assessment               and geothermal wells.
+    levied against property to pay for local improvements.         • Exploration costs for new mineral deposits.
+ • Zoning costs.                                                   • Mining development costs for a new mineral deposit.
+ • The capitalized value of a redeemable ground rent.              • Costs of establishing, maintaining, or increasing the
+                                                                      circulation of a newspaper or other periodical.
+Assessments for Local Improvements                                 • Costs of removing architectural and transportation
+Increase the basis of property by assessments for items               barriers to people with disabilities and the elderly. If
+such as paving roads and building ditches that increase               you claim the disabled access credit, you must reduce
+the value of the property assessed. Don't deduct them as              the amount you deduct or capitalize by the amount of
+taxes. However, you can deduct as taxes charges for                   the credit.
+maintenance, repairs, or interest charges related to the
+improvements.                                                    Decreases to Basis
+   Example. Your city changes the street in front of your
+store into an enclosed pedestrian mall and assesses you          The following are some items that reduce the basis of
+and other affected landowners for the cost of the conver-        property.
+sion. Add the assessment to your property's basis. In this         • Section 179 deduction.
+example, the assessment is a depreciable asset.
+                                                                   • Deduction under section 179D for certain energy effi-
+                                                                      cient commercial building property.
+                                                                   • Nontaxable corporate distributions.
+
+Publication 551 (12-2025)                                                                                                            7
+    • Deductions previously allowed (or allowable) for amor-     Vehicle Credits
+      tization, depreciation, and depletion.
+                                                                 Unless you elect not to claim the qualified electric vehicle
+    • Exclusion of subsidies for energy conservation meas-
+      ures.                                                      credit, the alternative motor vehicle credit, the new clean
+                                                                 vehicle credit, the previously owned clean vehicle credit,
+    • Certain vehicle credits.                                   or the commercial clean vehicle credit for which you qual-
+    • Residential energy credits.                                ify, you may have to reduce the basis of each vehicle for
+                                                                 which you claimed a credit, including any credit transfer-
+    • Postponed gain from sale of home.                          red to the dealer at the time you purchased the vehicle, by
+    • Investment credit taken.                                   certain amounts reported. For more information on availa-
+                                                                 ble credits, see Form 8834, Qualified Electric Vehicle
+    • Casualty and theft losses and insurance reimburse-         Credit; Form 8910, Alternative Motor Vehicle Credit; Form
+      ment.                                                      8936, Clean Vehicle Credits; and the related instructions.
+    • Certain canceled debt excluded from income.
+    • Rebates treated as adjustments to the sales price.         Residential Energy Credits
+    • Easements.                                                 You must reduce the cost basis of your home if a residen-
+    • Gas-guzzler tax.                                           tial energy credit is allowed for any expense for any prop-
+                                                                 erty. The increase in the basis of the property that would
+    • Adoption tax benefits.                                     result from the expenses of the improvements to your
+    • Credit for employer-provided child care.                   home will be reduced by the amount of the allowed credit.
+    • Partial disposition of MACRS property, whether you
+      elect to recognize the partial disposition or are re-      Gas-Guzzler Tax
+      quired to recognize it.
+                                                                 Decrease the basis in your car by the gas-guzzler (fuel
+Some of these items are discussed next.                          economy) tax if you begin using the car within 1 year of
+                                                                 the date of its first sale for ultimate use. This rule also ap-
+Casualties and Thefts                                            plies to someone who later buys the car and begins using
+                                                                 it not more than 1 year after the original sale for ultimate
+If you have a casualty or theft loss, decrease the basis in      use. If the car is imported, the 1-year period begins on the
+your property by any insurance or other reimbursement            date of entry or withdrawal of the car from the warehouse
+and by any deductible loss not covered by insurance.             if that date is later than the date of the first sale for ultimate
+                                                                 use.
+    If you dispose of a portion of MACRS property because
+of a loss sustained from a casualty event, decrease the
+basis in the property by any insurance or other reimburse-
+                                                                 Section 179 Deduction
+ment and by any deductible loss on the disposed portion
+                                                                 If you take the section 179 deduction for all or part of the
+of the property that isn't covered by insurance. The deduc-
+                                                                 cost of qualifying business property, decrease the basis of
+tible loss is generally the decrease in the FMV of the prop-
+                                                                 the property by the deduction. For more information about
+erty resulting from the casualty event, but is limited to the
+                                                                 the section 179 deduction, see Pub. 946.
+adjusted basis of the disposed portion of the MACRS
+property.
+                                                                 Exclusion of Subsidies for Energy
+    You must increase your basis in the property by the          Conservation Measures
+amount you spend on repairs that substantially prolong
+the life of the property, increase its value, or adapt it to a   You can exclude from gross income any subsidy you re-
+different use. To make this determination, compare the re-       ceived from a public utility company for the purchase or in-
+paired property to the property before the casualty. If the      stallation of any energy conservation measure for a dwell-
+amount you spent didn't otherwise improve the property,          ing unit. Reduce the basis of the property for which you
+then it's deductible as a repair and doesn't affect basis.       received the subsidy by the excluded amount. For more
+For more information on casualty and theft losses, see           information on this subsidy, see Pub. 525.
+Pub. 547.
+                                                                 Depreciation
+Easements
+                                                                 Decrease the basis of property by the depreciation you
+The amount you receive for granting an easement is gen-          deducted, or could have deducted, on your tax returns un-
+erally considered to be a sale of an interest in real prop-      der the method of depreciation you chose. If you took less
+erty. It reduces the basis of the affected part of the prop-     depreciation than you could have under the method
+erty. If the amount received is more than the basis of the       chosen, decrease the basis by the amount you could have
+part of the property affected by the easement, reduce your       taken under that method. If you didn't take a depreciation
+basis in that part to zero and treat the excess as a recog-      deduction, reduce the basis by the full amount of the de-
+nized gain.                                                      preciation you could have taken.
+
+8                                                                                                  Publication 551 (12-2025)
+   Unless a timely election is made not to deduct the spe-     Postponed Gain From Sale of Home
+cial depreciation allowance for property placed in service
+after September 10, 2001, decrease the property's basis        If you postponed gain from the sale of your main home be-
+by the special depreciation allowance you deducted or          fore May 7, 1997, you must reduce the basis of your new
+could have deducted.                                           home by the postponed gain. For more information on the
+                                                               rules for the sale of a home, see Pub. 523.
+   If you deducted more depreciation than you should
+have, decrease your basis by the amount equal to the de-       Adoption Tax Benefits
+preciation you should have deducted plus the part of the
+excess depreciation you deducted that actually reduced         If you claim an adoption credit for the cost of improve-
+your tax liability for the year.                               ments you added to the basis of your home, decrease the
+                                                               basis of your home by the credit allowed. This also applies
+   In decreasing your basis for depreciation, take into ac-    to amounts you received under an employer's adoption
+count the amount deducted on your tax returns as depre-        assistance program and excluded from income. For more
+ciation and any depreciation capitalized under the uniform     information, see Form 8839, Qualified Adoption Expen-
+capitalization rules.                                          ses.
+  For information on figuring depreciation, see Pub. 946.
+                                                               Employer-Provided Child Care
+   If you're claiming depreciation on a business vehicle,
+                                                               If you're an employer, you can claim the employer-provi-
+see Pub. 463. If the car isn't used more than 50% for busi-
+                                                               ded child care credit on amounts you paid or incurred to
+ness during the tax year, you may have to recapture ex-
+                                                               acquire, construct, rehabilitate, or expand property used
+cess depreciation. Include the excess depreciation in your
+                                                               as part of your qualified child care facility. You must reduce
+gross income and add it to your basis in the property. For
+                                                               your basis in that property by the credit determined. For
+information on the computation of excess depreciation,
+                                                               more information, see Form 8882, Credit for Em-
+see chapter 4 in Pub. 463.
+                                                               ployer-Provided Child Care Facilities and Services.
+Canceled Debt Excluded From Income                             Disposition of a Portion of MACRS Property
+If a debt you owe is canceled or forgiven, other than as a
+                                                               If you sell a portion of MACRS property (a MACRS asset),
+gift or bequest, you must generally include the canceled
+                                                               you must reduce the adjusted basis of the asset by the ad-
+amount in your gross income for tax purposes. A debt in-
+                                                               justed basis of the portion sold. Use your records to deter-
+cludes any indebtedness for which you're liable or which
+                                                               mine which portion of the asset was sold, the date the as-
+attaches to property you hold.
+                                                               set was placed in service, the unadjusted basis of the
+                                                               portion sold, and its adjusted basis. See the partial dispo-
+   You can exclude canceled debt from income in the fol-
+                                                               sition rules in Regulations section 1.168(i)-8 for more de-
+lowing situations.
+                                                               tail. The adjusted basis of the portion sold is used to de-
+ 1. Debt canceled in a bankruptcy case or when you're          termine the gain or loss realized on the sale. Also, see
+    insolvent.                                                 Pub. 544.
+ 2. Qualified farm debt.                                          If you physically abandon a portion of MACRS property
+ 3. Qualified real property business debt (provided you're     (a MACRS asset) and you elect to recognize the loss on
+    not a C corporation).                                      the abandonment by reporting the loss on your tax return,
+                                                               you must reduce the adjusted basis of the MACRS asset
+ 4. Qualified principal residence indebtedness (only if        by the adjusted basis of the portion abandoned. Use your
+    discharged before January 1, 2026, or subject to an        records to determine which portion of the asset was aban-
+    arrangement that is entered into and evidenced in          doned, the date the asset was placed in service, the unad-
+    writing before January 1, 2026).                           justed basis of the portion abandoned, and its adjusted
+If you exclude from income canceled debt under situation       basis. See the partial disposition rules in Regulations sec-
+(1) or (2), you may have to reduce the basis of your depre-    tion 1.168(i)-8 for more detail. Also, see Example 2 and
+ciable and nondepreciable property. However, in situation      Example 3 below.
+(3), you must reduce the basis of your depreciable prop-
+erty by the excluded amount.                                   Adjustments to Basis Examples
+   For more information about canceled debt in a bank-            Example 1. In January 2020, you paid $80,000 for real
+ruptcy case or during insolvency, see Pub. 908, Bank-          property to be used as a factory. You also paid commis-
+ruptcy Tax Guide. For more information about canceled          sions of $2,000 and title search and legal fees of $600.
+debt that is qualified farm debt, see chapter 3 in Pub. 225.   You allocated the total cost of $82,600 between the land
+For more information about qualified real property busi-       and the building—$10,325 for the land and $72,275 for
+ness debt, see chapter 5 in Pub. 334, Tax Guide for Small      the building. Immediately, you spent $20,000 in remodel-
+Business.                                                      ing the building before you placed it in service. You were
+
+Publication 551 (12-2025)                                                                                                  9
+allowed depreciation of $14,526 for the years 2020                            the bulldozer by the accumulated depreciation on the
+through 2024. In 2023, you had a $5,000 casualty loss                         bucket, $3,800. You must also capitalize the cost of the re-
+from a storm that wasn't covered by insurance on the                          placement bucket and begin depreciating it as a separate
+building. You claimed a deduction for this loss. You spent                    asset from the bulldozer.
+$5,500 to repair the damages and to otherwise improve
+the building. The adjusted basis of the building on January
+1, 2025, is figured as follows:                                               Basis Other Than Cost
+Original cost of building including fees and                                  There are many times when you can't use cost as basis. In
+commissions . . . . . . . . . . . . . . . . . . . . . . . . . . .   $72,275
+                                                                              these cases, the FMV or the adjusted basis of property
+Adjustments to basis:
+Add:                                                                          may be used. Adjusted basis is discussed earlier.
+       Improvements . . . . . . . . . . . . . . . . . . . . . .      20,000
+       Repair of damages . . . . . . . . . . . . . . . . . . .        5,500      FMV is the price at which property would change hands
+                                                                    $97,775   between a buyer and a seller, neither having to buy or sell,
+Subtract:                                                                     and both having reasonable knowledge of all necessary
+      Depreciation . . . . . . . . . . . . . .          $14,526               facts. Sales of similar property on or about the same date
+      Deducted casualty loss . . . . . . .                5,000      19,526   may be helpful in figuring the property's FMV.
+Adjusted basis on January 1, 2025. . . . . . . . . . . . .          $78,249
+                                                                              Property Received for Services
+   Example 2. You own a building that you purchased in
+1990 for $75,000. You use the building in your business.                      If you receive property for services, include the property's
+The building is a MACRS asset. You removed and aban-                          FMV in income. The amount you include in income be-
+doned the roof on the building and replaced it with a new                     comes your basis. If the services were performed for a
+roof. You make the partial disposition election to recognize                  price agreed on beforehand, it will be accepted as the
+loss on the abandonment of the old roof by reporting the                      FMV of the property if there is no evidence to the contrary.
+loss on your timely filed tax return. The loss is the adjusted
+basis of the roof as of the first day of the tax year of the                  Bargain Purchases
+abandonment. Using your records, you determine that the
+abandoned roof was placed in service in 1990 with the                         A bargain purchase is a purchase of an item for less than
+building, the unadjusted basis of the building attributable                   its FMV. If, as compensation for services, you purchase
+to the roof is $5,000, and after you deducted depreciation                    goods or other property at less than FMV, include the dif-
+of $3,500 on the roof, its adjusted basis as of the first day                 ference between the purchase price and the property's
+of the tax year of the abandonment is $1,500. Report the                      FMV in your income. Your basis in the property is its FMV
+$1,500 ordinary loss in Part II of Form 4797. In your depre-                  (your purchase price plus the amount you include in in-
+ciation records, you must reduce the unadjusted basis of                      come).
+the building, $75,000, by the unadjusted basis of the roof,
+$5,000, as well as reduce the accumulated depreciation of                        If the difference between your purchase price and the
+the building by the accumulated depreciation on the roof,                     FMV represents a qualified employee discount, don't in-
+$3,500. You must also capitalize the cost of the replace-                     clude the difference in income. However, your basis in the
+ment roof and depreciate it as a separate asset from the                      property is still its FMV. See Employee Discounts in Pub.
+building.                                                                     15-B.
+
+   Example 3. You own a bulldozer that you purchased 2                        Restricted Property
+years ago for $25,000. You use the bulldozer in your busi-
+ness. The bulldozer is a MACRS asset. You removed and                         If you receive property for your services and the property
+replaced the bucket on the bulldozer with a new bucket.                       is subject to certain restrictions, your basis in the property
+You make the partial disposition election to recognize loss                   is its FMV when it becomes substantially vested unless
+on the abandonment of the old bucket by reporting the                         you make the election discussed later. Property becomes
+loss on your timely filed tax return. The loss is the adjusted                substantially vested when your rights in the property or the
+basis of the bucket as of the first day of the tax year of the                rights of any person to whom you transfer the property are
+abandonment. Using your records, you determine that the                       transferable or are not subject to a substantial risk of for-
+abandoned bucket was placed in service with the bull-                         feiture.
+dozer, the unadjusted basis of the bucket is $5,000, and
+after you deducted depreciation of $3,800 on the bucket,                          There is substantial risk of forfeiture when the rights to
+the adjusted basis of the bucket as of the first day of the                   full enjoyment of the property depend on the future per-
+tax year of the abandonment is $1,200. Report the $1,200                      formance of substantial services by any person.
+ordinary loss in Part II of Form 4797. In your depreciation
+records, you must reduce the unadjusted basis of the bull-                        When the property becomes substantially vested, in-
+dozer, $25,000, by the unadjusted basis of the bucket,                        clude the FMV, less any amount you paid for the property,
+$5,000, as well as reduce the accumulated depreciation of                     in income.
+
+10                                                                                                            Publication 551 (12-2025)
+   Example. Your employer gives you stock for services                a. Any loss you recognize on the conversion.
+performed under the condition that you'll have to return the
+                                                                      b. Any money you receive that you don't spend on
+stock unless you complete 5 years of service. The stock is
+                                                                         similar property.
+under a substantial risk of forfeiture and isn't substantially
+vested when you receive it. You don't report any income           2. Increase the basis by the following.
+until you have completed the 5 years of service that satisfy
+                                                                      a. Any gain you recognize on the conversion.
+the condition.
+                                                                      b. Any cost of acquiring the replacement property.
+FMV. Figure the FMV of property you received without
+considering any restriction except one that by its terms will    Money or property not similar or related. If you re-
+never end.                                                       ceive money or property not similar or related in service or
+                                                                 use to the converted property, and you buy replacement
+   Example. You received stock from your employer for            property similar or related in service or use to the conver-
+services you performed. If you want to sell the stock while      ted property, the basis of the new property is its cost de-
+you're still employed, you must sell the stock to your em-       creased by the gain not recognized on the conversion.
+ployer at book value. At your retirement or death, you or
+your estate must offer to sell the stock to your employer at        Example. The state condemned your property. The
+its book value. This is a restriction that by its terms will     property had an adjusted basis of $26,000 and the state
+never end and you must consider it when you figure the           paid you $31,000 for it. You realized a gain of $5,000
+FMV.                                                             ($31,000 − $26,000). You bought replacement property
+                                                                 similar in use to the converted property for $29,000. You
+Election. If you receive property that is not substantially      recognize a gain of $2,000 ($31,000 − $29,000), the un-
+vested, you can choose to include in your gross income           spent part of the payment from the state. Your gain not
+the FMV of the property at the time of transfer, less any        recognized is $3,000, the difference between the $5,000
+amount you paid for it. Your basis is the amount you paid        realized gain and the $2,000 recognized gain. The basis
+plus the amount you included in income. If you make this         of the new property is figured as follows:
+choice, you will not need to include any additional amount
+in your gross income when the property becomes sub-              Cost of replacement property . . . . . . . . . . . . . . . . .   $29,000
+stantially vested.                                               Minus: Gain not recognized . . . . . . . . . . . . . . . . . .     3,000
+   See the discussion of Restricted Property in Pub. 525
+for more information.                                            Basis of the replacement property                                $26,000
+
+
+Taxable Exchanges                                                Allocating the basis. If you buy more than one piece of
+                                                                 replacement property, allocate your basis among the prop-
+A taxable exchange is one in which the gain is taxable or        erties based on their respective costs.
+the loss is deductible. A taxable gain or deductible loss is
+                                                                    Example. The state in the previous example con-
+also known as a recognized gain or loss. If you receive
+                                                                 demned your unimproved real property and the replace-
+property in exchange for other property in a taxable ex-
+                                                                 ment property you bought was improved real property with
+change, the basis of property you receive is usually its
+                                                                 both land and buildings. Allocate the replacement proper-
+FMV at the time of the exchange. A taxable exchange oc-
+                                                                 ty's $26,000 basis between land and buildings based on
+curs when you receive cash or property not similar or rela-
+                                                                 their respective costs.
+ted in use to the property exchanged.
+                                                                 More information. For more information about condem-
+   Example. You trade a tract of farm land with an adjus-
+                                                                 nations, see Involuntary Conversions in Pub. 544. For
+ted basis of $3,000 for a tractor that has an FMV of
+                                                                 more information about casualty and theft losses, see
+$6,000. You must report a taxable gain of $3,000 for the
+                                                                 Pub. 547.
+land. The tractor has a basis of $6,000.
+
+Involuntary Conversions                                          Nontaxable Exchanges
+
+If you receive property as a result of an involuntary conver-    Terms you may need to know
+sion, such as a casualty, theft, or condemnation, you can        (see Glossary):
+figure the basis of the replacement property you receive
+using the basis of the converted property.                          Intangible property
+                                                                    Like-kind property
+Similar or related property. If you receive replacement
+property similar or related in service or use to the conver-        Personal property
+ted property, the replacement property's basis is the old           Real property
+property's basis on the date of the conversion. However,
+make the following adjustments.
+ 1. Decrease the basis by the following.
+
+Publication 551 (12-2025)                                                                                                              11
+A nontaxable exchange is an exchange in which you're not       for like-kind exchange treatment. Each person must report
+taxed on any gain and you can't deduct any loss. If you re-    any gain or loss not recognized on the original exchange.
+ceive property in a nontaxable exchange, its basis is usu-     Each person reports it on the tax return filed for the year in
+ally the same as the basis of the property you transferred.    which the later disposition occurs. If this rule applies, the
+A nontaxable gain or loss is also known as an unrecog-         basis of the property received in the original exchange will
+nized gain or loss.                                            be its FMV (at the time of the exchange) plus associated
+                                                               exchange expenses paid on the property received. Refer
+Like-Kind Exchanges of Real Property                           to Settlement Costs under Real Property, earlier in this
+                                                               publication.
+The exchange of real property may qualify as a nontaxa-           These rules generally don't apply to the following kinds
+ble exchange under section 1031 of the Internal Revenue        of property dispositions.
+Code.                                                           • Dispositions due to the death of either related person.
+   To qualify as a like-kind exchange, you must hold for        • Involuntary conversions.
+business or investment purposes both the real property          • Dispositions in which neither the original exchange nor
+you transfer and the real property you receive. For more           the subsequent disposition had as a main purpose the
+information, see Like-Kind Exchanges in Pub. 544.                  avoidance of federal income tax.
+  The basis of the property you receive is generally the          Related persons. Generally, related persons are an-
+same as the basis of the property you give up.                 cestors, lineal descendants, brothers and sisters (whole or
+                                                               half), and a spouse.
+   Example. You exchange real estate (adjusted basis              For a list of other related persons (for example, two cor-
+$50,000, FMV $80,000) held for investment for other real       porations that are members of the same controlled group,
+estate (FMV $80,000) held for investment. The transaction      an individual and a corporation if the individual owns di-
+qualifies as a like-kind exchange, so no gain is recognized    rectly or indirectly more than 50% of the value of the out-
+on the transaction. Your basis in the new property is the      standing stock, a grantor and fiduciary of any trust, etc.),
+same as the basis of the old property ($50,000).               see Nondeductible Loss in chapter 2 of Pub. 544.
+Exchange expenses. Exchange expenses include the
+closing costs you pay on the property received (replace-
+                                                               Partially Nontaxable Exchange
+ment property). They include such items as brokerage           A partially nontaxable exchange is an exchange in which
+commissions, attorney fees, deed preparation fees, etc.,       you receive non-like-kind property or money in addition to
+as described in Settlement Costs, discussed earlier. If in-    like-kind property. The basis of the like-kind property you
+curred as part of the acquisition of the replacement prop-     receive is the same as the adjusted basis of the like-kind
+erty, and no gain is recognized on the exchange, add           property you gave up, with the following adjustments.
+these costs to the basis of the like-kind property received.
+   Exchange expenses also include the closing costs you         1. Decrease the basis by the following amounts.
+pay on the disposition of the property given up. For more           a. Any money you receive.
+information, see Like-Kind Exchanges in Pub. 544
+                                                                    b. Any liabilities assumed by the other party (or paid
+Other expenses and receipts. Other expenses and re-                    off in a deferred exchange) on the like-kind prop-
+ceipts that may be reflected on the closing statement (for             erty given up.
+example, property taxes, rent prorations, security depos-
+                                                                    c. Any loss you recognize on the exchange for
+its, and repairs) are not exchange expenses. Unlike ex-
+                                                                       non-like-kind property given up.
+change expenses, other expenses are not added to the
+basis of property received. For more information, see           2. Increase the basis by the following amounts.
+Like-Kind Exchanges in Pub. 544.
+                                                                    a. Any additional costs you incur.
+Property plus cash. If you trade property in a like-kind            b. Any liabilities you assume (or new debt incurred)
+exchange and also pay money, the basis of the property                 on the like-kind property received.
+received is the basis of the property you gave up plus the
+money you paid.                                                     c. Any gain you recognize on the exchange.
+
+   Example. You exchange a parcel of real property (ad-           Example. You trade a parcel of real property with an
+justed basis of $30,000) for another parcel of real property   FMV of $62,000 and an adjusted basis of $60,000 for an-
+(FMV $75,000) and pay $40,000. Your basis in the newly         other parcel of real property with an FMV of $52,000 and
+acquired real property is $70,000 (the $30,000 adjusted        $10,000 cash. You realize a gain of $2,000 (the FMV of
+basis of the old parcel plus the $40,000 paid).                the parcel of real property received plus the cash minus
+                                                               the adjusted basis of real property you traded ($52,000 +
+Special rules for related persons. If a like-kind ex-          $10,000 – $60,000)). You must recognize all $2,000 of the
+change takes place directly or indirectly between related      gain in income because the gain realized is less than the
+persons and either party disposes of the property within 2     cash received. Your basis in the newly acquired parcel of
+years after the exchange, the exchange no longer qualifies     real property is as follows:
+
+12                                                                                             Publication 551 (12-2025)
+Adjusted basis of old property . . . . . . . . . . . . . . . . . .   $60,000       Asset              FMV            FMV %          Carryover     Excess
+Minus: Cash received (adjustment 1(a)) . . . . . . . . . . .          10,000                                                          basis         basis
+                                                                     $50,000   Land                 $2,000             10%         $1,000       $400
+Plus: Gain recognized (adjustment 2(b)) . . . . . . . . . . .          2,000                                                       ($10,000 x   ($4,000 x
+                                                                                                                                   10%)         10%)
+Basis of new property . . . . . . . . . . . . . . . . . . . . .      $52,000   Depreciable         $18,000             90%         $9,000       $3,600
+                                                                               Real Estate                                         ($10,000 x   ($4,000 x
+Allocation of basis. Allocate the basis first to the                                                                               90%)         90%)
+non-like-kind property received, other than money, up to                       Total               $20,000            100%         $10,000      $4,000
+its FMV on the date of the exchange. The rest is the basis
+                                                                                  See Pub. 946 for additional information regarding the
+of the like-kind property.
+                                                                               application of the special depreciation rules to allocation
+   Example. You had an adjusted basis of $15,000 in real                       of basis in a like-kind exchange.
+estate you held for investment. You exchanged it for other
+real estate to be held for investment with an FMV of                           Non-Like-Kind Property Given up
+$16,000, a truck with an FMV of $3,000, and $1,000 cash.
+The truck is non-like-kind property. You have a realized                       If, in addition to like-kind property, you give up
+gain of $5,000 ($16,000 FMV of real estate + $3,000 FMV                        non-like-kind property, you must recognize gain or loss on
+of truck + $1,000 cash − $15,000 adjusted basis of real                        the non-like-kind property you give up. The basis is the to-
+estate given up). You calculate the cash plus the FMV of                       tal adjusted basis of the properties given up increased by
+all non-like-kind property received which totals $4,000                        the amount of gain or decreased by the amount of loss
+($3,000 FMV of truck + $1,000 cash). Because this                              recognized on the non-like-kind property.
+amount is less than the gain realized ($5,000) you recog-
+                                                                                   Example. You exchange stock and real estate you
+nize gain to the full extent of the $4,000 of cash and
+                                                                               held for investment for real estate you also intend to hold
+non-like-kind property received. The basis in the proper-
+                                                                               for investment. The stock you transfer has a fair market
+ties you received is figured as follows:
+                                                                               value of $1,000 and an adjusted basis of $4,000. The real
+                                                                               estate you exchange has a fair market value of $19,000
+Adjusted basis of real estate transferred . . . . . . . . . .        $15,000
+                                                                               and an adjusted basis of $15,000. The real estate you re-
+Minus: Cash received . . . . . . . . . . . . . . . . . . . . .         1,000
+                                                                               ceive has a fair market value of $20,000. Gain realized on
+                                                                     $14,000
+Plus: Gain recognized . . . . . . . . . . . . . . . . . . . . .        4,000
+                                                                               the exchange is $4,000. You do not recognize gain on the
+                                                                               exchange of the real estate, however, you must recognize
+Total basis of properties received                                   $18,000   (report on your return) a $3,000 loss on the stock because
+                                                                               it is non-like-kind property.
+    Allocate the total basis of $18,000 first to the                               The basis of the replacement property received is com-
+non-like-kind property received in the exchange at its fair                    puted as follows:
+market value. The truck is allocated $3,000 and then the
+rest ($15,000) is the basis of the real estate.                                Adjusted basis of property given up . . . . . .           $15,000
+    The basis of the real estate is allocated between its car-                 Add: Adjusted basis of non-like-kind
+ryover basis and excess basis. The carryover basis is the                      property . . . . . . . . . . . . . . . . . . . . . . .     $4,000
+adjusted basis of the property given up, and the excess                        Total . . . . . . . . . . . . . . . . . . . . . . . . .   $19,000
+basis is the remainder of the basis.                                           Minus: Loss Recognized . . . . . . . . . . . .                       ($3,000)
+    To figure the carryover basis and the excess basis allo-                   Basis of property received . . . . . . . . . .                       $16,000
+cated to each like-kind asset, the carryover basis is multi-
+plied by the FMV of the individual asset divided by the to-
+tal FMV of all assets received.                                                Sale and Purchase
+   Example. You held real estate for investment with an                        If you sell property and buy similar property in two mutu-
+FMV of $16,000 and an adjusted basis of $10,000. You                           ally dependent transactions, you may have to treat the
+exchanged it, along with $4,000 in cash, for other real es-                    sale and purchase as a single nontaxable exchange.
+tate held for investment made up of land with an FMV of
+$2,000 and depreciable real property with an FMV of                               Example. You have real property held for productive
+$18,000. The carryover basis to be allocated is $10,000                        use in your trade or business. Its adjusted basis is
+(the adjusted basis of property given up) and the remain-                      $500,000 and its FMV is $750,000. You're interested in re-
+ing $4,000 is excess basis for a total basis of $14,000 in                     placing the property with real estate containing a building
+the replacement property.                                                      worth $900,000. Ordinarily, you would swap properties
+   The total carryover and excess basis allocated to each                      and pay the $150,000 difference in FMVs. Your basis
+asset are calculated as follows:                                               would then be $650,000 ($500,000 adjusted basis in your
+                                                                               old property plus $150,000 cash paid).
+                                                                                  You want your new real property to have a larger basis
+                                                                               for depreciation, so you arrange to sell your old property to
+                                                                               the other party. You then buy the new property from that
+                                                                               individual for $900,000. However, if the sale and purchase
+
+Publication 551 (12-2025)                                                                                                                                   13
+are reciprocal and mutually dependent, you're treated as           For more information, see Pub. 504, Divorced or Sepa-
+having exchanged your old property for the new property.        rated Individuals.
+In that case, your basis for depreciation for the new prop-
+erty is $650,000, the same as if you had exchanged the          Property Received as a Gift
+old property for the new property.
+                                                                To figure the basis of property you receive as a gift, you
+Partial Business Use of Property                                must know its adjusted basis (defined earlier) to the donor
+                                                                just before it was given to you, its FMV at the time it was
+If you have real property, a portion of which is used for       given to you, and any gift tax paid on it.
+business and a portion of which is used for personal use,
+and you exchange it in a nontaxable exchange for real             For a distribution of property that was gifted to a trust,
+property to be used wholly or partly in your business, the      see Property Received from a Trust, later.
+basis of the property you receive is figured separately for
+the business and nonbusiness use parts. The part of the         FMV Less Than Donor's Adjusted Basis
+property used for business is an exchange of like-kind
+property. The personal-use part of the property is property     If the FMV of the property at the time of the gift is less than
+on which gain is recognized.                                    the donor's adjusted basis, your basis depends on
+                                                                whether you have a gain or a loss when you dispose of the
+   Figure the adjusted basis of each part of the property       property. Your basis for figuring gain is the same as the
+by taking into account any adjustments to basis. Deduct         donor's adjusted basis plus or minus any required adjust-
+the depreciation you took or could have taken from the ad-      ment to basis while you held the property. Your basis for
+justed basis of the business part. Then figure the amount       figuring loss is its FMV when you received the gift plus or
+realized for your property and allocate it to the business      minus any required adjustment to basis while you held the
+and nonbusiness parts of the property.                          property (see Adjusted Basis, earlier).
+   You're deemed to have received, in exchange for the             If you use the donor's adjusted basis for figuring a gain
+nonbusiness part, an amount equal to its FMV on the date        and get a loss, and then use the FMV for figuring a loss
+of the exchange. The basis of the property you acquired is      and have a gain, you have neither gain nor loss on the
+the total basis of the property transferred (adjusted to the    sale or disposition of the property.
+date of the exchange), increased by any gain recognized
+on the nonbusiness part.                                           Example. You received an acre of land as a gift. At the
+                                                                time of the gift, the land had an FMV of $8,000. The do-
+   Tip: If the nonbusiness part of the property transferred     nor's adjusted basis was $10,000. After you received the
+is your main home, you may qualify to exclude from in-          land, no events occurred to increase or decrease your ba-
+come all or part of the gain on that part. For more informa-    sis. If you sell the land for $12,000, you'll have a $2,000
+tion, see Pub. 523.                                             gain because you must use the donor's adjusted basis
+                                                                ($10,000) at the time of the gift as your basis to figure
+Property Transferred From a Spouse                              gain. If you sell the land for $7,000, you'll have a $1,000
+                                                                loss because you must use the FMV ($8,000) at the time
+The basis of property transferred to you or transferred in      of the gift as your basis to figure a loss.
+trust for your benefit by your spouse (or former spouse if         If the sales price is between $8,000 and $10,000, you
+the transfer is incident to divorce) is the same as your        have neither gain nor loss. For instance, if the sales price
+spouse's adjusted basis. However, adjust your basis for         was $9,000 and you tried to figure a gain using the donor's
+any gain recognized by your spouse or former spouse on          adjusted basis ($10,000), you would get a $1,000 loss. If
+property transferred in trust. This rule applies only to a      you then tried to figure a loss using the FMV ($8,000), you
+transfer of property in trust in which the liabilities as-      would get a $1,000 gain.
+sumed, plus the liabilities to which the property is subject,
+are more than the adjusted basis of the property transfer-      Business property. If you hold the gift as business prop-
+red.                                                            erty, your basis for figuring any depreciation, depletion, or
+                                                                amortization deduction is the same as the donor's adjus-
+   If the property transferred to you is a series E, series     ted basis plus or minus any required adjustments to basis
+EE, or series I U.S. savings bond, the transferor must in-      while you hold the property.
+clude in income the interest accrued to the date of trans-
+fer. Your basis in the bond immediately after the transfer is   FMV Equal to or More Than Donor's
+equal to the transferor's basis increased by the interest in-   Adjusted Basis
+come includible in the transferor's income. For more infor-
+mation on these bonds, see Pub. 550.
+                                                                If the FMV of the property is equal to or greater than the
+   At the time of the transfer, the transferor must give you    donor's adjusted basis, your basis is the donor's adjusted
+the records necessary to determine the adjusted basis           basis at the time you received the gift. Increase your basis
+and holding period of the property as of the date of trans-     by all or part of any gift tax paid, depending on the date of
+fer.                                                            the gift.
+
+14                                                                                              Publication 551 (12-2025)
+    Also, for figuring gain or loss from a sale or other dispo-                information on the application of the consistent basis re-
+sition of the property, or for figuring depreciation, deple-                   quirement to inherited property. For information on the cir-
+tion, or amortization deductions on business property, you                     cumstances under which an executor is required to furnish
+must increase or decrease your basis by any required ad-                       a Schedule A to a beneficiary, see the instructions for
+justments to basis while you held the property. See Adjus-                     Form 8971 and the related Schedule A.
+ted Basis, earlier.
+                                                                                 Generally, the basis of property inherited from a dece-
+Gift received before 1977. If you received a gift before                       dent is one of the following.
+1977, increase your basis in the gift (the donor's adjusted                     1. The FMV of the property at the date of the individual's
+basis) by any gift tax paid on it. However, don't increase                         death.
+your basis above the FMV of the gift at the time it was
+given to you.                                                                   2. The FMV on the alternate valuation date if the per-
+                                                                                   sonal representative for the estate chooses to use al-
+  Example 1. You were given a house in 1976 with an                                ternate valuation. For information on the alternate val-
+FMV of $21,000. The donor's adjusted basis was                                     uation date, see the Instructions for Form 706.
+$20,000. The donor paid a gift tax of $500. Your basis is
+$20,500, the donor's adjusted basis plus the gift tax paid.                     3. The value under the special-use valuation method for
+                                                                                   real property used in farming or a closely held busi-
+   Example 2. If, in Example 1, the gift tax paid had been                         ness if chosen for estate tax purposes. This method is
+$1,500, your basis would be $21,000. This is the donor's                           discussed later.
+adjusted basis plus the gift tax paid, limited to the FMV of                    4. The decedent's adjusted basis in land to the extent of
+the house at the time you received the gift.                                       the portion of the value excluded from the decedent's
+Gift received after 1976. If you received a gift after                             taxable estate as a qualified conservation easement.
+1976, increase your basis in the gift (the donor's adjusted                        For information on a qualified conservation easement,
+basis) by the part of the gift tax paid on it that is due to the                   see the Instructions for Form 706.
+net increase in value of the gift. Figure the increase by                         If you did not receive a Schedule A reporting the estate
+multiplying the gift tax paid by a fraction. The numerator of                  tax value of property you inherited, your basis in the prop-
+the fraction is the net increase in value of the gift, and the                 erty can be determined using the appraised value at the
+denominator is the amount of the gift.                                         date of death for state inheritance or transmission tax pur-
+    The net increase in value of the gift is the FMV of the                    poses.
+gift less the donor's adjusted basis. The amount of the gift
+is its value for gift tax purposes after reduction by any an-                    For more information, see the Instructions for Form 706.
+nual exclusion and marital or charitable deduction that ap-
+                                                                                  For a distribution of inherited property received by a
+plies to the gift. For information on the gift tax, see Pub.
+                                                                               trust, see Property Received from a Trust, later.
+559, Survivors, Executors, and Administrators.
+                                                                               Appreciated property. The above rule doesn't apply to
+   Example. In 2025, you received a gift of property from
+                                                                               appreciated property you receive from a decedent if you
+your mother that had an FMV of $50,000. Your mother’s
+                                                                               or your spouse originally gave the property to the dece-
+adjusted basis was $20,000. The amount of the gift for gift
+                                                                               dent within 1 year before the decedent's death. Your basis
+tax purposes was $31,000 ($50,000 minus the $19,000
+                                                                               in this property is the same as the decedent's adjusted ba-
+annual exclusion). Your mother paid a gift tax of $6,220.
+                                                                               sis in the property immediately before their death, rather
+Your basis, $26,033, is figured as follows:
+                                                                               than its FMV. Appreciated property is any property whose
+                                                                               FMV on the day it was given to the decedent is more than
+ Fair market value . . . . . . . . . . . . . . . . . . . . . . .     $50,000
+ Minus: Adjusted basis . . . . . . . . . . . . . . . . . . . .        20,000
+                                                                               its adjusted basis.
+ Net increase in value . . . . . . . . . . . . . . . . . . . . .     $30,000
+ Gift tax paid . . . . . . . . . . . . . . . . . . . . . . . . . .    $6,220
+                                                                               Community Property
+ Multiplied by ($30,000 ÷ $31,000) . . . . . . . . . . . .              0.97
+ Gift tax due to net increase in value . . . . . . . . . . . .        $6,033   In community property states (Arizona, California, Idaho,
+ Adjusted basis of property to your mother . . . . . . . .            20,000   Louisiana, Nevada, New Mexico, Texas, Washington, and
+ Your basis in the property . . . . . . . . . . . . . . . . .        $26,033   Wisconsin), married individuals are each usually consid-
+                                                                               ered to own half the community property. When either
+                                                                               spouse dies, the total value of the community property,
+Inherited Property                                                             even the part belonging to the surviving spouse, generally
+                                                                               becomes the basis of the entire property. For this rule to
+When an estate is required to file a federal estate tax re-                    apply, at least half the value of the community property in-
+turn (Form 706), the estate beneficiaries generally will re-                   terest must be includible in the decedent's gross estate,
+ceive a Schedule A (Form 8971) from the executor of the                        whether or not the estate must file a return.
+estate reporting the estate tax value of property distrib-
+uted to them. Certain beneficiaries are required to use this                      For example, you and your spouse owned community
+value as the initial basis in the property received from the                   property that had a basis of $80,000. When your spouse
+estate. See section 1.1014-10 of the regulations for more                      died, half the FMV of the community interest was
+
+Publication 551 (12-2025)                                                                                                                15
+includible in your spouse's estate. The FMV of the com-                      you for depreciation and depletion. Increase the cost by
+munity interest was $100,000. The basis of your half of the                  your basis in the half you inherited.
+property after the death of your spouse is $50,000 (half of
+the $100,000 FMV). The basis of the other half to your                       Farm or Closely Held Business
+spouse's heirs is also $50,000.
+                                                                             Under certain conditions, when a person dies, the execu-
+  For more information on community property, see Pub.                       tor or personal representative of the decedent's estate can
+555, Community Property.                                                     choose to value the qualified real property based on its
+                                                                             use as a farm or in a closely held business instead of its
+Property Held by Surviving Tenant                                            FMV. If the executor or personal representative chooses
+                                                                             this method of valuation for estate tax purposes, that value
+The following example explains the rule for the basis of                     is the basis of the property for the heirs. Qualified heirs
+property held by a surviving tenant in joint tenancy or ten-                 should be able to get the necessary value from the execu-
+ancy by the entirety.                                                        tor or personal representative of the estate.
+
+   Example. John and Jim owned, as joint tenants with                        Special-use valuation. If you're a qualified heir who re-
+right of survivorship, business property purchased for                       ceived special-use valuation property, your basis in the
+$30,000. John furnished two-thirds of the purchase price                     property is the estate's or trust's basis in that property im-
+and Jim furnished one-third. Depreciation deductions al-                     mediately before the distribution. Increase your basis by
+lowed before John's death were $12,000. Under local law,                     any gain recognized by the estate or trust because of
+each had a half interest in the income from the property. At                 post-death appreciation. Post-death appreciation is the
+the date of John's death, the property had an FMV of                         property's FMV on the date of distribution minus the prop-
+$60,000, two-thirds of which is includible in John's estate.                 erty's FMV either on the date of the individual's death or
+Jim’s basis in the property at the date of John's death is                   the alternate valuation date. Figure all FMVs without re-
+figured as follows:                                                          gard to the special-use valuation.
+                                                                                You can elect to increase your basis in special-use val-
+Interest Jim bought with his own funds—                                      uation property if it becomes subject to the additional es-
+   1/3 of $30,000 cost . . . . . . . . . . . . .       $10,000               tate tax. This tax is assessed if, within 10 years after the
+Interest Jim received on John's death—                                       death of the decedent, you transfer the property to a per-
+   2/3 of $60,000 FMV . . . . . . . . . . . .            40,000    $50,000   son who isn't a member of your family or the property
+Minus: 1/2 of $12,000 depreciation before John's
+                                                                     6,000   stops being used as a farm or in a closely held business.
+   death . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                                                                                To increase your basis in the property, you must make
+Jim's basis at the date of John's death . . . . . . .              $44,000   an irrevocable election and pay interest on the additional
+                                                                             estate tax figured from the date 9 months after the dece-
+If Jim hadn't contributed any part of the purchase price,                    dent's death until the date of the payment of the additional
+Jim’s basis at the date of John's death would be $54,000.                    estate tax. If you meet these requirements, increase your
+This is figured by subtracting from the $60,000 FMV the                      basis in the property to its FMV on the date of the dece-
+$6,000 depreciation allocated to Jim's half interest before                  dent's death or the alternate valuation date. The increase
+the date of death.                                                           in your basis is considered to have occurred immediately
+   If under local law Jim had no interest in the income from                 before the event that results in the additional estate tax.
+the property and contributed no part of the purchase price,                     You make the election by filing with Form 706-A a state-
+Jim’s basis at John's death would be $60,000, the FMV of                     ment that does all of the following.
+the property.
+                                                                              • Contains your name, address, and taxpayer identifica-
+Qualified Joint Interest                                                         tion number and those of the estate.
+                                                                              • Identifies the election as an election under section
+Include one-half of the value of a qualified joint interest in                   1016(c) of the Internal Revenue Code.
+the decedent's gross estate. It doesn't matter how much
+                                                                              • Specifies the property for which the election is made.
+each spouse contributed to the purchase price. Also, it
+doesn't matter which spouse dies first.                                       • Provides any additional information required by the In-
+                                                                                 structions for Form 706-A.
+   A qualified joint interest is any interest in property held                 For more information, see the Instructions for Form 706
+by married individuals as either of the following.                           and the Instructions for Form 706-A.
+ • Tenants by the entirety.
+                                                                             Property Received from a Trust
+ • Joint tenants with right of survivorship if the married
+     couple are the only joint tenants.
+                                                                             A grantor type trust is a legal trust under applicable state
+Basis. As the surviving spouse, your basis in property                       law that isn't recognized as a separate taxable entity for in-
+you owned with your spouse as a qualified joint interest is                  come tax purposes because the grantor or other substan-
+the cost of your half of the property with certain adjust-                   tial owners have not relinquished complete dominion and
+ments. Decrease the cost by any deductions allowed to                        control over the trust. See the instructions to Form 1041,
+
+16                                                                                                            Publication 551 (12-2025)
+U.S. Income Tax Return for Estates and Trusts, for more            Example. Assume the same facts as in the previous
+information. If property is distributed to you from a grantor    example except that you sell the property at a gain after
+trust, the distribution is considered to be a transfer from      being allowed depreciation deductions of $37,500. Your
+the grantor or other owner of the trust. If you are the gran-    adjusted basis for figuring gain is $165,500 ($178,000 +
+tor or other owner of the grantor trust, then the distribution   $25,000 (land) − $37,500).
+generally has no effect on the basis of the property. If you
+                                                                    Loss. Figure the basis for a loss starting with the
+are not the grantor or other owner of the grantor trust (for
+                                                                 smaller of your adjusted basis or the FMV of the property
+example, if you are a beneficiary), then the distribution
+                                                                 at the time of the change to business or rental use. Then
+from the trust is generally treated as a gift to you from the
+                                                                 adjust this amount for the period after the change in the
+grantor or other owner. See Property Received as a Gift,
+                                                                 property's use, as discussed earlier under Adjusted Basis,
+earlier.
+                                                                 to arrive at a basis for loss.
+   If property is distributed to you from a non-grantor trust
+                                                                    Example. Assume the same facts as in the previous
+you will generally take a carryover basis in the property
+                                                                 example, except that you sell the property at a loss after
+under IRC section 643. Your basis in the distributed prop-
+                                                                 being allowed depreciation deductions of $37,500. In this
+erty will generally be the same as the trust's adjusted ba-
+                                                                 case, you would start with the FMV on the date of the
+sis immediately before the distribution, as further adjusted
+                                                                 change to rental use ($180,000) because it's less than the
+for any gain or loss recognized by the trust on the distribu-
+                                                                 adjusted basis of $203,000 ($178,000 + $25,000) on that
+tion. For a trust's basis in property gifted to the trust, see
+                                                                 date. Reduce that amount ($180,000) by the depreciation
+Property Received as a Gift, earlier. For a trust's basis in
+                                                                 deductions to arrive at a basis for loss of $142,500
+inherited property included in the trust settlor's gross es-
+                                                                 ($180,000 − $37,500).
+tate, see Inherited Property, earlier.
+
+Property Changed to Business or                                  How To Get Tax Help
+Rental Use
+                                                                 If you have questions about a tax issue; need help prepar-
+If you hold property for personal use and then change it to
+                                                                 ing your tax return; or want to download free publications,
+business use or use it to produce rent, you must figure its
+                                                                 forms, or instructions, go to IRS.gov to find resources that
+basis for depreciation. An example of changing property
+                                                                 can help you right away.
+held for personal use to business use would be renting out
+your former main home.                                           Tax reform. Tax reform legislation impacting federal
+                                                                 taxes, credits, and deductions was enacted in P.L. 119-21,
+Basis for depreciation. The basis for depreciation is the
+                                                                 commonly known as the One Big Beautiful Bill Act, on July
+lesser of the following amounts.
+                                                                 4, 2025. Go to IRS.gov/OBBB for more information and
+ • The FMV of the property on the date of the change, or         updates on how this legislation affects your taxes.
+ • Your adjusted basis on the date of the change.                Preparing and filing your tax return. After receiving all
+   Example. Several years ago, you paid $160,000 to              your wage and earnings statements (Forms W-2, W-2G,
+have your home built on a lot that cost $25,000. You paid        1099-R, 1099-MISC, 1099-NEC, etc.); unemployment
+$20,000 for permanent improvements to the house and              compensation statements (by mail or in a digital format) or
+claimed a $2,000 casualty loss deduction for damage to           other government payment statements (Form 1099-G);
+the house before changing the property to rental use last        and interest, dividend, and retirement statements from
+year. Because land isn't depreciable, you include only the       banks and investment firms (Forms 1099), you have sev-
+cost of the house when figuring the basis for depreciation.      eral options to choose from to prepare and file your tax re-
+   Your adjusted basis in the house when you changed its         turn. You can prepare the tax return yourself, see if you
+use was $178,000 ($160,000 + $20,000 − $2,000). On the           qualify for free tax preparation, or hire a tax professional to
+same date, your property had an FMV of $180,000, of              prepare your return.
+which $15,000 was for the land and $165,000 was for the          Free options for tax preparation. Your options for pre-
+house. The basis for figuring depreciation on the house is       paring and filing your return online or in your local com-
+its FMV on the date of change ($165,000) because it's            munity, if you qualify, include the following.
+less than your adjusted basis ($178,000).
+                                                                  • Free File. This program lets you prepare and file your
+Sale of property. If you later sell or dispose of property           federal individual income tax return for free using soft-
+changed to business or rental use, the basis of the prop-            ware or Free File Fillable Forms. However, state tax
+erty you use will depend on whether you're figuring gain or          preparation may not be available through Free File. Go
+loss.                                                                to IRS.gov/FreeFile to see if you qualify for free online
+                                                                     federal tax preparation, e-filing, and direct deposit or
+   Gain. The basis for figuring a gain is your adjusted ba-
+                                                                     payment options.
+sis when you sell the property.
+                                                                  • VITA. The Volunteer Income Tax Assistance (VITA)
+                                                                     program offers free tax help to people with
+
+
+Publication 551 (12-2025)                                                                                                    17
+     low-to-moderate incomes, persons with disabilities,         and many others who don’t have professional credentials.
+     and limited-English-speaking taxpayers who need             If you choose to have someone prepare your tax return,
+     help preparing their own tax returns. Go to IRS.gov/        choose that preparer wisely. A paid tax preparer is:
+     VITA, download the free IRS2Go app, or call
+                                                                  • Primarily responsible for the overall substantive accu-
+     800-906-9887 for information on free tax return prepa-         racy of your return,
+     ration.
+                                                                  • Required to sign the return, and
+ • TCE. The Tax Counseling for the Elderly (TCE) pro-
+     gram offers free tax help for all taxpayers, particularly    • Required to include their preparer tax identification
+     those who are 60 years of age and older. TCE volun-            number (PTIN).
+     teers specialize in answering questions about pen-                   Although the tax preparer always signs the return,
+     sions and retirement-related issues unique to seniors.               you’re ultimately responsible for providing all the
+     Go to IRS.gov/TCE or download the free IRS2Go app             !
+                                                                  CAUTION information required for the preparer to accurately
+     for information on free tax return preparation.             prepare your return and for the accuracy of every item re-
+ • MilTax. Members of the U.S. Armed Forces and quali-           ported on the return. Anyone paid to prepare tax returns
+     fied veterans may use MilTax, a free tax service of-        for others should have a thorough understanding of tax
+     fered by the Department of Defense through Military         matters. For more information on how to choose a tax pre-
+     OneSource. For more information, go to                      parer, go to Tips for Choosing a Tax Preparer on IRS.gov.
+     MilitaryOneSource (MilitaryOneSource.mil/MilTax).
+        Also, the IRS offers Free Fillable Forms, which can      Employers can register to use Business Services On-
+     be completed online and then e-filed regardless of in-      line. The Social Security Administration (SSA) offers on-
+     come.                                                       line service at SSA.gov/employer for fast, free, and secure
+                                                                 W-2 filing options to CPAs, accountants, enrolled agents,
+Using online tools to help prepare your return. Go to            and individuals who process Form W-2, Wage and Tax
+IRS.gov/Tools for the following.                                 Statement; and Form W-2c, Corrected Wage and Tax
+ • The Earned Income Tax Credit Assistant (IRS.gov/              Statement.
+     EITCAssistant) determines if you’re eligible for the
+     earned income credit (EITC).                                Business tax account. If you are a sole proprietor, a
+                                                                 partnership, an S corporation, a C corporation, or a sin-
+ • The Online EIN Application (IRS.gov/EIN) helps you            gle-member limited liability company (LLC), you can view
+     get an employer identification number (EIN) at no           your tax information on record with the IRS and do more
+     cost.                                                       with a business tax account. Go to IRS.gov/
+ • The Tax Withholding Estimator (IRS.gov/W4app)                 BusinessAccount for more information.
+     makes it easier for you to estimate the federal income
+                                                                 IRS social media. Go to IRS.gov/SocialMedia to see the
+     tax you want your employer to withhold from your pay-
+                                                                 various social media tools the IRS uses to share the latest
+     check. This is tax withholding. See how your withhold-
+                                                                 information on tax changes, scam alerts, initiatives, prod-
+     ing affects your refund, take-home pay, or tax due.
+                                                                 ucts, and services. At the IRS, privacy and security are our
+ • The Sales Tax Deduction Calculator (IRS.gov/                  highest priority. We use these tools to share public infor-
+     SalesTax) figures the amount you can claim if you           mation with you.Don’t post your social security number
+     itemize deductions on Schedule A (Form 1040).               (SSN) or other confidential information on social media
+         Getting answers to your tax questions. On               sites. Always protect your identity when using any social
+         IRS.gov, you can get up-to-date information on          networking site.
+         current events and changes in tax law.                     The following IRS YouTube channels provide short, in-
+                                                                 formative videos on various tax-related topics in English,
+ • IRS.gov/Help: A variety of tools to help you get an-          Spanish, and ASL.
+     swers to some of the most common tax questions.
+                                                                  • Youtube.com/irsvideos.
+ • IRS.gov/ITA: The Interactive Tax Assistant, a tool that
+     will ask you questions and, based on your input, pro-        • Youtube.com/irsvideosmultilingua.
+     vide answers on a number of tax topics.                      • Youtube.com/irsvideosASL.
+ • IRS.gov/Forms: Find forms, instructions, and publica-         Online tax information in other languages. You can
+     tions. You will find details on the most recent tax
+                                                                 find information on IRS.gov/MyLanguage if English isn’t
+     changes and interactive links to help you find answers
+                                                                 your native language.
+     to your questions.
+ • You may also be able to access tax information in your        Over-the-Phone Interpreter (OPI) Service. The IRS of-
+     e-filing software.                                          fers the OPI Service to taxpayers needing language inter-
+                                                                 pretation. The OPI Service is available at Taxpayer Assis-
+                                                                 tance Centers (TACs), most IRS offices, and every
+Need someone to prepare your tax return? There are               VITA/TCE tax return site. This service is available in Span-
+various types of tax return preparers, including enrolled        ish, Mandarin, Cantonese, Korean, Vietnamese, Russian,
+agents, certified public accountants (CPAs), accountants,        and Haitian Creole.
+
+18                                                                                              Publication 551 (12-2025)
+Accessibility Helpline available for taxpayers with            • Approve or reject authorization requests from tax pro-
+disabilities. Taxpayers who need information about ac-            fessionals.
+cessibility services can call 833-690-0598. The Accessi-
+bility Helpline can answer questions related to current and   Get a transcript of your return. With an online account,
+future accessibility products and services available in al-   you can access a variety of information to help you during
+ternative media formats (for example, braille-ready, large    the filing season. You can get a transcript, review your
+print, audio, etc.). The Accessibility Helpline does not      most recently filed tax return, and get your adjusted gross
+have access to your IRS account. For help with tax law, re-   income. Create or access your online account at IRS.gov/
+funds, or account-related issues, go to IRS.gov/              Account.
+LetUsHelp.
+                                                              Tax Pro Account. This tool lets your tax professional
+Alternative media preference. Form 9000, Alternative          submit an authorization request to access your individual
+Media Preference, or Form 9000(SP) allows you to elect to     taxpayer IRS OLA. For more information, go to IRS.gov/
+receive certain types of written correspondence in the fol-   TaxProAccount.
+lowing formats.
+                                                              Using direct deposit. The safest and easiest way to re-
+ • Standard Print.                                            ceive a tax refund is to e-file and choose direct deposit,
+ • Large Print.                                               which securely and electronically transfers your refund di-
+                                                              rectly into your financial account. Direct deposit also
+ • Braille.                                                   avoids the possibility that your check could be lost, stolen,
+ • Audio (MP3).                                               destroyed, or returned undeliverable to the IRS. Eight in
+                                                              10 taxpayers use direct deposit to receive their refunds. If
+ • Plain Text File (TXT).                                     you don’t have a bank account, go to IRS.gov/
+ • Braille Ready File (BRF).                                  DirectDeposit for more information on where to find a bank
+                                                              or credit union that can open an account online.
+Disasters. Go to IRS.gov/DisasterRelief to review the
+available disaster tax relief.                                Reporting and resolving your tax-related identity
+                                                              theft issues.
+Getting tax forms and publications. Go to IRS.gov/
+Forms to view, download, or print all the forms, instruc-      • Tax-related identity theft happens when someone
+tions, and publications you may need. Or, you can go to           steals your personal information to commit tax fraud.
+IRS.gov/OrderForms to place an order.                             Your taxes can be affected if your SSN is used to file a
+                                                                  fraudulent return or to claim a refund or credit.
+Mobile-friendly forms. You'll need an IRS Online Ac-           • The IRS doesn’t initiate contact with taxpayers by
+count (OLA) to complete mobile-friendly forms that require        email, text messages (including shortened links), tele-
+signatures. You'll have the option to submit your form(s)         phone calls, or social media channels to request or
+online or download a copy for mailing. You'll need scans of       verify personal or financial information. This includes
+your documents to support your submission. Go to                  requests for personal identification numbers (PINs),
+IRS.gov/MobileFriendlyForms for more information.                 passwords, or similar information for credit cards,
+                                                                  banks, or other financial accounts.
+Getting tax publications and instructions in eBook
+format. Download and view most tax publications and in-        • Go to IRS.gov/IdentityTheft, the IRS Identity Theft
+structions (including the Instructions for Form 1040) on          Central webpage, for information on identity theft and
+mobile devices as eBooks at IRS.gov/eBooks.                       data security protection for taxpayers, tax professio-
+   IRS eBooks have been tested using Apple's iBooks for           nals, and businesses. If your SSN has been lost or
+iPad. Our eBooks haven’t been tested on other dedicated           stolen or you suspect you’re a victim of tax-related
+eBook readers, and eBook functionality may not operate            identity theft, you can learn what steps you should
+as intended.                                                      take.
+
+Access your online account (individual taxpayers               • Get an Identity Protection PIN (IP PIN). IP PINs are
+                                                                  six-digit numbers assigned to taxpayers to help pre-
+only). Go to IRS.gov/Account to securely access infor-
+                                                                  vent the misuse of their SSNs on fraudulent federal in-
+mation about your federal tax account.
+                                                                  come tax returns. When you have an IP PIN, it pre-
+ • View the amount you owe and a breakdown by tax                 vents someone else from filing a tax return with your
+   year.                                                          SSN. To learn more, go to IRS.gov/IPPIN.
+ • See payment plan details or apply for a new payment        Ways to check on the status of your refund.
+   plan.
+                                                               • Go to IRS.gov/Refunds.
+ • Make a payment or view 5 years of payment history
+   and any pending or scheduled payments.                      • Download the official IRS2Go app to your mobile de-
+                                                                  vice to check your refund status.
+ • Access your tax records, including key data from your
+   most recent tax return, and transcripts.                    • Call the automated refund hotline at 800-829-1954.
+ • View digital copies of select notices from the IRS.
+Publication 551 (12-2025)                                                                                               19
+        The IRS can’t issue refunds before mid-February                  It can take up to 3 weeks from the date you filed
+     !  for returns that claimed the EITC or the additional        !     your amended return for it to show up in our sys-
+CAUTION child tax credit (ACTC). This applies to the entire      CAUTION tem, and processing it can take up to 16 weeks.
+
+refund, not just the portion associated with these credits.
+                                                                 Understanding an IRS notice or letter you’ve re-
+Making a tax payment. The IRS recommends paying                  ceived. Go to IRS.gov/Notices to find additional informa-
+electronically whenever possible. Options to pay electroni-      tion about responding to an IRS notice or letter.
+cally are included in the list below. Payments of U.S. tax
+must be remitted to the IRS in U.S. dollars. Digital assets      IRS Document Upload Tool. You may be able use the
+are not accepted. Go to IRS.gov/Payments for information         Document Upload Tool to respond digitally to eligible IRS
+on how to make a payment using any of the following op-          notices and letters by securely uploading required docu-
+tions.                                                           ments online through IRS.gov. For more information, go to
+                                                                 IRS.gov/DUT.
+ • IRS Direct Pay: Pay taxes from your bank account. It’s
+     free and secure, and no sign-in is required. You can        Schedule LEP. You can use Schedule LEP (Form 1040),
+     change or cancel within 2 days of scheduled payment.        Request for Change in Language Preference, to state a
+ • Debit Card, Credit Card, or Digital Wallet: Choose an         preference to receive notices, letters, or other written com-
+     approved payment processor to pay online or by              munications from the IRS in an alternative language. You
+     phone.                                                      may not immediately receive written communications in
+                                                                 the requested language. The IRS’s commitment to LEP
+ • Electronic Funds Withdrawal: Schedule a payment               taxpayers is part of a multi-year timeline that began pro-
+     when filing your federal taxes using tax return prepara-    viding translations in 2023. You will continue to receive
+     tion software or through a tax professional.                communications, including notices and letters, in English
+ • Electronic Federal Tax Payment System: This is the            until they are translated to your preferred language.
+     best option for businesses. Enrollment is required.
+                                                                 Contacting your local TAC. Keep in mind, many ques-
+ • Check or Money Order: Mail your payment to the ad-            tions can be answered on IRS.gov without visiting a TAC.
+     dress listed on the notice or instructions.                 Go to IRS.gov/LetUsHelp for the topics people ask about
+ • Cash: You may be able to pay your taxes with cash at          most. If you still need help, TACs provide tax help when a
+     a participating retail store.                               tax issue can’t be handled online or by phone. All TACs
+                                                                 now provide service by appointment, so you’ll know in ad-
+ • Same-Day Wire: You may be able to do same-day                 vance that you can get the service you need without long
+     wire from your financial institution. Contact your finan-   wait times. Before you visit, go to IRS.gov/TAC to find the
+     cial institution for availability, cost, and time frames.   nearest TAC and to check hours, available services, and
+                                                                 appointment options. Or, on the IRS2Go app, under the
+   Note. The IRS uses the latest encryption technology to
+                                                                 Stay Connected tab, choose the Contact Us option and
+ensure that the electronic payments you make online, by
+                                                                 click on “Local Offices.”
+phone, or from a mobile device using the IRS2Go app are
+safe and secure. Paying electronically is quick and easy.          ——————————————————
+What if I can’t pay now? Go to IRS.gov/Payments for                 Below is a message to you from the Taxpayer Advocate
+more information about your options.                             Service, an independent organization established by Con-
+ • Apply for an online payment agreement (IRS.gov/               gress.
+     OPA) to meet your tax obligation in monthly install-
+     ments if you can’t pay your taxes in full today. Once       The Taxpayer Advocate Service (TAS)
+     you complete the online process, you will receive im-       Is Here To Help You
+     mediate notification of whether your agreement has
+     been approved.                                              What Is the Taxpayer Advocate Service?
+ • Use the Offer in Compromise Pre-Qualifier to see if
+     you can settle your tax debt for less than the full         The Taxpayer Advocate Service (TAS) is an independent
+     amount you owe. For more information on the Offer in        organization within the Internal Revenue Service (IRS).
+     Compromise program, go to IRS.gov/OIC.                      TAS helps taxpayers resolve problems with the IRS,
+                                                                 makes administrative and legislative recommendations to
+Filing an amended return. Go to IRS.gov/Form1040X                prevent or correct the problems, and protects taxpayer
+for information and updates.                                     rights. We work to ensure that every taxpayer is treated
+                                                                 fairly and that you know and understand your rights under
+Checking the status of your amended return. Go to                the Taxpayer Bill of Rights. We are Your Voice at the IRS.
+IRS.gov/WMAR to track the status of Form 1040-X amen-
+ded returns.                                                     How Can TAS Help Me?
+                                                                 TAS can help you resolve problems that you haven’t been
+                                                                 able to resolve with the IRS on your own. Always try to
+
+20                                                                                              Publication 551 (12-2025)
+resolve your problem with the IRS first, but if you can’t,    How Do I Contact TAS?
+then come to TAS. Our services are free.
+                                                              TAS has offices in every state, the District of Columbia,
+ • TAS helps all taxpayers (and their representatives), in-   and Puerto Rico. To find your local advocate’s number:
+   cluding individuals, businesses, and exempt organiza-
+   tions. You may be eligible for TAS help if your IRS         • Go to www.TaxpayerAdvocate.IRS.gov/Contact-Us,
+   problem is causing financial difficulty, if you’ve tried
+                                                               • Check your local directory, or
+   and been unable to resolve your issue with the IRS, or
+   if you believe an IRS system, process, or procedure         • Call TAS toll free at 877-777-4778.
+   just isn’t working as it should.
+ • To get help any time with general tax topics, visit        What Are My Rights as a Taxpayer?
+   www.TaxpayerAdvocate.IRS.gov. The site can help            The Taxpayer Bill of Rights describes ten basic rights that
+   you with common tax issues and situations, such as         all taxpayers have when dealing with the IRS. Go to
+   what to do if you make a mistake on your return or if      www.TaxpayerAdvocate.IRS.gov/Taxpayer-Rights              for
+   you get a notice from the IRS.                             more information about the rights, what they mean to you,
+ • TAS works to resolve large-scale (systemic) problems       and how they apply to specific situations you may encoun-
+   that affect many taxpayers. You can report systemic is-    ter with the IRS. TAS strives to protect taxpayer rights and
+   sues at www.IRS.gov/SAMS. (Be sure not to include          ensure the IRS is administering the tax law in a fair and
+   any personal identifiable information.)                    equitable way.
+
+
+
+
+Publication 551 (12-2025)                                                                                               21
+Glossary
+Amortization: A ratable deduction for Going concern value: Going concern Real property: Land and generally
+the cost of certain intangible property value is the additional value that at- anything erected on, growing on, or at-
+over the period specified by law. Exam- taches to property because the prop- tached to land, for example, a building.
+ples of costs that can be amortized are erty is an integral part of an ongoing
+goodwill, agreement not to compete, business activity. It includes value Recapture: Amount of depreciation or
+and research and mining exploration based on the ability of a business to section 179 deduction that must be re-
+costs.                                   continue to function and generate in- ported as ordinary income when prop-
+                                         come even though there is a change in erty is sold at a gain.
+Business assets: Property used in ownership.
+the conduct of a trade or business,                                               Section 179 deduction: This is a
+such as business machinery and office Goodwill: Goodwill is the value of a special deduction allowed against the
+furniture.                               trade or business based on expected cost of certain property purchased for
+                                         continued customer patronage due to use in the active conduct of a trade or
+Capitalization: Adding costs, such as its name, reputation, or any other fac- business.
+improvements, to the basis of assets.    tor.
+                                                                                  Section 197 intangibles: Certain in-
+Depletion: Yearly deduction allowed Intangible property: Property that tangibles held in connection with the
+to recover your investment in minerals can't be perceived by the senses such conduct of a trade or business or an
+in place or standing timber. To take the as goodwill, patents, copyrights, etc.   activity entered into for profit, including
+deduction, you must have the right to                                             goodwill, going concern value, patents,
+income from the extraction and sale of Like-kind property: Items of property copyrights, formulas, franchises, trade-
+the minerals or the cutting of the tim- with the same nature or character. The marks, and trade names.
+ber.                                     grade or quality of the properties
+                                         doesn't matter. Examples are two va- Tangible property: This is property
+Depreciation: Ratable deduction al- cant plots of land.                           that can be seen or touched, such as
+lowed over a number of years to re-                                               furniture and buildings.
+cover your basis in property that is Modified Accelerated Cost Recov-
+used more than 1 year for business or ery System (MACRS) property: Unstated interest: The part of the
+income producing purposes.               Buildings (and their structural compo- sales price treated as interest when an
+                                         nents) and other tangible depreciable installment contract provides for little or
+Fair market value (FMV): FMV is the property placed in service after 1986 no interest.
+price at which property would change that is used in a trade or business or for
+hands between a buyer and a seller, the production of income.
+neither having to buy or sell, and both
+having reasonable knowledge of all Personal property: Property, such as
+necessary facts.                         machinery, equipment, or furniture, that
+                                         isn't real property.
+
+
+
+
+22                                                                                              Publication 551 (12-2025)
+                   To help us develop a more useful index, please let us know if you have ideas for index entries.
+Index              See “Comments and Suggestions” in the “Introduction” for the ways you can reach us.
+
+                                         Real estate taxes 3
+A                                        Real property 3                         P
+Adjusted basis:                          Settlement costs (fees) 3               Partially nontaxable exchanges 12
+   Adoption tax benefits 9             Cost Basis 2                              Patents 5
+   Assessment for local                                                          Points 4
+      improvements 7                   D                                         Property changed to business
+   Canceled debt 9                     Decreases to basis 7                        use 17
+   Casualty and theft losses 8         Demolition of building 6                  Property received as a gift 14
+   Decreases to 7                      Depreciation 8                            Property received for services:
+   Depreciation 8                                                                  Bargain purchases 10
+   Easements 8                         E                                           Fair market value 10
+   Employer-provided child care 9      Easements 8                                 Restricted property 10
+   Example 9                           Employer-provided child care 9            Property received from a trust 16
+   Gain from sale of home 9            Exchanges:                                Property transferred from a
+   Gas-guzzler tax 8                     Involuntary 11                            spouse 14
+   Increases to 6                        Like-kind 12                            Publications (See Tax help)
+   Residential energy credits 8          Nontaxable 11
+   Section 179 deduction 8               Partial business use of property 14
+                                                                                 R
+   Subsidies for energy                  Taxable 11                              Real estate taxes 3
+      conservation 8                                                             Real property 3
+   Vehicle credits 8                   F
+Adoption tax benefits 9                Franchises 5
+                                                                                 S
+Allocating basis 5                                                               Settlement costs (fees) 3
+Assistance (See Tax help)              G                                         Special-use valuation 16
+Assumption of mortgage 4               Gain from sale of home 9                  Spouse, property transferred
+                                                                                   from 14
+B                                      Gifts, property received 14
+                                                                                 Stocks and bonds 3
+                                       Group of assets acquired 5
+Business acquired 5                                                              Subdivided lots 6
+Business assets 4                      I
+                                                                                 T
+C                                      Inherited property 15
+                                                                                 Tax help 17
+                                       Intangible assets 5
+Canceled debt 9                                                                  Taxable exchanges 11
+                                       Involuntary exchanges 11
+Casualty and theft losses 8                                                      Trade or business acquired 5
+Change to business use 17              L                                         Trademarks and trade names 5
+Community property 15                                                            Trading property (see
+                                       Land and buildings 6                        Exchanges) 11
+Constructing assets 4                  Loans, low or no interest 3
+Copyrights 5
+Cost basis:                                                                      U
+                                       N
+  Allocating basis 5                                                             Uniform capitalization rules:
+                                       Nontaxable exchanges:                       Activities subject to the rules 4
+  Assumption of mortgage 4               Like-kind 12                              Exceptions 5
+  Capitalized costs 4, 7                 Partial 12
+  Loans, low or no interest 3
+
+
+
+
+Publication 551 (12-2025)                                                                                              23
+

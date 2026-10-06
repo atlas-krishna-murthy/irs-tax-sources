@@ -1,0 +1,51 @@
+{
+  "form": {
+    "id": "ws-section-737-gain",
+    "form": "Computation of Section 737 Gain",
+    "title": "Computation of Section 737 Gain",
+    "kind": "worksheet",
+    "revision": "2025",
+    "revision_printed_as": "Partner's Instructions for Schedule K-1 (Form 1065) (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Enter the FMV of the distributed property (other than money)",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Enter your adjusted basis in the partnership immediately before the distribution. See Basis Limitations, earlier",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Enter the amount of money received in the distribution",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Subtract line 3 from line 2. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Subtract line 4 from line 1",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Enter your net precontribution gain",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Section 737 gain. Enter the lesser of the amount reported on line 5 or line 6",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "notes": "A WORKSHEET in the Partner's Instructions for Schedule K-1 (Form 1065), box 19 code B. Its inputs come from the partnership's attached statement (FMV of the distributed property, money received, net precontribution gain) and the partner's own basis. Line 7 is reported on Form 4797 or Form 8949 and Schedule D by the character the contributed property would have had."
+  }
+}

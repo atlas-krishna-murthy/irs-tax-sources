@@ -1,0 +1,1164 @@
+{
+  "form": {
+    "id": "form-3800",
+    "form": "Form 3800",
+    "title": "General Business Credit",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f3800--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i3800",
+    "notes": "refundable: mixed. Line 38 is the NONREFUNDABLE general business credit and goes to Schedule 3 Part I line 6a. Part III line 6 column (j) \u2014 the net elective payment election amount \u2014 is REFUNDABLE and goes to Schedule 3 Part II line 13c, which is the route by which an elective-pay (direct pay) energy credit becomes cash. This form is the collecting point for the business-use half of two credits in this slice: Form 8936 line 8 (new clean vehicle, business/investment use) arrives at Part III line 1y, Form 8936 line 21 (qualified commercial clean vehicle) at Part III line 1aa, and Form 8911 line 3 (alternative fuel vehicle refueling property, business/investment use) at Part III line 1s. PART III IS NOW DECLARED IN FULL \u2014 all of lines 1a through 1zz, 2, 3, 4a through 4z, 5 and 6, each with its ten columns (a) through (j) \u2014 transcribed verbatim from pages 4 and 5 of the form. It was previously cut down to the three lines this slice itself feeds, and that was wrong: the Schedule K-1 routes from the pass-through part of this map land on roughly forty different Part III letters, and a line this form does not declare is a figure a leadsheet cannot fetch. Each caption is the name of the SOURCE credit form that feeds that line, which is how the form is printed. Lines 1r, 1z, 1hh, 1ii, 4l and 4m read 'Reserved' and are declared as such rather than omitted, so that a route arriving at one is recognisably arriving at a reserved line rather than at a line nobody transcribed. Printed revision: Form 3800 (2025), Created 8/19/25.",
+    "lines": [
+      {
+        "line": "6",
+        "caption": "Add lines 1, 3, 4, and 5",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Enter the smaller of line 6 or line 16. This is the amount of your credit allowed after the limitation of section 38(c)",
+        "type": "money"
+      },
+      {
+        "line": "28",
+        "caption": "Add lines 17 and 26",
+        "type": "money"
+      },
+      {
+        "line": "37",
+        "caption": "Enter the smaller of line 29 or line 36. This is the amount allowed for specified credits",
+        "type": "money"
+      },
+      {
+        "line": "38",
+        "caption": "Credit allowed for the current year. Add lines 28 and 37. Report the amount from line 38 (if smaller than the sum of Part I, line 6, and Part II, lines 25 and 36; see instructions) as indicated below or on the applicable line of your return. \u2022 Individuals. Schedule 3 (Form 1040), line 6a. \u2022 Corporations. Form 1120, Schedule J, line 5c. \u2022 Estates and trusts. Form 1041, Schedule G, line 2b.",
+        "type": "money"
+      },
+      {
+        "line": "Part III, line 1a",
+        "caption": "Form 3468, Part II",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1b",
+        "caption": "Form 7207",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1c",
+        "caption": "Form 6765",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1d",
+        "caption": "Form 3468, Part III",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1e",
+        "caption": "Form 8826",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1f",
+        "caption": "Form 8835, Part II",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1g",
+        "caption": "Form 7210",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1h",
+        "caption": "Form 8820",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1i",
+        "caption": "Form 8874",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1j",
+        "caption": "Form 8881, Part I",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1k",
+        "caption": "Form 8882",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1l",
+        "caption": "Form 8864 (diesel)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1m",
+        "caption": "Form 8896",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1n",
+        "caption": "Form 8906",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1o",
+        "caption": "Form 3468, Part IV",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1p",
+        "caption": "Form 8908",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1q",
+        "caption": "Form 7218, Part II",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1r",
+        "caption": "Reserved",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1s",
+        "caption": "Form 8911, Part I",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1t",
+        "caption": "Form 8830",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1u",
+        "caption": "Form 7213, Part II",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1v",
+        "caption": "Form 3468, Part V",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1w",
+        "caption": "Form 8932",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1x",
+        "caption": "Form 8933",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1y",
+        "caption": "Form 8936, Part II",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1z",
+        "caption": "Reserved",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1aa",
+        "caption": "Form 8936, Part V",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1bb",
+        "caption": "Form 8904",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1cc",
+        "caption": "Form 7213, Part I",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1dd",
+        "caption": "Form 8881, Part II",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1ee",
+        "caption": "Form 8881, Part III",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1ff",
+        "caption": "Form 8864 (SAF)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1gg",
+        "caption": "Form 7211, Part II",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1hh",
+        "caption": "Reserved",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1ii",
+        "caption": "Reserved",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 1zz",
+        "caption": "Other credits",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 2",
+        "caption": "Add lines 1a-1zz",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 3",
+        "caption": "Form 8844",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4a",
+        "caption": "Form 3468, Part VI",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4b",
+        "caption": "Form 5884",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4c",
+        "caption": "Form 6478",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4d",
+        "caption": "Form 8586",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4e",
+        "caption": "Form 8835, Part II",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4f",
+        "caption": "Form 8846",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4g",
+        "caption": "Form 8900",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4h",
+        "caption": "Form 8941",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4i",
+        "caption": "Form 6765 (ESB)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4j",
+        "caption": "Form 8994",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4k",
+        "caption": "Form 3468, Part VII",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4l",
+        "caption": "Reserved",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4m",
+        "caption": "Reserved",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 4z",
+        "caption": "Other specified credits",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 5",
+        "caption": "Add lines 4a-4z",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "Part III, line 6",
+        "caption": "Add lines 2, 3, and 5",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "1",
+        "caption": "Credits not subject to the passive activity limit from Part III, line 2: combine column (e) with non-passive amounts from column (f)",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Credits subject to the passive activity limit. Combine Part III, line 2, column (d), and passive amounts included in line 2, column (f); and Part IV, line 6, column (d)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "3",
+        "caption": "Enter the portion of line 2 allowed for 2025",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Enter the portion of Part IV, line 6, column (f), that is from carryforwards to 2025",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Enter the portion of Part IV, line 6, column (f), that is from carrybacks from 2026",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Regular tax before credits:",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Alternative minimum tax:",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Add lines 7 and 8",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "10a",
+        "caption": "Foreign tax credit",
+        "type": "money"
+      },
+      {
+        "line": "10b",
+        "caption": "Certain allowable credits (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "10c",
+        "caption": "Add lines 10a and 10b",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "11",
+        "caption": "Net income tax. Subtract line 10c from line 9. If zero, skip lines 12 through 15 and enter -0- on line 16",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "12",
+        "caption": "Net regular tax. Subtract line 10c from line 7. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "13",
+        "caption": "Enter 25% (0.25) of the excess, if any, of line 12 (line 11 for corporations) over $25,000. See instructions",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "14",
+        "caption": "Tentative minimum tax:",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Enter the greater of line 13 or line 14",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "16",
+        "caption": "Subtract line 15 from line 11. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "18",
+        "caption": "Multiply line 14 by 75% (0.75). See instructions",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "19",
+        "caption": "Enter the greater of line 13 or line 18",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "20",
+        "caption": "Subtract line 19 from line 11. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "21",
+        "caption": "Subtract line 17 from line 20. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "22",
+        "caption": "Combine the amounts from Part III, line 3, column (e), with the amount from Part IV, line 3, column (f)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "23",
+        "caption": "Passive activity credit from Part III, line 3, column (d), plus the amount from Part IV, line 3, column (d)",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Enter the applicable passive activity credit allowed for 2025. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Add lines 22 and 24",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "26",
+        "caption": "Empowerment zone and renewal community employment credit allowed. Enter the smaller of line 21 or line 25",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "27",
+        "caption": "Subtract line 13 from line 11. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "29",
+        "caption": "Subtract line 28 from line 27. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "30",
+        "caption": "Enter the general business credit from line 5 of Part III: combine column (e) with non-passive amounts in column (f). See instructions",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Reserved",
+        "type": "text"
+      },
+      {
+        "line": "32",
+        "caption": "Passive activity credits from line 5 of Part III: combine column (d) with passive amounts in column (f). Also include passive specified credit carryovers from Part IV, line 5, column (d). See instructions",
+        "type": "money"
+      },
+      {
+        "line": "33",
+        "caption": "Enter the applicable passive activity credits allowed for 2025. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "34",
+        "caption": "Carryforward of business credit to 2025. If completing Part IV and carrying forward a business credit(s), see instructions",
+        "type": "money"
+      },
+      {
+        "line": "35",
+        "caption": "Carryback of business credit from 2026. If completing Part IV and carrying back a business credit(s), see instructions",
+        "type": "money"
+      },
+      {
+        "line": "36",
+        "caption": "Add lines 30, 33, 34, and 35",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "1a",
+        "because": "the first row of the Part III table ('1a Form 3468, Part II'), declared as `Part III, line 1a`; the same row of the Part IV carryover table is credit-form internals"
+      },
+      {
+        "slot": "2a",
+        "because": "the first row of the Part IV carryover table for expired credits ('2a Form 5884-A', 'Credits on lines 2a through 2x are expired') \u2014 a carryover row of a credit form out of scope (credit internals), not a Part I or II line"
+      },
+      {
+        "slot": "22",
+        "because": "'Attachment Sequence No. 22' in the form header, not a line (Part II line 22 is also declared)"
+      }
+    ]
+  }
+}

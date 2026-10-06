@@ -1,0 +1,48 @@
+{
+  "rule": {
+    "id": "e-ch-02",
+    "title": "What is not a charitable gift at all is not deducted",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-charitable-contribution-records.gifts_by_cash_or_check",
+        "taxpayer-charitable-contribution-records.gifts_other_than_by_cash_or_check"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-not-a-gift-to-a-qualified-organization"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-not-a-gift-to-a-qualified-organization",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this payment one the instructions say can't be deducted \u2014 a political contribution, club or lodge dues, raffle, bingo or lottery tickets, tuition, the value of time or services, or a gift to an individual, a for-profit group, a foreign organization, a lobbying group, a civic league, social or sports club, labor union or chamber of commerce?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "Amounts You Can't Deduct",
+      "revision": "2025",
+      "wording": "Dues, fees, or bills paid to country clubs, lodges, fraternal orders, or similar groups.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "research_ids": [
+      "e-ch-02"
+    ]
+  }
+}

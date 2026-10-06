@@ -1,0 +1,46 @@
+{
+  "rule": {
+    "class": "document",
+    "years": [
+      2025
+    ],
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "id": "a-r-15",
+    "title": "Code Y, a qualified charitable distribution: the gross stays on 4a, 4b is 0",
+    "acts_on": {
+      "boxes": [
+        "1099-R.2a"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "box",
+        "ref": "1099-R.7"
+      }
+    ],
+    "operator": "exclude_when",
+    "params": {
+      "when": {
+        "box": "1099-R.7",
+        "in": [
+          "Y"
+        ],
+        "match": "code"
+      }
+    },
+    "citation": {
+      "form": "Form 1040",
+      "line": "Lines 4a and 4b, Exception 3",
+      "revision": "2025",
+      "wording": "If all or part of the distribution is a qualified charitable distribution (QCD), enter the total distribution on line 4a. If the total amount distributed is a QCD, enter -0- on line 4b.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "Code Y says a QCD was claimed, not how much of the distribution it was. The whole of box 2a is excluded; a part that was not a QCD, and anything above the $108,000-per-person limit, is taxable and is the preparer's to enter."
+  }
+}

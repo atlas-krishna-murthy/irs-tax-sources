@@ -1,0 +1,3946 @@
+{
+ "f1040": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "3d31c226df0d189ced80e039d01cf0f8820c1019681a0f0ca6264de277b7e982",
+  "bytes": 220237,
+  "fetched": "2026-10-03"
+ },
+ "f1040c": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040c.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. January 2024)",
+  "sha256": "89f9a5ee6dfe887869549127c3997a64390c32809b91bc191d0a4473499399c0",
+  "bytes": 184741,
+  "fetched": "2026-10-03"
+ },
+ "f1040es": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040es--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "a6e94741c8fc559a668e3d73c5b2680132ad1f54d233782e2af7f2325905cfb7",
+  "bytes": 303413,
+  "fetched": "2026-10-03"
+ },
+ "f1040nr": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040nr--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "aa1c0523595ad630e097e41d42a35cbc7fa04685633a842d9ff4a7aa7b478c7a",
+  "bytes": 177160,
+  "fetched": "2026-10-03"
+ },
+ "f1040pr": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040pr--2022.pdf",
+  "how": "irs-prior, continuous use (2022)",
+  "revision_printed": "2022",
+  "sha256": "8aea2afea14ca7861cd30419ac8e2d99792f3445af77ed1f193535b9e402495f",
+  "bytes": 194836,
+  "fetched": "2026-10-03"
+ },
+ "f1040s1": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040s1--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "8dafec719f6a4716c259a2bdaca546d9bb9e262d1eabef885fe116a7327458fa",
+  "bytes": 99940,
+  "fetched": "2026-10-03"
+ },
+ "f1040s1a": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040s1a--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "64f97b38ff4218e2f188fd55a8aab7043556687487c82bbefe0b6dd1a956ecd4",
+  "bytes": 94224,
+  "fetched": "2026-10-03"
+ },
+ "f1040s2": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040s2--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "64d867b683334cfc533993e37ccb0d143449ec29428a78206be2e4de333941e8",
+  "bytes": 96526,
+  "fetched": "2026-10-03"
+ },
+ "f1040s3": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040s3--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "008cfd3fe3ebd0860452069b90fd0a3d53dda6dd8a5d870278370aa899a63f82",
+  "bytes": 69852,
+  "fetched": "2026-10-03"
+ },
+ "f1040s8": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040s8--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6936462d67e2309d14a795aa0b88ef613cc6d79617431cfda3a2edf44aea52db",
+  "bytes": 100829,
+  "fetched": "2026-10-03"
+ },
+ "f1040sa": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040sa--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "c14acf3478f4c33f27ac6e8ecd9f94b6fb25b16745b341728bd27847d2ef56bb",
+  "bytes": 79008,
+  "fetched": "2026-10-03"
+ },
+ "f1040sb": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040sb--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "dd1ec3719954532bd219343d81385a2ada3c8e9573fc755a3893f1fbbecc63e2",
+  "bytes": 76411,
+  "fetched": "2026-10-03"
+ },
+ "f1040sc": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040sc--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "ddf401dbe060467d39f90ad2abf645df1de31512821a150dc68a3882bbf19716",
+  "bytes": 122589,
+  "fetched": "2026-10-03"
+ },
+ "f1040sd": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040sd--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "90564c8b7e49280363612639b804d113ebedb516c2e87c70649f29c844da1d2e",
+  "bytes": 97968,
+  "fetched": "2026-10-03"
+ },
+ "f1040se": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040se--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "c5e2c8fa0ec5ee9153a0167734df634afe0ea8bb8483040766e5f4b1b12780f3",
+  "bytes": 148367,
+  "fetched": "2026-10-03"
+ },
+ "f1040sei": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040sei--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "b6dab52511ece16e710899542d952db578bf6c872d2580ee6760fb88ed77c4ba",
+  "bytes": 112439,
+  "fetched": "2026-10-03"
+ },
+ "f1040sf": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040sf--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "c6f7f19e1a4f5729515b2ac4604a06e0c2215043fdf94ad0f914f76396d7ec09",
+  "bytes": 119133,
+  "fetched": "2026-10-03"
+ },
+ "f1040sh": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040sh--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "d04de932bd7d960ba09b3a913cde9bf35c1deec34c5c9b51cdff8c0b1bfdf83a",
+  "bytes": 105406,
+  "fetched": "2026-10-03"
+ },
+ "f1040sj": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040sj--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "5c888d02d8f12d997a6f3bcfc07896e28a6914f99b5732610619d60e49dc821f",
+  "bytes": 75777,
+  "fetched": "2026-10-03"
+ },
+ "f1040sr": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040sr--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "9b1acf56189a88a347d38936e0792552f7466040494b73bf779af17734620b79",
+  "bytes": 93840,
+  "fetched": "2026-10-03"
+ },
+ "f1040ss": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040ss--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "4b8383bd330ef96cd51f216621af2635e0313a37719d3109d9e1dcada9c408f6",
+  "bytes": 149337,
+  "fetched": "2026-10-03"
+ },
+ "f1040sse": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040sse--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "05bc2b3e1dfca65d8c6fc6d652af4fa3736e953c6575d6e9f82590484677d347",
+  "bytes": 80290,
+  "fetched": "2026-10-03"
+ },
+ "f1040v": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040v--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "2426bb330ac54b765b32fbc3eceb878544aa333a3a823e1170aa8261a40fd251",
+  "bytes": 97663,
+  "fetched": "2026-10-03"
+ },
+ "f1040x": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1040x--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "e4d8d7df37209218d0d63d06e988004306365354873481726e93916accf3013e",
+  "bytes": 164571,
+  "fetched": "2026-10-03"
+ },
+ "f1041": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1041--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "95540fbdb580102735b89866554bb0b556d37f3e6c8781c677c8398db7908c10",
+  "bytes": 181366,
+  "fetched": "2026-10-03"
+ },
+ "f1041n": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1041n--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "85e5c7ed00f885c07c3b5916e1f79c0fcd4d8ce16b1ce0f5eef5b7c2a4ff239b",
+  "bytes": 154393,
+  "fetched": "2026-10-03"
+ },
+ "f1041qft": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1041qft--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "4d2bb9980e7f55bf83b7705b47b719cac4c4235732b869030833a42eb8328bc1",
+  "bytes": 88703,
+  "fetched": "2026-10-03"
+ },
+ "f1041sd": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1041sd--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "de162bf099b473b182ff3d15dc0926bead7c1f86444ccbd669705d53db11fc3a",
+  "bytes": 109635,
+  "fetched": "2026-10-03"
+ },
+ "f1041sk1": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1041sk1--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "d8d7b6eacabdf145474aee8385fcfeafe68bd2f69baaef52d9a8227ebcd45fc3",
+  "bytes": 108800,
+  "fetched": "2026-10-03"
+ },
+ "f1041t": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1041t--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "d213c64c34676ec766420567c855d760c75f975ce32370937fd92b51eda590c1",
+  "bytes": 90802,
+  "fetched": "2026-10-03"
+ },
+ "f1042s": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1042s--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "99c7ac417f5ce8626937e7d166a52e7e5e4531d6b3c6c784050f808a2f54aeb8",
+  "bytes": 221523,
+  "fetched": "2026-10-03"
+ },
+ "f1045": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1045--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "13c697f0107ff6132288333f2d6a9e8ee4110ddbaa654428ed9107629b5c851f",
+  "bytes": 122084,
+  "fetched": "2026-10-03"
+ },
+ "f1062": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1062--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "4ff34ba9f4f25a995557c49c0ed001f41e0efd75c3e79ec1a9513e7e8a912ade",
+  "bytes": 66887,
+  "fetched": "2026-10-03"
+ },
+ "f1065": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1065--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "0f19f556e12ef53c41ba27e5930b4373103f3abcf64693c4ea686451b2a8f56f",
+  "bytes": 334608,
+  "fetched": "2026-10-03"
+ },
+ "f1065b": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1065b--2017.pdf",
+  "how": "irs-prior, continuous use (2017)",
+  "revision_printed": "2017",
+  "sha256": "eda91642689c1a384b4b28bdd0ba60bfc32b95c99b41ba3c2a88da89037fb786",
+  "bytes": 217314,
+  "fetched": "2026-10-03"
+ },
+ "f1065sk1": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1065sk1--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "66098d4d48537ce2dac1f093d6351567957896e5843d8c524823b380068f6547",
+  "bytes": 106155,
+  "fetched": "2026-10-03"
+ },
+ "f1065sk3": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1065sk3--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6285dcb7162786d5d79c4cb38e95ff5fe7cba18c61de7f5ca84c6686a49a3bfd",
+  "bytes": 1067102,
+  "fetched": "2026-10-03"
+ },
+ "f1066": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1066--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "931762902cccc9a1a03e8f66774f142168e764fdf6c834e275f30c881082d72d",
+  "bytes": 143022,
+  "fetched": "2026-10-03"
+ },
+ "f1066sq": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f1066sq.pdf",
+  "how": "irs-pdf, continuous use (prints 2018)",
+  "revision_printed": "(Rev. September 2018)",
+  "sha256": "0b49acfe8cf7ce03f15ae3450ee0bf82579bdc19204417e839788d6978027e7c",
+  "bytes": 78917,
+  "fetched": "2026-10-03"
+ },
+ "f1095a": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1095a--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "df83be599d3bdcda826862aa5125868c2f481191a53c8417ed5fba91eccc7473",
+  "bytes": 492196,
+  "fetched": "2026-10-03"
+ },
+ "f1095b": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1095b--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "d6b37dc8e837fb722e139426caa8f2e298d678d98ae84c0f10e66f63eeaab784",
+  "bytes": 317850,
+  "fetched": "2026-10-03"
+ },
+ "f1095c": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1095c--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "53f0a430f0444342d6c3f96cdfb2e819fa5a52929dddf4859bf2d77ac347e080",
+  "bytes": 270510,
+  "fetched": "2026-10-03"
+ },
+ "f1096": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1096--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "4ae8dbbbed3623eeff9bf35449a4fef247feaca6f79ef8d6fc9043a4108c53c7",
+  "bytes": 531821,
+  "fetched": "2026-10-03"
+ },
+ "f1097btc": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1097btc--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "5c3973ff957827624800efa79ddd47a96d39d4c9007aff54fb4b050aea8e61da",
+  "bytes": 91260,
+  "fetched": "2026-10-03"
+ },
+ "f1098": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1098--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "304da9c0f67a46ff04ba831359185dc13dde335199cbf7c413dc879e5410dd87",
+  "bytes": 501143,
+  "fetched": "2026-10-03"
+ },
+ "f1098c": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1098c--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "b97cfbb3923b33e3882c81d912412697d6534a27789a1a2e4402b33dbd679e2a",
+  "bytes": 115653,
+  "fetched": "2026-10-03"
+ },
+ "f1098e": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1098e--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "66287bb7f31bbfb1b28a0fef2c2c60175fe01a0f7890763a483dc29ded180246",
+  "bytes": 481922,
+  "fetched": "2026-10-03"
+ },
+ "f1098f": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1098f--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "6daba916e80427ba8c6035334218b247418872b1328f70db59ce18a881493a33",
+  "bytes": 482686,
+  "fetched": "2026-10-03"
+ },
+ "f1098ma": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1098ma--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "f65b352e0fc353d5b6f5a642df91028faf163ca4de84384df1fcb5ab56a04473",
+  "bytes": 67541,
+  "fetched": "2026-10-03"
+ },
+ "f1098q": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1098q--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "d3c03fb7286c3b91af545cbb62db89e1ccc6c291fb9164b9e439fd6359443758",
+  "bytes": 557427,
+  "fetched": "2026-10-03"
+ },
+ "f1098t": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1098t--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "3f6f2b2b1478b9dbc7d0b95469ca5fecdf3c52e1b75d66c7356b1c16e4c43275",
+  "bytes": 497539,
+  "fetched": "2026-10-03"
+ },
+ "f1099a": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099a--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "7aec78933a169273c13202d07bf93cad8d009da2bf1a7f4340055dc1fe648244",
+  "bytes": 487014,
+  "fetched": "2026-10-03"
+ },
+ "f1099b": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099b--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "7e334cea66c2b2be3d88615a56db288a2805cb8705076b3b282a4eabbbd788ad",
+  "bytes": 601719,
+  "fetched": "2026-10-03"
+ },
+ "f1099c": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099c--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "826fe6811249e38b00df962b323c7ef838bc1e94a3c4522f9e10be4887f096a8",
+  "bytes": 487849,
+  "fetched": "2026-10-03"
+ },
+ "f1099cap": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099cap--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "012afd4d00cc9eeda604845da1aded86a9f6d8182d9135cdd53ffbb639c7f5e3",
+  "bytes": 69734,
+  "fetched": "2026-10-03"
+ },
+ "f1099da": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099da--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "3c7d63926a50a434a7b0e99e0769b1645dd6f09005a034b3918f5c3e3b0cb887",
+  "bytes": 598913,
+  "fetched": "2026-10-03"
+ },
+ "f1099div": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099div.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. January 2024)",
+  "sha256": "4ea1de804ff1db921753bd6319beeccfe4647299e03d79816e04d852a9cd1435",
+  "bytes": 542425,
+  "fetched": "2026-10-03"
+ },
+ "f1099g": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099g--2024.pdf",
+  "how": "irs-prior, continuous use (2024)",
+  "revision_printed": "(Rev. March 2024)",
+  "sha256": "fe46acb40d53442cca67fba55f79aa7683ab8d351e109096c3d6000f60e6226f",
+  "bytes": 523268,
+  "fetched": "2026-10-03"
+ },
+ "f1099h": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099h--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "f86e63d7f4a84f92442bd6aaa9960252f2606f48b656753fb6c8610eab47def4",
+  "bytes": 76236,
+  "fetched": "2026-10-03"
+ },
+ "f1099int": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099int.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. January 2024)",
+  "sha256": "ee7697c9b29374596fd9645b157b7312d121ae3c2f76bebf68908c3fc2b739e6",
+  "bytes": 538774,
+  "fetched": "2026-10-03"
+ },
+ "f1099k": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099k--2024.pdf",
+  "how": "irs-prior, continuous use (2024)",
+  "revision_printed": "(Rev. March 2024)",
+  "sha256": "73b57b30fdb78625247119d6248d10b210468a0283bac7d8692370a1d6f429d7",
+  "bytes": 552229,
+  "fetched": "2026-10-03"
+ },
+ "f1099ls": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099ls--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "e85327c1c79a53fb0b88facc8b56a324bbf20795746e5cd6e7ea219f2dc59485",
+  "bytes": 492882,
+  "fetched": "2026-10-03"
+ },
+ "f1099ltc": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099ltc--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "69623198392f04003e66480c084cac90f920951d830a5fc73f35ad45aefaabdc",
+  "bytes": 104583,
+  "fetched": "2026-10-03"
+ },
+ "f1099msc": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099msc--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "a56d3bc3b224eb38ab4b85c793beed7eeafa4efa278a4833ac53918f746340be",
+  "bytes": 545480,
+  "fetched": "2026-10-03"
+ },
+ "f1099nec": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099nec--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "7cf3272e27de046a92346375601f3211b711a9c800f9185034dd70badcab0abe",
+  "bytes": 513361,
+  "fetched": "2026-10-03"
+ },
+ "f1099oid": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099oid.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. January 2024)",
+  "sha256": "cc88d18964125c3f69a6fd15afcb5cd8b90fb1c3ea68c7b3b7b91a106e17d756",
+  "bytes": 537304,
+  "fetched": "2026-10-03"
+ },
+ "f1099ptr": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099ptr--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "4bdef5fc7c3bfb831af9be9365aaf6b1c691767ed3c9b787c15f49e85db557b3",
+  "bytes": 493088,
+  "fetched": "2026-10-03"
+ },
+ "f1099q": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099q--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "19ad3c80de52d509c30eac7d5de2527806c043530f567234ea310899cba4b7bb",
+  "bytes": 88763,
+  "fetched": "2026-10-03"
+ },
+ "f1099qa": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099qa--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "468cdb339f65afcae4423e20db35b213541a714faa202c9be51bf6f926120537",
+  "bytes": 75687,
+  "fetched": "2026-10-03"
+ },
+ "f1099r": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099r--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "d6b7be486a4d7419968df8a7c8cc36284b672d5fe66cff12359255eb56d31f7a",
+  "bytes": 601017,
+  "fetched": "2026-10-03"
+ },
+ "f1099s": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099s--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "d32d8864c2af930286022c6d57546f36c4061e5af1a642b13544de655c99e2cf",
+  "bytes": 490637,
+  "fetched": "2026-10-03"
+ },
+ "f1099sa": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099sa--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "cc2324629a9bd416180c1e10b66ce44d914937a6c4a11cc4bb8e17c22da44bd1",
+  "bytes": 79460,
+  "fetched": "2026-10-03"
+ },
+ "f1099sb": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1099sb--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "5b2279ef4026c773d8b74315d7672b7b455bbd6be791421dee4ab453b50466a1",
+  "bytes": 478714,
+  "fetched": "2026-10-03"
+ },
+ "f1116": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1116--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "2575162f86c37297265c28d3d23ff1d99e06b2b1aeeadf396f5d6e798a8cffc5",
+  "bytes": 120869,
+  "fetched": "2026-10-03"
+ },
+ "f1116sb": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f1116sb.pdf",
+  "how": "irs-pdf, continuous use (prints 2022)",
+  "revision_printed": "(Rev. December 2022)",
+  "sha256": "32ca6e58c9396b4561ee111397b8b5d7fba8c71b09aaa7828d435e5fdb6c9ddf",
+  "bytes": 109219,
+  "fetched": "2026-10-03"
+ },
+ "f1118": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1118--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "3d013b2727273854fb2888092a4c4f694f7ed9596eb861539be0474510804e00",
+  "bytes": 483344,
+  "fetched": "2026-10-03"
+ },
+ "f1120f": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1120f--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "1f5921961f8dee175bf892291b262f97d901fe4ae9a7e659dd4303670dbc82a8",
+  "bytes": 414199,
+  "fetched": "2026-10-03"
+ },
+ "f1120s": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1120s--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "c4b7cae7f2283a2e3225523ea001a710109fee34aad909461421025b287cd18d",
+  "bytes": 267113,
+  "fetched": "2026-10-03"
+ },
+ "f1120ssk": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1120ssk--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "104ac7b1137cb78c9051d4e3424630dca233887f17928b311fef6fd578baacd0",
+  "bytes": 83544,
+  "fetched": "2026-10-03"
+ },
+ "f1125a": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f1125a.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. November 2024)",
+  "sha256": "447270f7a058c5b8e3f3e31853bf2bf97470ccc0f5f07359fbcd5ec6a23be5c2",
+  "bytes": 87984,
+  "fetched": "2026-10-03"
+ },
+ "f1127": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f1127.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "cbf98841dd38262669f29d281973f9c4de86e6fb325e5810ef6771774f5bbab4",
+  "bytes": 87570,
+  "fetched": "2026-10-03"
+ },
+ "f1310": {
+  "url": "https://www.irs.gov/pub/irs-prior/f1310--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "a384753ead2bdbf3c3e9e4997dac3d47e6a00cea10ecca4768f4a96ca54813fd",
+  "bytes": 89988,
+  "fetched": "2026-10-03"
+ },
+ "f172": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f172.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "2024",
+  "sha256": "5e11c7acd788ce5681cd921a4bc75b5368b4e2385f79eaf62f7be278db13e749",
+  "bytes": 116608,
+  "fetched": "2026-10-03"
+ },
+ "f2106": {
+  "url": "https://www.irs.gov/pub/irs-prior/f2106--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "e81190c31837f896675083d2fe94ab45c950327980e5bb81b2568fb800226e90",
+  "bytes": 113949,
+  "fetched": "2026-10-03"
+ },
+ "f2210": {
+  "url": "https://www.irs.gov/pub/irs-prior/f2210--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6899ce672648b280bf00ab47200f1b0fbf40368cfbf137df507b945b8577159a",
+  "bytes": 163566,
+  "fetched": "2026-10-03"
+ },
+ "f2290": {
+  "url": "https://www.irs.gov/pub/irs-prior/f2290--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. July 2025)",
+  "sha256": "35395f8f06f06a717c5c58df1e2f2a2c0b830e55002c7651e7fbe5fe0bdf5d31",
+  "bytes": 689661,
+  "fetched": "2026-10-03"
+ },
+ "f2438": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f2438.pdf",
+  "how": "irs-pdf, continuous use (prints 2020)",
+  "revision_printed": "(Rev. December 2020)",
+  "sha256": "74500a80a89d922e71b1c59c23ed585de6d60733b21e301852294473312c6f5e",
+  "bytes": 95795,
+  "fetched": "2026-10-03"
+ },
+ "f2439": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f2439.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. November 2021)",
+  "sha256": "430e5aa3f7e79eeb600c1137dd1e0f75b2f3a94a490357defe6f6a04c44a7ecb",
+  "bytes": 101029,
+  "fetched": "2026-10-03"
+ },
+ "f2441": {
+  "url": "https://www.irs.gov/pub/irs-prior/f2441--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6c3c2d19163fa4c4de829abf9a89b43f08b4f4f3cb169740fc7da43e914269ce",
+  "bytes": 121040,
+  "fetched": "2026-10-03"
+ },
+ "f2555": {
+  "url": "https://www.irs.gov/pub/irs-prior/f2555--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "979a90f0f83723a43f7ae8600f38892d5b8e9d85683d357c7c5e4282654fad6a",
+  "bytes": 156457,
+  "fetched": "2026-10-03"
+ },
+ "f2555ez": {
+  "url": "https://www.irs.gov/pub/irs-prior/f2555ez--2018.pdf",
+  "how": "irs-prior, continuous use (2018)",
+  "revision_printed": "2018",
+  "sha256": "b5973bfe970ff250227be559f51e9b303244e077dd4d90ef0e111e53161ecb0a",
+  "bytes": 155960,
+  "fetched": "2026-10-03"
+ },
+ "f2678": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f2678.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "2d7557e89dfccc92a4941a63e2098090af9a83d43d243bfc0842727b3c1fa9c5",
+  "bytes": 90435,
+  "fetched": "2026-10-03"
+ },
+ "f2848": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f2848.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. January 2021)",
+  "sha256": "14377021f95856c453d903aae6a178d8371b3a96e65c28418862394d9f8c2d8e",
+  "bytes": 142587,
+  "fetched": "2026-10-03"
+ },
+ "f3115": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f3115.pdf",
+  "how": "irs-pdf, continuous use (prints 2022)",
+  "revision_printed": "(Rev. December 2022)",
+  "sha256": "cdfcb43e61467926acab03c5da3d7c21111c35b0e6208ee183b4fe2de636cd2c",
+  "bytes": 330982,
+  "fetched": "2026-10-03"
+ },
+ "f3468": {
+  "url": "https://www.irs.gov/pub/irs-prior/f3468--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "47d5d35246378f5e97a9bef98adfa12fea85dfbb707bc9625362e6472314708d",
+  "bytes": 337793,
+  "fetched": "2026-10-03"
+ },
+ "f3520": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f3520.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "(Rev. December 2023)",
+  "sha256": "031f9840607c14ba56f016a74e285025f479eaf1753d2cbde3082fcee2448db2",
+  "bytes": 323768,
+  "fetched": "2026-10-03"
+ },
+ "f3520a": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f3520a.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "(Rev. December 2023)",
+  "sha256": "d5dd5cb134578b572dec296c6e1d55c1342ca2c4fd5b7b6b1cbf6da02eb3d3f5",
+  "bytes": 210079,
+  "fetched": "2026-10-03"
+ },
+ "f3800": {
+  "url": "https://www.irs.gov/pub/irs-prior/f3800--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "cdfb169a69206370955214883611058e5d31ec89542e14cb7dccebdb7feef555",
+  "bytes": 575438,
+  "fetched": "2026-10-03"
+ },
+ "f3903": {
+  "url": "https://www.irs.gov/pub/irs-prior/f3903--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "54ab871c850d72bad1b86ed76b5decca45550dc7f5141fd76413318ff0132167",
+  "bytes": 59413,
+  "fetched": "2026-10-03"
+ },
+ "f3921": {
+  "url": "https://www.irs.gov/pub/irs-prior/f3921--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "8173947e5351009688ce609062ffff6eac2101a6183af45dcc63206e53f0b0fe",
+  "bytes": 75012,
+  "fetched": "2026-10-03"
+ },
+ "f3922": {
+  "url": "https://www.irs.gov/pub/irs-prior/f3922--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "98077229f4efb9d964caedd171847e6d6b8ae4b0a3cce60089410e9fb47f7164",
+  "bytes": 66249,
+  "fetched": "2026-10-03"
+ },
+ "f4029": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f4029.pdf",
+  "how": "irs-pdf, continuous use (prints 2018)",
+  "revision_printed": "(Rev. November 2018)",
+  "sha256": "c9568b94f9b43202412d783352d3bbe3d94ed0977a734dfc5a254f9d2b2fd911",
+  "bytes": 79389,
+  "fetched": "2026-10-03"
+ },
+ "f4136": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4136--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "87ea4218f72fc7a1549d28f53e7968d6a6602a11a3be41a8e6561b3c8b35c5d6",
+  "bytes": 251297,
+  "fetched": "2026-10-03"
+ },
+ "f4137": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4137--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "f2f7a8220e10c98e1aa0fee4bdb83a8ece8c2c97449208b2a8f9be0189bcb438",
+  "bytes": 87668,
+  "fetched": "2026-10-03"
+ },
+ "f4255": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4255--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "90c2e3f99a980b088fafdacbdbf68cc2902883517b1667680fac9ee473422549",
+  "bytes": 249398,
+  "fetched": "2026-10-03"
+ },
+ "f4361": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f4361.pdf",
+  "how": "irs-pdf, continuous use (prints 2011)",
+  "revision_printed": "(Rev. January 2011)",
+  "sha256": "b408d3e333f34b86199dd9aaf048d2cf7a0446432b77056efb676b3335229c16",
+  "bytes": 96127,
+  "fetched": "2026-10-03"
+ },
+ "f4506": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f4506.pdf",
+  "how": "irs-pdf, continuous use (prints 2025)",
+  "revision_printed": "2025",
+  "sha256": "391b2b61498c2247cd8826bad0c825f724d6bb8f5b0b435744a3a12aee6e8168",
+  "bytes": 678376,
+  "fetched": "2026-10-03"
+ },
+ "f4506t": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f4506t.pdf",
+  "how": "irs-pdf, continuous use (prints 2025)",
+  "revision_printed": "2025",
+  "sha256": "4de7303eee766f31deb9afbb66aa538e8e04909d31307c494b328e69fbbe634e",
+  "bytes": 680124,
+  "fetched": "2026-10-03"
+ },
+ "f4547": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4547--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "01a3370bfc0f421ee1fd77e23aaffa203de63f3bedae036bc66250cb0c9e1ee5",
+  "bytes": 79983,
+  "fetched": "2026-10-03"
+ },
+ "f4562": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4562--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "c05f9d1f5e26b1b21e18b0a13adbbcd3d568bb9f3ca53bd7bba7c795c7799b4a",
+  "bytes": 206401,
+  "fetched": "2026-10-03"
+ },
+ "f4563": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f4563.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. September 2024)",
+  "sha256": "2da6056e9e4bb41b3c5176597b5dd37ef714772a60c1921491e42def58a7673a",
+  "bytes": 96187,
+  "fetched": "2026-10-03"
+ },
+ "f461": {
+  "url": "https://www.irs.gov/pub/irs-prior/f461--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "f143e18a895456b6403fbc4ae4e8efd935161817047124265b4b1b61cfdc3155",
+  "bytes": 61573,
+  "fetched": "2026-10-03"
+ },
+ "f4626": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4626--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "dd9f8eef57d8cf19cf9e7d5ee33875b671d54134d7e8a3a11c6134eeb9e15668",
+  "bytes": 352626,
+  "fetched": "2026-10-03"
+ },
+ "f4684": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4684--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "911e0fe84adab9c721b4e32ae7cf8a8a8cabf169019f89383692d81fd61eda5a",
+  "bytes": 155627,
+  "fetched": "2026-10-03"
+ },
+ "f4797": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4797--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "e8ab787f2caab6a5f22894e4d13585afafaefcbc59428b70e590a84ea8cf9b54",
+  "bytes": 139463,
+  "fetched": "2026-10-03"
+ },
+ "f4835": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4835--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "8ecc6172e79daf0224b596a4a3f7cc03f481203a71a764544ecd178a939b7b5c",
+  "bytes": 111345,
+  "fetched": "2026-10-03"
+ },
+ "f4852": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f4852.pdf",
+  "how": "irs-pdf, continuous use (prints 2020)",
+  "revision_printed": "(Rev. September 2020)",
+  "sha256": "810e5e4df3022cf5421094b1d19dcf47eee020c751c47585b72d3249309cd066",
+  "bytes": 81366,
+  "fetched": "2026-10-03"
+ },
+ "f4868": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4868--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "36c7607db08ff469ed4e5df89e27ca90f29023c7cd6ca77c69343045e8f33d29",
+  "bytes": 529415,
+  "fetched": "2026-10-03"
+ },
+ "f4952": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4952--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "5113c1669c7ca4ab49b3e6322c675e14f53d6053b49e59fea27677dbc210df03",
+  "bytes": 93053,
+  "fetched": "2026-10-03"
+ },
+ "f4970": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4970--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "ca60bf19f34733d0e9e899c2c04e60f87f6fbe3f0415293ab203de9f1044de65",
+  "bytes": 94202,
+  "fetched": "2026-10-03"
+ },
+ "f4972": {
+  "url": "https://www.irs.gov/pub/irs-prior/f4972--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "d3e05491dca9f7783b31e26148f9da02502ddc895e9ec80e4849e2b9796404ab",
+  "bytes": 148078,
+  "fetched": "2026-10-03"
+ },
+ "f5329": {
+  "url": "https://www.irs.gov/pub/irs-prior/f5329--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "2ad77023aebb280c90e4083c29c931b4f0fc9fc6264183e812d2361ba7e916bb",
+  "bytes": 111659,
+  "fetched": "2026-10-03"
+ },
+ "f5405": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f5405.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. November 2024)",
+  "sha256": "5e70a79a8d93cfbf63128a7d7090d6b69d6721e5b574ea67ac747047935004ce",
+  "bytes": 73385,
+  "fetched": "2026-10-03"
+ },
+ "f5452": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f5452.pdf",
+  "how": "irs-pdf, continuous use (prints 2018)",
+  "revision_printed": "(Rev. October 2018)",
+  "sha256": "838e8731984d215ec20a05b12c56e8c9714b95a17536f58350d8c1a13282347e",
+  "bytes": 185530,
+  "fetched": "2026-10-03"
+ },
+ "f5471": {
+  "url": "https://www.irs.gov/pub/irs-prior/f5471--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "2dabaa1a9643abad7c127fe5fc8ca7f2fbf285e952922a249266b2f79c82f118",
+  "bytes": 295140,
+  "fetched": "2026-10-03"
+ },
+ "f5498": {
+  "url": "https://www.irs.gov/pub/irs-prior/f5498--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6c2a599515e81329652ea17c788716952f789f88b3fbc716232f1ef5f345b917",
+  "bytes": 509173,
+  "fetched": "2026-10-03"
+ },
+ "f5498qa": {
+  "url": "https://www.irs.gov/pub/irs-prior/f5498qa--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "13ef931f1ff862bb8469e3f2e50fa40eb49bd988b58b3417f8d68febb2a78379",
+  "bytes": 74864,
+  "fetched": "2026-10-03"
+ },
+ "f5498sa": {
+  "url": "https://www.irs.gov/pub/irs-prior/f5498sa--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "3506c7849bd7faa89e445ccc800cd34e8fdbd4b970bdb16e7b2fd0c927c38aef",
+  "bytes": 79992,
+  "fetched": "2026-10-03"
+ },
+ "f5500": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f5500.pdf",
+  "how": "irs-pdf, continuous use (prints 2005)",
+  "revision_printed": null,
+  "sha256": "f35aec19e5c601c370e73a2e49636caae821c4806d86b115b7527344e092d037",
+  "bytes": 43695,
+  "fetched": "2026-10-03"
+ },
+ "f5500ez": {
+  "url": "https://www.irs.gov/pub/irs-prior/f5500ez--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "89466e7be1d54ad485fc79d24f18c074a5a1dfe66892f19cb9c2411e3dc7729b",
+  "bytes": 124705,
+  "fetched": "2026-10-03"
+ },
+ "f5695": {
+  "url": "https://www.irs.gov/pub/irs-prior/f5695--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "e2ac6a5c4b39e9032d3716827992fc0de46289a951e8b1ffaa3d5a969278baf2",
+  "bytes": 174928,
+  "fetched": "2026-10-03"
+ },
+ "f5713": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f5713.pdf",
+  "how": "irs-pdf, continuous use (prints 2010)",
+  "revision_printed": "(Rev. December 2010)",
+  "sha256": "74adcb0bdfb7e721b0c44c90dec9c573f0f6022f887feb1687e6d0bf7d500a54",
+  "bytes": 173066,
+  "fetched": "2026-10-03"
+ },
+ "f5754": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f5754.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. November 2024)",
+  "sha256": "c7af27620d9ff5a63ab1f7a4c054ce66256c59546edd299a450f26a41c8b0828",
+  "bytes": 74697,
+  "fetched": "2026-10-03"
+ },
+ "f5884": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f5884.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. March 2021)",
+  "sha256": "2d4d730f198d116a52a2cb174db8f420b5c49cfb5593e77de61c3efc89624f23",
+  "bytes": 52478,
+  "fetched": "2026-10-03"
+ },
+ "f5884a": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f5884a.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. March 2021)",
+  "sha256": "f6593e87e213a25a090f6384ec6bcf04f24b2fa89cfc7d3b72177f2389bd0066",
+  "bytes": 52192,
+  "fetched": "2026-10-03"
+ },
+ "f5884b": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f5884b.pdf",
+  "how": "irs-pdf, continuous use (prints 2010)",
+  "revision_printed": "2010",
+  "sha256": "b92ec3a9d2e8db67d547ba4c9fa63a02d9af0e06662014361fe811a342cb87cb",
+  "bytes": 189661,
+  "fetched": "2026-10-03"
+ },
+ "f6198": {
+  "url": "https://www.irs.gov/pub/irs-prior/f6198--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. November 2025)",
+  "sha256": "8ae169186ad9f62910e73205ebaeb02a73bc74bb1a47954074ec14e4645a6389",
+  "bytes": 82547,
+  "fetched": "2026-10-03"
+ },
+ "f6251": {
+  "url": "https://www.irs.gov/pub/irs-prior/f6251--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6995bfd29c6fe1b80fdc396c9c4796c7cef58a966070db0346721eae815fea3f",
+  "bytes": 104434,
+  "fetched": "2026-10-03"
+ },
+ "f6252": {
+  "url": "https://www.irs.gov/pub/irs-prior/f6252--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "b2d42f3194dc715cc6c3e6ee3d168b5b8fb5cff6afd169940cf93d34a17e6a77",
+  "bytes": 124606,
+  "fetched": "2026-10-03"
+ },
+ "f637": {
+  "url": "https://www.irs.gov/pub/irs-prior/f637--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "a8fda1334801b3541a5ee6270f9355bfb47850f428776e6322626d4848156137",
+  "bytes": 149544,
+  "fetched": "2026-10-03"
+ },
+ "f6478": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f6478.pdf",
+  "how": "irs-pdf, continuous use (prints 2020)",
+  "revision_printed": "(Rev. January 2020)",
+  "sha256": "20d49f594d06bc68d9842ed3877337b562cb7ca86ed74533bf08b669bce5d1ba",
+  "bytes": 52248,
+  "fetched": "2026-10-03"
+ },
+ "f6765": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f6765.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "55cbe3ac2c2ab1987776c76a4835fbe85bd2e45940dcf5762fa69b1a933be0ee",
+  "bytes": 153023,
+  "fetched": "2026-10-03"
+ },
+ "f6781": {
+  "url": "https://www.irs.gov/pub/irs-prior/f6781--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "69212af20e69e628a1a7b3a59cf8855c38c4c5b8b6843e9292f5a7234d757a55",
+  "bytes": 126572,
+  "fetched": "2026-10-03"
+ },
+ "f7004": {
+  "url": "https://www.irs.gov/pub/irs-prior/f7004--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "9fc3dbf661741266974b29444c5649993d0105531b56fe34b5dc14c37a89f932",
+  "bytes": 76923,
+  "fetched": "2026-10-03"
+ },
+ "f706": {
+  "url": "https://www.irs.gov/pub/irs-prior/f706--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. August 2025)",
+  "sha256": "7cd9b5370e1eb29f89916a00fe4fd762b13f3244926a4d1d0818385e1415885d",
+  "bytes": 273746,
+  "fetched": "2026-10-03"
+ },
+ "f708": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f708.pdf",
+  "how": "irs-pdf, continuous use (prints 2025)",
+  "revision_printed": "2025",
+  "sha256": "8af14d3b5229a3595394da001193a556bb3774a361d4b166824e4a8d79fc5350",
+  "bytes": 418907,
+  "fetched": "2026-10-03"
+ },
+ "f709": {
+  "url": "https://www.irs.gov/pub/irs-prior/f709--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "e84d666fa09fccceaac3c5408e4b0fab8528efa8122fb528e8fbe43d2a6273dc",
+  "bytes": 770209,
+  "fetched": "2026-10-03"
+ },
+ "f7203": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f7203.pdf",
+  "how": "irs-pdf, continuous use (prints 2022)",
+  "revision_printed": "(Rev. December 2022)",
+  "sha256": "e138560a8c5d591f1619544cbf189658e6d4540e13e9b3726b6fcd653cb2ad1d",
+  "bytes": 125393,
+  "fetched": "2026-10-03"
+ },
+ "f7205": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f7205.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "(Rev. December 2023)",
+  "sha256": "fe61e0c1e5797859d00e03306f22d988c1de9086fed75ffa56b3dc7ca8b33ae1",
+  "bytes": 100667,
+  "fetched": "2026-10-03"
+ },
+ "f7206": {
+  "url": "https://www.irs.gov/pub/irs-prior/f7206--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "822203c9bbd958e651e243bbf6353c4c8e78abbde412e06caf6db5f88fe68ee1",
+  "bytes": 66343,
+  "fetched": "2026-10-03"
+ },
+ "f7210": {
+  "url": "https://www.irs.gov/pub/irs-prior/f7210--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "5aeb7cc88253adfc498cb2a894acf6e2579096d536fd4cfbb9936bfef8eb4546",
+  "bytes": 78340,
+  "fetched": "2026-10-03"
+ },
+ "f7211": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f7211.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "2024",
+  "sha256": "efb6f7b2a49147ddaed05c547d83dfe223a3be3acc2e214254e2a9c74dd50878",
+  "bytes": 91416,
+  "fetched": "2026-10-03"
+ },
+ "f7213": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f7213.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "a0fd1bcf3f8b5358c486f9df5c2b0a1aaaded7ce5587c4791be9584020aade13",
+  "bytes": 94707,
+  "fetched": "2026-10-03"
+ },
+ "f7217": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f7217.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "2024",
+  "sha256": "9b16ed91da1ea50b4ea1ba59363726bee7b7b4576d77307cd507c3bd19dba02d",
+  "bytes": 285594,
+  "fetched": "2026-10-03"
+ },
+ "f7218": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f7218.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "2024",
+  "sha256": "d88520f004d77e9c7b125de06b6d7329efedc35e9f74105152862f8cadc40451",
+  "bytes": 110716,
+  "fetched": "2026-10-03"
+ },
+ "f8082": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8082--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. October 2025)",
+  "sha256": "6fda645f2a65ce860c599610b320277a9524221db3958191198583c0a070bad8",
+  "bytes": 97708,
+  "fetched": "2026-10-03"
+ },
+ "f8282": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8282.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. October 2021)",
+  "sha256": "57f5a2124f72193eaf75d40f37d4d4304c3ded6cbaf3f4753d9632ba33f14b1c",
+  "bytes": 126177,
+  "fetched": "2026-10-03"
+ },
+ "f8283": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8283--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "389ab1b7c01b542724092f82a55dd43ab00792770b5254a87c4cd4082d8d4c69",
+  "bytes": 124569,
+  "fetched": "2026-10-03"
+ },
+ "f8288": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8288--2023.pdf",
+  "how": "irs-prior, continuous use (2023)",
+  "revision_printed": "(Rev. January 2023)",
+  "sha256": "e6f8e61fe90a584d0019cb5f7c9f8dd70fe9388cdf6dc53ececb5e5b5806a163",
+  "bytes": 89882,
+  "fetched": "2026-10-03"
+ },
+ "f8288a": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8288a.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "(Rev. January 2023)",
+  "sha256": "63e6703e522d6ff9986109df8dd1348e9341786bf52057243c1dc7dcfb26eace",
+  "bytes": 98949,
+  "fetched": "2026-10-03"
+ },
+ "f8300": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8300.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "(Rev. December 2023)",
+  "sha256": "b349d66c2c860bda88579989d136ee01e6b052c2b580e757c0720ba21490f34c",
+  "bytes": 121792,
+  "fetched": "2026-10-03"
+ },
+ "f8308": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8308.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. October 2024)",
+  "sha256": "03c9a5a98c5ac97cd39a90610bb4dcdeea1ddfb0bde5e14c60c87a0651131248",
+  "bytes": 73992,
+  "fetched": "2026-10-03"
+ },
+ "f8332": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8332--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "527e99ce5812bfcb61cde80dcac3858f7dde5cfcbd74f894f6deb1a7472089f7",
+  "bytes": 74144,
+  "fetched": "2026-10-03"
+ },
+ "f8379": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8379.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "(Rev. November 2023)",
+  "sha256": "a9a780781fbcf664a0140254d70d603b6f59e8619420a3bdffd015b8f71a9bd3",
+  "bytes": 96599,
+  "fetched": "2026-10-03"
+ },
+ "f8396": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8396--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "5c035af748405ec42ef6da99efc4315ca6e666d5ba0fcdd82fc05808803dee0d",
+  "bytes": 86825,
+  "fetched": "2026-10-03"
+ },
+ "f843": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f843.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "03ca49bde54cbde77b927968f632f459eb83506de5dde29e874fb59d4dd95bfc",
+  "bytes": 112273,
+  "fetched": "2026-10-03"
+ },
+ "f8453": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8453--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "cc92755b41af6e909c61c58cce903f93b984c67605ffcf87cb8b45b75ebae04e",
+  "bytes": 84101,
+  "fetched": "2026-10-03"
+ },
+ "f8453fe": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8453fe--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "70def049a5154d6455b796d59ac893164b754bbafb700da9bd54142c6023f2f6",
+  "bytes": 83819,
+  "fetched": "2026-10-03"
+ },
+ "f851": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f851.pdf",
+  "how": "irs-pdf, continuous use (prints 2016)",
+  "revision_printed": "(Rev. October 2016)",
+  "sha256": "db6ce2df9a938b3c4917323d771639f3ecb0867b96e59284764aae5bf83686bd",
+  "bytes": 142362,
+  "fetched": "2026-10-03"
+ },
+ "f8582": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8582--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "d929884fe07b58aca9561aefbfe9fe2196d9e8526b4726e49460589501080537",
+  "bytes": 126437,
+  "fetched": "2026-10-03"
+ },
+ "f8582cr": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8582cr.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "1aee00af8e65a87974fec5f5c7b4e35be22cdb522fcc993014791196a82bccc1",
+  "bytes": 87914,
+  "fetched": "2026-10-03"
+ },
+ "f8586": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8586.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "(Rev. December 2023)",
+  "sha256": "adbaa48bc81935d7eaf2f42089319ff4daf312e94e7ce5a9e1b8aebd9144a53c",
+  "bytes": 67149,
+  "fetched": "2026-10-03"
+ },
+ "f8594": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8594.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. November 2021)",
+  "sha256": "5e0878b8a9d362c0e75ca6924b3ed55713bed837a6e6ad9fa7aa4099dcc4e2e9",
+  "bytes": 75221,
+  "fetched": "2026-10-03"
+ },
+ "f8606": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8606--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "748a2bf2ef45918eac8d48fab8b1958c8c0c24102b7d2103c78f6f92a69486ae",
+  "bytes": 96165,
+  "fetched": "2026-10-03"
+ },
+ "f8609": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8609.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. December 2021)",
+  "sha256": "939eac6c722bdb4e8c033e3aea212c5c40a30e02c397d068c38011e3e2a4532a",
+  "bytes": 87464,
+  "fetched": "2026-10-03"
+ },
+ "f8609a": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8609a.pdf",
+  "how": "irs-pdf, continuous use (prints 2008)",
+  "revision_printed": "(Rev. December 2008)",
+  "sha256": "5ac59fabf72171458d46c99de6848efddbc23354e061b30714eaffc673d2823a",
+  "bytes": 212861,
+  "fetched": "2026-10-03"
+ },
+ "f8611": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8611.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. December 2021)",
+  "sha256": "9ada6b3420ec591ce5b277e006dc07fcf296f78bfa422353061b8f6a6443a88e",
+  "bytes": 88273,
+  "fetched": "2026-10-03"
+ },
+ "f8612": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8612--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "31b386d629c0d3a9e3287c7fbf0eb431ac0d95d3d4a754b083143e282989ecc3",
+  "bytes": 72159,
+  "fetched": "2026-10-03"
+ },
+ "f8613": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8613--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "5a7013716c7b3aaf5aad944d7c5ce3cdcf380dc3478ffdb6f86083166b45d7c9",
+  "bytes": 76282,
+  "fetched": "2026-10-03"
+ },
+ "f8615": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8615--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "f1a9ce61a62faa917fd9a565805de69bf132313a6070010dfd77cfb2ca3bcb57",
+  "bytes": 79087,
+  "fetched": "2026-10-03"
+ },
+ "f8621": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8621--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "9c063d71a970eff604d9c3f05449422f86fbe29d99407282a87d94fc6c10a2d0",
+  "bytes": 160310,
+  "fetched": "2026-10-03"
+ },
+ "f8689": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8689--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "efd82acbe9f38e4c97e389d68b869ad818ebbf422cb420898a290a9f09fe01cf",
+  "bytes": 104963,
+  "fetched": "2026-10-03"
+ },
+ "f8697": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8697--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "d3d297657f955599a2706258848a7800c09f7f8353ecf16e3abd81193cb212c3",
+  "bytes": 118613,
+  "fetched": "2026-10-03"
+ },
+ "f8725": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8725--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "3e6f8e7c248a2c728bf2932f6ae6533caa022f148e21f1506eb5d7d6b4600f65",
+  "bytes": 76871,
+  "fetched": "2026-10-03"
+ },
+ "f8801": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8801--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "b82dff67ecf37406bab02f177c706295bd6084853a9ba8be5c87a35c74668a78",
+  "bytes": 104996,
+  "fetched": "2026-10-03"
+ },
+ "f8805": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8805.pdf",
+  "how": "irs-pdf, continuous use (prints 2019)",
+  "revision_printed": "(Rev. November 2019)",
+  "sha256": "14585483a539fc48dc021b086ef152cd769c6d5220f194a9c5af9c2278ccb318",
+  "bytes": 96237,
+  "fetched": "2026-10-03"
+ },
+ "f8810": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8810--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "54c7216971125a9108298f5ac6d6cc5ee438593471c33a3e01ac25a5d1bc0c98",
+  "bytes": 64088,
+  "fetched": "2026-10-03"
+ },
+ "f8814": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8814--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "d88849a33a390cee07375ec41d9e6936607a45e387e5e56b5017e9e6c5a0ba9f",
+  "bytes": 76850,
+  "fetched": "2026-10-03"
+ },
+ "f8815": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8815--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "940b6af53a031f8456911774cd562c603420bae9030d73d226bbf56e40105844",
+  "bytes": 101021,
+  "fetched": "2026-10-03"
+ },
+ "f8818": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8818.pdf",
+  "how": "irs-pdf, continuous use (prints 2007)",
+  "revision_printed": "(Rev. December 2007)",
+  "sha256": "561d87c790bea81db3572365292bfc16f4d00c8f894b8122e2019c466b48c7fb",
+  "bytes": 245020,
+  "fetched": "2026-10-03"
+ },
+ "f8820": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8820.pdf",
+  "how": "irs-pdf, continuous use (prints 2018)",
+  "revision_printed": "(Rev. September 2018)",
+  "sha256": "8b8cd178590008b881ab43f47cbabcf3ead834966eafd9eab506d1daa71251df",
+  "bytes": 89910,
+  "fetched": "2026-10-03"
+ },
+ "f8822": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8822.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. February 2021)",
+  "sha256": "200ec0db82a1f8ea0c37f5ffdad562926dfe26c1d537ff701755989ce4197be6",
+  "bytes": 80702,
+  "fetched": "2026-10-03"
+ },
+ "f8822b": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8822b.pdf",
+  "how": "irs-pdf, continuous use (prints 2019)",
+  "revision_printed": "(Rev. December 2019)",
+  "sha256": "fd3d92787b8344f5895236723ddf6e43a215108493b7c6b45ea4edb4aaced021",
+  "bytes": 79247,
+  "fetched": "2026-10-03"
+ },
+ "f8824": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8824--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "0d61359bff5b313752fd3965ec9d7c5dd786a61a2914fe974f830fc8bd46741d",
+  "bytes": 102395,
+  "fetched": "2026-10-03"
+ },
+ "f8825": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8825--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "cfe6a4afa0d52bd6ba695299c4f63992443ac2117e68d7409bab171f934f5be8",
+  "bytes": 132444,
+  "fetched": "2026-10-03"
+ },
+ "f8826": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8826.pdf",
+  "how": "irs-pdf, continuous use (prints 2017)",
+  "revision_printed": "(Rev. September 2017)",
+  "sha256": "480502e4167833f1758f2a0fa200c4b0b113b8cb7d7d70ae808f1812d5d16ece",
+  "bytes": 126045,
+  "fetched": "2026-10-03"
+ },
+ "f8827": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8827--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "377d8bd04f9745fb64b780a69b9b7ebb71d51f0afd35f4c5e1f30acb50e4c1e5",
+  "bytes": 62915,
+  "fetched": "2026-10-03"
+ },
+ "f8828": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8828.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. November 2024)",
+  "sha256": "ae164666fca9d267ce2f490e1f91cb2f3a40b5ec054ee0bf315f5c1fa81bf461",
+  "bytes": 68232,
+  "fetched": "2026-10-03"
+ },
+ "f8829": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8829--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "994834c9eeacdb371f5d75e8ed272bda6e9fd601898af57670b6b2c47665890b",
+  "bytes": 82821,
+  "fetched": "2026-10-03"
+ },
+ "f8830": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8830.pdf",
+  "how": "irs-pdf, continuous use (prints 2022)",
+  "revision_printed": "(Rev. March 2022)",
+  "sha256": "d6d9b374898c73d8d56df6cb4f282f166e434570dedac1dafddbcc194ef1d81f",
+  "bytes": 69438,
+  "fetched": "2026-10-03"
+ },
+ "f8831": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8831.pdf",
+  "how": "irs-pdf, continuous use (prints 2018)",
+  "revision_printed": "(Rev. April 2018)",
+  "sha256": "304416e21dfc41a69f6cc4de0d2c49bda37fb0f10ad6072beac54ac2a746f8dc",
+  "bytes": 205993,
+  "fetched": "2026-10-03"
+ },
+ "f8832": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8832.pdf",
+  "how": "irs-pdf, continuous use (prints 2013)",
+  "revision_printed": "(Rev. December 2013)",
+  "sha256": "bc7f2715e631b5bc3fc60eedaace27f68bd71cfc9236589f1e08f600dc37507f",
+  "bytes": 544716,
+  "fetched": "2026-10-03"
+ },
+ "f8834": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8834.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. October 2024)",
+  "sha256": "6a48b2d674eaf6d41eb7c0d0fb1195ce996702b1ce32cacb44ee19f655ef81f9",
+  "bytes": 69296,
+  "fetched": "2026-10-03"
+ },
+ "f8835": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8835--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "e0e3aa20718d90e9430c4da326c4155501aab16d7955f86e4fc609c2f3bd263a",
+  "bytes": 123961,
+  "fetched": "2026-10-03"
+ },
+ "f8839": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8839--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "3d3102f9b3dc3e4e87676ef1cdc8b6d39e93a79d1df68729df7c9591ecb53d12",
+  "bytes": 125260,
+  "fetched": "2026-10-03"
+ },
+ "f8844": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8844.pdf",
+  "how": "irs-pdf, continuous use (prints 2020)",
+  "revision_printed": "(Rev. March 2020)",
+  "sha256": "f0752ca5976c40cd55306696d1faffc27cb5211154388ca8f38db5f1b10ddc91",
+  "bytes": 47855,
+  "fetched": "2026-10-03"
+ },
+ "f8845": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8845--2022.pdf",
+  "how": "irs-prior, continuous use (2022)",
+  "revision_printed": "(Rev. January 2022)",
+  "sha256": "a0330d4df78f9c9791501ef8bec220cf13a2e7bdbd12ebe7c4baae50e6c03c25",
+  "bytes": 50513,
+  "fetched": "2026-10-03"
+ },
+ "f8846": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8846--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "f057878ec6448da6ae3c673605b057048c23f96b393e47153a2420d5ef7af406",
+  "bytes": 72971,
+  "fetched": "2026-10-03"
+ },
+ "f8853": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8853--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "5582f8137b70251d6292426ee89b78862412cf48d76577b8407e5f5f8775e5e9",
+  "bytes": 92009,
+  "fetched": "2026-10-03"
+ },
+ "f8854": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8854--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "49f4baf35fb3217a8d295414afcf19ff1d60d8f25c0837eccf5c96456be4dfe2",
+  "bytes": 167818,
+  "fetched": "2026-10-03"
+ },
+ "f8857": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8857.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. June 2021)",
+  "sha256": "4d6d8024e76ac43758a50953bf3d7585afca828fef159432aaf8b0112dea4aa6",
+  "bytes": 162249,
+  "fetched": "2026-10-03"
+ },
+ "f8858": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8858.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "a15554afc0f5e7ec13976e35b19b91357689c86b5e35210683c95ac64b9217c9",
+  "bytes": 188238,
+  "fetched": "2026-10-03"
+ },
+ "f8859": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8859--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "7d97367bf8948c9c6d02042c216f3298b42e39ce8b735d017bc46b5ec32fa04f",
+  "bytes": 65232,
+  "fetched": "2026-10-03"
+ },
+ "f8862": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8862--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "fd783d1f46f1f286cd1d7a2cca8812fc2ec05760478359873e22ba9d05d5f3b5",
+  "bytes": 153254,
+  "fetched": "2026-10-03"
+ },
+ "f8863": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8863--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "a251a1cfbd613d5dd81646b276b1cc3562d7efb8bed969491eada7c8eb0d8e00",
+  "bytes": 111888,
+  "fetched": "2026-10-03"
+ },
+ "f8864": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8864--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "1196e40fe4a450c30a0a30b12699f6d976a48bf94e14f233f7ac3c0a45890966",
+  "bytes": 67023,
+  "fetched": "2026-10-03"
+ },
+ "f8865": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8865--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "5fabe647cb4e1392e759af19ece160f67d0bae4223ee3a5077171d5d90128adc",
+  "bytes": 289228,
+  "fetched": "2026-10-03"
+ },
+ "f8873": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8873.pdf",
+  "how": "irs-pdf, continuous use (prints 2010)",
+  "revision_printed": "(Rev. December 2010)",
+  "sha256": "afef0f010bcac6b44bcc971b9c274ed48ca021e51a4eab708c08e68dd5ba3800",
+  "bytes": 108149,
+  "fetched": "2026-10-03"
+ },
+ "f8874": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8874.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. November 2021)",
+  "sha256": "81d414921d4f72a447e0cb9e620f7cb09cb9be2935a33b29d096ebfb31629426",
+  "bytes": 81289,
+  "fetched": "2026-10-03"
+ },
+ "f8874a": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8874a.pdf",
+  "how": "irs-pdf, continuous use (prints 2011)",
+  "revision_printed": "(Rev. December 2011)",
+  "sha256": "05de8a3b1f4f2ecd3fb0a9f642f28dd35ba767b3230bf51d6ee542ceebd37164",
+  "bytes": 54190,
+  "fetched": "2026-10-03"
+ },
+ "f8874b": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8874b.pdf",
+  "how": "irs-pdf, continuous use (prints 2011)",
+  "revision_printed": "(Rev. December 2011)",
+  "sha256": "2df94a6c75592ebdbffa7ebf09b7deed4c5a170159c63addfa29f077334a277b",
+  "bytes": 56701,
+  "fetched": "2026-10-03"
+ },
+ "f8876": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8876--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "c4d6da4e30d150d4f22cb32fb699ac7e3f90ec581c384762fbf7458a96c399d9",
+  "bytes": 69549,
+  "fetched": "2026-10-03"
+ },
+ "f8880": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8880--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "ba2b28770bc82d318ab0b884e56a572771030ce1a3ec80d85bafd2eea3a2778e",
+  "bytes": 91662,
+  "fetched": "2026-10-03"
+ },
+ "f8881": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8881--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "366548b2d22b4a0be3931802c331a72caab8dfdb49909fedec5c2ff634abb5e7",
+  "bytes": 71517,
+  "fetched": "2026-10-03"
+ },
+ "f8882": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8882.pdf",
+  "how": "irs-pdf, continuous use (prints 2017)",
+  "revision_printed": "(Rev. December 2017)",
+  "sha256": "22f32092f51ecde350ca6650d75de0334a40b1633552a7f1bf9c4faf90617f8b",
+  "bytes": 71442,
+  "fetched": "2026-10-03"
+ },
+ "f8885": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8885.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "2021",
+  "sha256": "a7a5e7815000810e9b6e85d0c3f1b945ba85e908db1e0e235b18198b405fce1e",
+  "bytes": 77240,
+  "fetched": "2026-10-03"
+ },
+ "f8886": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8886.pdf",
+  "how": "irs-pdf, continuous use (prints 2019)",
+  "revision_printed": "(Rev. December 2019)",
+  "sha256": "adeb7087e9726763bde7846d02774a271c7855e5a4aaa24b78ed7efce800629b",
+  "bytes": 106654,
+  "fetched": "2026-10-03"
+ },
+ "f8888": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8888--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "3ec67f517a0e540815536d520c541a1a0d9d79e6428423033b618b1ab41d8cad",
+  "bytes": 112557,
+  "fetched": "2026-10-03"
+ },
+ "f8889": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8889--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "15ed4587f75bec57b0b343dfd001b4016f09698af970afee633ca1a364d5f49f",
+  "bytes": 74277,
+  "fetched": "2026-10-03"
+ },
+ "f8896": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8896.pdf",
+  "how": "irs-pdf, continuous use (prints 2019)",
+  "revision_printed": "(Rev. December 2019)",
+  "sha256": "2e23478f88feb5030ced4e0a1d269df1e535a9dd2b2265816bbb2c58c0c2969e",
+  "bytes": 72299,
+  "fetched": "2026-10-03"
+ },
+ "f8898": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8898.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. October 2024)",
+  "sha256": "b50be3a37950a3e75890c61d16f45b2359562c30718001a3c741b48fa07f7eb1",
+  "bytes": 125496,
+  "fetched": "2026-10-03"
+ },
+ "f8900": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8900.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "(Rev. December 2023)",
+  "sha256": "195cbebaf222391890175379aa8fc58e232bc5bccabf637477e86ff23a26256c",
+  "bytes": 41943,
+  "fetched": "2026-10-03"
+ },
+ "f8904": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8904.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. October 2024)",
+  "sha256": "920eaf5f1c4c54c9e2c72cda5c1c0857dfd70d15f8358520f0c17c7661b6a0cb",
+  "bytes": 55472,
+  "fetched": "2026-10-03"
+ },
+ "f8906": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8906--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "77cca13efb8260fdf9347261a3975f09859a7671398f1e719f036fb7d68a9893",
+  "bytes": 65048,
+  "fetched": "2026-10-03"
+ },
+ "f8907": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8907.pdf",
+  "how": "irs-pdf, continuous use (prints 2008)",
+  "revision_printed": "2014",
+  "sha256": "610cc4ce129c4fdb9e98ef3bb32d69b46fc4e7547788a1989178280d07186ae2",
+  "bytes": 66202,
+  "fetched": "2026-10-03"
+ },
+ "f8908": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8908--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "5b94f5ad83d3aca3fa608c2aac4f420f26dbce137aececd30190febb3ce856b3",
+  "bytes": 141324,
+  "fetched": "2026-10-03"
+ },
+ "f8909": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8909.pdf",
+  "how": "irs-pdf, revision after the tax year or unprinted \u2014 CHECK",
+  "revision_printed": "2014",
+  "sha256": "8054aa4d71696d180f2fd4681f0c2136cfae655aa793ee7d7ba0d8fa95899727",
+  "bytes": 77340,
+  "fetched": "2026-10-03"
+ },
+ "f8910": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8910--2022.pdf",
+  "how": "irs-prior, continuous use (2022)",
+  "revision_printed": "(Rev. January 2022)",
+  "sha256": "1baedb70bd87bf4929a98e2f6a7199908b099ce8f4a1df96bae999a6d051ba01",
+  "bytes": 64868,
+  "fetched": "2026-10-03"
+ },
+ "f8911": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8911--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "0960be0efb864a6bbaf62565908cbf4bfa4af00f3574eb592a76af39c5c1aeda",
+  "bytes": 62710,
+  "fetched": "2026-10-03"
+ },
+ "f8912": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8912.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "0c083a7452a2d973a2a9d7fcecacbb1c0db1157bfcc30968b0b1b97c3430d912",
+  "bytes": 112854,
+  "fetched": "2026-10-03"
+ },
+ "f8915c": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8915c--2023.pdf",
+  "how": "irs-prior, continuous use (2023)",
+  "revision_printed": "2018",
+  "sha256": "00088902855819018205104fab57d6d3eb76c144eb43504cf257a46ff6353461",
+  "bytes": 72834,
+  "fetched": "2026-10-03"
+ },
+ "f8915d": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8915d.pdf",
+  "how": "irs-pdf, continuous use (prints 2019)",
+  "revision_printed": "2019",
+  "sha256": "89681a2b779f03b8c2f7c6dbecd444ff0cc17ed5850a467e4ebf047f8e79e72d",
+  "bytes": 74130,
+  "fetched": "2026-10-03"
+ },
+ "f8915e": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8915e--2020.pdf",
+  "how": "irs-prior, continuous use (2020)",
+  "revision_printed": "2020",
+  "sha256": "00f0e31f96dde006bbdc534070ff34df481c9681d1bdc5d67f4792b3cd152c38",
+  "bytes": 111198,
+  "fetched": "2026-10-03"
+ },
+ "f8915f": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8915f--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "8923937e0ad78ad9b0b3d7cd213282e567cc11d4ae177abe480effc4907692c7",
+  "bytes": 184645,
+  "fetched": "2026-10-03"
+ },
+ "f8918": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8918.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. November 2021)",
+  "sha256": "ebb597ac69b1967394e0717627aed6f0b991327d39d348ca86f1a04d13ce9070",
+  "bytes": 2656447,
+  "fetched": "2026-10-03"
+ },
+ "f8919": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8919--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "84102b12172602529533516ffe3b557794fb1b7453e97f9427a4d3e557f4003e",
+  "bytes": 93185,
+  "fetched": "2026-10-03"
+ },
+ "f8923": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8923--2020.pdf",
+  "how": "irs-prior, continuous use (2020)",
+  "revision_printed": "(Rev. November 2020)",
+  "sha256": "eaebbb457b2bab32c5399bb1243ee78c9064d55984de7e52eb0e1ca958b3141b",
+  "bytes": 57849,
+  "fetched": "2026-10-03"
+ },
+ "f8924": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8924--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "c4d4da287b2792ebf9250552dce1af369d17fbf014aab4e3af2d7393d7ed01b5",
+  "bytes": 73476,
+  "fetched": "2026-10-03"
+ },
+ "f8928": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8928--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "4e5e10cf7f4302284f9d8ad7b3d8bf2a4da841102366145535511348a1cc5edf",
+  "bytes": 166864,
+  "fetched": "2026-10-03"
+ },
+ "f8932": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8932.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. December 2021)",
+  "sha256": "3881bdb69cea5ad00f9655b15c40481086ed7dbdb83a5948e76c663d6a1244f9",
+  "bytes": 73755,
+  "fetched": "2026-10-03"
+ },
+ "f8933": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8933--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "385dbc4289027714e8d09440bd418950f05d37f20da8c6f85ee4f03ce0474b12",
+  "bytes": 184281,
+  "fetched": "2026-10-03"
+ },
+ "f8936": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8936--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "de9c6988fbe34811716a7c0ad10c918bf35d4a4869758e93cfa59cacfd354710",
+  "bytes": 75930,
+  "fetched": "2026-10-03"
+ },
+ "f8936sa": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8936sa--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "8db7ab70c8ae5e79f08c188039efd12844b02dc4f9c0b1a586d8f9c2307b5115",
+  "bytes": 123692,
+  "fetched": "2026-10-03"
+ },
+ "f8938": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8938.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. November 2021)",
+  "sha256": "841fe09a3999c44080ef33f0e476aed45acc8c9e60f034ffdb7f27cf969601ef",
+  "bytes": 136008,
+  "fetched": "2026-10-03"
+ },
+ "f8941": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8941--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "3835e40ade9cd0916281c891610f9ce8bd3999bc24d6f3f47876af27c9210de3",
+  "bytes": 75267,
+  "fetched": "2026-10-03"
+ },
+ "f8949": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8949--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "274513891e4e281d11e14286f14b9df724c24b6030fca0f0681da64fb2e7f525",
+  "bytes": 128770,
+  "fetched": "2026-10-03"
+ },
+ "f8958": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8958.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "(Rev. November 2023)",
+  "sha256": "832d72587bc2175e9015c8f29c7773211bab9cff39319f9c4e7727e32bac5775",
+  "bytes": 112307,
+  "fetched": "2026-10-03"
+ },
+ "f8959": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8959--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "13e64004948331d2b708c80b1b664bf69675028edd0b84f2de6e3ca9afaa996d",
+  "bytes": 71969,
+  "fetched": "2026-10-03"
+ },
+ "f8960": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8960--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "9b323b7166b5845a776f781b8c82eef94ccd998354e88fc33a1051c3b3789731",
+  "bytes": 76922,
+  "fetched": "2026-10-03"
+ },
+ "f8962": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8962--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "dc7d2c6b566cac66badae721e2ce47ac47bb4e8b71aafb01721ff7368d803099",
+  "bytes": 117715,
+  "fetched": "2026-10-03"
+ },
+ "f8971": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8971--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. August 2025)",
+  "sha256": "4b35ac21f35033b1cff939c88ce85481649e595b8ffdcb5eadc9c1089b29e2dd",
+  "bytes": 107723,
+  "fetched": "2026-10-03"
+ },
+ "f8971sa": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8971sa--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "0ebd17a005f833718f35104aa430a30244f372170b17c61a54361984b3758d52",
+  "bytes": 149028,
+  "fetched": "2026-10-03"
+ },
+ "f8974": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8974.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "016aa42daa7fda4b199b6ae2e3ef878cebb27e087960340c989899d888b7c160",
+  "bytes": 95542,
+  "fetched": "2026-10-03"
+ },
+ "f8978": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8978.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "(Rev. January 2023)",
+  "sha256": "b954fffd7b16777cfde5917cd08aaa2b3ca3f8a1bd846cb062296e31e463f48d",
+  "bytes": 85303,
+  "fetched": "2026-10-03"
+ },
+ "f8986": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8986--2024.pdf",
+  "how": "irs-prior, continuous use (2024)",
+  "revision_printed": null,
+  "sha256": "23fb978a37e30e76fb43c63bb1884be9300a64aebf85426a6d2afd5051979a73",
+  "bytes": 104987,
+  "fetched": "2026-10-03"
+ },
+ "f8990": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8990--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "60eb4a9747a67b859d3b286b21dc678e5a53ef481db38abca7de65f1cef7eaf5",
+  "bytes": 120818,
+  "fetched": "2026-10-03"
+ },
+ "f8992": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8992.pdf",
+  "how": "irs-pdf, continuous use (prints 2022)",
+  "revision_printed": "(Rev. December 2022)",
+  "sha256": "0cb4c9f213d205e1e4f4f7abaf4f33945a7d941bffa509f349c9a92c597df05e",
+  "bytes": 65963,
+  "fetched": "2026-10-03"
+ },
+ "f8994": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8994.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. January 2021)",
+  "sha256": "d3ec89566eedfc70f5634fe338bdaa7d5ae08a784bdf98aade3e61fadd28a501",
+  "bytes": 59371,
+  "fetched": "2026-10-03"
+ },
+ "f8995": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8995--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "55380ad230303e1586ce97f0f224265b8337ad18c9204f0fb7325e95a76b5cde",
+  "bytes": 72273,
+  "fetched": "2026-10-03"
+ },
+ "f8995a": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8995a--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "3362db81b8ef60cfaa93354858c6c92bac16e63984be0805c6479d272a6ec9aa",
+  "bytes": 117129,
+  "fetched": "2026-10-03"
+ },
+ "f8996": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f8996.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. December 2021)",
+  "sha256": "281599368b2fbabde08eafcdc225426a0893b1da075fa2a9e9d74ed47edd68c0",
+  "bytes": 169142,
+  "fetched": "2026-10-03"
+ },
+ "f8997": {
+  "url": "https://www.irs.gov/pub/irs-prior/f8997--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "97589000d39b67737c516763bc4b89a167a3c18b47163517e98490144f4f5a4b",
+  "bytes": 131078,
+  "fetched": "2026-10-03"
+ },
+ "f9000": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f9000.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "2021",
+  "sha256": "3cca14cd58efdd97f4e6f627f45e0f5f39660b02d8e968f6f6008b19872c4afd",
+  "bytes": 84532,
+  "fetched": "2026-10-03"
+ },
+ "f940": {
+  "url": "https://www.irs.gov/pub/irs-prior/f940--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "575bb0d645ff613574c9b58506c6e0f7cbdc757c85ebc3e766ffc59fd5709d7c",
+  "bytes": 833678,
+  "fetched": "2026-10-03"
+ },
+ "f941": {
+  "url": "https://www.irs.gov/pub/irs-prior/f941--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. March 2025)",
+  "sha256": "efe78a2db0487f66ab233aae0d63b1179c36d15505bc1ed053682320a2a76b62",
+  "bytes": 831930,
+  "fetched": "2026-10-03"
+ },
+ "f943": {
+  "url": "https://www.irs.gov/pub/irs-prior/f943--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "35c151cd011611fc9688b9c58a527b625eef9c2b88ffd7be2287b4574c9e7c8e",
+  "bytes": 125083,
+  "fetched": "2026-10-03"
+ },
+ "f944": {
+  "url": "https://www.irs.gov/pub/irs-prior/f944--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "e3d98c8bde30105bf8d76e4968f4da441eca3d1f74164dd80de37091da7dfe3e",
+  "bytes": 126012,
+  "fetched": "2026-10-03"
+ },
+ "f9465": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f9465.pdf",
+  "how": "irs-pdf, continuous use (prints 2020)",
+  "revision_printed": "(Rev. September 2020)",
+  "sha256": "ee30ea90c10ccdcfbd43dc05454a10d111db0bf10e9e17bac4e6100ce25d6225",
+  "bytes": 115848,
+  "fetched": "2026-10-03"
+ },
+ "f965a": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f965a.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. January 2021)",
+  "sha256": "ec389e548af6627533adba1293017a5cc101e41b1ae237de608eae7efa09a446",
+  "bytes": 201733,
+  "fetched": "2026-10-03"
+ },
+ "f970": {
+  "url": "https://www.irs.gov/pub/irs-pdf/f970.pdf",
+  "how": "irs-pdf, continuous use (prints 2020)",
+  "revision_printed": "(Rev. November 2020)",
+  "sha256": "2f7ee5b391cc3bf89026fd6a3ff65228f8d285b592faa517a4b43ac3d7d12e12",
+  "bytes": 134272,
+  "fetched": "2026-10-03"
+ },
+ "f990t": {
+  "url": "https://www.irs.gov/pub/irs-prior/f990t--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "bc9b5dc14df57cbf1334a8cc7037c623cec19f255f4dd3e24c8430394233d20e",
+  "bytes": 145815,
+  "fetched": "2026-10-03"
+ },
+ "fw2": {
+  "url": "https://www.irs.gov/pub/irs-prior/fw2--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6a52ad63693de54220a3326b22c4d0fb34f4c25084366537087312975a55ae96",
+  "bytes": 1343180,
+  "fetched": "2026-10-03"
+ },
+ "fw2c": {
+  "url": "https://www.irs.gov/pub/irs-prior/fw2c--2023.pdf",
+  "how": "irs-prior, continuous use (2023)",
+  "revision_printed": null,
+  "sha256": "f8c5b3c10f89cb4b1cdd4ed46e926f0b2637871d802ff2192be79db1f770bfc7",
+  "bytes": 1442854,
+  "fetched": "2026-10-03"
+ },
+ "fw2g": {
+  "url": "https://www.irs.gov/pub/irs-prior/fw2g--2023.pdf",
+  "how": "irs-prior, continuous use (2023)",
+  "revision_printed": "(Rev. December 2023)",
+  "sha256": "cedc526e562067040f38907e0b76ffeb4e16699ff32f1541239cdd1e036137e9",
+  "bytes": 144972,
+  "fetched": "2026-10-03"
+ },
+ "i1040gi": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "482e9c487c608f1bbeaceef35bc3c0933e8b35443cfff447e4279d590468364a",
+  "bytes": 4434643,
+  "fetched": "2026-10-03"
+ },
+ "i1040nr": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040nr--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "f2602b839b17de4541b8c353668121757cac13ff9d7a78f34c7ee14edfe19fee",
+  "bytes": 710735,
+  "fetched": "2026-10-03"
+ },
+ "i1040s8": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040s8--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "bb9788cdf068f9d3a666b2fc351b6bd963e1e848f295d0d01df63848628e1794",
+  "bytes": 232376,
+  "fetched": "2026-10-03"
+ },
+ "i1040sb": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040sb--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "b92f31ece57a82ea576ac96507fe5df637dbda7489a80eb28aaab88e7c87b287",
+  "bytes": 153064,
+  "fetched": "2026-10-03"
+ },
+ "i1040sc": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "b5536db91498a450572e37078d7d5ee8fdc400e385d4fee3a26c230a33e399b6",
+  "bytes": 357575,
+  "fetched": "2026-10-03"
+ },
+ "i1040sca": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "b0999b12d9dc4b13868501a9c1879011c00d2fc035f13a1391251d355a6242c8",
+  "bytes": 594250,
+  "fetched": "2026-10-03"
+ },
+ "i1040sd": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040sd--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "650643a686378b7573e4f4476ee4e7c9f9bab1384314dca32dc336f7b2276002",
+  "bytes": 298718,
+  "fetched": "2026-10-03"
+ },
+ "i1040se": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040se--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "ad71de356a6250383ab08097582e982c3c3964792be2d4f5e4bd851816867975",
+  "bytes": 235480,
+  "fetched": "2026-10-03"
+ },
+ "i1040sf": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040sf--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "857bfefc9895a944b2f0094f229a59ab49e8a7395b9fad18ce85387a2e65ece2",
+  "bytes": 233236,
+  "fetched": "2026-10-03"
+ },
+ "i1040sj": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040sj--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "c5152385331a2ed517245a89a1ba597f0493b240dfe57edec1416e16baa3f870",
+  "bytes": 307306,
+  "fetched": "2026-10-03"
+ },
+ "i1040ss": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040ss--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "dd18702d57c62ee350daa7b4106298afaf0401f30ecacbd72c023142bb2a8835",
+  "bytes": 364715,
+  "fetched": "2026-10-03"
+ },
+ "i1040sse": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040sse--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "ea9e3120706f9d5e21ce1c6cbec256b5e2e2bf02c44759773d9236462cf4d800",
+  "bytes": 176326,
+  "fetched": "2026-10-03"
+ },
+ "i1040x": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1040x--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "eed8685fbdbfe362d2a25f3b1992aea1cef0aa12141c1caf1c0e47997e3474a6",
+  "bytes": 276775,
+  "fetched": "2026-10-03"
+ },
+ "i1041": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1041--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "46b0412208e267bc26c3fd1542983a9a376c2685279286f5e285773b3196ffbb",
+  "bytes": 661748,
+  "fetched": "2026-10-03"
+ },
+ "i1041sd": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1041sd--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "edd9b0d88fac965c62da8e9ba5fb8f7ee18a90a3b57f03bac3cc6ea0fdec97c8",
+  "bytes": 269429,
+  "fetched": "2026-10-03"
+ },
+ "i1041sk1": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1041sk1--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "516ed87ce8108a138c8b978512e50bf8af500ba0ea1ea1aa6462991ddca9f6f4",
+  "bytes": 164032,
+  "fetched": "2026-10-03"
+ },
+ "i1042s": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1042s--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "ea05b0106277558db5bf62ac05d0b462980cf130c7c1d961eece132dd0eca264",
+  "bytes": 555362,
+  "fetched": "2026-10-03"
+ },
+ "i1062": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1062--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6af0c304658afe27dc9b7ed154f2678ef6154880451e66301d1eb3bc86e67143",
+  "bytes": 139697,
+  "fetched": "2026-10-03"
+ },
+ "i1065": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1065--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "f4a35a24c7abac486908d3610754397a66b2130f0eb425dda897d78a9d91b786",
+  "bytes": 820966,
+  "fetched": "2026-10-03"
+ },
+ "i1065sk1": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "659063e0aaa36e445cc58409c164c3376054eeb05f9184ef142392942bf2cfbb",
+  "bytes": 445028,
+  "fetched": "2026-10-03"
+ },
+ "i1065sk3": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1065sk3--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6d3d927187b530d8cd67245e0bdd993c5dd4ac84ad85f823544c0a0901340ee9",
+  "bytes": 290652,
+  "fetched": "2026-10-03"
+ },
+ "i1066": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1066--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "2f061667babe8ede80857730e5e1199a788893dffd674e207df49cb999f30ac4",
+  "bytes": 221375,
+  "fetched": "2026-10-03"
+ },
+ "i109495b": {
+  "url": "https://www.irs.gov/pub/irs-prior/i109495b--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "412397e25d9e209f795220f38e4b24ddb3fde1d91e1c1000445584cafe9b8e8d",
+  "bytes": 188889,
+  "fetched": "2026-10-03"
+ },
+ "i109495c": {
+  "url": "https://www.irs.gov/pub/irs-prior/i109495c--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "100f2fd1a415e5e41dde44c45b43a636abf699ac2e9684e8457041c38df3a73c",
+  "bytes": 295791,
+  "fetched": "2026-10-03"
+ },
+ "i1097btc": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1097btc--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "dc6743c0e25f6873082c662d60ba5b3c8177ba723b169742434bcc1cd6979059",
+  "bytes": 158033,
+  "fetched": "2026-10-03"
+ },
+ "i1098": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1098--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "d1d6647dd6a3bc6fb6132593fcc04deb4f163faa9cecaf867961e28f96cbe51a",
+  "bytes": 182716,
+  "fetched": "2026-10-03"
+ },
+ "i1098c": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i1098c.pdf",
+  "how": "irs-pdf, continuous use (prints 2019)",
+  "revision_printed": "(Rev. November 2019)",
+  "sha256": "5c3edcda0ce1ab0d368fb081696c8f7abc63cc40c25aae60db64a74c723e7257",
+  "bytes": 119256,
+  "fetched": "2026-10-03"
+ },
+ "i1098et": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1098et--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "68c0f34312f15295ac882e3b4148c0cc93df1f5cf31de8c8f9793258672bafb1",
+  "bytes": 161690,
+  "fetched": "2026-10-03"
+ },
+ "i1098f": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1098f--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "bbcc12ffb39a3bd65eb6b6fe13eb94115f703db26003351b91ceab3e59e30dd2",
+  "bytes": 129431,
+  "fetched": "2026-10-03"
+ },
+ "i1098q": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1098q--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "32beeded89b38cb5561163d3be8a063d5585d189472a8f3ad7dcdccda2a43595",
+  "bytes": 145485,
+  "fetched": "2026-10-03"
+ },
+ "i1099ac": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099ac--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "76b10cff7d76e79f73d8c84a32d2a165c494fa77aa80bd22aae0d6b187a00702",
+  "bytes": 178467,
+  "fetched": "2026-10-03"
+ },
+ "i1099b": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099b--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "55bbe7df46f43f2c305481f303bc9e6518f5874766a2d183f2cb14dc0b91d745",
+  "bytes": 232745,
+  "fetched": "2026-10-03"
+ },
+ "i1099cap": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099cap--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "00e9ac02fdf995dc44aaa0ea16569fc97ee0e464fa2a345cd84e33eb424167dd",
+  "bytes": 149339,
+  "fetched": "2026-10-03"
+ },
+ "i1099da": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099da--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "7266637e4e8f1327ae97d2019d09b5b8552a7c3494bb180af81aabcff77cb28a",
+  "bytes": 204329,
+  "fetched": "2026-10-03"
+ },
+ "i1099div": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i1099div.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. January 2024)",
+  "sha256": "af89ec14c288df70092cc2439e0bf215bab9704fc0b70ba3f9bd7d420067e607",
+  "bytes": 178269,
+  "fetched": "2026-10-03"
+ },
+ "i1099g": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099g--2024.pdf",
+  "how": "irs-prior, continuous use (2024)",
+  "revision_printed": "(Rev. March 2024)",
+  "sha256": "bd1f344b01190496a6a81ae768fb2ff1df8b1d74300a3631a5b6be17eccb9f3a",
+  "bytes": 128896,
+  "fetched": "2026-10-03"
+ },
+ "i1099gi": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099gi--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "2d7a099cc478c328bed26aa2fcd36854da4c4e8c8d869d0f01ab99def274af42",
+  "bytes": 460369,
+  "fetched": "2026-10-03"
+ },
+ "i1099h": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099h--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "4d5d282dd5948288b124e6ca0e5a5cefa42791c1ca6c7a1b07ae41e14f220049",
+  "bytes": 134092,
+  "fetched": "2026-10-03"
+ },
+ "i1099int": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i1099int.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. January 2024)",
+  "sha256": "6f13ff025d4ab270ac53d9f1b60f7f354b1e558366b9d6bfd49cc60bf57fbc63",
+  "bytes": 196656,
+  "fetched": "2026-10-03"
+ },
+ "i1099k": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099k--2024.pdf",
+  "how": "irs-prior, continuous use (2024)",
+  "revision_printed": "(Rev. March 2024)",
+  "sha256": "c64c33ba1a2d0beac51792126d5d4319bbd383adb6a41fce8fa10a490b0b8ca4",
+  "bytes": 156818,
+  "fetched": "2026-10-03"
+ },
+ "i1099ls": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099ls--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "ae5e0b1e74aeebffc78fe7e24de1ef3849f0a7ca8815c587b33b7f943f63c015",
+  "bytes": 125386,
+  "fetched": "2026-10-03"
+ },
+ "i1099ltc": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099ltc--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "72ad7ae8f4e703717de77b2b21bbb26421bfeb0749224030c84a45aa508f0e00",
+  "bytes": 139927,
+  "fetched": "2026-10-03"
+ },
+ "i1099mec": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099mec--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "372a0f683aa10650889d4ddcbe96b33bc0998ab31fdbf6e36d2262e3f1542dce",
+  "bytes": 276259,
+  "fetched": "2026-10-03"
+ },
+ "i1099ptr": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099ptr--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "780e689b2e188900f031b2fbaccdb9c14b93de4946198e03d8a1b25aa3a3fce7",
+  "bytes": 138012,
+  "fetched": "2026-10-03"
+ },
+ "i1099q": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099q--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "1624deec8c0e339c6bb9848b265457504a2be4fb337b028a4b9b97471c8c48a2",
+  "bytes": 148814,
+  "fetched": "2026-10-03"
+ },
+ "i1099qa": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099qa--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "c6abb603006a8b7051967cdb4a2f36c59bbc0c5137c7fc9c7f5a04e4d28b0a95",
+  "bytes": 156599,
+  "fetched": "2026-10-03"
+ },
+ "i1099r": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099r--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "a2ebc2c5ab6be07cfddefa8941f54138cb4b646f5240db2f1469c4f97a8db61e",
+  "bytes": 408494,
+  "fetched": "2026-10-03"
+ },
+ "i1099s": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099s--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. April 2025)",
+  "sha256": "c452b95c6dba5510982526f5d06c7e94f582ab1078929613c1dc02944832b4bf",
+  "bytes": 163290,
+  "fetched": "2026-10-03"
+ },
+ "i1099sa": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1099sa--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "e2c8bba99bc0d157ae140ce27e897cc112b929c3102cef5a269c00ed2ed4d800",
+  "bytes": 154197,
+  "fetched": "2026-10-03"
+ },
+ "i1116": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1116--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6998cf8cd04b659b60ccf0b3a3ffaa507cc1dbdb31da40850f38a599dc39e0b1",
+  "bytes": 364870,
+  "fetched": "2026-10-03"
+ },
+ "i1118": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1118--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "27763889bc9241a9b839ebb8137094216bf48dd6795f3d1fbf76263733c33559",
+  "bytes": 369504,
+  "fetched": "2026-10-03"
+ },
+ "i1120f": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1120f--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "125048137047277feff3f6046b92c5360db23b6c428f4b0e4b378efed0ffc44a",
+  "bytes": 523838,
+  "fetched": "2026-10-03"
+ },
+ "i1120s": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1120s--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "eab655cff9226dbc6d80213350bac050009ba90daf621c182d31c541bc62c3f2",
+  "bytes": 713010,
+  "fetched": "2026-10-03"
+ },
+ "i1120ssk": {
+  "url": "https://www.irs.gov/pub/irs-prior/i1120ssk--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "fb6194da1d1f9e898385f4a5b3df1355f04c478f9422d969b182d4dc04f2a355",
+  "bytes": 316370,
+  "fetched": "2026-10-03"
+ },
+ "i172": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i172.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "15977bb641b55d9ca8acb81b1da10e04371f10acf15ec9fb09bce829bd1a5c77",
+  "bytes": 205786,
+  "fetched": "2026-10-03"
+ },
+ "i2106": {
+  "url": "https://www.irs.gov/pub/irs-prior/i2106--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "a84d3b7ef6a1480e716eb1ebaf7f78ed65bd797d29fd40223d76b903f8dc0141",
+  "bytes": 212685,
+  "fetched": "2026-10-03"
+ },
+ "i2210": {
+  "url": "https://www.irs.gov/pub/irs-prior/i2210--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "7bd6a47494e588fcb422a9ae97970a369fe24fd778ad33b224aeb1cd759e831d",
+  "bytes": 270086,
+  "fetched": "2026-10-03"
+ },
+ "i2290": {
+  "url": "https://www.irs.gov/pub/irs-prior/i2290--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. July 2025)",
+  "sha256": "9156234c2a3b697294aeba3462f00e1aedbfda3dda84a4b3ac9cbe6dc5893392",
+  "bytes": 611625,
+  "fetched": "2026-10-03"
+ },
+ "i2441": {
+  "url": "https://www.irs.gov/pub/irs-prior/i2441--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "86f0669e78b1dc00bfb99e956673d4fccee9e40d6c44d53623dd08e62567fd39",
+  "bytes": 200749,
+  "fetched": "2026-10-03"
+ },
+ "i2555": {
+  "url": "https://www.irs.gov/pub/irs-prior/i2555--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "69408819d6fc40b146035eaa17d7072c67854986492161f3cb20635d759bde3f",
+  "bytes": 194999,
+  "fetched": "2026-10-03"
+ },
+ "i2848": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i2848.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. September 2021)",
+  "sha256": "f9ae559e4fcd5cf186a2f5165294a8036b69745ecbbef0ac5af367713cdb4868",
+  "bytes": 202826,
+  "fetched": "2026-10-03"
+ },
+ "i3115": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i3115.pdf",
+  "how": "irs-pdf, continuous use (prints 2022)",
+  "revision_printed": "(Rev. December 2022)",
+  "sha256": "aa1999be0a8b79ef5ef28c45fdf1d6f2b2c91beb6c6b8c4f4f7b8cd9b72d38df",
+  "bytes": 390464,
+  "fetched": "2026-10-03"
+ },
+ "i3468": {
+  "url": "https://www.irs.gov/pub/irs-prior/i3468--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "8d6c5970a5eb16892e51c07a1a6b28d3333dc7e4c9a699426e0a17f06c87bfc1",
+  "bytes": 468579,
+  "fetched": "2026-10-03"
+ },
+ "i3520": {
+  "url": "https://www.irs.gov/pub/irs-prior/i3520--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "d3e27f7dc226edecd5cfa67a8d175d4db6445355f016e651c95fa62b78d64308",
+  "bytes": 259941,
+  "fetched": "2026-10-03"
+ },
+ "i3520a": {
+  "url": "https://www.irs.gov/pub/irs-prior/i3520a--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "228907d55603c5e8200abc46c469c4fa5c0fcb6b908d3a87155c74f1896b2549",
+  "bytes": 200122,
+  "fetched": "2026-10-03"
+ },
+ "i3903": {
+  "url": "https://www.irs.gov/pub/irs-prior/i3903--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "0320d0e0e5860ca6d51ffdfca89db80cdda1e5294c89b5cd808d4b1c335482cc",
+  "bytes": 132886,
+  "fetched": "2026-10-03"
+ },
+ "i4136": {
+  "url": "https://www.irs.gov/pub/irs-prior/i4136--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "d3d63fc3e5af24a8d4c8466b415c3d9269233af67f24d29640a5b4581e10c9f1",
+  "bytes": 194213,
+  "fetched": "2026-10-03"
+ },
+ "i4255": {
+  "url": "https://www.irs.gov/pub/irs-prior/i4255--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "16ae22860c6d604652d7b038b024bd162affa8b66ebccf80b77e390179bfde19",
+  "bytes": 212812,
+  "fetched": "2026-10-03"
+ },
+ "i4547": {
+  "url": "https://www.irs.gov/pub/irs-prior/i4547--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "929617a3f390f74cbec6b0ee537e519148358da83756f295ca1f95382a047758",
+  "bytes": 165975,
+  "fetched": "2026-10-03"
+ },
+ "i4562": {
+  "url": "https://www.irs.gov/pub/irs-prior/i4562--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "5c1c95b78d557130f2afa0bd192bef352ef65e42ae6210fbc457f1c7ff086020",
+  "bytes": 373754,
+  "fetched": "2026-10-03"
+ },
+ "i461": {
+  "url": "https://www.irs.gov/pub/irs-prior/i461--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "b809a8aafd955b9e4ba81c6fc9b81d2dc975c3896add21410b590f8a91d3a31e",
+  "bytes": 146892,
+  "fetched": "2026-10-03"
+ },
+ "i4684": {
+  "url": "https://www.irs.gov/pub/irs-prior/i4684--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "830b752edd1e945dc98ccb0ea91992643106840091c42ce0fcc0bf319ba5271a",
+  "bytes": 251000,
+  "fetched": "2026-10-03"
+ },
+ "i4797": {
+  "url": "https://www.irs.gov/pub/irs-prior/i4797--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "cddf741b95ec1689712aba82936346bd7b7c13dfe593fc66102a31e333b8fae9",
+  "bytes": 239974,
+  "fetched": "2026-10-03"
+ },
+ "i5329": {
+  "url": "https://www.irs.gov/pub/irs-prior/i5329--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "aec3d325edb26a0d20d3b81030feb97cf62ecc97fa90c9abd91d83dd22749146",
+  "bytes": 226385,
+  "fetched": "2026-10-03"
+ },
+ "i5471": {
+  "url": "https://www.irs.gov/pub/irs-prior/i5471--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "3680eca847f93eb6b52812db1397077e2fd6d96924edb4e61bcfd0cd8bd4ec3c",
+  "bytes": 654972,
+  "fetched": "2026-10-03"
+ },
+ "i5500": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i5500.pdf",
+  "how": "irs-pdf, continuous use (prints 2009)",
+  "revision_printed": null,
+  "sha256": "b517e27bffb86238de1e4c9252478ac6ad977da64c36d2e1816f682f1870916a",
+  "bytes": 434954,
+  "fetched": "2026-10-03"
+ },
+ "i5500ez": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i5500ez.pdf",
+  "how": "irs-pdf, continuous use (prints 2025)",
+  "revision_printed": "2025",
+  "sha256": "d945075a8eea1f2c7b9d35551984ccbd9b71e9d547c3c51ac022846d405ed5b4",
+  "bytes": 490042,
+  "fetched": "2026-10-03"
+ },
+ "i5695": {
+  "url": "https://www.irs.gov/pub/irs-prior/i5695--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "55113467f9689346adc0faf8add25d7fa50a0c5a91765c67f5ff24682a68cb66",
+  "bytes": 192614,
+  "fetched": "2026-10-03"
+ },
+ "i6198": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i6198.pdf",
+  "how": "irs-pdf, continuous use (prints 2025)",
+  "revision_printed": "(Rev. November 2025)",
+  "sha256": "444d8002c734359b0f75235bd5461c9019cf4e871742243de1021ec14ceb0e1d",
+  "bytes": 202650,
+  "fetched": "2026-10-03"
+ },
+ "i6251": {
+  "url": "https://www.irs.gov/pub/irs-prior/i6251--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "b130e87362006177794ac29affd2637652cc4c8c03e54227891e2d1b9c976753",
+  "bytes": 254231,
+  "fetched": "2026-10-03"
+ },
+ "i6478": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i6478.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "(Rev. October 2023)",
+  "sha256": "f5affc8873bcb066afd09ed5c902660383fec91db32e5af2e3bb1aba93cd53a6",
+  "bytes": 120433,
+  "fetched": "2026-10-03"
+ },
+ "i706": {
+  "url": "https://www.irs.gov/pub/irs-prior/i706--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. September 2025)",
+  "sha256": "2a770dc8b7866838395d272b0ccfd4c6d4dc24efa6a1d9adf05c28f19f3d0411",
+  "bytes": 730156,
+  "fetched": "2026-10-03"
+ },
+ "i709": {
+  "url": "https://www.irs.gov/pub/irs-prior/i709--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "7de1ce3877fc368ec6ed685d49c5ff62face9cfb137538d70d95f08a47b75bcf",
+  "bytes": 397481,
+  "fetched": "2026-10-03"
+ },
+ "i7203": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i7203.pdf",
+  "how": "irs-pdf, continuous use (prints 2022)",
+  "revision_printed": "(Rev. December 2022)",
+  "sha256": "f2a4a12413f58c2b5e59bc370d98ef9ad03df5f463a189786d86b0833e78ccb0",
+  "bytes": 155076,
+  "fetched": "2026-10-03"
+ },
+ "i7205": {
+  "url": "https://www.irs.gov/pub/irs-prior/i7205--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "78ecddf3c82c17234d9e80cf0a8098fa5f68d1204de7749b2ef712d8b96694dd",
+  "bytes": 178184,
+  "fetched": "2026-10-03"
+ },
+ "i7206": {
+  "url": "https://www.irs.gov/pub/irs-prior/i7206--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "9cbf92b39c12a6a151665721faeb2f5836a72a53329de1543c7b020fff937f1a",
+  "bytes": 146551,
+  "fetched": "2026-10-03"
+ },
+ "i7210": {
+  "url": "https://www.irs.gov/pub/irs-prior/i7210--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "f2b5f07f01dec0c8126c1919fb8995b4e8d72b4f483805260f27bbf60481e2b0",
+  "bytes": 162905,
+  "fetched": "2026-10-03"
+ },
+ "i7217": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i7217.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "2024",
+  "sha256": "a00432e6260a82bc58b90356c5e1abfa528e668694a45e5e88b3322da596925d",
+  "bytes": 142891,
+  "fetched": "2026-10-03"
+ },
+ "i8082": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8082--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. October 2025)",
+  "sha256": "8acccbff64c437b9a4286d259e6a9e355c3760c138d7daa5f72b1db821708adb",
+  "bytes": 217655,
+  "fetched": "2026-10-03"
+ },
+ "i8283": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8283--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "2de015f75bcf2fa9222f8ce6f5ab394d1845ec64ec6cb53ce4e60a4c88150073",
+  "bytes": 214214,
+  "fetched": "2026-10-03"
+ },
+ "i8288": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8288--2023.pdf",
+  "how": "irs-prior, continuous use (2023)",
+  "revision_printed": "(Rev. January 2023)",
+  "sha256": "f2a42995301e3da5267ac95c1a1389cdb132845117ab22c24d63acae6201d7ee",
+  "bytes": 265897,
+  "fetched": "2026-10-03"
+ },
+ "i8300": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i8300.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "(Rev. December 2023)",
+  "sha256": "ab64890e122ba9cadd8c9b6e99ca8749cc26e18810d25d5b57e6ac4a0895c1b2",
+  "bytes": 157219,
+  "fetched": "2026-10-03"
+ },
+ "i8308": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8308--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. November 2025)",
+  "sha256": "1e2597dc974f99ccbfee869c928202a277343e13fcc0a27709d7edea26283803",
+  "bytes": 147080,
+  "fetched": "2026-10-03"
+ },
+ "i8379": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i8379.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. November 2024)",
+  "sha256": "28732ed493937391b72d1f5001e1122fe54974a0da7e42fed9291bf9b7372291",
+  "bytes": 166970,
+  "fetched": "2026-10-03"
+ },
+ "i843": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i843.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "5215129e1ce99eb41b8c4777cd5d4ff44a9d49da2266dc42694c3ec68c739a43",
+  "bytes": 193876,
+  "fetched": "2026-10-03"
+ },
+ "i8582": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8582--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "76787e11a385d1205faf70a07924cdec4efd5e66628e6f47e5316d29e6035f71",
+  "bytes": 253960,
+  "fetched": "2026-10-03"
+ },
+ "i8594": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i8594.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. November 2021)",
+  "sha256": "99c03a7edc08297781912354b5faf8cd63937e7f35027163f31bbc7d3bd02627",
+  "bytes": 140044,
+  "fetched": "2026-10-03"
+ },
+ "i8606": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8606--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "735fb7aebc36f6c933d0623a5ba680e7133b9fe62549ddd9652319fc8cac7e8f",
+  "bytes": 315925,
+  "fetched": "2026-10-03"
+ },
+ "i8615": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8615--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "902ca736f1205e726e80211c40630178c88fa5d57ca9b9bbdbb89189166fc780",
+  "bytes": 224742,
+  "fetched": "2026-10-03"
+ },
+ "i8621": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8621--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "f16061fd6ddd952a39f986bab7e7c561d25de61d2ed40938e5e560b9baba477b",
+  "bytes": 254797,
+  "fetched": "2026-10-03"
+ },
+ "i8697": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8697--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "216a1159c5b9c199be0bd2a1e7b8f0d7a12226f94e90bc5911a24fe0982ccbd7",
+  "bytes": 206016,
+  "fetched": "2026-10-03"
+ },
+ "i8801": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8801--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "cf99d034d0332110613c8b61b5d3be046fefb638c85ade7e8046b3d79a8ab2ff",
+  "bytes": 173527,
+  "fetched": "2026-10-03"
+ },
+ "i8804": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8804--2022.pdf",
+  "how": "irs-prior, continuous use (2022)",
+  "revision_printed": "(Rev. November 2022)",
+  "sha256": "3ee8f92f4100e26ddfba6b29e17d5aa986969a656457199b50aa060c1825d0dd",
+  "bytes": 178174,
+  "fetched": "2026-10-03"
+ },
+ "i8814": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8814--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "2a2ec11f8a81248b96c6cab98e8867792e395b515362b23ed6acff6bcc209cc6",
+  "bytes": 159244,
+  "fetched": "2026-10-03"
+ },
+ "i8828": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i8828.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. November 2024)",
+  "sha256": "e044f3342e4e01ec9a82b01fb03f3e87c107b0318738fdfe244c04b954a7f1d3",
+  "bytes": 160577,
+  "fetched": "2026-10-03"
+ },
+ "i8829": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8829--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6a02b8a4e5f9295ea5ab1ba03987c8dcf2a6313e5eb526b438210e10d19abee8",
+  "bytes": 182532,
+  "fetched": "2026-10-03"
+ },
+ "i8844": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i8844.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. December 2021)",
+  "sha256": "49bbbaa4fda86f0baae0be1ddd93dca958b0c92e0c89feb5e07d73ee42a8d730",
+  "bytes": 128665,
+  "fetched": "2026-10-03"
+ },
+ "i8853": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8853--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "cefff1410968fd320fa175e1b84d9f6335fb9838f1f3c8b1594e477cbe0ab531",
+  "bytes": 234889,
+  "fetched": "2026-10-03"
+ },
+ "i8854": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8854--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "8a839a9a99e765d8418333431baeed6bf9344963b00a73cb1396c93b2f70f3fc",
+  "bytes": 203488,
+  "fetched": "2026-10-03"
+ },
+ "i8857": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i8857.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. June 2021)",
+  "sha256": "a06c291187769289cf7bf442afcdba5d2cd332b98913fc82036d3e2aca774cd7",
+  "bytes": 164045,
+  "fetched": "2026-10-03"
+ },
+ "i8862": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8862--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "2ef7f8c9bc5361398306d6707da67f70c25450261af2439286b24553fa275cde",
+  "bytes": 155575,
+  "fetched": "2026-10-03"
+ },
+ "i8863": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8863--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "195cfd5e93892f0db4162c5b8882236c4d27b26e2934ed99493743ceccf9ea29",
+  "bytes": 187153,
+  "fetched": "2026-10-03"
+ },
+ "i8864": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8864--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "c0a05fc0b99b0c16d3f2421ce77df4b252169878173a4fba7d070a1c36df31a9",
+  "bytes": 135796,
+  "fetched": "2026-10-03"
+ },
+ "i8865": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8865--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "f5cb52181d1f5951b9792aef105d20d3331475bd2b13a4c20e4ea64272ae652d",
+  "bytes": 413744,
+  "fetched": "2026-10-03"
+ },
+ "i8873": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i8873.pdf",
+  "how": "irs-pdf, continuous use (prints 2017)",
+  "revision_printed": "(Rev. September 2017)",
+  "sha256": "3e3a74f6aefc4098eb366a85c7a9b35eb86f803b8ea2f1ad75982aa2e2082a6c",
+  "bytes": 151812,
+  "fetched": "2026-10-03"
+ },
+ "i8885": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i8885.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "2021",
+  "sha256": "40fcbd1d80cafb727ca0379a72da60d2b2447387317e664264fff0c5ca87ada3",
+  "bytes": 183356,
+  "fetched": "2026-10-03"
+ },
+ "i8886": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i8886.pdf",
+  "how": "irs-pdf, continuous use (prints 2022)",
+  "revision_printed": "(Rev. October 2022)",
+  "sha256": "17d82420bd77b87727deadfcb7ea2b7da298898973b4a68628291ee4dd909d86",
+  "bytes": 177996,
+  "fetched": "2026-10-03"
+ },
+ "i8889": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8889--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "da6f2f588b06f3f44cc7177883ce6496dc1bb247d84bc068a79277822410cb0f",
+  "bytes": 216817,
+  "fetched": "2026-10-03"
+ },
+ "i8912": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i8912.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "8d4a48b71c4c1d3873b6488b5a4684d87d510d584d9f30a2beb353d0896343bd",
+  "bytes": 171201,
+  "fetched": "2026-10-03"
+ },
+ "i8936": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8936--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "49aa7277e16c54c2010e985aed96b37033da2ac223fe283d6266b014c445e057",
+  "bytes": 188392,
+  "fetched": "2026-10-03"
+ },
+ "i8941": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8941--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "ef65c00179336e2419745c3d8289ba79f9c8b3e3aa0850ff9d10e7552ddc042f",
+  "bytes": 832881,
+  "fetched": "2026-10-03"
+ },
+ "i8949": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "f077991c83b086810c46cbad3755e0f126cb8dfd88cf8bf8ab2d5605d6e7ab45",
+  "bytes": 255808,
+  "fetched": "2026-10-03"
+ },
+ "i8959": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8959--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "1d223be73b4bac959a00e9b55784297bafa73a986567987c083671abf687b68f",
+  "bytes": 146897,
+  "fetched": "2026-10-03"
+ },
+ "i8960": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8960--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "b10fbb23ff4a053db197285497a00914c558e3ae0cdf5c956b7c0c7867376428",
+  "bytes": 377700,
+  "fetched": "2026-10-03"
+ },
+ "i8962": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8962--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "f4ac86ada178e8aaaf98124b3450cad0cd5d84f7b16bcadd2dd47910e07bf9a2",
+  "bytes": 402164,
+  "fetched": "2026-10-03"
+ },
+ "i8971": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8971--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. August 2025)",
+  "sha256": "49fb5333b3d85965919f248005ebdc13cb14050724649dab8478ef59f33023df",
+  "bytes": 187762,
+  "fetched": "2026-10-03"
+ },
+ "i8978": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i8978.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "bbc268cc011a1235021532a29ea8cf8a6ad71dc34cdb5941bb58d41e8f6e1816",
+  "bytes": 174599,
+  "fetched": "2026-10-03"
+ },
+ "i8990": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8990--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "001d2a9c1f4ca0d74226bc763d73049f5088ab2d5c3f2553b2dfa107de19a2f3",
+  "bytes": 310574,
+  "fetched": "2026-10-03"
+ },
+ "i8992": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i8992.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "726d57279a8f98cfe6f4f26b8bdc62e4a8c04e1186439bf351927e8b41cf807a",
+  "bytes": 166447,
+  "fetched": "2026-10-03"
+ },
+ "i8995": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8995--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "875843baead68f6fa9aa7c3f6f27d6c1f37cb971ac334bcf414acdb4c1487684",
+  "bytes": 216021,
+  "fetched": "2026-10-03"
+ },
+ "i8995a": {
+  "url": "https://www.irs.gov/pub/irs-prior/i8995a--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6df1301c1ce74ef391219094831accd22cfeac26ce510f4499c4834484f55d97",
+  "bytes": 248825,
+  "fetched": "2026-10-03"
+ },
+ "i940": {
+  "url": "https://www.irs.gov/pub/irs-prior/i940--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "e2085d60827d25e899ef486e640a9dc7845ff72e4becac58992b6c23d18fbc61",
+  "bytes": 301331,
+  "fetched": "2026-10-03"
+ },
+ "i941": {
+  "url": "https://www.irs.gov/pub/irs-prior/i941--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. March 2025)",
+  "sha256": "53cc4bce204c198b444da2e5ab194f9f5a4fa3852f1871805d08e180847d7562",
+  "bytes": 280117,
+  "fetched": "2026-10-03"
+ },
+ "i943": {
+  "url": "https://www.irs.gov/pub/irs-prior/i943--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "8dd140d5b29bad7bad970f463737208660374aee6a24a62b88f2f4343c42b1cd",
+  "bytes": 246386,
+  "fetched": "2026-10-03"
+ },
+ "i944": {
+  "url": "https://www.irs.gov/pub/irs-prior/i944--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "3a91d7ee000c55ea8b4ba6f42376130b2a363b5fb24be70f2a5b59adffd91bfe",
+  "bytes": 256348,
+  "fetched": "2026-10-03"
+ },
+ "i9465": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i9465.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. July 2024)",
+  "sha256": "2075bd084c563aa164deb9742b99cab6237b92ae70f016d3d82b5aa69a16abf9",
+  "bytes": 202828,
+  "fetched": "2026-10-03"
+ },
+ "i965a": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i965a.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. January 2021)",
+  "sha256": "c6f7b4a89f68261975754572be6bd55b0e29ab642fe14017cbf92e7f37a9bef1",
+  "bytes": 153690,
+  "fetched": "2026-10-03"
+ },
+ "i982": {
+  "url": "https://www.irs.gov/pub/irs-pdf/i982.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. December 2021)",
+  "sha256": "638f899cf49c04265f20f5c3bacbc53f1d0270118a3311555c8551847a54b7a0",
+  "bytes": 152979,
+  "fetched": "2026-10-03"
+ },
+ "i990t": {
+  "url": "https://www.irs.gov/pub/irs-prior/i990t--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "bbdf3c7b6eb1331a6b470d279bad0bf8effed3cf488a0343244ea9401114fa08",
+  "bytes": 541229,
+  "fetched": "2026-10-03"
+ },
+ "iw2g": {
+  "url": "https://www.irs.gov/pub/irs-prior/iw2g--2021.pdf",
+  "how": "irs-prior, continuous use (2021)",
+  "revision_printed": "(Rev. January 2021)",
+  "sha256": "32c6fe62aed20df844433b5310c1ebf4eedc4ff83863fa20ee88bf09294f303d",
+  "bytes": 143771,
+  "fetched": "2026-10-03"
+ },
+ "iw2w3": {
+  "url": "https://www.irs.gov/pub/irs-prior/iw2w3--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "bfecbc99720cc8fbedb50f6e698ac1f6fa758dbfa5df775715446b7cc30bae2b",
+  "bytes": 523710,
+  "fetched": "2026-10-03"
+ },
+ "n-25-57": {
+  "url": "https://www.irs.gov/pub/irs-drop/n-25-57.pdf",
+  "how": "irs-drop (notice)",
+  "revision_printed": null,
+  "sha256": "5d9cdec52de876151866d153a6f6824a5fdfe460fa1dcf50986a41228d3d1598",
+  "bytes": 71374,
+  "fetched": "2026-10-03"
+ },
+ "n-25-62": {
+  "url": "https://www.irs.gov/pub/irs-drop/n-25-62.pdf",
+  "how": "irs-drop (notice)",
+  "revision_printed": null,
+  "sha256": "202c2b00dc484241f6f87dcc7ef7939f9931119aeb98283f3cff5b9db979bc3a",
+  "bytes": 107006,
+  "fetched": "2026-10-03"
+ },
+ "n-25-69": {
+  "url": "https://www.irs.gov/pub/irs-drop/n-25-69.pdf",
+  "how": "irs-drop (notice)",
+  "revision_printed": null,
+  "sha256": "e405c12d18c8a23524fbc822b61ec32e7885ace7caf01c433d6dbd9a42c8caef",
+  "bytes": 229593,
+  "fetched": "2026-10-03"
+ },
+ "p1099": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p1099.pdf",
+  "how": "irs-pdf, revision after the tax year or unprinted \u2014 CHECK",
+  "revision_printed": "2026",
+  "sha256": "72136f4ec750020c80cc7da46d72f16a5ef1b2578faa89dc8aa45867e70342a7",
+  "bytes": 1449821,
+  "fetched": "2026-10-03"
+ },
+ "p1212": {
+  "url": "https://www.irs.gov/pub/irs-prior/p1212--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "b6a6c3363ff7a06b4e925861f2149ed5c7ad28caeb57c4bea2ba6cc7b689fd37",
+  "bytes": 1408255,
+  "fetched": "2026-10-03"
+ },
+ "p1544": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p1544.pdf",
+  "how": "irs-pdf, continuous use (prints 2014)",
+  "revision_printed": "(Rev. September 2014)",
+  "sha256": "fa7482bd09e199af8c9d43063ef919ed04a3587f89c8987deb81393e251038ef",
+  "bytes": 1096754,
+  "fetched": "2026-10-03"
+ },
+ "p1546": {
+  "url": "https://www.irs.gov/pub/irs-prior/p1546--2018.pdf",
+  "how": "irs-prior, continuous use (2018)",
+  "revision_printed": "2014",
+  "sha256": "ad06556968d14f98b64d826e3a18166c3a4f7daeaf90b1d76de4e2903aa5005c",
+  "bytes": 444127,
+  "fetched": "2026-10-03"
+ },
+ "p17": {
+  "url": "https://www.irs.gov/pub/irs-prior/p17--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "2d2381d62c7c77ed4b64b83ac23c28ed85b7c8304eb580c09bd9fd660be0840b",
+  "bytes": 3088632,
+  "fetched": "2026-10-03"
+ },
+ "p225": {
+  "url": "https://www.irs.gov/pub/irs-prior/p225--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "67a82f92fad122ef2f611a88123a377a02c12b10cb7b15b4beb3f14d6d012249",
+  "bytes": 1795786,
+  "fetched": "2026-10-03"
+ },
+ "p3": {
+  "url": "https://www.irs.gov/pub/irs-prior/p3--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "925d77d3775a677544895655b7dbd45abf38fe4838fa59445fdcc84c03ce0edc",
+  "bytes": 1499269,
+  "fetched": "2026-10-03"
+ },
+ "p334": {
+  "url": "https://www.irs.gov/pub/irs-prior/p334--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "722639ba7bfd6f5348234b58d21e1afd8cb0c04895138bd5c4539142dde6c60a",
+  "bytes": 2714784,
+  "fetched": "2026-10-03"
+ },
+ "p3920": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p3920.pdf",
+  "how": "irs-pdf, continuous use (prints 2014)",
+  "revision_printed": "(Rev. September 2014)",
+  "sha256": "bcc93a12b012a7cc6a0fc2aa1b0105c94d1717647ef87e016732d22fed2c2218",
+  "bytes": 1349896,
+  "fetched": "2026-10-03"
+ },
+ "p4134": {
+  "url": "https://www.irs.gov/pub/irs-prior/p4134--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "534ef08aaf96de13eecf74dd9cd7ab20be864be1e266bf138cca7a0309844525",
+  "bytes": 297364,
+  "fetched": "2026-10-03"
+ },
+ "p463": {
+  "url": "https://www.irs.gov/pub/irs-prior/p463--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "ddc3bb15e437bd65c37da2036debdae78c1a0bf5a080b19d5301c81f5ec5ae5d",
+  "bytes": 1851538,
+  "fetched": "2026-10-03"
+ },
+ "p4681": {
+  "url": "https://www.irs.gov/pub/irs-prior/p4681--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "d87305a0e1817a7f7e7a06bde669586ef76c763878c674196542b624ad5958e7",
+  "bytes": 1335069,
+  "fetched": "2026-10-03"
+ },
+ "p501": {
+  "url": "https://www.irs.gov/pub/irs-prior/p501--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "288b62a4917f3bc3df0bade7a22c23a8ae648ba9eb5086df5b8b50e881148ff6",
+  "bytes": 1553735,
+  "fetched": "2026-10-03"
+ },
+ "p502": {
+  "url": "https://www.irs.gov/pub/irs-prior/p502--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "11801353ab959ee04dcadc1f799b6c0b87e1879680fe6f8511af3fa113690d25",
+  "bytes": 1401964,
+  "fetched": "2026-10-03"
+ },
+ "p5027": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p5027.pdf",
+  "how": "irs-pdf, revision after the tax year or unprinted \u2014 CHECK",
+  "revision_printed": null,
+  "sha256": "fdffcfc09ff43520c2f51e11c8e2fda12b80eb8d0b86193303592a1eda620fad",
+  "bytes": 93363,
+  "fetched": "2026-10-03"
+ },
+ "p504": {
+  "url": "https://www.irs.gov/pub/irs-prior/p504--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "61bb4d52fa8c218dd9e6eac95513f16ffc5aa602df6b2f9af88369fbc295b175",
+  "bytes": 1421115,
+  "fetched": "2026-10-03"
+ },
+ "p505": {
+  "url": "https://www.irs.gov/pub/irs-prior/p505--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. January\n                                                                                     2020)",
+  "sha256": "7cb7800da48fd9466b6aea2f4e4937d520bf554ea72f41252ac576f5d671f999",
+  "bytes": 1728846,
+  "fetched": "2026-10-03"
+ },
+ "p514": {
+  "url": "https://www.irs.gov/pub/irs-prior/p514--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "35061c2d247112cd65654cdcd446aa7bd2d3370f84da2563239b8fe772a462bb",
+  "bytes": 1601250,
+  "fetched": "2026-10-03"
+ },
+ "p517": {
+  "url": "https://www.irs.gov/pub/irs-prior/p517--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "42b05466cf30b99d4d487df5bb9ff412250a3e072217a8320b3727b60182b451",
+  "bytes": 1363199,
+  "fetched": "2026-10-03"
+ },
+ "p519": {
+  "url": "https://www.irs.gov/pub/irs-prior/p519--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "c220ed64473d9f26b09784e45d5c4e05b052caace1263278bb6dc2060796ed85",
+  "bytes": 2080184,
+  "fetched": "2026-10-03"
+ },
+ "p523": {
+  "url": "https://www.irs.gov/pub/irs-prior/p523--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "f11fca89408fa329fdbfec9b9bd0aa22f411f30704e805088076d89a754f736b",
+  "bytes": 1366676,
+  "fetched": "2026-10-03"
+ },
+ "p525": {
+  "url": "https://www.irs.gov/pub/irs-prior/p525--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "39b0fa5e04c5d159a34583da12a91326f396f69286f4b7a6f399d34cebc2c25b",
+  "bytes": 1783977,
+  "fetched": "2026-10-03"
+ },
+ "p526": {
+  "url": "https://www.irs.gov/pub/irs-prior/p526--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "607011d9065a39b2fa3e08eda90c6313c581c2d4515f00fc23b0ae0a145435ae",
+  "bytes": 1498520,
+  "fetched": "2026-10-03"
+ },
+ "p527": {
+  "url": "https://www.irs.gov/pub/irs-prior/p527--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "20c826e98dce23d20f80ab89da7e668a8ee7162a2194f480ce417cff651201d6",
+  "bytes": 1515629,
+  "fetched": "2026-10-03"
+ },
+ "p529": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p529.pdf",
+  "how": "irs-pdf, continuous use (prints 2020)",
+  "revision_printed": "(Rev. December 2020)",
+  "sha256": "ee7210f1fcc2e838b6e14ad054e71e022893248971085cbb231a25c99a44e1a0",
+  "bytes": 1412064,
+  "fetched": "2026-10-03"
+ },
+ "p530": {
+  "url": "https://www.irs.gov/pub/irs-prior/p530--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "a794f1a2817175342d8d90568207b52c2b75229836ed8ab5814816723aa5aed1",
+  "bytes": 1324874,
+  "fetched": "2026-10-03"
+ },
+ "p535": {
+  "url": "https://www.irs.gov/pub/irs-prior/p535--2022.pdf",
+  "how": "irs-prior, continuous use (2022)",
+  "revision_printed": "2022",
+  "sha256": "e7a5ba625bcd9771cf80f06423dfa1d3383feb1ba0d467c9de8e2c7611165769",
+  "bytes": 1892134,
+  "fetched": "2026-10-03"
+ },
+ "p538": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p538.pdf",
+  "how": "irs-pdf, continuous use (prints 2022)",
+  "revision_printed": "(Rev. January 2022)",
+  "sha256": "e2aa318b8ccaa755a0094833ebf1d0c60c59604931c1af6a4432db43309fc2f0",
+  "bytes": 1225400,
+  "fetched": "2026-10-03"
+ },
+ "p54": {
+  "url": "https://www.irs.gov/pub/irs-prior/p54--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "9546e80b796aaf505510eff4a8a9e45ef437d80681e14bdfba09e2502449ff91",
+  "bytes": 1505624,
+  "fetched": "2026-10-03"
+ },
+ "p541": {
+  "url": "https://www.irs.gov/pub/irs-prior/p541--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "21b7dfe14dd52166ddfa11c63f02ad59715ad2473aad2b5560e031b4c21c7bb4",
+  "bytes": 1403973,
+  "fetched": "2026-10-03"
+ },
+ "p544": {
+  "url": "https://www.irs.gov/pub/irs-prior/p544--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "b8282a22f637e147b6435787bf9e20db6c24d08d8124386cce75eaab05de0cfd",
+  "bytes": 1732834,
+  "fetched": "2026-10-03"
+ },
+ "p547": {
+  "url": "https://www.irs.gov/pub/irs-prior/p547--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "1389cd83618e75eb8294190fef200af688d876e6bcd850409e274dba00bd73d8",
+  "bytes": 1483922,
+  "fetched": "2026-10-03"
+ },
+ "p5477": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p5477.pdf",
+  "how": "irs-pdf, continuous use (prints 2022)",
+  "revision_printed": null,
+  "sha256": "b50cf65a314f3129243d11e38989c2d373446b83b97bac58dcd75d31a6aca2f3",
+  "bytes": 1188568,
+  "fetched": "2026-10-03"
+ },
+ "p550": {
+  "url": "https://www.irs.gov/pub/irs-prior/p550--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "83552968a07e63d1c81e5b4f311fc0e54728b5ff9654b5a0d2ba6292c5574317",
+  "bytes": 2401930,
+  "fetched": "2026-10-03"
+ },
+ "p551": {
+  "url": "https://www.irs.gov/pub/irs-prior/p551--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "0fbd4f0d37d575f95bd3dbdff09be846a2bf62e882902e02f0318739c4f904d2",
+  "bytes": 1319374,
+  "fetched": "2026-10-03"
+ },
+ "p555": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p555.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "7a1e1f3a9e10d6ea64d6724fa1e1273bce78dae0937a45096989ef8fceeb38ca",
+  "bytes": 1249339,
+  "fetched": "2026-10-03"
+ },
+ "p556": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p556.pdf",
+  "how": "irs-pdf, continuous use (prints 2013)",
+  "revision_printed": "(Rev. September 2013)",
+  "sha256": "6080aaeb1ae32c1c328e4bf46384bd98373dae0c6bfceaba16bae1f2fb2a6dc6",
+  "bytes": 1215085,
+  "fetched": "2026-10-03"
+ },
+ "p560": {
+  "url": "https://www.irs.gov/pub/irs-prior/p560--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "1f1f7abe9ba6ade003036a47b2baa6bddbeac82f81d2220abf9f704778d6809f",
+  "bytes": 1499930,
+  "fetched": "2026-10-03"
+ },
+ "p561": {
+  "url": "https://www.irs.gov/pub/irs-prior/p561--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "c51b97c8d89b027831c7a9c118c504a253e1cc0b276741dc27d34a9e292045cb",
+  "bytes": 1306311,
+  "fetched": "2026-10-03"
+ },
+ "p570": {
+  "url": "https://www.irs.gov/pub/irs-prior/p570--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "062cf0a2fbe713396661a82dbbdc4c3a2933a8714d29eec39ee44c73c29f75bd",
+  "bytes": 1556393,
+  "fetched": "2026-10-03"
+ },
+ "p571": {
+  "url": "https://www.irs.gov/pub/irs-prior/p571--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. January 2025)",
+  "sha256": "d9cb642ae46e23647d5d45eadbeff94165e7bebc3e3e7cf1efab010fc0f20602",
+  "bytes": 1377998,
+  "fetched": "2026-10-03"
+ },
+ "p5743": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p5743.pdf",
+  "how": "irs-pdf, continuous use (prints 2023)",
+  "revision_printed": "2023",
+  "sha256": "9b1afb8cce0978357579d722cce00d486f325f23cdfc88c8928f9dfe86f6d6f8",
+  "bytes": 1573271,
+  "fetched": "2026-10-03"
+ },
+ "p575": {
+  "url": "https://www.irs.gov/pub/irs-prior/p575--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "30bd37ccfcb1fe2e191abadbb38ce7cf7fcbb638e3065335436dd6025a35caa5",
+  "bytes": 1616319,
+  "fetched": "2026-10-03"
+ },
+ "p583": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p583.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "c551e158204ab8365dbedc30b144a09e971375a362e0a9b9d5db46e106f3ac3c",
+  "bytes": 1365106,
+  "fetched": "2026-10-03"
+ },
+ "p584": {
+  "url": "https://www.irs.gov/pub/irs-prior/p584--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "7a1a7b247aac764bbd82b75d308177e72d1bb1c11e37b318dd87ac9f5503c3ef",
+  "bytes": 1420986,
+  "fetched": "2026-10-03"
+ },
+ "p587": {
+  "url": "https://www.irs.gov/pub/irs-prior/p587--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "7f68de213b25a0f826b6112191fcf89e29c121865ef59c4945f8699de0a6d2af",
+  "bytes": 1482736,
+  "fetched": "2026-10-03"
+ },
+ "p590": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p590.pdf",
+  "how": "irs-pdf, continuous use (prints 2013)",
+  "revision_printed": "2013",
+  "sha256": "ba05a4401a6365686594953472fe4ff58fc6d6ee5c9f13d78e8da9554ddbf161",
+  "bytes": 2548848,
+  "fetched": "2026-10-03"
+ },
+ "p590a": {
+  "url": "https://www.irs.gov/pub/irs-prior/p590a--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "ca0e42873cfd66d2d9bfd082125d381f8a0c2f3b0a441d7d65ab5ccc06a0e1c7",
+  "bytes": 1817459,
+  "fetched": "2026-10-03"
+ },
+ "p590b": {
+  "url": "https://www.irs.gov/pub/irs-prior/p590b--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "d18a592e55ce56d43953dc338272ece3984565792d6dca06989a6ca8121f7360",
+  "bytes": 2097777,
+  "fetched": "2026-10-03"
+ },
+ "p595": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p595.pdf",
+  "how": "irs-pdf, continuous use (prints 2024)",
+  "revision_printed": "(Rev. December 2024)",
+  "sha256": "0419b4ba263d804114cc8c593b1900d6c6d1a7c23541d0c82c283a08660446fc",
+  "bytes": 247955,
+  "fetched": "2026-10-03"
+ },
+ "p596": {
+  "url": "https://www.irs.gov/pub/irs-prior/p596--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "29e8c6695912318253743210fcd68aaa10ad874c76edcab4aa7dc4b23ff51dbf",
+  "bytes": 2093863,
+  "fetched": "2026-10-03"
+ },
+ "p721": {
+  "url": "https://www.irs.gov/pub/irs-prior/p721--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "beff267280b22c86e6a9824c0391753223668eb8b80652d5656a96cd4cc48250",
+  "bytes": 1476790,
+  "fetched": "2026-10-03"
+ },
+ "p907": {
+  "url": "https://www.irs.gov/pub/irs-prior/p907--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "6b2a62fd91faaeb0c6ea16d3b80789b7be2d373dffd659351df690680e26e1e7",
+  "bytes": 1141511,
+  "fetched": "2026-10-03"
+ },
+ "p915": {
+  "url": "https://www.irs.gov/pub/irs-prior/p915--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "44c4053dab046c737e4eadff7cf8a8d23fe55d6147bde995c6055b55af6db22b",
+  "bytes": 1570254,
+  "fetched": "2026-10-03"
+ },
+ "p925": {
+  "url": "https://www.irs.gov/pub/irs-prior/p925--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2024",
+  "sha256": "dda751f07a7059488659c18d3e81afaa1463528b0951b0f8351fa16137cda5d3",
+  "bytes": 1376377,
+  "fetched": "2026-10-03"
+ },
+ "p936": {
+  "url": "https://www.irs.gov/pub/irs-prior/p936--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2017",
+  "sha256": "a4ef802b92ddd40ce2d00331b5012834dd274fd6ce74624586a1ea7dc31c32de",
+  "bytes": 1353191,
+  "fetched": "2026-10-03"
+ },
+ "p939": {
+  "url": "https://www.irs.gov/pub/irs-prior/p939--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "(Rev. December 2025)",
+  "sha256": "83bc40482e7bd7c8ef7b7f34e5e37586402143ef007ec42bc7e5cd79f65df651",
+  "bytes": 3034288,
+  "fetched": "2026-10-03"
+ },
+ "p946": {
+  "url": "https://www.irs.gov/pub/irs-prior/p946--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "07fadfb2a6ee34767d77b9a2d3a28413c4afa2d0bd2f0488fd6a4b1b9b5904c4",
+  "bytes": 2345848,
+  "fetched": "2026-10-03"
+ },
+ "p947": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p947.pdf",
+  "how": "irs-pdf, continuous use (prints 2018)",
+  "revision_printed": "(Rev. February 2018)",
+  "sha256": "6ccb185d63baee2853dfedb15c96baf4c8731fe6ff47195e7f66f86b80592848",
+  "bytes": 1394197,
+  "fetched": "2026-10-03"
+ },
+ "p966": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p966.pdf",
+  "how": "irs-pdf, revision after the tax year or unprinted \u2014 CHECK",
+  "revision_printed": null,
+  "sha256": "bd6da47d3972101f2049dd5dc7307bd8082e07651e0cfdce24aba06f6dd2f2c8",
+  "bytes": 815270,
+  "fetched": "2026-10-03"
+ },
+ "p969": {
+  "url": "https://www.irs.gov/pub/irs-prior/p969--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "d51681ecae43d517415500efe6f7dcc1bba65fed09b48d416f18d6407a5b522f",
+  "bytes": 1306073,
+  "fetched": "2026-10-03"
+ },
+ "p970": {
+  "url": "https://www.irs.gov/pub/irs-prior/p970--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "167f3d6df0d9370a3980b25b7a2e7b479ab7f336cce763d1f0c1c4962b18285e",
+  "bytes": 1935425,
+  "fetched": "2026-10-03"
+ },
+ "p971": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p971.pdf",
+  "how": "irs-pdf, continuous use (prints 2021)",
+  "revision_printed": "(Rev. December 2021)",
+  "sha256": "88ded764a86b292b8b856dd517b18b13bd81a3ff219f844e5008f9ba4884a8dc",
+  "bytes": 1239027,
+  "fetched": "2026-10-03"
+ },
+ "p974": {
+  "url": "https://www.irs.gov/pub/irs-prior/p974--2025.pdf",
+  "how": "irs-prior",
+  "revision_printed": "2025",
+  "sha256": "e17265a7ff82e0b2541dbf7bd90797bdaa1eb5678c3d23d059f42939274f0845",
+  "bytes": 1861233,
+  "fetched": "2026-10-03"
+ },
+ "p976": {
+  "url": "https://www.irs.gov/pub/irs-pdf/p976.pdf",
+  "how": "irs-pdf, continuous use (prints 2018)",
+  "revision_printed": "2018",
+  "sha256": "36bb05cf0b18803032bd9242c888f192b1b4ed250ae803638c3ef67719fb73d4",
+  "bytes": 751214,
+  "fetched": "2026-10-03"
+ }
+}

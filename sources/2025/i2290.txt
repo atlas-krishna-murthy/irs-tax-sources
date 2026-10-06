@@ -1,0 +1,1056 @@
+   Note: The form, instructions, or publication you are looking
+                for begins after this coversheet.
+                      Please review the information below.
+This July 2025 revision is for the tax period beginning on July 1, 2025, and ending on June
+30, 2026. Don’t use this revision if you need to file a return for a tax period that began on or
+before June 30, 2025. To obtain a prior revision of Form 2290 and its separate instructions,
+visit www.irs.gov/Form2290.
+
+    Nota: El formulario, las instrucciones o la publicación que
+            busca se encuentra luego de esta portada.
+                 Por favor lea la información a continuación.
+Esta revisión de julio de 2025 es para el período tributario que comienza el 1 de julio de
+2025 y termina el 30 de junio de 2026. No use esta revisión si necesita presentar una
+declaración para un período tributario que haya comenzado en o antes del 30 de junio de
+2025. Para obtener una revisión anterior del Formulario 2290 (sp) y sus instrucciones por
+separado, visite www.irs.gov/Form2290SP.
+THIS PAGE INTENTIONALLY LEFT BLANK
+Instructions for Form 2290
+(Rev. July 2025)
+Heavy Highway Vehicle Use Tax Return
+Section references are to the Internal Revenue Code unless                     Schedule 1. You should complete and file both copies of
+otherwise noted.                                                               Schedule 1. The second copy will be stamped and returned
+Contents                                                             Page      to you for use as proof of payment.
+Purpose of Form . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1      Electronic filing. Electronic filing is required for each return
+Who Must File . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2      reporting and paying tax on 25 or more vehicles that you file
+Taxable Vehicles . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2     during the tax period. Tax-suspended vehicles (designated
+                                                                               by category W) aren’t included in the electronic filing
+When To File . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+                                                                               requirement for 25 or more vehicles since you aren’t paying
+How To File . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4    tax on them. However, you are encouraged to file
+Where To File . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4    electronically regardless of the number of vehicles being
+Form 2290 Call Site . . . . . . . . . . . . . . . . . . . . . . . . . 4        reported. File Form 2290 electronically through a provider
+Penalties and Interest . . . . . . . . . . . . . . . . . . . . . . . . 4       participating in the IRS e-file program for excise taxes. Once
+                                                                               your return is accepted by the IRS, your stamped Schedule 1
+Getting Started . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4    can be available within minutes. For more information on
+    Employer Identification Number (EIN) . . . . . . . . . . 4                 e-file, visit IRS.gov/e-File-Providers/e-File-Form-2290 or visit
+    Vehicle Identification Number (VIN) . . . . . . . . . . . 4                IRS.gov/Trucker.
+    Taxable Gross Weight . . . . . . . . . . . . . . . . . . . . . 4
+Name and Address . . . . . . . . . . . . . . . . . . . . . . . . . . 5         General Instructions
+Part I. Figuring the Tax . . . . . . . . . . . . . . . . . . . . . . . . 5
+    Line 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5   Purpose of Form
+How To Pay the Tax . . . . . . . . . . . . . . . . . . . . . . . . . . 8       Use Form 2290 for the following actions.
+Schedule 1 (Form 2290) . . . . . . . . . . . . . . . . . . . . . . 9           • Figure and pay the tax due on highway motor vehicles
+    Schedule 1 (Form 2290), Consent to                                         used during the period with a taxable gross weight of 55,000
+        Disclosure of Tax Information . . . . . . . . . . . . . . 9            pounds or more.
+Third Party Designee . . . . . . . . . . . . . . . . . . . . . . . . 9         • Figure and pay the tax due on a vehicle for which you
+Signature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10   completed the suspension statement on another Form 2290
+                                                                               if that vehicle later exceeded the mileage use limit during the
+Recordkeeping . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+                                                                               period. See Suspended vehicles exceeding the mileage use
+How To Get Tax Help . . . . . . . . . . . . . . . . . . . . . . . 10           limit, later.
+Partial-Period Tax Tables (for vehicles first used                             • Figure and pay the tax due if, during the period, the taxable
+    after July of the period) . . . . . . . . . . . . . . . . . . . 15         gross weight of a vehicle increases and the vehicle falls into a
+                                                                               new category. See Line 3, later.
+Future Developments                                                            • Claim suspension from the tax when a vehicle is expected
+                                                                               to be used 5,000 miles or less (7,500 miles or less for
+For the latest information about developments related to                       agricultural vehicles) during the period.
+Form 2290 and its instructions, such as legislation enacted                    • Claim a credit for tax paid on vehicles that were destroyed,
+after they were published, go to IRS.gov/Form2290.                             stolen, sold, or used 5,000 miles or less (7,500 miles or less
+                                                                               for agricultural vehicles).
+Reminders                                                                      • Report acquisition of a used taxable vehicle for which the
+                                                                               tax has been suspended.
+Payment through credit or debit card. Form 2290 filers                         • Figure and pay the tax due on a used taxable vehicle
+are able to pay their Form 2290 tax liability with either a credit             acquired and used during the period. See Used vehicle, later.
+or debit card. See Credit or debit card under How To Pay the
+Tax, later, for more information.                                                 Use Schedule 1 (Form 2290) for the following actions.
+Schedule 1 (Form 2290)—Month of first use. Form 2290                           • To report all vehicles for which you are reporting tax
+filers must enter the month of first use in Schedule 1 to                      (including an increase in taxable gross weight) and those that
+indicate when the vehicles included in Schedule 1 were first                   you are reporting suspension of the tax by category and
+used during the tax period. See Month of first use under                       vehicle identification number (VIN).
+Schedule 1 (Form 2290), later, for more information.                           • As proof of payment to register your vehicle(s) (unless
+U.S. Customs and Border Protection. U.S. Customs and                           specifically exempted) in any state. Use the copy of Schedule
+Border Protection requires proof of payment for entering a                     1 stamped and returned to you by the IRS for this purpose.
+Canadian or Mexican vehicle into the United States. See
+                                                                                    Use Form 2290-V, Payment Voucher, to accompany your
+Proof of payment for state registration and entry into the
+                                                                               check or money order. Form 2290-V is used to credit your
+United States under Schedule 1 (Form 2290), later.
+                                                                               heavy highway vehicle use tax payment to your account. If
+                                                                               filing electronically, see How To Pay the Tax, later.
+
+                                         Instructions for Form 2290 (Rev. 7-2025) Catalog Number 27231L
+Feb 20, 2025                            Department of the Treasury Internal Revenue Service www.irs.gov
+Who Must File                                                                Logging vehicles are taxed at reduced rates. See
+                                                                      TIP Table II, later.
+You must file Form 2290 and Schedule 1 for the tax period
+beginning on July 1, 2025, and ending on June 30, 2026, if a
+taxable highway motor vehicle (defined later) is registered, or      Taxable Vehicles
+required to be registered, in your name under state, District of
+                                                                     Highway motor vehicles that have a taxable gross weight of
+Columbia, Canadian, or Mexican law at the time of its first
+                                                                     55,000 pounds or more are taxable.
+use during the tax period and the vehicle has a taxable gross
+weight of 55,000 pounds or more. See the examples under                 A highway motor vehicle includes any self-propelled
+When To File, later.                                                 vehicle designed to carry a load over public highways,
+   You may be an individual, limited liability company (LLC),        whether or not also designed to perform other functions.
+corporation, partnership, or any other type of organization          Examples of vehicles that are designed to carry a load over
+(including nonprofit, charitable, educational, etc.).                public highways include trucks, truck tractors, and buses.
+                                                                     Generally, vans, pickup trucks, panel trucks, and similar
+Disregarded entities and qualified subchapter S subsid-              trucks aren’t subject to this tax because they have a taxable
+iaries. Qualified subchapter S subsidiaries (QSubs) and              gross weight less than 55,000 pounds.
+eligible single-owner disregarded entities are treated as
+separate entities for most excise tax and reporting purposes.            A vehicle consists of a chassis, or a chassis and body, but
+QSubs and eligible single-owner disregarded entities must            doesn’t include the load. It doesn’t matter if the vehicle is
+pay and report excise taxes; register for excise tax activities;     designed to perform a highway transportation function for
+and claim any refunds, credits, and payments under the               only a particular type of load, such as passengers,
+entity’s employer identification number (EIN). These actions         furnishings, and personal effects (as in a house, office, or
+can’t take place under the owner’s taxpayer identification           utility trailer), or a special kind of cargo, goods, supplies, or
+number (TIN). Some QSubs and disregarded entities may                materials. It doesn’t matter if machinery or equipment is
+already have an EIN. However, if you are unsure, please call         specially designed (and permanently mounted) to perform
+the IRS Business and Specialty Tax line at 800-829-4933. For         some off-highway task unrelated to highway transportation
+more information on applying for an EIN, see Employer                except to the extent discussed later under Vehicles not
+Identification Number (EIN), later.                                  considered highway motor vehicles.
+   Generally, QSubs and eligible single-owner disregarded              Use means the use of a vehicle with power from its own
+entities will continue to be treated as disregarded entities for     motor on any public highway in the United States.
+other federal tax purposes (other than employment taxes).
+For more information, see Regulations section 301.7701-2(c)             A public highway is any road in the United States that
+(2)(v).                                                              isn’t a private roadway. This includes federal, state, county,
+                                                                     and city roads.
+Dual registration. If a taxable vehicle is registered in the
+                                                                       Example. You purchased your heavy truck from the
+name of both the owner and another person, the owner is
+                                                                     dealer and drove it over the public highways to your home.
+liable for the tax. This rule also applies to dual registration of
+                                                                     The drive home was your first taxable use of the vehicle.
+a leased vehicle.
+                                                                     Exemptions. The use of certain highway motor vehicles is
+Dealers. Any vehicle operated under a dealer’s tag, license,
+                                                                     exempt from the tax (and thus not required to be reported on
+or permit is considered registered in the name of the dealer.
+                                                                     a Form 2290) if certain requirements are met. The use of a
+Used vehicle. See Used vehicles and Tax computation for              highway motor vehicle isn’t subject to the tax if it is used and
+privately purchased used vehicles and required claim                 actually operated by:
+information for sold used vehicles, later.                           • The federal government;
+Logging vehicles. A vehicle qualifies as a logging vehicle if:       • The District of Columbia;
+                                                                     • A state or local government;
+    1. It is used exclusively for the transportation of products     • The American National Red Cross;
+harvested from the forested site, or it exclusively transports       • A nonprofit volunteer fire department, ambulance
+the products harvested from the forested site to and from            association, or rescue squad;
+locations on a forested site (public highways may be used            • An Indian tribal government but only if the vehicle’s use
+between the forested site locations); and                            involves the exercise of an essential tribal government
+    2. It is registered (under the laws of the state or states in    function; or
+which the vehicle is required to be registered) as a highway         • A mass transportation authority if it is created under a
+motor vehicle used exclusively in the transportation of              statute that gives it certain powers normally exercised by the
+harvested forest products. A vehicle will be considered to be        state.
+registered under the laws of a state as a highway motor                 Also exempt from tax (and thus not required to be reported
+vehicle used exclusively in the transportation of harvested          on a Form 2290) is the use of:
+forest products if the vehicle is so registered under a state        • Qualified blood collector vehicles (see below) used by
+statute or legally valid regulations. In addition, no special tag    qualified blood collector organizations; and
+or license plate identifying a vehicle as being used in the          • Mobile machinery that meets the specifications for a
+transportation of harvested forest products is required.             chassis as described under Specially designed mobile
+   Products harvested from the forested site may include             machinery for nontransportation functions, later.
+timber that has been processed for commercial use by                   Qualified blood collector vehicle. A qualified blood
+sawing into lumber, chipping, or other milling operations if the     collector vehicle is a vehicle at least 80% of the use of which
+processing occurs before transportation from the forested            during the prior tax period was by a qualified blood collector
+site.                                                                organization for the collection, storage, or transportation of
+                                                                     blood. A vehicle first placed in service in a tax period will be
+
+2                                                                                         Instructions for Form 2290 (Rev. 7-2025)
+treated as a qualified blood collector vehicle for the tax period   the public highway by driving it home from the dealership
+if the qualified blood collector organization certifies that the    after purchasing it in November. Trucker A must file another
+organization reasonably expects at least 80% of the use of          Form 2290 reporting the new vehicle by December 31, 2025,
+the vehicle by the organization during the tax period will be in    for the period beginning November 1, 2025, through June 30,
+the collection, storage, or transportation of blood.                2026. To figure the tax, Trucker A would use Table I.
+Vehicles not considered highway motor vehicles.                        Example 3. Trucker A first uses vehicles on the public
+Generally, the following kinds of vehicles aren’t considered        highway in July and August. The vehicles are required to be
+highway vehicles.                                                   registered in Trucker A’s name. Trucker A must report the
+    1. Specially designed mobile machinery for                      vehicles first used in July by September 2, 2025, and the
+nontransportation functions. A self-propelled vehicle isn’t         vehicles first used in August on a separate return filed by
+a highway vehicle if all the following apply.                       September 30, 2025. Because August 31, 2025, falls on a
+                                                                    Sunday, Trucker A doesn't have to file until the next business
+    a. The chassis has permanently mounted to it machinery          day, September 2, 2025.
+or equipment used to perform certain operations
+(construction, manufacturing, drilling, mining, timbering,
+                                                                                                                                              and enter
+processing, farming, or similar operations) if the operation of
+                                                                         IF, in this period, the                                             this date on
+the machinery or equipment is unrelated to transportation on              vehicle is first used         THEN, file Form 2290 and             Form 2290,
+or off the public highways.                                                      during...              make your payment by...*                line 1**
+    b. The chassis has been specially designed to serve only
+                                                                     July 2025                          September 2, 2025                       202507
+as a mobile carriage and mount (and power source, if
+applicable) for the machinery or equipment, whether or not           August 2025                        September 30, 2025                      202508
+the machinery or equipment is in operation.                          September 2025                     October 31, 2025                        202509
+    c. The chassis couldn’t, because of its special design           October 2025                       December 1, 2025                        202510
+and without substantial structural modification, be used as
+part of a vehicle designed to carry any other load.                  November 2025                      December 31, 2025                       202511
+
+    2. Vehicles specially designed for off-highway                   December 2025                      February 2, 2026                        202512
+transportation. A vehicle isn’t treated as a highway vehicle if      January 2026                       March 2, 2026                           202601
+the vehicle is specially designed for the primary function of        February 2026                      March 31, 2026                          202602
+transporting a particular type of load other than over the
+public highway and because of this special design, the               March 2026                         April 30, 2026                          202603
+vehicle’s capability to transport a load over a public highway       April 2026                         June 1, 2026                            202604
+is substantially limited or impaired.
+                                                                     May 2026                           June 30, 2026                           202605
+    To make this determination, you can take into account the
+                                                                     June 2026                          July 31, 2026                           202606
+vehicle’s size; whether the vehicle is subject to licensing,
+safety, or other requirements; and whether the vehicle can           *
+                                                                       File by this date regardless of when the state registration for the vehicle is due. If
+transport a load at a sustained speed of at least 25 miles per       any due date falls on a Saturday, Sunday, or legal holiday, file by the next business
+                                                                     day.
+hour. It doesn’t matter that the vehicle can carry heavier loads     **
+                                                                        This date may not apply for privately purchased used vehicles. See Tax
+off highway than it is allowed to carry over the highway.
+                                                                     computation for privately purchased used vehicles and required claim information
+
+When To File                                                         for sold used vehicles, later.
+
+Form 2290 must be filed for the month the taxable vehicle is
+first used on public highways during the current period. The                The filing deadline isn’t tied to the vehicle registration
+current period begins July 1, 2025, and ends June 30, 2026.                 date. Regardless of the vehicle’s registration renewal
+Form 2290 must be filed by the last day of the month                     !
+                                                                    CAUTION date, you must file Form 2290 by the last day of the
+following the month of first use (as shown in the chart, later).    month following the month in which you first use the vehicle
+Note. If any due date falls on a Saturday, Sunday, or legal         on a public highway during the tax period.
+holiday, file by the next business day.
+   If you first use multiple vehicles in more than 1 month, then    Extension of time to file. Before the due date of the return,
+a separate Form 2290 must be filed for each month, as               you may request an extension of time to file your return by
+shown in Example 3, later.                                          writing to:
+
+   The filing rules apply whether you are paying the tax or                  Internal Revenue Service
+reporting suspension of the tax. The following examples                      7940 Kentucky Drive
+demonstrate these rules.                                                     Florence, KY 41042-2915
+
+   Example 1. Trucker A uses a taxable vehicle on a public             In your letter, you must fully explain the cause of the delay.
+highway by driving it home from the dealership on July 2,           Except for taxpayers abroad, the extension may be for no
+2025, after purchasing it. The vehicle is required to be            more than 6 months. An extension of time to file doesn’t
+registered in Trucker A’s name. Trucker A must file Form 2290       extend the time to pay the tax. If you want an extension of
+by September 2, 2025, for the period beginning July 1, 2025,        time to pay, you must request that separately.
+through June 30, 2026. To figure the tax, Trucker A would use
+the amounts on Form 2290, page 2, column (1).
+   Example 2. Trucker A purchases a new taxable vehicle
+on November 3, 2025. The vehicle is required to be
+registered in Trucker A’s name. The vehicle is first used on
+
+Instructions for Form 2290 (Rev. 7-2025)                                                                                                                        3
+How To File                                                          Form 2290 Call Site
+         Electronic filing is required for each return reporting     You can get immediate help with your Form 2290 questions
+         and paying tax on 25 or more vehicles.                      by calling the Form 2290 call site. The hours of operation are
+    !
+CAUTION Tax-suspended vehicles (designated by category W)
+                                                                     Monday–Friday, 8:00 a.m. to 6:00 p.m., Eastern time.
+aren’t included in the electronic filing requirement for 25 or
+more vehicles because you aren’t paying tax on them.                  IF you are calling from...       THEN use...
+However, all taxpayers are encouraged to file electronically.
+                                                                      the United States                 866-699-4096 (toll free).
+Electronic filing generally allows for quicker processing of
+your return. A stamped Schedule 1 can be available within             Canada or Mexico                  859-320-3581 (not toll free).
+minutes after filing and acceptance by the IRS.
+
+Electronically. File Form 2290 electronically through any               The assistor will have access to your Form 2290 account
+electronic return originator (ERO), transmitter, and/or              information. Spanish-speaking assistors are available. Have
+intermediate service provider (ISP) participating in the IRS         your Form 2290 and information about your filing available
+e-file program for excise taxes. For more information on e-file,     when you call. For help with other returns filed, taxes paid,
+visit the IRS website at IRS.gov/e-File-Providers/e-File-            etc., visit IRS.gov/Help/Tax-Law-Questions for individual
+Form-2290 or visit IRS.gov/Trucker.                                  returns or call 800-829-4933 for business returns.
+Paper. Mail Form 2290 to the address shown under Where
+To File next. If you didn’t pay the tax using the Electronic
+                                                                     Penalties and Interest
+Federal Tax Payment System (EFTPS) or using a credit or              If you receive a penalty for filing your return late or paying
+debit card, mail Form 2290-V and your check or money order           your tax late and believe you have reasonable cause for
+with Form 2290. For more information on payments, see How            doing so, send a letter to the IRS explaining why you believe
+To Pay the Tax, later.                                               you have reasonable cause for filing late or paying late.
+                                                                     Alternatively, you may visit IRS.gov/PenaltyRelief for more
+Where To File                                                        information on how to request penalty relief, or call the
+If you are filing a paper return, mail Form 2290 to:                 number on the notice you received from the IRS informing
+                                                                     you of the penalty and/or interest assessed. Don’t attach an
+                                                                     explanation when you file your return.
+ Form 2290 with full payment and         Internal Revenue Service
+ that payment is not drawn from an                P.O. Box 932500
+ international financial institution    Louisville, KY 40293-2500
+                                                                     Specific Instructions
+ Form 2290 without payment due
+ or if payment is made through
+                                       Department of the Treasury
+                                        Internal Revenue Service
+                                                                     Getting Started
+ EFTPS or by credit/debit card            Ogden, UT 84201-0031       To complete Form 2290, have the following information
+                                                                     available.
+ Form 2290 with a check or               Internal Revenue Service        1. Your employer identification number (EIN). You must
+ money order drawn from an                  International Accounts   have an EIN to file Form 2290. You can’t use your social
+ international financial institution       1973 Rulon White Blvd.    security number.
+                                           Ogden, UT 84201-0038
+                                                                         2. The vehicle identification number (VIN) of each
+                                                                     vehicle.
+See When To File, earlier, to determine the due date of your             3. The taxable gross weight of each vehicle to determine
+return.                                                              its category.
+        If you are using or sending a payment that is drawn
+        from an international financial institution, see
+                                                                     Employer Identification Number (EIN)
+    !
+CAUTION International payments, later.                               Enter the correct EIN. If you don’t have an EIN, apply for one
+                                                                     online at IRS.gov/EIN. Only persons with an address in a
+                                                                     foreign country, for example, Canada, may apply for an EIN
+Private Delivery Services                                            by calling 267-941-1099 (not a toll-free call). You may also
+You can use certain private delivery services (PDSs)                 apply for an EIN by faxing or mailing Form SS-4, Application
+designated by the IRS to meet the “timely mailing as timely          for Employer Identification Number, to the IRS.
+filing/paying” rule for tax returns and payments. Go to
+IRS.gov/PDS for the current list of designated services. If you      Vehicle Identification Number (VIN)
+are using a PDS, use the address for the Ogden Processing            The VIN of your vehicle can be obtained from the registration,
+Center found at IRS.gov/PDSstreetAddresses.                          title, or actual vehicle. Generally, the VIN is 17 characters
+  The PDS can tell you how to get written proof of the               made up of numbers and letters. Be sure to use the VIN for
+mailing date.                                                        the vehicle and not from the trailer.
+        PDSs can’t deliver items to P.O. boxes. You must use         Taxable Gross Weight
+    !   the U.S. Postal Service to mail any item to an IRS
+CAUTION P.O. box address.
+                                                                     The taxable gross weight of a vehicle (other than a bus) is the
+                                                                     total of:
+                                                                        1. The actual unloaded weight of the vehicle fully
+                                                                     equipped for service,
+
+
+
+4                                                                                            Instructions for Form 2290 (Rev. 7-2025)
+   2. The actual unloaded weight of any trailers or                    3. At more than the weight at which it is registered in the
+semitrailers fully equipped for service customarily used in         state.
+combination with the vehicle, and
+                                                                       However, special temporary travel permits don’t include
+   3. The weight of the maximum load customarily carried            permits that are issued for your vehicle if the total amount of
+on the vehicle and on any trailers or semitrailers customarily      time covered by those permits is more than 60 days or (if
+used in combination with the vehicle.                               issued on a monthly basis) more than 2 months during a tax
+  Actual unloaded weight of a vehicle is the empty (tare)           year.
+weight of the vehicle fully equipped for service.
+                                                                    Name and Address
+    A trailer or semitrailer is treated as customarily used in      Enter your name and address. Include the suite, room, or
+connection with a vehicle if the vehicle is equipped to tow the     other unit number after the street address. If your address
+trailer or semitrailer.                                             has changed, check the Address Change box on Form 2290.
+    Fully equipped for service includes the body (whether           P.O. box. If the post office doesn’t deliver mail to the street
+or not designed for transporting cargo, such as a concrete          address and you have a P.O. box, show the box number
+mixer); all accessories; all equipment attached to or carried       instead of the street address.
+on the vehicle for use in its operation or maintenance; and a
+full supply of fuel, oil, and water. For buses, this includes       Canadian or Mexican address. Follow the country’s
+equipment for the accommodation of passengers or others             practice for entering the postal code. Don’t abbreviate the
+(such as air conditioning equipment and sanitation facilities,      country name.
+etc.). The term doesn’t include the driver; any equipment (not      Final return. If you no longer have vehicles to report, file a
+including the body) mounted on, or attached to, the vehicle,        final return. Check the Final Return box on Form 2290, sign
+for use in handling, protecting, or preserving cargo; or any        the return, and mail it to the IRS.
+special equipment (such as an air compressor, crane, or
+                                                                    Amended return. Check the Amended Return box only if
+specialized oilfield equipment).
+                                                                    reporting (a) additional tax from an increase in taxable gross
+                                                                    vehicle weight, or (b) suspended vehicles exceeding the
+Buses                                                               mileage use limit. Don’t check the box for any other reason.
+                                                                    For more information, see Line 3 or Suspended vehicles
+The taxable gross weight of a bus is its actual unloaded            exceeding the mileage use limit, later.
+weight fully equipped for service plus 150 pounds for each
+seat provided for passengers and driver.                            VIN correction. Check the VIN Correction box if you are
+                                                                    correcting a VIN listed on a previously filed Schedule 1 (Form
+Determining Taxable Gross Weight                                    2290). List the corrected VIN or VINs on Schedule 1. Be sure
+                                                                    to use the Form 2290 for the tax period you are correcting.
+        The weight declared for registering a vehicle in a          Attach a statement with an explanation for the VIN
+  !     state may affect the taxable gross weight used to           correction. Don’t check this box for any other reason.
+CAUTION figure the tax.
+                                                                    Part I. Figuring the Tax
+State registration by specific gross weight. If the vehicle
+is registered in any state that requires a declaration of gross     Line 1
+weight in a specific amount, including proportional or              Enter the date for the month of first use during the tax period.
+prorated registration or payment of any other fees or taxes,        See the chart under When To File, earlier, for the
+then the vehicle’s taxable gross weight must be no less than        corresponding date and format.
+the highest gross weight declared for the vehicle in any state.
+If the vehicle is a tractor-trailer or truck-trailer combination,      For used vehicles purchased from a private seller during
+the taxable gross weight must be no less than the highest           the period, see Used vehicles, later.
+combined gross weight declared.
+                                                                    Line 2
+State registration by gross weight category. If the
+                                                                    To figure the tax on line 2, complete the Tax Computation
+vehicle is registered in any state that requires vehicles to be
+                                                                    table on Form 2290, page 2. Don’t use line 2 to report
+registered on the basis of gross weight, and the vehicle isn’t
+                                                                    additional tax from an increase in taxable gross weight.
+registered in any state that requires a declaration of specific
+                                                                    Instead, report the additional tax on line 3.
+gross weight, then the vehicle’s taxable gross weight must fall
+within the highest gross weight category for which the vehicle      Column (1)—Annual tax. Use the tax amounts listed in
+is registered in that state.                                        column (1)(a) for a vehicle used during July.
+State registration by actual unloaded weight. If the                   Logging vehicles. Use the tax amounts listed in column
+vehicle is registered only in a state or states that base           (1)(b) for logging vehicles used in July. For more information
+registration on actual unloaded weight, then the taxable gross      on these vehicles, see Logging vehicles under Who Must
+weight is the total of the three items listed under Taxable         File, earlier.
+Gross Weight, earlier.                                              Column (2)—Partial-period tax. For used vehicles
+Special permits. In determining a vehicle’s taxable gross           purchased from a private seller during the period, see Used
+weight, don’t consider weights declared to obtain special           vehicles, later. For all other vehicles, if the vehicle is first used
+temporary travel permits. These are permits that allow a            after July, the tax is based on the number of months
+vehicle to operate:                                                 remaining in the period. See Table I (Table II for logging
+                                                                    vehicles) for the partial-period tax table. Enter the tax in
+   1. In a state in which it isn’t registered,                      column (2)(a) for the applicable category; use column (2)(b)
+   2. At more than a state’s maximum weight limit, or               for logging vehicles.
+
+Instructions for Form 2290 (Rev. 7-2025)                                                                                               5
+  Used vehicles. If you acquire and register or are required               Full tax period tax: $550
+to register a used taxable vehicle in your name during the tax
+period, you must keep as part of your records proof showing                Numerator: 9 (number of months from October through
+whether there was a use of the vehicle or a suspension of the              June)
+tax during the period before the vehicle was registered in your            Denominator: 12 (full 12-month tax period, July through
+name. The evidence may be a written statement signed and                   June)
+dated by the person (or dealer) from whom you purchased                    Prorated tax: 9/12 of $550 = $412.50
+the vehicle.                                                               John should enter “202510” on line 1 and $412.50 in
+   Tax computation for privately purchased used                            column (2)(a) on the category V line.
+vehicles and required claim information for sold used
+vehicles.
+    1. For vehicles purchased from a seller who has paid the                Logging vehicles. For logging vehicles, see Table II for
+tax for the current period: If a vehicle is purchased on or after         the partial-period tax table. Enter the tax in column (2)(b) for
+July 1, 2025, but before June 1, 2026, and the buyer’s first              the applicable category.
+use (such as driving it from the purchase location to the
+buyer’s home or business location) is in the month of sale,               Column (3)—Number of vehicles. Enter the number of
+the buyer’s total tax for the tax period doesn’t include the tax          vehicles for categories A–V in the applicable column. Add the
+for the month of sale.                                                    number of vehicles in columns (3)(a) and (3)(b), categories
+Note. The due date of Form 2290 doesn’t change. The                       A–V, and enter the combined number on the total line in
+buyer should enter the month after the sale on Form 2290,                 column (3). For category W, enter the number of suspended
+line 1 (Example: November 2025 is entered as “202511”).                   vehicles in the applicable column.
+    2. If a vehicle is sold, the name and address of the                  Column (4)—Amount of tax. Multiply the applicable tax
+purchaser (along with previously required information) must               amount times the number of vehicles. Add all amounts in a
+be included with the seller’s claim for a credit or refund of tax         category and enter the result in column (4). Then, add the tax
+paid for the remaining months of the current period.                      amounts in column (4) for categories A–V, and enter the total
+                                                                          tax amount.
+   For vehicle purchases from a seller who has paid the
+tax for the current period: Buyer’s tax computation for a                 Line 3
+used vehicle privately purchased on or after July 1,                      Complete line 3 only if the taxable gross weight of a vehicle
+2025, but before June 1, 2026, when the buyer’s first                     increases during the period and the vehicle falls in a new
+use is in the month of sale. The tax on the buyer’s use of a              category. For instance, an increase in maximum load
+vehicle after the purchase is prorated by multiplying a full tax          customarily carried may change the taxable gross weight.
+period’s tax by a fraction.
+    1. The numerator is the number of months in the period                   Report the additional tax for the remainder of the period on
+from the first day of the month after the month of sale through           Form 2290, line 3. Don’t report any tax on line 2 unless other
+the end of the tax period.                                                taxable vehicles are being reported in addition to the
+                                                                          vehicle(s) with the increased taxable gross weight. Check the
+    2. The denominator is the number of months in the entire              Amended Return box and to the right of “Amended Return”
+tax period.                                                               write the month the taxable gross weight increased. File Form
+                                                                          2290 and Schedule 1 by the last day of the month following
+ The buyer MUST also do the following.                                    the month in which the taxable gross weight increased.
+ • Determine that the seller has paid the tax for the current period. A      Figure the additional tax using the following worksheet.
+ copy of the seller’s stamped Schedule 1 is one way to make this
+ determination.
+                                                                          Attach a copy of the worksheet for each vehicle.
+ • Enter the month after the sale on line 1.
+ • Enter the prorated tax in column (2) of page 2.                         1.       Enter the month the taxable gross weight increased.
+                                                                                    Enter the month here and in the space next to the
+                                                                                    Amended Return box on Form 2290, page 1 . . . .
+                                                                           2.       From Form 2290, page 2, determine the new taxable
+    Example. On July 2, 2025, Linda paid the full tax period
+                                                                                    gross weight category. Next, go to the Partial-Period
+tax of $550 for the use of her 80,000-pound taxable gross
+                                                                                    Tax Tables, later. Find the month entered on line 1
+weight vehicle. John purchased the used truck from Linda on                         above. Read down the column to the new category;
+September 9, 2025, and drove it on the public highway from                          this is the new tax. Enter the amount here . . . . . .      $
+Linda’s home to his own home the next day. Linda, the seller,              3.       On the Partial-Period Tax Tables, later, find the tax
+can claim a credit or refund of the tax she paid for the 9                          under that month for the previous category reported.
+months after the sale. Because of that, and that John’s first                       Enter the amount here . . . . . . . . . . . . . . . . . .   $
+taxable use was to drive the truck to his home in the month of             4.       Additional tax. Subtract line 3 from line 2. Enter the
+sale (September), his prorated tax is figured from the first day                    additional tax here and on Form 2290, line 3 . . . .        $
+of the next month (October) through the end of the tax period,
+June 30, 2026. The due date of John’s Form 2290 doesn’t
+change, so he must file by October 31, 2025.                                       If the increase in taxable gross weight occurs in July
+                                                                                !  after you have filed your return, use the amounts on
+                                                                           CAUTION Form 2290, page 2, for the new category instead of
+
+                                                                          the Partial-Period Tax Tables.
+
+
+
+
+6                                                                                                      Instructions for Form 2290 (Rev. 7-2025)
+Line 5                                                                   claimed on the next Form 2290 filed or a refund of tax paid
+Complete line 5 only if you are claiming a credit for tax paid           can be claimed on Form 8849.
+on a vehicle that was:                                                       For a vehicle that was used 5,000 miles or less (7,500
+• Sold before June 1 and not used during the remainder of                miles or less for agricultural vehicles) during the period, a
+the period,                                                              credit for tax paid can be claimed on the first Form 2290 filed
+• Destroyed (so damaged by accident or other casualty it                 for the next period. Likewise, a refund for tax paid can’t be
+isn’t economical to rebuild it) or stolen before June 1 and not          claimed on Form 8849 until the end of the Form 2290 tax
+used during the remainder of the period, or                              period. For example, if the tax was paid for the period July 1,
+• Used during the prior period 5,000 miles or less (7,500                2025, through June 30, 2026, for a vehicle used 5,000 miles
+miles or less for agricultural vehicles).                                or less during the period, a credit on Form 2290 (or refund on
+                                                                         Form 8849) can’t be claimed until after June 30, 2026.
+   A credit, lower tax, exemption, or refund isn’t allowed for
+an occasional light or decreased load or a discontinued or               Part II. Statement in Support of
+changed use of the vehicle.                                              Suspension
+   The amount claimed on line 5 can’t exceed the tax                               Electronic filing is required for each return reporting
+reported on line 4. Any excess credit must be claimed as a                         and paying tax on 25 or more vehicles that you file
+refund using Form 8849, Claim for Refund of Excise Taxes,                  !
+                                                                          CAUTION during the tax period. Tax-suspended vehicles
+and Schedule 6 (Form 8849), Other Claims. Also use                       (designated by category W) aren’t included in the electronic
+Schedule 6 (Form 8849) to make a claim for an overpayment                filing requirement for 25 or more vehicles because you aren’t
+due to a mistake in tax liability previously reported on Form            paying tax on them. However, you are encouraged to file
+2290. See When to make a claim, later.                                   electronically regardless of the number of vehicles being
+Information to be submitted. On a separate sheet of                      reported. File Form 2290 electronically through a provider
+paper, provide an explanation detailing the facts for each               participating in the IRS e-file program for excise taxes. Once
+credit.                                                                  your return is accepted by the IRS, your stamped Schedule 1
+   For vehicles destroyed, stolen, or sold, include:                     can be available within minutes.
+   1. The VIN;
+                                                                         Line 7
+   2. The taxable gross weight category;
+                                                                         Complete line 7 to suspend the tax on vehicles expected to
+   3. The date of destruction, theft, or sale;                           be used less than the mileage use limit during a period.
+   4. A copy of the worksheet under Figuring the credit
+below; and                                                                  You must also:
+   5. If the vehicle was sold on or after July 1, 2015, the              • List the vehicles on which the tax is suspended on
+name and address of the purchaser of the vehicle.                        Schedule 1 (see Schedule 1 (Form 2290), later); and
+                                                                         • Count the number of tax-suspended vehicles (designated
+          Your claim for credit may be disallowed if you don’t           by category W) listed on Schedule 1, Part I, and enter the
+   !      provide all of the required information.                       number on Schedule 1, Part II, line b.
+CAUTION
+
+  Figuring the credit. Figure the number of months of use                Line 8
+and find the taxable gross weight category of the vehicle                You must verify that vehicles listed as suspended on the
+before you complete the worksheet below. To figure the                   Form 2290 for the prior tax period and used 5,000 miles or
+number of months of use, start counting from the first day of            less (7,500 miles or less for agricultural vehicles) were not
+the month in the period in which the vehicle was first used to           subject to the tax for that period. To verify that vehicles listed
+the last day of the month in which it was destroyed, stolen, or          as suspended in the prior period did not exceed the mileage
+sold. Find the number of months of use in the Partial-Period             use limit, except for any vehicles listed on line 8b, check
+Tax Tables, later (the number of months is shown in                      box 8a.
+parentheses at the top of the table next to each month).
+                                                                             If you checked box 8a and vehicles that you previously
+ 1. For the vehicle that was destroyed, stolen, or sold,                 listed as suspended on the prior tax period’s Form 2290
+    enter the tax previously reported on Form 2290,                      exceeded the mileage use limit, you must list on line 8b the
+    line 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . .   $   VINs of the vehicles listed as suspended in the prior period
+ 2. Partial-period tax. On the Partial-Period Tax Tables,                and then used for 5,000 miles or more during the period
+    later, find where the taxable gross weight category                  (7,500 miles or more for agricultural vehicles). You must
+    and months of use meet and enter the tax here . .                $   report the tax for these vehicles on a separate Form 2290 for
+ 3. Credit. Subtract line 2 from line 1. Enter here and on               the prior tax period and pay the tax. For more information,
+    Form 2290, line 5 . . . . . . . . . . . . . . . . . . . . .      $   see Suspended vehicles exceeding the mileage use limit,
+                                                                         later. Attach a separate sheet if needed to list the VINs for
+                                                                         line 8b.
+   The credit for each vehicle must be calculated separately.
+Vehicle used less than the mileage use limit. If the tax                 Line 9
+has been paid for a period on a vehicle that is used 5,000               If in the prior period, Form 2290, line 7, was completed and
+miles or less (7,500 miles or less for agricultural vehicles), the       the tax-suspended vehicles were sold or otherwise
+person who paid the tax may make a claim for the credit.                 transferred, complete line 9.
+When to make a claim. For a vehicle that was destroyed,                  Sales. If you sell a vehicle while under suspension, a
+stolen, or sold before June 1, a credit for tax paid can be              statement must be given to the buyer and must show:
+
+Instructions for Form 2290 (Rev. 7-2025)                                                                                                      7
+• The seller’s name, address, and EIN;                                  Example. Juice extracted from fruits or vegetables isn’t a
+• VIN;                                                              farm commodity for purposes of the suspension of tax on
+• Date of the sale;                                                 agricultural vehicles.
+• Odometer reading at the beginning of the period;                      A vehicle is considered used for farming purposes if it is
+• Odometer reading at the time of sale; and                         used in an activity that contributes to direct agricultural
+• The buyer’s name, address, and EIN.                               production or in any way to the conduct of a farm. Activities
+The buyer must attach this statement to Form 2290 and file          that qualify include cultivating the soil, raising or harvesting
+the return by the date shown in the table under When To File,       any agricultural or horticultural commodity, clearing land,
+earlier.                                                            repairing fences and farm buildings, building terraces or
+   If, after the sale, the use of the vehicle exceeds the           irrigation ditches, cleaning tools or farm machinery, and
+mileage use limit (including the highway mileage recorded on        painting. But a vehicle will not be considered used for farming
+the vehicle by the former owner) for the period, and the            purposes if used in connection with operations such as
+former owner has provided the required statement, the new           canning, freezing, packaging, or other processing operations.
+owner is liable for the tax on the vehicle. If the former owner
+hasn’t furnished the required statement to the new owner, the
+former owner is also liable for the tax for that period. See
+                                                                    How To Pay the Tax
+Suspended vehicles exceeding the mileage use limit below.           There are four methods to pay the tax.
+Also see Used vehicles, earlier.                                    • Electronic funds withdrawal (direct debit) if filing
+                                                                    electronically.
+Suspended vehicles exceeding the mileage use limit.                 • Electronic Federal Tax Payment System (EFTPS).
+Once a suspended vehicle exceeds the mileage use limit, the         • Credit or debit card payment.
+tax becomes due. Mileage use limit means the use of a               • Check or money order using the payment voucher.
+vehicle on public highways 5,000 miles or less (7,500 miles
+or less for agricultural vehicles). The mileage use limit applies      You must pay the tax in full with your Form 2290.
+to the total mileage a vehicle is used during a period,             Electronic funds withdrawal (direct debit). If you are
+regardless of the number of owners.                                 filing Form 2290 electronically, you can authorize a direct
+    Figure the tax on Form 2290, page 2, based on the month         debit to make your payment. For more information on e-file,
+the vehicle was first used in the tax period. Report the tax on     visit the IRS website at IRS.gov/e-File-Providers/e-File-
+Form 2290, line 2. Check the Amended Return box on page 1           Form-2290.
+and to the right of “Amended Return” write the month in which            If you make your payment using direct debit, don’t include
+the mileage use limit was exceeded. Don’t complete Form             the payment voucher.
+2290, Part II, unless you are reporting other tax-suspended
+vehicles (designated by category W) in addition to the              Electronic Federal Tax Payment System (EFTPS). Using
+previously tax-suspended vehicle(s) that exceeded the               EFTPS is voluntary, but you must enroll in EFTPS before you
+mileage use limit. File the amended Form 2290 and Schedule          can use it. To get more information or to enroll in EFTPS, visit
+1 by the last day of the month following the month in which         the EFTPS website at EFTPS.gov or call 800-555-4477 (24
+the mileage use limit was exceeded.                                 hours a day, 7 days a week).
+                                                                       If you make your payment using EFTPS, don’t include the
+Agricultural vehicles. An agricultural vehicle is any
+                                                                    payment voucher and make sure to check the EFTPS box on
+highway motor vehicle that is:
+                                                                    line 6 of Form 2290. If filing a paper Form 2290, mail Form
+   1. Used (or expected to be used) primarily for farming           2290 to the address for filing returns without payment due
+purposes, and                                                       under Where To File, earlier.
+   2. Registered (under state laws) as a highway motor
+                                                                              EFTPS does not process payments from
+vehicle used for farming purposes for the entire period. A
+                                                                      !       international financial institutions. For checks or
+special tag or license plate identifying the vehicle as used for     CAUTION money orders drawn from an international financial
+farming isn’t required for it to be considered an agricultural
+                                                                    institution, see International payments under Check or money
+vehicle.
+                                                                    order, later.
+   A vehicle is used primarily for farming purposes if more           Paying on time. For EFTPS payments to be on time, you
+than half of the vehicle’s use (based on mileage) during the        must submit the payment by 8:00 p.m. Eastern time the day
+period is for farming purposes (defined below).                     before the date the payment is due.
+   Don’t take into account the number of miles the vehicle is
+used on the farm when determining if the 7,500-mile limit on        Credit or debit card. To pay with a credit or debit card, go
+the public highways has been exceeded. Keep accurate                to IRS.gov/PayByCard. A convenience fee is charged by
+records of the miles that a vehicle is used on a farm.              these service providers.
+   Farming purposes means the transporting of any farm                  If you make your payment using a credit or debit card,
+commodity to or from a farm, or the use directly in agricultural    don’t include the payment voucher and make sure to check
+production.                                                         the Credit or debit card box on line 6 of Form 2290. If filing a
+                                                                    paper Form 2290, mail Form 2290 to the address for filing
+   Farm commodity means any agricultural or horticultural           returns without payment due under Where To File, earlier.
+commodity, feed, seed, fertilizer, livestock, bees, poultry,
+fur-bearing animals, or wildlife. A farm commodity doesn’t          Check or money order. If you use this method, you must
+include a commodity that has been changed by a processing           also complete the payment voucher. See Payment voucher,
+operation from its raw or natural state.                            later.
+                                                                    • Don’t send cash. Make your check or money order payable
+                                                                    to “United States Treasury.” Write your name, address, EIN,
+
+
+8                                                                                        Instructions for Form 2290 (Rev. 7-2025)
+“Form 2290,” and the date (as entered in box 3 of the            Proof of payment for state registration and entry into
+payment voucher) on your payment.                                the United States. Generally, states will require verification
+• Detach the voucher and send it with the Form 2290, both        of payment of the tax for any taxable vehicle before they will
+copies of Schedule 1, and your payment. If you filed             register the vehicle. Use the stamped copy of Schedule 1 as
+electronically, don’t send Form 2290 and Schedule 1 with the     proof of payment when registering vehicles with the state.
+payment voucher. See Where To File, earlier.
+                                                                     U.S. Customs and Border Protection also requires this
+• Don’t staple your payment to the voucher or Form 2290.         proof of payment for entering a Canadian or Mexican vehicle
+  International payments. If you are sending a check or
+                                                                 into the United States.
+money order drawn from an international financial institution,
+see Where To File, earlier.                                          If you don’t have the stamped copy, you may use a
+                                                                 photocopy of the Form 2290 (with the Schedule 1 attached)
+        If you are using a PDS, use the address of the Ogden     filed with the IRS and a photocopy of both sides of the
+  !     Processing Center found at IRS.gov/                      canceled check as proof of payment.
+CAUTION PDSstreetAddresses.
+                                                                 Note. If the state receives your application for registration of
+  Payment voucher. Complete Form 2290-V, Payment                 your highway motor vehicle during the months of July,
+Voucher. If you have your Form 2290 prepared by a third          August, or September, you may provide the immediately
+party, provide this payment voucher to the return preparer.      previous tax period’s approved Schedule 1 that was returned
+Box 1. Enter your EIN. If you don’t have an EIN, see             to you by the IRS as proof of payment. Remember to file
+Employer Identification Number (EIN), earlier.                   Form 2290 for the current period by the due date of the
+                                                                 return. See Regulations section 41.6001-2(b)(4).
+Box 2. Enter the amount you are paying with Form 2290.
+                                                                    No proof of payment is required for a recently purchased
+Box 3. Enter the same date that you entered on Form 2290,        new or used vehicle if you present the state a copy of the bill
+Part I, line 1.                                                  of sale showing that the vehicle was purchased within the last
+Box 4. Enter your name and address exactly as shown on           60 days. However, you must file a return and pay any tax due.
+Form 2290. Print your name clearly.                              See When To File, earlier.
+                                                                     A limited number of states have agreed to participate in an
+Schedule 1 (Form 2290)                                           alternate proof of payment program with the IRS. In those
+                                                                 states, the Department of Motor Vehicles (DMV) may forward
+Complete and file both copies of Schedule 1. The second          your return to the IRS if certain requirements are met. If you
+copy will be stamped and returned to you for use as proof of     give your Form 2290 (with voucher and payment) to your
+payment. Your return may be rejected if Schedule 1 isn’t         DMV to be forwarded to the IRS, no further proof of payment
+attached to Form 2290.                                           is needed to register your vehicle. Contact your local DMV to
+   E-file. If Form 2290 is filed electronically, a copy of       see if your state participates in this program.
+Schedule 1 with an IRS watermark will be sent to the ERO,
+transmitter, and/or ISP electronically. Ask the ERO,                If you give the DMV your Form 2290 to forward, your return
+transmitter, and/or ISP for the original electronic copy of      isn’t considered filed until the IRS receives it. You are
+Schedule 1.                                                      responsible for any penalties or interest if the return is filed
+                                                                 late or lost by the DMV.
+Note. If you want a copy of a prior-period Schedule 1
+returned, you must send a written request to:                    Schedule 1 (Form 2290), Consent to Disclosure
+                                                                 of Tax Information
+      Internal Revenue Service                                   The IRS will share information reported on Form 2290 and
+      7940 Kentucky Drive                                        Schedule 1. The information shared includes the VINs for all
+      Florence, KY 41042-2915                                    vehicles reported on Schedule 1 and verification that you
+                                                                 paid the tax reported on Form 2290, line 6. This information
+Name and address. Enter your name and address on                 will be shared with the Department of Transportation, U.S.
+Schedule 1 exactly as shown on Form 2290. See Name and           Customs and Border Protection, and state DMVs. The IRS
+Address, earlier. Make sure the EIN is also the same as that     needs your consent to release this information. If you agree
+entered on page 1 of Form 2290.                                  to have the information released, please sign and date the
+  Month of first use. Enter the same date as that entered        consent.
+on Form 2290, Part I, line 1, in the space for Month of first
+use.                                                             Third Party Designee
+Part I. Enter by category the VIN of each vehicle for which      If you want to allow an employee of your business, a return
+you are reporting tax. Failure to include the full VIN may       preparer, or other third party to discuss your Form 2290 with
+prevent you from registering your vehicle with the state.        the IRS, check the Yes box in the Third Party Designee
+                                                                 section of Form 2290. Also, enter the designee’s name,
+Part II. Complete as follows.
+                                                                 phone number, and any five digits that person chooses as
+• Enter on line a the total number of vehicles reported on       their personal identification number (PIN). The authorization
+Form 2290, page 2.
+                                                                 applies only to the tax return on which it appears.
+• Enter on line b the total number of taxable vehicles on
+which the tax is suspended, reported on Form 2290, page 2,          By checking the Yes box, you are authorizing the IRS to
+column (3), category W.                                          speak with the designee to answer any questions relating to
+• Enter on line c the total number of taxable vehicles           the information reported on Form 2290. You are also
+(subtract line b from line a).                                   authorizing the designee to:
+                                                                 • Exchange information concerning Form 2290 with the IRS;
+                                                                 and
+
+Instructions for Form 2290 (Rev. 7-2025)                                                                                         9
+• Request and receive written tax return information relating       in the period while registered in your name, with proof that the
+to Form 2290, including copies of notices, correspondence,          prior use wasn’t a taxable use.
+and account transcripts.                                                5. The date the vehicle was sold or transferred and the
+                                                                    name and address of the purchaser or transferee. If it wasn’t
+   You aren’t authorizing the designee to bind you to anything      sold, the records must show how and when you disposed of
+(including additional tax liability) or otherwise represent you     it.
+before the IRS. If you want to expand the designee’s
+authority, see Pub. 947, Practice Before the IRS and Power of           6. If the tax is suspended for a vehicle, keep a record of
+Attorney.                                                           actual highway mileage. For an agricultural vehicle, keep
+                                                                    accurate records of the number of miles it is driven on a farm.
+   The authorization will automatically expire 1 year from the      See Part II. Statement in Support of Suspension, earlier.
+due date (without regard to extensions) for filing your Form
+2290. If you or your designee wants to revoke this
+authorization, send a written statement of revocation to:
+                                                                    How To Get Tax Help
+                                                                    Please note that the information below is general tax
+     Internal Revenue Service                                       information and doesn’t necessarily apply to Form 2290 but
+     7940 Kentucky Drive                                            may still be helpful to you. If you need additional information,
+     Florence, KY 41042-2915                                        go to Trucking Tax Center in IRS.gov.
+                                                                    Preparing and filing your tax return. After receiving all
+See Pub. 947 for more information.                                  your wage and earnings statements (Forms W-2, W-2G,
+Signature                                                           1099-R, 1099-MISC, 1099-NEC, etc.); unemployment
+                                                                    compensation statements (by mail or in a digital format) or
+Sign the return. Returns filed without a signature will be sent     other government payment statements (Form 1099-G); and
+back to you for signing. An unsigned return isn’t considered        interest, dividend, and retirement statements from banks and
+filed.                                                              investment firms (Forms 1099), you have several options to
+                                                                    choose from to prepare and file your tax return. You can
+Paid Preparer Use Only                                              prepare the tax return yourself, see if you qualify for free tax
+A paid preparer must sign Form 2290 and provide the                 preparation, or hire a tax professional to prepare your return.
+information in the Paid Preparer Use Only section at the end
+of the form if the preparer was paid to prepare the form and        Free options for tax preparation. Your options for
+isn’t an employee of the filing entity. The preparer must give      preparing and filing your return online or in your local
+you a copy of the form in addition to the copy to be filed with     community, if you qualify, include the following.
+the IRS. If you are a paid preparer, enter your preparer tax        • Direct File. Direct File is a permanent option to file
+identification number (PTIN) in the space provided. Include         individual federal tax returns online—for free—directly and
+your complete address. If you work for a firm, you must also        securely with the IRS. Direct File is an option for taxpayers in
+enter the firm’s name and the EIN of the firm. However, you         participating states who have relatively simple tax returns
+can’t use the PTIN of the tax preparation firm in place of your     reporting certain types of income and claiming certain credits
+PTIN. You can apply for a PTIN online or by filing Form W-12,       and deductions. While Direct File doesn't prepare state
+IRS Paid Preparer Tax Identification Number (PTIN)                  returns, if you live in a participating state, Direct File guides
+Application and Renewal. For more information about                 you to a state-supported tool you can use to prepare and file
+applying for a PTIN online, visit the IRS website at IRS.gov/       your state tax return for free. Go to IRS.gov/DirectFile for
+PTIN.                                                               more information, program updates, and frequently asked
+                                                                    questions.
+Recordkeeping                                                       • Free File. This program lets you prepare and file your
+Keep records for all taxable highway vehicles registered in         federal individual income tax return for free using
+your name for at least 3 years after the date the tax is due or     brand-name tax-preparation-and-filing software or Free File
+paid, whichever is later. They must be available at all times       fillable forms. However, state tax preparation may not be
+for inspection by the IRS. Also keep copies of all returns and      available through Free File. Go to IRS.gov/FreeFile to see if
+schedules you have filed. Keep your records even if a vehicle       you qualify for free online federal tax preparation, e-filing, and
+is registered in your name for only a portion of a period. If the   direct deposit or payment options.
+tax is suspended on a highway motor vehicle for a period            • VITA. The Volunteer Income Tax Assistance (VITA)
+because its use on public highways during the period didn’t         program offers free tax help to people with low-to-moderate
+exceed 5,000 miles (7,500 miles for agricultural vehicles), the     incomes, persons with disabilities, and
+registrant must keep the records at least 3 years after the end     limited-English-speaking taxpayers who need help preparing
+of the period to which the suspension applies.                      their own tax returns. Go to IRS.gov/VITA, download the free
+                                                                    IRS2Go app, or call 800-906-9887 for information on free tax
+   Records for each vehicle should show all of the following        return preparation.
+information.                                                        • TCE. The Tax Counseling for the Elderly (TCE) program
+   1. A detailed description of the vehicle, including the VIN.     offers free tax help for all taxpayers, particularly those who
+                                                                    are 60 years of age and older. TCE volunteers specialize in
+   2. The weight of loads carried by the vehicle in the same
+                                                                    answering questions about pensions and retirement-related
+form as required by any state in which the vehicle is
+                                                                    issues unique to seniors. Go to IRS.gov/TCE, download the
+registered or required to be registered.
+                                                                    free IRS2Go app, or call 888-227-7669 for information on free
+   3. The date you acquired the vehicle and the name and            tax return preparation.
+address of the person from whom you acquired it.                    • MilTax. Members of the U.S. Armed Forces and qualified
+   4. The first month of each period in which a taxable use         veterans may use MilTax, a free tax service offered by the
+occurred and any prior month in which the vehicle was used          Department of Defense through Military OneSource. For
+
+10                                                                                       Instructions for Form 2290 (Rev. 7-2025)
+more information, go to MilitaryOneSource                          Statement; and Form W-2c, Corrected Wage and Tax
+(MilitaryOneSource.mil/MilTax).                                    Statement.
+   Also, the IRS offers Free File Fillable Forms, which can be     Business tax account. If you are a sole proprietor, a
+completed online and then filed electronically regardless of       partnership, or an S corporation, you can view your tax
+income.                                                            information on record with the IRS and do more with a
+Using online tools to help prepare your return. Go to              business tax account. Go to IRS.gov/Business-Tax-Account
+IRS.gov/Tools for the following.                                   for more information.
+• IRS.gov/DirectFile offers an Eligibility Checker to help you     IRS social media. Go to IRS.gov/SocialMedia to see the
+determine if Direct File is the right choice for your tax filing   various social media tools the IRS uses to share the latest
+needs.                                                             information on tax changes, scam alerts, initiatives, products,
+• The Earned Income Tax Credit Assistant (IRS.gov/                 and services. At the IRS, privacy and security are our highest
+EITCAssistant) determines if you’re eligible for the earned        priority. We use these tools to share public information with
+income credit (EIC).                                               you. Don’t post your social security number (SSN) or other
+• The Online EIN Application (IRS.gov/EIN) helps you get an        confidential information on social media sites. Always protect
+employer identification number (EIN) at no cost.                   your identity when using any social networking site.
+• The Tax Withholding Estimator (IRS.gov/W4app) makes it              The following IRS YouTube channels provide short,
+easier for you to estimate the federal income tax you want
+                                                                   informative videos on various tax-related topics in English,
+your employer to withhold from your pay check. This is tax
+                                                                   Spanish, and ASL.
+withholding. See how your withholding affects your refund,
+take-home pay, or tax due.
+                                                                   • Youtube.com/irsvideos.
+                                                                   • Youtube.com/irsvideosmultilingua.
+• The First-Time Homebuyer Credit Account Look-up                  • Youtube.com/irsvideosASL.
+(IRS.gov/HomeBuyer) tool provides information on your
+repayments and account balance.                                    Online tax information in other languages. You can find
+• The Sales Tax Deduction Calculator (IRS.gov/SalesTax)            information on IRS.gov/MyLanguage if English isn’t your
+figures the amount you can claim if you itemize deductions on      native language.
+Schedule A (Form 1040).                                            Free Over-the-Phone Interpreter (OPI) Service. The IRS
+        Getting answers to your tax questions. On                  is committed to serving our multilingual customers by offering
+        IRS.gov, you can get up-to-date information on             OPI services. The OPI Service is a federally funded program
+        current events and changes in tax law.                     and is available at Taxpayer Assistance Centers (TACs),
+                                                                   other IRS offices, and every VITA/TCE return site. The OPI
+• IRS.gov/Help: A variety of tools to help you get answers to      Service is accessible in more than 350 languages.
+some of the most common tax questions.
+• IRS.gov/ITA: The Interactive Tax Assistant, a tool that will     Accessibility Helpline available for taxpayers with disa-
+ask you questions and, based on your input, provide answers        bilities. Taxpayers who need information about accessibility
+on a number of tax law topics.                                     services can call 833-690-0598. The Accessibility Helpline
+• IRS.gov/Forms: Find forms, instructions, and publications.       can answer questions related to current and future
+You will find details on the most recent tax changes and           accessibility products and services available in alternative
+interactive links to help you find answers to your questions.      media formats (for example, braille, large print, audio, etc.).
+• You may also be able to access tax law information in your       The Accesibility Helpline does not have access to your IRS
+e-filing software.                                                 account. For help with tax law, refunds, or account-related
+                                                                   issues, go to IRS.gov/LetUsHelp.
+Need someone to prepare your tax return? There are
+                                                                   Alternative media preference. Form 9000, Alternative
+various types of tax return preparers, including enrolled
+                                                                   Media Preference, or Form 9000(SP) allows you to elect to
+agents, certified public accountants (CPAs), accountants,
+                                                                   receive certain types of written correspondence in the
+and many others who don’t have professional credentials. If
+                                                                   following formats.
+you choose to have someone prepare your tax return, choose
+that preparer wisely. A paid tax preparer is:
+                                                                   • Standard Print.
+• Primarily responsible for the overall substantive accuracy       • Large Print.
+of your return,
+                                                                   • Braille.
+• Required to sign the return, and                                 • Audio (MP3).
+• Required to include their preparer tax identification number     • Plain Text File (TXT).
+(PTIN).
+                                                                   • Braille Ready File (BRF).
+                                                                   Disasters. Go to Disaster Assistance and Emergency Relief
+         Although the tax preparer always signs the return,
+                                                                   for Individuals and Businesses to review the available
+  !      you're ultimately responsible for providing all the
+CAUTION information required for the preparer to accurately
+                                                                   disaster tax relief.
+prepare your return. Anyone paid to prepare tax returns for        Getting tax forms and publications. Go to IRS.gov/Forms
+others should have a thorough understanding of tax matters.        to view, download, or print all of the forms, instructions, and
+For more information on how to choose a tax preparer, go to        publications you may need. Or you can go to IRS.gov/
+Tips for Choosing a Tax Preparer on IRS.gov.                       OrderForms to place an order.
+                                                                   Mobile-friendly forms. You'll need an IRS Online Account
+Employers can register to use Business Services On-
+                                                                   (OLA) to complete mobile-friendly forms that require
+line. The Social Security Administration (SSA) offers online
+                                                                   signatures. You'll have the option to submit your form(s)
+service at SSA.gov/employer for fast, free, and secure online
+                                                                   online or download a copy for mailing. You'll need scans of
+W-2 filing options to CPAs, accountants, enrolled agents, and
+                                                                   your documents to support your submission. Go to IRS.gov/
+individuals who process Forms W-2, Wage and Tax
+                                                                   MobileFriendlyForms for more information.
+
+Instructions for Form 2290 (Rev. 7-2025)                                                                                        11
+Getting tax publications and instructions in eBook for-             misuse of their SSNs on fraudulent federal income tax
+mat. You can also download and view popular tax                     returns. When you have an IP PIN, it prevents someone else
+publications and instructions (including the Instructions for       from filing a tax return with your SSN. To learn more, go to
+Form 1040) on mobile devices as eBooks at IRS.gov/eBooks.           IRS.gov/IPPIN.
+   IRS eBooks have been tested using Apple's iBooks for             Ways to check on the status of your refund.
+iPad. Our eBooks haven’t been tested on other dedicated             • Go to IRS.gov/Refunds.
+eBook readers, and eBook functionality may not operate as           • Download the official IRS2Go app to your mobile device to
+intended.                                                           check your refund status.
+Access your online account (individual taxpayers only).
+                                                                    • Call the automated refund hotline at 800-829-1954.
+Go to IRS.gov/Account to securely access information about                   The IRS can’t issue refunds before mid-February for
+your federal tax account.                                             !      returns that claimed the EIC or the additional child
+• View the amount you owe and a breakdown by tax year.              CAUTION tax credit (ACTC). This applies to the entire refund,
+
+• See payment plan details or apply for a new payment plan.         not just the portion associated with these credits.
+• Make a payment or view 5 years of payment history and
+any pending or scheduled payments.                                  Making a tax payment. Payments of U.S. tax must be
+• Access your tax records including key data from your most         remitted to the IRS in U.S. dollars. Digital assets are not
+recent tax return, and transcripts.                                 accepted. Go to IRS.gov/Payments to make a payment using
+• View digital copies of select notices from the IRS.               any of the following options.
+• Approve or reject authorization requests from tax                 • IRS Direct Pay: Pay your individual tax bill or estimated tax
+professionals.                                                      payment directly from your checking or savings account at no
+• View your address on file or manage your communication            cost to you.
+preferences.                                                        • Debit or Credit Card or Digital Wallet: Choose an approved
+                                                                    payment processor to pay online or by phone.
+Get a transcript of your tax return. With an online                 • Electronic Funds Withdrawal: Schedule a payment when
+account, you can access a variety of information to help you        filing your federal taxes using tax return preparation software
+during the filing season. You can get a transcript, review your     or through a tax professional.
+most recently filed tax return, and get your adjusted gross         • Electronic Federal Tax Payment System: This is the best
+income. Create or access your online account at IRS.gov/            option for businesses. Enrollment is required.
+Account.                                                            • Check or Money Order: Mail your payment to the address
+Tax Pro Account. This tool lets your tax professional submit        listed on the notice or instructions.
+an authorization request to access your individual taxpayer         • Cash: You may be able to pay your taxes with cash at a
+IRS OLA. For more information, go to IRS.gov/                       participating retail store.
+TaxProAccount.                                                      • Same-Day Wire: You may be able to do same-day wire
+                                                                    from your financial institution. Contact your financial
+Using direct deposit. The safest and easiest way to receive         institution for availability, cost, and time frames.
+a tax refund is to e-file and choose direct deposit, which
+securely and electronically transfers your refund directly into     Note. The IRS uses the latest encryption technology to
+your financial account. Direct deposit also avoids the              ensure that the electronic payments you make online, by
+possibility that your check could be lost, stolen, destroyed, or    phone, or from a mobile device using the IRS2Go app are
+returned undeliverable to the IRS. Eight in 10 taxpayers use        safe and secure. Paying electronically is quick, easy, and
+direct deposit to receive their refunds. If you don’t have a        faster than mailing in a check or money order.
+bank account, go to IRS.gov/DirectDeposit for more
+information on where to find a bank or credit union that can        What if I can’t pay now? Go to IRS.gov/Payments for more
+open an account online.                                             information about your options.
+                                                                    • Apply for an online payment agreement (IRS.gov/OPA) to
+Reporting and resolving tax-related identity theft is-              meet your tax obligation in monthly installments if you can’t
+sues.                                                               pay your taxes in full today. Once you complete the online
+• Tax-related identity theft happens when someone steals            process, you will receive immediate notification of whether
+your personal information to commit tax fraud. Your taxes can       your agreement has been approved.
+be affected if your SSN is used to file a fraudulent return or to   • Use the Offer in Compromise Pre-Qualifier to see if you
+claim a refund or credit.                                           can settle your tax debt for less than the full amount you owe.
+• The IRS doesn’t initiate contact with taxpayers by email,         For more information on the Offer in Compromise program,
+text messages (including shortened links), telephone calls, or      go to IRS.gov/OIC.
+social media channels to request or verify personal or
+financial information. This includes requests for personal          Filing an amended return. Go to IRS.gov/Form1040X for
+identification numbers (PINs), passwords, or similar                information and updates.
+information for credit cards, banks, or other financial             Checking the status of your amended return. Go to
+accounts.                                                           IRS.gov/WMAR to track the status of Form 1040-X amended
+• Go to IRS.gov/IdentityTheft, the IRS Identity Theft Central       returns.
+webpage, for information on identity theft and data security
+protection for taxpayers, tax professionals, and businesses. If             It can take up to 3 weeks from the date you filed your
+your SSN has been lost or stolen or you suspect you’re a              !     amended return for it to show up in our system, and
+                                                                    CAUTION processing it can take up to 16 weeks.
+victim of tax-related identity theft, you can learn what steps
+you should take.
+                                                                    Understanding an IRS notice or letter you’ve received.
+• Get an Identity Protection PIN (IP PIN). IP PINs are              Go to IRS.gov/Notices to find additional information about
+six-digit numbers assigned to taxpayers to help prevent the
+                                                                    responding to an IRS notice or letter.
+
+12                                                                                      Instructions for Form 2290 (Rev. 7-2025)
+IRS Document Upload Tool. You may be able to use the               www.IRS.gov/SAMS. (Be sure not to include any personal
+Document Upload Tool to respond digitally to eligible IRS          identifiable information.)
+notices and letters by securely uploading required
+documents online through IRS.gov. For more information, go         How Do I Contact TAS?
+to IRS.gov/DUT.
+                                                                   TAS has offices in every state, the District of Columbia, and
+Schedule LEP. You can use Schedule LEP (Form 1040),
+                                                                   Puerto Rico. To find your local advocate’s number:
+Request for Change in Language Preference, to state a
+preference to receive notices, letters, or other written
+                                                                   • Go to TaxpayerAdvocate.IRS.gov/Contact-Us.
+communications from the IRS in an alternative language. You
+                                                                   • Call TAS at 877-777-4778.
+may not immediately receive written communications in the
+requested language. The IRS’s commitment to LEP                    What Are My Rights as a Taxpayer?
+taxpayers is part of a multi-year timeline that began providing
+translations in 2023. You will continue to receive                 The Taxpayer Bill of Rights describes ten basic rights that all
+communications, including notices and letters in English until     taxpayers have when dealing with the IRS. Go to
+they are translated to your preferred language.                    www.TaxpayerAdvocate.IRS.gov/Taxpayer-Rights for more
+                                                                   information about the rights, what they mean to you, and how
+Contacting your local IRS office. Keep in mind, many               they apply to specific situations you may encounter with the
+questions can be answered on IRS.gov without visiting a            IRS. TAS strives to protect taxpayer rights and ensure the IRS
+TAC. Go to IRS.gov/LetUsHelp for the topics people ask             is administering the tax law in a fair and equitable way.
+about most. If you still need help, TACs provide tax help when
+a tax issue can’t be handled online or by phone. All TACs          Privacy Act and Paperwork Reduction Act Notice. We
+now provide service by appointment so you’ll know in               ask for the information on this form to carry out the Internal
+advance that you can get the service you need without long         Revenue laws of the United States. Section 4481 requires
+wait times. Before you visit, go to IRS.gov/TACLocator to find     that the use of certain types of highway motor vehicles be
+the nearest TAC and to check hours, available services, and        taxed. Form 2290 is used to determine the amount of tax you
+appointment options. Or, on the IRS2Go app, under the Stay         owe. Sections 6011 and 6109 require you to provide the
+Connected tab, choose the Contact Us option and click on           requested information, including your identifying number.
+“Local Offices.”                                                   Routine uses of this information include giving it to the
+                                                                   Department of Justice for civil and criminal litigation, and to
+   ————————————————————————                                        cities, states, the District of Columbia, and U.S.
+   Below is a message from the Taxpayer Advocate Service,          commonwealths and territories for use in administering their
+an independent organization established by Congress.               tax laws. We may also disclose this information to other
+                                                                   countries under a tax treaty, to federal and state agencies to
+The Taxpayer Advocate Service (TAS) Is Here To                     enforce federal nontax criminal laws, or to federal law
+Help You                                                           enforcement and intelligence agencies to combat terrorism.
+                                                                   Failure to provide this information in a timely manner, or
+What Is the Taxpayer Advocate Service?                             providing false information, may subject you to penalties.
+
+The Taxpayer Advocate Service (TAS) is an independent                 You aren’t required to provide the information requested
+organization within the Internal Revenue Service (IRS). TAS        on a form that is subject to the Paperwork Reduction Act
+helps taxpayers resolve problems with the IRS, makes               unless the form displays a valid OMB control number. Books
+administrative and legislative recommendations to prevent or       or records relating to a form or its instructions must be
+correct the problems, and protects taxpayer rights. We work        retained as long as their contents may become material in the
+to ensure that every taxpayer is treated fairly and that you       administration of any Internal Revenue law. Generally, tax
+know and understand your rights under the Taxpayer Bill of         returns and return information are confidential, as required by
+Rights. We are Your Voice at the IRS.                              section 6103.
+                                                                      The time needed to complete and file Form 2290 and
+How Can TAS Help Me?                                               Schedule 1 will vary depending on individual circumstances.
+                                                                   The estimated average time is Recordkeeping, 41 hr., 22
+TAS can help you resolve problems that you haven’t been            min.; Learning about the law or the form, 24 min.;
+able to resolve with the IRS on your own. Always try to            Preparing, copying, assembling, and sending the form
+resolve your problem with the IRS first, but if you can’t, then    to the IRS, 1 hr., 5 min.
+come to TAS. Our services are free.                                  We welcome your comments and suggestions. You can
+• TAS helps all taxpayers (and their representatives),             send us comments through IRS.gov/FormComments. Or you
+including individuals, businesses, and exempt organizations.       can write to:
+You may be eligible for TAS help if your IRS problem is
+causing financial difficulty, if you’ve tried and been unable to       Internal Revenue Service
+resolve your issue with the IRS, or if you believe an IRS              Tax Forms and Publications
+system, process, or procedure just isn't working as it should.         1111 Constitution Ave. NW, IR-6526
+• To get help any time with general tax topics, visit                  Washington, DC 20224
+www.TaxpayerAdvocate.IRS.gov. The site can help you with
+common tax issues and situations, such as what to do if you        Don’t send Form 2290 to this address. Instead, see Where To
+make a mistake on your return or if you get a notice from the      File, earlier.
+IRS.
+• TAS works to resolve large-scale (systemic) problems that           Although we can’t respond individually to each comment
+affect many taxpayers. You can report systemic issues at           received, we do appreciate your feedback and will consider
+
+Instructions for Form 2290 (Rev. 7-2025)                                                                                        13
+your comments as we revise our tax forms, instructions, and
+publications.
+
+
+
+
+14                                                            Instructions for Form 2290 (Rev. 7-2025)
+                             Partial-Period Tax Tables (for vehicles first used after July of the period)
+
+• Find the category line for the vehicle in Table I or Table II. The categories are listed in the Tax Computation table on Form
+2290, page 2.
+• Find the month the vehicle was first used on public highways.
+• Read down the column. The amount where the category line and the month column meet is the tax due.
+• Enter the amount on Form 2290, page 2, column (2).
+   Table I    Vehicles Except Logging (enter in column (2)(a))
+ CATEGORY      AUG (11)     SEP (10)      OCT (9)     NOV (8)       DEC (7)   JAN (6)   FEB (5)   MAR (4)   APR (3)   MAY (2)   JUNE (1)
+     A           $ 91.67      $ 83.33     $ 75.00         $ 66.67   $ 58.33   $ 50.00   $ 41.67   $ 33.33   $ 25.00   $ 16.67     $ 8.33
+     B           111.83       101.67        91.50           81.33     71.17     61.00     50.83     40.67     30.50     20.33     10.17
+     C           132.00       120.00      108.00            96.00     84.00     72.00     60.00     48.00     36.00     24.00     12.00
+     D           152.17       138.33      124.50          110.67      96.83     83.00     69.17     55.33     41.50     27.67     13.83
+     E           172.33       156.67      141.00          125.33    109.67      94.00     78.33     62.67     47.00     31.33     15.67
+     F           192.50       175.00      157.50          140.00    122.50    105.00      87.50     70.00     52.50     35.00     17.50
+     G           212.67       193.33      174.00          154.67    135.33    116.00      96.67     77.33     58.00     38.67     19.33
+     H           232.83       211.67      190.50          169.33    148.17    127.00    105.83      84.67     63.50     42.33     21.17
+     I           253.00       230.00      207.00          184.00    161.00    138.00    115.00      92.00     69.00     46.00     23.00
+     J           273.17       248.33      223.50          198.67    173.83    149.00    124.17      99.33     74.50     49.67     24.83
+     K           293.33       266.67      240.00          213.33    186.67    160.00    133.33    106.67      80.00     53.33     26.67
+     L           313.50       285.00      256.50          228.00    199.50    171.00    142.50    114.00      85.50     57.00     28.50
+     M           333.67       303.33      273.00          242.67    212.33    182.00    151.67    121.33      91.00     60.67     30.33
+     N           353.83       321.67      289.50          257.33    225.17    193.00    160.83    128.67      96.50     64.33     32.17
+     O           374.00       340.00      306.00          272.00    238.00    204.00    170.00    136.00    102.00      68.00     34.00
+     P           394.17       358.33      322.50          286.67    250.83    215.00    179.17    143.33    107.50      71.67     35.83
+     Q           414.33       376.67      339.00          301.33    263.67    226.00    188.33    150.67    113.00      75.33     37.67
+     R           434.50       395.00      355.50          316.00    276.50    237.00    197.50    158.00    118.50      79.00     39.50
+     S           454.67       413.33      372.00          330.67    289.33    248.00    206.67    165.33    124.00      82.67     41.33
+     T           474.83       431.67      388.50          345.33    302.17    259.00    215.83    172.67    129.50      86.33     43.17
+     U           495.00       450.00      405.00          360.00    315.00    270.00    225.00    180.00    135.00      90.00     45.00
+     V           504.17       458.33      412.50          366.67    320.83    275.00    229.17    183.33    137.50      91.67     45.83
+
+
+   Table II   Logging Vehicles (enter in column (2)(b))
+
+     A           $ 68.75      $ 62.49     $ 56.25         $ 50.00   $ 43.74   $ 37.50   $ 31.25   $ 24.99   $ 18.75   $ 12.50     $ 6.24
+     B             83.87        76.25       68.62           60.99     53.37     45.75     38.12     30.50     22.87     15.24       7.62
+     C             99.00        90.00       81.00           72.00     63.00     54.00     45.00     36.00     27.00     18.00       9.00
+     D           114.12       103.74        93.37           83.00     72.62     62.25     51.87     41.49     31.12     20.75     10.37
+     E           129.24       117.50      105.75            93.99     82.25     70.50     58.74     47.00     35.25     23.49     11.75
+     F           144.37       131.25      118.12          105.00      91.87     78.75     65.62     52.50     39.37     26.25     13.12
+     G           159.50       144.99      130.50          116.00    101.49      87.00     72.50     57.99     43.50     29.00     14.49
+     H           174.62       158.75      142.87          126.99    111.12      95.25     79.37     63.50     47.62     31.74     15.87
+     I           189.75       172.50      155.25          138.00    120.75    103.50      86.25     69.00     51.75     34.50     17.25
+     J           204.87       186.24      167.62          149.00    130.37    111.75      93.12     74.49     55.87     37.25     18.62
+     K           219.99       200.00      180.00          159.99    140.00    120.00      99.99     80.00     60.00     39.99     20.00
+     L           235.12       213.75      192.37          171.00    149.62    128.25    106.87      85.50     64.12     42.75     21.37
+     M           250.25       227.49      204.75          182.00    159.24    136.50    113.75      90.99     68.25     45.50     22.74
+     N           265.37       241.25      217.12          192.99    168.87    144.75    120.62      96.50     72.37     48.24     24.12
+     O           280.50       255.00      229.50          204.00    178.50    153.00    127.50    102.00      76.50     51.00     25.50
+     P           295.62       268.74      241.87          215.00    188.12    161.25    134.37    107.49      80.62     53.75     26.87
+     Q           310.74       282.50      254.25          225.99    197.75    169.50    141.24    113.00      84.75     56.49     28.25
+     R           325.87       296.25      266.62          237.00    207.37    177.75    148.12    118.50      88.87     59.25     29.62
+     S           341.00       309.99      279.00          248.00    216.99    186.00    155.00    123.99      93.00     62.00     30.99
+     T           356.12       323.75      291.37          258.99    226.62    194.25    161.87    129.50      97.12     64.74     32.37
+     U           371.25       337.50      303.75          270.00    236.25    202.50    168.75    135.00    101.25      67.50     33.75
+     V           378.12       343.74      309.37          275.00    240.62    206.25    171.87    137.49    103.12      68.75     34.37
+
+
+
+
+                                                                                                                                      15
+

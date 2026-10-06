@@ -1,0 +1,51 @@
+{
+  "form": {
+    "id": "ws-28-rate-gain",
+    "form": "28% Rate Gain Worksheet",
+    "title": "28% Rate Gain Worksheet\u2014Line 18",
+    "kind": "worksheet",
+    "revision": "2025",
+    "revision_printed_as": "28% Rate Gain Worksheet (2025)",
+    "source_url": "https://www.irs.gov/instructions/i1040sd",
+    "instructions_url": "https://www.irs.gov/instructions/i1040sd",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Enter the total of all collectibles gain or (loss) from items you reported on Form 8949, Part II",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Enter as a positive number the amount of any section 1202 exclusion you reported in column (g) of Form 8949, Part II, with code \u201cQ\u201d in column (f), that is 50% of the gain, plus 2/3 of any section 1202 exclusion you reported at 60%, plus 1/3 of any section 1202 exclusion you reported at 75%",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Enter the total of all collectibles gain or (loss) from Form 4684, line 4 (only if Form 6781, line 1 is more than zero); Form 6252; Form 6781, Part II; and Form 8824",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Enter the total of any collectibles gain reported to you on Form 1099-DIV, box 2d; Form 2439, box 1d; and Schedule K-1 from a partnership, S corporation, estate, or trust",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Enter your long-term capital loss carryovers from Schedule D, line 14; and Schedule K-1 (Form 1041), box 11, code D",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "If Schedule D, line 7, is a (loss), enter that (loss) here. Otherwise, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Combine lines 1 through 6. If zero or less, enter -0-. If more than zero, also enter this amount on Schedule D, line 18",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "notes": "A WORKSHEET, NOT A FILED FORM. It re-characterises part of a gain already counted in Schedule D's net so that part can be taxed at up to 28% instead of the ordinary long-term rates. Its result reaches Schedule D LINE 18, which is NOT part of line 16 \u2014 it changes the TAX, never the NET. Captions are transcribed from the Instructions for Schedule D (Form 1040) (2025); line 5's code reference is quoted as printed."
+  }
+}

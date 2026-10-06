@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "1099-S",
+    "title": "Proceeds From Real Estate Transactions",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-S (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099s--2025.pdf",
+    "issued_by": "the closing agent (settlement agent, title company, attorney, or the transferor's or transferee's broker)",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Date of closing",
+        "type": "date"
+      },
+      {
+        "box": "2",
+        "label": "Gross proceeds",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Address (including city, state, and ZIP code) or legal description",
+        "type": "text"
+      },
+      {
+        "box": "4",
+        "label": "Transferor received or will receive property or services as part of the consideration (if checked)",
+        "type": "checkbox"
+      },
+      {
+        "box": "5",
+        "label": "If checked, transferor is a foreign person (nonresident alien, foreign partnership, foreign estate, or foreign trust)",
+        "type": "checkbox"
+      },
+      {
+        "box": "6",
+        "label": "Buyer's part of real estate tax",
+        "type": "money"
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed above the issuer's block on every copy. A corrected form replaces one furnished earlier; its figures are the ones to use, never counted beside the earlier form's."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed on Copy A (the issuer's filing copy) and the state copy; the recipient's Copy B does not print it."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "FR-016 mark. An account or other unique number the issuer assigned; identification only, never a figure."
+      }
+    ],
+    "notes": "BOX 2 IS THE MOST DANGEROUS FIGURE IN A PACKET. With several transferors it is EITHER this seller's allocated share OR the whole unallocated proceeds repeated on every co-owner's copy, and nothing on the form says which. The filer instructions (Rev. 4-2025) require an allocation to be requested, and then: 'If you do not receive any allocation or you receive conflicting allocations, report on each transferor's Form 1099-S the total unallocated gross proceeds.' The box 2 instruction itself admits both meanings: 'Both total gross proceeds and the allocated gross proceeds for a multiple transferor transaction (enter either one or the other).' DIVIDING BY THE NUMBER OF OWNERS IS WRONG: spouses holding as joint tenants, tenants by the entirety, tenants in common or community property are 'a single transferor' and only one 1099-S is required. Box 2 is also GROSS: 'Do not reduce gross proceeds by any expenses paid by the transferor' \u2014 which is why selling expenses need Form 8949 column (f) code E. Box 4 checked means the true proceeds exceed box 2."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099S",
+    "note": null
+  }
+}

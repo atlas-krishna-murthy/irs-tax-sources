@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "id": "e-telephone-base-rate",
+    "title": "The first home phone line's base rate is not a Schedule E expense",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-rental-income-and-expense-records.utilities"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-first-home-phone-line-base-rate"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-first-home-phone-line-base-rate",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "A utilities item is not the base rate of the first home phone line unless a preparer says so"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule E (Form 1040)",
+      "line": "Line 17",
+      "revision": "2025",
+      "wording": "the base rate (including taxes and other charges) for local telephone service for the first telephone line into your residence is a personal expense and is not deductible.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040se--2025.pdf"
+    },
+    "research_ids": [
+      "e-telephone-base-rate"
+    ]
+  }
+}

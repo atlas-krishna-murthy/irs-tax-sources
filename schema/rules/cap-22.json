@@ -1,0 +1,53 @@
+{
+  "rule": {
+    "id": "cap-22",
+    "title": "Nothing sold inside an IRA or qualified retirement plan reaches Schedule D",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-B.1d",
+        "1099-B.1e",
+        "1099-B.1f",
+        "1099-B.1g",
+        "1099-B.11",
+        "1099-DA.1f",
+        "1099-DA.1g",
+        "1099-DA.1h",
+        "1099-DA.1i"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "account-is-a-retirement-account"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "account-is-a-retirement-account",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "A brokerage form reports a taxable account unless a preparer says it is an IRA or qualified plan"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 550",
+      "line": "Qualified retirement plans and IRAs",
+      "revision": "2025",
+      "wording": "The rules in this publication do not apply to investments held in individual retirement arrangements (IRAs), section 401(k) plans, and other qualified retirement plans.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p550--2025.pdf"
+    },
+    "open_point": "A broker files no Form 1099-B for a retirement account, so this answers a statement that reached the packet anyway; distributions from the account are Form 1099-R's."
+  }
+}

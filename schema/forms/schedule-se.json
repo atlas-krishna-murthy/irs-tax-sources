@@ -1,0 +1,157 @@
+{
+  "form": {
+    "id": "schedule-se",
+    "form": "Schedule SE (Form 1040)",
+    "title": "Self-Employment Tax",
+    "kind": "schedule",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040sse--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1040sse",
+    "lines": [
+      {
+        "line": "A",
+        "caption": "If you are a minister, member of a religious order, or Christian Science practitioner and you filed Form 4361, but you had $400 or more of other net earnings from self-employment, check here and continue with Part I",
+        "type": "checkbox"
+      },
+      {
+        "line": "1a",
+        "caption": "Net farm profit or (loss) from Schedule F, line 34, and farm partnerships, Schedule K-1 (Form 1065), box 14, code A",
+        "type": "money"
+      },
+      {
+        "line": "1b",
+        "caption": "If you received social security retirement or disability benefits, enter the amount of Conservation Reserve Program payments included on Schedule F, line 4b, or listed on Schedule K-1 (Form 1065), box 20, code AQ",
+        "type": "money",
+        "net": "-",
+        "notes": "Printed in preprinted parentheses ( ): subtracted from line 1a."
+      },
+      {
+        "line": "2",
+        "caption": "Net profit or (loss) from Schedule C, line 31; and Schedule K-1 (Form 1065), box 14, code A (other than farming). See instructions for other income to report or if you are a minister or member of a religious order",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Combine lines 1a, 1b, and 2",
+        "type": "money"
+      },
+      {
+        "line": "4a",
+        "caption": "If line 3 is more than zero, multiply line 3 by 92.35% (0.9235). Otherwise, enter amount from line 3",
+        "type": "money"
+      },
+      {
+        "line": "4b",
+        "caption": "If you elect one or both of the optional methods, enter the total of lines 15 and 17 here",
+        "type": "money"
+      },
+      {
+        "line": "4c",
+        "caption": "Combine lines 4a and 4b. If less than $400, stop; you don\u2019t owe self-employment tax. Exception: If less than $400 and you had church employee income, enter -0- and continue",
+        "type": "money"
+      },
+      {
+        "line": "5a",
+        "caption": "Enter your church employee income from Form W-2. See instructions for definition of church employee income",
+        "type": "money"
+      },
+      {
+        "line": "5b",
+        "caption": "Multiply line 5a by 92.35% (0.9235). If less than $100, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Add lines 4c and 5b",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Maximum amount of combined wages and self-employment earnings subject to social security tax or the 6.2% portion of the 7.65% railroad retirement (tier 1) tax for 2025",
+        "type": "money",
+        "note": "Preprinted on the 2025 form as $176,100."
+      },
+      {
+        "line": "8a",
+        "caption": "Total social security wages and tips (total of boxes 3 and 7 on Form(s) W-2) and railroad retirement (tier 1) compensation. If $176,100 or more, skip lines 8b through 10, and go to line 11",
+        "type": "money"
+      },
+      {
+        "line": "8b",
+        "caption": "Unreported tips subject to social security tax from Form 4137, line 10",
+        "type": "money"
+      },
+      {
+        "line": "8c",
+        "caption": "Wages subject to social security tax from Form 8919, line 10",
+        "type": "money"
+      },
+      {
+        "line": "8d",
+        "caption": "Add lines 8a, 8b, and 8c",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Subtract line 8d from line 7. If zero or less, enter -0- here and on line 10 and go to line 11",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Multiply the smaller of line 6 or line 9 by 12.4% (0.124)",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Multiply line 6 by 2.9% (0.029)",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Self-employment tax. Add lines 10 and 11. Enter here and on Schedule 2 (Form 1040), line 4, or Form 1040-SS, Part I, line 3",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "13",
+        "caption": "Deduction for one-half of self-employment tax. Multiply line 12 by 50% (0.50). Enter here and on Schedule 1 (Form 1040), line 15",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "14",
+        "caption": "Maximum income for optional methods",
+        "type": "money",
+        "note": "Preprinted on the 2025 form as $7,240."
+      },
+      {
+        "line": "15",
+        "caption": "Enter the smaller of: two-thirds (2/3) of gross farm income (not less than zero) or $7,240. Also, include this amount on line 4b above",
+        "type": "money",
+        "note": "Footnote 1 on the form: \u201cFrom Sch. F, line 9; and Sch. K-1 (Form 1065), box 14, code B.\u201d The Farm Optional Method may be used only if (a) gross farm income was not more than $10,860, or (b) net farm profits were less than $7,840."
+      },
+      {
+        "line": "16",
+        "caption": "Subtract line 15 from line 14",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Enter the smaller of: two-thirds (2/3) of gross nonfarm income (not less than zero) or the amount on line 16. Also, include this amount on line 4b above",
+        "type": "money",
+        "note": "Footnote 4 on the form: \u201cFrom Sch. C, line 7; and Sch. K-1 (Form 1065), box 14, code C.\u201d The Nonfarm Optional Method may be used only if (a) net nonfarm profits were less than $7,840 and also less than 72.189% of gross nonfarm income, and (b) you had net earnings from self-employment of at least $400 in 2 of the prior 3 years, and no more than five times."
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "1",
+        "because": "the heuristic reads \"1 (Form 1040), line 5\" inside the line 13 caption"
+      },
+      {
+        "slot": "4",
+        "because": "a footnote marker (\"2 ... 4\") under Part II, not a line"
+      }
+    ],
+    "revision_printed_as": "Schedule SE (Form 1040) 2025 Created 5/7/25"
+  }
+}

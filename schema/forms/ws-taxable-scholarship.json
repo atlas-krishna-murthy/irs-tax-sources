@@ -1,0 +1,63 @@
+{
+  "form": {
+    "id": "ws-taxable-scholarship",
+    "form": "Publication 970, Worksheet 1-1",
+    "title": "Worksheet 1-1. Taxable Scholarship and Fellowship Grant Income",
+    "kind": "worksheet",
+    "revision": "2025",
+    "revision_printed_as": "Publication 970 (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/p970--2025.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Enter the total amount of any scholarship or fellowship grant for 2025. See Amount of scholarship or fellowship grant, earlier",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Enter the amount from line 1 that was for teaching, research, or any other services required as a condition for receiving the scholarship. Don\u2019t include amounts received for these items under the National Health Service Corps Scholarship Program, the Armed Forces Health Professions Scholarship and Financial Assistance Program, or a comprehensive student work-learning-service program (as defined in section 448(e) of the Higher Education Act of 1965) operated by a work college (as defined in that section)",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Subtract line 2 from line 1",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "4",
+        "caption": "Enter the amount from line 3 that your scholarship or fellowship grant required you to use for other than qualified education expenses",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Subtract line 4 from line 3",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "6",
+        "caption": "Enter the amount of your qualified education expenses",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Enter the smaller of line 5 or line 6. This amount is the most you can exclude from your gross income (the tax-free part of the scholarship or fellowship grant)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "8",
+        "caption": "Subtract line 7 from line 5",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "9",
+        "caption": "Taxable part. Add lines 2, 4, and 8. See Reporting Scholarships and Fellowship Grants, earlier, for information on how to report this amount on your tax return",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "id": "c-telephone-base-rate",
+    "title": "The first home phone line's base rate is not a Schedule C utility",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-business-income-and-expense-records.utilities"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-first-home-phone-line-base-rate"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-first-home-phone-line-base-rate",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "A utilities item is not the base rate of the first home phone line unless a preparer says so"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule C (Form 1040)",
+      "line": "Line 25",
+      "revision": "2025",
+      "wording": "If you used your home phone for business, do not deduct the base rate (including taxes) of the first phone line into your residence.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+    },
+    "research_ids": [
+      "e-telephone-base-rate"
+    ]
+  }
+}

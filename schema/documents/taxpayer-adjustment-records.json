@@ -1,0 +1,103 @@
+{
+  "document": {
+    "id": "taxpayer-adjustment-records",
+    "kind": "taxpayer_record",
+    "title": "The taxpayer's own record of the adjustments to income no third party reports",
+    "revision": "n/a",
+    "revision_printed_as": null,
+    "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+    "issued_by": "nobody - the taxpayer's own records",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "educator_expenses",
+        "label": "Qualified out-of-pocket expenses paid by an eligible educator",
+        "type": "money"
+      },
+      {
+        "box": "self_employed_sep_simple_and_qualified_plan_contributions",
+        "label": "Contributions to a SEP, SIMPLE or qualified retirement plan on the taxpayer's own behalf",
+        "type": "money"
+      },
+      {
+        "box": "self_employed_health_insurance_premiums",
+        "label": "Health insurance premiums paid for the taxpayer, spouse and dependents under a plan established under the taxpayer's business",
+        "type": "money"
+      },
+      {
+        "box": "alimony_paid",
+        "label": "Alimony paid under a divorce or separation agreement",
+        "type": "money"
+      },
+      {
+        "box": "recipient_ssn_for_alimony_paid",
+        "label": "The alimony recipient's social security number",
+        "type": "tin"
+      },
+      {
+        "box": "date_of_original_divorce_or_separation_agreement",
+        "label": "The date of the original divorce or separation agreement",
+        "type": "date"
+      },
+      {
+        "box": "deductible_ira_contribution",
+        "label": "The deductible part of contributions made to a traditional IRA for the year",
+        "type": "money"
+      },
+      {
+        "box": "hsa_hdhp_coverage",
+        "type": "text",
+        "label": "Check the box to indicate your coverage under a high-deductible health plan (HDHP) during 2025. See instructions",
+        "notes": "Form 8889 line 1's own caption: self-only or family HDHP coverage, which sets the HSA contribution limit."
+      },
+      {
+        "box": "hsa_contributions_made",
+        "type": "money",
+        "label": "HSA contributions you made for 2025 (or those made on your behalf), including those made by the unextended due date of your tax return that were for 2025. Do not include employer contributions, contributions through a cafeteria plan, or rollovers. See instructions",
+        "notes": "Form 8889 line 2's own caption."
+      },
+      {
+        "box": "hsa_qualified_medical_expenses_paid",
+        "type": "money",
+        "label": "Qualified medical expenses paid using HSA distributions (see instructions)",
+        "notes": "Form 8889 line 15's own caption."
+      },
+      {
+        "box": "nondeductible_ira_contributions",
+        "type": "money",
+        "label": "Enter your nondeductible contributions to traditional IRAs for 2025, including those made for 2025 from January 1, 2026, through April 15, 2026. See instructions",
+        "notes": "Form 8606 line 1's own caption \u2014 the basis that makes part of a later distribution nontaxable."
+      }
+    ],
+    "notes": "Every entry here is a figure a leadsheet must ASK A HUMAN for. None is printed on any information return the client will hand over. Form 5498 verifies the IRA contribution but arrives by 1 June, after filing, and reports contributions rather than the deductible amount. Alimony is deductible only under a pre-2019 agreement - see the divorce_or_separation_agreement_executed_before_2019 fact."
+  },
+  "extraction": {
+    "model": "custom.taxpayer-adjustment-records",
+    "note": "A taxpayer's own record. No prescribed layout, so no structured model and no boxes to read: it prints ITEMS in the client's own words, and which declared box each belongs in is a JUDGEMENT a person confirms (spec 075 group D, clarification Q1). Read by the declared custom model in TRANSCRIBE mode - the same reader, a second template - which copies every line verbatim and names no destination. A separate, cheap proposal call then suggests a box per item; **only a box a person confirms places anything**, so an engagement with nineteen rental sheets shows an empty Schedule E until somebody has looked. That is the decision, not a defect.",
+    "custom": {
+      "reads": "a client's own record of adjustments to income",
+      "sections": [
+        {
+          "document": "taxpayer-adjustment-records",
+          "boxes": [
+            "educator_expenses",
+            "self_employed_sep_simple_and_qualified_plan_contributions",
+            "self_employed_health_insurance_premiums",
+            "alimony_paid",
+            "recipient_ssn_for_alimony_paid",
+            "date_of_original_divorce_or_separation_agreement",
+            "deductible_ira_contribution",
+            "hsa_hdhp_coverage",
+            "hsa_contributions_made",
+            "hsa_qualified_medical_expenses_paid",
+            "nondeductible_ira_contributions"
+          ]
+        }
+      ],
+      "transcribe": true,
+      "identity": [
+        "date_of_original_divorce_or_separation_agreement"
+      ]
+    }
+  }
+}

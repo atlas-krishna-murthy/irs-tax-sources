@@ -1,0 +1,170 @@
+{
+  "form": {
+    "id": "form-8828",
+    "form": "Form 8828",
+    "title": "Recapture of Federal Mortgage Subsidy",
+    "kind": "form",
+    "revision": "(Rev. November 2024)",
+    "revision_printed_as": "Form 8828 (Rev. 11-2024)",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f8828.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-pdf/f8828.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Address of property (number and street, city or town, state, and ZIP code)",
+        "type": "text",
+        "part": "I"
+      },
+      {
+        "line": "2a",
+        "caption": "Mortgage loan from the proceeds of a tax-exempt bond",
+        "type": "checkbox",
+        "part": "I"
+      },
+      {
+        "line": "2b",
+        "caption": "Mortgage credit certificate",
+        "type": "checkbox",
+        "part": "I"
+      },
+      {
+        "line": "3",
+        "caption": "Name of the bond or certificate issuer",
+        "type": "text",
+        "part": "I"
+      },
+      {
+        "line": "4",
+        "caption": "Name and address of original lending institution",
+        "type": "text",
+        "part": "I"
+      },
+      {
+        "line": "5",
+        "caption": "Date of closing of the original loan",
+        "type": "date",
+        "part": "I"
+      },
+      {
+        "line": "6",
+        "caption": "Date of sale or other disposition of your interest in the home",
+        "type": "date",
+        "part": "I"
+      },
+      {
+        "line": "7",
+        "caption": "Number of years and full months between original closing date (line 5) and date of sale or disposition (line 6):",
+        "type": "text",
+        "part": "I"
+      },
+      {
+        "line": "8",
+        "caption": "Date of full repayment of the original loan including a refinancing other than one for which a replacement mortgage credit certificate was issued (see instructions)",
+        "type": "date",
+        "part": "I"
+      },
+      {
+        "line": "9",
+        "caption": "Sales price of your interest in the home sold or disposed of (see instructions)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "10",
+        "caption": "Expenses of sale. Include sales commissions, advertising, legal fees, etc.",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "11",
+        "caption": "Amount realized. Subtract line 10 from line 9",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "12",
+        "caption": "Adjusted basis of your interest in the home sold or disposed of (see instructions)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "13",
+        "caption": "Gain or (loss) from sale or disposition. Subtract line 12 from line 11. If a loss, stop here and attach this form to your Form 1040. You do not owe recapture tax",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "14",
+        "caption": "Multiply line 13 by 50% (.50)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "15",
+        "caption": "Modified adjusted gross income (see instructions)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "16",
+        "caption": "Adjusted qualifying income (see instructions)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17",
+        "caption": "Subtract line 16 from line 15. If zero or less, stop here and attach this form to your Form 1040. You do not owe recapture tax",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "18",
+        "caption": "Income percentage. If the amount on line 17 is $5,000 or more, enter \u201c100.\u201d Otherwise, divide the amount on line 17 by $5,000 and enter the result as a percentage. Round to the nearest whole percentage",
+        "type": "percent",
+        "part": "II"
+      },
+      {
+        "line": "19",
+        "caption": "Federally subsidized amount (see instructions)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "20",
+        "caption": "Holding period percentage (see instructions)",
+        "type": "percent",
+        "part": "II"
+      },
+      {
+        "line": "21",
+        "caption": "Multiply line 19 by the percentage on line 20",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "22",
+        "caption": "Recapture amount. Multiply line 21 by the percentage on line 18",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "23",
+        "caption": "Tax. Enter the smaller of line 14 or line 22. Also, include this amount on Schedule 2 (Form 1040), line 17b",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "64",
+        "because": "'Attachment Sequence No. 64' in the form header"
+      },
+      {
+        "slot": "2",
+        "because": "'Schedule 2 (Form 1040)' in line 23's caption; the form's own line 2 is declared as its two checkboxes 2a and 2b"
+      }
+    ],
+    "notes": "Declared for spec 080 T052. The recapture tax (line 23) is a computation: it needs the federally subsidized amount and holding-period percentage from the lender's notice at closing, which no declared document carries, plus the sale (Form 1099-S / settlement statement) and MAGI."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "account-is-a-retirement-account",
+    "wording": "Is the account this statement reports an IRA, a 401(k) or another qualified retirement plan?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 a retirement account; its sales are not reported"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 a taxable account"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "A brokerage form reports a taxable account unless a preparer says it is an IRA or qualified plan"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 550",
+        "line": "Qualified retirement plans and IRAs",
+        "revision": "2025",
+        "wording": "The rules in this publication do not apply to investments held in individual retirement arrangements (IRAs), section 401(k) plans, and other qualified retirement plans.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p550--2025.pdf"
+      }
+    }
+  }
+}

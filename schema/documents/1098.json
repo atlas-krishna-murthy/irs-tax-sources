@@ -1,0 +1,189 @@
+{
+  "document": {
+    "id": "1098",
+    "title": "Mortgage Interest Statement",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1098 (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1098--2025.pdf",
+    "issued_by": "the lender / recipient of the mortgage interest",
+    "recipient": {
+      "name": "Borrower.Name",
+      "tin": "Borrower.TIN",
+      "note": "The extractor's own field names, measured on stored reads (engagement 16, 2026-10-02). Read by `Owner.of` to say whose figure this is (spec 079 FR-035); the TIN's last four only."
+    },
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Mortgage interest received from payer(s)/borrower(s)",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Outstanding mortgage principal",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Mortgage origination date",
+        "type": "date"
+      },
+      {
+        "box": "4",
+        "label": "Refund of overpaid interest",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Mortgage insurance premiums",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "Points paid on purchase of principal residence",
+        "type": "money"
+      },
+      {
+        "box": "7",
+        "label": "If address of property securing mortgage is the same as PAYER'S/BORROWER'S address, the box is checked, or the address or description is entered in box 8.",
+        "type": "checkbox"
+      },
+      {
+        "box": "8",
+        "label": "Address or description of property securing mortgage (see instructions)",
+        "type": "text"
+      },
+      {
+        "box": "9",
+        "label": "Number of properties securing the mortgage",
+        "type": "count"
+      },
+      {
+        "box": "10",
+        "label": "Other",
+        "type": "text",
+        "codes": [
+          {
+            "code": "real-estate-tax",
+            "label": "Real estate taxes paid from escrow, as the lender labels them"
+          },
+          {
+            "code": "other",
+            "label": "Any other item the lender reports here (insurance paid from escrow, a collection agent's principal, seller-paid interest) - read by a person"
+          }
+        ]
+      },
+      {
+        "box": "10.real-estate-tax",
+        "label": "Real estate taxes, where the lender reports them in box 10 (\"Other\")",
+        "type": "money",
+        "note": "Box 10 is captioned only \"Other\" and is declared `text`, so the money a reader answers as `RealEstateTax` was judged not a figure and reached no row at all (spec 079, found writing the T0-3 guard). The part is money even though the box that holds it is not."
+      },
+      {
+        "box": "11",
+        "label": "Mortgage acquisition date",
+        "type": "date"
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "note": "A corrected form REPLACES the one it corrects for the same account: the two are never both counted. Which copy stands is a person's call, made by reading the two side by side."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "note": "Printed on Copy A (the IRS's copy) only; a recipient's copy carries no VOID box. Declared so a Copy A that reaches the packet is recognised for what it is - a form that reports nothing."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "note": "Required where one lender files more than one Form 1098 for one borrower (several loans, or a refinance), so it is what tells two of this lender's forms apart (i1098)."
+      },
+      {
+        "box": "payer-borrower-name",
+        "label": "PAYER'S/BORROWER'S name",
+        "type": "text"
+      },
+      {
+        "box": "payer-borrower-tin",
+        "label": "PAYER'S/BORROWER'S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "recipient-lender-tin",
+        "label": "RECIPIENT'S/LENDER'S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "calendar-year",
+        "label": "For calendar year",
+        "type": "text"
+      }
+    ],
+    "notes": "Boxes 1 and 6 are DISJOINT and BOTH belong on Schedule A line 8a, whose caption reads 'Home mortgage interest and points reported to you on Form 1098'. Adding them is correct; it is not a double-count. Box 4 (refund of overpaid interest) does NOT reduce line 8a - the Schedule A instructions send it to Schedule 1, line 8z as income. Box 5 (mortgage insurance premiums) has NO 2025 destination: Schedule A line 8d reads 'Reserved for future use' for 2025 and line 8e adds only lines 8a through 8c. The box 5 instruction itself says 'To see if the applicability of this provision has been extended, and therefore reporting is required, go to IRS.gov/Form1098.' Box 10 ('Other') is free-form: the lender instructions name real estate taxes, insurance paid from escrow and a collection agent's principal as what may go there. The extractor (prebuilt-tax.us.1098) answers it as TWO fields - RealEstateTax, a number, and Other, text - so the box is addressed by code: 10.real-estate-tax routes to Schedule A line 5b, and 10.other carries no route and is read by a person. Measured on engagement 16: Wells Fargo p.37 RealEstateTax 2,281.94 and Fremont Bank p.42 4,780.01 reached no line while box 10 was one uncoded text box; document 222's Other was a misread '$ 206.144.04' at confidence 0.082, which is why Other must never share an address with RealEstateTax. THE WHOLE FORM IS ABOUT ONE MORTGAGE ON ONE PROPERTY (spec 076 FR-024), which is what `forked_by` declares: its interest, its points, its mortgage insurance and its escrowed real estate tax are all about that property, so whichever schedule the property belongs on, all of them belong on it. E48 holds every route of this document to that.",
+    "forked_by": [
+      "mortgage_secures_a_rental_property"
+    ]
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1098",
+    "note": "Azure's 1098 model answers by MEANING rather than by number, so `fields` is what turns `MortgageInterest` into box 1. Boxes 7, 8, 9 and 11 are mapped and were read by nothing before: box 8 prints the address of the property securing the mortgage on every page, and it is what decides whether the interest belongs on Schedule A 8a or Schedule E 12 (spec 075 US2). `IsPropertyAddressSameAsBorrower` is returned as a STRING (example \"true\"), not a boolean \u2014 parse it defensively.",
+    "fields": {
+      "MortgageInterest": {
+        "box": "1"
+      },
+      "OutstandingMortgagePrincipal": {
+        "box": "2"
+      },
+      "MortgageOriginationDate": {
+        "box": "3"
+      },
+      "OverpaidInterestRefund": {
+        "box": "4"
+      },
+      "MortgageInsurancePremium": {
+        "box": "5"
+      },
+      "PointsPaid": {
+        "box": "6"
+      },
+      "IsPropertyAddressSameAsBorrower": {
+        "box": "7"
+      },
+      "PropertyAddress": {
+        "box": "8"
+      },
+      "MortgagedPropertiesCount": {
+        "box": "9"
+      },
+      "RealEstateTax": {
+        "box": "10.real-estate-tax"
+      },
+      "Other": {
+        "box": "10.other"
+      },
+      "MortgageAcquisitionDate": {
+        "box": "11"
+      },
+      "Borrower.Name": {
+        "box": "payer-borrower-name"
+      },
+      "Borrower.TIN": {
+        "box": "payer-borrower-tin"
+      },
+      "IsCorrected": {
+        "box": "corrected"
+      },
+      "Lender.TIN": {
+        "box": "recipient-lender-tin"
+      },
+      "TaxYear": {
+        "box": "calendar-year"
+      }
+    }
+  }
+}

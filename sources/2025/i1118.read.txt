@@ -1,0 +1,4520 @@
+Instructions for Form 1118
+(Rev. December 2025)
+
+(Use with the December 2025 revision of Form 1118, the December 2021 revision of
+separate Schedule I, the December 2020 revision of separate Schedule J, the
+December 2018 revision of separate Schedule K, and the December 2025 revision of
+Schedule L.)
+Foreign Tax Credit—Corporations
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+Future Developments
+For the latest information about developments related to
+Form 1118 and its instructions, such as legislation
+enacted after they were published, go to IRS.gov/
+Form1118.
+
+What’s New
+New section 960(d)(4). Section 960(d)(4) was added to
+the Internal Revenue Code (“Code”) by section 70312(b)
+of Public Law 119-21, 139 Stat. 72 (July 4, 2025),
+commonly known as the One, Big, Beautiful Bill Act
+(“OBBBA”). New section 960(d)(4) disallows a foreign tax
+credit under section 901 for 10% of any foreign income
+taxes paid or accrued (or deemed paid under section
+960(b)(1)) with respect to section 959(a) distributions, to
+the extent the previously taxed earnings and profits were
+excluded under section 959(a) by reason of a section
+951A inclusion in a U.S. shareholder’s tax year ending
+after June 28, 2025.
+Form changes. There is a change in the manner in
+which special cases of the sourcing of income are
+reported on Schedule A. See the specific instructions for
+Schedule A, column 1(b).
+There is a change in the manner in which Schedule B,
+Part I is completed. Column 2(b) has been split into two
+columns. Add to new column 2(b)(2) the previously taxed
+earnings and profits (PTEP) code attributable to
+distributions of PTEP. See the specific instructions for
+Schedule B, Part I, column 2(b).
+There is a change in the manner in which taxes
+attributable to section 951A PTEP distributions are
+reported on Schedule E, Part I. See the specific
+instructions for Schedule E, Part I, columns 12 through 16.
+On Schedule G, new line H provides a reduction for
+disallowed taxes under section 960(d)(4). See the specific
+instructions for Schedule G, line H.
+
+Reminders
+Corporate Alternative Minimum Tax Foreign Tax
+Credit. Form 1118 is not used to determine foreign tax
+credits for purposes of calculating the Corporate
+Alternative Minimum Tax (CAMT) under section 55,
+enacted under the Inflation Reduction Act of 2022, P.L.
+117-169. Corporate taxpayers are required to use the
+Dec 19, 2025
+
+revised Form 4626 to determine foreign tax credits for
+purposes of calculating the CAMT tax liability, if any, under
+section 55.
+
+General Instructions
+Purpose of Form
+
+Use Form 1118 to compute a corporation’s foreign tax
+credit for certain taxes paid or accrued to foreign countries
+or U.S. territories. See Taxes Eligible for a Credit, later.
+
+Who Must File
+
+Any corporation that elects the benefits of the foreign tax
+credit under section 901 must complete and attach Form
+1118 to its income tax return. In addition, even if a
+corporation has not elected to credit foreign taxes, it must
+complete and attach Form 1118, Schedule A, and
+Schedule J (Form 1118) to its income tax return if it has
+any additions to, reductions to, or recapture of any new or
+existing overall foreign loss, overall domestic loss, or
+separate limitation loss accounts. See Regulations section
+1.904(f)-1(b).
+Also, even if a taxpayer has not elected to credit foreign
+taxes, if it has a foreign tax redetermination under section
+905(c), it must complete and attach Schedule L (Form
+1118) to its income tax return for the tax year in which the
+foreign tax redetermination occurs. Schedule L must be
+submitted irrespective of whether the foreign tax
+redetermination changed the taxpayer’s U.S. tax liability.
+Also, individuals must complete and attach a Form
+1118 to their income tax return if they make the election
+under section 962 to be taxed at corporate rates on the
+amount they must include in gross income under sections
+951(a) and 951A from their controlled foreign corporations
+in order to be eligible to claim a foreign tax credit based on
+their share of foreign income taxes paid or accrued by the
+controlled foreign corporation. See sections 960 and 962
+and Pub. 514 for more information on how to complete
+Form 1118 in this case.
+
+When To Make the Election
+
+The election to claim the foreign tax credit for any tax year
+may be made or changed at any time before the end of a
+special 10-year period described in section 6511(d)(3) (or
+section 6511(c) if the period is extended by agreement).
+The election to claim a deduction in lieu of a credit for
+foreign income taxes may be made or changed at any
+
+Instructions for Form 1118 (Rev. 12-2025) Catalog Number 10905I
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+time before the end of the period prescribed by section
+6511(a) or 6511(c). See Regulations section 1.901-1(d).
+
+indicate the separate category with respect to which you
+are completing a given Form 1118.
+
+Computer-Generated Form 1118
+
+The corporation may submit a computer-generated Form
+1118 and schedules if they conform to the IRS version.
+However, if a software program is used, it must be
+approved by the IRS for use in filing substitute forms. This
+ensures the proper placement of each item appearing on
+the IRS version. For more information, see Pub. 1167,
+General Rules and Specifications for Substitute Forms
+and Schedules.
+
+How To Complete Form 1118
+Important: Complete a separate Schedule A;
+Schedule B, Parts I and II; Schedules C through G;
+Schedule I (Form 1118); Schedule K (Form 1118); and
+Schedule L (Form 1118), Parts I, II, III, and V for each
+applicable separate category of income. See Categories
+of Income, later. Complete Schedule B, Part III;
+Schedule H; Schedule J (Form 1118); and Schedule L
+(Form 1118), Part IV, only once.
+• Use Schedule A to compute the corporation’s income
+or loss before adjustments for each applicable category of
+income.
+• Use Schedule B to determine the total foreign tax
+credit after certain reductions.
+• Use Schedule C to compute taxes deemed paid by the
+domestic corporation filing the return with respect to
+inclusions under section 951(a)(1).
+• Use Schedule D to compute taxes deemed paid by the
+domestic corporation filing the return with respect to
+inclusions under section 951A.
+• Use Schedule E to compute taxes deemed paid by the
+domestic corporation filing the return with respect to
+distributions of previously taxed income (also referred to
+as previously taxed earnings and profits (PTEP)).
+• Use Schedule G to report required reductions of tax
+paid, accrued, or deemed paid.
+• Use Schedule H to apportion deductions that cannot
+be allocated to an item or class of income identified on
+Schedule A.
+• Use Schedule I (a separate schedule) to compute
+reductions of taxes paid, accrued, or deemed paid on
+foreign oil and gas income.
+• Use Schedule J (a separate schedule) to compute
+adjustments to separate limitation income or losses in
+determining the numerators of limitation fractions,
+year-end recharacterization balances, and overall foreign
+and domestic loss account balances.
+• Use Schedule K (a separate schedule) to reconcile the
+corporation’s prior-year foreign tax carryover with its
+current-year foreign tax carryover.
+• Use Schedule L (a separate schedule) to report foreign
+tax redeterminations that occurred in the current tax year
+and that relate to prior tax years.
+
+Categories of Income
+
+Compute a separate foreign tax credit (using a separate
+Form 1118) for each applicable separate category
+described below. Enter the applicable code from the table
+below, in item a at the top of page 1 of Form 1118, to
+2
+
+Code
+
+Category of Income
+
+951A
+
+Section 951A Category Income
+
+FB
+
+Foreign Branch Category Income
+
+PAS
+
+Passive Category Income
+
+901j
+
+Section 901(j) Income
+
+RBT PAS
+
+U.S. Source Passive Category Income
+Resourced by Treaty as Foreign Source
+Passive Category Income
+
+RBT GEN
+
+U.S. Source General Category Income
+Resourced by Treaty as Foreign Source
+General Category Income
+
+RBT FB
+
+U.S. Source Foreign Branch Income
+Resourced by Treaty as Foreign Source
+Foreign Branch Category Income
+
+RBT 951A
+
+U.S. Source Section 951A Category
+Income Resourced by Treaty as
+Foreign Source Section 951A Category
+Income
+
+GEN
+
+General Category Income
+
+If you enter code “901j” or one of the “RBT” codes in
+item a, also complete item b or item c using the country
+codes provided at IRS.gov/CountryCodes.
+
+Section 951A Category Income
+
+Section 951A category income is any amount of global
+intangible low-taxed income (GILTI) includible in gross
+income under section 951A (other than passive category
+income). Section 951A defines GILTI.
+• When completing a Form 1118 for section 951A
+category income, enter the code “951A” on line a at the
+top of page 1.
+• Section 951A category income does not include
+passive category income.
+
+Foreign Branch Category Income
+
+Foreign branch income is defined under section 904(d)(2)
+(J)(i) as the business profits of a U.S. person which are
+attributable to one or more qualified business units
+(QBUs) (as defined in section 989(a)) in one or more
+foreign countries. For more information on the
+computation of foreign branch category income, see
+Regulations section 1.904-4(f).
+• When completing a Form 1118 for foreign branch
+category income, enter the code “FB” on line a at the top
+of page 1.
+• Foreign branch category income does not include
+passive category income.
+• Foreign branch category income is effective for tax
+years of U.S. persons beginning after December 31, 2017.
+
+Passive Category Income
+
+Passive category income includes passive income and
+specified passive category income. When completing a
+Instructions for Form 1118 (Rev. 12-2025)
+
+Form 1118 for passive category income, enter the code
+“PAS” on line a at the top of page 1.
+Passive income. Generally, passive income is the
+following:
+• Any income received or accrued that would be foreign
+personal holding company income (defined in section
+954(c)) if the corporation were a controlled foreign
+corporation (CFC) (defined in section 957). This includes
+any gain on the sale or exchange of stock that is more
+than the amount treated as a dividend under section 1248.
+However, in determining if any income would be foreign
+personal holding company income, the rules of section
+864(d)(6) will apply only for income of a CFC.
+• Any amount includible in gross income under section
+1293 (which relates to certain passive foreign investment
+companies (PFICs)).
+Passive income does not include:
+• Any financial services income,
+• Any export financing interest unless it is also related
+person factoring income (see section 904(d)(2)(G) and
+Regulations section 1.904-4(h)(3)),
+• Any high-taxed income (see Regulations section
+1.904-4(c)), or
+• Any active rents or royalties. See Regulations section
+1.904-4(b)(2)(iii) for definitions and exceptions.
+Note: Certain income received from a CFC and certain
+dividends from noncontrolled 10%-owned foreign
+corporations that would otherwise be passive income are
+treated as passive category income only to the extent
+provided under the look-through rules. See Look-Through
+Rules, later.
+Specified passive category income. This term
+includes:
+• Dividends from a domestic international sales
+corporation (DISC) or former DISC (as defined in section
+992(a)) to the extent such dividends are treated as foreign
+source income, and
+• Distributions from a former foreign sales corporation
+(FSC) out of earnings and profits (E&P) attributable to
+foreign trade income or interest or carrying charges (as
+defined in section 927(d)(1), before its repeal) derived
+from a transaction which results in foreign trade income
+(as defined in section 932(b), before its repeal).
+
+Section 901(j) Income
+
+No credit is allowed for foreign income taxes imposed by
+and paid or accrued to certain sanctioned countries.
+However, a foreign tax credit may be claimed for foreign
+income taxes paid or accrued with respect to section
+901(j) income if such tax is paid or accrued to a country
+other than a sanctioned country.
+Income derived from each sanctioned country is
+subject to a separate foreign tax credit limitation.
+Therefore, the corporation must use a separate Form
+1118 for income derived from each such country.
+On each Form 1118, enter the code “901j” on line a at
+the top of page 1 and identify the applicable country using
+the two-letter code from the list at IRS.gov/CountryCodes.
+Sanctioned countries are those designated by the
+Secretary of State as countries that repeatedly provide
+Instructions for Form 1118 (Rev. 12-2025)
+
+support for acts of international terrorism, countries with
+which the United States does not have diplomatic
+relations, or countries whose governments are not
+recognized by the United States. As of the date these
+instructions were revised, section 901(j) applied to income
+derived from Iran, North Korea, Sudan, and Syria. For
+more information, see section 901(j).
+Note: The President of the United States has the
+authority to waive the application of section 901(j) with
+respect to a foreign country if it is (a) in the national
+interest of the United States and will expand trade and
+investment opportunities for domestic companies in such
+foreign country; and (b) the President reports to the
+Congress, not less than 30 days before the waiver is
+granted, the intention to grant such a waiver and the
+reason for such waiver.
+Note: Effective December 10, 2004, the President waived
+the application of section 901(j) with respect to Libya.
+
+Income Re-Sourced by Treaty
+
+If a sourcing rule in an applicable income tax treaty treats
+any U.S. source income as foreign source, and the
+corporation elects to apply the treaty, the income will be
+treated as foreign source.
+
+Important: The corporation must compute a separate
+foreign tax credit limitation for any such income for which it
+claims benefits under a treaty. See Regulations sections
+1.904-4(k) and 1.904-5(m)(7) for grouping rules and
+exceptions. On each Form 1118, enter one of the RBT
+codes listed below on line a at the top of page 1 and
+identify the applicable treaty country on line c at the top of
+page 1 using the two-letter code from the list at IRS.gov/
+CountryCodes.
+Code “RBT PAS.” If an applicable income tax treaty
+treats any U.S. source passive category income as foreign
+source passive category income, and the corporation
+elects to apply the treaty, on Form 1118, enter code “RBT
+PAS” on line a at the top of page 1.
+Code “RBT GEN.” If an applicable income tax treaty
+treats any U.S. source general category income as foreign
+source general category income, and the corporation
+elects to apply the treaty, on Form 1118, enter code “RBT
+GEN” on line a at the top of page 1.
+Code “RBT FB.” If an applicable income tax treaty treats
+any U.S. source foreign branch category income as
+foreign source foreign branch category income, and the
+corporation elects to apply the treaty, on Form 1118, enter
+code “RBT FB” on line a at the top of page 1.
+Code “RBT 951A.” If an applicable income tax treaty
+treats any U.S. source section 951A category income as
+foreign source section 951A category income, and the
+corporation elects to apply the treaty, on Form 1118, enter
+code “RBT 951A” on line a at the top of page 1.
+
+General Category Income
+
+This category includes all income not described above.
+When completing a Form 1118 for the general category of
+income, enter code “GEN” on line a at the top of page 1.
+3
+
+This category includes high-taxed income that is not
+otherwise treated as another category of income. Usually,
+income is high taxed if the total foreign income taxes paid,
+accrued, or deemed paid by the corporation for that
+income exceed the highest rate of tax specified in section
+11 (and with reference to section 15, if applicable),
+multiplied by the amount of such income (including the
+amount treated as a dividend under section 78). For more
+information, see Regulations section 1.904-4(c). Also see
+the instructions for Schedule A, later, for additional
+reporting requirements.
+This category also includes financial services income
+(defined below) not described above if the corporation is a
+member of a financial services group (as defined in
+section 904(d)(2)(C)(ii)) or is predominantly engaged in
+the active conduct of a banking, insurance, financing, or
+similar business.
+Financial services income. Financial services income
+is income received or accrued by a member of a financial
+services group or any corporation predominantly engaged
+in the active conduct of a banking, insurance, financing, or
+similar business if the income is:
+• Described in section 904(d)(2)(D)(ii),
+• Passive income (determined without regard to section
+904(d)(2)(B)(iii)(II)), or
+• Incidental income described in Regulations section
+1.904-4(e)(4).
+Note: If the corporation qualified as a financial services
+entity because it treated certain amounts as active
+financing income that are not listed in Regulations
+sections 1.904-4(e)(2)(i)(A) through (X), but that are
+described as similar items in Regulations section
+1.904-4(e)(2)(i)(Y), attach a statement to Form 1118
+showing the types and amounts of the similar items.
+
+Special Rules
+Source Rules for Income
+
+Determine income or (loss) for each separate category on
+Schedule A using the general source rules of sections 861
+through 865 and related regulations, the special source
+rules of section 904(h) described below, and any
+applicable source rules contained in any applicable tax
+treaties.
+
+Special source rules of section 904(h). Usually, the
+following income from a U.S.-owned foreign corporation,
+otherwise treated as foreign source income, must be
+treated as U.S. source income under section 904(h).
+• Any subpart F income, foreign personal holding
+company income, GILTI, or income from a qualified
+electing fund that a U.S. shareholder is required to include
+in its gross income if such amount is attributable to the
+U.S.-owned foreign corporation’s U.S. source income.
+• Interest that is properly allocable to the U.S.-owned
+foreign corporation’s U.S. source income.
+• Dividends equal to the U.S. source ratio (defined in
+section 904(h)(4)(B)).
+The rules regarding interest and dividends described
+above do not apply to a U.S.-owned foreign corporation if
+less than 10% of its E&P for the tax year is from U.S.
+sources.
+4
+
+Amounts That Do Not Constitute Income Under
+U.S. Tax Principles
+
+Creditable foreign taxes that are imposed on amounts that
+do not constitute income under U.S. tax principles are
+treated as imposed on income described in section 904(d)
+(1)(B). See section 904(d)(2)(H).
+
+Look-Through Rules
+CFCs. Generally, dividends, interest, rents, and royalties
+received or accrued by the taxpayer are passive category
+income. However, if these items are received or accrued
+by a 10% U.S. shareholder from a CFC, they may be
+assigned to other separate categories, or may be treated
+as passive category income under the look-through rules
+of section 904(d)(3). Dividends include any amount
+included in gross income under section 951(a)(1)(B).
+Look-through rules also apply to subpart F inclusions
+under section 951(a)(1)(A) and GILTI inclusions under
+section 951A to the extent attributable to income of the
+CFC in the passive category.
+For more information and examples, see section 904(d)
+(3) and Regulations section 1.904-5.
+Noncontrolled 10%-owned foreign corporations.
+Generally, dividends received or accrued by the taxpayer
+are passive category income. However, dividends
+received or accrued from a noncontrolled 10%-owned
+foreign corporation may be assigned to other separate
+categories under the look-through rules of section 904(d)
+(4).
+Certain amounts paid by a domestic corporation to a
+related corporation. Look-through rules also apply to
+foreign source interest, rents, and royalties paid by a
+domestic corporation to a related corporation. See
+Regulations section 1.904-5(g).
+
+Other Rules
+Certain transfers of intangible property. See section
+367(d)(2)(C) for a rule that clarifies the treatment of certain
+transfers of intangible property.
+
+Reporting Foreign Tax Information From
+Partnerships
+
+If you received a Schedule K-3 (Form 1065) or a
+Schedule K-3 (Form 8865) from a partnership that
+includes foreign tax information, use the rules below to
+report that information on Form 1118.
+
+Schedule K-3, Part II, Section 1
+Gross income sourced at partner level. This includes
+income from the sale of most personal property other than
+inventory, depreciable property, and certain intangible
+property sourced under section 865. This gross income
+will generally be U.S. source and therefore will not be
+reported on Form 1118.
+Foreign gross income sourced at partnership level.
+Report on Schedule A.
+
+Instructions for Form 1118 (Rev. 12-2025)
+
+Schedule K-3, Part II, Section 2
+
+Credit Limitations
+
+Deductions allocated and apportioned at partner level and partnership level. Report on Schedule A or
+Schedule H.
+
+Taxes Eligible for a Credit
+
+Schedule K-3, Part III, Sections 1 Through 3
+R&E expenses apportionment factors. Report on
+Schedule H, Part I.
+Interest expense apportionment factors. Report on
+Schedule H, Part II.
+Foreign-derived intangible income (FDII) deduction
+apportionment factors. Report on Schedule H, Part II.
+
+Schedule K-3, Part III, Section 4
+Total foreign taxes paid or accrued. Report on
+Schedule B.
+Foreign tax redeterminations. Report on Schedule L.
+Reduction in taxes available for credit. Report on
+Schedule G.
+
+Schedule K-3 (Form 1065), Part VIII
+Partner’s interest in foreign corporation income (section 960). Report on Schedule C or D, as applicable.
+Note: Schedule K-3 (Form 8865) does not contain a part
+equivalent to Schedule K-3 (Form 1065), Part VIII.
+
+Capital Gains
+
+Foreign source taxable income or (loss) before
+adjustments in all separate categories in the aggregate
+should include gain from the sale or exchange of capital
+assets only up to the amount of foreign source capital gain
+net income (which is the smaller of capital gain net income
+from sources outside the United States or capital gain net
+income). Therefore, if the corporation has capital gain net
+income from sources outside the United States in excess
+of the capital gain net income reported on its tax return,
+enter a pro rata portion of the net U.S. source capital loss
+on Schedule A, column 13(j), for each separate category
+with capital gain net income from sources outside the
+United States. To figure the pro rata portion of the net U.S.
+source capital loss attributable to a separate category,
+multiply the net U.S. source capital loss by the amount of
+capital gain net income from sources outside the United
+States in the separate category divided by the aggregate
+amount of capital gain net income from sources outside
+the United States in all separate categories with capital
+gain net income from sources outside the United States.
+See section 904(b)(2)(B) for special rules regarding
+adjustments to account for capital gain rate differentials
+(as defined in section 904(b)(3)(D)) for any tax year. At the
+time these instructions went to print, there was no capital
+gain rate differential for corporations.
+
+Domestic corporations. Generally, a domestic
+corporation may claim a foreign tax credit (subject to the
+limitation of section 904) for the following taxes.
+• Income, war profits, and excess profits taxes paid or
+accrued during the tax year to any foreign country or U.S.
+territory.
+• Taxes paid in lieu of income taxes as described in
+section 903.
+• Taxes deemed paid under section 960.
+Income, war profits, and excess profits taxes and in lieu
+of taxes are collectively referred to as foreign income
+taxes. See Regulations sections 1.901-2(a) and (b) and
+1.903-1 for rules for determining whether a foreign tax
+qualifies as a foreign income tax.
+Caution: Final foreign tax credit regulations issued on
+January 4, 2022 (T.D. 9959, 87 FR 374) revised the
+creditability requirements under Regulations sections
+1.901-2 and 1.903-1, applicable for foreign taxes paid or
+accrued in tax years beginning on or after December 28,
+2021. A Notice was subsequently released on July 21,
+2023, providing taxpayers the option to apply modified
+rules in place of certain provisions of the new regulations.
+For more information, see Notice 2023-55, 2023-32 I.R.B.
+427, available at IRS.gov/irb/2023-32_IRB#NOT-2023-55.
+Some foreign taxes that are otherwise eligible for the
+foreign tax credit must be reduced. These reductions are
+reported on Schedule G.
+Note: A corporation may not claim a foreign tax credit for
+foreign income taxes paid to a foreign country that the
+corporation does not legally owe, including amounts
+eligible for refund by the foreign country. If the corporation
+does not exercise its available remedies to reduce the
+amount of foreign income tax to what it legally owes, a
+credit is not allowed for the excess amount.
+Foreign corporations. Foreign corporations are allowed
+(under section 906) a foreign tax credit for foreign income
+taxes paid or accrued to any foreign country or U.S.
+territory for income effectively connected with the conduct
+of a trade or business within the United States. The credit
+is not applicable, however, if a foreign country or U.S.
+territory imposes the tax on income from U.S. sources
+solely because the foreign corporation was created or
+organized under the law of the foreign country or U.S.
+territory or is domiciled there for tax purposes.
+The credit may not be taken against any tax imposed
+on income not effectively connected with a U.S. business.
+In computing the foreign tax credit limitation, the foreign
+corporation’s taxable income includes only the taxable
+income that is effectively connected with the conduct of a
+trade or business within the United States.
+
+Credit or Deduction
+
+A corporation may choose to take either a credit or a
+deduction for eligible foreign income taxes paid or
+accrued. The choice is made annually. Generally, if a
+corporation elects the benefits of the foreign tax credit for
+Instructions for Form 1118 (Rev. 12-2025)
+
+5
+
+any tax year, no portion of the foreign income taxes paid
+or accrued in such year will be allowed as a deduction in
+that year or any subsequent tax year.
+Exceptions. However, a corporation that elects the credit
+for foreign income taxes may be allowed a deduction for
+certain taxes for which a credit was not allowed. These
+include the following.
+• Taxes for which the credit was denied because of the
+boycott provisions of section 908.
+• Certain taxes on the purchase or sale of oil or gas
+(section 901(f)).
+• Certain taxes used to provide subsidies (section 901(i)).
+• Taxes paid to certain foreign countries for which a credit
+was denied under section 901(j).
+• Certain taxes paid on dividends if the minimum holding
+period is not met with respect to the underlying stock, or if
+the corporation is obligated to make related payments with
+respect to positions in similar or related property (section
+901(k)).
+• Certain taxes paid on gain and income other than
+dividends if the minimum holding period is not met with
+respect to the underlying property, or if the corporation is
+obligated to make related payments with respect to
+positions in similar or related property (see section 901(l)).
+• In the case of a covered asset acquisition (as defined in
+section 901(m)(2)), the disqualified portion of any tax
+determined with respect to the income or gain attributable
+to the relevant foreign assets (section 901(m)). Note: This
+rule generally applies to covered asset acquisitions after
+December 31, 2010. See Regulations sections
+1.901(m)-1 through 1.901(m)-8 for additional information.
+Note that the rules contained in these regulations have
+later effective dates.
+• Taxes paid by an accrual-basis taxpayer that relate to a
+prior tax year in which the taxpayer elected to claim a
+deduction for foreign income taxes in that prior year. See
+Regulations section 1.901-1(c)(3).
+
+No Credit or Deduction
+
+No foreign tax credit (or deduction) is allowed for certain
+taxes including:
+• Taxes on mineral income that were reduced under
+section 901(e).
+• Certain taxes paid on distributions from corporations
+organized in a U.S. territory (section 901(g)).
+• Taxes on combined foreign oil and gas income that
+were reduced under section 907(a).
+• Taxes attributable to income excluded under section
+814(a) (relating to contiguous country branches of
+domestic life insurance companies).
+• Taxes paid or accrued to a foreign country or U.S.
+territory with respect to income excluded from gross
+income on Form 8873, Extraterritorial Income Exclusion.
+However, see section 943(d) for an exception for certain
+withholding taxes.
+• The applicable percentage of taxes paid or deemed
+paid with respect to an amount included in income under
+section 965 (section 965(g)).
+• Taxes paid with respect to the amount treated as
+included under section 965(b).
+
+6
+
+Carryback and Carryforward of Excess Foreign
+Taxes
+
+If the allowable foreign income taxes paid, accrued, or
+deemed paid in a tax year in a separate category exceed
+the foreign tax credit limitation for the tax year for that
+separate category, the excess is:
+• First, carried back 1 year to offset taxes imposed in the
+same category, then
+• Carried forward 10 years to offset taxes imposed in the
+same category.
+The excess is applied first to the earliest of the years to
+which it may be carried, then to the next earliest year, etc.
+The corporation may not carry a credit to a tax year for
+which it claimed a deduction, rather than a credit, for
+foreign income taxes paid or accrued. Furthermore, the
+corporation must reduce the amount of any carryback or
+carryforward by the amount it would have used had it
+chosen to claim a credit rather than a deduction in that tax
+year. These carryover provisions do not apply to foreign
+income taxes assigned to section 951A category income.
+See section 904(c) and Regulations section 1.904-2 for
+more details.
+How to claim the excess credit. If the corporation is
+carrying back the excess credit to an earlier year, file an
+amended tax return with a revised Form 1118 and
+schedules (including a revised Schedule K (Form 1118)).
+Special rules apply to:
+
+• The carryback and carryforward of foreign income taxes
+
+paid or accrued on combined foreign oil and gas income
+or related taxes (see section 907(f)).
+• An excess foreign tax credit for which an excess
+limitation account exists under section 960(c)(2). See
+Regulations sections 1.960-4 through 1.960-6.
+• Carryback of foreign income taxes paid or accrued in
+post-2017 foreign corporate tax years and carryforward of
+foreign income taxes paid or accrued in pre-2018 foreign
+corporate tax years. See Regulations section 1.904-2(j).
+
+Treaty-Based Return Positions
+
+Corporations that adopt a return position that any U.S.
+treaty overrides or modifies any provision of the Internal
+Revenue Code, and causes (or potentially causes) a
+reduction of any tax incurred at any time, must generally
+disclose this position. This includes when a corporation is
+relying on a U.S. treaty to claim a credit for a foreign tax.
+Complete Form 8833, Treaty-Based Return Position
+Disclosure Under Section 6114 or Section 7701(b), and
+attach it to Form 1118. See section 6114 and Regulations
+section 301.6114-1 for details.
+Failure to make such a report may result in a $10,000
+penalty.
+
+Proof of Credits
+
+Form 1118 must be carefully filled in with all the
+information called for and with the calculations of credits
+indicated.
+
+Important: Documentation (that is, receipts of payments
+or a foreign tax return for accrued taxes) is not required to
+be attached to Form 1118. However, proof must be
+presented upon request by the IRS to substantiate the
+credit. See Regulations section 1.905-2.
+Instructions for Form 1118 (Rev. 12-2025)
+
+If the corporation claims a foreign tax credit for tax
+accrued but not paid, the IRS may require a bond to be
+furnished on Form 1117, Income Tax Surety Bond, before
+the credit is allowed. See Regulations section 1.905-2(c).
+
+Foreign Tax Redeterminations
+
+The corporation’s foreign tax credit and U.S. tax liability
+must generally be redetermined if:
+• Accrued foreign income taxes when paid or later
+adjusted differ from the amounts claimed as credits
+(including corrections to accrued amounts to reflect final
+foreign tax liability and additional payments of tax that
+accrue after the close of the tax year to which the tax
+relates);
+• Accrued foreign income taxes are not paid within 24
+months after the close of the tax year to which they relate;
+• Any foreign income tax paid is fully or partially refunded;
+• A change in foreign tax liability that affects the amount
+of distributions or inclusions under sections 951, 951A, or
+1293, or affects the application of the high-tax exception
+described in section 954(b)(4); or
+• A change to claim a foreign tax credit for foreign income
+taxes that were previously deducted or a change to claim
+a deduction for foreign income taxes that were previously
+credited.
+See Regulations section 1.905-3(a) and (b).
+See Regulations section 1.905-3(b)(1)(i) for a limited
+exception to a redetermination of a U.S. tax liability with
+respect to foreign income tax claimed as a credit under
+section 901 (other than a tax deemed paid under section
+960).
+A redetermination of U.S. tax liability is also generally
+required to account for the effect of a redetermination of
+foreign income tax paid or accrued by a foreign
+corporation on the amount of foreign income taxes
+deemed paid under section 960. See Regulations section
+1.905-3(b)(2). For foreign tax redeterminations of a foreign
+corporation that relate to a tax year of the foreign
+corporation beginning before January 1, 2018, see
+Regulations section 1.905-5.
+
+Reporting Requirements
+
+If, as a result of the foreign tax redetermination, the
+corporation’s U.S. tax liability for any tax year is changed,
+the corporation must file an amended return to report the
+foreign tax redetermination and, if applicable, pay
+additional U.S. tax.
+Increase in U.S. tax liability as a result of foreign tax
+redeterminations is excepted from the general statute of
+limitations against assessment and collection. See
+sections 6501(c)(5) and 905(c). If you have a foreign tax
+redetermination that results in an increase in your U.S. tax
+liability for any year, please enter on page 2 of your Form
+1120-X: “This amended return and Form 1118 is for a
+change in Foreign Tax Credit that increases U.S. tax
+liability.”
+In addition, the amended return must have attached to
+it an amended Form 1118 and a statement that provides
+the following.
+• The taxpayer’s name, address, identifying number, the
+tax year or years of the taxpayer that are affected by the
+Instructions for Form 1118 (Rev. 12-2025)
+
+foreign tax redetermination, and, in the case of foreign
+income taxes deemed paid, the name and identifying
+number, if any, of the foreign corporation.
+• The date or dates the foreign income taxes were
+accrued, if applicable.
+• The date or dates the foreign income taxes were paid.
+• The amount of foreign income taxes paid or accrued on
+each date (in foreign currency) and the exchange rate
+used to translate each such amount.
+• Information sufficient to determine any change to the
+characterization of a distribution or the amount of any
+inclusion under section 951(a), 951A, 1291, or 1293.
+• An amended Form 5471 when applicable.
+• Information sufficient to determine any interest due from
+or owing to the taxpayer, including the amount of any
+interest paid by the foreign government to the taxpayer,
+and the dates received.
+
+Additional Information Required
+If the redetermination was because of one of the following,
+the corporation must provide the additional information as
+indicated.
+Refund of foreign income taxes paid.
+• The date of each such refund.
+• The amount of such refund (in foreign currency).
+• The exchange rate that was used to translate such
+amount when originally claimed as a credit.
+• The spot rate (as defined in Regulations section
+1.988-1(d)) for the date the refund was received (for
+purposes of computing foreign currency gain or loss under
+section 988).
+Accrued foreign income taxes that are not paid on or
+before the date that is 24 months after the close of
+the tax year to which such taxes relate.
+• The amount of such taxes in foreign currency.
+• The exchange rate that was used to translate such
+amount when originally claimed as a credit or added to
+post-1986 foreign income taxes or PTEP group taxes (as
+defined in Regulations section 1.960-3(d)(1)).
+Redetermination of U.S. tax liability results in an
+amount of additional tax due, and the carryback or
+carryover of an unused foreign income tax under
+section 904(c) only partially eliminates such amount.
+The information required in Regulations section
+1.904-2(f).
+Foreign tax redeterminations of foreign corporations
+that relate to tax years of the foreign corporation beginning before January 1, 2018. Provide the additional
+information listed under both categories below, as
+applicable.
+Post-1986 pools of earnings and taxes of foreign
+corporations.
+• The closing balances of the pools of post-1986
+undistributed earnings and post-1986 foreign income
+taxes for each affected year before and after adjusting the
+pools to account for the foreign tax redetermination.
+• The dates and amounts of any dividend distributions or
+other inclusions made out of post-1986 undistributed
+earnings for the affected year or years.
+
+7
+
+Pre-1987 accumulated profits of foreign
+corporations.
+• The dates and amounts of any dividend distributions or
+other inclusions made out of E&P for the affected year or
+years.
+• The rate of exchange on the date of any such
+distribution or inclusion.
+• The amount of E&P from which such dividends were
+paid or inclusions were made for the affected year or
+years.
+See Regulations sections 1.986(a)-1 and 1.905-3
+through 1.905-5 for further information regarding
+redeterminations and the required notification.
+For special rules relating to corporations under the
+jurisdiction of the Large Business and International
+Division, see Regulations section 1.905-4(b)(4).
+Schedule L (Form 1118). In addition to filing an
+amended return with Form 1118 and attached statement
+for the tax year(s) of the taxpayer for which the U.S. tax
+liability is changed as a result of the foreign tax
+redetermination, the taxpayer must include with its
+current-year return a Schedule L (Form 1118)
+summarizing the foreign tax redeterminations that
+occurred that year.
+If a foreign tax redetermination does not change the
+amount of U.S. tax due for any tax year, the taxpayer does
+not need to file an amended return and may instead notify
+the IRS of the redetermination by attaching a completed
+Schedule L (Form 1118) to the original return for the
+taxpayer’s tax year in which the foreign tax
+redetermination occurs. See Instructions for Schedule L
+(Form 1118) for additional information.
+Election to account for foreign tax redeterminations
+with respect to pre-2018 tax years in the foreign corporation’s last pooling year. An irrevocable election
+may be made by a foreign corporation’s controlling
+domestic shareholders to account for all foreign tax
+redeterminations that occur in tax years ending on or after
+November 2, 2020, with respect to pre-2018 tax years of
+foreign corporations as if they occurred in the foreign
+corporation’s last tax year beginning before January 1,
+2018 (last pooling year). Such election is binding on all
+persons who are, or were in a prior year to which the
+election applies, U.S. shareholders of the foreign
+corporation with respect to which the election is made for
+all of its subsequent foreign tax redeterminations, as well
+as foreign tax redeterminations of other members of the
+same CFC group as the foreign corporation for which the
+election is made. The election is made by filing:
+• The statement required under Regulations section
+1.964-1(c)(3)(ii) with a timely filed original income tax
+return for the tax year of each controlling domestic
+shareholder of the foreign corporation in which or with
+which the foreign corporation’s first redetermination year
+ends;
+• Any notices required under Regulations section
+1.964-1(c)(3)(iii);
+• Amended returns as required under Regulations
+sections 1.905-4, 1.905-5(e), 1.905-3T(d), and 1.905-5T.
+See Regulations section 1.905-5(e) for additional
+information.
+8
+
+Contested foreign income tax liability. In general, a
+taxpayer cannot claim a credit for a contested foreign
+income tax liability until the contest is resolved and the
+amount of the liability is finally determined.
+Cash method taxpayers. Unless an election to claim
+a provisional credit for contested foreign income taxes
+(described below) is made, a taxpayer that claims the
+foreign tax credit on a cash basis cannot claim a credit for
+a contested foreign income tax liability (or portion thereof)
+that has been remitted to the foreign country until such
+time as the contest is resolved and the tax is considered
+paid for purposes of section 901. Once the contest is
+resolved and the foreign income tax liability is finally
+determined, the tax liability is treated as paid in the tax
+year in which the foreign tax was remitted. See
+Regulations section 1.905-1(c)(2).
+Accrual method taxpayers. Unless an election to
+claim a provisional credit for contested foreign income
+taxes is made, a taxpayer that claims the foreign tax credit
+on the accrual basis cannot claim a credit for a contested
+foreign income tax liability until such time as both the
+contest is resolved and the tax is considered paid, even if
+the contested liability (or portion thereof) has previously
+been remitted to the foreign country. Once the contest is
+resolved and the foreign income tax liability is finally
+determined and paid, the tax liability accrues, and is
+considered to accrue in the relation-back year for
+purposes of the foreign tax credit. See Regulations
+section 1.905-1(d)(3).
+
+Election To Claim a Provisional Credit for
+Contested Foreign Income Taxes
+Cash method taxpayers. A taxpayer claiming foreign
+tax credits on the cash basis may elect to claim a foreign
+tax credit for a contested foreign income tax liability (or a
+portion thereof) in the year the contested amount (or a
+portion thereof) is remitted to the foreign country,
+notwithstanding that the liability is not finally determined
+and so is not considered an amount of tax paid.
+This election is available only for contested foreign
+income taxes that are remitted in a tax year in which the
+taxpayer has elected under section 901(a) to claim a
+credit, instead of a deduction under section 164(a)(3), for
+foreign income taxes that are paid in such year.
+To make the election, a taxpayer claiming credits on the
+cash basis must file a Form 1118 for the tax year in which
+the contested liability is remitted and a Form 7204,
+Consent To Extend the Time To Assess Tax Related to
+Contested Foreign Income Taxes—Provisional Foreign
+Tax Credit Agreement.
+In addition, the taxpayer must, for each subsequent tax
+year up to and including the tax year in which the contest
+is resolved, file annually Schedule L (Form 1118). Any
+portion of a contested foreign income tax liability for which
+a provisional credit is claimed that is subsequently
+refunded by the foreign country results in a foreign tax
+redetermination under Regulations section 1.905-3(a).
+Accrual method taxpayers. A taxpayer may elect to
+claim a foreign tax credit for a contested foreign income
+tax liability (or a portion thereof) in the relation-back year
+when the contested amount (or a portion thereof) is
+Instructions for Form 1118 (Rev. 12-2025)
+
+remitted to the foreign country, notwithstanding that the
+liability is not finally determined and so has not accrued.
+This election is available only for contested foreign
+income taxes that relate to a tax year in which the taxpayer
+has elected under section 901(a) to claim a credit, instead
+of a deduction under section 164(a)(3), for foreign income
+taxes that accrued in such year.
+A taxpayer claiming credits on the accrual basis must
+file an original or amended return for the tax year to which
+the contested tax relates, together with a Form 1118, and
+a Form 7204.
+In addition, the taxpayer must, for each subsequent tax
+year up to and including the tax year in which the contest
+is resolved, file annually Schedule L (Form 1118). Any
+portion of a contested foreign income tax liability for which
+a provisional credit is claimed that is subsequently
+refunded by the foreign country results in a foreign tax
+redetermination under Regulations section 1.905-3(a).
+
+Interest and Penalties
+
+In most cases, interest is computed on the deficiency or
+overpayment that resulted from the foreign tax adjustment
+(sections 6601 and 6611 and the related regulations). See
+Regulations section 1.905-4(e) for additional information.
+If the corporation does not comply with the
+requirements discussed above within the time for filing
+specified, the penalty provisions of section 6689 (and the
+related regulations) will apply.
+
+Specific Instructions
+
+Report all amounts in U.S. dollars unless otherwise
+specified. If it is necessary to convert from a foreign
+currency, attach a statement explaining how the
+conversion rate was determined.
+
+Lines a, b, and c at the top of page 1 of the form. The
+corporation must complete a separate Form 1118 for each
+applicable category of income. See Categories of Income,
+earlier, for the code to enter on line a (at the top of page 1
+of the form). Also see those instructions for the country
+code to enter on line b or line c, if applicable.
+
+Schedule A
+
+Report gross income from sources outside the United
+States for the applicable separate category in columns
+3(a) through 11. Report the applicable deductions to this
+gross income in columns 13 and 14. Report any net
+operating loss carryover in column 15.
+
+Column 1(a). Column 1(a) generally requests an
+employer identification number (EIN) or a reference ID
+number for related persons or their QBUs from or through
+which the corporation derived foreign source income
+and/or paid or accrued creditable foreign taxes.
+However, enter in column 1(a) the “Unrelated code” in
+cases where the corporation derived foreign source
+income and/or paid or accrued creditable foreign taxes
+from or through unrelated persons or their QBUs. Also,
+column 1(a) can be left blank, but only if one of the
+following seven entries is made in column 1(b).
+• 863(b)
+• RIC
+Instructions for Form 1118 (Rev. 12-2025)
+
+• NOL
+• HTKO
+• 951A
+• G2B
+• B2G
+
+See the instructions for column 1(b), later, for more
+information regarding when the above entries can be
+made in column 1(b).
+Note: Taxpayers no longer have the option of entering
+“FOREIGNUS” or “APPLIED FOR” in this column. Instead,
+if the related person or their QBU does not have an EIN,
+the taxpayer must use a reference ID number that
+uniquely identifies such related person or QBU, using the
+rules set forth in Reference ID numbers, in the
+Requirements section, later.
+Where gross income is derived from a related person
+(within the meaning of section 267(b) or 707(b)), enter the
+EIN or reference ID number of such related person. In the
+case of income derived from a QBU of the related person,
+enter the EIN or reference ID number of the QBU. Enter
+the EIN or reference ID number of related entities and their
+QBUs through which the corporation paid or accrued
+creditable foreign taxes, even if no income from these
+entities is reported on Schedule A. If gross income is
+received or derived from an entity other than a related
+person, an EIN or reference ID number is not required.
+Example 1. Domestic Corporation earns sales income
+from sales to unrelated persons. Domestic Corporation
+leaves column 1(a) blank and enters the sales income in
+column 7.
+Example 2. USC, a domestic corporation, takes into
+account its distributive share of partnership income with
+respect to USPS, a domestic partnership in which USC
+has a 60% interest. In column 1(a), USC enters the
+identifying number for USPS.
+Reference ID numbers. A reference ID number is a
+number established by or on behalf of the domestic
+corporation filing Form 1118. With respect to Schedule A,
+these numbers are used to uniquely identify the payor with
+respect to payments from related persons, in order to
+determine the proper source of such payment. With
+respect to Schedules C through E, these numbers are
+used to uniquely identify foreign corporations in order to
+keep track of those corporations from tax year to tax year.
+The reference ID number must meet the requirements set
+forth below.
+Note: Because reference ID numbers are established by
+or on behalf of the U.S. corporation filing certain forms
+such as Form 1118, there is no need to apply to the IRS to
+request a reference ID number or for permission to use
+these numbers.
+Requirements. The reference ID number must be
+alphanumeric (defined below) and no special characters
+or spaces are permitted. The length of a given reference
+ID number is limited to 50 characters.
+For these purposes, the term “alphanumeric” means
+the entry can be alphabetic, numeric, or any combination
+of the two.
+
+9
+
+The same reference ID number must be used
+consistently from tax year to tax year with respect to a
+given entity. If for any reason a reference ID number falls
+out of use (for example, the entity no longer exists due to
+disposition or liquidation), the reference ID number used
+for that entity cannot be used again for another entity for
+purposes of filing Form 1118.
+There are some situations that require correlation of a
+new reference ID number with a previous reference ID
+number. For example:
+• In the case of a merger or acquisition, a Form 1118 filer
+must use a reference ID number which correlates the
+previous reference ID number with the new reference ID
+number assigned to the entity.
+• In the case of an entity classification election that is
+made on behalf of a foreign corporation on Form 8832,
+Regulations section 301.6109-1(b)(2)(v) requires the
+foreign corporation to have an EIN for this election. For the
+first year that Form 1118 is filed after an entity
+classification election is made on behalf of the foreign
+corporation on Form 8832, both the new EIN and the old
+reference ID number must be entered in column 1(a), as
+explained in the next paragraph.
+You must correlate the identifying numbers as follows:
+New EIN or reference ID number [space] Old reference ID
+number. If there is more than one old reference ID number,
+you must enter a space between each such number. As
+indicated above, the length of a given reference ID
+number is limited to 50 characters and each number must
+be alphanumeric and no special characters are permitted.
+Note: This correlation requirement applies only to the first
+year the new reference ID number is used.
+Branches. For each branch that is not a foreign branch,
+as defined under Regulations section 1.904-4(f)(3)(vii),
+use a single line to report such branch’s gross income and
+deductions. In column 1(a), enter “Branch.” If there is more
+than one branch, enter the identifying number of the
+branch (as reported in Form 8858) after the word “Branch”
+on each line. These amounts should be reported on a
+Form 1118 other than the Form 1118 for the foreign
+branch income category.
+Example. USC, a domestic corporation, has a branch
+in Country X. The activities of the branch do not constitute
+a trade or business. In column 1(a), USC enters the word
+“Branch.” USC will report the income and expenses of the
+branch in the appropriate columns.
+See below with respect to QBUs that are foreign
+branches as defined under Regulations section 1.904-4(f)
+(3)(vii).
+
+related person in Country X and USC earns gross income
+of $15 with respect to services performed for the related
+person in Country Y. The two-letter country code for
+Country X is XX and the two-letter country code for
+Country Y is YY. On Schedule A, USC reports as follows.
+USC makes the following entries on the first of two lines
+on Schedule A.
+Column
+
+Entry
+
+1(a)
+
+1000016
+
+2
+
+XX
+
+8
+
+10
+
+USC makes the following entries on the second of two
+lines on Schedule A.
+Column
+
+Entry
+
+1(a)
+
+1000016
+
+2
+
+YY
+
+8
+
+15
+
+Qualified business units (QBUs). For QBUs that are
+foreign branches under Regulations section 1.904-4(f)(3)
+(vii), use a separate line for each such branch to report
+each branch’s gross income and deductions. Report these
+amounts on a per-country basis. In column 1(a), enter the
+EIN or reference ID number of the QBU. Enter the country
+code in column 2. These amounts should be reported on
+Form 1118 for foreign branch category income or passive
+category income.
+Column 1(b). Enter the code(s) for specific types of
+foreign source income with respect to which taxpayers are
+permitted to aggregate all such income and report the
+totals on a single line on Schedule A.
+Code
+
+Aggregate Foreign Source Income
+
+863(b)
+
+Section 863(b) income
+
+RIC
+
+Regulated Investment Company
+
+NOL
+
+Net Operating Loss
+
+HTKO
+
+High-Tax Kick-Out
+
+951A
+
+Section 951A income
+
+G2B
+
+General to Branch
+
+B2G
+
+Branch to General
+
+Special Cases for Columns 1 and 2
+
+Except as otherwise instructed below, income of a U.S.
+shareholder with respect to the same related person but
+from multiple sources should be reported on a
+country-by-country basis.
+Example. USC, a domestic corporation, has
+employees who perform services in Country X and
+Country Y for the same related person. The related person
+has a reference ID number of 1000016. USC earns gross
+income of $10 with respect to services performed for the
+10
+
+Section 863(b) gross income and deductions.
+Aggregate all section 863(b) foreign source gross income
+and deductions and report the totals on a single line. It
+may be necessary to enter amounts in multiple columns
+on that single line, depending upon the nature of the
+section 863(b) gross income and deductions. For
+example, leave columns 1(a) and 2 blank, enter “863(b)”
+in column 1(b), and enter (as a positive number) all
+section 863(b) gross income (in columns 3 through 12)
+Instructions for Form 1118 (Rev. 12-2025)
+
+and all section 863(b) deductions (in columns 13 through
+16). Also enter the net amount in column 17. Note that the
+totals are being reported on a single line because it is not
+necessary to report section 863(b) gross income and
+deductions on a per-country basis.
+Regulated investment company (RIC) pass-through
+amounts. Aggregate all income passed through from
+RICs and report the total on a single line. Leave columns
+1(a) and 2 blank, enter “RIC” in column 1(b), and report
+the total in column 17. Note that the totals are being
+reported on a single line because it is not necessary to
+report the RIC pass-through amounts on a per-country
+basis.
+Net operating losses (NOLs). Report any NOL
+carryover on a single line. Leave columns 1(a) and 2
+blank, enter “NOL” in column 1(b), and report the total in
+column 15. Note that the totals are being reported on a
+single line because it is not necessary to report the NOL
+on a per-country basis.
+Reclassifications of high-taxed income. Aggregate all
+reclassifications of high-taxed income and report the total
+on a single line. With respect to passive category income,
+for items of income that have been included on
+Schedule A and that must be reclassified under sections
+904(d)(2)(B)(iii)(II) and 904(d)(2)(F), leave columns 1(a)
+and 2 blank and enter “HTKO” in column 1(b) and enter
+(as a negative number) in column 17 the net amount of
+income that is being reclassified from passive category
+income. With respect to the category of income to which
+such passive income is reclassified, leave columns 1(a)
+and 2 blank, enter “HTKO” in column 1(b), and enter (as a
+positive number) in column 17 the net amount of income
+that is being reclassified to such category of income. Note
+that the reclassifications are being reported on a single
+line because it is not necessary to report them on a
+per-country basis. Also, note that tax reclassifications are
+needed on Schedule B. See those instructions for more
+information.
+Inclusions under section 951A. Because computations
+for inclusions under section 951A are reported on
+separate Form 8992, Shareholder Calculation of Global
+Intangible Low-Taxed Income (GILTI), report the inclusion
+under section 951A on a single line. Specifically, there is
+no need to report the identifying numbers and various
+countries associated with an inclusion under section 951A
+on Form 1118.
+For inclusions under section 951A, enter “951A” in
+column 1(b) instead of a two-letter code. Leave columns
+1(a) and 2 blank.
+Reattribution of income by reason of disregarded
+payments between a foreign branch and its foreign
+branch owner. For reattribution of income from the
+general category to the foreign branch category, enter
+“G2B” in column 1(b) instead of a two-letter code. Leave
+column 1(a) blank.
+For reattribution of income from the foreign branch
+category to the general category, enter “B2G” in column
+1(b) instead of a two-letter code. Leave column 1(a) blank.
+See Regulations section 1.904-4(f)(2)(vi)(B) for more
+information regarding the rules pertaining to reattribution
+Instructions for Form 1118 (Rev. 12-2025)
+
+of income by reason of disregarded payments between a
+foreign branch and its foreign branch owner.
+Column 2. Enter the two-letter code (from the list at
+IRS.gov/CountryCodes) of each foreign country and U.S.
+territory within which income is sourced and/or to which
+taxes were paid or accrued.
+Note: Complete this column with respect to all income
+regardless of whether such income is from a related
+person.
+Column 3(a). Report all inclusions under sections 951(a)
+(1) (including amounts under section 951(a)(1)(B) and
+section 964(e)(4)) and 951A (before gross-up). See
+section 904(d)(3) and Look-Through Rules, earlier, for
+more information with respect to the separate category of
+such inclusions. For each inclusion under section 951(a)
+(1) with respect to a CFC, make sure to enter the
+appropriate identifying number in column 1(a) and the
+country of residence of the CFC in column 2.
+Note: Inclusions under section 951(a)(1) now include
+hybrid dividends received by a CFC from another CFC of
+the same U.S. shareholder. See section 245A(e)(2).
+Do not report the inclusion under section 951A net of
+the deduction allowed under section 250. The deduction
+under section 250 is taken into account in Schedule A,
+column 13(c).
+If the corporation is a U.S. shareholder in a PFIC that is
+a qualified electing fund, report all income deemed
+received (before gross-up) under section 1293.
+Column 3(b). In column 3(b), include taxes deemed paid
+by a domestic corporation with respect to inclusions under
+section 951(a)(1) and section 951A as gross-ups. For
+inclusions under section 951(a)(1), the gross-up is the
+taxes deemed paid as reported in the total of Schedule C,
+column 7. The gross-up for inclusions under section 951A
+is the amount computed in Schedule D, Part II, column 3.
+Column 4. Report dividends from sources outside the
+United States for the applicable separate category. This
+includes dividends eligible for the dividends received
+deduction under section 245A. Note that hybrid dividends
+are not eligible for the dividends received deduction.
+Note: In general, dividends from a domestic corporation
+are U.S. source income, including dividends from a
+domestic corporation which has 80% or more of its gross
+income from sources outside the United States.
+Column 5. Enter interest received from foreign sources.
+See section 861(c) for the treatment of interest from a
+domestic corporation that meets the foreign business
+requirement.
+Column 7. Include foreign source gross income from
+sales (net of returns and allowances and less costs of
+goods sold). Include the foreign source portion of section
+863(b) sales in this column.
+Note: Under section 863(b), income from the sale of
+inventory property is sourced to the place of production.
+Accordingly, do not include inventory produced in the
+United States and sold overseas in this column.
+11
+
+Column 8. Include gross income, including
+compensation, commissions, fees, etc., for technical,
+managerial, engineering, construction, scientific, or similar
+services outside the United States.
+Columns 9 and 10. Include the following amounts in
+column 9. Use a separate line for each type of gain and
+enter the corresponding code in column 10.
+• Foreign source exchange gain recognized under
+section 986(c) on a distribution of PTEP. Enter code
+“986c” in column 10.
+• Foreign source exchange gain recognized under
+section 987(3) on a remittance from a QBU. Enter code
+“987” in column 10.
+• Foreign source exchange gain recognized under
+section 988. Enter code “988” in column 10.
+Note: Section 988 exchange gain or loss is sourced by
+reference to the residence of the taxpayer or the QBU of
+the taxpayer on whose books the nonfunctional currency
+asset or liability is properly reflected.
+Column 11. Include other gross income from sources
+outside the United States for the applicable separate
+category. Attach a schedule identifying the gross income
+by type.
+Column 13(a). Enter the dividends received deduction
+allowed on foreign source dividends under section 245A.
+This should be equal to the amount reported in
+Schedule A, column 4, if all such dividend income is
+eligible for the dividends received deduction.
+Note: Certain hybrid dividends are not eligible for the
+dividends received deduction under section 245A. See
+section 245A(e)(1).
+Note: An amount treated as a dividend under section
+1291(d)(2)(B) (related to PFICs) is ineligible for the
+dividends received deduction. See section 245A(f).
+Note: The foreign branch income and section 951A
+income categories do not include any dividend income
+eligible to be offset by the deduction under section 245A.
+Column 13(b). Enter the deduction allowed under
+section 250(a)(1)(A) with respect to foreign derived
+intangible income, taking into account the other provisions
+of section 250, that is allocated and apportioned to foreign
+source income in the applicable separate category of
+income. See Regulations section 1.861-8(e)(13).
+Column 13(c). Enter the deduction allowed under
+section 250(a)(1)(B) with respect to GILTI (section 951A
+inclusion), taking into account the other provisions of
+section 250, that is allocated and apportioned to foreign
+source income in the applicable separate category of
+income. See Regulations section 1.861-8(e)(14).
+Column 13(d). Enter the depreciation, depletion, and
+amortization deductions related to rental, royalty, and
+licensing expenses that are allocated and apportioned to
+foreign source income in the applicable separate category
+of income.
+Column 13(e). Enter the other allocable expenses
+related to rental, royalty, and licensing expenses that are
+12
+
+allocated and apportioned to foreign source income in the
+applicable separate category of income.
+Column 13(f). Enter expenses allocable to gross income
+from sales that are allocated and apportioned to foreign
+source income in the applicable separate category of
+income (the amount entered in column 7).
+Column 13(g). Enter expenses allocable to gross
+income from performance of services that are allocated
+and apportioned to foreign source income in the
+applicable separate category of income (the amount
+entered in column 8).
+Columns 13(h) and 13(i). Include any foreign source
+exchange loss recognized under section 986(c) on a
+distribution of PTEP, any foreign source exchange loss
+recognized under section 987(3) on a remittance from a
+QBU, and any foreign source exchange loss recognized
+under section 988. Use a separate line for each type of
+loss and enter the corresponding code in column 13(i).
+See the instructions for Schedule A, column 9, earlier, for
+the applicable codes.
+Column 13(j). Include other deductions allocable to
+income from sources outside the United States
+(dividends, interest, etc.) for the applicable separate
+category that are not otherwise included in Schedule H.
+Include any reduction made in determining foreign
+source capital gain net income. If capital gain net income
+from sources outside the United States from all separate
+categories is more than the capital gain net income
+reported on the corporation’s tax return, enter a pro rata
+portion of the excess in each separate category. See
+Capital Gains, earlier.
+In column 13(j), do not include other expenses directly
+allocable to dividends eligible for the dividends received
+deduction under section 245A. Such directly allocable
+expenses may include wire transfer, currency exchange,
+and similar fees incurred in connection with the payment
+of dividends eligible for the dividends received deduction
+under section 245A. These expenses reduce taxable
+income, but are not taken into account in computing the
+foreign tax credit limitation. See section 904(b)(4).
+Attach a schedule that lists all other deductions
+included in column 13(j). The schedule should include
+totals for each line in column 13(j) that has an entry.
+Column 14. Enter only the apportioned share from the
+applicable line of Schedule H, Part I, column (b); Part II,
+column (f); and Part III, column (g) that relates to gross
+income reported in columns 3 through 11 of Schedule A.
+The applicable line of Schedule H, Part I, column (b) is the
+amount on line 6a(7), 6b(7), 6c(7), 6d(7), or 6e(7) of
+column (b) that corresponds with the category of income
+for which the corporation is completing Form 1118. For
+example, if the code entered on Schedule H, Part I, line 6a
+is “PAS,” then enter the amount from line 6a(7), column (b)
+on the Form 1118 that the corporation is completing for
+the passive category of income (as indicated on line a at
+the top of page 1 of Form 1118). The applicable line of
+Schedule H, Part II, column (f) is the amount on line 3a(2),
+3b(2), 3c(2), 3d(2), or 3e(2) of column (f) that corresponds
+with the category of income for which the corporation is
+completing Form 1118. For example, if the code entered
+Instructions for Form 1118 (Rev. 12-2025)
+
+on Schedule H, Part II, line 3a is “PAS,” then enter the
+amount from line 3a(2), column (f) on the Form 1118 that
+the corporation is completing for the passive category of
+income (as indicated on line a at the top of page 1 of Form
+1118). The applicable line of Schedule H, Part III, column
+(g) is the amount on line 2a(2), 2b(2), 2c(2), 2d(2), or
+2e(2) of column (g) that corresponds with the category of
+income for which the corporation is completing Form
+1118. For example, if the code entered on Schedule H,
+Part III, line 2a is “PAS,” then enter the amount from
+line 2a(2), column (g) on the Form 1118 that the
+corporation is completing for the passive category of
+income (as indicated on line a at the top of page 1 of Form
+1118).
+It is not necessary to report the apportioned expenses
+on a related-person or per-country basis. Therefore, only
+enter an amount in the totals line of column 14.
+Note: With respect to the apportionment of deductions
+reported on Schedule H, Part II, the reduction required by
+section 904(b)(4) in deductions relating to dividends
+eligible for the dividends received deduction under section
+245A is taken into account (for purposes of determining
+foreign source income or loss in each separate category)
+by carrying to Schedule A, column 14, only the amounts
+on Schedule H, Part II, column (f), lines 3a(2), 3b(2),
+3c(2), 3d(2), and 3e(2). Likewise, with respect to the
+apportionment of deductions reported on Schedule H,
+Part III, the reduction required by section 904(b)(4) in
+deductions relating to dividends eligible for the dividends
+received deduction under section 245A is taken into
+account (for purposes of determining foreign source
+income or loss in each separate category) by carrying to
+Schedule A, column 14, only the amounts on Schedule H,
+Part III, column (g), lines 2a(2), 2b(2), 2c(2), 2d(2), or
+2e(2).
+Column 15. Enter the corporation’s NOL deduction
+allowed under section 172 that is attributable to foreign
+source income in the applicable separate category. If the
+NOL is part of an overall foreign loss, see Regulations
+section 1.904(g)-3 for allocation rules that apply in
+determining the amount to enter in column 15.
+It is not necessary to report the NOL deduction on a
+related-person or per-country basis. Therefore, only enter
+an amount on the totals line of column 15. See Net
+operating losses, earlier.
+
+Schedule B
+Part I—Foreign Taxes Paid, Accrued, and
+Deemed Paid
+
+Report only foreign income taxes paid, accrued, or
+deemed paid for the separate category for which this
+Form 1118 is being completed. Report all amounts in U.S.
+dollars. If the corporation must convert from foreign
+currency, attach a schedule showing the amounts in
+foreign currency and the exchange rate used.
+For corporations claiming the credit on the accrual
+basis, the exchange rate for translating foreign income
+taxes into U.S. dollars will generally be an average
+exchange rate for the tax year to which the taxes relate.
+Instructions for Form 1118 (Rev. 12-2025)
+
+However, the exchange rate on the date of payment must
+be used if the foreign income taxes (a) are paid more than
+24 months after the close of the tax year to which they
+relate, or (b) are paid in a tax year prior to the tax year to
+which they relate. In addition, corporations may elect to
+use the exchange rate on the date of payment.
+Corporations may elect to use the payment date exchange
+rates for all creditable foreign income taxes or only those
+taxes that are attributable to QBUs with U.S. dollar
+functional currencies. The election is made by attaching a
+statement to a timely filed (including extensions) Form
+1118 that indicates the corporation is making the election
+under section 986(a)(1)(D). Once made, the election
+applies for all subsequent tax years and is revocable only
+with the consent of the IRS. See section 986(a)(1)(D).
+Caution: The information entered on each line of
+Schedule B, Part I, must pertain to an identifying number
+and/or country code specified on the corresponding line of
+Schedule A, column 1(a) and/or column 2. If foreign tax
+was paid to more than one country on the same income,
+enter the letter corresponding to that income on multiple
+lines. For example, if the taxpayer entered on Schedule A,
+line A, foreign source sales income and paid tax to both
+Country A and Country B on such income, the filer would
+complete two lines A on Schedule B with the tax paid to
+Country A on one line and the tax paid to Country B on the
+other line.
+Column 1. Claim the foreign tax credit for the tax year in
+which the taxes were paid or accrued, depending on the
+method of accounting used.
+Note: For any given tax year, the corporation can use the
+cash method or the accrual method, but not both. If a
+credit for taxes accrued is claimed, show both the date
+accrued and the date paid.
+If the cash method of accounting is used, an election
+under section 905(a) may be made to claim the credit
+based on accrued taxes.
+To make this election, check the “Accrued” box in
+column 1. Once made, the election is binding on all
+subsequent tax years in which a foreign tax credit is
+claimed. Also, the credits for foreign taxes, regardless of
+whether they are claimed on the accrual or cash basis, are
+subject to the redetermination provisions of section
+905(c). See Foreign Tax Credit Redeterminations, earlier,
+for details.
+Column 2(a). Include foreign income taxes withheld at
+source on dividends from a first-tier foreign corporation.
+After December 31, 2017, such taxes are not creditable to
+the extent the distribution is a dividend eligible for a
+dividends received deduction under section 245A.
+However, continue to report the taxes in this column 2(a)
+and reverse the taxes on Schedule G.
+Column 2(b)(1). Include foreign income taxes withheld
+at source on PTEP distributions from a first-tier foreign
+corporation. See sections 901 and 903. Do not include
+foreign income taxes withheld at source on PTEP
+distributions from a lower-tier foreign corporation to an
+upper-tier foreign corporation and then deemed paid by
+the domestic corporation under section 960(b)(1) on a
+distribution from the upper-tier foreign corporation to the
+13
+
+domestic corporation. These amounts are reported on
+Schedule E.
+Note: With respect to taxes attributable to section 965(a)
+PTEP, section 965(b) PTEP, or section 951A PTEP, do not
+reduce the taxes by the foreign tax credit disallowance
+under sections 965(g) and 960(d)(4), as applicable. The
+disallowance is taken into account in Schedule E, Part I,
+columns 15 and 16 and Schedule G.
+Column 2(b)(2). Enter the PTEP group code associated
+with the column 2(a) line amount. The PTEP group codes
+are detailed below under the instructions for Schedule E,
+Part I, column 5.
+Column 2(c). Include foreign income taxes withheld on
+branch distributions or transfers as determined under
+section 987. See sections 901 and 903.
+Column 2(f). Include foreign income taxes withheld at
+source on income not specifically reportable in columns
+2(a) through 2(e). For example, some countries withhold
+at source on sales of stock of their resident companies
+and such foreign income tax paid or accrued by the
+domestic corporate seller would be reported in column
+2(f).
+Column 2(g). Include foreign income taxes paid or
+accrued on the portion of sales income sourced to a
+foreign country. This does not include taxes withheld at
+source reported in column (f).
+Column 3. Enter in column 3 the total of the taxes
+deemed paid that corresponds with the identifying number
+specified on the corresponding line of Schedule A, column
+1(a), with respect to the following amounts.
+• The taxes deemed paid under section 960(a) as
+reported in Schedule C, column 10.
+• The taxes deemed paid under section 960(b) as
+reported in Schedule E, Part I, column 11.
+Enter on the Schedule B, Part I line, that corresponds
+with the Schedule A line with “951A” in column 2 the tax
+deemed paid under section 960(d) equal to the total
+amount reported in Schedule D, Part II, column 4.
+
+Part II—Separate Foreign Tax Credit
+Line 1b. If the corporation had a foreign tax credit
+splitting event in a prior tax year that resulted in a
+suspension of foreign taxes under section 909, enter the
+amount of those taxes attributable to related income taken
+into account in the current tax year. The amount of taxes
+suspended in a prior tax year should have appeared on
+Schedule G, line E, on your Form 1118 for that prior tax
+year. See the regulations under section 909 for rules for
+determining when related income is taken into account
+and the amount of previously suspended taxes that are
+attributable to that related income.
+Line 4. If the corporation is reclassifying high-taxed
+income from passive category income, enter the related
+tax adjustment on line 4. Indicate whether the adjustment
+is positive or (negative).
+Line 5. Enter the total amount of foreign income taxes
+carried forward or back to the current year. The amount of
+foreign income taxes carried forward to the current tax
+year is the amount from Schedule K (Form 1118), line 3,
+14
+
+column (xiv), plus the amount from Schedule I (Form
+1118), Part III, line 3. Attach Schedule I (Form 1118) and
+Schedule K (Form 1118) to Form 1118.
+Line 7. If the corporation has a current-year overall
+domestic loss or recapture of an overall domestic loss
+account, or, in any of its separate categories, a
+current-year separate limitation loss, an overall foreign
+loss, recapture of an overall foreign loss, or current-year
+separate limitation income in a category in which it has a
+beginning balance of income that must be
+recharacterized, adjustments must be made. See the
+separate Instructions for Schedule J (Form 1118) to
+determine if that schedule must be filed.
+Line 8b. Enter as a positive amount taxable income that
+should not be taken into account in computing the foreign
+tax credit limitation. These adjustments will decrease the
+net worldwide income reported on line 8c (see the line 8c
+instructions, later).
+Enter as a negative amount adjustments that increase
+the net worldwide taxable income reported on line 8c (see
+the line 8c instructions, later). For example, the net
+worldwide taxable income you report on line 8c should not
+include expenses allocated and apportioned to dividends
+for which a dividends received deduction is allowed under
+section 245A (see section 904(b)(4)). Because the line 8a
+amount (taxable income from your tax return) includes
+these expenses, a positive adjustment is needed to back
+out these expenses (thus increasing the net worldwide
+taxable income reported on line 8c). As such, include as a
+negative adjustment on line 8b these expense amounts
+from Schedule H, Part II, lines 5 and 6.
+Line 8c. If the negative adjustments included on line 8b
+(such as those amounts coming in from Schedule H, Part
+II, lines 5 and 6) exceed any positive adjustments that are
+also included on line 8b, the net line 8b adjustment will be
+negative. When this net negative amount on line 8b is
+subtracted from a positive taxable income amount on
+line 8a, the result will be a positive line 8c amount that is
+larger than the positive amount on line 8a.
+Line 9. Divide line 7 by line 8c to determine the limitation
+fraction. Enter the fraction on line 9 as a decimal with the
+same number of places as the number of digits to the left
+of the decimal in adjusted taxable income on line 8c. For
+example, if adjusted taxable income on line 8c is
+$100,000, compute the limitation fraction to 6 decimal
+places.
+Line 12. The limitation may be increased under section
+960(c) for any tax year that the domestic corporation
+receives a PTEP distribution. Enter on line 12 the increase
+described in section 960(c)(1).
+If the line 12 amount exceeds the domestic
+corporation’s U.S. income tax liability, the excess is
+deemed an overpayment and can be claimed on the
+domestic corporation’s income tax return as a refundable
+credit (Form 1120, Schedule J, line 20z, or the
+corresponding line of other corporate income tax returns).
+See section 960(c)(5).
+
+Instructions for Form 1118 (Rev. 12-2025)
+
+Part III—Summary of Separate Credits
+
+Complete Part III only once. Enter on lines 1 through 6 the
+separate foreign tax credits from Part II, line 14, for each
+applicable separate category.
+Note: Complete Part III only on the Form 1118 with the
+largest amount entered on Part II, line 14.
+Line 9. If the corporation participates in or cooperates
+with an international boycott, the foreign tax credit may be
+reduced. Complete Form 5713, International Boycott
+Report. If the corporation chooses to apply the
+international boycott factor to calculate the reduction in the
+credit, enter the amount from line 2a(3) of Schedule C
+(Form 5713) on line 9.
+
+Schedule C
+
+Report taxes deemed paid by the domestic corporation
+under section 960(a) with respect to inclusions under
+section 951(a)(1). This schedule should be completed by
+separate category of income and subpart F income group.
+If there is a subpart F inclusion related to more than one
+subpart F income group, complete a separate line for each
+subpart F income group.
+An individual (or an estate or trust) that has made an
+election under section 962 (“section 962 elector”) should
+also complete Schedule C and report taxes deemed paid.
+Column 1a. Enter the name of the foreign corporation
+whose earnings were included in income by the domestic
+corporation filing the return.
+Column 1b. Enter the foreign corporation’s EIN or
+reference ID number. See Reference ID numbers, earlier.
+Note: Taxpayers no longer have the option of entering
+“FOREIGNUS” or “APPLIED FOR” in this column. Instead,
+if the foreign corporation does not have an EIN, the
+taxpayer must use a reference ID number that uniquely
+identifies such foreign corporation, using the rules set
+forth in Reference ID numbers, in the Requirements
+section, earlier.
+Column 1c. Enter the tested unit’s reference ID number
+(if applicable). See Reference ID numbers, earlier.
+Complete column 1c only if a CFC has one or more tested
+units with passive category income. See Regulations
+section 1.904-4(c)(4).
+Note: Taxpayers no longer have the option of entering
+“FOREIGNUS” or “APPLIED FOR” in this column. Instead,
+if the tested unit (or the CFC, if applicable) does not have
+an EIN, the taxpayer must use a reference ID number that
+uniquely identifies such tested unit (or the CFC, if
+applicable), using the rules set forth in Reference ID
+numbers, in the Requirements section, earlier.
+Column 2. Enter the year and month in which the foreign
+corporation’s U.S. tax year ended using format YYYYMM.
+Example. When figuring foreign taxes deemed paid in
+2025 by a calendar year domestic corporation with
+respect to inclusions out of E&P not previously taxed for
+the foreign corporation’s tax year that ended November
+30, 2025, enter “202511.”
+Instructions for Form 1118 (Rev. 12-2025)
+
+Column 3. Enter the applicable two-letter code from the
+list at IRS.gov/CountryCodes.
+Column 4. Enter the applicable three-character alphabet
+code for the foreign corporation’s functional currency
+using the ISO 4217 standard.
+Column 5(a). Enter the code which describes the
+subpart F income group classification (as set forth in
+Regulations section 1.960-1(d)(2)(ii)(B)(2)). Please enter
+the applicable code from the following list.
+Code
+
+Subpart F Income Group (Regulations section
+1.960-1(d)(2)(ii)(B)(2))
+
+DIRRA
+
+Dividends, interest, rents, royalties, and annuities
+
+NGCPT
+
+Net gain from certain property transactions
+
+NGCT
+
+Net gain from commodities transactions
+
+NFCG
+
+Net foreign currency gain
+
+IEQI
+
+Income equivalent to interest
+
+NPC
+
+Income from notional principal contracts
+
+PILOD
+
+Payments in lieu of dividends
+
+PSC
+
+Personal service contracts
+
+FBCSA
+
+Foreign base company sales income
+
+FBCSE
+
+Foreign base company services income
+
+FIFBC
+
+Full inclusion foreign base company income
+
+INSUR
+
+Insurance income described in section 952(a)(1)
+
+BOYC
+
+Boycott income
+
+BKOP
+
+Bribes, kickbacks, and other payments described in
+section 952(a)(4)
+
+901J
+
+Income subject to section 901(j) described in section
+952(a)(5)
+
+Column 5(b). Enter the code which describes the
+subpart F income group classification (as set forth in
+Regulations section 1.904-4(c)(3)(i) through (iv)). Please
+enter the applicable code from the following list.
+Code
+
+Subpart F Income Group (Regulations section
+1.904-4(c)(3)(i) through (iv))
+
+i
+
+All passive income received during the tax year
+that is subject to a withholding tax of 15% or
+greater.
+
+ii
+
+All passive income received during the tax year
+that is subject to a withholding tax of less than
+15% (but greater than zero).
+
+iii
+
+All passive income received during the tax year
+that is subject to no withholding tax or other
+foreign tax.
+
+iv
+
+All passive income received during the tax year
+that is subject to no withholding tax but is subject
+to a foreign tax other than a withholding tax.
+
+Column 5(c). Enter the name of the tested unit.
+Complete column 5(c) only if a CFC has one or more
+tested units with passive category income. See
+Regulations section 1.904-4(c)(4).
+15
+
+Column 6. Enter the total net income in the subpart F
+income group (identified in columns 5(a) and 5(b)) in the
+functional currency of the foreign corporation. If there is
+net income related to more than one subpart F income
+group, use a separate line for each subpart F income
+group. In general, the amount entered on a given line will
+be equal to the total of all amounts in column (xvi) of
+Schedule Q (Form 5471) for the subpart F income group
+identified in Schedule C, column 5 for the foreign
+corporation identified in column 1 and for the category of
+income with respect to which a Form 1118 and the
+corresponding Schedule Q (Form 5471) are being
+completed.
+Column 7. Enter the total eligible current-year taxes in
+the subpart F income group (identified in columns 5(a)
+and 5(b)) in U.S. dollars.
+Note: See the instructions for Schedule G, later, for
+information on reduction of foreign taxes for failure to
+furnish information required under section 6038.
+Column 8(a). Enter the section 951(a)(1) inclusion
+attributable to the subpart F income group (identified in
+columns 5(a) and 5(b)) in the functional currency of the
+foreign corporation.
+Column 8(b). Enter the amount from column 8(a)
+translated into U.S. dollars at the appropriate exchange
+rate specified in section 989(b).
+Column 10. For each line, multiply the amount in column
+7 by the amount in column 9 and enter the result in column
+10. This is the tax deemed paid computed under section
+960(a).
+Example 1. USC is a domestic corporation. CFC is a
+controlled foreign corporation incorporated in Country X.
+CFC has two tested units, each of which is a qualified
+business unit (QBU): QBU1 and QBU2. QBU1 and QBU2
+are organized in Country X. The U.S. tax year for USC,
+CFC, QBU1, and QBU2 ends on December 31. The
+functional currency of CFC, QBU1, and QBU2 is the “u.” At
+all relevant times, 1u = $1. For its U.S. tax year ending
+December 31, 2025, after foreign taxes, QBU1 has
+1,000,000u passive category dividend income subject to a
+less than 15% withholding tax (“QBU1 income group 1”).
+QBU1 has 1,000,000u passive category dividend income
+subject to a greater than 15% withholding tax (“QBU1
+income group 2”). QBU2 has 2,400,000u passive
+category dividend income subject to a less than 15%
+withholding tax (“QBU2 income group”). QBU1 has
+eligible current-year taxes of $50,000 and $200,000 in
+QBU1 income group 1 and QBU1 income group 2,
+respectively. QBU2 has eligible current-year taxes of
+$240,000 in QBU2 income group. USC has a subpart F
+inclusion with respect to CFC of which an amount of
+800,000u is attributable to each of QBU1 income group 1
+and QBU1 income group 2 and 1,920,000u is attributable
+to QBU2 income group. The country code for Country X is
+“OC.” CFC, QBU1, and QBU2 have reference ID numbers
+of 100000, 100011, and 100012, respectively. The
+applicable three-character alphabet code for the “u” using
+the ISO 4217 standard is “UUU.” USC completes
+Schedule C of its Form 1118 with respect to the passive
+category as follows.
+16
+
+USC makes the following entries on the first of three
+lines on Schedule C.
+Column
+
+Entry
+
+1a
+
+CFC
+
+1b
+
+100000
+
+1c
+
+100011
+
+2
+
+202512
+
+3
+
+OC
+
+4
+
+UUU
+
+5(a)
+
+DIRRA
+
+5(b)
+
+ii
+
+5(c)
+
+QBU1
+
+6
+
+1,000,000u
+
+7
+
+50,000
+
+8(a)
+
+800,000u
+
+8(b)
+
+800,000
+
+9
+
+0.800
+
+10
+
+40,000
+
+USC makes the following entries on the second of three
+lines on Schedule C.
+Column
+
+Entry
+
+1a
+
+CFC
+
+1b
+
+100000
+
+1c
+
+100011
+
+2
+
+202512
+
+3
+
+OC
+
+4
+
+UUU
+
+5(a)
+
+DIRRA
+
+5(b)
+
+i
+
+5(c)
+
+QBU1
+
+6
+
+1,000,000u
+
+7
+
+200,000
+
+8(a)
+
+800,000u
+
+8(b)
+
+800,000
+
+9
+
+0.800
+
+10
+
+160,000
+
+USC makes the following entries on the third of three
+lines on Schedule C.
+
+Instructions for Form 1118 (Rev. 12-2025)
+
+Column
+
+Entry
+
+1a
+
+CFC1
+
+100000
+
+1b
+
+100011
+
+1c
+
+100012
+
+1c
+
+2
+
+202512
+
+2
+
+3
+
+OC
+
+3
+
+OC
+
+4
+
+UUU
+
+4
+
+UUU
+
+5(a)
+
+DIRRA
+
+5(a)
+
+DIRRA
+
+5(b)
+
+ii
+
+5(b)
+
+ii
+
+5(c)
+
+QBU2
+
+5(c)
+
+6
+
+2,400,000u
+
+6
+
+1,000,000u
+
+7
+
+240,000
+
+7
+
+50,000
+
+8(a)
+
+1,920,000u
+
+8(a)
+
+800,000u
+
+8(b)
+
+1,920,000
+
+8(b)
+
+800,000
+
+9
+
+0.800
+
+9
+
+0.800
+
+10
+
+192,000
+
+10
+
+40,000
+
+Column
+
+Entry
+
+1a
+
+CFC
+
+1b
+
+Example 2. USC is a domestic corporation. CFC1 and
+CFC2 are controlled foreign corporations incorporated in
+Country X. The U.S. tax year for USC, CFC1, and CFC2
+ends on December 31. At all relevant times, 1u = $1. For
+its U.S. tax year ending December 31, 2025, after foreign
+taxes, CFC1 has 1,000,000u passive category dividend
+income subject to a withholding tax of less than 15%
+(“CFC1 income group 1”) and 2,400,000u passive
+category interest income subject to foreign tax other than
+withholding tax (“CFC1 income group 2”). CFC1 has
+eligible current-year taxes (including the withholding tax)
+of $50,000 in CFC1 income group 1 and $240,000 in
+CFC1 income group 2. USC has a subpart F inclusion with
+respect to CFC1 of which 800,000u is attributable to
+CFC1 income group 1 and 1,920,000u is attributable to
+CFC1 income group 2. For its U.S. tax year ending
+December 31, 2025, after foreign taxes, CFC2 has
+1,800,000u of passive category gain from commodities
+transactions subject to foreign tax other than withholding
+tax (“CFC2 income group”). CFC2 has eligible
+current-year taxes of $450,000 in the CFC2 income group.
+USC has a subpart F inclusion of 1,440,000u attributable
+to the CFC2 income group. The country code for Country
+X is “OC.” CFC1 and CFC2 have reference ID numbers of
+100011 and 100012, respectively. The functional currency
+of both CFC1 and CFC2 is the “u.” The applicable
+three-character alphabet code for the “u” using the ISO
+4217 standard is “UUU.” USC completes Schedule C of its
+Form 1118 with respect to the passive category as
+follows.
+USC makes the following entries on the first of three
+lines on Schedule C.
+
+Instructions for Form 1118 (Rev. 12-2025)
+
+202512
+
+USC makes the following entries on the second of three
+lines on Schedule C.
+Column
+
+Entry
+
+1a
+
+CFC1
+
+1b
+
+100011
+
+1c
+2
+
+202512
+
+3
+
+OC
+
+4
+
+UUU
+
+5(a)
+
+DIRRA
+
+5(b)
+
+iv
+
+5(c)
+6
+
+2,400,000u
+
+7
+
+240,000
+
+8(a)
+
+1,920,000u
+
+8(b)
+
+1,920,000
+
+9
+
+0.800
+
+10
+
+192,000
+
+USC makes the following entries on the third of three
+lines on Schedule C.
+
+17
+
+Column
+
+Entry
+
+1a
+
+CFC2
+
+1b
+
+100012
+
+1c
+2
+
+202512
+
+3
+
+OC
+
+4
+
+UUU
+
+5(a)
+
+NGCT
+
+5(b)
+
+iv
+
+5(c)
+6
+
+1,800,000u
+
+7
+
+450,000
+
+8(a)
+
+1,440,000u
+
+8(b)
+
+1,440,000
+
+9
+
+0.800
+
+10
+
+360,000
+
+Schedule D
+
+Report taxes deemed paid under section 960(d) with
+respect to inclusions under section 951A. This schedule
+should only be completed with respect to the Form 1118
+filed for the section 951A category, and, in rare cases, the
+passive category.
+Schedule D is generally completed by a domestic
+corporation that owns, within the meaning of section
+958(a), stock in one or more CFCs that claims taxes
+deemed paid with respect to inclusions under section
+951A.
+Schedule D is also generally completed by an
+individual (or an estate or trust) that has made an election
+under section 962 (“section 962 elector”).
+If more than one line is needed in Part II:
+
+• In Part II, column 2, the same denominator will be used
+
+(the Part I, column 5 total) in the inclusion percentage
+calculation for each line; and
+• In Part II, column 3, the same multiplication factor will be
+used (the Part I, column 9 total) for each line.
+If more than one line is completed in Part II, the column
+4 amounts should be summed and included on a single
+line on Form 1118, Schedule B, Part I, column 3 (that is,
+the line on Schedule B, Part I, column 3, that corresponds
+with the line in Schedule A with “951A” in column 2 of
+Schedule A).
+
+Part I—Foreign Corporation’s Tested Income
+and Foreign Taxes
+Column 1a. Enter the name of each CFC that has tested
+income, as defined in section 951A(c)(2)(A). Do not report
+information of CFCs with tested losses, as defined in
+section 951A(c)(2)(B).
+Column 1b. Enter the EIN or reference ID number of the
+foreign corporation. See Reference ID numbers, earlier.
+18
+
+Note: Taxpayers no longer have the option of entering
+“FOREIGNUS” or “APPLIED FOR” in this column. Instead,
+if the foreign corporation does not have an EIN, the
+taxpayer must use a reference ID number that uniquely
+identifies such foreign corporation, using the rules set
+forth in Reference ID numbers, in the Requirements
+section, earlier.
+Column 2. Enter the year and month in which the CFC’s
+U.S. tax year ended using the format YYYYMM.
+Column 3. Enter the applicable two-letter code from the
+list at IRS.gov/CountryCodes.
+Column 4. Enter the applicable three-character alphabet
+code for the foreign corporation’s functional currency
+using the ISO 4217 standard.
+Column 5. Enter the U.S. shareholder’s pro rata share of
+the CFC’s tested income from the applicable Form 8992
+schedule. If the U.S. shareholder is not a member of a
+U.S. consolidated group, enter the amount reported in
+Schedule A (Form 8992), column (e), for the CFC. If the
+U.S. shareholder is a member of a U.S. consolidated
+group, enter the amount reported with respect to that U.S.
+shareholder in Schedule B (Form 8992), Part I, column
+(g), for the CFC.
+If the domestic corporation is a partner in a partnership,
+enter the domestic corporate partner’s pro rata share of
+CFC tested income from Schedule K-3, Part VIII, line 3.
+Column 6. Enter the CFC’s tested income from the
+applicable Form 8992 schedule. If the U.S. shareholder is
+not a member of a U.S. consolidated group, enter the
+amount reported in Schedule A (Form 8992), column (c),
+for the CFC. If the U.S. shareholder is a member of a U.S.
+consolidated group, enter the amount reported with
+respect to that U.S. shareholder in Schedule B (Form
+8992), Part I, column (e), for the CFC.
+Column 8. Enter the CFC’s tested foreign income taxes
+from Schedule Q (Form 5471), line 3, column (xii).
+Column 9. Enter the pro rata share of tested foreign
+income taxes paid or accrued by the CFC. To determine
+this amount, multiply the amount in column 7 by the
+amount in column 8.
+Note: See the instructions for Schedule G, later, for
+information on reduction of foreign taxes for failure to
+furnish information required under section 6038.
+
+Part II—Foreign Income Tax Deemed Paid
+
+Note: While multiple line entries may be necessary for
+Schedule D, Part I, because such lines are completed for
+each CFC, in general, only one line will be completed in
+Schedule D, Part II, because the domestic corporation
+filing Form 1118 only has one section 951A inclusion.
+However, there is an exception if Form 1118 is completed
+by an individual (or by an estate or trust) that has made an
+election under section 962 (“section 962 elector”) and the
+section 962 elector is a shareholder of an S corporation
+that has made an election to treat the S corporation as an
+entity (rather than as an aggregate of its owners), as
+provided in Notice 2020-69, 2020-39 I.R.B. 604, on a
+timely (including extensions) filed original Form 1120-S
+with respect to the first tax year ending on or after
+Instructions for Form 1118 (Rev. 12-2025)
+
+September 1, 2020. In this case, the section 962 elector
+may have more than one section 951A inclusion that will
+be reported on separate lines on Schedule D, Part II.
+There might be multiple lines as a result of (1) the section
+962 elector’s section 951A inclusion, and (2) the section
+962 elector’s share of the section 951A inclusion of the S
+corporation. There could also be multiple lines if the
+section 962 elector has an interest in more than one S
+corporation.
+Column 1. Enter the GILTI (that is, the section 951A
+inclusion) from Form 8992, Part II, line 5.
+Column 3. This amount as determined on this line is the
+section 78 gross-up with respect to an inclusion under
+section 951A which is reported on Form 1118,
+Schedule A, column 3(b).
+
+Schedule E
+
+Report taxes paid, accrued, and deemed paid by the
+domestic corporation under section 901 and 960(b) with
+respect to PTEP distributions. Foreign withholding taxes
+levied on a domestic corporation as a result of
+distributions of PTEP from a first-tier foreign corporation to
+such domestic corporation are reported on Schedule E,
+Part I, column 14. Such taxes are also reported on
+Schedule B, Part I, column 2(b)(1), as tax withheld on
+distributions of PTEP. Also, reported on this schedule are
+foreign income taxes levied on distributions of PTEP from
+a lower-tier foreign corporation to an upper-tier foreign
+corporation which are subsequently deemed paid under
+section 960(b)(1) by the domestic corporation upon
+distribution of such PTEP by the upper-tier foreign
+corporation to the domestic corporation.
+
+Part I—Taxes Paid, Accrued, and Deemed Paid
+by Domestic Corporation
+Column 1a. Enter the name of each first-tier foreign
+corporation that made PTEP distributions to a domestic
+corporation with respect to which foreign income taxes
+were paid, accrued, or deemed paid by the domestic
+corporation (and that were not previously deemed paid by
+a domestic corporation). For distributions of PTEP that
+originated in lower-tier foreign corporations, enter a
+unique alphabetic character before the name of the
+distributing foreign corporation to identify the source of the
+PTEP distribution. See the instructions for Part II, column
+1a, for more information, including an example.
+Column 1b. Enter the EIN or reference ID number of the
+foreign corporation. See Reference ID numbers, earlier.
+Note: Taxpayers no longer have the option of entering
+“FOREIGNUS” or “APPLIED FOR” in this column. Instead,
+if the foreign corporation does not have an EIN, the
+taxpayer must use a reference ID number that uniquely
+identifies such foreign corporation, using the rules set
+forth in Reference ID numbers, in the Requirements
+section, earlier.
+Column 2. Enter the year and month for the U.S. tax year
+of the first-tier foreign corporation in which the first-tier
+foreign corporation made the PTEP distribution to the
+domestic corporation. Use the format YYYYMM. If there is
+a PTEP distribution related to more than one PTEP group
+Instructions for Form 1118 (Rev. 12-2025)
+
+within an annual PTEP account, complete a separate line
+for each PTEP group within an annual PTEP account. See
+Regulations section 1.960-3(c)(2).
+Column 3. Enter the applicable two-letter code from the
+list at IRS.gov/CountryCodes.
+Column 4. Enter the applicable three-character
+alphabetic code for the distributing foreign corporation’s
+functional currency using the ISO 4217 standard.
+Column 5. Enter the code which describes the PTEP
+group classification (as set forth in Regulations section
+1.960-3(c)(2)). Please enter the applicable PTEP group
+code from the following list.
+Taxes related to previously taxed E&P
+
+PTEP Group
+Code
+
+Reclassified section 965(a) PTEP
+
+R965a
+
+Reclassified section 965(b) PTEP
+
+R965b
+
+General section 959(c)(1) PTEP
+
+959c1
+
+Reclassified section 951A PTEP
+
+R951A
+
+Reclassified section 245A(d) PTEP
+
+R245Ad
+
+Section 965(a) PTEP
+
+965a
+
+Section 965(b) PTEP
+
+965b
+
+Section 951A PTEP
+
+951A
+
+Section 245A(d) PTEP
+
+245Ad
+
+Section 951(a)(1)(A) PTEP
+
+951a1A
+
+Column 6. Enter the inclusion year for the PTEP of the
+foreign corporation to which section 951(a) and section
+951A inclusion amounts of U.S. shareholders are
+attributable. This is the annual PTEP account. See
+Regulations section 1.960-3(c)(1).
+Column 7. Enter the total amount of the foreign
+corporation’s PTEP in the PTEP group within an annual
+PTEP account identified in columns 5 and 6. Enter the
+amount in the functional currency of the first-tier foreign
+corporation.
+Column 8. Enter the total amount of the foreign
+corporations’ PTEP group taxes with respect to the PTEP
+group within the annual PTEP account identified in
+columns 5 and 6. Enter the amount in U.S. dollars.
+Column 9. Enter the PTEP distribution from the PTEP
+group within the annual PTEP account identified in
+columns 5 and 6 in the functional currency of the first-tier
+foreign corporation. If there is a PTEP distribution related
+to more than one PTEP group within an annual PTEP
+account, complete a separate line for each PTEP group
+within an annual PTEP account.
+Column 11. For each line, multiply the amount in column
+8 by the amount in column 10. This is the U.S. dollar
+amount of the foreign income taxes properly attributable to
+the PTEP distribution reported in column 9 and not
+deemed to have been paid by the domestic corporation for
+the tax year or any prior tax year.
+Note: With respect to distributions of PTEP resulting from
+inclusions under section 965, or section 951A, report the
+19
+
+foreign income taxes properly attributable to such PTEP
+under section 960(b)(1) without reduction for the foreign
+tax credit disallowance under sections 965(g) and 960(d)
+(4), as applicable. The disallowance is taken into account
+in columns 12 and 13 and Schedule G. See the specific
+instructions for Schedule G, later.
+Column 12. Report the amount disallowed under the
+section 965(g) applicable percentage with respect to the
+taxes deemed paid under section 960(b)(1) identified in
+column 11.
+Column 13. Report the amount disallowed under section
+960(d)(4) with respect to the taxes deemed paid under
+section 960(b)(1) identified in column 11.
+Column 14. Report the foreign income taxes paid or
+accrued with respect to distributions of PTEP from a
+first-tier foreign corporation to a domestic corporation that
+are creditable under section 901. For each line in
+Schedule E, Part I, also include the column 14 amount in
+column 2(b)(1) of the line in Schedule B, Part I, that
+corresponds with the identifying number specified in
+column 1(a) of Schedule A and that also corresponds with
+the identifying number specified in column 1b of this
+Schedule E, Part I.
+Note: With respect to distributions of PTEP resulting from
+inclusions under section 965 or section 951A, report the
+foreign income taxes paid or accrued with respect to such
+PTEP distributions (that are creditable under section 901)
+without reduction for the foreign tax credit disallowance
+under sections 965(g) and 960(d)(4), as applicable. The
+disallowance is taken into account in columns 15 and 16
+and Schedule G. See the specific instructions for
+Schedule G, later.
+Column 15. Report the amount disallowed under the
+section 965(g) applicable percentage with respect to the
+taxes paid or accrued under section 901 identified in
+column 14.
+Column 16. Report the amount disallowed under section
+960(d)(4) with respect to the taxes paid or accrued under
+section 901 identified in column 14.
+Note: The totals reported for columns 12 and 15 with
+respect to the section 965(g) disallowance are reported on
+Schedule G, line F. The totals reported for columns 13 and
+16 with respect to the section 960(d)(4) disallowance are
+reported on Schedule G, line H.
+
+Part II—Tax Deemed Paid by First- and
+Lower-Tier Foreign Corporations
+
+The purpose of Part II is to track the current-year and
+historical PTEP distributions between foreign corporations
+and taxes paid, accrued, or deemed paid by upper-tier
+foreign corporations on such PTEP distributions. These
+amounts are to be reported on this Part II only to the
+extent that there is a PTEP distribution to the domestic
+corporation entered in Part I. The amounts entered in Part
+II could relate to current-year or prior-year PTEP
+distributions between foreign corporations, so the
+applicable year should be noted in column 2 using the
+format YYYYMM.
+
+20
+
+If foreign income taxes paid, accrued, or deemed paid
+by a first-tier foreign corporation are properly attributable
+to a PTEP distribution from one or more lower-tier foreign
+corporations, report all such PTEP distributions by the
+lower-tier foreign corporations in Part II, even if the
+distributing lower-tier foreign corporations did not pay or
+accrue (and were not deemed to pay) any foreign income
+taxes with respect to the PTEP distributions. For each tier,
+report the amount of the PTEP distribution from the
+first-tier foreign corporation that is attributable to a PTEP
+distribution from the lower-tier foreign corporation and the
+amount of foreign income taxes paid, accrued, or deemed
+paid by that lower-tier foreign corporation with respect to
+that portion of the PTEP distribution. Because only eligible
+current-year tax paid or accrued by a CFC with respect to
+its receipt of a PTEP distribution from a lower-tier foreign
+corporation is eligible to be treated as deemed paid under
+section 960(b), no foreign income taxes of the lowest-tier
+foreign corporation to which the PTEP distribution is
+attributable are properly attributable to a PTEP distribution
+made to an upper-tier foreign corporation. See
+Regulations section 1.960-1(d)(3)(ii)(C).
+Column 1a. Enter the name of each lower-tier foreign
+corporation that distributed PTEP to an upper-tier foreign
+corporation, in the current year or a prior year, that in turn
+was distributed in the current year to a domestic
+corporation. In column 1a, preceding the name of the
+distributing lower-tier foreign corporation, enter a unique
+alphabetic character that corresponds to a PTEP
+distribution reported in Part I. For example, in the case of a
+PTEP distribution from CFC3, third-tier foreign
+corporation, to CFC2, second-tier foreign corporation, to
+CFC1, first-tier foreign corporation, to USP, a domestic
+corporation, the domestic corporation correlates the
+distributions as follows.
+Part I, column 1a. Enter “A CFC1” (to report
+distribution from CFC1 to domestic corporation sourced
+from PTEP distributions from CFC2 and CFC3).
+Part II, column 1a. Enter “A CFC2” (to report
+distribution from CFC2 to CFC1), and enter “A CFC3” (to
+report distribution from CFC3 to CFC2).
+Column 1b. Enter the EIN or reference ID number of the
+distributing foreign corporation. See Reference ID
+numbers, earlier.
+Note: Taxpayers no longer have the option of entering
+“FOREIGNUS” or “APPLIED FOR” in this column. Instead,
+if the distributing foreign corporation does not have an
+EIN, the taxpayer must use a reference ID number that
+uniquely identifies such foreign corporation, using the
+rules set forth in Reference ID numbers, in the
+Requirements section, earlier.
+Column 2. Enter the U.S. tax year of the distributing
+foreign corporation which includes the date when the
+foreign corporation distributed the PTEP to the upper-tier
+foreign corporation.
+Note: If the PTEP distributed in Part I relates to PTEP
+distributions from lower-tier foreign corporations made in
+more than one tax year, figure and show the tax deemed
+paid on a separate line for each distribution.
+
+Instructions for Form 1118 (Rev. 12-2025)
+
+Column 3. Enter the applicable two-letter code from the
+list at IRS.gov/CountryCodes.
+
+properly attributable to PTEP distributions resulting from
+inclusions under section 965 or section 951A.
+
+Column 4b. Enter the EIN or reference ID number of the
+recipient foreign corporation. See Reference ID numbers,
+earlier.
+
+Note: See the instructions for Schedule G, later, for
+information on reduction of foreign taxes for failure to
+furnish information required under section 6038.
+
+Note: Taxpayers no longer have the option of entering
+“FOREIGNUS” or “APPLIED FOR” in this column. Instead,
+if the recipient foreign corporation does not have an EIN,
+the taxpayer must use a reference ID number that
+uniquely identifies such foreign corporation, using the
+rules set forth in Reference ID numbers, in the
+Requirements section, earlier.
+
+Example 1. USC, a domestic corporation, wholly owns
+CFC1, a Country Y corporation, which wholly owns
+Country X corporations CFC2 and CFC3. The U.S. tax
+year for USC, CFC1, CFC2, and CFC3 ends on December
+31. During the U.S. tax year ending December 31, 2025,
+CFC2 and CFC3, both second-tier CFCs, each distribute
+100u, comprising all of their respective section 965(a)
+PTEP within the annual PTEP account for the 2017 tax
+year (“2017 section 965(a) PTEP”) within the general
+category, to CFC1, a first-tier CFC. CFC1 pays 40u equal
+to $40 of eligible current-year taxes to Country X on the
+200u PTEP distributions, reducing the 2017 section
+965(a) PTEP to 160u. The applicable percentage under
+section 965(g) with respect to the $40 of taxes is 0.6. In
+that same year, CFC1 distributes all 160u of the 2017
+section 965(a) PTEP to USC. USC pays no foreign tax on
+such distribution. CFC1 does not have any other PTEP
+balances. The reference ID numbers for CFC1, CFC2, and
+CFC3 are 10041, 10042, and 10043, respectively. The
+country codes for Country X and Country Y are OC and
+BC, respectively. The functional currency of CFC1, CFC2,
+and CFC3 is the “u.” The applicable three-character
+alphabetic code for the “u” using the ISO 4217 standard is
+“UUU.”
+
+Column 5. Enter the U.S. tax year of the recipient foreign
+corporation which includes the date the foreign
+corporation received the PTEP distribution.
+Column 6. Enter the applicable two-letter code from the
+list at IRS.gov/CountryCodes.
+Column 7. Enter the applicable three-character
+alphabetic code for the distributing foreign corporation’s
+functional currency using the ISO 4217 standard.
+Column 8. Enter the applicable PTEP group code from
+the list provided in the specific instructions for Schedule E,
+Part I, column 5, earlier.
+Column 9. Enter the annual PTEP account. See the
+instructions for Schedule E, Part I, column 6, earlier.
+Column 10. Enter the total amount of the foreign
+corporation’s PTEP in the PTEP group within the annual
+PTEP account identified in column 8 and column 9. Enter
+such amount in the functional currency of the distributing
+foreign corporation.
+Column 11. Enter the total amount of the foreign
+corporation’s PTEP group taxes with respect to the PTEP
+group within the annual PTEP account identified in column
+8 and column 9. Enter this amount in U.S. dollars. To
+determine the appropriate translation rate, see section
+986(a).
+Column 12. Enter the PTEP distribution with respect to
+the PTEP group within the annual PTEP account identified
+in columns 8 and 9 in the functional currency of the
+distributing foreign corporation. If there is a PTEP
+distribution related to more than one PTEP group within
+an annual PTEP account, complete a separate line for
+each PTEP group within an annual PTEP account. Only
+report the amount of PTEP attributable to the PTEP that
+was ultimately distributed to the domestic corporation in
+the current year, even if the amount of PTEP distributed to
+the upper-tier foreign corporation was greater than that
+amount.
+Column 14. Enter the U.S. dollar amount of the recipient
+foreign corporation’s income taxes paid, accrued, and
+deemed paid that are properly attributable to the PTEP
+distribution reported in column 12 and not deemed to
+have been paid by the domestic corporation for any prior
+tax year.
+Note: See the Note in the instructions for Part I, column
+11, for purposes of reporting foreign income taxes
+Instructions for Form 1118 (Rev. 12-2025)
+
+USC makes the following entries on a single line on its
+general category, Schedule E, Part I.
+Column
+
+Entry
+
+1a
+
+A CFC1
+
+1b
+
+10041
+
+2
+
+202512
+
+3
+
+BC
+
+4
+
+UUU
+
+5
+
+965a
+
+6
+
+2017
+
+7
+
+160u
+
+8
+
+40
+
+9
+
+160u
+
+10
+
+1.000
+
+11
+
+40
+
+12
+
+24
+
+13
+
+0
+
+14
+
+0
+
+15
+
+0
+
+16
+
+0
+
+USC makes the following entries on the first of two lines
+on Schedule E, Part II.
+
+21
+
+Column
+
+Entry
+
+1a
+
+A CFC2
+
+1b
+
+10042
+
+2
+
+202512
+
+3
+
+OC
+
+4a
+
+CFC1
+
+4b
+
+10041
+
+5
+
+202512
+
+6
+
+BC
+
+7
+
+UUU
+
+8
+
+965a
+
+9
+
+2017
+
+10
+
+100u
+
+11
+
+0
+
+12
+
+100u
+
+13
+
+1.000
+
+14
+
+0
+
+USC makes the following entries on the second of two
+lines on Schedule E, Part II.
+
+PTEP to 80u. The applicable percentage under section
+965(g) with respect to the $20 of taxes is 0.6. In CFC2’s
+U.S. tax year ending December 31, 2019, CFC2
+distributes 40u of the 2017 section 965(a) PTEP to CFC1,
+a CFC that wholly owns CFC2. CFC1 pays no tax on such
+distribution, but is deemed to pay $10 of the eligible
+current-year tax that was paid by CFC2 in 2017. In CFC1’s
+U.S. tax year ending December 31, 2025, CFC1
+distributes 40u to USC, who wholly owns CFC1. USC
+pays no foreign tax on such distribution, but is deemed to
+pay the $10 of eligible current-year tax that was paid by
+CFC2 in 2017 and deemed paid by CFC1 in 2019. The
+reference ID numbers for CFC1, CFC2, and CFC3 are
+20041, 20042, and 20043, respectively. The country
+codes for Country X and Country Y are OC and BC,
+respectively. The functional currency of CFC1, CFC2, and
+CFC3 is the “u.” The applicable three-character alphabetic
+code for the “u” using the ISO 4217 standard is “UUU.”
+Schedule E reporting is not necessary for USC’s tax
+years ending December 31, 2018 to December 31, 2024.
+For USC’s tax year ending December 31, 2025, USC
+makes the following entries on a single line on its general
+category Form 1118, Schedule E, Part I.
+Column
+
+Entry
+
+1a
+
+A CFC1
+
+1b
+
+20041
+202512
+
+Column
+
+Entry
+
+2
+
+1a
+
+A CFC3
+
+3
+
+OC
+
+1b
+
+10043
+
+4
+
+UUU
+
+2
+
+202512
+
+5
+
+965a
+
+3
+
+OC
+
+6
+
+2017
+
+4a
+
+CFC1
+
+7
+
+40u
+
+4b
+
+10041
+
+8
+
+10
+
+5
+
+202512
+
+9
+
+40u
+
+6
+
+BC
+
+10
+
+1.000
+
+7
+
+UUU
+
+11
+
+10
+
+8
+
+965a
+
+12
+
+6
+
+9
+
+2017
+
+13
+
+0
+
+10
+
+100u
+
+14
+
+0
+
+11
+
+0
+
+15
+
+0
+
+12
+
+100u
+
+16
+
+0
+
+13
+
+1.000
+
+14
+
+0
+
+USC makes the following entries on the first of two lines
+on Schedule E, Part II.
+
+Example 2. USC is a domestic corporation. CFC1 and
+CFC2 are Country X corporations, and CFC3 is a Country
+Y corporation. The U.S. tax year for USC, CFC1, CFC2,
+and CFC3 ends on December 31. During CFC3’s U.S. tax
+year ending December 31, 2018, CFC3 distributes 100u,
+comprising its entire section 965(a) PTEP within the
+annual PTEP account for the 2017 tax year (“2017 section
+965(a) PTEP”) within the general category, to CFC2, a
+CFC that wholly owns CFC3. CFC2 pays eligible
+current-year tax of 20u to Country X equal to $20 on the
+100u PTEP distribution, reducing the 2017 section 965(a)
+22
+
+Instructions for Form 1118 (Rev. 12-2025)
+
+Column
+
+Entry
+
+1a
+
+A CFC2
+
+1b
+
+20042
+
+2
+
+201912
+
+3
+
+OC
+
+4a
+
+CFC1
+
+4b
+
+20041
+
+5
+
+201912
+
+6
+
+OC
+
+7
+
+UUU
+
+8
+
+965a
+
+9
+
+2017
+
+10
+
+80u
+
+11
+
+20
+
+12
+
+40u
+
+13
+
+0.500
+
+14
+
+10
+
+USC makes the following entries on the second of two
+lines on Schedule E, Part II.
+Column
+
+Entry
+
+1a
+
+A CFC3
+
+1b
+
+20043
+
+2
+
+201812
+
+3
+
+BC
+
+4a
+
+CFC2
+
+4b
+
+20042
+
+5
+
+201812
+
+6
+
+OC
+
+7
+
+UUU
+
+8
+
+965a
+
+9
+
+2017
+
+10
+
+100u
+
+11
+
+0
+
+12
+
+50u
+
+13
+
+0.500
+
+14
+
+0
+
+the 2016 section 951(a)(1)(A) PTEP to 900u. In CFC2’s
+tax year ending December 31, 2019, CFC2 distributes
+250u, comprising all of its section 951A PTEP within the
+annual PTEP account for the 2018 tax year (“2018 section
+951A PTEP”) within the section 951A category, to CFC1, a
+CFC that wholly owns CFC2. CFC1 pays eligible
+current-year tax of 25u to Country X equal to $25 on the
+250u PTEP distribution, reducing the 2018 section 951A
+PTEP to 225u. During CFC2’s tax year ending December
+31, 2025, CFC2 distributes 450u out of its 2016 section
+951(a)(1)(A) PTEP balance of 900u to CFC1. CFC1 pays
+eligible current-year tax of 45u to Country X equal to $45
+on the 450u PTEP distribution, reducing the 2016 section
+951(a)(1)(A) PTEP to 405u. CFC1 is also deemed to pay
+$50 of the eligible current-year tax paid by CFC2 on its
+receipt of the 2018 distribution of the PTEP from CFC3. In
+the same year, CFC1 distributes 630u to USC, which
+wholly owns CFC1. Such distribution includes all of
+CFC1’s 2016 section 951(a)(1)(A) PTEP of 405u and
+2018 section 951A PTEP of 225u. USC pays no foreign
+tax on such distribution, but is deemed to pay $50 of the
+eligible current-year tax deemed paid by CFC1 and $70
+on the eligible current-year tax paid by CFC1 on the 2019
+and 2025 distributions of the PTEP from CFC2.
+The reference ID numbers for CFC1, CFC2, and CFC3
+are 10041, 10042, and 10043, respectively. The country
+codes for Country X, Country Y, and Country Z are OC,
+CC, and BC, respectively. The functional currency of
+CFC1, CFC2, and CFC3 is the “u.” The applicable
+three-character alphabetic code for the “u” using the ISO
+4217 standard is “UUU.”
+Schedule E reporting is not necessary for USC’s tax
+years ending December 31, 2018 to December 31, 2024.
+For USC’s tax year ending December 31, 2025, USC
+completes Form 1118, Schedule E, as follows:
+USC makes the following entries on Schedule E, Part I,
+with respect to general category income.
+
+Example 3. USC is a domestic corporation. CFC1 is a
+Country X corporation, CFC2 is a Country Y corporation,
+and CFC3 is a Country Z corporation. The U.S. tax year of
+USC, CFC1, CFC2, and CFC3 ends on December 31.
+During CFC3’s U.S. tax year ending December 31, 2018,
+CFC3 distributes 1,000u, comprising all of its subpart F
+PTEP within the annual PTEP account for the 2016 tax
+year (“2016 section 951(a)(1)(A) PTEP”) within the
+general category, to CFC2, a CFC that wholly owns CFC3.
+CFC2 pays eligible current-year tax of 100u to Country Y
+equal to $100 on the 1,000u PTEP distribution, reducing
+Instructions for Form 1118 (Rev. 12-2025)
+
+23
+
+Column
+
+Entry
+
+Column
+
+Entry
+
+1a
+
+A CFC1
+
+1a
+
+A CFC3
+
+1b
+
+10041
+
+1b
+
+10043
+
+2
+
+202512
+
+2
+
+201812
+
+3
+
+OC
+
+3
+
+BC
+
+4
+
+UUU
+
+4a
+
+CFC2
+
+5
+
+951a1A
+
+4b
+
+10042
+
+6
+
+2016
+
+5
+
+201812
+
+7
+
+405u
+
+6
+
+CC
+
+8
+
+95
+
+7
+
+UUU
+
+9
+
+405u
+
+8
+
+951a1A
+
+10
+
+1.000
+
+9
+
+2016
+
+11
+
+95
+
+10
+
+1000u
+
+12
+
+0
+
+11
+
+0
+
+13
+
+0
+
+12
+
+500u
+
+14
+
+0
+
+13
+
+0.500
+
+15
+
+0
+
+14
+
+0
+
+16
+
+0
+
+USC makes the following entries on the first of two lines
+on Schedule E, Part II, with respect to general category
+income.
+
+Column
+
+Entry
+B CFC1
+
+Column
+
+Entry
+
+1a
+
+1a
+
+A CFC2
+
+1b
+
+10041
+
+1b
+
+10042
+
+2
+
+202512
+
+2
+
+202512
+
+3
+
+OC
+
+3
+
+CC
+
+4
+
+UUU
+
+4a
+
+CFC1
+
+5
+
+951A
+
+4b
+
+10041
+
+6
+
+2018
+
+5
+
+202512
+
+7
+
+225u
+
+6
+
+OC
+
+8
+
+25
+
+7
+
+UUU
+
+9
+
+225u
+
+8
+
+951a1A
+
+10
+
+1.000
+
+9
+
+2016
+
+11
+
+25
+
+10
+
+900u
+
+12
+
+0
+
+11
+
+100
+
+13
+
+0
+
+12
+
+450u
+
+14
+
+0
+
+13
+
+0.500
+
+15
+
+0
+
+14
+
+50
+
+16
+
+0
+
+USC makes the following entries on the second of two
+lines on Schedule E, Part II, with respect to general
+category income.
+
+24
+
+USC makes the following entries on a line on
+Schedule E, Part I, of its Form 1118, with respect to
+section 951A category income.
+
+USC makes the following entries on a line on
+Schedule E, Part II, of its Form 1118, with respect to
+section 951A category income.
+
+Instructions for Form 1118 (Rev. 12-2025)
+
+Column
+
+Entry
+
+1a
+
+B CFC2
+
+1b
+
+10042
+
+2
+
+201912
+
+3
+
+CC
+
+4a
+
+CFC1
+
+4b
+
+10041
+
+5
+
+201912
+
+6
+
+OC
+
+7
+
+UUU
+
+8
+
+951A
+
+9
+
+2018
+
+10
+
+250u
+
+11
+
+0
+
+12
+
+250u
+
+13
+
+1.000
+
+14
+
+0
+
+Schedule F
+
+Reserved for future use.
+
+Schedule G
+Part I
+Line A. If the corporation claims a deduction for
+percentage depletion under section 613 with respect to
+any part of its foreign mineral income (as defined in
+section 901(e)(2)) for the tax year, any foreign taxes on
+that income must be reduced by the smaller of:
+1. The foreign taxes minus the tax on that income, or
+2. The tax on that income determined without regard
+to the deduction for percentage depletion minus the tax on
+that income.
+The reduction must be made on a country-by-country
+basis (Regulations section 1.901-3(a)(1)). Attach a
+separate schedule showing the reduction.
+Line C. If the corporation chooses to calculate the
+reduction in the foreign tax by identifying taxes specifically
+attributable to participation in or cooperation with an
+international boycott, enter the amount from Schedule C
+(Form 5713), line 2b. See Form 5713 and its separate
+Schedule C and instructions.
+Line D. If the corporation controls a foreign corporation or
+partnership and fails to furnish any return or any
+information in any return required under section 6038(a)
+by the due date, reduce the foreign income taxes available
+for credit under sections 901 and 960 by 10%. If the failure
+continues for 90 days or more after the date of written
+notice by the IRS, reduce the tax by an additional 5% for
+each 3-month period or fraction thereof during which the
+failure continues after the 90-day period has expired. See
+section 6038(c) for limitations and special rules.
+
+Instructions for Form 1118 (Rev. 12-2025)
+
+In addition, a $10,000 penalty is imposed under section
+6038(b) for failure to supply the information required under
+section 6038(a) for each entity within the time prescribed.
+If the required information is not submitted within 90 days
+after the IRS has mailed notice to the U.S. person,
+additional penalties may apply.
+Note: The reduction in foreign income taxes available for
+credit is reduced by any dollar penalty imposed under
+section 6038(b).
+Line E. Enter foreign income taxes paid or accrued
+during the current tax year that have been suspended due
+to the rules of section 909.
+Line F. Enter disallowed taxes under section 965(g).
+These amounts should correspond to the total amounts
+reported from Schedule E, Part I, columns 12 and 15.
+Taxes paid or accrued with respect to distributions of
+section 965(a) PTEP and section 965(b) PTEP must be
+reduced by the relevant applicable percentage. See
+Regulations section 1.965-5(b). Taxes deemed paid with
+respect to distributions of section 965(a) PTEP and
+section 965(b) PTEP must be reduced by the relevant
+applicable percentage. See Regulations section
+1.965-5(c)(1)(i) and (iii).
+Line G. Enter disallowed taxes under section 245A. Such
+disallowed taxes may also include, for example, gain on
+certain sales of CFC stock treated as dividends. See
+section 964(e)(4).
+Line H. Enter disallowed taxes under section 960(d)(4).
+These amounts should correspond to the total amounts
+reported from Schedule E, Part I, columns 13 and 16.
+Section 960(d)(4) disallows a foreign tax credit under
+section 901 for 10% of any foreign income taxes paid or
+accrued (or deemed paid under section 960(b)(1)) with
+respect to section 959(a) distributions, to the extent the
+previously taxed earnings and profits were excluded under
+section 959(a) by reason of a section 951A inclusion in a
+U.S. shareholder’s tax year ending after June 28, 2025.
+Line I. For any other reductions in taxes, enter the code
+“OTH” and attach a statement with the amount and the
+nature of such other reduction.
+
+Schedule H
+Computer-Generated Schedule H
+
+A computer-generated Schedule H may be filed if it
+conforms to the IRS version. In some cases, Schedule H
+must be expanded to properly report apportioned
+deductions. This applies in cases such as when the
+corporation:
+• Has more than two product lines (under the gross
+receipts method of apportioning research and
+experimental (R&E) deductions in Part I), or
+• Has more than five categories of income (statutory
+groupings within Part I, line 6; Part II, line 3; or Part III,
+line 2) with respect to which expenses are required to be
+apportioned.
+
+25
+
+Note: If there are more than five foreign source statutory
+groupings within Part II, line 3, or Part III, line 2, add them
+after the U.S. source residual grouping.
+
+income pertaining to sales, licenses, leases, or services of
+controlled parties (as defined in Regulations section
+1.861-17(d)(4)).
+
+Part I—Research and Experimental Deductions
+
+Line 5c. For each product line, enter the aggregate
+foreign source “gross intangible income” (as defined in
+Regulations section 1.861-17(b)(2)) of the taxpayer that is
+income pertaining to sales, licenses, leases, or services of
+uncontrolled parties (as defined in Regulations section
+1.861-17(d)(3)).
+
+Note: These instructions refer to the regulations issued
+on November 12, 2020. See Regulations section 1.861-17
+(T.D. 9922, 85 FR 72042, as corrected by 86 FR 54367).
+Use Part I to apportion R&E deductions. Use the gross
+receipts method described in Regulations section
+1.861-17 and report applicable amounts in column (a).
+
+Column (a), Gross Receipts Method
+Enter in the spaces provided the SIC codes (based upon
+the Standard Industrial Classification System) of the
+product lines to which the R&E deductions relate. See
+Regulations section 1.861-17(b)(3) for details on choosing
+SIC codes and changing a product category.
+Note: If the corporation has more than two product lines,
+see Computer-Generated Schedule H, earlier.
+
+Columns (a)(i) and (a)(iv)
+Line 1. For each product line, enter the taxpayer’s
+worldwide “gross intangible income” (as defined in
+Regulations section 1.861-17(b)(2)).
+Line 4a. For each product line, enter the U.S. source
+“gross intangible income” (as defined in Regulations
+section 1.861-17(b)(2)) of the taxpayer that is neither
+income pertaining to sales, licenses, leases, or services of
+controlled parties (as defined in Regulations section
+1.861-17(d)(4)) nor income pertaining to sales, licenses,
+leases, or services of uncontrolled parties (as defined in
+Regulations section 1.861-17(d)(3)).
+Line 4b. For each product line, enter the U.S. source
+“gross intangible income” (as defined in Regulations
+section 1.861-17(b)(2)) of the taxpayer that is income
+pertaining to sales, licenses, leases, or services of
+controlled parties (as defined in Regulations section
+1.861-17(d)(4)).
+Line 4c. For each product line, enter the U.S. source
+“gross intangible income” (as defined in Regulations
+section 1.861-17(b)(2)) of the taxpayer that is income
+pertaining to sales, licenses, leases, or services of
+uncontrolled parties (as defined in Regulations section
+1.861-17(d)(3)).
+Line 4d. For each product line, add lines 4a through 4c
+and enter the sum on line 4d.
+Line 5a. For each product line, enter the aggregate
+foreign source “gross intangible income” (as defined in
+Regulations section 1.861-17(b)(2)) of the taxpayer that is
+neither income pertaining to sales, licenses, leases, or
+services of controlled parties (as defined in Regulations
+section 1.861-17(d)(4)) nor income pertaining to sales,
+licenses, leases, or services of uncontrolled parties (as
+defined in Regulations section 1.861-17(d)(3)).
+Line 5b. For each product line, enter the aggregate
+foreign source “gross intangible income” (as defined in
+Regulations section 1.861-17(b)(2)) of the taxpayer that is
+26
+
+Line 5d. For each product line, add lines 5a through 5c
+and enter the sum on line 5d.
+Lines 6a through 6e. For lines 6a through 6e, enter the
+code for the applicable separate category of income
+(foreign source statutory grouping). See Categories of
+Income, earlier. If code “901j” or one of the “RBT” codes
+applies, also enter the applicable country.
+Note: If the corporation has more than five separate
+categories of income, Schedule H, Part I, line 6 must be
+expanded to properly report apportioned R&E deductions.
+See Computer-Generated Schedule H, earlier.
+Lines 6a(1), 6b(1), 6c(1), 6d(1), and 6e(1). For each
+product line and for each separate category, enter the
+foreign source “gross intangible income” (as defined in
+Regulations section 1.861-17(b)(2)) of the taxpayer that is
+neither income pertaining to sales, licenses, leases, or
+services of controlled parties (as defined in Regulations
+section 1.861-17(d)(4)) nor income pertaining to sales,
+licenses, leases, or services of uncontrolled parties (as
+defined in Regulations section 1.861-17(d)(3)).
+Lines 6a(2), 6b(2), 6c(2), 6d(2), and 6e(2). For each
+product line and for each separate category, enter the
+foreign source “gross intangible income” (as defined in
+Regulations section 1.861-17(b)(2)) of the taxpayer that is
+income pertaining to sales, licenses, leases, or services of
+controlled parties (as defined in Regulations section
+1.861-17(d)(4)).
+Lines 6a(3), 6b(3), 6c(3), 6d(3), and 6e(3). For each
+product line and for each separate category, enter the
+foreign source “gross intangible income” (as defined in
+Regulations section 1.861-17(b)(2)) of the taxpayer that is
+income pertaining to sales, licenses, leases, or services of
+uncontrolled parties (as defined in Regulations section
+1.861-17(d)(3)).
+Lines 6a(4), 6b(4), 6c(4), 6d(4), and 6e(4). For each
+product line and for each separate category, add lines (1),
+(2), and (3) and enter the sum on line (4).
+
+Columns (a)(ii) and (a)(v)
+Line 1. For each product line, enter the taxpayer’s
+worldwide gross receipts from sales and leases of
+products or services.
+Line 4a. For each product line, enter the taxpayer’s gross
+receipts from sales and leases of products or services
+related to U.S. source gross intangible income.
+Line 4b. For each product line, enter the controlled
+parties’ (as defined in Regulations section 1.861-17(d)(4))
+gross receipts from sales, leases, licenses, or services
+Instructions for Form 1118 (Rev. 12-2025)
+
+that are related to the taxpayer’s U.S. source gross
+intangible income.
+Line 4c. For each product line, enter the uncontrolled
+parties’ (as defined in Regulations section 1.861-17(d)(3))
+gross receipts from sales, leases, licenses, or services of
+uncontrolled parties that are related to the taxpayer’s U.S.
+source gross intangible income.
+Line 4d. For each product line, add lines 4a through 4c
+and enter the sum on line 4d.
+Line 5a. For each product line, enter the taxpayer’s gross
+receipts from sales and leases of products or services
+related to foreign source gross intangible income.
+Line 5b. For each product line, enter the controlled
+parties’ (as defined in Regulations section 1.861-17(d)(4))
+gross receipts from sales, leases, licenses, or services
+that are related to the taxpayer’s foreign source gross
+intangible income.
+Line 5c. For each product line, enter the uncontrolled
+parties’ (as defined in Regulations section 1.861-17(d)(3))
+gross receipts from sales, licenses, leases, or services
+that are related to the taxpayer’s foreign source gross
+intangible income.
+Line 5d. For each product line, add lines 4a through 4c
+and enter the sum on line 4d.
+Lines 6a(1), 6b(1), 6c(1), 6d(1), and 6e(1). For each
+product line, enter the taxpayer’s gross receipts from sales
+and leases of products or services that are related to
+foreign source gross intangible income within the relevant
+separate category.
+Lines 6a(2), 6b(2), 6c(2), 6d(2), and 6e(2). For each
+product line, enter the controlled parties’ (as defined in
+Regulations section 1.861-17(d)(4)) gross receipts from
+sales, licenses, leases, or services that are related to
+foreign source gross intangible income within the relevant
+statutory grouping.
+Lines 6a(3), 6b(3), 6c(3), 6d(3), and 6e(3). For each
+product line, enter the uncontrolled parties’ (as defined in
+Regulations section 1.861-17(d)(3)) gross receipts from
+sales, licenses, leases, or services that are related to
+foreign source gross intangible income within the relevant
+statutory grouping.
+Lines 6a(4), 6b(4), 6c(4), 6d(4), and 6e(4). For each
+product line and for each separate category, add lines (1),
+(2), and (3) and enter the sum on line (4).
+
+Columns (a)(iii) and (a)(vi)
+Line 1. Enter the total R&E deductions connected with
+the product lines.
+Line 2a or 2b. Reduce the line 1 totals by a 50%
+exclusive apportionment amount (Regulations section
+1.861-17(c)).
+Note: For tax years beginning on or after January 1,
+2020, there is no longer a rule with respect to legally
+mandated R&E. See Regulations section 1.861-17 (T.D.
+9922) published in the Federal Register on November 12,
+2020.
+Instructions for Form 1118 (Rev. 12-2025)
+
+Under the exclusive apportionment rules, 50% of the
+R&E deductions are apportioned exclusively to the
+residual grouping of U.S. source gross income, if the R&E
+that accounts for more than 50% of the amount of such
+R&E deductions were performed in the United States. A
+similar rule applies when a majority of R&E is performed
+outside the United States.
+Enter 50% of line 1 on either line 2a or line 2b (as
+explained above).
+Line 4d. According to Regulations section 1.861-17(d)
+(1), to determine the line 3 amount of R&E expenditures to
+be apportioned to the residual grouping of U.S. source
+gross income, divide the gross receipts related to the
+gross intangible income within the residual grouping by
+the worldwide gross receipts for the product line. Multiply
+the result by the line 3 R&E deductions to be apportioned.
+Example 1. With respect to the first product line
+reported on Schedule H, Part I, to determine the amount
+to enter on line 4d, column (a)(iii), divide the amount on
+line 4d, column (a)(ii) by the amount on line 1, column (a)
+(ii). Multiply the result by the amount on line 3, column (a)
+(iii).
+Line 5d. According to Regulations section 1.861-17(d)
+(1), to determine the line 3 amount of R&E expenditures to
+be apportioned to the aggregate statutory grouping of
+foreign source gross income, divide the gross receipts
+related to the gross intangible income within the statutory
+grouping(s) by the worldwide gross receipts for the
+product line. Multiply the result by the line 3 R&E
+deductions to be apportioned.
+Example 2. With respect to the first product line
+reported on Schedule H, Part I, to determine the amount
+to enter on line 5d, column (a)(iii), divide the amount on
+line 5d, column (a)(ii) by the amount on line 1, column (a)
+(ii). Multiply the result by the amount on line 3, column (a)
+(iii).
+Lines 6a(5), 6b(5), 6c(5), 6d(5), and 6e(5). Enter the
+amount of line 3 R&E deductions apportioned to each
+separate category. According to Regulations section
+1.861-17(d)(1), to determine the line 3 amount of R&E
+expenditures to be apportioned among the statutory
+groupings of foreign source gross income, divide the
+gross receipts related to the gross intangible income
+within the statutory grouping by the worldwide gross
+receipts for the product line. Multiply the result by the
+line 3 R&E deductions to be apportioned.
+Example 3. With respect to the first product line
+reported on Schedule H, Part I, there are two foreign tax
+credit separate limitation categories with gross receipts
+that are related to foreign source gross intangible income
+within each of the two categories. With respect to the first
+separate category, to determine the amount to enter on
+line 6a(5), column (a)(iii), divide the amount on line 6a(4),
+column (a)(ii) by the amount on line 1, column (a)(ii) and
+multiply the result by the amount on line 3, column (a)(iii).
+Similarly, with respect to the second separate category, to
+determine the amount to enter on line 6b(5), column (a)
+(iii), divide the amount on line 6b(4), column (a)(ii) by the
+amount on line 1, column (a)(ii) and multiply the result by
+the amount on line 3, column (a)(iii).
+27
+
+Lines 6a(6), 6b(6), 6c(6), 6d(6), and 6e(6). Enter the
+amount of line 2b R&E deductions, if any, to be
+apportioned to each separate category. As indicated in
+Regulations section 1.861-17(c), if there are multiple
+separate categories with foreign source gross intangible
+income with respect to a given product line, the line 2b
+amount is apportioned ratably based on the relative
+amounts of gross receipts from gross intangible income in
+each separate category, as determined under Regulations
+section 1.861-17(d).
+
+Column (b)
+Line 1. Enter total R&E deductions for all product lines
+(for example, from column (a)(iii) and, if applicable,
+columns (a)(vi), (a)(ix), etc.).
+Note: Line 1, column (b) is the total worldwide R&E
+deductions for all product lines.
+Lines 2a and 4d. Enter on line 2a the total amount
+exclusively apportioned to U.S. source gross intangible
+income for all product lines. Enter on line 4d the total
+amount of line 3 R&E expenditures apportioned to the
+residual grouping of U.S. source gross intangible income
+for all product lines.
+Note: Line 2a, column (b) plus line 4d, column (b) equals
+the total amount of R&E deductions for all product lines
+apportioned to U.S. source gross intangible income for all
+product lines.
+Lines 6a(7), 6b(7), 6c(7), 6d(7), and 6e(7). Enter on
+each of these lines the total amount of line 3 R&E
+expenditures apportioned to the statutory grouping of
+foreign source gross income for all product lines.
+Note: The sum of lines 6a(7), 6b(7), 6c(7), 6d(7), and
+6e(7) in column (b) equals the total amount of R&E
+deductions for all product lines apportioned to foreign
+source gross intangible income for all product lines.
+Note: Include the amount from column (b) of line 6a(7) in
+column 14 of the Schedule A that corresponds with the
+code entered on line 6a. If applicable, you should likewise
+include the amount from column (b) of line 6b(7) in column
+14 of the Schedule A that corresponds with the code
+entered on line 6b. If applicable, on page 10 of Form 1118,
+you should likewise include the amount(s) from column (b)
+of lines 6c(7), 6d(7), and 6e(7) in column 14 of the
+Schedule A that corresponds with the code entered on
+lines 6c, 6d, and 6e, respectively.
+
+Part II—Deductions Allocated and Apportioned
+Based on Assets
+Columns (a)(i) Through (b)(iv)
+Use these columns to apportion interest deductions. See
+final and temporary Regulations sections 1.861-8 through
+1.861-14 for rules on the apportionment of interest
+deductions based on the tax book value or adjusted tax
+book value of assets.
+A corporation may elect to use the alternative tax book
+value method. See Regulations section 1.861-9(i).
+28
+
+Columns (a) and (b) are subdivided into “Nonfinancial
+Corporations” and “Financial Corporations.” In allocating
+interest deductions, members of an affiliated group that
+are financial corporations must be treated as a separate
+affiliated group. Complete columns (a)(ii) and (b)(iv) for
+members of the corporation’s affiliated group that are
+financial corporations and columns (a)(i) and (b)(iii) for
+members that are nonfinancial corporations.
+See Regulations section 1.861-11 for the definition of
+an affiliated group.
+
+Columns (a)(i) and (a)(ii)
+Line 1a. Enter the average of the total assets of the
+affiliated group. See Regulations section 1.861-9(g)(2) for
+the definition of “average” for these purposes.
+Line 1b. Enter the assets included on line 1a that are
+characterized as excess related party indebtedness. See
+Regulations section 1.861-10(e) for an exception to the
+general rule of fungibility for excess related party
+indebtedness.
+Line 1c. Enter all other assets that attract specifically
+allocable interest deductions. See Regulations section
+1.861-10 for other exceptions to the general rule of
+fungibility (such as qualified nonrecourse indebtedness
+and integrated financial transactions).
+Line 1d. Enter the total of the exempt assets and assets
+without directly identifiable yield that are to be excluded
+from the interest apportionment formula (Regulations
+section 1.861-8(d)(2) and Temporary Regulations
+sections 1.861-8T(d)(2) and 1.861-9T(g)(3)). This could
+include an exempt portion of assets that produce
+foreign-derived intangible income and/or an exempt
+portion of CFC stock that gives rise to inclusions under
+section 951A.
+Lines 3a through 3f. For lines 3a through 3e, enter the
+code for the applicable separate category of income
+(statutory grouping). See Categories of Income, earlier. If
+code “901j” or one of the “RBT” codes applies, also enter
+the applicable country.
+Note: If the corporation had more than five separate
+categories of income, Schedule H, Part II, line 3 must be
+expanded to properly report deductions apportioned
+based on assets. See Computer-Generated Schedule H,
+earlier.
+The assets in each statutory grouping (lines 3a through
+3e) and the residual grouping (line 3f) are divided between
+those assets generating dividend income eligible to be
+offset by the deduction under section 245A versus those
+generating all other types of gross income. The foreign
+branch income and section 951A income categories do
+not include assets generating dividend income eligible to
+be offset by the deduction under section 245A. The assets
+on line 2 are characterized as assets in one of the
+statutory groupings or as belonging to the residual
+grouping.
+Enter the value of the assets in each of the statutory
+groupings on lines 3a through 3e, and enter the value of
+the assets in the residual grouping on line 3f. See
+Regulations sections 1.861-12 and 1.861-13 and
+Instructions for Form 1118 (Rev. 12-2025)
+
+Temporary Regulations sections 1.861-9T(g)(3),
+1.861-12T(g)(2), and 1.861-12T for the rules for
+characterizing the assets.
+
+Columns (b)(iii) and (b)(iv)
+Line 1a. Enter the total interest deductions for the
+members of the corporation’s affiliated group. These
+include any expense that is currently deductible under
+section 163 (including original issue discount), and
+interest equivalents. See Regulations section 1.861-9 and
+Temporary Regulations section 1.861-9T for the definition
+of interest equivalents and a list of the sections that
+disallow or suspend interest deductions or require the
+capitalization of interest deductions.
+Line 1b. Enter the interest deductions associated with
+the assets on line 1b of columns (a)(i) and (a)(ii),
+respectively, that attract specifically allocable interest
+deductions under Regulations section 1.861-10(e).
+Note: These interest deductions will be divided among
+the statutory groupings and the residual grouping. The
+interest deductions allocated and apportioned to the
+statutory groupings will appear as a definitely allocable
+deduction in Schedule A, column 13(j).
+Line 1c. Enter the interest deductions associated with
+the assets on line 1c of columns (a)(i) and (a)(ii),
+respectively, that attract specifically allocable interest
+deductions.
+Lines 3a through 3f. To figure the amount of interest
+deductions to apportion to each separate category of
+income (statutory grouping) and to the residual grouping,
+divide the assets apportioned to the grouping by the total
+assets apportioned and multiply the result by the interest
+deductions to be apportioned.
+Example 1. To determine the amount to enter on
+line 3a(1), column (b)(iii), do the following.
+1. Divide the amount entered on line 3a(1), column (a)
+(i), by the amount on line 2, column (a)(i).
+2. Multiply the result by the amount on line 2, column
+(b)(iii).
+
+Column (e)
+Complete this column to apportion all other deductions
+allocated and apportioned based on assets (other than
+interest deductions, stewardship deductions, and certain
+industrial/investor damages). See final and temporary
+Regulations sections 1.861-8 and 1.861-14.
+
+Line Instructions for Columns (c), (d), and (e)
+Line 1a. For each column, enter the total expenses to be
+allocated and apportioned. See final and temporary
+Regulations sections 1.861-8 and 1.861-14. Also report
+this amount on line 2.
+Lines 3a through 3f. For lines 3a through 3e, enter the
+code for the applicable separate category of income
+(statutory grouping). See Categories of Income, earlier. If
+code “901j” or one of the “RBT” codes applies, also enter
+the applicable country.
+Note: If the corporation had more than five separate
+categories of income, Schedule H, Part II, line 3 must be
+expanded to properly report stewardship deductions in
+column (c), certain industrial/investor damages in column
+(d), and “other deductions” in column (e). To clarify, in
+column (e), report all other deductions allocated and
+apportioned based on assets (other than those listed in
+columns (b), (c), and (d)). See Computer-Generated
+Schedule H, earlier.
+Enter on lines 3a through 3e the amount of expenses
+apportioned to each separate category of income as
+further apportioned between dividend income eligible to
+be offset by the deduction under section 245A and all
+other gross income.
+Enter on line 3f the amount of expenses apportioned to
+income in the residual grouping (U.S. source income) as
+further apportioned between dividend income eligible to
+be offset by the deduction under section 245A and all
+other gross income.
+Attach a schedule that explains in detail how the above
+apportionments were made.
+
+Example 2. To determine the amount to enter on
+line 3b(2), column (b)(iv), do the following.
+1. Divide the amount on line 3b(2), column (a)(ii), by
+the amount on line 2, column (a)(ii).
+2. Multiply the result by the amount on line 2, column
+(b)(iv).
+
+Column (f)
+
+Column (c)
+
+Step 2: With respect to section 245A dividends, enter the
+sum of any amounts entered in column (f) of lines 3a(1),
+3b(1), 3c(1), 3d(1), 3e(1), and 3f(1) on line 4, column (f).
+Include this line 4 result as a negative amount on
+Schedule B, Part II, line 8b.
+
+Complete this column to apportion stewardship
+deductions. See Regulations section 1.861-8(e)(4)(ii).
+
+Column (d)
+Complete this column to apportion certain industrial/
+investor damages. See Regulations section 1.861-8(e)(5)
+(ii) and (iii).
+
+Instructions for Form 1118 (Rev. 12-2025)
+
+To determine the totals to enter in column (f), use the
+following steps.
+Step 1: For each applicable line beginning with line 3a(1),
+enter the sum of the amounts in columns (b)(iii), (b)(iv),
+(c), (d), and (e) in this column (f).
+
+Note: This is the adjustment required by section 904(b)
+(4) to worldwide taxable income to eliminate the expenses
+properly allocated or apportioned to stock or dividend
+income for which a dividends received deduction is
+allowed under section 245A. As such, it includes both
+foreign source amounts (that is, the amounts from the
+applicable statutory groupings on lines 3a(1), 3b(1), 3c(1),
+29
+
+3d(1), and 3e(1)) and U.S. source amounts (that is, the
+amount from the residual grouping on line 3f(1)).
+Step 3: With respect to amounts other than section 245A
+dividends, for each applicable statutory grouping, include
+the amount in column (f) of line 3a(2), 3b(2), 3c(2), 3d(2),
+or 3e(2) in column 14 of the corresponding Schedule A.
+For example, if the taxpayer enters “PAS” on Schedule H,
+Part II, line 3a, the taxpayer takes the total on line 3a(2),
+column (f) and includes it in column 14 of the Schedule A
+being completed for the Passive Category.
+Note: Do not include the amount on line 3f(2), column (f)
+in column 14 on any Schedule A. The amount on
+line 3f(2), column (f) is a residual grouping amount and not
+an applicable statutory grouping amount.
+Note: Due to the reporting requirement described in step
+3 above, you do not need to report a grand total for
+amounts other than section 245A dividends (that is, the
+amount reported on line 4).
+
+Part III—Other Deductions
+
+Report in Schedule H, Part III information pertaining to the
+allocation and apportionment of deductions other than
+research and experimental deductions (reported in
+Schedule H, Part I) and other than deductions allocated
+and apportioned based on assets (reported in
+Schedule H, Part II).
+Column (a). Complete this column to apportion officers’
+compensation expense in accordance with the rules of
+Regulations section 1.861-8(b)(3).
+Columns (b) and (c). Complete these columns to
+apportion amortization deductions and depletion
+deductions, respectively, in accordance with the rules of
+Regulations section 1.861-8(b)(2) and Temporary
+Regulations section 1.861-8T(c)(1), for example.
+Column (d). Complete this column to apportion product
+liability damages in accordance with the rules of
+Regulations section 1.861-8(e)(5)(ii).
+Column (e). Complete this column to apportion
+deductions other than those reported on Schedule H, Part
+I; Schedule H, Part II; or Schedule H, Part III, columns (a)
+through (d). See final and temporary Regulations sections
+1.861-8 and 1.861-14.
+Column (f). Column (f) is a totals column. It requests
+total deductions allocated and apportioned to section
+245A dividends. This is the sum of any amounts entered
+in columns (a) through (e) on lines 2a(1), 2b(1), 2c(1),
+2d(1), 2e(1), and 2f(1). The total is entered on line 3 and is
+also included on Schedule B, Part II, line 8b as a negative
+number.
+Note: This is the adjustment required by section 904(b)
+(4) to worldwide taxable income to eliminate the expenses
+properly allocated or apportioned to stock or dividend
+income for which a dividends received deduction is
+
+30
+
+allowed in section 245A. As such, it includes both foreign
+source amounts (that is, the amounts from the applicable
+statutory groupings on lines 3a(1), 3b(1), 3c(1), 3d(1), and
+3e(1)) and U.S. source amounts (that is, the amount from
+the residual grouping on line 3f(1)).
+Column (g). With respect to each applicable statutory
+grouping, column (g) requests the sum of any amounts
+entered in columns (a) through (e) for lines 2a(2), 2b(2),
+2c(2), 2d(2), and 2e(2). These are amounts other than
+section 245A dividends.
+Note: Unlike column (f), this column (g) does not request
+a total. Instead, for each applicable statutory grouping, the
+column (g) total for each applicable line is carried over to
+column 14 of the corresponding Schedule A. For example,
+if the taxpayer enters “PAS” on Schedule H, Part III,
+line 2a, the taxpayer takes the total on line 2a(2), column
+(g) and includes it in column 14 of the Schedule A being
+completed for the Passive Category.
+
+Line Instructions
+Line 1. For each column, enter the total expenses to be
+allocated and apportioned.
+Lines 2a through 2f. For lines 2a through 2e, enter the
+code for the applicable separate category of income
+(statutory grouping). See Categories of Income, earlier. If
+code “901j” or one of the “RBT” codes applies, also enter
+the applicable country.
+Note: If the corporation had more than five separate
+categories of income, Schedule H, Part III, line 2 must be
+expanded to properly report deductions other than
+research and experimental deductions (reported in
+Schedule H, Part I), and other than deductions allocated
+and apportioned based on assets (reported in
+Schedule H, Part II). See Computer-Generated
+Schedule H, earlier.
+Enter on lines 2a through 2e the amount of expenses
+apportioned to each separate category of income as
+further apportioned between dividend income eligible to
+be offset by the deduction under section 245A and all
+other gross income.
+Enter on line 2f the amount of expenses apportioned to
+income in the residual grouping (U.S. source income) as
+further apportioned between dividend income eligible to
+be offset by the deduction under section 245A and all
+other gross income.
+Attach a schedule that explains in detail how the above
+apportionments were made.
+Line 3. See the instructions for column (f) above.
+
+Schedules I, J, K, and L
+
+See the separate instructions for Schedule I, Schedule J,
+Schedule K, and Schedule L to see if the corporation must
+file these schedules.
+
+Instructions for Form 1118 (Rev. 12-2025)
+
+Paperwork Reduction Act Notice. We ask for the information on this form to carry out the Internal Revenue laws of the
+United States. You are required to give us the information. We need it to ensure that you are complying with these laws
+and to allow us to figure and collect the right amount of tax.
+You are not required to provide the information requested on a form that is subject to the Paperwork Reduction Act
+unless the form displays a valid OMB control number. Books or records relating to a form or its instructions must be
+retained as long as their contents may become material in the administration of any Internal Revenue law. Generally, tax
+returns and return information are confidential, as required by section 6103.
+The time needed to complete and file this form will vary depending on individual circumstances. The estimated burden
+for business taxpayers filing this form is approved under OMB control number 1545-0123 and is included in the estimates
+shown in the instructions for their business income tax return.
+If you have suggestions for making Form 1118 and related schedules simpler, we would be happy to hear from you.
+You can send us comments through IRS.gov/FormComments. Or you can send your comments to Internal Revenue
+Service, Tax Forms and Publications Division, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224. Do not
+send the tax form to this office. Instead, see Where To File in the instructions for the tax return with which this form is filed.
+
+Instructions for Form 1118 (Rev. 12-2025)
+
+31
+
+

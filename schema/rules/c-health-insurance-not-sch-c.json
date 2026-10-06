@@ -1,0 +1,49 @@
+{
+  "rule": {
+    "id": "c-health-insurance-not-sch-c",
+    "title": "The owner's own health insurance is not a Schedule C expense",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-business-income-and-expense-records.employee_benefit_programs",
+        "taxpayer-business-income-and-expense-records.insurance_other_than_health"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-owners-own-health-insurance"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-owners-own-health-insurance",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this item health insurance (an accident and health plan) for the owner, the owner's spouse or dependents, rather than for employees?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule C (Form 1040)",
+      "line": "Line 14",
+      "revision": "2025",
+      "wording": "Do not include on line 14 any contributions you made on your behalf as a self-employed person to an accident and health plan.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+    },
+    "open_point": "The figure is counted 0.00 on Schedule C and not moved: the self-employed health insurance deduction (Schedule 1 line 17) is limited and worked by the preparer's software, so it is not a line this sheet places on.",
+    "research_ids": [
+      "c-health-insurance-not-sch-c"
+    ]
+  }
+}

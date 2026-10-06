@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-not-a-gift-to-a-qualified-organization",
+    "wording": "Is this payment one the instructions say can't be deducted \u2014 a political contribution, club or lodge dues, raffle, bingo or lottery tickets, tuition, the value of time or services, or a gift to an individual, a for-profit group, a foreign organization, a lobbying group, a civic league, social or sports club, labor union or chamber of commerce?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 not a deductible gift"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 a gift to a qualified organization"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this payment one the instructions say can't be deducted \u2014 a political contribution, club or lodge dues, raffle, bingo or lottery tickets, tuition, the value of time or services, or a gift to an individual, a for-profit group, a foreign organization, a lobbying group, a civic league, social or sports club, labor union or chamber of commerce?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Amounts You Can't Deduct",
+        "revision": "2025",
+        "wording": "Gifts to individuals and groups that are operated for personal profit.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

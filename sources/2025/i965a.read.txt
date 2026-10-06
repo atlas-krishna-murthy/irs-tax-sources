@@ -1,0 +1,717 @@
+Instructions for Form 965-A
+
+Department of the Treasury
+Internal Revenue Service
+
+(Rev. January 2021)
+
+Individual Report of Net 965 Tax Liability
+Section references are to the Internal Revenue Code unless
+otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to Form
+965-A and its instructions, such as legislation enacted after they
+were published, go to IRS.gov/Form965A.
+
+What’s New
+
+In Parts I, II, and III of the form, line 4 is now designated for use
+for 2020 reporting.
+Changes to the carryback of net operating losses. The
+Coronavirus Aid, Relief, and Economic Security Act (CARES
+Act) added section 172(b)(1)(D)(i), which provides for a
+carryback of any net operating loss (NOL) arising in a taxable
+year beginning after December 31, 2017, and before January 1,
+2021, to each of the five taxable years preceding the taxable
+year in which the loss arises, including those years in which a
+taxpayer had a section 965(a) inclusion (section 965 years). A
+taxpayer applying for a tentative refund resulting from the
+carryback of an NOL to a section 965 year must include with the
+Form 1045 an amended Form 965-A to record the amount of the
+change in the section 965 net tax liability, if any, caused by the
+NOL carryback, and a statement of explanation to explain the
+change in the section 965 net tax liability. See Rev. Proc.
+2020-24, 2020-18 I.R.B. 750, and Frequently asked questions
+about carrybacks of NOLs for taxpayers who have had Section
+965 inclusions for additional information regarding the
+consequences of carrying back an NOL to a section 965 year,
+including limitations on refunds for taxpayers that carry back
+NOLs to section 965 years.
+
+Reminders
+
+The IRS has developed the following forms:
+• Form 965-C, Transfer Agreement Under Section 965(h)(3).
+• Form 965-D, Transfer Agreement Under Section 965(i)(2).
+• Form 965-E, Consent Agreement Under Section 965(i)(4)(D).
+The instructions for these forms contain information that may
+be useful to filers of Form 965-A. As such, references to these
+instructions have been added throughout the instructions for
+Form 965-A.
+
+Background
+
+On December 22, 2017, section 965 of the Code was amended.
+As a result of the amendment, certain taxpayers are required to
+include in income an amount (a section 965(a) inclusion amount)
+based on the accumulated post-1986 deferred foreign income of
+certain foreign corporations (specified foreign corporations) that
+are deferred foreign income corporations (DFICs) that they own
+either directly or indirectly through other entities. Other taxpayers
+may have inclusions in income under section 951(a) by reason
+of section 965 due to ownership of DFICs through domestic
+pass-through entities that are U.S. shareholders of the DFICs.
+When referring to both amounts in the preceding two sentences,
+these instructions use the term “section 965(a) inclusion.”
+Section 965 also allows for a deduction (section 965(c)
+deduction). Section 965(a) inclusions and corresponding section
+965(c) deductions are taken into account based on the last tax
+year of the DFIC that begins before January 1, 2018.
+
+Dec 15, 2020
+
+Certain taxpayers may make certain elections with respect to
+section 965. Relevant to this form, these elections include: (i) an
+election to pay a net 965 tax liability over 8 years, and (ii) an
+election by S corporation shareholders to defer payment of a net
+965 tax liability with respect to an S corporation until a triggering
+event. In the case of the deferral election by S corporation
+shareholders, the deferred amounts are subject to annual
+reporting requirements, and when a triggering event occurs, the
+S corporation shareholder may then (subject to certain
+limitations) elect to pay the amount of the net 965 tax liability that
+is no longer subject to deferral over 8 years.
+
+General Instructions
+Purpose of Form
+
+This form should be used by individual taxpayers and entities
+taxed like individuals (for example, certain trusts and estates).
+This form is used to report a taxpayer’s net 965 tax liability for
+each tax year in which a taxpayer must report or pay section 965
+amounts. In addition, this form is used to report the
+determination of a taxpayer’s net 965 tax liability, whether or not
+to be paid in installments; the payments of a net 965 tax liability
+to be paid in installments; adjustments of any net 965 tax
+liabilities outstanding, including any net 965 tax liability of the
+taxpayer that has been assumed by another taxpayer or any net
+965 tax liability that the taxpayer has assumed; an S corporation
+shareholder’s net 965 tax liability with respect to an S
+corporation, whether or not to be deferred; and the beginning
+balance of, adjustments to, and ending balance of any deferred
+net 965 tax liabilities with respect to an S corporation. In
+summary, this form is intended to be a cumulative report of a
+taxpayer’s net 965 tax liabilities through payment in full. This
+form must be completed by a taxpayer for every tax year for
+which the taxpayer has any net 965 tax liability outstanding and
+not fully paid at any point during the tax year, including deferred
+net 965 tax liabilities with respect to an S corporation.
+
+Definitions
+Deferred foreign income corporation (DFIC). A DFIC is, with
+respect to any U.S. shareholder, any specified foreign
+corporation (as defined under section 965(e)) of a U.S.
+shareholder that has accumulated post-1986 deferred foreign
+income (as defined under section 965(d)(2)) as of November 2,
+2017, or December 31, 2017, that is greater than zero.
+U.S. shareholder. For tax years of foreign corporations
+beginning before January 1, 2018, a U.S. shareholder is a U.S.
+person who owns (directly, indirectly, or constructively) 10% or
+more of the total combined voting power of all classes of stock of
+a foreign corporation. A U.S. person for this purpose is defined
+in section 957(c) of the Code.
+Net income tax liability. The taxpayer’s regular income tax
+liability reduced by the credits allowed under subparts A, B, and
+D of part IV of subchapter A (generally non-refundable credits;
+specifically, those credits allowed under sections 21 through
+30D and sections 38 through 45T).
+Net 965 tax liability. The excess of the taxpayer’s net income
+tax liability computed with all section 965 amounts included
+(“with calculation”) over the taxpayer’s net income tax liability
+without regard to section 965 (“without calculation”). See
+
+Cat. No. 71280E
+
+for Form 965-C for more details.) If this occurs, the transferee
+should complete one of lines 5 through 8 in Part I as follows:
+• In column (a), enter the tax year of the net 965 tax liability for
+which the installment payment liability is being assumed. For
+example, if a net 965 tax liability incurred in tax year 2017 (with
+respect to which an installment payment election was made)
+was transferred to a transferee in 2022, in 2022 the taxpayer
+(transferee) reports “2017” in column (a).
+• Skip columns (b) through (i).
+• In column (j), report, as a positive number, the remaining
+installment payment liability (that is, original liability less
+payments made by the transferor) assumed by the taxpayer as
+transferee.
+• In column (k), report the tax identification number of the
+transferor.
+• Payments of such liability would then be reported on the
+corresponding line of Part II in the same manner as if the
+taxpayer were the transferor.
+For example, assume Transferor had an original net 965 tax
+liability of $100 in year 1, when an installment payment election
+was made. In years 1 through 5, Transferor reports payments of
+five 8% installments. Then, in year 6, the liability to pay the
+remaining installments (15%, 20%, and 25%) totaling $60 is
+transferred to Taxpayer as transferee. Taxpayer would report on
+a line in Part I the tax year of the net 965 tax liability for which the
+installment payment liability is being assumed in column (a); the
+$60 amount of the transfer as a positive number in column (j);
+and the tax identification number of Transferor in column (k). In
+addition, on the corresponding line in Part II, Taxpayer would
+report the $15 installment payment made in column (g), Paid for
+Year 6 (the installment year as if Taxpayer were paying as
+Transferor). In the next reporting year, Taxpayer would report all
+the same information in Part II, plus the payment of $20 (20% of
+the original $100 liability) in column (h), Paid for Year 7. In the
+following reporting year, Taxpayer would report all the same
+information as in year 7, plus the final payment of $25 (25% of
+the original $100 liability) in column (i), Paid for Year 8.
+• Triggered deferred S corporation-related net 965 tax
+liability. Deferred S corporation-related net 965 tax liabilities
+become subject to payment when a triggering event occurs.
+(See instructions for Part III and Part IV for information
+concerning the computation, reporting, deferral election, and
+triggering events for S corporation-related net 965 tax liabilities.)
+When such a deferred liability is triggered, it must be transferred
+from Part IV, where it is annually reported, to Part I, column (f).
+Such a triggered S corporation-related net 965 tax liability is
+generally eligible for an election to be paid in 8 installments
+beginning in the year of the triggering event. In the case of a
+triggering event with respect to a deferred S corporation-related
+net 965 tax liability, complete one of lines 5 through 8 as follows:
+In column (a), report the tax year in which the triggering event
+occurred. Skip columns (b) through (e) and report the triggered
+liability in column (f). Report in column (g) whether the taxpayer
+elected to pay the triggered liability in 8 installments by entering
+“Yes” or “No.”
+
+Regulations section 1.965-7(g)(10) for rules for computing the
+net 965 tax liability.
+S corporation-related net 965 tax liability. With respect to an
+S corporation, the excess of the taxpayer’s net income tax
+liability computed with all section 965 amounts included (which,
+in this case, includes only section 965 amounts allocated from
+such S corporation with respect to DFICs of which such S
+corporation is a U.S. shareholder) (“with calculation”) over the
+taxpayer’s net income tax liability without regard to section 965
+(“without calculation”).
+Reporting year. The tax year of the return with which this form
+is being filed.
+
+Who Must File
+
+Any individual taxpayer (or taxpayer taxed like an individual) who
+has a net 965 tax liability for any tax year or has any net 965 tax
+liability remaining unpaid at any time during a tax year must file
+this form.
+
+When and Where To File
+
+File Form 965-A with the income tax return of the taxpayer for
+the reporting year by the due date (taking into account
+extensions, if any) of the return.
+
+Electronic Filing of Form 965-A
+
+If you file your income tax return electronically, Form 965-A is
+filed with the electronic income tax return. See the instructions
+for your income tax return for general information about
+electronic filing.
+
+Specific Instructions
+Amended Report
+
+Check the amended report box at the top of page 1 of the form if
+Form 965-A is filed with an amended return that is filed to
+change any reporting related to section 965, regardless of
+whether a Form 965-A has previously been filed. The amended
+return box must also be checked for any amended Form 965-A
+filed with a Form 1045 applying for a tentative refund resulting
+from the carryback of an NOL to a section 965 year pursuant to
+section 172(b)(1)(D)(i).
+
+Part I – Report of Net 965 Tax Liability
+and Election to Pay in Installments
+Lines 1 through 8. Report in Part I net 965 tax liability amounts
+as follows.
+On lines 1, 2 and 3, you must continue to report 2017, 2018,
+and/or 2019 amounts for all columns, including the original
+computation of net 965 tax liability reported in columns (b)
+through (i) on a prior-year Form 965-A. Report in column (j) any
+current-year net 965 tax liability transferred out (that is, for which
+you filed a valid transfer agreement as the transferor) or any
+current tax year subsequent adjustments. Also, complete
+column (k), if applicable.
+For 2020 tax years, use line 4 to report section 965(a)
+inclusions derived solely through interests in pass-through
+entities that are U.S. shareholders of DFICs.
+Use lines 5 through 8 to report other amounts of net 965 tax
+liability of the taxpayer, such as:
+• Installment liability transfers in. The taxpayer may, in
+certain circumstances, and by agreement with the Secretary,
+assume as transferee the installment payment liability for the
+transferor's remaining net 965 tax liability and pay it in the same
+manner as if the taxpayer were the transferor. (See instructions
+
+For certain triggered net 965 tax liabilities, the taxpayer
+may elect to pay in installments only with consent of the
+CAUTION Secretary. (See instructions for Form 965-E for more
+details.) Without consent, the taxpayer must enter a checkmark
+in the “No” column of column (g) and enter the amount of the
+triggered liability in column (h).
+
+!
+
+• If the taxpayer does not (or cannot) elect to pay the triggered
+deferred net 965 tax liability in installments, then report the
+amount from column (f) in column (h). This should equal the
+payment reported in the corresponding line of Part II, column (b),
+Paid for Year 1.
+• If the taxpayer elects to pay the triggered liability in
+installments, skip column (h) and report the amount from column
+-2-
+
+Instructions for Form 965-A (Rev. 01-2021)
+
+liability net of payments previously made, to a transferee in
+2022, the taxpayer (transferor) would report, on line 1, column
+(j), as a negative number, the amount of the net liability
+transferred out. The making and reporting of payments on such
+liability should generally cease (see instructions for Part II, later).
+• Report any transfer in of a net 965 tax installment payment
+liability from a seller/transferor by a transferee (see the
+instructions for Lines 1 through 8, earlier).
+• Report subsequent adjustments to the net 965 tax liability for
+the tax year reported in column (a) for which no amended return
+was required to be filed, such as an audit adjustment. A liability
+increase should be reported as a positive number and a
+decrease as a negative number.
+
+(f) in column (i). The corresponding line in Part II, column (b),
+Paid for Year 1, should report an 8% payment of the amount
+elected to be paid in installments. The remaining payments
+should generally be reported in subsequent reporting years
+according to the installment schedule. (See instructions for Part
+II, line 1, for the general installment schedule.)
+• If lines 5 through 8 do not provide adequate lines to report all
+the taxpayer’s transactions described above, an additional Form
+965-A should be used.
+Note. Even if a net 965 tax liability was reported on a taxpayer’s
+income tax return and fully paid, because no elections were
+made, the taxpayer must complete the appropriate line in Part I
+and report the related payment on the corresponding line in Part
+II, column (b).
+
+Note. An adjustment of a net 965 tax liability elected to be paid
+in installments is generally prorated to all installments.
+For example, for tax year 2017, a taxpayer (TP) reported a
+$100 net 965 tax liability for which an installment election was
+made. For each of years 1 through 5, TP pays and reports an $8
+installment. Also, in year 5, an audit adjustment increases the
+2017 net 965 tax liability to $150, a $50 positive adjustment. No
+amended return was required and there was no negligence,
+intentional disregard, or fraud on the part of TP. This adjustment
+would be prorated to all the installments. TP would report the
+$50 adjustment in Part I, line 1, column (j), as a positive number,
+so the reported adjusted liability would be $150. In addition, TP
+would pay and report (in addition to the original $8 installment
+reported for year 5) $20 on Part II, line 1, column (f),
+representing 8% of the adjustment prorated to each of years 1
+through 5, for which the installment due date had already
+arrived. For year 6, TP would pay and report $22.50 (15% of the
+adjusted $150 liability); for year 7, $30 (20% of the adjusted
+$150 liability); and for year 8, $37.50 (25% of the adjusted $150
+liability).
+In a case in which a net 965 tax liability for a tax year is both
+adjusted and transferred, report the net adjustment/transfer
+number in column (j), a transferee tax identification number in
+column (k), and provide a statement, attached to this form, which
+includes details of the amounts netted in column (j).
+
+Note. If an installment election under section 965(h) or a
+deferral election under section 965(i) was made, then the
+taxpayer must complete the appropriate line in Part I, as well as
+the corresponding line in Parts II through IV, as applicable, to
+report the status of the net 965 tax liability and any related
+adjustments for the reporting year.
+Column (b). Report the taxpayer’s net income tax liability for
+the tax year reported in column (a), with all section 965 amounts
+included (“with calculation”).
+Column (c). Report the taxpayer’s net income tax liability for
+the tax year reported in column (a), without regard to section 965
+(“without calculation”).
+Column (d). Report the excess of the taxpayer’s “with
+calculation” reported in column (b) over the “without calculation”
+reported in column (c). This is the taxpayer’s net 965 tax liability
+for the tax year reported in column (a).
+Column (e). If the taxpayer is a shareholder in one or more S
+corporation(s) with section 965 amounts, report the total of
+column (g) from Part III for the tax year reported in column (a).
+This is the total S corporation-related net 965 tax liability the
+taxpayer elected to defer. See detailed instructions for Part III
+regarding the S corporation-by-S corporation calculations and
+elections.
+
+Part II – Record of Amount of Net 965
+Tax Liability Paid by the Taxpayer
+
+Column (f). Report the amount in column (d), less the amount
+in column (e), if any. This is the taxpayer’s net 965 tax liability
+eligible for the installment payment election.
+
+Part II is intended to be a cumulative record of the actual
+payments the taxpayer has made with respect to the net 965 tax
+liabilities reported in Part I.
+
+Column (g). If the taxpayer made an election to pay a net 965
+tax liability in installments over 8 years as provided for in section
+965(h) and in the manner described in Regulations section
+1.965-7(b)(2), enter a check mark in the “Yes” column. If “Yes,”
+skip column (h) and enter the amount from column (f) in column
+(i). Otherwise, enter a check mark in the “No” column. If “No,”
+enter the amount from column (f) in column (h) and skip column
+(i).
+
+Line 1. This line records the actual payments with respect to the
+net 965 tax liability reported on line 1 of Part I for the tax year
+2017.
+The general installment payment schedule for a net 965 tax
+liability subject to an election to pay in installments is:
+1. 8% of the net 965 tax liability payable in year 1 (the year
+of the section 965(a) inclusion or triggering event with respect to
+a deferred S corporation-related net 965 tax liability),
+2. 8% of the net 965 tax liability payable in year 2,
+3. 8% of the net 965 tax liability payable in year 3,
+4. 8% of the net 965 tax liability payable in year 4,
+5. 8% of the net 965 tax liability payable in year 5,
+6. 15% of the net 965 tax liability payable in year 6,
+7. 20% of the net 965 tax liability payable in year 7, and
+8. 25% of the net 965 tax liability payable in year 8.
+If, for any reason, the actual payment differs from the
+schedule, report the actual payment made.
+
+The actual payment of the first installment is due no later
+than the due date of the return for the tax year without
+CAUTION extension, even if the election is made on a return filed
+by the extended due date.
+
+!
+
+Column (j). Report the following in column (j):
+• Report, as a negative number, any net 965 tax liability for the
+year reported in column (a) that has been transferred out to a
+transferee, by agreement with the Secretary, under which the
+transferee becomes liable for the remaining installments due on
+the liability in the same manner as if such transferee were the
+taxpayer. (See instructions for Form 965-C for more details.) In
+addition, provide the tax identification number of the transferee
+in column (k). For example, if the taxpayer (transferor) incurred a
+net 965 tax liability in tax year 2017, for which an installment
+payment election was made, then properly transferred the
+Instructions for Form 965-A (Rev. 01-2021)
+
+Example. If the reporting year is 2020 and the taxpayer is
+reporting a 2017 net 965 tax liability for which an installment
+-3-
+
+amount reported on the corresponding line in Part I, column (j),
+less any payments reported in Part II, columns (b) through (i).
+
+payment election was made, because the 2020 reporting year is
+“Year 4” with respect to a 2017 net 965 tax liability being paid in
+installments, installment payments reported in Part II on line 1,
+the line for 2017, should generally be:
+• In column (b), Paid for Year 1, report 8% of the 2017 net 965
+tax liability;
+• In column (c), Paid for Year 2, report 8% of the 2017 net 965
+tax liability;
+• In column (d), Paid for Year 3, report 8% of the 2017 net 965
+tax liability; and
+• In column (e), Paid for Year 4, report 8% of the 2017 net 965
+tax liability.
+
+Column (k). For each line, report only the payment made (if
+any) for the reporting year.
+Current-year reporting of column (k) amounts:
+Individuals: For tax year 2020, enter the amount from Form
+965-A, Part II, column (k), line 4, on Schedule 2 (Form 1040),
+line 9.
+All others: For all other filers (that is, other taxpayers taxed like
+an individual), follow the form instructions for that other
+applicable return.
+
+Part III – S Corporation Shareholder:
+Report of Calculation of Net 965 Tax
+Liability Related to 965 Amounts
+Allocated from an S Corporation and
+Election To Defer Such Net 965 Tax
+Liability
+
+Column (a). Report the tax year of the section 965(a) inclusion,
+the net 965 tax liability for which an installment payment liability
+is being assumed, or triggering event with respect to a deferred
+S corporation-related net 965 tax liability, as reported on the
+corresponding line of Part I, column (a).
+Columns (b) through (i). These columns are used to record
+the taxpayer’s cumulative payments, made each reporting year,
+for the net 965 tax liability reported on the corresponding line in
+Part I.
+If no installment election is made, the net 965 tax liability
+reported in Part I, column (h), should be paid and reported on
+the corresponding line of Part II, column (b), Paid for Year 1, and
+the remaining payment columns (c) through (i) left blank.
+If an installment election is made, and no transfers,
+acceleration events, or adjustments occur during the 8-year
+installment period, then 8% of the net 965 tax liability should be
+paid and reported in column (b), Paid for Year 1 (the year of the
+installment payment election). In the next reporting year, the
+relevant information from the prior reporting year should be
+carried forward, plus 8% of the net 965 tax liability should be
+paid and reported in column (c), Paid for Year 2. In future
+reporting years, the payments and payment reporting should
+continue similarly in accordance with the general installment
+payment schedule described above.
+If the taxpayer transfers out a net 965 tax liability, then the
+making and reporting of installment payments should generally
+cease for the transferred net 965 tax liability in the year of
+transfer. However, reporting with respect to the net 965 tax
+liability is still required for the reporting year if any net 965 tax
+liability of the taxpayer remains unpaid at any time during the
+reporting year.
+If an acceleration event occurs, then the unpaid portion of all
+remaining installments is due on the date of the acceleration
+event and should be paid and reported in the column for the year
+in which the acceleration event occurs; however, reporting with
+respect to the net 965 tax liability is still required for the reporting
+year if any net 965 tax liability of the taxpayer remains unpaid at
+any time during the reporting year.
+If an adjustment occurs to a net 965 tax liability for which an
+installment election has been made, including on an amended
+return, the adjustment should generally be prorated over all the
+installment payments. For the part of the adjustment prorated to
+installments whose payment date has already arrived, adjust the
+payment for the reporting year in which the adjustment is made
+and report accordingly. For the part of the adjustment prorated to
+installments for which the payment date has not yet arrived, pay
+and report in accordance with the installment schedule.
+Payments should include both actual installment payments
+made and excess payments of other income tax liabilities
+applied to the taxpayer’s net 965 tax liability.
+
+This Part allows a taxpayer that is an S corporation shareholder
+to report net 965 tax liabilities related to section 965 amounts
+with respect to S corporations. For each S corporation-related
+net 965 tax liability, the taxpayer may elect to defer payment of
+such liability until a triggering event occurs. (See instructions for
+Part IV for more information on triggering events.) Each S
+corporation-related net 965 tax liability is calculated on an
+individual S corporation basis, and an election to defer such
+liability is also made on an individual S corporation basis. Such
+liabilities deferred, if any, must be totaled by tax year, and the
+total carried to Part I, column (e), of the respective tax year line.
+
+Lines 1 through 4. Report S corporation-related net 965 tax
+liabilities for the tax year indicated. On lines 1, 2 and 3, you must
+continue to report 2017, 2018, and/or 2019 amounts for all
+columns, even though they were reported on a prior-year Form
+965-A. Space is provided for reporting net 965 tax liabilities
+related to up to four S corporations. If additional lines are needed
+for the tax year, use additional Forms 965-A.
+Column (a). Report the name of the S corporation from which
+the taxpayer is allocated section 965 amounts. Abbreviate as
+needed.
+Column (b). Report the tax identification number of the S
+corporation reported in column (a). The tax identification number
+of an S corporation is its employer identification number (EIN).
+Column (c). Report the taxpayer’s net income tax for the tax
+year calculated only with section 965 amounts allocated from
+this S corporation with respect to DFICs of which the S
+corporation is a U.S. shareholder. This is the S
+corporation-related “with calculation.”
+Column (d). Report the taxpayer’s net income tax for the tax
+year calculated without regard to section 965, that is, the
+“without calculation.” This should equal the taxpayer’s net tax
+liability without section 965 amounts for the corresponding tax
+year reported in Part I, column (c).
+Column (e). Report the excess of the taxpayer’s S
+corporation-related “with calculation” reported in column (c) over
+the “without calculation” reported in column (d). This is the
+taxpayer’s S corporation-related net 965 tax liability with respect
+to this S corporation for the tax year.
+Column (f). If the taxpayer made an election to defer payment
+of this S corporation-related net 965 tax liability as provided for in
+section 965(i) and in the manner described in Regulations
+section 1.965-7(c)(2), enter a check mark in the “Yes” column.
+Otherwise, enter a check mark in the "No" column.
+
+Column (j). Report the net 965 tax liability remaining unpaid
+after the payment for the reporting year. This amount should
+equal the amount reported on the corresponding line in Part I,
+column (f), or column (i), as applicable, plus or minus any
+-4-
+
+Instructions for Form 965-A (Rev. 01-2021)
+
+Column (f). Report the amount of each deferred S
+corporation-related net 965 tax liability, payment of which
+ceases to be deferred as a result of a triggering event during the
+reporting year (“triggered S corporation-related net 965 tax
+liability”). The triggered S corporation-related net 965 tax liability
+amount should be reported in column (f) as a negative number
+and transferred to column (f) on one of lines 5 through 8 in Part I
+as a positive number. See Triggered deferred S
+corporation-related net 965 tax liability, in the instructions for
+Part I, lines 1 through 8, earlier.
+
+Column (g). If the taxpayer elected to defer an S
+corporation-related net 965 tax liability, enter the amount from
+column (e). (If the election was not made, then the liability
+remains a part of the taxpayer’s total net 965 tax liability subject
+to an installment payment election.) The total of column (g) for a
+tax year represents the taxpayer’s total deferred S
+corporation-related net 965 tax liability for the tax year and
+should be entered on the corresponding tax year line in Part I,
+column (e).
+
+Part IV – Annual Report of Deferred
+Net 965 Tax Liability Related to 965
+Amounts Allocated from S
+Corporations
+
+Column (g). Report the amount of deferred S
+corporation-related net 965 tax liability transferred out or in.
+Transfers (out). When a taxpayer transfers stock of an S
+corporation with respect to which the taxpayer has made an
+election to defer payment of its S corporation-related net 965 tax
+liability, the transfer is not treated as a triggering event if the
+transferee, by agreement with the Secretary, becomes liable for
+the deferred S corporation-related net 965 tax liability in the
+same manner as the transferor. (See instructions for Form 965-D
+for more details.)
+Report the amount of the transfer out as a negative number in
+column (g) of the same line as the taxpayer reported the
+deferred S corporation-related net 965 tax liability at the
+beginning of the reporting year.
+In a case of multiple transferees, report the total deferred S
+corporation-related net 965 tax liability transferred as a negative
+number in column (g) and in column (h) report the tax
+identification number of a transferee and attach a schedule to
+Form 965-A providing a breakdown of the total deferred S
+corporation-related net 965 tax liability transferred and the
+associated tax identification numbers of each transferee.
+
+Any shareholder of an S corporation that makes an election to
+defer payment of an S corporation-related net 965 tax liability
+must report such liability with their income tax return for the year
+of election and every year thereafter through the year in which
+such amount is fully paid. Part IV provides for the required
+annual reporting of deferred S corporation-related net 965 tax
+liabilities and any adjustments related to such deferred liabilities
+during the reporting year.
+If the taxpayer fails to report for any year information
+required to be reported under section 965(i)(7) by the
+CAUTION due date of the return for such year, 5% of the deferred
+net 965 tax liability shall be assessed as an addition to tax for
+such reporting year.
+
+!
+
+Column (a). Report the year of:
+• Deferral election. In a year for which an election is made to
+defer an S corporation-related net 965 tax liability, any amounts
+elected to be deferred must be transferred from Part III, column
+(g), to the corresponding line in Part IV, column (d). Enter the
+year for which the election is made in column (a) of the
+corresponding line.
+• Transfer in. In certain circumstances, by agreement with the
+Secretary, a taxpayer may assume a deferred S
+corporation-related net 965 tax liability from another taxpayer
+who had elected to defer such amount. The transferee is liable
+for the deferred S corporation-related net 965 tax liability in the
+same manner as the transferor, including being subject to
+annual reporting requirements. (See instructions for Form 965-D
+for more details.) Enter the tax year of transfer in column (a). See
+the instructions for Part IV, column (g), later, for reporting the
+amount of the transfer in.
+
+Transfers in. A taxpayer may assume, by agreement with the
+Secretary, a deferred 965 net tax liability as a buyer/transferee of
+S corporation stock with respect to which the transferor has a
+deferred S corporation-related net 965 tax liability. The taxpayer
+will then be liable for the deferred S corporation-related net 965
+tax liability in the same manner as the transferee, including being
+subject to annual reporting requirements, beginning for the tax
+year of transfer. (See instructions for Form 965-D for more
+details.) For the year of transfer, a new line in Part IV must be
+completed, skipping columns (d), (e), and (f), and entering in
+both columns (g) and (i) the deferred S corporation-related net
+965 tax liability transferred in as a positive number.
+For reporting years following the year of transfer, report the
+transferred deferred S corporation-related net 965 tax liability in
+the same fashion as all other deferred S corporation-related net
+965 tax liabilities.
+
+Column (b). Report the name of the S corporation to which the
+deferred net 965 tax liability relates. Abbreviate as needed.
+
+Column (h). Provide the tax identification number of the
+transferee or transferor.
+
+Column (c). Report the tax identification number of the S
+corporation reported in column (b). The tax identification number
+of an S corporation is its employer identification number (EIN).
+
+Column (i). For each line, combine the amounts reported in
+columns (d) through (g).
+
+Column (d). Report the beginning deferred S
+corporation-related net 965 tax liability.
+• For the year of the deferral election, this amount will be the S
+corporation-related net 965 tax liability for which the taxpayer
+elects to defer payment and should be transferred from the
+corresponding line for such S corporation in Part III, column (g).
+• For subsequent reporting years, the amount reported should
+equal the amount on the corresponding line in column (i) from
+Part IV of Form 965-A for the prior reporting year.
+• For assumptions of deferred S corporation-related net 965 tax
+liabilities, by agreement with the Secretary, the amount reported
+should equal the amount of S corporation-related net 965 tax
+liability assumed by the taxpayer.
+
+Paperwork Reduction Act Notice
+
+We ask for the information on this form to carry out the Internal
+Revenue laws of the United States. You are required to give us
+the information. We need it to ensure that you are complying
+with these laws and to allow us to figure and collect the right
+amount of tax.
+You are not required to provide the information requested on
+a form that is subject to the Paperwork Reduction Act unless the
+form displays a valid OMB control number. Books or records
+relating to a form or its instructions must be retained as long as
+their contents may become material in the administration of any
+Internal Revenue law. Generally, tax returns and return
+information are confidential, as required by section 6103.
+
+Column (e). Reserved for future use.
+Instructions for Form 965-A (Rev. 01-2021)
+
+-5-
+
+The time needed to complete and file this form will vary
+depending on individual circumstances. The estimated burden
+for individual taxpayers filing this form is approved under OMB
+
+control number 1545-0074 and is included in the estimates
+shown in the instructions for their individual income tax return.
+
+-6-
+
+Instructions for Form 965-A (Rev. 01-2021)
+
+

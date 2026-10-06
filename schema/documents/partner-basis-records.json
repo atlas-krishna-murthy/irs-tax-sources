@@ -1,0 +1,34 @@
+{
+  "document": {
+    "id": "partner-basis-records",
+    "title": "Partner's record of adjusted basis in the partnership interest (outside basis)",
+    "kind": "taxpayer_record",
+    "revision": "2025",
+    "revision_printed_as": null,
+    "source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf",
+    "issued_by": "nobody - the partner maintains it",
+    "container_of": null,
+    "notes": "No third party issues this. The Partner's Instructions for Schedule K-1 (Form 1065) supply a \"Worksheet for Adjusting the Basis of a Partner's Interest in the Partnership\" and state that item L of the K-1 \"is based on the partnership's books and records and can't be used to figure the partner's adjusted basis.\" It is a required input to the first of the four loss limitations, and a K-1 loss cannot be routed until it is known. It carries no routable box.",
+    "boxes": [
+      {
+        "box": "beginning_basis",
+        "label": "Adjusted basis at the beginning of the partnership's tax year",
+        "type": "money"
+      },
+      {
+        "box": "ending_basis",
+        "label": "Adjusted basis at the end of the partnership's tax year",
+        "type": "money"
+      },
+      {
+        "box": "suspended_basis_loss",
+        "label": "Losses and deductions not allowed by the basis limitation, carried forward",
+        "type": "money"
+      }
+    ]
+  },
+  "extraction": {
+    "model": null,
+    "note": "A taxpayer's own record. No prescribed layout, so no structured model; read generically. Nothing routes out of it, so no figure depends on that read; W20 counts it as named-and-nothing-else."
+  }
+}

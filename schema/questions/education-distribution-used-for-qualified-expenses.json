@@ -1,0 +1,29 @@
+{
+  "question": {
+    "id": "education-distribution-used-for-qualified-expenses",
+    "wording": "Was this Form 1099-Q distribution used entirely for qualified education expenses, or transferred or rolled over within 60 days?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes — all of it; the earnings in box 2 are not income"
+      },
+      {
+        "value": "no",
+        "label": "No — some of it was not; the taxable part is figured on the Pub. 970 worksheet"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Form 1099-Q",
+        "line": "Box 2",
+        "revision": "2025",
+        "wording": "Generally, amounts distributed that are used to pay for qualified education expenses, transferred between trustees, or rolled over to another qualified education program or to an ABLE account, within 60 days, are not included in income.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1099q--2025.pdf"
+      }
+    }
+  }
+}

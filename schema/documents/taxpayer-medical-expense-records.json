@@ -1,0 +1,52 @@
+{
+  "document": {
+    "id": "taxpayer-medical-expense-records",
+    "kind": "taxpayer_record",
+    "title": "The taxpayer's own record of medical and dental expenses paid",
+    "revision": "n/a",
+    "revision_printed_as": null,
+    "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf",
+    "issued_by": "nobody - the taxpayer's own records",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "medical_and_dental_expenses_paid",
+        "label": "Unreimbursed medical and dental expenses paid during the year for the taxpayer, spouse and dependents",
+        "type": "money"
+      },
+      {
+        "box": "qualified_long_term_care_insurance_premiums",
+        "label": "Premiums for qualified long-term care insurance contracts, for one insured person",
+        "type": "money",
+        "notes": "Separate from the medical total because the amount that may be included is capped per insured person by age; the cap is a rule over this box and the insured's age. The i1040sca text reads: 'premiums for qualified long-term care insurance contracts as defined in Pub. 502.' (https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf)."
+      },
+      {
+        "box": "long_term_care_insured_age_at_year_end",
+        "label": "Age at the end of 2025 of the person for whom the long-term care premiums were paid",
+        "type": "integer",
+        "notes": "Limit on long-term care premiums you can include. The i1040sca text reads: 'depends on the age at the end of 2025 of the person for whom the premiums were paid.' (https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf)."
+      }
+    ],
+    "notes": "No third party reports this total. Insurance premiums, prescriptions, doctors, hospital care, long-term care (subject to its own age-based cap), Medicare Part B and Part D premiums and 21 cents a mile of medical travel all belong here; the Schedule A caution reads 'Do not include expenses reimbursed or paid by others.' Self-employed health insurance already deducted on Schedule 1 line 17 must be excluded - the Schedule A instructions say to 'Reduce the insurance premiums by any self-employed health insurance deduction you claimed on Schedule 1 (Form 1040), line 17', and counting it in both places is the commonest double-deduction here."
+  },
+  "extraction": {
+    "model": "custom.taxpayer-medical-expense-records",
+    "note": "A taxpayer's own record. No prescribed layout, so no structured model and no boxes to read: it prints ITEMS in the client's own words, and which declared box each belongs in is a JUDGEMENT a person confirms (spec 075 group D, clarification Q1). Read by the declared custom model in TRANSCRIBE mode - the same reader, a second template - which copies every line verbatim and names no destination. A separate, cheap proposal call then suggests a box per item; **only a box a person confirms places anything**, so an engagement with nineteen rental sheets shows an empty Schedule E until somebody has looked. That is the decision, not a defect.",
+    "custom": {
+      "reads": "a client's own record of medical and dental expenses",
+      "sections": [
+        {
+          "document": "taxpayer-medical-expense-records",
+          "boxes": [
+            "medical_and_dental_expenses_paid",
+            "qualified_long_term_care_insurance_premiums"
+          ]
+        }
+      ],
+      "transcribe": true,
+      "identity": [
+        "long_term_care_insured_age_at_year_end"
+      ]
+    }
+  }
+}

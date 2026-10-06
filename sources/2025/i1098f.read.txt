@@ -1,0 +1,254 @@
+Instructions for Form 1098-F
+(Rev. April 2025)
+
+Fines, Penalties, and Other Amounts
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to
+Form 1098-F and its instructions, such as legislation
+enacted after they were published, go to IRS.gov/
+Form1098F.
+You can get the general instructions from IRS.gov/
+1099GeneralInstructions.
+
+What’s New
+E-filing returns. The Taxpayer First Act of 2019
+authorized the Department of the Treasury and the IRS to
+issue regulations that reduce the 250-return e-file
+threshold. T.D. 9972, published February 23, 2023,
+lowered the e-file threshold to 10 (calculated by
+aggregating all information returns), effective for
+information returns required to be filed on or after January
+1, 2024. Go to IRS.gov/InfoReturn for e-file options.
+Information Reporting Intake System (IRIS). The IRS
+has developed IRIS, an online portal for e-filing
+information returns. Go to IRS.gov/IRIS for more
+information.
+
+Reminders
+
+In addition to these specific instructions, you should also
+use the current General Instructions for Certain
+Information Returns. Those general instructions include
+information about the following topics.
+• Who must file.
+• When and where to file.
+• Electronic reporting.
+• Corrected and void returns.
+• Statements to recipients.
+• Taxpayer identification numbers (TINs).
+• Backup withholding.
+• Penalties.
+• Other general topics.
+Continuous use revision. Use these instructions for tax
+year 2025 and subsequent years until a superseding
+revision is issued.
+Online fillable Copy B. To ease statement furnishing
+requirements, Copy B has been made fillable online in a
+PDF format, available at IRS.gov/Form1098F. You can
+complete this copy online for furnishing statements to
+recipients and for retaining in your own files.
+Threshold amount. Pursuant to Regulations section
+1.6050X-1(f)(6) the threshold amount for reporting is
+$50,000. Reporting is required for a suit, order, or
+agreement that becomes binding on or after January 1,
+2022. See T.D. 9946, available at IRS.gov/TD9946.
+
+Jan 15, 2025
+
+Specific Instructions
+Who Must File
+
+The appropriate official of a government or governmental
+entity (including a nongovernmental entity treated as a
+governmental entity) must file Form 1098-F, Fines,
+Penalties, and Other Amounts. The Form 1098-F reports
+the amount required to be paid pursuant to a suit, court
+order (order), or agreement with respect to any violation of
+a law or the investigation or inquiry into the potential
+violation of a law, if the aggregate amount involved in all
+suits, orders, or agreements equals or exceeds an amount
+determined by the Secretary (“threshold amount”). The
+amount required to be paid includes costs to provide
+services or to provide property. A separate Form 1098-F
+must be filed with respect to each payer that is a party to
+the suit, order, or agreement.
+Statements to be furnished to payers. If you are
+required to file Form 1098-F, you must provide a statement
+to the payer. For more information about the requirement
+to furnish a statement to the payer, see part M in the
+current General Instructions for Certain Information
+Returns.
+Truncating payer's TIN on statements to payers.
+Pursuant to Regulations section 301.6109-4, all filers of
+this form may truncate a payer’s TIN (social security
+number (SSN), individual taxpayer identification number
+(ITIN), adoption taxpayer identification number (ATIN), or
+employer identification number (EIN)) on statements to
+payers. Truncation is not allowed on any documents the
+filer files with the IRS. A filer’s TIN may not be truncated
+on any form. See part J in the current General Instructions
+for Certain Information Returns.
+Filer’s name, address, and telephone number box.
+Enter the name, address, and telephone number of the
+filer of Form 1098-F. Use this same name and address on
+Form 1096.
+Payer's name and address boxes. Enter the name and
+address, in the appropriate boxes, of the person with
+respect to whom Form 1098-F is filed.
+
+Box 1. Total Amount To Be Paid Pursuant to the
+Suit, Order, or Agreement
+
+If the aggregate amount required to be paid pursuant to a
+suit, order, or agreement to, or at the direction of, a
+government or governmental entity in relation to the
+violation of a law, or for the investigation or inquiry into the
+potential violation of a law, equals or exceeds $50,000,
+enter the total amount required to be paid pursuant to the
+suit, order, or agreement. This rule applies regardless of
+whether any separate amount required to be paid
+pursuant to a suit, order, or agreement is less than the
+threshold amount. This rule also applies if the aggregate
+
+Instructions for Form 1098F (Rev. 4-2025) Catalog Number 71404E
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+amount of all suits, orders, or agreements relating to the
+same violation, investigation, or inquiry equals or exceeds
+the threshold amount.
+Payment amount not identified. If the suit, order, or
+agreement does not identify some or all of the total
+amount to be paid for the violation of a law or the
+investigation, or inquiry into the potential violation of a law,
+and the government or governmental entity reasonably
+expects the aggregate amount of the payment pursuant to
+the suit, order, or agreement to equal or exceed $50,000,
+enter $50,000. Enter code E in box 9.
+Multiple payers. If, under the suit, order, or agreement,
+the aggregate amount to be paid by multiple payers for the
+violation of a law or the investigation or inquiry into the
+potential violation of a law equals or exceeds $50,000,
+enter this payer’s individual and joint and several payment
+liability. Enter code B in box 9. Do not file a Form 1098-F
+with respect to any person that does not have a payment
+obligation or obligation for costs to provide services or to
+provide property.
+
+Box 2. Amount To Be Paid for Violation or
+Potential Violation
+
+Enter the amount required to be paid for the violation,
+investigation, or inquiry into the potential violation of a law.
+If some or all of the amount to be paid for the violation or
+potential violation of a law is not identified, leave box 2
+blank and enter code E in box 9.
+
+Box 3. Restitution/Remediation Amount
+
+Enter the amount required to be paid (or costs to provide
+property or to provide services), as a result of the suit,
+order, or agreement, which constitutes restitution or
+remediation. If some or all of the amount to be paid as
+restitution or remediation is not identified, leave box 3
+blank and enter code E in box 9.
+
+Box 4. Compliance Amount
+
+Enter the amount required to be paid (or costs to provide
+property or to provide services), as a result of the suit,
+order, or agreement, for the purpose of coming into
+compliance with a law. If some or all of the amount to be
+paid to come into compliance with a law is not identified,
+leave box 4 blank and enter code E in box 9.
+The amount entered in box 1 may or may not
+equal the amount entered in box 2, box 3, or
+CAUTION box 4, or the sum of box 2 plus box 3 plus box 4.
+
+!
+
+Example. Corporation A (Corp. A) enters into an
+agreement with State Y's environmental enforcement
+agency (Agency) for violating state environmental laws.
+Pursuant to the agreement, Corp. A pays $40,000 to
+Agency in civil penalties, $80,000 in restitution for the
+environmental harm that the Corp. A has caused, $50,000
+for remediation of contaminated sites, and $60,000 to
+conduct comprehensive upgrades to Corp. A's operations
+to come into compliance with the state environmental
+laws.
+Pursuant to the settlement agreement, the aggregate
+amount Corp. A is required to pay to, or at the direction of
+
+2
+
+Agency, for the violation or potential violation of State Y
+law exceeds $50,000. Therefore, an appropriate
+government official of Agency must file Form 1098-F.
+Agency will complete Form 1098-F as follows:
+• Box 1. Total Amount To Be Paid Pursuant to the Suit,
+Order, or Agreement. Total Amount $230,000 ($40,000 +
+$80,000 + $50,000 + $60,000)
+• Box 2. Amount To Be Paid for Violation or Potential
+Violation $40,000
+• Box 3. Restitution/Remediation Amount $130,000
+($80,000 + $50,000)
+• Box 4. Compliance Amount $60,000
+
+Box 5. Date of Order/Agreement
+
+Enter the date the order was entered by the court or the
+agreement was fully executed.
+
+Box 6. Court or Entity
+
+Enter the name of the court, or any other entity, that
+entered the order or approved the agreement, if
+applicable.
+
+Box 7. Case Number
+
+Enter the case number associated with the court order or
+agreement, if applicable.
+
+Box 8. Case Name or Names of Parties to Suit,
+Order, or Agreement
+
+Enter the case name or names of parties to suit, order, or
+agreement.
+
+Box 9. Code
+
+Enter one or more of the following codes if applicable.
+Read the code descriptions carefully to ensure you
+choose the correct one(s).
+A—Multiple payments. Use code A if the payer has
+made or is obligated to make multiple payments to
+satisfy the total payment required by the suit, order, or
+agreement.
+B—Multiple payers. Use code B if multiple payers
+have a payment obligation pursuant to the suit, order,
+or agreement.
+C—Multiple payees. Use code C if there are multiple
+payees pursuant to the suit, order, or agreement.
+D—Provision of services or provision of property
+required. Use code D if the suit, order, or agreement
+requires the payer to provide services or to provide
+property.
+E—Payment amount not identified. Use code E if
+the suit, order, or agreement does not identify some or
+all of the amount required to be paid for the violation,
+investigation, or inquiry, or if it identifies a payment as
+restitution, remediation, or an amount paid to come
+into compliance with a law but does not identify some
+or all of the aggregate amount the payer must pay. In
+addition, use code E if the suit, order, or agreement
+does not identify some or all of the amount to be paid
+to provide property or to provide services.
+
+Instructions for Form 1098-F (Rev. 4-2025)
+
+

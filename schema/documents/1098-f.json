@@ -1,0 +1,87 @@
+{
+  "document": {
+    "id": "1098-F",
+    "title": "Fines, Penalties, and Other Amounts",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1098-F (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1098f--2025.pdf",
+    "issued_by": "government or governmental entity (or nongovernmental entity) party to a suit, order or agreement",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "Marks this statement as correcting one already furnished for the same year."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a filer's mark, never a figure."
+      },
+      {
+        "box": "filer-tin",
+        "label": "FILER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "payer-tin",
+        "label": "PAYER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "1",
+        "label": "Total amount required to be paid",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Amount to be paid for violation or potential violation",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Restitution/remediation amount",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Compliance amount",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Date of order/agreement",
+        "type": "date"
+      },
+      {
+        "box": "6",
+        "label": "Court or entity",
+        "type": "text"
+      },
+      {
+        "box": "7",
+        "label": "Case number",
+        "type": "text"
+      },
+      {
+        "box": "8",
+        "label": "Case name or names of parties to suit, order, or agreement",
+        "type": "text"
+      },
+      {
+        "box": "9",
+        "label": "Code",
+        "type": "code",
+        "notes": "A Multiple payments \u00b7 B Multiple payers \u00b7 C Multiple payees \u00b7 D Provision of services or provision of property required \u00b7 E Payment amount not identified."
+      }
+    ],
+    "notes": "Amounts REQUIRED to be paid under a suit, order or agreement \u2014 not amounts paid, and not deductions. Whether any part (restitution, remediation, compliance) is deductible is a section 162(f) question for a business, decided outside this form."
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

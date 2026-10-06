@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "id": "e-ch-13",
+    "title": "A qualified charitable distribution is not also a charitable gift",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-charitable-contribution-records.gifts_by_cash_or_check"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-was-paid-as-a-qualified-charitable-distribution"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-was-paid-as-a-qualified-charitable-distribution",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Was this gift paid directly from an IRA to the charity as a qualified charitable distribution (QCD)?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 590-B",
+      "line": "Qualified charitable distributions",
+      "revision": "2025",
+      "wording": "Caution: You can't claim a charitable contribution deduction for any QCD not included in your income.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p590b--2025.pdf"
+    },
+    "research_ids": [
+      "e-ch-13"
+    ]
+  }
+}

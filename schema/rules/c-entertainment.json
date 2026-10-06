@@ -1,0 +1,51 @@
+{
+  "rule": {
+    "id": "c-entertainment",
+    "title": "Entertainment is not a Schedule C travel or meal expense",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-business-income-and-expense-records.travel",
+        "taxpayer-business-income-and-expense-records.business_meals"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-entertainment"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-entertainment",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this item an entertainment, amusement or recreation expense (not a business meal or travel)?"
+    },
+    "order": {
+      "after": [],
+      "before": [
+        "c-meals-50"
+      ]
+    },
+    "citation": {
+      "form": "Publication 463",
+      "line": "Chapter 2, Entertainment",
+      "revision": "2025",
+      "wording": "You can no longer take a deduction for any expense related to activities generally considered entertainment, amusement, or recreation.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p463--2025.pdf"
+    },
+    "open_point": "Asked only of items on Schedule C lines 24a and 24b, the two lines whose instructions say \"Do not include entertainment expenses on this line.\" An entertainment item the client filed under another heading is not asked about.",
+    "research_ids": [
+      "c-entertainment"
+    ]
+  }
+}

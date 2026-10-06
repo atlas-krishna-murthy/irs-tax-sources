@@ -1,0 +1,141 @@
+{
+  "document": {
+    "id": "1099-MISC",
+    "title": "Miscellaneous Information",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-MISC (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099msc--2025.pdf",
+    "issued_by": "the payer",
+    "recipient": {
+      "name": "Recipient.Name",
+      "tin": "Recipient.TIN",
+      "note": "The extractor's own field names, measured on stored reads (engagement 16, 2026-10-02). Read by `Owner.of` to say whose figure this is (spec 079 FR-035); the TIN's last four only."
+    },
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Rents",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Royalties",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Other income",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Federal income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Fishing boat proceeds",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "Medical and health care payments",
+        "type": "money"
+      },
+      {
+        "box": "7",
+        "label": "Payer made direct sales totaling $5,000 or more of consumer products to recipient for resale",
+        "type": "checkbox"
+      },
+      {
+        "box": "8",
+        "label": "Substitute payments in lieu of dividends or interest",
+        "type": "money"
+      },
+      {
+        "box": "9",
+        "label": "Crop insurance proceeds",
+        "type": "money"
+      },
+      {
+        "box": "10",
+        "label": "Gross proceeds paid to an attorney",
+        "type": "money"
+      },
+      {
+        "box": "11",
+        "label": "Fish purchased for resale",
+        "type": "money"
+      },
+      {
+        "box": "12",
+        "label": "Section 409A deferrals",
+        "type": "money"
+      },
+      {
+        "box": "14",
+        "label": "Reserved for future use",
+        "type": "text"
+      },
+      {
+        "box": "15",
+        "label": "Nonqualified deferred compensation",
+        "type": "money"
+      },
+      {
+        "box": "16",
+        "label": "State tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "17",
+        "label": "State/Payer's state no.",
+        "type": "text"
+      },
+      {
+        "box": "18",
+        "label": "State income",
+        "type": "money"
+      },
+      {
+        "box": "13-fatca-filing-requirement",
+        "label": "FATCA filing requirement",
+        "type": "checkbox",
+        "notes": "The FATCA filing requirement checkbox, printed as box 13. Named with its printed number so the FR-016 mark is declared; a reader's `Box13` still reaches the row keyed `13`."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed above the issuer's block on every copy. A corrected form replaces one furnished earlier; its figures are the ones to use, never counted beside the earlier form's."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed on Copy A (the issuer's filing copy) and the state copy; the recipient's Copy B does not print it."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "FR-016 mark. An account or other unique number the issuer assigned; identification only, never a figure."
+      }
+    ],
+    "notes": "Box 14 is printed with no caption on the Rev. April 2025 form; the Instructions for Recipient read 'Box 14. Reserved for future use.' It carries no route. Box 12 (section 409A deferrals) is informational - the Instructions for Recipient say it 'May show current year deferrals'; the currently taxable part of box 12 is also included in box 15, which is the reportable figure. Box 10 (gross proceeds paid to an attorney) is deliberately NOT routed to an income line: the instruction says 'Report only the taxable part as income on your return', and how much is taxable is not on the document."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099MISC",
+    "note": null,
+    "fields": {
+      "IsCorrected": {
+        "box": "corrected"
+      },
+      "Box13": {
+        "box": "13-fatca-filing-requirement"
+      }
+    }
+  }
+}

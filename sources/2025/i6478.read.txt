@@ -1,0 +1,286 @@
+Instructions for Form 6478
+
+Department of the Treasury
+Internal Revenue Service
+
+(Rev. October 2023)
+
+(For use with the January 2020 revision of Form 6478, Biofuel Producer Credit)
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+or
+
+Future Developments
+For the latest information about developments related to
+Form 6478 and its instructions, such as legislation
+enacted after they were published, go to IRS.gov/
+Form6478.
+
+What’s New
+The biofuel producer credit is extended for fuel sold or
+used before 2025. Don't claim the credit for fuel sold or
+used after 2024 unless the credit is extended again.
+
+Reminder
+Form 6478 and its instructions will no longer be updated
+annually. Instead, they'll only be updated when necessary.
+Use these instructions with the January 2020 revision of
+Form 6478 for tax years beginning after 2017.
+For previous tax years, see the applicable Form 6478 and
+instructions.
+
+General Instructions
+Purpose of Form
+
+Use Form 6478 (Rev. January 2020) to figure your section
+40 biofuel producer credit for tax years beginning after
+2017. You claim the credit for the tax year in which the
+sale or use occurs. The credit consists of the second
+generation biofuel producer credit.
+
+You may claim or elect not to claim the biofuel producer
+credit at any time within 3 years from the due date of your
+return (determined without regard to extensions) on either
+an original or an amended return for the tax year of the
+sale or use.
+Partnerships, S corporations, cooperatives, estates,
+and trusts must file this form to claim the credit. All other
+taxpayers aren’t required to complete or file this form if
+their only source for this credit is a partnership, S
+corporation, cooperative, estate, or trust. Instead, they can
+report this credit directly on the appropriate line of Form
+3800, General Business Credit.
+
+Qualified Second Generation Biofuel
+Production
+
+This is second generation biofuel, which during the tax
+year:
+1. Is sold by the producer to another person:
+a. For use by the buyer in the buyer’s trade or business
+to produce a qualified second generation biofuel mixture
+(other than casual off-farm production),
+Oct 5, 2023
+
+b. For use by the buyer as a fuel in a trade or business,
+
+c. Who sells the second generation biofuel at retail to
+another person and puts the second generation biofuel in
+the retail buyer’s fuel tank; or
+2. Is used or sold by the producer for any purpose
+described in (1) above.
+Qualified second generation biofuel production doesn’t
+include purchasing alcohol and increasing the proof of the
+alcohol through additional distillation. Nor does it include
+second generation biofuel that isn’t both produced in the
+United States or a U.S. territory and used as a fuel in the
+United States or a U.S. territory.
+A qualified second generation biofuel mixture combines
+second generation biofuel with gasoline or a special fuel.
+The producer of the mixture either:
+• Used it as a fuel, or
+• Sold it as fuel to another person.
+
+Second Generation Biofuel
+
+Generally, second generation biofuel, for credit purposes,
+is any liquid fuel, which:
+• Is derived by, or from, qualified feedstocks;
+• Meets the registration requirements for fuels and fuel
+additives established by the Environmental Protection
+Agency under section 211 of the Clean Air Act (42 U.S.C.
+7545); and
+• Isn’t alcohol of less than 150 proof. In figuring the proof
+of any alcohol, disregard any added denaturants
+(additives that make the alcohol unfit for human
+consumption).
+A qualified feedstock is:
+
+• Any lignocellulosic or hemicellulosic matter that’s
+
+available on a renewable or recurring basis; and
+• Any cultivated algae, cyanobacteria, or lemna.
+
+However, second generation biofuel doesn’t include
+any fuel if:
+• More than 4% of the fuel (determined by weight) is any
+combination of water and sediment,
+• The ash content of the fuel is more than 1%
+(determined by weight), or
+• The fuel has an acid number greater than 25.
+Special rules for algae. For sales described in (1) under
+Qualified Second Generation Biofuel Production, earlier,
+second generation biofuel also includes certain liquid fuel,
+which:
+• Is derived by, or from, any cultivated algae,
+cyanobacteria, or lemna; and
+• Isn’t alcohol of less than 150 proof (disregard any
+added denaturants).
+But only if this fuel is sold by the producer to another
+person for refining by such other person into a liquid fuel
+that will meet the registration requirements for fuels and
+
+Cat. No. 13606U
+
+• Schedule K-1 (Form 1041), Beneficiary’s Share of
+Income, Deductions, Credits, etc., box 13 (code H); and
+• Form 1099-PATR, Taxable Distributions Received From
+Cooperatives, box 12, or other notice of credit allocation.
+
+fuel additives established by the Environmental Protection
+Agency under section 211 of the Clean Air Act (42 U.S.C.
+7545), and not include any fuel if:
+• More than 4% of the fuel (determined by weight) is any
+combination of water and sediment,
+• The ash content of the fuel is more than 1%
+(determined by weight), or
+• The fuel has an acid number greater than 25.
+Also, once this fuel is sold by the producer to another
+person for refining by such person into a fuel that will meet
+these requirements, neither the producer nor any other
+person can use such fuel (or any fuel derived from such
+fuel) to figure a second credit for qualified second
+generation biofuel production.
+
+Partnerships, S corporations, cooperatives, estates,
+and trusts must always report the above credits on line 3.
+All other taxpayers:
+• Report the above credits directly on the appropriate line
+of Form 3800; and
+• Don’t file Form 6478.
+
+Line 4
+
+Partnerships and S corporations report this amount on
+Schedule K using the appropriate code. All others report
+this amount on the appropriate line of Form 3800.
+
+Registration
+
+All producers of second generation biofuel must be
+registered with the IRS. See Form 637, Application for
+Registration.
+
+Line 5
+Cooperatives. A cooperative described in section
+1381(a) can elect to allocate any part of the biofuel
+producer credit to patrons of the cooperative. The credit is
+allocated pro rata among the patrons eligible to share in
+patronage dividends on the basis of the quantity or value
+of business done with or for the patrons for the tax year.
+If the cooperative is subject to the passive activity rules,
+include on line 3 any Form 6478 credits from passive
+activities disallowed for prior years and carried forward to
+this year. Complete Form 8810, Corporate Passive Activity
+Loss and Credit Limitations, to determine the allowed
+producer credits that can be allocated to patrons. For
+details, see the Instructions for Form 8810.
+The cooperative is deemed to have made the election
+by completing line 5. However, the election isn’t effective
+unless:
+• It’s made on a timely filed tax return (including
+extensions), and
+• The cooperative designates the apportionment in a
+written notice or on Form 1099-PATR mailed to its patrons
+during the payment period described in section 1382(d).
+If you timely filed your return without making an
+election, you can still make the election by filing an
+amended return within 6 months of the due date of the
+return (excluding extensions). Write “Filed pursuant to
+section 301.9100-2” on the amended return.
+Once made, the election can’t be revoked.
+
+Recapture of Credit
+
+You must pay a tax (recapture) on each gallon of second
+generation biofuel at the rate you used to figure the credit
+if you don’t use the fuel for the purposes described under
+Qualified Second Generation Biofuel Production, earlier.
+
+Report the tax on Form 720, Quarterly Federal Excise
+Tax Return.
+
+Specific Instructions
+Line 1
+
+Enter the number of gallons of second generation biofuel
+sold or used for the tax year that meets the conditions
+listed under Qualified Second Generation Biofuel
+Production, earlier. Multiply by the rate of $1.01 per gallon.
+
+Line 2
+
+The credit shown in column (c) on line 1 must be included
+in income under “other income” on the applicable line of
+your income tax return, even if you can’t use all of the
+credit because of the tax liability limit. However, if you’re
+subject to the alternative minimum tax (AMT), this amount
+isn’t income in figuring AMT and must be subtracted when
+figuring your alternative minimum taxable income. Do this
+by including this amount on the appropriate line of Form
+6251, Alternative Minimum Tax—Individuals, or
+Schedule I (Form 1041), Alternative Minimum
+Tax—Estates and Trusts.
+
+Estates and trusts. Allocate the biofuel producer credit
+on line 4 between the estate or trust and the beneficiaries
+in the same proportion as income was allocated and enter
+the beneficiaries’ share on line 5.
+If the estate or trust is subject to the passive activity
+rules, include on line 3 any Form 6478 credits from
+passive activities disallowed for prior years and carried
+forward to this year. Complete Form 8582-CR, Passive
+Activity Credit Limitations, to determine the allowed credit
+that must be allocated between the estate or trust and the
+beneficiaries. See the Instructions for Form 8582-CR.
+
+Registration number. To claim a second generation
+biofuel producer credit on line 1, you must be registered
+with the IRS. Enter your SB registration number in the
+space provided. For more information, see Form 637 and
+Pub. 510, Excise Taxes.
+
+Line 3
+
+Enter the total biofuel producer credits from:
+• Schedule K-1 (Form 1065), Partner’s Share of Income,
+Deductions, Credits, etc., box 15 (code l);
+• Schedule K-1 (Form 1120-S), Shareholder’s Share of
+Income, Deductions, Credits, etc., box 13 (code l);
+
+Line 6
+
+Cooperatives, estates, and trusts report this amount on
+the appropriate line of Form 3800.
+-2-
+
+Instructions for Form 6478 (Rev. 10-2023)
+
+Paperwork Reduction Act Notice. We ask for the information on this form to carry out the Internal Revenue laws of the
+United States. You’re required to give us the information. We need it to ensure that you’re complying with these laws and
+to allow us to figure and collect the right amount of tax.
+You aren’t required to provide the information requested on a form that’s subject to the Paperwork Reduction Act
+unless the form displays a valid OMB control number. Books or records relating to a form or its instructions must be
+retained as long as their contents may become material in the administration of any Internal Revenue law. Generally, tax
+returns and return information are confidential, as required by section 6103.
+The time needed to complete and file this form will vary depending on individual circumstances. The estimated burden
+for individual taxpayers filing this form is approved under OMB control number 1545-0074 and is included in the
+estimates shown in the instructions for their individual income tax return. The estimated burden for all other taxpayers
+who file this form is shown below.
+Recordkeeping . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Learning about the law or the form . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Preparing and sending the form to the IRS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 hr., 9 min.
+53 min.
+58 min.
+
+If you have comments concerning the accuracy of these time estimates or suggestions for making this form simpler,
+we’d be happy to hear from you. See the instructions for the tax return with which this form is filed.
+
+Instructions for Form 6478 (Rev. 10-2023)
+
+-3-
+
+

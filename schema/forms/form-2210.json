@@ -1,0 +1,328 @@
+{
+  "form": {
+    "id": "form-2210",
+    "form": "Form 2210",
+    "title": "Underpayment of Estimated Tax by Individuals, Estates, and Trusts",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f2210--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/i2210--2025.pdf",
+    "lines": [
+      {
+        "line": "6",
+        "caption": "Withholding taxes. Don\u2019t include estimated tax payments. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Maximum required annual payment based on prior year\u2019s tax (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Estimated tax paid and tax withheld (see the instructions). For column (a) only, also enter the amount from line 11 on line 15, column (a). If line 11 is equal to or more than line 10 for all payment periods, stop here; you don\u2019t owe a penalty. Don\u2019t file Form 2210 unless you checked a box in Part II",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "Penalty. Enter the total penalty from line 14 of the Worksheet for Form 2210, Part III, Section B\u2014Figure the Penalty. Include this amount on Form 1040, 1040-SR, or 1040-NR, line 38; or Form 1041, line 27. Don\u2019t file Form 2210 unless you checked a box in Part II",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "1",
+        "caption": "Enter your 2025 tax after credits from Form 1040, 1040-SR, or 1040-NR, line 22. (See the instructions if not filing Form 1040.)",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Other taxes, including self-employment tax and, if applicable, Additional Medicare Tax and/or Net Investment Income Tax (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Other payments and refundable credits (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Current year tax. Combine lines 1, 2, and 3. If less than $1,000, stop; you don\u2019t owe a penalty. Don\u2019t file Form 2210",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "5",
+        "caption": "Multiply line 4 by 90% (0.90)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "7",
+        "caption": "Subtract line 6 from line 4. If less than $1,000, stop; you don\u2019t owe a penalty. Don\u2019t file Form 2210",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "9",
+        "caption": "Required annual payment. Enter the smaller of line 5 or line 8",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "10",
+        "caption": "Required installments. If box C in Part II applies, enter the amounts from Schedule AI, line 27. Otherwise, enter 25% (0.25) of line 9, Form 2210, in each column. For fiscal year filers, see instructions",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "12",
+        "caption": "Enter the amount, if any, from line 18 in the previous column",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "13",
+        "caption": "Add lines 11 and 12",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "14",
+        "caption": "Add the amounts on lines 16 and 17 in the previous column",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "15",
+        "caption": "Subtract line 14 from line 13. If zero or less, enter -0-. For column (a) only, enter the amount from line 11",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "16",
+        "caption": "If line 15 is zero, subtract line 13 from line 14. Otherwise, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "17",
+        "caption": "Underpayment. If line 10 is equal to or more than line 15, subtract line 15 from line 10. Then go to line 12 of the next column. Otherwise, go to line 18",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "18",
+        "caption": "Overpayment. If line 15 is more than line 10, subtract line 10 from line 15. Then go to line 12 of the next column",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "1 (schedule ai)",
+        "caption": "Enter your adjusted gross income for each period. See instructions. (Estates and trusts, enter your taxable income without your exemption for each period.)",
+        "type": "money"
+      },
+      {
+        "line": "2 (schedule ai)",
+        "caption": "Annualization amounts. (Estates and trusts, see instructions.)",
+        "type": "number"
+      },
+      {
+        "line": "3 (schedule ai)",
+        "caption": "Annualized income. Multiply line 1 by line 2",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "4 (schedule ai)",
+        "caption": "If you itemize, enter itemized deductions for the period shown in each column. All others, enter -0-, and skip to line 7. Exception: Estates and trusts, skip to line 9",
+        "type": "money"
+      },
+      {
+        "line": "5 (schedule ai)",
+        "caption": "Annualization amounts",
+        "type": "number"
+      },
+      {
+        "line": "6 (schedule ai)",
+        "caption": "Multiply line 4 by line 5",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "7 (schedule ai)",
+        "caption": "In each column, enter the amount of your standard deduction from Form 1040 or 1040-SR. (Form 1040-NR filers, enter -0-. Exception: Indian students and business apprentices, see instructions.)",
+        "type": "money"
+      },
+      {
+        "line": "8 (schedule ai)",
+        "caption": "Enter the larger of line 6 or line 7",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "9 (schedule ai)",
+        "caption": "Deduction for qualified business income. Estates and trusts: Subtract this amount from the amount on line 3, skip line 10, and enter the result on line 11",
+        "type": "money"
+      },
+      {
+        "line": "10 (schedule ai)",
+        "caption": "Add lines 8 and 9",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "11 (schedule ai)",
+        "caption": "Subtract line 10 from line 3",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "12 (schedule ai)",
+        "caption": "Form 1040, 1040-SR, or 1040-NR filers, enter -0- in each column. (Estates and trusts, see instructions.)",
+        "type": "money"
+      },
+      {
+        "line": "13 (schedule ai)",
+        "caption": "Subtract line 12 from line 11. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "14 (schedule ai)",
+        "caption": "Figure your tax on the amount on line 13. See instructions",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "15 (schedule ai)",
+        "caption": "Self-employment tax from line 36 (complete Part II below)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "16 (schedule ai)",
+        "caption": "Enter other taxes for each payment period including, if applicable, Additional Medicare Tax and/or Net Investment Income Tax. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "17 (schedule ai)",
+        "caption": "Total tax. Add lines 14, 15, and 16",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "18 (schedule ai)",
+        "caption": "For each period, enter the same type of credits as allowed on Form 2210, Part I, lines 1 and 3. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "19 (schedule ai)",
+        "caption": "Subtract line 18 from line 17. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "20 (schedule ai)",
+        "caption": "Applicable percentage",
+        "type": "percent"
+      },
+      {
+        "line": "21 (schedule ai)",
+        "caption": "Multiply line 19 by line 20",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "22 (schedule ai)",
+        "caption": "Enter the total of the amounts in all previous columns of line 27",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "23 (schedule ai)",
+        "caption": "Subtract line 22 from line 21. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "24 (schedule ai)",
+        "caption": "Enter 25% (0.25) of line 9 on page 1 of Form 2210 in each column",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "25 (schedule ai)",
+        "caption": "Subtract line 27 of the previous column from line 26 of that column",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "26 (schedule ai)",
+        "caption": "Add lines 24 and 25",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "27 (schedule ai)",
+        "caption": "Enter the smaller of line 23 or line 26 here and on Form 2210, Part III, line 10",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "28 (schedule ai)",
+        "caption": "Net earnings from self-employment for the period (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "29 (schedule ai)",
+        "caption": "Prorated social security tax limit",
+        "type": "money"
+      },
+      {
+        "line": "30 (schedule ai)",
+        "caption": "Enter actual wages for the period subject to social security tax or the 6.2% portion of the 7.65% railroad retirement (tier 1) tax. Exception: If you filed Form 4137 or Form 8919, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "31 (schedule ai)",
+        "caption": "Subtract line 30 from line 29. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "32 (schedule ai)",
+        "caption": "Annualization amounts",
+        "type": "number"
+      },
+      {
+        "line": "33 (schedule ai)",
+        "caption": "Multiply line 32 by the smaller of line 28 or line 31",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "34 (schedule ai)",
+        "caption": "Annualization amounts",
+        "type": "number"
+      },
+      {
+        "line": "35 (schedule ai)",
+        "caption": "Multiply line 28 by line 34",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "36 (schedule ai)",
+        "caption": "Add lines 33 and 35. Enter here and on line 15 above",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "06",
+        "because": "'Attachment Sequence No. 06' in the form header, not a line"
+      }
+    ]
+  }
+}

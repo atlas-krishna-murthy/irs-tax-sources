@@ -1,0 +1,215 @@
+Instructions for Form 7217
+(December 2024)
+Partner’s Report of Property Distributed by a Partnership
+Section references are to the Internal Revenue Code               Part I—Aggregate Basis of
+unless otherwise noted.
+                                                                  Distributed Property on Distribution
+General Instructions                                              Date
+Future Developments                                               Line 1
+For the latest information about developments related to          Check the box to indicate whether the distribution was in
+Form 7217 and its instructions, such as legislation               complete liquidation of your interest in the partnership.
+enacted after they were published, go to IRS.gov/
+Form7217.                                                         Line 2
+                                                                  Check the box to indicate whether any part of the
+Purpose of Form                                                   distribution was treated as a sale or exchange under
+Form 7217 is filed by any partner receiving a distribution of     section 751(b). All or part of the distribution is treated as a
+property from a partnership in a non-liquidating or               sale or exchange under section 751(b) to the extent you
+liquidating distribution to report the basis of the distributed   received unrealized receivables or substantially
+property, including any basis adjustment to such property         appreciated inventory in exchange for your interest in
+as required by section 732(a)(2) or (b).                          other partnership property, or you received other property
+                                                                  in exchange for any part of your interest in unrealized
+Who Must File                                                     receivables or substantially appreciated inventory. If
+File with your annual tax return a separate Form 7217 for         section 751(b) applies to any part of the distribution,
+each date during the tax year that you received distributed       attach a statement to Form 7217 showing the calculation
+property subject to section 732. If you received distributed      of any income, gain, or loss under section 751(b) to you
+properties subject to section 732 on different days during        from the distribution. See Regulations section 1.751-1(b)
+the tax year, even if part of the same transaction, file a        (5).
+separate Form 7217 for each date that you received the
+properties. Do not file Form 7217 if the distribution             Line 3
+consisted only of money or marketable securities treated          Enter the partnership’s aggregate basis in the distributed
+as money under section 731(c). Also, do not file Form             property (other than cash, but including marketable
+7217 for payments to you for services other than in your          securities treated as money under section 731(c))
+capacity as a partner under section 707(a)(1) or for              immediately before the distribution, taking into account
+transfers that are treated as disguised sales under section       any adjustments under sections 732(d), 734(b), or 743(b),
+707(a)(2)(B).                                                     as applicable. The partnership will report this information
+When To File                                                      to you on your Schedule K-1 (Form 1065), box 19, code C;
+                                                                  or, if applicable, in a section 732(d) statement attached to
+File Form 7217 by attaching it to your tax return for the tax     your Schedule K-1 (Form 1065). The amount entered on
+year in which you received distributed property subject to        line 3 should equal the total amount of Part II, line B,
+section 732. Form 7217 is due at the time your tax return         column (b).
+is due, including any extensions.
+                                                                  Line 4
+Which Version or Revision To Use
+                                                                  Enter the adjusted basis of your interest in the partnership
+Use the December 2024 version of Form 7217 for tax
+                                                                  (outside basis) immediately before the distribution. Do not
+years beginning in 2024 or later, until a later revision is
+                                                                  include any gain you recognized under section 737 as a
+issued. All later revisions will be available at IRS.gov/
+                                                                  result of the distribution that you are reporting on this Form
+Form7217.
+                                                                  7217. See Line 9, below. The basis of your interest in the
+                                                                  partnership is not reported on the Schedule K-1; you are
+Specific Instructions                                             responsible for calculating this amount. For more
+                                                                  information on how to calculate the basis in your
+General Information                                               partnership interest immediately before the distribution,
+Enter your name, tax identification number (TIN), the             see Partner's Instructions for Schedule K-1 (Form 1065)
+name of the partnership that distributed the property to          available at IRS.gov/instructions/i1065sk1.
+you, the partnership’s employer identification number
+(EIN), and the date of the distribution on the appropriate
+                                                                  Line 5a
+lines. A TIN can be a social security number (SSN).               Enter the amount of money (other than marketable
+                                                                  securities treated as money under section 731(c)) you
+                                                                  received or were deemed to receive in the distribution.
+
+                                 Instructions for Form 7217 (12-2024) Catalog Number 94871V
+Dec 20, 2024                   Department of the Treasury Internal Revenue Service www.irs.gov
+This amount includes deemed distributions of money             Column (c)(i), 732(d). Indicate if the amount in column
+under section 752(b). The partnership will report money        (b) includes a special basis adjustment under section
+distributed to you on your Schedule K-1 (Form 1065),           732(d) either because you made an election under 732(d)
+box 19, code A.                                                on your tax return or the special basis adjustment is
+                                                               mandatory.
+Line 5b
+Enter the fair market value of the marketable securities (as   Column (c)(ii), 732(f). Indicate if the distributed property
+defined in section 731(c)) you received in the distribution.   is section 732(f) stock. Generally, property is section
+The partnership will report this information to you on your    732(f) stock if:
+Schedule K-1 (Form 1065), box 19, code A.                      • You are a corporation,
+                                                               • The distributed property is stock in another corporation,
+Line 8                                                         • You have at least 80% of the total voting power or total
+Check the box to indicate whether you were required to         value of the stock of such other corporation immediately
+pay any U.S. tax on the gain entered on line 7, if any, as a   after the distribution or at any time after the distribution,
+result of a distribution of money in excess of your outside    and
+basis.                                                         • The amount in column (b) for the property is greater
+                                                               than the amount in column (e). See section 732(f) for
+Line 9                                                         details.
+Subtract line 5a from line 4. This is your outside basis       Column (c)(iii), 734(b). Indicate if the amount in column
+reduced (but not below zero) by money (including deemed        (b) includes a section 734(b) basis adjustment.
+distributions of money under section 752(b), but not
+                                                               Column (c)(iv), 743(b). Indicate if the amount in column
+including marketable securities treated as money under
+                                                               (b) includes a section 743(b) basis adjustment. This box
+section 731(c)) you received or were deemed to receive in
+                                                               should be checked only if you have a section 743(b) basis
+the distribution. Include any gain you recognized under
+                                                               adjustment with respect to the distributed property.
+section 737 as a result of the distribution. The partnership
+will report information concerning distributions of section    Column (d), FMV of distributed property. Enter the fair
+737 property to you on your Schedule K-1 (Form 1065),          market value (FMV) of each distributed property. The
+box 19, code B.                                                partnership will report the FMV of the distributed property
+                                                               to you on your Schedule K-1 (Form 1065), box 19, code C.
+Line 10
+                                                               Column (e), Partner's basis in distributed property
+For a non-liquidating distribution, enter the smaller of       after application of section 732. Enter your basis in
+line 3 or line 9. For a liquidating distribution, enter the    each distributed property after the application of section
+amount from line 9. This is the aggregate amount of basis      732. For a non-liquidating distribution where the section
+to be allocated to the distributed property (other than        732(a)(2) limitation applies, enter your basis in each
+money). The amount entered on line 10 should equal the         distributed property after the application of sections
+total amount of Part II, line B, column (e).                   732(a)(2) and (c). For a liquidating distribution, enter your
+Part II—Allocation of Basis of                                 basis in each distributed property after the application of
+                                                               sections 732(b) and (c). The total amount (line B) in this
+Distributed Property                                           column should equal the amount on Part I, line 10.
+The partnership will report the information that you will      Column (e) does not include any increase in the basis of
+need to complete Part II to you on your Schedule K-1           distributed marketable securities as a result of gain
+(Form 1065), box 19, code C; or, if applicable, in a section   recognized under section 731(c)(4).
+732(d) statement attached to your Schedule K-1 (Form
+1065). Complete as many copies of Part II as necessary.
+                                                               Calculating the Amounts in Column
+                                                               (e) When Section 732(a)(2) or (b)
+Columns (a) Through (e)
+                                                               Applies
+Column (a), Description of distributed property.
+Enter a description for each distributed property that you     Non-Liquidating Distribution When Section
+received. If applicable, include the asset class code of       732(a)(2) Applies
+each distributed property. For a list of asset class codes
+see Appendix B in Pub. 946, How to Depreciate Property.        Generally, your basis in distributed property equals the
+                                                               partnership’s adjusted basis in the property immediately
+Column (b), Partnership's basis in distributed prop-           before the distribution under section 732(a)(1). When the
+erty immediately before the distribution. Enter the            partnership’s adjusted basis in distributed property (other
+partnership’s adjusted tax basis in each distributed           than money) exceeds your remaining outside basis after
+property immediately before the distribution. This amount      reducing it by any money distributed, your basis in the
+should include any basis adjustments under sections            distributed property is limited under section 732(a)(2) to
+732(d), 734(b), or 743(b), as applicable. See Regulations      your outside basis. When a distribution limited under
+sections 1.732-1(d) and 1.732-2 for rules relating to          section 732(a)(2) consists of multiple properties, the
+distributions of property with a basis adjustment under        aggregate basis of the distributed properties must be
+section 732(d), 734(b), or 743(b). The total amount (line      reduced, and the reduced aggregate basis must be
+B) in this column should equal the amount on Part I, line 3.   allocated among the distributed properties. For the
+
+
+2                                                                                         Instructions for Form 7217 (2024)
+allocation of basis among multiple properties, see section            partnership PRS and has an outside basis of $750. PRS
+732(c).                                                               distributes inventory, asset X, asset Y, and $100 of cash to
+Example 1—adjustment of partner’s basis following                     Alex in liquidation of Alex’s entire partnership interest. The
+distribution of cash and property. Jordan is a partner                partnership's basis in the inventory is $100 and it has an
+of partnership Delta. Jordan has an outside basis of                  FMV of $200. The partnership's basis in asset X is $50,
+$10,000. Jordan receives a non-liquidating distribution of            and it has an FMV of $400. The partnership's basis in
+cash of $4,000 and property with an adjusted basis to the             asset Y is $100 and it has an FMV of $100. Neither asset
+partnership of $8,000. Jordan’s basis in the distributed              X nor asset Y consists of inventory items or unrealized
+property is limited to $6,000 ($10,000, the adjusted basis            receivables.
+of Jordan’s interest, reduced by $4,000, the cash                        The amount of basis to be allocated to the distributed
+distributed).                                                         properties under section 732(c) is $650, Alex's outside
+                                                                      basis reduced by money distributed. The inventory is
+Liquidating Distribution When Section 732(b)                          allocated its adjusted basis of $100. The remaining basis,
+Applies                                                               $550, is first allocated to the other distributed properties in
+The aggregate basis of the distributed property that you              an amount equal to each property's adjusted basis to the
+receive in a liquidating distribution must equal your                 partnership. Asset X is allocated $50 and asset Y is
+pre-distribution outside basis, reduced by any money                  allocated $100. The remaining basis, $400, is allocated to
+distributed. If the partnership’s aggregate adjusted basis            other distributed properties in proportion to, and to the
+in the distributed property (other than money) is different           extent of, unrealized appreciation. Asset X is then
+than your outside basis reduced by any money distributed,             allocated $350, the amount of unrealized appreciation in
+the aggregate adjusted basis of the distributed property is           asset X.
+either increased or decreased so that it equals your                     Finally, the remaining basis, $50, is allocated to assets
+pre-distribution outside basis. The increased or decreased            X and Y in proportion to their FMVs: $40 to asset X
+aggregate basis must be allocated among the distributed               (400/500 x $50), and $10 to asset Y (100/500 x $50).
+properties. See section 732(c) for more information.                  Therefore, after the distribution, Alex has an adjusted
+                                                                      basis of $100 in the inventory, $440 in asset X, and $110
+Example 2—allocation of partner’s basis after cash                    in asset Y.
+to distributed assets. Alex is a one-fourth partner in
+
+Example 2. Allocation of Partner's Basis After Cash to Distributed Assets.
+
+                                            Alex's basis
+    Cash and                               in distributed
+    property                      Fair        property
+  distributed to                 market         after
+     Alex by     Partnership's   value      application
+ partnership PRS     basis       (FMV)        of 732(b)                                         Explanation
+                                                            Alex's outside basis of $750 is reduced to $650 because PRS distributed $100 of
+Cash                 $100           $100       $100
+                                                            cash to Alex. See section 732(b).
+                                                            The basis of distributed properties is allocated first to inventory items in an
+Inventory            $100           $200       $100
+                                                            amount equal to the partnership's basis. See section 732(c)(1)(A)(i).
+Asset X               $50           $400       $440         After subtracting $100 of cash and allocating $100 to inventory basis, Alex's
+                                                            remaining outside basis is $550. First, asset X is allocated $50 and asset Y is
+                                                            allocated $100, the amount equal to each property's adjusted basis to the
+                                                            partnership. See section 732(c)(1)(B)(i). Asset X is then allocated $350, the
+Asset Y               $100          $100       $110         amount of unrealized appreciation in asset X. See section 732(c)(2)(A). The
+                                                            remaining outside basis of $50 is allocated to assets X and Y, in proportion to
+                                                            their FMVs: $40 to asset X (400/500 x $50) and $10 to asset Y (100/500 x $50).
+                                                            See section 732(c)(2)(B).
+Total property                                              The total property basis must equal Alex's previous basis in the partnership
+(not including       $250           $700       $650         reduced by the $100 of cash received. See section 732(b).
+cash)
+
+
+
+
+Instructions for Form 7217 (2024)                                                                                                             3
+Paperwork Reduction Act Notice. We ask for you to obtain the information on this form to carry out the Internal
+Revenue laws of the United States. You are required to obtain this information.
+   You are not required to obtain the information requested on a form that is subject to the Paperwork Reduction Act
+unless the form displays a valid OMB control number. Books or records relating to a form, or its instructions must be
+retained as long as their contents may become material in the administration of any Internal Revenue law. Generally, tax
+returns and return information are confidential, as required by Internal Revenue Code section 6103.
+   The time needed to complete and file this form will vary depending on individual circumstances. The estimated burden
+for individual filers is approved under OMB control number 1545-0074, tax exempt filers under OMB control number
+1545-0047, business filers is approved under OMB control number 1545-0123, and trust filers is approved under OMB
+control number 1545-0092, for the estimated averages, see the instructions for your income tax return.
+  If you have comments concerning the accuracy of these time estimates or suggestions for making this form simpler,
+we would be happy to hear from you. See the instructions for the tax return with which this form is filed.
+
+
+
+
+4                                                                                       Instructions for Form 7217 (2024)
+

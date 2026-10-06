@@ -1,0 +1,48 @@
+{
+  "rule": {
+    "id": "c-owner-draws-and-own-wages",
+    "title": "The owner's own salary and draws are not wages or cost of labor",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-business-income-and-expense-records.wages",
+        "taxpayer-business-income-and-expense-records.cost_of_labor"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-paid-to-the-owner"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-paid-to-the-owner",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this item the owner's own salary, or a draw or personal withdrawal the owner took from the business?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Publication 334",
+      "line": "Chapter 8, Employees\u2019 Pay",
+      "revision": "2025",
+      "wording": "You can\u2019t deduct your own salary or any personal withdrawals you make from your business. As a sole proprietor, you are not an employee of the business.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p334--2025.pdf"
+    },
+    "research_ids": [
+      "c-owner-draws-and-own-wages"
+    ]
+  }
+}

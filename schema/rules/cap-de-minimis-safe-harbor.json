@@ -1,0 +1,68 @@
+{
+  "rule": {
+    "id": "cap-de-minimis-safe-harbor",
+    "title": "De minimis safe harbor: a capitalized cost of $2,500 or less is an other expense",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "expensed_up_to",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-rental-income-and-expense-records.repairs",
+        "taxpayer-rental-income-and-expense-records.cleaning_and_maintenance",
+        "taxpayer-rental-income-and-expense-records.other_expenses",
+        "taxpayer-rental-income-and-expense-records.supplies",
+        "taxpayer-business-income-and-expense-records.repairs_and_maintenance",
+        "taxpayer-business-income-and-expense-records.other_expenses",
+        "taxpayer-business-income-and-expense-records.supplies",
+        "taxpayer-business-income-and-expense-records.materials_and_supplies"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "de-minimis-safe-harbor-elected"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "de-minimis-safe-harbor-elected",
+        "is": "yes"
+      },
+      "after_rule": "cap-improvement-capitalized",
+      "to": {
+        "schedule-e": {
+          "form": "schedule-e",
+          "line": "19"
+        },
+        "schedule-c": {
+          "form": "schedule-c",
+          "line": "27b"
+        }
+      }
+    },
+    "amounts": {
+      "all": {
+        "limit": 2500
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [
+        "cap-improvement-capitalized"
+      ],
+      "before": []
+    },
+    "citation": {
+      "form": "Publication 527",
+      "line": "De minimis safe harbor for tangible property",
+      "revision": "2025",
+      "wording": "may deduct these amounts as rental expenses on line 19 of Schedule E",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p527--2025.pdf"
+    },
+    "open_point": "The limit is per item OR invoice; the sheet sees the client's line items, so it tests each line. The election covers every qualifying cost of the year and is a statement the preparer attaches to the return. Schedule C puts these on line 48 (Other expenses), which reaches line 27b; land and inventory are never eligible."
+  }
+}

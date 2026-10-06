@@ -1,0 +1,38 @@
+{
+  "form": {
+    "id": "form-3903",
+    "form": "Form 3903",
+    "title": "Moving Expenses",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f3903--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/i3903--2025.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Transportation and storage of household goods and personal effects (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Travel (including lodging) from your old home to your new home (see instructions). Do not include the cost of meals",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Add lines 1 and 2",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Enter the total amount the government paid you for the expenses listed on lines 1 and 2 that is not included in box 1 of your Form W-2 (wages). This amount should be shown in box 12 of your Form W-2 with code P",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Is line 3 more than line 4? No. You cannot deduct your moving expenses. If line 3 is less than line 4, subtract line 3 from line 4 and include the result on Form 1040, 1040-SR, or 1040-NR, line 1h. Yes. Subtract line 4 from line 3. Enter the result here and on Schedule 1 (Form 1040), line 14. This is your moving expense deduction",
+        "type": "money"
+      }
+    ]
+  }
+}

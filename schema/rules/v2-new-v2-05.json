@@ -1,0 +1,61 @@
+{
+  "rule": {
+    "id": "v2-new-v2-05",
+    "title": "Bartering income outside a trade or business is other income",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "route_among",
+    "acts_on": {
+      "boxes": [
+        "1099-B.13"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "barter-income-is-from-a-trade-or-business"
+      }
+    ],
+    "params": {
+      "cases": [
+        {
+          "when": {
+            "answer": "barter-income-is-from-a-trade-or-business",
+            "is": "no"
+          },
+          "to": {
+            "form": "form-1040",
+            "line": "8",
+            "sub_line": "8z"
+          }
+        },
+        {
+          "when": {
+            "answer": "barter-income-is-from-a-trade-or-business",
+            "is": "yes"
+          },
+          "to": {
+            "form": "schedule-c",
+            "line": "1"
+          }
+        }
+      ]
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 525",
+      "line": "Bartering",
+      "revision": "2025",
+      "wording": "Generally, you report this income on Schedule C (Form 1040).",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p525--2025.pdf"
+    }
+  }
+}

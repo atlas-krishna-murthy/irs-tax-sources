@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "form-8288-a-early-refund-requested",
+    "wording": "Did the taxpayer request an early refund of the withholding shown in Form 8288-A box 4?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 an early refund was requested"
+      },
+      {
+        "value": "no",
+        "label": "No"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "No early refund was requested unless a preparer says so"
+    },
+    "basis": {
+      "citation": {
+        "form": "Form 8288-A",
+        "line": "4",
+        "revision": "2025",
+        "wording": "To receive credit for any federal income tax withheld shown in box 4, attach Form 8288-A to your tax return, unless you make a request for early refund.",
+        "source_url": "https://www.irs.gov/pub/irs-pdf/f8288a.pdf"
+      }
+    }
+  }
+}

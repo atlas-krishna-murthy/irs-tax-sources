@@ -1,0 +1,43 @@
+{
+  "rule": {
+    "id": "s1-alimony-19a",
+    "title": "Alimony is deductible only under an agreement entered into on or before December 31, 2018",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-adjustment-records.alimony_paid"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "alimony-agreement-before-2019"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "alimony-agreement-before-2019",
+        "is": "no"
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Schedule 1 (Form 1040)",
+      "line": "19a",
+      "revision": "2025",
+      "wording": "If you made payments to or for your spouse or former spouse under a divorce or separation agreement entered into on or before December 31, 2018, you may be able to take this deduction.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "Lines 19b and 19c (the recipient's SSN, the agreement's month and year) are entries, not figures."
+  }
+}

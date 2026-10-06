@@ -1,0 +1,49 @@
+{
+  "rule": {
+    "id": "e-int-03",
+    "title": "Only interest on a debt secured by a qualified home is home mortgage interest",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-mortgage-and-interest-records.home_mortgage_interest_not_reported_on_1098",
+        "taxpayer-mortgage-and-interest-records.points_not_reported_on_1098"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "loan-is-not-secured-by-the-taxpayers-main-or-second-home"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "loan-is-not-secured-by-the-taxpayers-main-or-second-home",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "A home mortgage is secured by the home unless a preparer says otherwise"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 936",
+      "line": "Part I",
+      "revision": "2025",
+      "wording": "The mortgage is a secured debt on a qualified home in which you have an ownership interest.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p936--2025.pdf"
+    },
+    "research_ids": [
+      "e-int-03"
+    ],
+    "open_point": "Interest on a rental's or a business's loan belongs on Schedule E or C through the activity's own record; this rule only stops it counting as home mortgage interest."
+  }
+}

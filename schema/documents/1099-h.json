@@ -1,0 +1,123 @@
+{
+  "document": {
+    "id": "1099-H",
+    "title": "Health Coverage Tax Credit (HCTC) Advance Payments",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-H (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099h--2025.pdf",
+    "issued_by": "health coverage provider or issuer of HCTC advance payments",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "Marks this statement as correcting one already furnished for the same year."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a filer's mark, never a figure."
+      },
+      {
+        "box": "issuer-tin",
+        "label": "ISSUER\u2019S/PROVIDER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "recipient-tin",
+        "label": "RECIPIENT\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "1",
+        "label": "Amount of HCTC advance payments",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "No. of mos. of HCTC advance payments and reimbursement credits paid to you",
+        "type": "count"
+      },
+      {
+        "box": "3",
+        "label": "Jan.",
+        "type": "money",
+        "notes": "One month's HCTC advance payments; boxes 3 through 14 total box 1."
+      },
+      {
+        "box": "4",
+        "label": "Feb.",
+        "type": "money",
+        "notes": "One month's HCTC advance payments; boxes 3 through 14 total box 1."
+      },
+      {
+        "box": "5",
+        "label": "Mar.",
+        "type": "money",
+        "notes": "One month's HCTC advance payments; boxes 3 through 14 total box 1."
+      },
+      {
+        "box": "6",
+        "label": "Apr.",
+        "type": "money",
+        "notes": "One month's HCTC advance payments; boxes 3 through 14 total box 1."
+      },
+      {
+        "box": "7",
+        "label": "May",
+        "type": "money",
+        "notes": "One month's HCTC advance payments; boxes 3 through 14 total box 1."
+      },
+      {
+        "box": "8",
+        "label": "June",
+        "type": "money",
+        "notes": "One month's HCTC advance payments; boxes 3 through 14 total box 1."
+      },
+      {
+        "box": "9",
+        "label": "July",
+        "type": "money",
+        "notes": "One month's HCTC advance payments; boxes 3 through 14 total box 1."
+      },
+      {
+        "box": "10",
+        "label": "Aug.",
+        "type": "money",
+        "notes": "One month's HCTC advance payments; boxes 3 through 14 total box 1."
+      },
+      {
+        "box": "11",
+        "label": "Sept.",
+        "type": "money",
+        "notes": "One month's HCTC advance payments; boxes 3 through 14 total box 1."
+      },
+      {
+        "box": "12",
+        "label": "Oct.",
+        "type": "money",
+        "notes": "One month's HCTC advance payments; boxes 3 through 14 total box 1."
+      },
+      {
+        "box": "13",
+        "label": "Nov.",
+        "type": "money",
+        "notes": "One month's HCTC advance payments; boxes 3 through 14 total box 1."
+      },
+      {
+        "box": "14",
+        "label": "Dec.",
+        "type": "money",
+        "notes": "One month's HCTC advance payments; boxes 3 through 14 total box 1."
+      }
+    ],
+    "notes": "Box 1 is the total of the monthly boxes 3 through 14. The figures are inputs to Form 8885, Health Coverage Tax Credit."
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

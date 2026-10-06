@@ -1,0 +1,4375 @@
+2025
+
+General Instructions for
+Certain Information Returns
+(Forms 1096, 1097, 1098, 1099, 3921, 3922, 5498, and W-2G)
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+information on the Form 1099-DA, go to IRS.gov/
+Form1099DA.
+
+Contents
+Page
+What’s New . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Future Developments . . . . . . . . . . . . . . . . . . . . . . . . 1
+Reminders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Items You Should Note . . . . . . . . . . . . . . . . . . . . . . . 2
+Guide to Information Returns . . . . . . . . . . . . . . . . . . . 2
+A. Who Must File . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+B. Other Information Returns . . . . . . . . . . . . . . . . . . . 6
+C. When To File . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+D. Where To File . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+E. Filing Returns With the IRS . . . . . . . . . . . . . . . . . . 7
+F. Electronic Reporting . . . . . . . . . . . . . . . . . . . . . . . 8
+G. Paper Document Reporting . . . . . . . . . . . . . . . . . . 9
+H. Corrected Returns on Paper Forms . . . . . . . . . . . 10
+I. Void Returns . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+J. Recipient Names and Taxpayer Identification
+Numbers (TINs) . . . . . . . . . . . . . . . . . . . . . . . . 13
+K. Filer's Name, Taxpayer Identification Number
+(TIN), and Address . . . . . . . . . . . . . . . . . . . . . . 14
+L. Account Number Box on Forms . . . . . . . . . . . . . . 14
+M. Statements to Recipients (Beneficiaries,
+Borrowers, Debtors, Donors, Employees,
+Insureds, Participants, Payment or Credit
+Recipients, Payers, Policyholders, Sellers,
+Shareholders, Students, Transferors, or
+Winners on Certain Forms) . . . . . . . . . . . . . . . . 15
+N. Backup Withholding . . . . . . . . . . . . . . . . . . . . . . 18
+O. Penalties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+P. Payments to Corporations and Partnerships . . . . . 21
+Q. Earnings on Any IRA, Coverdell ESA, ABLE
+Account, Archer MSA, or HSA . . . . . . . . . . . . . . 21
+R. Certain Grantor Trusts . . . . . . . . . . . . . . . . . . . . . 21
+S. Special Rules for Reporting Payments Made
+Through Foreign Intermediaries and Foreign
+Flow-Through Entities on Form 1099 . . . . . . . . . 22
+T. How To Get Tax Help . . . . . . . . . . . . . . . . . . . . . . 23
+Privacy Act and Paperwork Reduction Act Notice . . . 25
+Guide to Information Returns . . . . . . . . . . . . . . . . . 26
+Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+Form 1096. Form 1096 has been revised to reflect the
+addition of Form 1099-DA due to P.L. 117-58 and
+amended Regulations section 1.6045-1.
+
+What’s New
+
+New Form 1099-DA. Information about the new Form
+1099-DA, Digital Asset Proceeds from Broker
+Transactions, and its separate instructions has been
+added to these instructions, where appropriate. For more
+
+Jan 8, 2025
+
+Form 1099-K. Notice 2024-85, available at IRS.gov/irb/
+2024-51_IRB#NOT-2024-85, provides transition relief for
+third-party settlement organizations (TPSOs). TPSOs are
+required to report transactions when the amount of total
+payments for those transactions is more than $2,500 in
+2025 and more than $600 in calendar year 2026 and after.
+Extension of time to furnish statements to recipients.
+The new Form 15397, Application for Extension of Time to
+Furnish Recipient Statements is now available. An
+extension of time to furnish statements must be requested
+by fax only. See Extension of time to furnish statements to
+recipients, later, for more information.
+
+Future Developments
+
+For the latest information about developments related to
+the General Instructions for Certain Information Returns
+after they were published, go to General Instructions for
+Certain Information Returns at IRS.gov/
+1099GeneralInstructions.
+
+Reminders
+E-filing returns. The Taxpayer First Act of 2019
+authorized the Department of the Treasury and the IRS to
+issue regulations that reduce the 250-return e-file
+threshold. Treasury Decision (T.D.) 9972, published
+February 23, 2023, lowered the e-file threshold to 10
+(calculated by aggregating all information returns),
+effective for information returns required to be filed on or
+after January 1, 2024. Go to IRS.gov/InfoReturn for e-file
+options.
+Information Reporting Intake System (IRIS). The IRS
+has developed IRIS, an online portal that allows taxpayers
+to electronically file (e-file) information returns after
+December 31, 2022, for 2022 and later tax years. IRIS is a
+free service. See part F or go to IRS.gov/IRIS for
+additional information and updates.
+Due date for certain statements sent to recipients.
+The due date for furnishing statements to recipients for
+Forms 1099-B, 1099-DA, 1099-S, and 1099-MISC (if
+amounts are reported in boxes 8 or 10) is February 17,
+2026. This also applies to statements furnished as part of
+a consolidated reporting statement. See the Guide to
+Information Returns for due dates for all returns.
+
+Instructions for Form 1099GI (2025) Catalog Number 27976F
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+E-file. E-filers are reminded that using the Filing
+Information Returns Electronically System (FIRE System)
+requires following the specifications contained in Pub.
+1220. IRIS users should follow the specifications in Pub.
+5717, IRIS Taxpayer Portal User Guide. Also, the IRS
+does not provide a fill-in form option for most forms
+required to be filed with the IRS covered by these
+instructions; however, see Online fillable forms in part E,
+later. See part F for information on e-file.
+Online fillable forms Copies 1, B, 2, C, and D. Copies
+1, B, 2, C, and D, as applicable, to be furnished to
+recipients and kept in filers’ records, have been made
+fillable online at IRS.gov for many forms referenced in
+these instructions. See the separate instructions for Forms
+1098, 1098-E&T, 1098-F, 1098-Q, 1099-A&C, 1099-B,
+1099-DA, 1099-DIV, 1099-G, 1099-INT&OID, 1099-K,
+1099-LS, 1099-MISC&NEC, 1099-PATR, 1099-R&5498,
+1099-S, 1099-SB, and 3921.
+Payee. Throughout these instructions, a “payee” is any
+person who is required to receive a copy of the
+information return by the filer of Forms 1097, 1098, 1099,
+3921, 3922, 5498, or W-2G. A payee includes
+beneficiaries, borrowers, debtors, donors, employees,
+insureds, participants, payment or credit recipients,
+policyholders, sellers, shareholders, students, transferors,
+and winners.
+
+Items You Should Note
+Photographs of Missing Children
+
+The Internal Revenue Service is a proud partner with the
+National Center for Missing & Exploited Children®
+(NCMEC). Photographs of missing children selected by
+the Center may appear in instructions on pages that would
+otherwise be blank. You can help bring these children
+home by looking at the photographs and calling
+1-800-THE-LOST (1-800-843-5678) if you recognize a
+child.
+
+Available Instructions
+
+In addition to these general instructions, which contain
+general information concerning Forms 1096, 1097, 1098,
+1099, 3921, 3922, 5498, and W-2G, we provide specific
+form instructions separately. Get the instructions you need
+for completing a specific form from the following list of
+separate instructions.
+• Instructions for Form 1097-BTC.
+• Instructions for Form 1098.
+• Instructions for Form 1098-C.
+• Instructions for Forms 1098-E and 1098-T.
+• Instructions for Form 1098-F.
+• Instructions for Form 1098-Q.
+• Instructions for Forms 1099-A and 1099-C.
+• Instructions for Form 1099-B.
+• Instructions for Form 1099-CAP.
+• Instructions for Form 1099-DA.
+• Instructions for Form 1099-DIV.
+• Instructions for Form 1099-G.
+• Instructions for Form 1099-H.
+• Instructions for Forms 1099-INT and 1099-OID.
+• Instructions for Form 1099-K.
+• Instructions for Form 1099-LS.
+2
+
+• Instructions for Form 1099-LTC.
+• Instructions for Forms 1099-MISC and 1099-NEC.
+• Instructions for Form 1099-PATR.
+• Instructions for Form 1099-Q.
+• Instructions for Forms 1099-QA and 5498-QA.
+• Instructions for Forms 1099-R and 5498.
+• Instructions for Form 1099-S.
+• Instructions for Forms 1099-SA and 5498-SA.
+• Instructions for Form 1099-SB.
+• Instructions for Forms 3921 and 3922.
+• Instructions for Form 5498-ESA.
+• Instructions for Forms W-2G and 5754.
+You can also obtain the latest developments for each of
+the forms and instructions listed here by going to their
+information pages at IRS.gov. See the separate
+instructions for each form on the webpage via the link.
+See How To Get Forms, Publications, and Other
+Assistance, later.
+
+Guide to Information Returns
+
+See the chart, later, for a brief summary of information
+return reporting rules.
+
+Use Form 1096 To Send Paper Forms to the IRS
+
+You must send Copies A of all paper Forms 1097, 1098,
+1099, 3921, 3922, 5498, and W-2G to the IRS with Form
+1096, Annual Summary and Transmittal of U.S.
+Information Returns. Instructions for completing Form
+1096 are contained on Form 1096. Also see part E.
+
+Reporting Backup Withholding on Forms 1099
+and W-2G
+
+If you backup withhold on a payment, you must file the
+appropriate Form 1099 or Form W-2G with the IRS and
+furnish a statement to the recipient to report the amount of
+the payment and the amount withheld. This applies even
+though the amount of the payment may be below the
+normal threshold for filing Form 1099 or Form W-2G. For
+how to report backup withholding, see part N.
+
+Substitute Statements to Recipients
+
+If you are using a substitute form to furnish information
+statements to recipients (generally Copy B), be sure your
+substitute statements comply with the rules in Pub. 1179.
+Pub. 1179, which is revised annually, explains the
+requirements for format and content of substitute
+statements to recipients. See part M for additional
+information.
+
+Taxpayer Identification Number (TIN) Matching
+
+TIN Matching allows a payer or authorized agent who is
+required to file Forms 1099-B, DA, DIV, G, INT, K, MISC,
+NEC, OID, and/or PATR, which report income subject to
+backup withholding, to match TIN and name combinations
+with IRS records before submitting the forms to the IRS.
+TIN Matching is one of the e-services products that is
+offered and is accessible through the IRS website. For
+program guidelines, see Pub. 2108-A, or go to IRS.gov
+and enter keyword “TIN Matching” in the upper right
+corner. It is anticipated that payers who validate the TIN
+and name combinations before filing information returns
+will receive fewer backup withholding (CP2100) notices
+Gen. Instr. for Certain Info. Returns (2025)
+
+and penalty notices. E-services technical support is
+available by calling 866-255-0654.
+
+A. Who Must File
+
+See the separate specific instructions for each form.
+Nominee/middleman returns. Generally, if you receive
+a Form 1099 for amounts that actually belong to another
+person, you are considered a nominee recipient. You must
+file a Form 1099 with the IRS (the same type of Form 1099
+you received) for each of the other owners showing the
+amounts allocable to each. You must also furnish a Form
+1099 to each of the other owners. File the new Form 1099
+with Form 1096 with the IRS Submission Processing
+Center for your area. On each new Form 1099, list yourself
+as the “payer” and the other owner as the “recipient.” On
+Form 1096, list yourself as the “Filer.” A spouse is not
+required to file a nominee return to show amounts owned
+by the other spouse. The nominee, not the original payer,
+is responsible for filing the subsequent Forms 1099 to
+show the amount allocable to each owner.
+Successor/predecessor reporting. A successor
+business entity (a corporation, partnership, or sole
+proprietorship) and a predecessor business entity (a
+corporation, partnership, or sole proprietorship) may
+agree that the successor will assume all or some of the
+predecessor's information reporting responsibilities. This
+would permit the successor to file one Form 1097, 1098,
+1099, 3921, 3922, 5498, or W-2G for each recipient
+combining the predecessor's and successor's reportable
+amounts, including any withholding. If they so agree and
+the successor satisfies the predecessor's obligations and
+the conditions described on this page, the predecessor
+does not have to file the specified information returns for
+the acquisition year. If the successor and predecessor do
+not agree, or if the requirements described are not met,
+the predecessor and the successor each must file Forms
+1097, 1098, 1099, 3921, 3922, 5498, and W-2G for their
+own reportable amounts as they usually would. For more
+information and the rules that apply to filing combined
+Forms 1042-S, see Rev. Proc. 99-50, which is available on
+page 757 of Internal Revenue Bulletin 1999-52 at
+IRS.gov/pub/irs-irbs/irb99-52.pdf.
+The combined reporting procedure is available when all
+the following conditions are met.
+1. The successor acquires from the predecessor
+substantially all the property (a) used in the trade or
+business of the predecessor, including when one or more
+corporations are absorbed by another corporation under a
+merger agreement under which the surviving corporation
+becomes the owner of all the assets and assumes all the
+liabilities of the absorbed corporation(s); or (b) used in a
+separate unit of a trade or business of the predecessor.
+2. The predecessor is required to report amounts,
+including any withholding, on information returns for the
+year of acquisition for the period before the acquisition.
+3. The predecessor is not required to report amounts,
+including withholding, on information returns for the year
+of acquisition for the period after the acquisition.
+Combined reporting agreement. The predecessor
+and the successor must agree on the specific forms to
+Gen. Instr. for Certain Info. Returns (2025)
+
+which the combined reporting procedure applies and that
+the successor assumes the predecessor's entire
+information reporting obligations for these forms. The
+predecessor and successor may agree to:
+1. Use the combined reporting procedure for all Forms
+1097, 1098, 1099, 3921, 3922, 5498, and W-2G; or
+2. Limit the use of the combined reporting procedure
+to (a) specific forms; or (b) specific reporting entities,
+including any unit, branch, or location within a particular
+business entity that files its own separate information
+returns. For example, if the predecessor's and successor's
+only compatible computer or recordkeeping systems are
+their dividends paid ledgers, they may agree to use the
+combined reporting procedure for Forms 1099-DIV only.
+Similarly, if the only compatible systems are in their
+Midwest branches, they may agree to use the combined
+reporting procedure for only the Midwest branches.
+Combined reporting procedure. On each Form
+1097, 1098, 1099, 3921, 3922, 5498, and W-2G filed by
+the successor, the successor must combine the
+predecessor's (before the acquisition) and successor's
+reportable amounts, including any withholding, for the
+acquisition year and report the aggregate. For
+transactional reporting, the successor must report each of
+the predecessor's transactions and each of its own
+transactions on the appropriate form. The successor may
+include with the form sent to the recipient additional
+information explaining the combined reporting.
+For purposes of the combined reporting procedure, the
+sharing of TINs and other information obtained under
+section 3406 for information reporting and backup
+withholding purposes does not violate the confidentiality
+rules in section 3406(f).
+Statement required. The successor must file a
+statement with the IRS indicating the forms that are being
+filed on a combined basis under Rev. Proc. 99-50. The
+statement must:
+1. Include the predecessor's and successor's names,
+addresses, telephone numbers, and employer
+identification numbers (EINs), and the name and
+telephone number of the person responsible for preparing
+the statement;
+2. Reflect separately the amount of federal income tax
+withheld by the predecessor and by the successor for
+each type of form being filed on a combined basis (for
+example, Form 1099-R or 1099-MISC); and
+3. Be sent separately from Forms 1097, 1098, 1099,
+3921, 3922, 5498, and W-2G by the forms' due dates to:
+Internal Revenue Service
+Information Returns Branch
+230 Murall Drive, Mail Stop 4360
+Kearneysville, WV 25430
+Do not send Form 1042-S statements to this address.
+Instead, use the address given in the Instructions for Form
+1042-S; see Rev. Proc. 99-50.
+Qualified settlement funds. A qualified settlement fund
+must file information returns for distributions to claimants if
+any transferor to the fund would have been required to file
+3
+
+if the transferor had made the distributions directly to the
+claimants.
+For distributions to transferors, a fund is considered in a
+trade or business for information reporting purposes and
+may be required to file Form 1099-MISC or other
+information returns. For payments made by the fund on
+behalf of a claimant or transferor, the fund is subject to
+these same rules and may have to file information returns
+for payment to third parties. For information reporting
+purposes, a payment made by the fund on behalf of a
+claimant or transferor is considered a distribution to the
+claimant or transferor and is also subject to information
+reporting requirements.
+The same filing requirements, exceptions, and
+thresholds may apply to qualified settlement funds as
+apply to any other payer. That is, the fund must determine
+the character of the payment (for example, interest, fixed
+or determinable income, or gross proceeds from broker
+transactions) and to whom the payment is made (for
+example, corporation or individual).
+For more information, see Regulations section
+1.468B-2(l). Also, see T.D. 9249, 2006-10 I.R.B. 546,
+available at IRS.gov/irb/2006-10_IRB#TD-9249. T.D. 9249
+relates to escrow and similar funds.
+Payments to foreign persons. See the Instructions for
+Form 1042-S, relating to U.S. source income of foreign
+persons, for reporting requirements relating to payments
+to foreign persons.
+Widely held fixed investment trusts (WHFITs).
+Trustees and middlemen of WHFITs are required to report
+all items of gross income and proceeds on the appropriate
+Form 1099. For the definition of a WHFIT, see Regulations
+section 1.671-5(b)(22). A tax information statement that
+includes the information provided to the IRS on Forms
+1099, as well as additional information identified in
+Regulations section 1.671-5(e), must be furnished to trust
+interest holders (TIHs).
+Items of gross income (including original issue discount
+(OID)) attributable to the TIH for the calendar year,
+including all amounts of income attributable to selling,
+purchasing, or redeeming of a trust holder's interest in the
+WHFIT, must be reported. Items of income that are
+required to be reported, including non-pro rata partial
+principal payments, trust sales proceeds, redemption
+asset proceeds, and sales of a trust interest on a
+secondary market, must generally be reported on Form
+1099-B. See Regulations section 1.671-5(d).
+Safe harbor rules for determining the amount of an item
+to be reported on Form 1099 and a tax information
+statement with respect to a TIH in a non-mortgage WHFIT
+(NMWHFIT) and a widely held mortgage trust (WHMT)
+are found in Regulations sections 1.671-5(f) and (g),
+respectively.
+Trustees and middlemen must follow all the rules for
+filing Forms 1099 with the IRS and furnishing a statement
+to the TIH (except as noted below) as described in parts A
+through S of these instructions. Trustees and middlemen
+should also follow the separate instructions for Forms
+1099-B, 1099-DIV, 1099-INT, 1099-MISC, and 1099-OID,
+as applicable, which may address additional income
+reporting requirements.
+4
+
+Due date and other requirements for furnishing
+statement to TIH. The written tax information for 2025
+furnished to the TIH is due on or before March 16, 2026.
+For other items of expense and credit that must be
+reported to the TIH, see Regulations section 1.671-5(c).
+There is no reporting requirement if the TIH is an
+exempt recipient unless the trustee or middleman backup
+withholds under section 3406. If the trustee or middleman
+backup withholds, then follow the rules in part N. An
+exempt recipient for this purpose is defined in Regulations
+section 1.671-5(b)(7).
+Reporting to foreign persons. Items of a WHFIT
+attributable to a TIH who is not a U.S. person must be
+reported and amounts withheld following the provisions of
+sections 1441 through 1464. See Form 1042-S and its
+separate instructions for more information.
+For instructions on how to report a disposition of
+digital assets held by a WHFIT, see the
+CAUTION Instructions for Form 1099-DA.
+
+!
+
+Foreign Account Tax Compliance Act (FATCA)
+Filing Requirements of Certain Foreign Financial
+Institutions (FFIs)
+If you are required to report an account that is a U.S.
+account under chapter 4 of the Internal Revenue Code,
+you may be eligible to elect to report the account on
+Form(s) 1099 instead of on Form 8966, FATCA Report.
+
+If the account is either a U.S. account held by a
+passive nonfinancial foreign entity (NFFE) that is a
+CAUTION U.S.-owned foreign entity or an account held by
+an owner-documented FFI, do not file a Form 1099 with
+respect to such an account. Instead, you must file Form
+8966, in accordance with its requirements and its
+accompanying instructions, to report the account for
+chapter 4 purposes.
+
+!
+
+Election described in Regulations section
+1.1471-4(d)(5)(i)(A). You are eligible to make this
+election to report an account on Form(s) 1099 if:
+• You are a participating FFI (including a Reporting Model
+2 FFI) (PFFI) or are a registered deemed-compliant FFI
+(RDC FFI) (other than a Reporting Model 1 FFI) required
+to report a U.S. account as a condition of your applicable
+RDC FFI status (see Regulations section 1.1471-5(f)(1)
+(i));
+• You are required to report the account as a U.S.
+account for chapter 4 purposes; and
+• The account is a U.S. account held by a specified U.S.
+person.
+Election described in Regulations section
+1.1471-4(d)(5)(i)(B). You are eligible to make this
+election to report an account on Form(s) 1099 if:
+• You are a PFFI or are an RDC FFI (other than a
+Reporting Model 1 FFI) required to report a U.S. account
+as a condition of your applicable RDC FFI status (see
+Regulations section 1.1471-5(f)(1)(i));
+• You are required to report the account as a U.S.
+account for chapter 4 purposes; and
+• The account is a U.S. account held by a specified U.S.
+person that is a cash value insurance contract or annuity
+Gen. Instr. for Certain Info. Returns (2025)
+
+contract that you elect to report in a manner similar to
+section 6047(d).
+You may make an election described in Regulations
+section 1.1471-4(d)(5)(i)(A) or (B) either with respect to all
+such U.S. accounts or with respect to any clearly identified
+group of such accounts (for example, by line of business
+or by location where the account is maintained).
+Special reporting by U.S. payer described in Regulations section 1.1471-4(d)(2)(iii)(A). If you are a U.S.
+payer that is a PFFI other than a U.S. branch, you may
+also satisfy your requirement to report with respect to a
+U.S. account for chapter 4 purposes by reporting on each
+appropriate Form 1099 in the manner described in
+Regulations section 1.1471-4(d)(2)(iii)(A).
+Reporting procedure. If you are an FFI that is eligible to
+make an election described in Regulations section
+1.1471-4(d)(5)(i)(A) or (B) or are a U.S. payer reporting as
+described in Regulations section 1.1471-4(d)(2)(iii)(A),
+you must do so by filing each appropriate Form 1099 with
+the IRS and reporting the payments required to be
+reported by a U.S. payer (as defined in Regulations
+section 1.6049-5(c)(5)) with respect to the account.
+However, see Payments required to be reported, later.
+Also see the separate specific instructions for each form
+to determine which form to file.
+All Form 1099 filers must have an EIN. If you have
+
+TIP not previously filed a Form 1099 or other return,
+
+you must obtain an EIN and include it on each
+Form 1099 that you file. See part K for more information,
+including how to obtain an EIN and exceptions to the EIN
+rule.
+In addition to the information otherwise required to be
+reported on the appropriate Form 1099, you must also
+include the following information for each account you are
+reporting as described in Regulations section 1.1471-4(d)
+(2)(iii)(A) or (d)(5)(i)(A) or (B).
+• The name, address, and TIN of the account holder.
+• The account number.
+• If applicable, the jurisdiction of the branch that
+maintains the account being reported by adding the
+branch’s jurisdiction after the payer’s name, that is,
+“Payer’s Name (Jurisdiction X branch).”
+If you are an FFI making an election described in
+Regulations section 1.1471-4(d)(5)(i)(A) or (B), or
+CAUTION are a U.S. payer reporting as described in
+Regulations section 1.1471-4(d)(2)(iii)(A), you are
+required to report the payee’s account number on each
+Form 1099 you file (regardless of the fact that the account
+number may otherwise be optional for purposes of
+reporting on the applicable Form 1099).
+
+!
+
+If you are a sponsoring entity that is reporting a U.S.
+account on behalf of a sponsored FFI described above,
+report on the appropriate Form(s) 1099 the following
+information in the payer boxes (if filing on paper) or in the
+appropriate fields of the payer record (if e-filing).
+• For the name, enter the sponsored FFI’s name on the
+first line and the sponsoring entity’s name on the second
+line.
+• For the address, enter the sponsoring entity’s address.
+Gen. Instr. for Certain Info. Returns (2025)
+
+• For the federal (or taxpayer) identification number, enter
+the sponsored FFI’s EIN.
+In addition, if you are e-filing, enter numeric code “1” in
+the “Transfer Agent Indicator” field. See Pub. 1220 for
+e-file of forms. If you are filing on paper, enter your Global
+Intermediary Identification Number (GIIN) in the lower
+right-hand portion of the title area on the top of Form 1096.
+For transmittal of paper forms, see Form 1096 and its
+accompanying instructions.
+If you are an FFI described above that is electing to
+report an account to which you did not make any
+payments for the calendar year that are required to be
+reported on a Form 1099, you must report the account on
+Form 1099-MISC or 1099-NEC. In addition, if you made
+any payments for the calendar year that would be required
+to be reported on a Form 1099 if not for an applicable
+dollar amount threshold, you must also report the account
+on Form 1099-MISC or 1099-NEC. See the Instructions
+for Forms 1099-MISC and 1099-NEC.
+Payments required to be reported. If you make an
+election described in Regulations section 1.1471-4(d)(5)
+(i)(A) or (B), you are required to report any payments
+made to the account as required for purposes of the
+election, that is, payments that would be reportable under
+sections 6041, 6042, 6045, and 6049 if you were a U.S.
+payer.
+Reporting under chapter 4 does not affect an FFI’s
+otherwise applicable obligations to report
+CAUTION payments as a payer under chapter 61.
+
+!
+
+Forms 1099 used. The payments required to be
+reported under this election for calendar year 2025 must
+be reported, as applicable, on Form 1099-B, Proceeds
+From Broker or Barter Exchange Transactions; 1099-DIV,
+Dividends and Distributions; 1099-INT, Interest Income;
+1099-MISC, Miscellaneous Information; 1099-NEC,
+Nonemployee Compensation; 1099-OID, Original Issue
+Discount; or 1099-R, Distributions From Pensions,
+Annuities, Retirement or Profit-Sharing Plans, IRAs,
+Insurance Contracts, etc. Also see the separate specific
+instructions for each form.
+Definitions. Generally, for detailed information about
+definitions that apply for purposes of chapter 4, see
+Regulations section 1.1471-1(b). A reporting foreign
+intermediary (FI) under a Model 2 Intergovernmental
+Agreement (IGA) should also refer to definitions that may
+apply under that IGA or apply pursuant to any applicable
+domestic law pertaining to its FATCA obligations. Solely
+for purposes of filing Forms 1099, the following definitions
+are provided to help guide filers through the process.
+Account. An account means a financial account
+described in Regulations section 1.1471-5(b), including a
+cash value insurance contract and an annuity contract.
+Account holder. An account holder is the person who
+holds a financial account, as determined under
+Regulations section 1.1471-5(a)(3).
+Foreign financial institution (FFI). An FFI generally
+means a foreign entity that is a financial institution.
+Owner-documented FFI. An owner-documented FFI
+is an FFI described in Regulations section 1.1471-5(f)(3).
+
+5
+
+Participating FFI (PFFI). A PFFI is an FFI that has
+agreed to comply with the requirements of an FFI
+agreement with respect to all branches of the FFI, other
+than a branch that is a Reporting Model 1 FFI or a U.S.
+branch. The term “PFFI” also includes an FFI described in
+a Model 2 IGA that has agreed to comply with the
+requirements of an FFI agreement with respect to a
+branch, and a qualified intermediary (QI) branch of a U.S.
+financial institution, unless such branch is a Reporting
+Model 1 FFI.
+Recalcitrant account holder. A recalcitrant account
+holder is an account holder (other than an account holder
+that is an FFI) of a PFFI or RDC FFI that has failed to
+provide the FFI maintaining its account with the
+information required under Regulations section
+1.1471-5(g).
+Registered deemed-compliant FFI (RDC FFI). An
+RDC FFI is an FFI described in Regulations section
+1.1471-5(f)(1), and includes a Reporting Model 1 FFI, a QI
+branch of a U.S. financial institution that is a Reporting
+Model 1 FFI, and a nonreporting foreign intermediary (FI)
+treated as an RDC FFI under a Model 2 IGA.
+Reporting Model 1 FFI. A Reporting Model 1 FFI is an
+FI, including a foreign branch of a U.S. financial institution,
+treated as a reporting financial institution under a Model 1
+IGA.
+Reporting Model 2 FFI. A Reporting Model 2 FFI is
+an FI or branch of an FI treated as a reporting financial
+institution under a Model 2 IGA.
+Specified U.S. person. A specified U.S. person is any
+U.S. person described in Regulations section 1.1473-1(c).
+Sponsored FFI. A Sponsored FFI is an FFI that is an
+investment entity, a controlled foreign corporation (CFC),
+or a closely held investment vehicle that has a Sponsoring
+Entity that performs certain due diligence, withholding,
+and reporting obligations on behalf of the Sponsored FFI.
+Sponsoring Entity. A Sponsoring Entity is an entity
+that has registered with the IRS to perform the due
+diligence, withholding, and reporting obligations of one or
+more Sponsored FFIs or Sponsored Direct Reporting
+NFFEs.
+U.S. account. A U.S. account is any account held by
+one or more specified U.S. persons. A U.S. account also
+includes any account held by a passive NFFE that has
+one or more substantial U.S. owners, or in the case of a
+Reporting Model 2 FFI, any account held by a passive
+NFFE that has one or more controlling persons that are
+specified U.S. persons. See Regulations section
+1.1471-5(a) and an applicable Model 2 IGA.
+
+B. Other Information Returns
+
+The income information you report on the following forms
+must not be repeated on Forms 1099 or W-2G.
+• Form W-2, reporting wages and other employee
+compensation.
+• Forms 1042-S and 1000, reporting income to foreign
+persons.
+• Form 2439, reporting undistributed long-term capital
+gains of a regulated investment company (RIC) or real
+estate investment trust (REIT).
+• Schedule K-1 or K-3 (Form 1065), reporting distributive
+shares to members of a partnership.
+6
+
+• Schedule K-1 (Form 1041), reporting distributions to
+beneficiaries of trusts or estates.
+• Schedule K-1 or K-3 (Form 1120-S), reporting
+distributive shares to shareholders of S corporations.
+• Schedule K of Form 1120-IC-DISC, reporting actual and
+constructive distributions to shareholders and deferred
+DISC income.
+• Schedule Q (Form 1066), reporting income from a real
+estate mortgage investment conduit (REMIC) to a residual
+interest holder.
+
+C. When To File
+
+Except as indicated below, file Forms 1097, 1098, 1099,
+3921, 3922, or W-2G on paper by March 2, 2026, or
+March 31, 2026, if e-filing. File Forms 5498, 5498-ESA,
+5498-QA, and 5498-SA by June 1, 2026. Form 1096 must
+accompany all paper submissions. See part E for paper
+and part F for e-file requirements.
+
+!
+
+The following are exceptions to the filing deadlines
+shown above.
+
+CAUTION
+
+• File and furnish a copy of Form 1099-NEC on paper or
+electronically by February 2, 2026.
+• Form 1099-SB is generally due by March 2, 2026, or
+March 31, 2026, if e-filing, but see Regulations section
+1.6050Y-3(c) for a special exception.
+You will meet the requirement to file timely if the form is
+properly addressed, postmarked, and mailed using the
+official mail of the United States, or a private delivery
+service (PDS) designated by the IRS on or before the due
+date. If the regular due date falls on a Saturday, Sunday, or
+legal holiday in the District of Columbia or where the return
+is to be filed, file by the next business day. A business day
+is any day that is not a Saturday, Sunday, or legal holiday
+in the District of Columbia or where the return is to be
+filed. See part M about providing Forms 1097, 1098, 1099,
+3921, 3922, 5498, and W-2G or statements to recipients.
+See section 11 of Pub. 15 for a list of legal holidays.
+Private delivery services (PDSs). You can use certain
+PDSs designated by the IRS to meet the “timely mailing as
+timely filing” rule for information returns. Go to
+IRS.gov/PDS for the current list of designated PDSs.
+The PDS can tell you how to get written proof of the
+mailing date.
+For the IRS mailing address to use if you’re using a
+PDS, go to IRS.gov/PDSstreetAddresses and select the
+address that corresponds with the city of the address
+where you would otherwise mail your information returns
+under D. Where To File, later.
+PDSs can't deliver items to P.O. boxes. You must
+use the U.S. Postal Service to mail any item to an
+CAUTION IRS P.O. box address. Go to IRS.gov/
+PDSstreetAddresses for the street addresses to be used
+by PDSs.
+
+!
+
+Reporting period. Forms 1097, 1098, 1099, 3921, 3922,
+and W-2G are used to report amounts received, paid,
+credited, donated, transferred, or canceled (in the case of
+Form 1099-C) during the calendar year. Forms 5498,
+5498-ESA, 5498-QA, and 5498-SA are used to report
+Gen. Instr. for Certain Info. Returns (2025)
+
+amounts contributed and the fair market value (FMV) of an
+account for the calendar year.
+Extension of time to file. You can get an automatic
+30-day extension of time to file by completing Form 8809.
+The form may be submitted on paper, or through the FIRE
+System either as a fill-in form or an electronic file. A
+signature or explanation may be required for the
+extension. However, you must file Form 8809 by the due
+date of the returns in order to get the 30-day extension.
+Under certain hardship conditions, you may apply for an
+additional 30-day extension. See Form 8809 for more
+information.
+
+!
+
+For Forms W-2 and 1099-NEC, no automatic
+extension is available. See Form 8809.
+
+!
+
+For tax year 2025, requests for extensions of time
+to file Form 5498-QA may be filed on paper only.
+
+CAUTION
+
+CAUTION
+
+How to apply. As soon as you know that a 30-day
+extension of time to file is needed, file Form 8809.
+• Follow the instructions on Form 8809 and mail it to the
+address listed in the instructions on the form. See the
+instructions for Form 8809 for more information.
+• You can submit the extension request online through
+the FIRE System. You are encouraged to submit requests
+using the online fillable form. See Part B in Pub. 1220 for
+more information on filing online or e-filing.
+Extension for statements to recipients. For
+information on requesting an extension of time to furnish
+statements to recipients, see Extension of time to furnish
+statements to recipients, later, under part M.
+
+D. Where To File
+
+!
+
+Use the 3-line address for your state for mailing
+information returns.
+
+CAUTION
+
+Send all information returns filed on paper to the
+following.
+
+If your principal business,
+office or agency, or legal
+residence in the case of an
+individual, is located in:
+
+Use the following address:
+
+Alabama, Arizona, Arkansas,
+Delaware, Florida, Georgia,
+Kentucky, Maine,
+Massachusetts, Mississippi,
+New Hampshire, New Jersey,
+New Mexico, New York, North
+Carolina, Ohio, Texas, Vermont,
+Virginia
+
+Internal Revenue Service
+Austin Submission Processing
+Center
+P.O. Box 149213
+Austin, TX 78714
+
+Alaska, Colorado, Hawaii,
+Idaho, Illinois, Indiana, Iowa,
+Kansas, Michigan, Minnesota,
+Missouri, Montana, Nebraska,
+Nevada, North Dakota,
+Oklahoma, Oregon, South
+Carolina, South Dakota,
+Tennessee, Utah, Washington,
+Wisconsin, Wyoming
+
+Department of the Treasury
+IRS Submission Processing
+Center
+P.O. Box 219256
+Kansas City, MO 64121-9256
+
+California, Connecticut, District
+of Columbia, Louisiana,
+Maryland, Pennsylvania, Rhode
+Island, West Virginia
+
+Department of the Treasury
+IRS Submission Processing
+Center
+1973 North Rulon White Blvd.
+Ogden, UT 84201
+
+If your legal residence or principal place of business, or
+principal office or agency, is outside the United States,
+use the following address.
+Internal Revenue Service
+Austin Submission Processing Center
+P.O. Box 149213
+Austin, TX 78714
+State and local tax departments. Contact the
+applicable state and local tax department as necessary
+for reporting requirements and where to file.
+
+E. Filing Returns With the IRS
+
+The IRS strongly encourages the quality review of data
+before filing to prevent erroneous notices from being
+mailed to payees (or others for whom information is being
+reported).
+Generally, you are not required to report payments
+
+TIP smaller than the minimum described for a form;
+
+however, you may prefer, for economy and your
+own convenience, to file Copies A for all payments. The
+IRS encourages this.
+If you must file any Form 1097, 1098, 1099, 3921,
+3922, 5498, or W-2G with the IRS and you are filing paper
+forms, you must send a Form 1096 with each type of form
+as the transmittal document. You must group the forms by
+form number and submit each group with a separate Form
+1096. For example, if you file Forms 1098, 1099-A, and
+1099-MISC, complete one Form 1096 to transmit Forms
+1098, another for Forms 1099-A, and a third for Forms
+1099-MISC. Specific instructions for completing Form
+1096 are included on the form. Also, see Transmitters,
+Gen. Instr. for Certain Info. Returns (2025)
+
+7
+
+paying agents, etc., later. For information about filing
+corrected paper returns, see part H.
+Because the IRS processes paper forms by
+machine (optical character recognition
+CAUTION equipment), you cannot file Form 1096 or Copy A
+of Forms 1098, 1099, 3921, or 5498 that you print from the
+IRS website. But see Online fillable forms, later, for some
+forms that you can fill in and print from the IRS website.
+Additionally, you can still use Copy B of online forms to
+provide recipient statements, even if you can’t file the
+online forms with the IRS.
+
+!
+
+You can order information returns and instructions
+online at IRS.gov/OrderForms, or you can mail an order to
+the address in part T.
+See Pub. 1179 for specifications for private printing of
+substitute information returns. You may not request
+special consideration. Only forms that conform to the
+official form and the specifications in Pub. 1179 are
+acceptable for filing with the IRS.
+Online fillable forms. Due to the very low volume of
+paper Forms 1097-BTC, 1098-C, 1098-MA, 1098-Q,
+1099-CAP, 1099-LTC, 1099-Q, 1099-QA, 1099-SA, 3922,
+5498-ESA, 5498-QA, and 5498-SA received and
+processed by the IRS each year, these forms have been
+converted to online fillable PDFs. You may fill out these
+forms, found online at IRS.gov/FormsPubs, and send
+Copy B to each recipient. For filing with the IRS, follow
+your usual procedures for e-filing if you are filing 10 or
+more information returns. If you are filing any of these
+forms on paper due to a low volume of recipients, for
+these forms only, you may file a black-and-white Copy A
+that you print from the IRS website with Form 1096. See
+part G for paper document reporting. You must not use
+these online fillable forms if you are required to e-file.
+Transmitters, paying agents, etc. A transmitter, service
+bureau, paying agent, or disbursing agent (hereafter
+referred to as “agent”) may sign Form 1096 on behalf of
+any person required to file (hereafter referred to as
+“payer”) if the conditions in (1) and (2) below are met.
+1. The agent has the authority to sign the form under
+an agency agreement (oral, written, or implied) that is
+valid under state law.
+2. The agent signs the form and adds the caption “For:
+(Name of payer).”
+Signing of the form by an authorized agent on behalf of
+the payer does not relieve the payer of the liability for
+penalties for not filing a correct, complete, and timely
+Form 1096 and accompanying returns.
+Forms 1097, 1098, 1099, 3921, 3922, 5498, and
+W-2G, or acceptable substitute statements, to recipients
+issued by a service bureau or agent should show the
+same payer's name as shown on the information returns
+filed with the IRS.
+For information about the election to report and deposit
+backup withholding under the agent's TIN and how to
+prepare forms if the election is made, see Rev. Proc.
+84-33, 1984-1 C.B. 502, and the Instructions for Form 945.
+
+reconstruct the data, for at least 3 years (4 years for Form
+1099-C) from the due date of the returns. Keep copies of
+information returns for 4 years if backup withholding was
+imposed.
+Shipping and mailing. Send the forms to the IRS in a
+flat mailer (not folded). If you are sending many forms, you
+may send them in conveniently sized packages. On each
+package, write your name, number the packages
+consecutively, and place Form 1096 in package number 1.
+Postal regulations require forms and packages to be sent
+by First-Class Mail.
+
+F. Electronic Reporting
+
+E-file is available, and may be required, for filing all
+information returns discussed in these instructions, other
+than Form 5498-QA (see Who must e-file, later). Different
+types of payments, such as interest, dividends, and rents,
+may be reported in the same submission.
+You can e-file Forms 1097, 1098, 1099,
+3921, 3922, 5498, and W-2G, except
+Forms 1099-DA and 5498-QA,
+through the FIRE System; however, you must have
+software that can produce a file in the proper format
+according to Pub. 1220. Pub. 1220 provides the
+procedures for reporting electronically and is updated
+annually. Pub. 1220 is available at IRS.gov. The FIRE
+System does not provide a fill-in form option for
+information return reporting. The FIRE System operates
+24 hours a day, 7 days a week. You may access the FIRE
+System online at FIRE.IRS.gov. Forms 1099 may also be
+e-filed using IRIS, described later, without special
+software.
+Form 1099-DA may not be filed through the FIRE
+System and must be electronically filed through
+CAUTION IRIS.
+
+!
+!
+
+Form 5498-QA can only be filed on paper.
+
+CAUTION
+
+Information Reporting Intake System (IRIS). The IRS
+has developed a free online portal that allows taxpayers to
+e-file Forms 1099 after December 31, 2022, for 2022 and
+later returns. Users should follow the specifications in Pub.
+5717, IRIS Taxpayer Portal User Guide. Go to IRS.gov/
+IRIS for additional information and updates.
+Due dates. E-file Forms 1097, most Forms 1098, and
+most Forms 1099, 3921, 3922, or W-2G by March 31,
+2026. File Forms 5498, 5498-ESA, 5498-QA, or 5498-SA
+by June 1, 2026. See part M about furnishing Forms 1097,
+1098, 1099, 3921, 3922, 5498, and W-2G, or statements,
+to recipients.
+
+!
+
+File Form 1099-NEC by February 2, 2026.
+
+CAUTION
+
+How to request an extension of time to file. For
+information about requesting an extension of time to file,
+see Extension of time to file, earlier, under part C.
+
+Keeping copies. Generally, keep copies of information
+returns you filed with the IRS, or have the ability to
+8
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+!
+
+If you e-file, do not file the same returns on paper.
+
+CAUTION
+
+Who must e-file. If you are required to file 10 or more
+information returns during the year, you must e-file. The
+10-or-more requirement does not apply separately to
+each type of form. For example, if you must file four Forms
+1098 and six Forms 1099-A, you must e-file.
+The e-file requirement does not apply if you apply for
+and receive a hardship waiver. See How to request a
+waiver from e-filing, later.
+If you are required to e-file but fail to do so, and
+you do not have an approved waiver, you may be
+CAUTION subject to a penalty.
+
+!
+
+The IRS encourages you to e-file.
+
+TIP
+Filing requirement does not apply separately to originals and corrections. The e-filing requirement does not
+apply separately to original returns and corrected returns.
+If your original information returns are required to be
+e-filed, any corrected information return must also be
+e-filed. For example, if you e-file five Forms 1098 and five
+Forms 1099-DIV and you are making four corrections,
+your corrections must also be e-filed.
+For electronic corrections in the FIRE system, see Pub.
+1220. For electronic corrections in the IRIS Application to
+Application system, see Pub. 5718. For electronic
+corrections in the IRIS Portal system, see Pub. 5717.
+How to report incorrect payer name and/or TIN. If a
+payer discovers an error in reporting the payer (not
+recipient) name and/or TIN, write a letter containing the
+following information.
+1. Name and address of the payer.
+2. Type of error (including the incorrect payer
+name/TIN that was reported).
+3. Tax year.
+4. Payer TIN.
+5. Transmitter Control Code (TCC).
+6. Type of return.
+7. Number of payees.
+8. Filing method (paper or electronic).
+9. Was federal income tax withheld?
+Send the letter to:
+Internal Revenue Service
+Information Returns Branch
+230 Murall Drive, Mail Stop 4360
+Kearneysville, WV 25430
+If a payer realizes duplicate reporting or a large
+percentage of incorrect information has been filed,
+CAUTION contact the information reporting customer service
+site at 866-455-7438 for further instructions.
+
+!
+
+How to get approval to e-file. You will need to apply for
+a Transmitter Control Code (TCC) to e-file information
+Gen. Instr. for Certain Info. Returns (2025)
+
+returns. You can e-file Forms 1099 using IRIS and/or
+FIRE. A separate TCC is required for each system,
+IRIS-TCC and/or FIRE-TCC. An IRIS-TCC will not work for
+FIRE and vice versa. An EIN is required to apply for a
+TCC. As the TCC application process may take up to 45
+days to process, you should apply before the filing
+season. Once you receive your TCC, it can be used from
+year to year. See IRS.gov/InfoReturn for more information.
+Form 4419 will no longer be accepted to update
+information for those that received their TCC
+CAUTION before September 26, 2021. See IRS.gov/FIRE for
+more information.
+
+!
+
+How to request a waiver from e-filing. To receive a
+waiver from the required e-filing of information returns,
+submit Form 8508 at least 45 days before the due date of
+the returns for which you are requesting a waiver. You
+cannot apply for a waiver for more than 1 tax year at a
+time. If you need a waiver for more than 1 tax year, you
+must reapply at the appropriate time each year.
+If a waiver for original returns is approved, any
+corrections for the same types of returns will be covered
+under the waiver. However, if you e-filed original returns
+but you want to submit your corrections on paper, a waiver
+must be approved for the corrections.
+If you receive an approved waiver, do not send a copy
+of it to the IRS Submission Processing Center where you
+file your paper returns. Keep the waiver for your records
+only.
+Penalty. If you are required to e-file but fail to do so, and
+you do not have an approved waiver, you may be subject
+to a penalty for failure to file electronically unless you
+establish reasonable cause. For most of the information
+returns discussed in these instructions, the maximum
+penalty is $340 per return. However, the penalty for a
+failure to file electronically applies only to the number of
+returns that exceeds 10. See part O.
+The penalty does not apply separately to original
+returns and corrected returns. See Filing requirement
+does not apply separately to originals and corrections,
+earlier.
+
+G. Paper Document Reporting
+
+If you are not required to electronically file as described in
+part F, then follow these guidelines.
+1. Although handwritten forms are acceptable, they
+must be completely legible and accurate to avoid
+processing errors. Handwritten forms often result in
+name/TIN mismatches. Use block print, not script
+characters. If you have a small number of forms, consider
+contacting an IRS business partner who may be able to
+prepare them with little or no cost to you. See (5) below for
+details. Type entries using black ink in 12-point Courier
+font. Copy A is read by machine and must be typed clearly
+using no corrections in the data entry fields. Data must be
+printed in the middle of the blocks, well separated from
+other printing and guidelines. Entries completed by hand,
+or using script, italic, or proportional spaced fonts, or in
+colors other than black, cannot be read correctly by
+machine. Make all dollar entries without the dollar sign,
+but include the decimal point (for example, 00000.00).
+9
+
+Show the cents portion of the money amounts. If a box
+does not apply, leave it blank.
+2. Do not enter 0 (zero) or “None” in money amount
+boxes when no entry is required. Leave the boxes blank
+unless the instructions specifically require that you enter a
+0 (zero). For example, in some cases, you must enter 0
+(zero) to make corrections. See Do not enter 0 (zero) or
+“None” in money amount boxes when no entry is required.
+Leave the boxes blank unless the instructions specifically
+require that you enter a 0 (zero). For example, in some
+cases, you must enter 0 (zero) to make corrections. See
+part H.
+3. Do not enter number signs (#)—RT 2, not Rt. #2.
+4. Send the entire page of Copy A of your information
+returns with Form 1096 to the IRS even if some of the
+forms are blank or void. Do not use staples on any forms.
+5. To locate an IRS business partner who may be able
+to offer low-cost or even free filing of certain forms, enter
+“e-file for Business Partners” in the search box on
+IRS.gov.
+Multiple filings. If, after you file Forms 1097, 1098,
+1099, 3921, 3922, 5498, or W-2G, you discover additional
+forms that are required to be filed, file these forms with a
+new Form 1096. Do not include copies or information from
+previously filed returns.
+Required format. Because paper forms are scanned, all
+Forms 1096 and Copies A of Forms 1097, 1098, 1099,
+3921, 3922, and 5498 must be prepared in accordance
+with the following instructions. If these instructions are not
+followed, you may be subject to a penalty for each
+incorrectly filed document. See part O.
+1. Do not cut or separate Copies A of the forms that
+are printed two or three to a sheet (except Form W-2G).
+Generally, Forms 1097, 1098, 1099, 3921, 3922, and
+5498 are printed two or three to an 81/2 x 11 inch sheet.
+Form 1096 is printed one to an 81/2 x 11 inch sheet. These
+forms must be submitted to the IRS on the 81/2 x 11 inch
+sheet. If at least one form on the page is correctly
+completed, you must submit the entire page. Forms W-2G
+may be separated and submitted as single forms. Send
+the forms to the IRS in a flat mailer (not folded).
+2. Forms 1098, 1098-MA, 1099-A, 1099-C, 1099-CAP,
+1099-G, 1099-H, 1099-INT, 1099-K, 1099-LTC,
+1099-PATR, 1099-QA, 1099-S, 1099-SA, 5498-ESA,
+5498-QA, and 5498-SA that you print from IRS.gov will
+print 1-to-a-page on 81/2 x 11 inch paper. Do not cut off the
+excess paper, unless you are using a pinfeed printer. If so,
+remove the pinfeed strip.
+3. No photocopies of any forms are acceptable. See
+How To Get Forms, Publications, and Other Assistance,
+later.
+4. Do not staple, tear, or tape any of these forms. It will
+interfere with the IRS's ability to scan the documents.
+5. Pinfeed holes on the form are not acceptable.
+Pinfeed strips outside the 81/2 x 11 inch area must be
+removed before submission, without tearing or ripping the
+form. Substitute forms prepared in continuous or strip form
+must be burst and stripped to conform to the size
+specified for a single sheet (81/2 x 11 inches) before they
+are filed with the IRS.
+10
+
+6. Do not change the title of any box on any form. Do
+not use a form to report information that is not properly
+reportable on that form. If you are unsure of where to
+report the data, call the information reporting customer
+service site at 866-455-7438 (toll free).
+7. Report information only in the appropriate boxes
+provided on the forms. Make only one entry in each box
+unless otherwise indicated in the form's specific
+instructions.
+8. Do not submit any copy other than Copy A to the
+IRS.
+9. Do not use prior year forms unless you are reporting
+prior year information. Do not use subsequent year forms
+for the current year. Because forms are scanned, you
+must use the current year form to report current year
+information.
+10. Use the official forms or substitute forms that meet
+the specifications in Pub. 1179. If you submit substitute
+forms that do not meet the current specifications and that
+are not scannable, you may be subject to a penalty for
+each return for improper format. See part O.
+11. Do not use dollar signs ($) (they are preprinted on
+the forms), ampersands (&), asterisks (*), commas (,), or
+other special characters in money amount boxes.
+12. Do not use apostrophes (‘), asterisks (*), or other
+special characters on the payee name line.
+Common errors. Be sure to check your returns to
+prevent the following common errors.
+1. Duplicate filing. Do not send the same information
+to the IRS more than once. Also see Multiple filings,
+earlier.
+2. Filer's name, address, and TIN are not the same on
+Form 1096 and the attached Forms 1097, 1098, 1099,
+3921, 3922, 5498, or W-2G.
+3. Decimal point to show dollars and cents omitted.
+For example, 1230.00 is correct, not 1230.
+4. Two or more types of returns submitted with one
+Form 1096 (for example, Forms 1099-INT and 1099-MISC
+with one Form 1096). You must submit a separate Form
+1096 with each type of return.
+
+H. Corrected Returns on Paper Forms
+
+!
+
+To file corrections for e-filed forms, see part F and
+Pub. 1220.
+
+CAUTION
+
+If you filed a paper return with the IRS and later
+discover you made an error on it, you must:
+• Correct it as soon as possible and file Copy A and Form
+1096 with your IRS Submission Processing Center (see
+part D), and
+• Furnish statements to recipients showing the correction.
+When making a correction, complete all information
+(see Filing corrected returns on paper forms, later).
+• Do not cut or separate forms that are two or three to a
+page. Submit the entire page even if only one of the forms
+on the page is completed.
+• Do not staple the forms to Form 1096.
+Gen. Instr. for Certain Info. Returns (2025)
+
+• Do not send corrected returns to the IRS if you are
+correcting state or local information only. Contact the state
+or local tax department for help with this type of
+correction.
+To correct payer information, see Reporting incorrect
+payer name and/or TIN, earlier.
+
+separate the forms that are two or three to a page. Submit
+the entire page even if only one of the forms on the page is
+a good return.
+
+Form 1096. Use a separate Form 1096 for each type of
+return you are correcting. For the same type of return, you
+may use one Form 1096 for both originals and corrections.
+You do not need to correct a previously filed Form 1096.
+CORRECTED checkbox. Enter an “X” in the
+“CORRECTED” checkbox only when correcting a form
+previously filed with the IRS or furnished to the recipient.
+Certain errors require two returns to make the correction.
+See Filing corrected returns on paper forms, later, to
+determine when to check the “CORRECTED” checkbox.
+Account number. If the account number was provided
+on the original return, the same account number must be
+included on both the original and corrected returns to
+properly identify and process the correction. If the account
+number was not provided on the original return, do not
+include it on the corrected return. See part L.
+Recipient's statement. You may enter a date next to the
+“CORRECTED” checkbox. This will help the recipient in
+the case of multiple corrections.
+Filing corrected returns on paper forms. The Error
+Charts for Filing Corrected Returns on Paper Forms, later,
+give step-by-step instructions for filing corrected returns
+for the most frequently made errors. They are grouped
+under Error Type 1 or 2. Correction of errors may require
+the submission of more than one return. Be sure to read
+and follow the steps given.
+If you fail to file correct information returns or
+furnish a correct payee statement, you may be
+CAUTION subject to a penalty. See part O. Regulations
+section 301.6724-1 (relating to information return
+penalties) does not require you to file corrected returns for
+missing or incorrect TINs if you meet the
+reasonable-cause criteria. You are merely required to
+include the correct TIN on the next original return you are
+required to file.
+
+!
+
+However, even if you meet the reasonable-cause criteria,
+the IRS encourages you to file corrections for incorrect or
+missing TINs so that the IRS can update the payees'
+records.
+
+I. Void Returns
+
+An “X” in the “VOID” box at the top of the form will not
+correct a previously filed return. See part H for instructions
+for making corrections.
+
+VOID box. If a completed or partially completed Form
+1097, 1098, 1099, 3921, 3922, or 5498 is incorrect and
+you want to void it before submission to the IRS, enter an
+“X” in the “VOID” box at the top of the form. For example, if
+you make an error while typing or printing a form, you
+should void it. The return will then be disregarded during
+processing by the IRS. Go to the next form on the page, or
+to another page, and enter the correct information; but do
+not check the “CORRECTED” checkbox. Do not cut or
+Gen. Instr. for Certain Info. Returns (2025)
+
+11
+
+Error Charts for Filing Corrected Returns on Paper Forms
+Identify the correction needed based on Error Type 1 or 2; then follow the steps to make the corrections and file the
+form(s). Also see part H, earlier.
+Error Type 1
+
+Correction
+
+Incorrect money amount(s), code, or
+checkbox
+
+A.
+
+Form 1097, 1098, 1099, 3921, 3922, 5498, or W-2G
+1. Prepare a new information return.
+2. Enter an “X” in the “CORRECTED” box (and date (optional)) at the top of the
+form.
+3. Correct any recipient information such as money amounts. Report other
+information as per the original return.
+
+A return was filed when one should
+not have been filed.
+
+B.
+
+Form 1096
+1. Prepare a new transmittal Form 1096.
+2. Provide all requested information on the form as it applies to Part A, 1 and 2.
+3. File Form 1096 and Copy A of the return with the appropriate IRS Submission
+Processing Center.
+4. Do not include a copy of the original return that was filed incorrectly.
+
+These errors require only one return to
+make the correction.
+Caution: If you must correct a TIN or a
+payee name, follow the instructions under
+Error Type 2.
+
+Error Type 2
+
+Correction
+
+No payee TIN (SSN, EIN, QI-EIN, or
+ITIN),
+or
+Incorrect payee TIN,
+or
+Incorrect payee name,
+or
+
+Step 1. Identify incorrect return
+submitted.
+
+1. Prepare a new information return.
+2. Enter an “X” in the “CORRECTED” box (and date
+(optional)) at the top of the form.
+3. Enter the payer, recipient, and account number
+information exactly as it appeared on the original incorrect
+return; however, enter -0- (zero) for all money amounts.
+
+Original return filed using wrong type
+of return (for example, a Form 1099-DIV
+was filed when a Form 1099-INT should
+have been filed).
+
+Step 2. Report correct information.
+
+A. Form 1097, 1098, 1099, 3921, 3922, 5498, or W-2G
+1. Prepare a new information return.
+2. Do not enter an “X” in the “CORRECTED” box at
+the top of the form. Prepare the new return as though it is
+an original.
+3. Include all the correct information on the form
+including the correct TIN and name.
+
+Two separate returns are required to
+make the correction properly. Follow all
+instructions for both Steps 1 and 2.
+
+B. Form 1096
+1. Prepare a new transmittal Form 1096.
+2. Enter one of the following phrases in the bottom
+margin of the form.
+• Filed To Correct TIN.
+• Filed To Correct Name.
+• Filed To Correct Return.
+3. Provide all requested information on the form as it
+applies to the returns prepared in Steps 1 and 2.
+4. File Form 1096 and Copy A of the return with the
+appropriate IRS Submission Processing Center.
+5. Do not include a copy of the original return that
+was filed incorrectly.
+
+12
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+J. Recipient Names and Taxpayer
+Identification Numbers (TINs)
+Recipient names. Show the full name and address in the
+section provided on the information return. If payments
+have been made to more than one recipient or the
+account is in more than one name, show on the first name
+line the name of the recipient whose TIN is first shown on
+the return. You may show the names of any other
+individual recipients in the area below the first line, if
+desired. Form W-2G filers, see the Instructions for Forms
+W-2G and 5754.
+Sole proprietors. You must show the individual's name
+on the first name line; on the second name line, you may
+enter the “doing business as (DBA)” name. You may not
+enter only the DBA name. For the TIN, enter either the
+individual's social security number (SSN) or the EIN of the
+business (sole proprietorship). The IRS prefers that you
+enter the SSN.
+Limited liability company (LLC). For a
+single-member LLC (including a foreign LLC with a U.S.
+owner) that is disregarded as an entity separate from its
+owner under Regulations section 301.7701-3, enter the
+owner's name only on the first name line and the LLC's
+name on the second name line. For the TIN, enter the
+owner's SSN (or EIN, if applicable). If the LLC is taxed as
+a corporation, partnership, etc., enter the entity's EIN.
+Bankruptcy estate. If an individual (the debtor) for
+whom you are required to file an information return is in
+chapter 11 bankruptcy, and the debtor notified you of the
+bankruptcy estate's EIN, report post-petition gross
+income, gross proceeds, or other reportable payments on
+the applicable information return using the estate's name
+and EIN. The debtor should notify you when the
+bankruptcy is closed, dismissed, or converted, so that any
+subsequent information returns will be filed with the
+correct name and EIN. Different rules apply if the
+bankruptcy is converted to chapter 7, 12, or 13 of the
+Bankruptcy Code. For additional guidance, see Notice
+2006-83, 2006-40 I.R.B. 596, available at IRS.gov/irb/
+2006-40_IRB#NOT-2006-83.
+TINs. TINs are used to associate and verify amounts you
+report to the IRS with corresponding amounts on tax
+returns. Therefore, it is important that you report correct
+names, SSNs, individual taxpayer identification numbers
+(ITINs), EINs, or adoption taxpayer identification numbers
+(ATINs) for recipients on the forms sent to the IRS.
+Only one recipient TIN can be entered on the
+
+TIP form.
+
+Requesting a recipient's TIN. If the recipient is a U.S.
+person (including a U.S. resident alien), the IRS suggests
+that you request the recipient complete Form W-9,
+Request for Taxpayer Identification Number and
+Certification; or Form W-9S, Request for Student's or
+Borrower's Taxpayer Identification Number and
+Certification, as appropriate. Form W-9 is required to be
+completed by recipients of certain types of payments (as
+provided in Regulations section 31.3406(d)-1). See the
+Instructions for the Requester of Form W-9 for more
+information on how to request a TIN.
+Gen. Instr. for Certain Info. Returns (2025)
+
+If the recipient is a foreign person, the IRS suggests
+that you request the recipient complete the appropriate
+Form W-8. See the Instructions for the Requester of
+Forms W-8BEN, W-8BEN-E, W-8ECI, W-8EXP, and
+W-8IMY.
+U.S. resident aliens who rely on a “saving clause”
+of a tax treaty are to complete Form W-9, not Form
+CAUTION W-8BEN. See Pub. 515 and Pub. 519.
+
+!
+
+You may be subject to a penalty for an incorrect or
+missing TIN on an information return. See part O for more
+information. You are required to maintain the
+confidentiality of information obtained on a Form W-9/
+W-9S relating to the taxpayer's identity (including SSNs,
+EINs, ITINs, and ATINs), and you may use such
+information only to comply with the tax laws.
+If the recipient does not provide a TIN, leave the
+
+TIP box for the recipient's TIN blank on the Form
+
+1097, 1098, 1099, 3921, 3922, 5498, or W-2G.
+Backup withholding may apply; see part N.
+If the recipient does not provide a TIN, you may
+not make the election described in Regulations
+CAUTION section 1.1471-4(d)(5)(i)(A) or (B) or report as
+described in Regulations section 1.1471-4(d)(2)(iii)(A).
+
+!
+
+The TIN for individual recipients of information returns
+is the SSN, ITIN, or ATIN. See Sole proprietors, earlier.
+For other recipients, including corporations, partnerships,
+and estates, the TIN is the EIN. Income reportable after
+the death of an individual must reflect the TIN of the
+payee, that is, of the estate or of the surviving joint owner.
+For more information, see Personal Representative in Pub.
+559. For LLCs, see Limited liability company (LLC),
+earlier.
+SSNs, ITINs, and ATINs have nine digits separated by
+two hyphens (000-00-0000), and EINs have nine digits
+separated by only one hyphen (00-0000000).
+Note. Make sure you include the hyphen(s) in the correct
+place(s) when completing the paper form(s).
+Expired ITINs may continue to be used for
+information return purposes regardless of whether
+CAUTION they have expired for individual income tax return
+filing purposes. Additionally, the third parties who file and
+furnish information returns with an expired payee ITIN will
+not be subject to information return penalties under
+section 6721 or 6722 solely because the ITIN is expired.
+See Notice 2016-48, 2016-33 I.R.B. 235, available at
+IRS.gov/irb/2016-33_IRB#NOT-2016-48.
+
+!
+
+Truncating payee’s TIN on payee statements. Filers
+of information returns are permitted to truncate a payee's
+TIN (SSN, ITIN, ATIN, or EIN) on most payee statements.
+The payee's TIN may not be truncated on Form W2-G.
+Where permitted, filers may truncate a payee's TIN on the
+payee statement (including substitute and composite
+substitute statements) furnished to the payee in paper
+form or electronically. Generally, the payee statement is
+that copy of an information return designated "Copy B" on
+the form. If a filer truncates a TIN on Copy B, other copies
+of the form furnished to the payee may also include a
+truncated number. A filer may not truncate a payee's TIN
+13
+
+on any forms the filer files with the IRS. A filer's TIN may
+not be truncated on any form. To truncate where allowed,
+replace the first five digits of the nine-digit number with
+asterisks (*) or Xs (for example, an SSN xxx-xx-xxxx
+would appear on the paper payee statement as ***-**-xxxx
+or XXX-XX-xxxx). See T.D. 9675, 2014-31 I.R.B. 242,
+available at IRS.gov/irb/2014-31_IRB#TD-9675.
+Electronic submission of Forms W-9. Requesters may
+establish a system for payees and payees' agents to
+submit Forms W-9 electronically, including by fax. A
+requester is anyone required to file an information return.
+A payee is anyone required to provide a TIN to the
+requester.
+Payee's agent. A payee's agent can be an investment
+adviser (corporation, partnership, or individual) or an
+introducing broker. An investment adviser must be
+registered with the Securities and Exchange Commission
+(SEC) under the Investment Advisers Act of 1940. The
+introducing broker is a broker-dealer that is regulated by
+the SEC and the National Association of Securities
+Dealers, Inc., and that is not a payer. Except for a broker
+who acts as a payee's agent for “readily tradable
+instruments,” the adviser or broker must show in writing to
+the payer that the payee authorized the adviser or broker
+to transmit the Form W-9 to the payer.
+Generally, the electronic system must do the following.
+1. Ensure the information received is the information
+sent and document all occasions of user access that
+result in the submission.
+2. Make reasonably certain the person accessing the
+system and submitting the form is the person identified on
+Form W-9.
+3. Provide the same information as the paper Form
+W-9.
+4. Be able to supply a hard copy of the electronic Form
+W-9 if the IRS requests it.
+5. Require as the final entry in the submission an
+electronic signature by the payee whose name is on Form
+W-9 that authenticates and verifies the submission. The
+electronic signature must be under penalties of perjury
+and the perjury statement must contain the language of
+the paper Form W-9.
+For Forms W-9 that are not required to be signed,
+
+TIP the electronic system need not provide for an
+electronic signature or a perjury statement.
+
+Additional requirements may apply. See
+Announcement 98-27, available on page 30 of Internal
+Revenue Bulletin 1998-15 at IRS.gov/pub/irs-irbs/
+irb98-15.pdf, and Announcement 2001-91, available on
+page 221 of Internal Revenue Bulletin 2001-36 at
+IRS.gov/pub/irs-irbs/irb01-36.pdf.
+Electronic submission of Forms W-9S. See the
+Instructions for Forms 1098-E and 1098-T.
+
+14
+
+K. Filer's Name, Taxpayer
+Identification Number (TIN), and
+Address
+
+The TIN for filers of information returns, including sole
+proprietors and nominees/middlemen, is the EIN.
+However, sole proprietors and nominees/middlemen who
+are not otherwise required to have EINs should use their
+SSNs. A sole proprietor is not required to have an EIN
+unless he or she has a Keogh plan or must file excise or
+employment tax returns (including to report backup
+withholding). See Pub. 583.
+If you are an FFI making the election described in
+
+TIP Regulations section 1.1471-4(d)(5)(i)(A) or (B),
+
+you are required to use an EIN and cannot, for
+purposes of filing a Form 1099, use your GIIN.
+
+The filer's name and TIN are required to match the
+name and TIN used on the filer's other tax returns
+CAUTION (such as Form 945 to report backup withholding).
+The name of the filer's paying agent or service bureau
+must not be used in place of the name of the filer.
+
+!
+
+For a single-member LLC (including a foreign LLC with
+a U.S. owner) that is disregarded as an entity separate
+from its owner under Regulations section 301.7701-3,
+enter the owner's name only on the first name line and the
+LLC's name on the second name line. For the TIN, enter
+the owner's SSN (or EIN, if applicable). If the LLC is taxed
+as a corporation, partnership, etc., enter the entity's EIN.
+If you don’t have an EIN, you may apply for one online
+by going to the IRS website at IRS.gov/EIN. You may also
+apply for an EIN by faxing or mailing Form SS-4 to the
+IRS. See the Instructions for Form SS-4 for more
+information.
+
+L. Account Number Box on Forms
+
+Use the account number or policy number box on Forms
+1097, 1098, 1099, 3921, 3922, and 5498 for an account
+number designation. The account number is required if
+you have multiple accounts for a recipient for whom you
+are filing more than one information return of the same
+type. The account number is also required if you are an
+FFI making the election described in Regulations section
+1.1471-4(d)(5)(i)(A) or (B) or are a U.S. payer reporting as
+described in Regulations section 1.1471-4(d)(2)(iii)(A).
+Additionally, the IRS encourages you to include the
+recipient's account number on paper forms if your system
+of records uses the account number rather than the name
+or TIN for identification purposes. Also, the IRS will
+include the account number in future notices to you about
+backup withholding. See Pub. 1220 if you are e-filing.
+The account number may be a checking account
+number, savings account number, brokerage account
+number, serial number, loan number, or policy number, or
+any other number you assign to the payee that is unique
+and will distinguish the specific account. This number
+must not appear anywhere else on the form, and this box
+may not be used for any other item unless the separate
+instructions indicate otherwise. Using unique account
+Gen. Instr. for Certain Info. Returns (2025)
+
+numbers ensures that corrected information returns will be
+processed accurately.
+If you are using window envelopes to mail statements
+to recipients and using reduced rate mail, be sure the
+account number does not appear in the window. The U.S.
+Postal Service may not accept these for reduced rate mail.
+
+M. Statements to Recipients
+(Beneficiaries, Borrowers, Debtors,
+Donors, Employees, Insureds,
+Participants, Payment or Credit
+Recipients, Payers, Policyholders,
+Sellers, Shareholders, Students,
+Transferors, or Winners on Certain
+Forms)
+
+If you are required to file Forms 1097, 1098, 1099, 3921,
+3922, 5498, or W-2G, you must also furnish statements to
+recipients containing the information furnished to the IRS
+and, in some cases, additional information. Be sure that
+the statements you provide to recipients are clear and
+legible.
+
+Substitute statements. If you are not using the official
+IRS form to furnish statements to recipients, see Pub.
+1179 for specific rules about providing “substitute”
+statements to recipients. Generally, a substitute is any
+statement other than Copy B of the official form. You may
+develop them yourself or buy them from a private printer.
+However, the substitutes must comply with the format and
+content requirements specified in Pub. 1179 that is
+available at IRS.gov/Pub1179.
+Telephone number. You are required to include the
+telephone number of a person to contact on the following
+statements to recipients: W-2G, 1097-BTC, 1098, 1098-C,
+1098-E, 1098-F, 1098-MA, 1098-Q, 1098-T, 1099-A,
+1099-B, 1099-C, 1099-CAP, 1099-DA, 1099-DIV, 1099-G
+(excluding state and local income tax refunds), 1099-INT,
+1099-K, 1099-LS, 1099-LTC, 1099-MISC (excluding
+fishing boat proceeds), 1099-NEC, 1099-OID, 1099-PATR,
+1099-Q, 1099-QA, 1099-R, 1099-S, 1099-SA, and
+1099-SB. You may include the telephone number in any
+conspicuous place on the statements. This number must
+provide direct access to an individual who can answer
+questions about the statement. Although not required, if
+you report on other Forms 1099 and 5498, or on Forms
+3921 and 3922, you are encouraged to furnish telephone
+numbers.
+Rules for furnishing statements. Different rules apply
+to furnishing statements to recipients depending on the
+type of payment (or other information) you are reporting
+and the form you are filing.
+If you are reporting a payment that includes
+
+TIP noncash property, show the FMV of the property
+at the time of payment.
+
+Report the type of payment information as described
+next for (a) Dividend, interest, and royalty payments; (b)
+Real estate transactions; and (c) Other information.
+Gen. Instr. for Certain Info. Returns (2025)
+
+Dividend, interest, and royalty payments. For
+payments of dividends under section 6042 (reported on
+Form 1099-DIV), patronage dividends under section 6044
+(reported on Form 1099-PATR), interest (including OID
+and tax-exempt interest) under section 6049 (reported on
+Form 1099-INT or 1099-OID), or royalties under section
+6050N (reported on Form 1099-MISC or 1099-S), you are
+required to furnish an official IRS Form 1099 or an
+acceptable substitute Form 1099 to a recipient either in
+person, by First-Class Mail to the recipient's last known
+address, or electronically (see Electronic recipient
+statements, later). Statements may be sent by intraoffice
+mail if you use intraoffice mail to send account information
+and other correspondence to the recipient.
+Statement mailing requirements for Forms
+1099-DIV, 1099-INT, 1099-OID, and 1099-PATR, and
+forms reporting royalties only. The following statement
+mailing requirements apply only to Forms 1099-DIV
+(except for section 404(k) dividends), 1099-INT (except
+for interest reportable in the course of your trade or
+business under section 6041), 1099-OID, 1099-PATR, and
+timber royalties reported under section 6050N (on Form
+1099-MISC or 1099-S). The mailing must contain the
+official IRS Form 1099 or an acceptable substitute and
+may also contain the following enclosures: (a) Form W-2,
+applicable Form W-8, Form W-9, or other Forms W-2G,
+1097, 1098, 1099, 3921, 3922, and 5498 statements; (b)
+a check from the account being reported; (c) a letter
+explaining why no check is enclosed; (d) a statement of
+the person's account shown on Forms 1097, 1098, 1099,
+3921, 3922, or 5498; and (e) a letter explaining the tax
+consequences of the information shown on the recipient
+statement.
+A statement of the person's account (year-end account
+summary) that you are permitted to enclose in a statement
+mailing may include information similar to the following: (a)
+the part of a mutual fund distribution that is interest on
+U.S. Treasury obligations, (b) accrued interest expense on
+the purchase of a debt obligation, and (c) the cost or other
+basis of securities and the gain/loss on the sale of
+securities.
+No additional enclosures, such as advertising,
+promotional material, or a quarterly or annual report, are
+permitted. Even a sentence or two on the year-end
+statement describing new services offered by the payer is
+not permitted. See section 1.3.2 of Pub. 1179.
+A recipient statement may be perforated to a check or
+to a statement of the recipient's specific account. The
+check or account statement to which the recipient
+statement is perforated must contain, in bold and
+conspicuous type, the legend “Important Tax Return
+Document Attached.”
+The legend “Important Tax Return Document Enclosed”
+must appear in a bold and conspicuous manner on the
+outside of the envelope and on each letter explaining why
+no check is enclosed, or on each check or account
+statement that is not perforated to the recipient statement.
+The legend is not required on any tax form, tax statement,
+or permitted letter of tax consequences included in a
+statement mailing. Further, you need not pluralize the
+word “document” in the legend simply because more than
+one recipient statement is enclosed.
+15
+
+If you provide Forms 1097, 1098, 1099, 3921,
+
+TIP 3922, 5498, or W-2G recipient statements in a
+
+“separate mailing” that contains only these
+statements, Forms W-8 and W-9, and a letter explaining
+the tax consequences of the information shown on a
+recipient statement included in the envelope, you are not
+required to include the legend “Important Tax Return
+Document Enclosed” on the envelope.
+Substitute forms. You may furnish to the recipient
+Copy B of the official IRS form, or you may use substitute
+Forms 1099-DA, 1099-DIV, 1099-INT, 1099-OID, or
+1099-PATR if they contain the same language as the
+official IRS forms and they comply with the rules in Pub.
+1179 relating to substitute Forms 1099. Applicable box
+titles and numbers must be clearly identified, using the
+same wording and numbering as the official IRS form. For
+information on substitute Forms 1099-MISC and
+1099-NEC, see Other information, later. For Form 1099-S,
+see Real estate transactions, later.
+All substitute statements to recipients must
+
+TIP contain the tax year, form number, and form name
+
+prominently displayed together in one area of the
+statement. For example, they could be shown in the upper
+right part of the statement.
+If you are using substitutes, the IRS encourages you to
+use boxes so that the substitute has the appearance of a
+form. The substitute form must contain the same
+applicable instructions as on the front and back of Copy B
+(in the case of Form 1099-R, Copies B, C, and 2) of the
+official IRS form. See Pub. 1179 for additional
+requirements and certain “composite” statements that are
+permitted.
+Real estate transactions. You must furnish a statement
+to the transferor containing the same information reported
+to the IRS on Form 1099-S. You may use Copy B of the
+official IRS Form 1099-S or a substitute form that complies
+with Pub. 1179 and Regulations section 1.6045-4(m). You
+may use a Settlement Statement (under the Real Estate
+Settlement Procedures Act (RESPA)) as the written
+statement if it is conformed by including on the statement
+the legend shown on Form 1099-S and by designating
+which information is reported to the IRS on Form 1099-S.
+You may furnish the statement to the transferor in person,
+by mail, or electronically. Furnish the statement at or after
+closing but by February 15 of the following year.
+The statement mailing requirements explained earlier
+do not apply to statements to transferors for proceeds
+from real estate transactions reported on Form 1099-S.
+However, the statement mailing requirements do apply to
+statements to transferors for timber royalties reportable
+under section 6050N on Form 1099-S.
+Other information. Statements to recipients for Forms
+1097-BTC, 1098, 1098-C, 1098-E, 1098-F, 1098-Q,
+1098-T, 1099-A, 1099-B, 1099-C, 1099-CAP, 1099-DA,
+1099-G, 1099-K, 1099-LS, 1099-LTC, 1099-MISC,
+1099-NEC, 1099-Q, 1099-QA, 1099-R, 1099-SA,
+1099-SB, 3921, 3922, 5498, 5498-ESA, 5498-QA,
+5498-SA, W-2G, 1099-DIV (only for section 404(k)
+dividends reportable under section 6047), 1099-INT (only
+for interest reportable in the course of your trade or
+16
+
+business under section 6041), or 1099-S (only for
+royalties) need not be, but can be, a copy of the official
+paper form filed with the IRS. If you do not use a copy of
+the paper form, the form number and title of your
+substitute must be the same as the official IRS form. All
+information required to be reported must be numbered
+and titled on your substitute in substantially the same
+manner as on the official IRS form. However, if you are
+reporting a payment as “Other income” in box 3 of Form
+1099-MISC, you may substitute appropriate explanatory
+language for the box title. For example, for payments of
+accrued wages to a beneficiary of a deceased employee
+required to be reported on Form 1099-MISC, you might
+change the title of box 3 to “Beneficiary payments” or
+something similar.
+Appropriate instructions to the recipient, similar to
+those on the official IRS form, must be provided to aid in
+the proper reporting of the items on the recipient's income
+tax return. For payments reported on Form 1099-B or
+1099-DA, rather than furnish appropriate instructions with
+each Form 1099-B or 1099-DA statement, you may furnish
+to the recipient one set of instructions for all statements
+required to be furnished to a recipient in a calendar year.
+Except for royalties reported on Form 1099-MISC or
+1099-S, the statement mailing requirements explained
+earlier do not apply to statements to recipients for
+information reported on the forms listed under Other
+information, earlier. You may combine the statements with
+other reports or financial or commercial notices, or expand
+them to include other information of interest to the
+recipient. Be sure that all copies of the forms are legible.
+See Pub. 1179 for certain “composite” statements that are
+permitted.
+When to furnish forms or statements. Generally, you
+must furnish Forms 1098, 1099, 3921, 3922, and W-2G
+information by February 2, 2026. Forms 1099-B, 1099-DA,
+1099-S, and 1099-MISC (if you are reporting payments in
+only box 8 or 10) must be furnished by February 17, 2026.
+Also, this applies to statements furnished as part of a
+consolidated reporting statement. See T.D. 9504, 2010-47
+I.R.B. 670, available at IRS.gov/irb/
+2010-47_IRB#TD-9504. However, you may issue them
+earlier in some situations, as provided by the regulations.
+For example, you may furnish Form 1099-INT to the
+recipient redeeming U.S. Savings Bonds at the time of
+redemption. Brokers and barter exchanges may furnish
+Form 1099-B or 1099-DA anytime but not later than
+February 17, 2026.
+Form 1099-SB must generally be furnished by February
+17, 2026. However, if notice of a transfer to a foreign
+person is not received until after February 2, 2026, the
+due date is 30 days after the date notice is received. See
+Regulations section 1.6050Y-3(d)(2). Form 1099-LS must
+be furnished to reportable policy sale payment recipients
+by February 17, 2026. See Regulations section
+1.6050Y-2(d)(1)(ii). Form 1099-LS must be furnished to
+issuers by January 15, 2026, at the latest, but must be
+furnished by the later of 20 calendar days after the
+reportable policy sale or 5 calendar days after the end of
+the applicable state law rescission period if the later date
+occurs before January 15, 2026. See Regulations section
+1.6050Y-2(d)(2)(ii).
+Gen. Instr. for Certain Info. Returns (2025)
+
+Furnish Form 1097-BTC to the recipient for each month
+in which a tax credit amount is allowable to the recipient
+on or before the 15th day of the 2nd calendar month after
+the close of the calendar quarter in which the credit is
+allowed. For more information, see the Instructions for
+Form 1097-BTC.
+Donee organizations required to issue Form 1098-C
+must furnish the acknowledgment to a donor within 30
+days of the sale of the vehicle (if it is sold without material
+improvements or significant intervening use) or within 30
+days of the contribution.
+Trustees or issuers of individual retirement
+arrangements (IRAs) must furnish Form 5498 to
+participants with a statement of the value of the
+participant's account, and required minimum distribution
+(RMD) and information on hard to value assets, if
+applicable, by February 2, 2026.
+Trustees of a SIMPLE IRA must furnish a statement of
+the account activity by February 2, 2026. Contribution
+information for all other types of IRAs must be furnished to
+the participant by June 1, 2026.
+Trustees and middlemen of a WHFIT must furnish the
+required statement by March 16, 2026.
+For real estate transactions, you may furnish Form
+1099-S to the transferor at closing or by mail on or before
+February 17, 2026.
+Filers of Forms 5498 or 5498-SA who furnish a
+statement of FMV of the account (and any other required
+information) to the participant by February 2, 2026, with no
+reportable contributions, including rollovers, made in
+2025, need not furnish another statement by June 1,
+2026, to the participant to report zero contributions. If
+another statement is not furnished to the participant, the
+statement of the FMV of the account must contain a
+legend designating which information is being filed with
+the IRS.
+Form 5498-ESA must be furnished to the beneficiary by
+April 30, 2026.
+Form 5498-QA must be furnished to the beneficiary by
+March 16, 2026.
+See the Guide to Information Returns, later, for the date
+other information returns are due to the recipient.
+If the statement is properly addressed and mailed, or,
+with respect to electronic recipient statements, posted to a
+website, on or before the due date, it will be deemed
+timely furnished. If the regular due date falls on a
+Saturday, Sunday, or legal holiday in the District of
+Columbia or where the return is to be filed, furnish by the
+next business day. A business day is any day that is not a
+Saturday, Sunday, or legal holiday in the District of
+Columbia or where the return is to be filed. See section 11
+of Pub. 15 for a list of legal holidays.
+Electronic recipient statements. If you are required to
+furnish a written statement (Copy B or an acceptable
+substitute) to a recipient, then you may generally furnish
+the statement electronically instead of on paper, but only if
+you meet the requirements discussed later in this section.
+This includes furnishing the statement to recipients of
+Forms 1097-BTC, 1098, 1098-E, 1098-F, 1098-Q, 1098-T,
+1099-A, 1099-B, 1099-C, 1099-CAP, 1099-DA, 1099-DIV,
+Gen. Instr. for Certain Info. Returns (2025)
+
+1099-G, 1099-H, 1099-INT, 1099-K, 1099-LS, 1099-LTC,
+1099-MISC, 1099-NEC, 1099-OID, 1099-PATR, 1099-Q,
+1099-QA, 1099-R, 1099-S, 1099-SA, 1099-SB, 3921,
+3922, 5498, 5498-ESA, 5498-QA, and 5498-SA. It also
+includes Form W-2G (except for horse and dog racing, jai
+alai, sweepstakes, wagering pools, and lotteries).
+
+!
+
+Until further guidance is issued to the contrary,
+Form 1098-C may not be furnished electronically.
+
+CAUTION
+
+If you meet the requirements that follow, you are treated
+as furnishing the statement.
+Consent. The recipient must consent in the affirmative
+and not have withdrawn the consent before the statement
+is furnished. The consent by the recipient must be made
+electronically in a way that shows that she or he can
+access the statement in the electronic format in which it
+will be furnished.
+You must notify the recipient of any hardware or
+software changes prior to furnishing the statement. A new
+consent to receive the statement electronically is required
+after the new hardware or software is put into service.
+Prior to furnishing the statements electronically, you
+must provide the recipient a statement with the following
+statements prominently displayed.
+• If the recipient does not consent to receive the
+statement electronically, a paper copy will be provided.
+• The scope and duration of the consent. For example,
+whether the consent applies to every year the statement is
+furnished or only for the statement for a particular year, as
+applicable, immediately following the date of the consent.
+• How to obtain a paper copy after giving consent.
+• How to withdraw the consent. The consent may be
+withdrawn at any time by furnishing the withdrawal in
+writing (electronically or on paper) to the person whose
+name appears on the statement. Also, confirmation of the
+withdrawal will be in writing (electronically or on paper).
+• Notice of termination. The notice must state under what
+conditions the statements will no longer be furnished to
+the recipient.
+• Procedures to update the recipient's information.
+• A description of the hardware and software required to
+access, print, and retain a statement, and a date the
+statement will no longer be available on the website.
+Format, posting, and notification. Additionally, you
+must do the following.
+• Ensure the electronic format contains all the required
+information and complies with the applicable revenue
+procedure for substitute statements to recipients in Pub.
+1179.
+• Post, on or before the due date, the applicable
+statement on a website accessible to the recipient through
+October 15 of that year.
+• Inform the recipient, electronically or by mail, of the
+posting and how to access and print the statement.
+For information regarding the electronic furnishing of
+Forms W-2, which the IRS generally applies to the forms
+addressed by these instructions, see Regulations section
+31.6051-1.
+For additional specific instructions on the electronic
+furnishing of:
+
+17
+
+• Forms 1098-E and 1098-T, see Regulations section
+1.6050S-2;
+• Forms 1099-R, 1099-SA, 1099-Q, 5498, 5498-ESA,
+and 5498-SA, see Notice 2004-10, 2004-6 I.R.B. 433,
+available at IRS.gov/irb/2004-06_IRB#NOT-2004-10;
+• Forms 3921 and 3922, see the form instructions;
+• Form 1099-K, see Regulations section 1.6050W-2(a)(2)
+(i); and
+• Forms 1099-QA and 5498-QA, see Regulations section
+1.529A-7, available at IRS.gov/irb/
+2020-50_IRB#TD-9923.
+Extension of time to furnish statements to recipients.
+Do not submit an extension request by mail.
+You may request an extension of time to furnish the
+statements to recipients by faxing Form 15397,
+Application for Extension of Time to Furnish Recipient
+Statements to:
+Internal Revenue Service Technical Services
+Operation
+Attn: Extension of Time Coordinator
+Fax: 877-477-0572 (International Fax: 304-579-4105)
+File Form 15397 as soon as you know an extension of
+time is needed but not before January 1st. Your request
+must be received no later than the date on which the
+statements are due to the recipients. If your request for an
+extension is approved, generally you will be granted a
+maximum of 30 extra days to furnish the recipient
+statements.
+
+N. Backup Withholding
+
+Interest (including tax-exempt interest and exempt-interest
+dividends), dividends, rents, royalties, commissions,
+nonemployee compensation, and certain other payments
+(including broker and barter exchange transactions,
+compensation paid to an H-2A visa holder who did not
+furnish a TIN, reportable gross proceeds paid to attorneys,
+gambling winnings, payment card and third party network
+transactions, and certain payments made by fishing boat
+operators) may be subject to backup withholding at a 24%
+rate. To be subject to backup withholding, a payment must
+be a reportable interest (including tax-exempt interest and
+exempt-interest dividends) or dividend payment under
+section 6049(a), 6042(a), or 6044 (if the patronage
+dividend is paid in money or qualified check), or an “other”
+reportable payment under section 6041, 6041A(a), 6045,
+6050A, 6050N, or 6050W. If the payment is one of these
+reportable payments, backup withholding will apply if:
+1. The payee fails to furnish his or her TIN to you;
+2. For interest, dividend, and broker and barter
+exchange accounts opened or instruments acquired after
+1983, the payee fails to certify, under penalties of perjury,
+that the TIN provided is correct;
+3. The IRS notifies you to impose backup withholding
+because the payee furnished an incorrect TIN;
+4. For interest and dividend accounts or instruments,
+you are notified that the payee is subject to backup
+withholding (under section 3406(a)(1)(C));
+5. For interest and dividend accounts opened or
+instruments acquired after 1983, the payee fails to certify
+18
+
+to you, under penalties of perjury, that he or she is not
+subject to backup withholding—see 4. Payee failure to
+certify that he or she is not subject to backup withholding
+under When to apply backup withholding, later; or
+6. The payment is also a withholdable payment under
+chapter 4 (sections 1471–1474) that is made to a
+recalcitrant account holder that is a U.S. nonexempt
+recipient, and you are a PFFI (including a Reporting Model
+2 FFI) that elects to withhold under section 3406 to satisfy
+your withholding obligation under Regulations section
+1.1471-4(b)(1). See Regulations section 1.1471-4(b)(3)
+(iii).
+If you do not collect and pay over backup
+withholding from affected payees as required, you
+CAUTION may become liable for any uncollected amount.
+
+!
+
+Some payees are exempt from backup withholding. For
+a list of exempt payees and other information, see Form
+W-9 and the separate Instructions for the Requester of
+Form W-9.
+Examples of payments to which backup withholding
+does not apply include but are not limited to the following.
+• Wages.
+• Distributions from a pension, an annuity, a profit-sharing
+or stock bonus plan, any IRA, an owner-employee plan, or
+other deferred compensation plan.
+• Distributions from a medical or health savings account
+(HSA) and long-term care benefits.
+• Certain surrenders of life insurance contracts.
+• Distributions from qualified tuition programs (QTPs) or
+Coverdell education savings accounts (ESAs).
+• Gambling winnings if regular gambling winnings
+withholding is required under section 3402(q). However, if
+regular gambling winnings withholding is not required
+under section 3402(q), backup withholding applies if the
+payee fails to furnish a TIN.
+• Real estate transactions reportable under section
+6045(e).
+• Canceled debts reportable under section 6050P.
+• Fish purchases for cash reportable under section
+6050R.
+• Reportable payments that are withholdable payments
+made to a recalcitrant account holder that is a U.S.
+nonexempt recipient from which you have withheld under
+chapter 4. See Regulations section 1.1474-6(f).
+When to apply backup withholding. Generally, the
+period for which the 24% should be withheld is as follows.
+1. Failure to furnish TIN in the manner required.
+Withhold on payments made until the TIN is furnished in
+the manner required. Special backup withholding rules
+may apply if the payee has applied for a TIN. The payee
+may certify to this on Form W-9 by noting “Applied For” in
+the TIN block and by signing the form. This form then
+becomes an “awaiting-TIN” certificate, and the payee has
+60 days to obtain a TIN and furnish it to you. If you do not
+receive a TIN from the payee within 60 days and you have
+not already begun backup withholding, begin backup
+withholding and continue until the TIN is provided.
+The 60-day exemption from backup withholding
+applies only to interest and dividend payments
+CAUTION and certain payments made with respect to readily
+tradable instruments. Therefore, any other payment, such
+
+!
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+as nonemployee compensation, is subject to backup
+withholding even if the payee has applied for and is
+awaiting a TIN. For information about whether backup
+withholding applies during the 60-day period, see
+Regulations section 31.3406(g)-3.
+2. Notice from the IRS that payee's TIN is incorrect.
+You may choose to withhold on any reportable payment
+made to the account(s) subject to backup withholding
+after receipt of an incorrect TIN notice from the IRS, but
+you must withhold on any reportable payment made to the
+account more than 30 business days after you received
+the notice. Stop withholding within 30 days after you
+receive a certified Form W-9 (or other form that requires
+the payee to certify the payee’s TIN).
+The IRS will furnish a notice to you that informs
+
+TIP you that you have filed an information return
+
+reporting on an incorrect name/TIN combination.
+You are then required to promptly furnish a “B” notice, or
+an acceptable substitute, to the payee. For further
+information, see Regulations section 31.3406(d)-5 and
+Pub. 1281, Backup Withholding for Missing and Incorrect
+Name/TIN(s).
+If you receive two incorrect TIN notices within 3 years for
+the same account, follow the procedures in Regulations
+section 31.3406(d)-5(g) and Pub. 1281.
+3. Notice from the IRS that payee is subject to
+backup withholding due to notified payee
+underreporting. You may choose to withhold on any
+reportable payment made to the account(s) subject to
+backup withholding after receipt of the notice, but you
+must withhold on any reportable payment made to the
+account more than 30 business days after you receive the
+notice. The IRS will notify you in writing when to stop
+withholding, or the payee may furnish you a written
+certification from the IRS stating when the withholding
+should stop. In most cases, the stop date will be January 1
+of the year following the year of the stop notice.
+You must notify the payee when withholding under
+
+TIP this procedure starts. For further information, see
+Regulations section 31.3406(c)-1(d).
+
+4. Payee failure to certify that he or she is not
+subject to backup withholding. Withhold on reportable
+interest and dividends until the certification has been
+received.
+For exceptions to these general timing rules, see
+section 3406(e).
+For special rules on backup withholding on
+
+TIP gambling winnings, see the separate Instructions
+for Forms W-2G and 5754.
+
+For information about transitional relief from
+
+1099-MISC, 1099-NEC, 1099-OID, or 1099-PATR even if
+the amount of the payment is less than the amount for
+which an information return is normally required.
+
+!
+
+The EIN of the filer of the forms listed above must
+be the EIN of the filer of Form 945.
+
+CAUTION
+
+Form 945. Report backup withholding, voluntary
+withholding on certain government payments, and
+withholding from gambling winnings, pensions, annuities,
+IRAs, military retirement, and Indian gaming profits on
+Form 945. Generally, file Form 945 for 2025 by February
+2, 2026. For more information, including the deposit
+requirements for Form 945, see the separate Instructions
+for Form 945, and Pub. 15.
+Do not report on Form 945 any income tax withholding
+reported on the following forms.
+• Form W-2, including withholding on distributions to plan
+participants from nonqualified plans that must be reported
+on Form 941, and may be reported on Form 943, Form
+944, or Schedule H (Form 1040).
+• Form 1042-S withholding must be reported on Form
+1042.
+Pub. 515 has more information on Form 1042
+
+TIP reporting, partnership withholding on effectively
+
+connected income, and dispositions of U.S. real
+property interests by a foreign person.
+Additional information. For more information about
+backup withholding, see Pub. 1281.
+
+O. Penalties
+
+The following penalties generally apply to the person
+required to file information returns. The penalties apply to
+paper filers as well as to electronic filers.
+For information on the penalty for failure to e-file,
+
+TIP see Penalty, earlier, in part F.
+
+Failure To File Correct Information Returns by
+the Due Date (Section 6721)
+
+If you fail to file a correct information return by the due
+date and you cannot show reasonable cause, you may be
+subject to a penalty. The penalty applies if you:
+• Fail to file timely,
+• Fail to include all information required to be shown on a
+return, or
+• Include incorrect information on a return.
+The penalty also applies if you:
+
+• File on paper when you were required to e-file,
+• Report an incorrect TIN,
+• Fail to report a TIN, or
+• Fail to file paper forms that are machine readable when
+
+TIP backup withholding for certain digital asset sales
+
+required by applicable revenue procedures.
+
+Reporting backup withholding. Report backup
+withholding on Form 945, Annual Return of Withheld
+Federal Income Tax. Also, report backup withholding and
+the amount of the payment on Forms W-2G, 1099-B,
+1099-DA, 1099-DIV, 1099-G, 1099-INT, 1099-K,
+
+The amount of the penalty is based on when you file
+the correct information return. The penalty is as follows.
+• $60 per information return if you correctly file within 30
+days after the due date; maximum penalty $683,000 per
+year ($239,000 for small businesses, defined below).
+• $130 per information return if you correctly file more
+than 30 days after the due date but by August 1; maximum
+
+effected in 2025, see Notice 2024-56 at
+IRS.gov/irb/2024-29_IRB#NOT-2024-56.
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+19
+
+penalty $2,049,000 per year ($683,000 for small
+businesses).
+• $340 per information return if you file after August 1 or
+you do not file required information returns; maximum
+penalty $4,098,500 per year ($1,366,000 for small
+businesses).
+If you do not file corrections and you do not meet
+any of the exceptions to the penalty described
+CAUTION later, the penalty is $340 per information return.
+
+!
+
+Small businesses—lower maximum penalties. You
+are a small business if your average annual gross receipts
+for the 3 most recent tax years (or for the period you were
+in existence, if shorter) ending before the calendar year in
+which the information returns were due are $5 million or
+less.
+Exceptions to the penalty. The following are exceptions
+to the failure-to-file penalty.
+1. The penalty will not apply to any failure that you can
+show was due to reasonable cause and not to willful
+neglect. In general, you must be able to show that your
+failure was due to an event beyond your control or due to
+significant mitigating factors. You must also be able to
+show that you acted in a responsible manner, both before
+and after the failure occurred, and took steps to avoid the
+failure.
+2. An inconsequential error or omission is not
+considered a failure to include correct information. An
+inconsequential error or omission does not prevent or
+hinder the IRS from processing the return, from correlating
+the information required to be shown on the return with the
+information shown on the payee's tax return, or from
+otherwise putting the return to its intended use. Errors and
+omissions that are never inconsequential are those related
+to (a) a TIN; (b) a payee's surname; and (c) any money
+amount except as provided, later, with respect to the safe
+harbor for de minimis dollar amount errors.
+3. De minimis rule for corrections. Even though you
+cannot show reasonable cause, the penalty for failure to
+file correct information returns will not apply to a certain
+number of returns if you:
+a. Filed those information returns timely,
+b. Either failed to include all the information required
+on a return or included incorrect information, and
+c. Filed corrections by August 1.
+If you meet all the conditions in (a), (b), and (c) above,
+the penalty for filing incorrect returns will not apply to the
+greater of 10 information returns or 1/2 of 1% (0.005) of the
+total number of information returns you are required to file
+for the calendar year.
+4. Safe harbor for de minimis dollar amount errors.
+See Safe Harbor for De Minimis Dollar Amount Errors on
+Information Returns and Payee Statements Under
+Sections 6721 and 6722, later.
+Intentional disregard of filing requirements. If any
+failure to file a correct information return is due to
+intentional disregard of the filing or correct information
+requirements, the penalty is at least $680 per information
+return with no maximum penalty.
+20
+
+Failure To Furnish Correct Payee Statements
+(Section 6722)
+
+If you fail to provide correct payee statements and you
+cannot show reasonable cause, you may be subject to a
+penalty. The penalty applies if you fail to provide the
+statement by the due date (January 31 for most returns;
+see the Guide to Information Returns, later), you fail to
+include all information required to be shown on the
+statement, or you include incorrect information on the
+statement. “Payee statement” has the same meaning as
+“statement to recipient” as used in part M.
+The amount of the penalty is based on when you
+furnish the correct payee statement. It is a separate
+penalty and is applied in the same manner as the penalty
+for failure to file correct information returns by the due date
+(section 6721), described earlier.
+
+Exception. An inconsequential error or omission is not
+considered a failure to include correct information. An
+inconsequential error or omission cannot reasonably be
+expected to prevent or hinder the payee from timely
+receiving correct information and reporting it on his or her
+income tax return or from otherwise putting the statement
+to its intended use. Errors and omissions that are never
+inconsequential are those relating to (a) a dollar amount,
+except as provided, later, with respect to the safe harbor
+for de minimis dollar amount errors; (b) a significant item
+in a payee's address; (c) the appropriate form for the
+information provided (that is, whether the form is an
+acceptable substitute for the official IRS form); and (d)
+whether the statement was furnished in person or by
+“statement mailing,” when required.
+Intentional disregard of payee statement requirements. If any failure to provide a correct payee statement
+is due to intentional disregard of the requirements to
+furnish a correct payee statement, the penalty is at least
+$680 per payee statement with no maximum penalty.
+No penalty will be imposed on an educational
+institution that fails to provide the TIN of a student
+CAUTION on Form 1098-T if the institution certifies under
+penalty of perjury that it complied with the rules for
+obtaining the student’s TIN. See the current Instructions
+for Forms 1098-E and 1098-T for additional information.
+
+!
+
+For information about penalty relief for reporting
+for digital asset sales effected in 2025, see Notice
+CAUTION 2024-56.
+
+!
+
+Safe Harbor for De Minimis Dollar Amount
+Errors on Information Returns and Payee
+Statements Under Sections 6721 and 6722
+
+If one or more dollar amounts are incorrect on an
+information return filed with the IRS or on a payee
+statement furnished to a recipient, no correction of the
+dollar amount shall be required, and the return shall be
+treated as having been filed or the payee statement
+furnished as correct if:
+• The difference between the dollar amount reported on
+the filed return or furnished payee statement and the
+correct amount is no more than $100, and
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+• The difference between the dollar amount reported for
+tax withheld on the filed return or furnished payee
+statement and the correct amount is no more than $25.
+This safe harbor provision shall not apply if a recipient
+to whom a statement is required to be furnished elects to
+receive a corrected statement. In that case, a corrected
+return must be filed with the IRS and a corrected payee
+statement furnished to the recipient.
+For more information on safe harbor for de minimis
+dollar amount errors on information returns and payee
+statements, see sections 6721(c)(3) and 6722(c)(3), as
+modified by T.D. 9984.
+
+Forms 1099-B (QOF Reporting Only), 1099-Q,
+1099-QA, 1099-SA, 5498, 5498-ESA, 5498-QA,
+and 5498-SA (Section 6693)
+
+The penalties under sections 6721 and 6722 do not apply
+to:
+Forms
+
+Filed Under Code Section
+
+Forms 1099-B (QOF reporting
+only)
+
+1400Z-2
+
+1099-SA and 5498-SA
+
+220(h) and 223(h)
+
+5498
+
+408(i) and 408(l)
+
+1099-Q
+
+529(d) and 530(h)
+
+1099-QA and 5498-QA
+
+529A
+
+5498-ESA
+
+530(h)
+
+The penalty for failure to timely file Forms 1099-SA,
+5498-SA, 5498, 1099-Q, 1099-QA, 5498-QA, or
+5498-ESA is $50 per return with no maximum, unless the
+failure is due to reasonable cause. See section 6693.
+
+Fraudulent Acknowledgments With Respect to
+Donations of Motor Vehicles, Boats, and
+Airplanes (Section 6720)
+
+If you are required under section 170(f)(12)(A) to furnish a
+contemporaneous written acknowledgment to a donor
+and you knowingly furnish a false or fraudulent Form
+1098-C, or knowingly fail to furnish a Form 1098-C within
+the applicable 30-day period, you may be subject to a
+penalty. See the current Instructions for Form 1098-C for
+more detailed information.
+
+Civil Damages for Fraudulent Filing of
+Information Returns (Section 7434)
+
+If you willfully file a fraudulent information return for
+payments you claim you made to another person, that
+person may be able to sue you for damages. You may
+have to pay $5,000 or more.
+
+P. Payments to Corporations and
+Partnerships
+
+• Withheld federal income tax or foreign tax.
+• Barter exchange transactions (Form 1099-B).
+• Broker and barter transactions for an S corporation
+
+(Form 1099-B, Form 1099-DA).
+• Substitute payments in lieu of dividends and tax-exempt
+interest (Form 1099-MISC).
+• Acquisitions or abandonments of secured property
+(Form 1099-A).
+• Cancellation of debt (Form 1099-C).
+• Payments of attorneys' fees and gross proceeds paid to
+attorneys (Form 1099-NEC, Form 1099-MISC).
+• Fish purchases for cash (Form 1099-MISC).
+• Credits and interest for qualified tax credit bonds
+reported on Forms 1097-BTC and 1099-INT.
+• Payment card and third party network transactions
+(Form 1099-K).
+• Federal executive agency payments for services (Form
+1099-MISC). For additional reporting requirements, see
+Rev. Rul. 2003-66 on page 1115 of Internal Revenue
+Bulletin 2003-26 at IRS.gov/pub/irs-irbs/irb03-26.pdf.
+• Payments made in a reportable policy sale (Form
+1099-LS). In addition, the following information returns are
+furnished to corporations, although the information returns
+do not report payments: Form 1099-SB, Seller’s
+Investment in Life Insurance Contract; and Form 1098-F,
+Fines, Penalties, and Other Amounts.
+Reporting is generally required for all payments to
+partnerships. For example, payments of $600 or more
+made in the course of your trade or business to an
+architectural firm that is a partnership are reportable on
+Form 1099-MISC.
+
+Q. Earnings on Any IRA, Coverdell
+ESA, ABLE Account, Archer MSA, or
+HSA
+
+Generally, income earned in any IRA, Coverdell ESA,
+ABLE account, Archer MSA, or HSA, such as interest or
+dividends, is not reported on Forms 1099. However,
+distributions from such arrangements or accounts must be
+reported on Form 1099-R, 1099-Q, 1099-QA, or 1099-SA.
+
+R. Certain Grantor Trusts
+
+Certain grantor trusts (other than WHFITs) may choose to
+file Forms 1099 rather than a separate statement attached
+to Form 1041, U.S. Income Tax Return for Estates and
+Trusts. If you have filed Form 1041 for a grantor trust in the
+past and you want to choose the Form 1099 filing method
+for 2025, you must have filed a final Form 1041 for 2024.
+To change reporting method, see Regulations section
+1.671-4(g) and the Instructions for Form 1041 and
+Schedules A, B, G, J, and K-1.
+For more information on WHFITs, see Widely held fixed
+investment trusts (WHFITs), earlier.
+
+Generally, payments to corporations are not reportable.
+See, for example, Regulations section 1.6049-4(c)(1)(ii).
+However, you must report payments to corporations for
+the following.
+• Medical and health care payments (Form 1099-MISC).
+Gen. Instr. for Certain Info. Returns (2025)
+
+21
+
+S. Special Rules for Reporting
+Payments Made Through Foreign
+Intermediaries and Foreign
+Flow-Through Entities on Form 1099
+If you are the payer and have received a Form W-8IMY
+from a foreign intermediary or flow-through entity, follow
+the instructions for completing Form 1099, later.
+
+Definitions
+Foreign intermediary (FI). An FI is any person who is
+not a U.S. person and acts as a custodian, broker, or
+nominee, or otherwise as an agent for another person,
+regardless of whether that other person is the beneficial
+owner of the amount paid, a flow-through entity, or another
+intermediary. The intermediary can be a qualified
+intermediary or a nonqualified intermediary.
+Qualified intermediary (QI). A QI is a person that is a
+party to a withholding agreement with the IRS (described
+in Regulations section 1.1441-1(e)(5)(iii)) and is:
+• An FFI (other than a U.S. branch of an FFI) that is a
+participating FFI (including a Reporting Model 2 FFI), an
+RDC FFI (including an FFI treated as a deemed-compliant
+FFI under an applicable IGA subject to due diligence and
+reporting requirements similar to those applicable to an
+RDC FFI under Regulations section 1.1471-5(f)(1),
+including the requirement to register with the IRS), or any
+other category of FFI identified in the QI agreement;
+• A foreign person that has a home office or has a branch
+that is an eligible entity (as described in Regulations
+section 1.1441-1(e)(6)(ii), without regard to the
+requirement that the person be a QI);
+• A foreign branch or office of a U.S. financial institution
+or a foreign branch or office of a U.S. clearing
+organization; or
+• A foreign entity not described above that the IRS
+accepts as a QI.
+For details on QI agreements, see Rev. Proc. 2017-15,
+2017-03 I.R.B. 437, available at IRS.gov/irb/
+2017-03_IRB#RP-2017-15.
+Nonqualified intermediary (NQI). An NQI is any
+intermediary that is not a U.S. person and that is not a QI.
+Foreign flow-through entity (FTE). An FTE is a foreign
+partnership (other than a withholding foreign partnership),
+a foreign simple trust or foreign grantor trust (other than a
+withholding foreign trust), or, for payments for which a
+reduced rate of withholding is claimed under an income
+tax treaty, any entity to the extent the entity is considered
+to be fiscally transparent under section 894 with respect to
+the payment by an interest holder's jurisdiction.
+Withholding foreign partnership or withholding
+foreign trust. A withholding foreign partnership or
+withholding foreign trust is a foreign partnership or a
+foreign simple or grantor trust that has entered into a
+withholding agreement with the IRS in which it agrees to
+assume primary withholding responsibility for all payments
+that are made to it for its partners, beneficiaries, or
+owners. See Rev. Proc. 2017-21, 2017-6 I.R.B. 791,
+available at IRS.gov/irb/2017-06_IRB#RP-2017-21, for
+
+22
+
+procedures for entering into a withholding foreign
+partnership or trust agreement.
+Nonwithholding foreign partnership, simple trust,
+or grantor trust. A nonwithholding foreign partnership is
+any foreign partnership other than a withholding foreign
+partnership. A nonwithholding foreign simple trust is any
+foreign simple trust that is not a withholding foreign trust. A
+nonwithholding foreign grantor trust is any foreign grantor
+trust that is not a withholding foreign trust.
+Fiscally transparent entity. An entity is treated as
+fiscally transparent with respect to an item of income to
+the extent that the interest holders in the entity must, on a
+current basis, take into account separately their shares of
+an item of income paid to the entity, whether or not
+distributed, and must determine the character of the items
+of income as if they were realized directly from the
+sources from which they were realized by the entity. For
+example, partnerships, common trust funds, and simple
+trusts or grantor trusts are generally considered to be
+fiscally transparent with respect to items of income
+received by them.
+
+Presumption Rules
+For additional information including details on the
+
+TIP presumption rules, see the Instructions for the
+
+Requester of Forms W-8BEN, W-8BEN-E,
+W-8ECI, W-8EXP, and W-8IMY; and Pub. 515. To order,
+see How To Get Forms, Publications, and Other
+Assistance under part T.
+If you are the payer and do not have a Form W-9,
+appropriate Form W-8, or other valid documentation, or
+you cannot allocate a payment to a specific payee, prior to
+payment, you are required to use certain presumption
+rules to determine the following.
+• The status of the payee as a U.S. or foreign person.
+• The classification of the payee as an individual, trust,
+estate, corporation, or partnership.
+See Regulations sections 1.1441-1(b)(3), 1.1441-5(d)
+and (e), 1.6045-1(g)(3)(ii), and 1.6049-5(d).
+Under these presumption rules, if you must presume
+that the payee is a U.S. nonexempt recipient subject to
+backup withholding, you must report the payment on a
+Form 1099. However, if before filing Form 1099 with the
+IRS the recipient is documented as foreign, then report the
+payment on a Form 1042-S.
+Conversely, if you must presume that the payee is a
+foreign recipient and prior to filing Form 1042-S with the
+IRS you discover that the payee is a U.S. nonexempt
+recipient based on documentation, then report all
+payments made to that payee during the calendar year on
+a Form 1099.
+If you use the 90-day grace period rule to presume a
+payee is foreign, you must file a Form 1042-S to report all
+payments subject to withholding during the grace period.
+If, after the grace period expires, you discover that the
+payee is a U.S. nonexempt recipient subject to backup
+withholding, you must file a Form 1099 for all payments
+made to that payee after the expiration of the grace
+period.
+Gen. Instr. for Certain Info. Returns (2025)
+
+Rules for Payments Made to U.S. Nonexempt
+Recipients Through a QI, NQI, or FTE
+
+If you are the payer making a payment through a QI, NQI,
+or FTE for a U.S. nonexempt recipient on whose behalf the
+QI, NQI, or FTE is acting, use the following rules to
+complete Form 1099.
+Known recipient. If you know that a payee is a U.S.
+nonexempt recipient and have the payee's name, address,
+and TIN (if a TIN has been provided), you must complete
+the Form 1099 with that information unless you are not
+required to report the payment under Regulations section
+1.6049-4(c)(4) (applicable only to certain payments to
+specified FFIs). Also, on the second name line below the
+recipient's name, enter “IMY” followed by the name of the
+QI, NQI, or FTE.
+For payments made to multiple recipients (a) enter the
+name of the recipient whose status you relied on to
+determine the applicable rate of withholding; and (b) on
+the second name line, enter “IMY” followed by the name of
+the QI, NQI, or FTE. However, if the QI has assumed
+primary Form 1099 reporting or backup withholding
+responsibility, you are not required to issue the Form 1099
+or to backup withhold. See Qualified intermediary (QI),
+earlier.
+Unknown recipient. If you cannot reliably associate a
+payment with valid documentation and are required to
+presume a payee is a U.S. nonexempt recipient, do the
+following.
+1. File a Form 1099 and enter “unknown recipient” on
+the first name line.
+2. On the second name line, enter “IMY” followed by
+the name of the NQI or FTE.
+3. Enter the EIN of the NQI or FTE, if applicable, in the
+recipient's TIN box.
+4. Furnish a copy of the Form 1099 with “unknown
+recipient” to the NQI or FTE who is acting on the
+recipient's behalf.
+A payer that is required to report payments made
+to a U.S. nonexempt recipient account holder but
+CAUTION does not receive the necessary allocation
+information cannot report those payments on a pro rata
+basis. Report unallocated payments using the
+presumption rules described above.
+
+!
+
+Rules for Non-U.S. Payers
+
+Non-U.S. payers (foreign persons that are not U.S. payers)
+generally have the same reporting obligations as U.S.
+payers. A U.S. payer is anyone who is:
+• A U.S. person;
+• Any U.S. governmental agency;
+• A CFC;
+• A foreign partnership that has one or more U.S.
+partners who, in the aggregate, hold more than 50% of the
+gross income derived from the conduct of a U.S. trade or
+business;
+• A foreign person who owns 50% or more of the gross
+income that is effectively connected with a U.S. trade or
+business; or
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+• A U.S. branch or territory financial institution described
+in Regulations section 1.1441-1(b)(2)(iv) that is treated as
+a U.S. person.
+For more information, see Regulations section
+1.6049-5(c)(5).
+Exceptions. The following payments are not subject to
+reporting by a non-U.S. payer.
+1. A foreign source payment paid and received outside
+the United States. For example, see Regulations section
+1.6049-4(f)(16).
+2. Gross proceeds from a sale effected outside the
+United States. See Regulations section 1.6045-1(a).
+3. An NQI or QI that provides another payer all the
+information sufficient for that payer to complete Form 1099
+reporting. For example, see Regulations section
+1.6049-5(b)(14). However, if an NQI or QI does not
+provide sufficient information for another payer to report a
+payment on Form 1099, the intermediary must report the
+payment.
+4. A payment made by certain FFIs for which an
+exception to reporting applies under Regulations section
+1.6049-4(c)(4).
+
+Rules for Reporting Payments Initially Reported
+on Form 1042-S
+
+If an NQI or QI receives a Form 1042-S made out to an
+“unknown recipient” and the NQI or QI has actual
+knowledge that the payee of the income is a U.S.
+nonexempt recipient, it must file a Form 1099 even if the
+payment has been subject to withholding by another
+payer. The NQI or QI reports the amount withheld by the
+other payer on Form 1099 as federal income tax withheld.
+
+T. How To Get Tax Help
+Information Reporting Program Customer
+Service Section
+
+For answers to your questions about reporting on Forms
+1096, 1097, 1098, 1099, 3921, 3922, 5498, W-2, W-2G,
+and W-3, call the Technical Services Operation (TSO) at
+866-455-7438 (toll free) or 304-263-8700 (not toll free).
+Deaf or hard of hearing customers may call any of our
+toll-free numbers using their choice of relay service.
+Other tax-related matters. For other tax information
+related to business returns or accounts, call
+800-829-4933.
+Deaf or hard of hearing customers may call any of our
+toll-free numbers using their choice of relay service.
+
+Internal Revenue Bulletin (IRB)
+
+The IRB, published weekly, contains newly issued
+regulations, notices, announcements, legislation, court
+decisions, and other items of general interest. You may
+find this publication useful to keep you up to date with
+current developments. See How To Get Forms,
+Publications, and Other Assistance, later.
+
+23
+
+How To Get Forms, Publications, and Other
+Assistance
+Getting tax forms, instructions, and publications. Go
+to IRS.gov/Forms to download current and prior-year
+forms, instructions, and publications.
+Go to IRS.gov/OrderForms to order current forms,
+instructions, and publications; call 800-829-3676 to order
+prior-year forms and instructions. The IRS will process
+your order for forms and publications as soon as possible.
+Don’t resubmit requests you’ve already sent us. You can
+get some forms and publications faster online.
+Because the IRS processes paper forms by
+machine (optical character recognition
+CAUTION equipment), you cannot file Form 1096 or Copy A
+of Forms 1097, 1098, 1099, 3921, 3922, or 5498 that you
+print from the IRS website. However, you can use Copy B
+from those sources to provide recipient statements.
+
+!
+
+Exception. Forms 1097-BTC, 1098-C, 1098-MA,
+1099-CAP, 1099-H, 1099-LTC, 1099-Q, 1099-QA,
+1099-SA, 3922, 5498-ESA, 5498-QA, and 5498-SA can
+be filled out online and Copy A can be printed and filed
+with the IRS using Form 1096.
+Mail. You can send your order for forms,
+instructions, and publications to the address
+below. You should receive a response within 10
+business days after your request is received.
+Internal Revenue Service
+1201 N. Mitsubishi Motorway
+Bloomington, IL 61705-6613
+Online. Go to IRS.gov 24 hours a day, 7 days a
+week to do the following.
+
+• Access commercial tax preparation and e-file services.
+• Research your tax questions online.
+• Search publications online by topic or keyword.
+• Use the online Internal Revenue Code, regulations, or
+
+other official guidance.
+• View IRBs published in the last few years.
+• Sign up to receive local and national tax news by email.
+
+Comments and Suggestions
+
+We welcome your comments about this publication and
+your suggestions for future editions.
+
+You can send your comments through IRS.gov/
+FormComments. Or, you can write to the Internal Revenue
+Service, Tax Forms and Publications, 1111 Constitution
+Ave. NW, IR-6526, Washington, DC 20224.
+Although we can’t respond individually to each
+comment received, we do appreciate your feedback and
+will consider your comments and suggestions as we
+revise our tax forms, instructions, and publications. Don’t
+send tax questions, tax returns, or payments to the above
+address.
+————————————————————————
+
+24
+
+Below is a message to you from the Taxpayer Advocate
+Service, an independent organization established by
+Congress.
+
+The Taxpayer Advocate Service (TAS) Is Here To
+Help You
+What Is the Taxpayer Advocate Service?
+The Taxpayer Advocate Service (TAS) is an independent
+organization within the Internal Revenue Service (IRS).
+TAS helps taxpayers resolve problems with the IRS,
+makes administrative and legislative recommendations to
+prevent or correct the problems, and protects taxpayer
+rights. We work to ensure that every taxpayer is treated
+fairly and that you know and understand your rights under
+the Taxpayer Bill of Rights. We are Your Voice at the IRS.
+
+How Can TAS Help Me?
+TAS can help you resolve problems that you haven’t been
+able to resolve with the IRS on your own. Always try to
+resolve your problem with the IRS first, but if you can’t,
+then come to TAS. Our services are free.
+• TAS helps all taxpayers (and their representatives),
+including individuals, businesses, and exempt
+organizations. You may be eligible for TAS help if your IRS
+problem is causing financial difficulty, if you’ve tried and
+been unable to resolve your issue with the IRS, or if you
+believe an IRS system, process, or procedure just isn't
+working as it should.
+• To get help any time with general tax topics, visit
+www.TaxpayerAdvocate.IRS.gov. The site can help you
+with common tax issues and situations, such as what to
+do if you make a mistake on your return or if you get a
+notice from the IRS.
+• TAS works to resolve large-scale (systemic) problems
+that affect many taxpayers. You can report systemic
+issues at www.IRS.gov/SAMS. (Be sure not to include any
+personal identifiable information.)
+
+How Do I Contact TAS?
+TAS has offices in every state, the District of Columbia,
+and Puerto Rico. To find your local advocate’s number:
+• Go to www.TaxpayerAdvocate.IRS.gov/Contact-Us,
+• Check your local directory, or
+• Call TAS toll free at 877-777-4778.
+
+What Are My Rights as a Taxpayer?
+The Taxpayer Bill of Rights describes ten basic rights that
+all taxpayers have when dealing with the IRS. Go to
+www.TaxpayerAdvocate.IRS.gov/Taxpayer-Rights for
+more information about the rights, what they mean to you,
+and how they apply to specific situations you may
+encounter with the IRS. TAS strives to protect taxpayer
+rights and ensure the IRS is administering the tax law in a
+fair and equitable way.
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+Privacy Act and Paperwork Reduction
+Act Notice
+
+We ask for the information on these forms to carry out the
+Internal Revenue laws of the United States. You are
+required to give us the information. We need it to figure
+and collect the right amount of tax.
+
+Sections 170(f)(12), 199, 220(h), 223, 408, 408A, 529,
+529A, 530, 853A, 6039, 6041, 6041A, 6042, 6043, 6044,
+6045, 6047, 6049, 6050A, 6050B, 6050D, 6050E, 6050H,
+6050J, 6050N, 6050P, 6050Q, 6050R, 6050S, 6050T,
+6050U, 6050W, 6050X, and 6050Y, and their regulations
+require you to file an information return with the IRS and
+furnish a statement to recipients. Section 6109 and its
+regulations require you to provide your TIN on what you
+file.
+Routine uses of this information include giving it to the
+Department of Justice for civil and criminal litigation, and
+to cities, states, the District of Columbia, and U.S.
+commonwealths and territories for use in administering
+their tax laws. We may also disclose this information to
+other countries under a tax treaty, to federal and state
+agencies to enforce federal nontax criminal laws, or to
+federal law enforcement and intelligence agencies to
+combat terrorism. If you fail to provide this information in a
+timely manner, or provide false or fraudulent information,
+you may be subject to penalties.
+You are not required to provide the information
+requested on a form that is subject to the Paperwork
+Reduction Act unless the form displays a valid OMB
+control number. Books or records relating to a form or its
+instructions must be retained as long as their contents
+may become material in the administration of any Internal
+Revenue law. Generally, tax returns and return information
+are confidential, as required by section 6103. The time
+needed to complete and file the following forms will vary
+depending on individual circumstances. The estimated
+average times are:
+
+1096 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1097-BTC* . . . . . . . . . . . . . . . . . . . . . . . . .
+1098 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1098-C* . . . . . . . . . . . . . . . . . . . . . . . . . .
+1098-E . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1098-F . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1098-MA . . . . . . . . . . . . . . . . . . . . . . . . .
+1098-Q . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1098-T . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-A . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-B . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-C . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-CAP* . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-DA . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-DIV . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-G . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-H . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-INT . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-K . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-LS . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-LTC . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-MISC . . . . . . . . . . . . . . . . . . . . . . . .
+1099-NEC . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-OID . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-PATR . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-Q . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-QA . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-R . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-S . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-SA . . . . . . . . . . . . . . . . . . . . . . . . . .
+1099-SB . . . . . . . . . . . . . . . . . . . . . . . . . .
+3921* . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3922* . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5498 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5498-ESA . . . . . . . . . . . . . . . . . . . . . . . . .
+5498-QA . . . . . . . . . . . . . . . . . . . . . . . . . .
+5498-SA . . . . . . . . . . . . . . . . . . . . . . . . . .
+W-2G . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+* Privacy Act does not pertain to this form.
+
+11 minutes
+19 minutes
+15 minutes
+18 minutes
+7 minutes
+7 minutes
+14 minutes
+8 minutes
+13 minutes
+9 minutes
+30 minutes
+13 minutes
+11 minutes
+9 minutes
+28 minutes
+18 minutes
+18 minutes
+13 minutes
+28 minutes
+7 minutes
+13 minutes
+24 minutes
+15 minutes
+23 minutes
+15 minutes
+13 minutes
+10 minutes
+25 minutes
+8 minutes
+11 minutes
+7 minutes
+11 minutes
+13 minutes
+24 minutes
+7 minutes
+11 minutes
+10 minutes
+24 minutes
+
+Burden estimates are based upon current statutory
+requirements as of October 2024. Estimates of burden do
+not reflect any future legislative changes that may affect
+the 2025 tax year. Any changes to burden estimates will
+be included in the IRS’s annual Paperwork Reduction Act
+submission to the Office of Management and Budget
+(OMB) and will be made publicly available on RegInfo.gov.
+If you have comments concerning the accuracy of
+these time estimates, we would be happy to hear from
+you. You can send your comments from IRS.gov/
+FormComments. Or you can write to the Internal Revenue
+Service, Tax Forms and Publications, 1111 Constitution
+Ave. NW, IR-6526, Washington, DC 20224. Do not send
+these forms to this address. Instead, see part D.
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+25
+
+Guide to Information Returns
+If any filing due date in these instructions falls on a Saturday, Sunday, or a legal holiday, you will be considered to have
+timely filed if you file by the next day that is not a Saturday, Sunday, or a legal holiday. Legal holidays for this purpose are
+legal holidays in the District of Columbia or a statewide legal holiday where the return is required to be filed. Also, a leap
+year does not extend the filing deadline. Dates of February 28 in these instructions remain February 28 even in leap
+years; the due date does not become February 29. For example, see Announcement 91-179, 1991-49 I.R.B. 78.
+Due Date
+
+Form
+
+1042-S
+
+1097-BTC
+
+Title
+
+What To Report
+
+Foreign Person's U.S. Income such as interest, dividends, royalties, pensions and annuities,
+Source Income
+etc., and amounts withheld under chapter 3. Also, distributions of
+Subject to Withholding effectively connected income by publicly traded partnerships or
+nominees.
+Bond Tax Credit
+
+Amounts To Report
+
+To IRS
+
+To Recipient
+(unless
+indicated
+otherwise)
+
+See form instructions
+
+March 15
+
+March 15
+
+All amounts
+
+February 28*
+
+On or before the
+15th day of the
+2nd calendar
+month after the
+close of the
+calendar quarter
+in which the credit
+is allowed
+
+$600 or more
+
+February 28*
+
+(To Payer/
+Borrower)
+January 31
+
+Gross proceeds of
+more than $500
+
+February 28*
+
+(To Donor)
+30 days from date
+of sale or
+contribution
+
+$600 or more
+
+February 28*
+
+January 31
+
+Tax credit bond credits to bondholders.
+
+1098
+
+Mortgage Interest
+Statement
+
+Mortgage interest (including points) and certain mortgage insurance
+premiums you received in the course of your trade or business from
+individuals and reimbursements of overpaid interest.
+
+1098-C
+
+Contributions of Motor Information regarding a donated motor vehicle, boat, or airplane.
+Vehicles, Boats, and
+Airplanes
+
+1098-E
+
+Student Loan Interest
+Statement
+
+Student loan interest received in the course of your trade or business.
+
+1098-F
+
+Fines, Penalties, and
+Other Amounts
+
+Statement furnished by a government or governmental entity regarding
+payments required by a court order or agreement with respect to a
+violation or potential violation of law.
+
+$50,000 or more
+
+N/A
+
+N/A
+
+1098-MA
+
+Mortgage Assistance
+Payments
+
+Assistance payments paid to homeowners from funds allocated from the
+Housing Finance Agency Innovation Fund for the Hardest Hit Housing
+Markets (HFA Hardest Hit Fund) or the Emergency Homeowners' Loan
+Program.
+
+All amounts
+
+February 28
+
+January 31
+
+Qualifying Longevity
+Annuity Contract
+Information
+
+Status of a contract that is intended to be a qualifying longevity annuity
+contract (QLAC), defined in section A-17 of Regulations section 1.401(a)
+(9)-6, that is purchased or held under any plan, annuity, or account
+described in section 401(a), 403(a), 403(b), or 408 (other than a Roth
+IRA) or eligible governmental plan under section 457(b).
+
+All amounts
+
+February 28
+
+January 31
+
+1098-T
+
+Tuition Statement
+
+Qualified tuition and related expenses, reimbursements or refunds, and
+scholarships or grants (optional).
+
+See instructions
+
+February 28*
+
+January 31
+
+1099-A
+
+Acquisition or
+Abandonment of
+Secured Property
+
+Information about the acquisition or abandonment of property that is
+security for a debt for which you are the lender.
+
+All amounts
+
+February 28*
+
+(To Borrower)
+January 31
+
+1099-B
+
+Proceeds From
+Broker and Barter
+Exchange
+Transactions
+
+Sales or redemptions of securities, futures transactions, commodities,
+and barter exchange transactions (including payments reported pursuant
+to an election described in Regulations section 1.1471-4(d)(5)(i)(A) or
+reported as described in Regulations section 1.1471-4(d)(2)(iii)(A)).
+
+All amounts
+
+February 28*
+
+February 15**
+
+Cancellation of Debt
+
+Cancellation of a debt owed to a financial institution, the federal
+government, a credit union, RTC, FDIC, NCUA, a military department, the
+U.S. Postal Service, the Postal Rate Commission, or any organization
+having a significant trade or business of lending money.
+
+$600 or more
+
+February 28*
+
+January 31
+
+Over $1,000
+
+February 28*
+
+(To Shareholders)
+January 31, (To
+Clearing
+Organization)
+January 5
+
+All amounts
+
+February 28*
+
+February 15**
+
+$10 or more, except
+$600 or more for
+liquidations
+
+February 28*
+
+January 31**
+
+1098-Q
+
+1099-C
+
+1099-CAP
+
+Changes in Corporate Information about cash, stock, or other property from an acquisition of
+Control and Capital
+control or the substantial change in capital structure of a corporation.
+Structure
+
+1099-DA
+
+Digital Asset
+Proceeds From
+Broker Transactions
+
+Sales of digital assets you effect as a broker.
+
+1099-DIV
+
+Dividends and
+Distributions
+
+Distributions, such as dividends, capital gain distributions, or nontaxable
+distributions, that were paid on stock and liquidation distributions
+(including distributions reported pursuant to an election described in
+Regulations section 1.1471-4(d)(5)(i)(A) or reported as described in
+Regulations section 1.1471-4(d)(2)(iii)(A)).
+
+* The due date is March 31 if filed electronically.
+** The due date is March 15 for reporting by trustees and middlemen of WHFITs.
+
+26
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+Guide to Information Returns (continued)
+Due Date
+Form
+
+Title
+
+What To Report
+
+1099-G
+
+Certain Government
+Payments
+
+Unemployment compensation, state and local income tax refunds,
+agricultural payments, and taxable grants.
+
+1099-H
+
+Health Coverage Tax
+Credit (HCTC)
+Advance Payments
+
+Health insurance premiums paid on behalf of certain individuals.
+
+1099-INT
+
+Interest Income
+
+Interest income (including payments reported pursuant to an election
+described in Regulations section 1.1471-4(d)(5)(i)(A) or reported as
+described in Regulations section 1.1471-4(d)(2)(iii)(A)); market discount
+subject to an election under section 1278(b). Tax-exempt interest and
+U.S. Savings Bonds and Treasury obligations interest are also reported
+on this form.
+
+1099-K
+
+1099-LS
+
+1099-LTC
+1099-MISC
+
+1099-NEC
+
+Payment Card and
+Third Party Network
+Transactions
+
+Payment card transactions.
+
+Reportable Life
+Insurance Sale
+
+Payments made to a payment recipient in a reportable policy sale.
+
+Third party network transactions.
+
+Amounts To Report
+
+To IRS
+
+To Recipient
+(unless indicated
+otherwise)
+
+$10 or more for refunds
+and unemployment
+
+February 28*
+
+January 31
+
+All amounts
+
+February 28*
+
+January 31
+
+$10 or more ($600 or
+more in some cases)
+
+February 28*
+
+January 31**
+
+February 28*
+
+January 31
+
+All amounts***
+
+February 28*
+
+(To Reportable
+Policy Sale Payment
+Recipient) February
+15, (To Issuer)
+January 15 or earlier
+as required by
+Regulations section
+1.6050Y-2(d)(2)(i)
+(A)
+
+February 28*
+
+January 31
+
+All amounts
+more than $2,500
+
+Long-Term Care and
+Accelerated Death
+Benefits
+
+Payments under a long-term care insurance contract and accelerated
+death benefits paid under a life insurance contract or by a viatical
+settlement provider.
+
+All amounts
+
+Miscellaneous
+Information
+
+Rent or royalty payments; prizes and awards that are not for services,
+such as winnings on TV or radio shows (including payments reported
+pursuant to an election described in Regulations section 1.1471-4(d)(5)
+(i)(A) or reported as described in Regulations section 1.1471-4(d)(2)(iii)
+(A)).
+
+$600 or more, except
+$10 or more for royalties
+
+Nonemployee
+Compensation
+
+Payments to crew members by owners or operators of fishing boats
+including payments of proceeds from sale of catch.
+
+All amounts
+
+Section 409A income from nonqualified deferred compensation plans
+(NQDCs).
+
+All amounts
+
+Payments to a physician, physicians' corporation, or other supplier of
+health and medical services. Issued mainly by medical assistance
+programs or health and accident insurance plans.
+
+$600 or more
+
+Fish purchases paid in cash for resale.
+
+$600 or more
+
+Crop insurance proceeds.
+
+$600 or more
+
+Substitute dividends and tax-exempt interest payments reportable by
+brokers.
+
+$10 or more
+
+Gross proceeds paid to attorneys.
+
+$600 or more
+
+February 15**
+
+A U.S. account for chapter 4 purposes to which you made no payments
+during the year that are reportable on any applicable Form 1099 (or a
+U.S. account to which you made payments during the year that do not
+reach the applicable reporting threshold for any applicable Form 1099)
+reported pursuant to an election described in Regulations section
+1.1471-4(d)(5)(i)(A).
+
+All amounts
+(including $0)
+
+January 31**
+
+Aggregated direct sales of consumer goods for resale.
+
+$5,000 or more
+
+Payments for services performed for a trade or business by people not
+treated as its employees (including payments reported pursuant to an
+election described in Regulations section 1.1471-4(d)(5)(i)(A) or
+reported as described in Regulations section 1.1471-4(d)(2)(iii)(A)).
+Examples: fees to subcontractors or directors and golden parachute
+payments.
+
+$600 or more
+
+Aggregated direct sales of consumer goods for resale.
+
+$5,000 or more
+
+January 31**
+
+February 28*
+
+February 15**
+
+January 31
+
+January 31
+
+* The due date is March 31 if filed electronically.
+** The due date is March 15 for reporting by trustees and middlemen of WHFITs.
+*** See Regulations sections 1.6050Y-1(a)(16)(ii) and 1.6050Y-2(f)(2) for exceptions for amounts paid to persons other than sellers. Also, no amounts are required to be reported on
+statements furnished to issuers. See Regulations section 1.6050Y-2(d)(2)(i)(A).
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+27
+
+Guide to Information Returns (continued)
+Due Date
+Form
+1099-OID
+
+What To Report
+
+Amounts To
+Report
+
+To IRS
+
+To Recipient
+(unless indicated
+otherwise)
+
+Original issue discount (including amounts reported pursuant to an
+election described in Regulations section 1.1471-4(d)(5)(i)(A) or
+reported as described in Regulations section 1.1471-4(d)(2)(iii)(A));
+market discount subject to an election under section 1278(b). OID on
+U.S. Treasury obligations and tax-exempt OID are also reported on
+this form. Stated interest (other than stated interest that is OID) may
+be reported on this form.
+
+$10 or more
+
+February 28*
+
+January 31**
+
+$10 or more
+
+February 28*
+
+January 31
+
+All amounts
+
+February 28*
+
+January 31
+
+All amounts
+
+February 28
+
+January 31
+
+$10 or more
+
+February 28*
+
+January 31
+
+Generally, $600 or
+more
+
+February 28*
+
+February 15
+
+All amounts
+
+February 28*
+
+January 31
+
+All amounts
+
+February 28* (except
+as provided in
+Regulations section
+1.6050Y-3(c))
+
+February 15 (except
+as provided in
+Regulations section
+1.6050Y-3(d)(2))
+
+Exercise of an
+Transfer of stock pursuant to the exercise of an incentive stock option
+Incentive Stock
+under section 422(b).
+Option Under Section
+422(b)
+
+All amounts
+
+February 28*
+
+January 31
+
+Transfer of Stock
+Acquired Through an
+Employee Stock
+Purchase Plan Under
+Section 423(c)
+
+Transfer of stock acquired through an employee stock purchase plan
+under section 423(c).
+
+All amounts
+
+February 28*
+
+January 31
+
+IRA Contribution
+Information
+
+Contributions (including rollover contributions) to any individual
+retirement arrangement (IRA), including a SEP, SIMPLE, and Roth
+IRA; Roth conversions; IRA recharacterizations; and the fair market
+value (FMV) of the account (including information on hard-to-value
+assets).
+
+All amounts
+
+May 31
+
+(To Participant)
+For FMV/RMD/
+SIMPLE IRA
+contributions,
+January 31;
+For all other
+contributions, May 31
+
+All amounts
+
+May 31
+
+April 30
+
+All amounts
+
+May 31
+
+March 15
+
+All amounts
+
+May 31
+
+(To Participant)
+May 31
+
+Generally, $600 or
+more; $1,200 or
+more from bingo or
+slot machines;
+$1,500 or more
+from keno
+
+February 28*
+
+January 31
+
+Title
+Original Issue
+Discount
+
+1099-PATR
+
+Taxable Distributions
+Received From
+Cooperatives
+
+Distributions from cooperatives passed through to their patrons
+including any domestic production activities deduction and certain
+pass-through credits.
+
+1099-Q
+
+Payments From
+Qualified Education
+Programs (Under
+Sections 529 and
+530)
+
+Earnings from qualified tuition programs and Coverdell ESAs.
+
+1099-QA
+
+Distributions From
+ABLE Accounts
+
+Distributions from ABLE accounts.
+
+1099-R
+
+Distributions From
+Pensions, Annuities,
+Retirement or
+Profit-Sharing Plans,
+IRAs, Insurance
+Contracts, etc.
+
+Distributions from retirement or profit-sharing plans, any IRA,
+insurance contracts, and IRA recharacterizations (including payments
+reported pursuant to an election described in Regulations section
+1.1471-4(d)(5)(i)(B) or reported as described in Regulations section
+1.1471-4(d)(2)(iii)(A)).
+
+1099-S
+
+Proceeds From Real
+Estate Transactions
+
+Gross proceeds from the sale or exchange of real estate and certain
+royalty payments.
+
+1099-SA
+
+Distributions From an
+HSA, Archer MSA, or
+Medicare Advantage
+MSA
+
+Distributions from an HSA, Archer MSA, or Medicare Advantage MSA.
+
+Seller’s Investment in
+Life Insurance
+Contract
+
+Seller’s investment in a life insurance contract as determined by the
+issuer.
+
+1099-SB
+
+3921
+
+3922
+
+5498
+
+5498-ESA
+
+Coverdell ESA
+Contribution
+Information
+
+Contributions (including rollover contributions) to a Coverdell ESA.
+
+5498-QA
+
+ABLE Account
+Contributions
+Information
+
+Contributions (including rollover contributions) to an ABLE account.
+
+5498-SA
+
+HSA, Archer MSA, or
+Medicare Advantage
+MSA Information
+
+Contributions to an HSA (including transfers and rollovers) or Archer
+MSA and the FMV of an HSA, Archer MSA, or Medicare Advantage
+MSA.
+
+W-2G
+
+Certain Gambling
+Winnings
+
+Gambling winnings from horse racing, dog racing, jai alai, lotteries,
+keno, bingo, slot machines, sweepstakes, wagering pools, poker
+tournaments, etc.
+
+* The due date is March 31 if filed electronically.
+
+28
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+Types of Payments
+
+Type of Payment
+
+If any filing due date in these instructions falls on a
+Saturday, Sunday, or a legal holiday, you will be
+considered to have timely filed if you file by the next day
+that is not a Saturday, Sunday, or a legal holiday. Legal
+holidays for this purpose are legal holidays in the District
+of Columbia or a statewide legal holiday where the return
+is required to be filed. Also, a leap year does not extend
+the filing deadline. Dates of February 28 in these
+instructions remain February 28 even in leap years; the
+due date does not become February 29.
+Type of Payment
+
+Report on Form
+
+ABLE accounts:
+—Contributions . . . . . . . . . . . . . . . . . . . . . .
+—Distributions . . . . . . . . . . . . . . . . . . . . . . .
+Abandonment . . . . . . . . . . . . . . . . . . . . . . .
+Accelerated death benefits . . . . . . . . . . . . . . . . .
+Acquisition of control . . . . . . . . . . . . . . . . . . . .
+Agriculture payments . . . . . . . . . . . . . . . . . . . .
+Allocated tips . . . . . . . . . . . . . . . . . . . . . . . .
+Alternate TAA payments . . . . . . . . . . . . . . . . . .
+Annuities . . . . . . . . . . . . . . . . . . . . . . . . . .
+Archer MSAs:
+—Contributions . . . . . . . . . . . . . . . . . . . . . .
+—Distributions . . . . . . . . . . . . . . . . . . . . . . .
+Attorney, fees and gross proceeds . . . . . . . . . . . . .
+Auto reimbursements—employee . . . . . . . . . . . . .
+Auto reimbursements—nonemployee . . . . . . . . . . .
+Awards—employee . . . . . . . . . . . . . . . . . . . . .
+Awards—nonemployee . . . . . . . . . . . . . . . . . . .
+Barter exchange income . . . . . . . . . . . . . . . . . .
+Bond tax credit . . . . . . . . . . . . . . . . . . . . . . .
+Bonuses—employee . . . . . . . . . . . . . . . . . . . .
+Bonuses—nonemployee . . . . . . . . . . . . . . . . . .
+Broker transactions . . . . . . . . . . . . . . . . . . . . .
+Cancellation of debt . . . . . . . . . . . . . . . . . . . .
+Capital gain distributions . . . . . . . . . . . . . . . . . .
+Car expense—employee . . . . . . . . . . . . . . . . . .
+Car expense—nonemployee . . . . . . . . . . . . . . . .
+Changes in capital structure . . . . . . . . . . . . . . . .
+Charitable gift annuities . . . . . . . . . . . . . . . . . . .
+Commissions—employee . . . . . . . . . . . . . . . . .
+Commissions—nonemployee . . . . . . . . . . . . . . .
+Commodities transactions . . . . . . . . . . . . . . . . .
+Compensation—employee . . . . . . . . . . . . . . . . .
+Compensation—nonemployee . . . . . . . . . . . . . . .
+Contributions of motor vehicles, boats, and airplanes . . . .
+Cost of current life insurance protection . . . . . . . . . . .
+Coverdell ESA contributions . . . . . . . . . . . . . . . .
+Coverdell ESA distributions . . . . . . . . . . . . . . . . .
+Crop insurance proceeds . . . . . . . . . . . . . . . . . .
+Damages . . . . . . . . . . . . . . . . . . . . . . . . . .
+Death benefits . . . . . . . . . . . . . . . . . . . . . . .
+Debt cancellation . . . . . . . . . . . . . . . . . . . . . .
+Dependent care payments . . . . . . . . . . . . . . . . .
+Digital asset sales . . . . . . . . . . . . . . . . . . . . .
+Direct rollovers . . . . . . . . . . . . . . . . . . . . . . .
+Direct sales of consumer products for resale
+
+. . . . . . . .
+
+Directors' fees . . . . . . . . . . . . . . . . . . . . . . .
+Discharge of indebtedness . . . . . . . . . . . . . . . . .
+Dividends . . . . . . . . . . . . . . . . . . . . . . . . . .
+Donation of motor vehicle . . . . . . . . . . . . . . . . . .
+Education loan interest . . . . . . . . . . . . . . . . . . .
+Employee business expense reimbursement . . . . . . . .
+Employee compensation . . . . . . . . . . . . . . . . . .
+Excess deferrals, excess contributions-distributions . . . .
+Exercise of incentive stock option under section 422(b) . .
+Fees—employee . . . . . . . . . . . . . . . . . . . . . .
+Fees—nonemployee . . . . . . . . . . . . . . . . . . . .
+Fishing boat crew members proceeds . . . . . . . . . . .
+Fish purchases for cash . . . . . . . . . . . . . . . . . .
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+5498-QA
+1099-QA
+1099-A
+1099-LTC
+1099-CAP
+1099-G
+W-2
+1099-G
+1099-R
+5498-SA
+1099-SA
+1099-MISC
+W-2
+1099-NEC
+W-2
+1099-NEC
+1099-B
+1097-BTC
+W-2
+1099-NEC
+1099-B
+1099-C
+1099-DIV
+W-2
+1099-NEC
+1099-CAP
+1099-R
+W-2
+1099-NEC
+1099-B
+W-2
+1099-NEC
+1098-C
+1099-R
+5498-ESA
+1099-Q
+1099-MISC
+1099-MISC
+1099-R
+1099-C
+W-2
+1099-DA
+1099-Q, 1099-R,
+5498
+1099-MISC,
+1099-NEC
+1099-MISC
+1099-C
+1099-DIV
+1098-C
+1098-E
+W-2
+W-2
+1099-R
+3921
+W-2
+1099-NEC
+1099-MISC
+1099-MISC
+
+Foreclosures . . . . . . . . . . . . . . . . . . . . . . . .
+Foreign persons' income . . . . . . . . . . . . . . . . . .
+401(k) contributions . . . . . . . . . . . . . . . . . . . .
+404(k) dividend . . . . . . . . . . . . . . . . . . . . . . .
+Gambling winnings . . . . . . . . . . . . . . . . . . . . .
+Golden parachute—employee . . . . . . . . . . . . . . .
+Golden parachute—nonemployee . . . . . . . . . . . . .
+Grants—taxable . . . . . . . . . . . . . . . . . . . . . .
+Health care services . . . . . . . . . . . . . . . . . . . .
+Health coverage tax credit (HCTC) advance .payments . . .
+Health savings accounts:
+—Contributions . . . . . . . . . . . . . . . . . . . . . . .
+—Distributions . . . . . . . . . . . . . . . . . . . . . . .
+Income attributable to domestic production activities, deduction
+for . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Income tax refunds—state and local . . . . . . . . . . . .
+Indian gaming profits paid to tribal members . . . . . . . .
+Interest income . . . . . . . . . . . . . . . . . . . . . . .
+Tax-exempt . . . . . . . . . . . . . . . . . . . . . . . . .
+Interest, mortgage . . . . . . . . . . . . . . . . . . . . .
+IRA contributions . . . . . . . . . . . . . . . . . . . . . .
+IRA distributions . . . . . . . . . . . . . . . . . . . . . .
+Life insurance contract distributions . . . . . . . . . . . .
+Liquidation—distributions
+. . . . . . . . . . . . . . . . .
+Loans, distribution from pension plan . . . . . . . . . . . .
+Long-term care benefits . . . . . . . . . . . . . . . . . .
+Medicare Advantage MSAs:
+—Contributions . . . . . . . . . . . . . . . . . . . . . .
+—Distributions . . . . . . . . . . . . . . . . . . . . . . .
+Medical services . . . . . . . . . . . . . . . . . . . . . .
+Mileage—employee . . . . . . . . . . . . . . . . . . . .
+Mileage—nonemployee . . . . . . . . . . . . . . . . . .
+Military retirement . . . . . . . . . . . . . . . . . . . . .
+Mortgage assistance payments . . . . . . . . . . . . . . .
+Mortgage interest . . . . . . . . . . . . . . . . . . . . . .
+Moving expense . . . . . . . . . . . . . . . . . . . . . .
+Nonemployee compensation . . . . . . . . . . . . . . . .
+Nonqualified deferred compensation:
+—Beneficiary . . . . . . . . . . . . . . . . . . . . . . .
+—Employee . . . . . . . . . . . . . . . . . . . . . . . .
+Nonemployee . . . . . . . . . . . . . . . . . . . . . . . .
+Original issue discount (OID) . . . . . . . . . . . . . . . .
+Tax-exempt OID . . . . . . . . . . . . . . . . . . . . . .
+Patronage dividends . . . . . . . . . . . . . . . . . . . .
+Payment card transactions . . . . . . . . . . . . . . . . .
+Pensions . . . . . . . . . . . . . . . . . . . . . . . . . .
+Points . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Prizes—employee . . . . . . . . . . . . . . . . . . . . .
+Prizes—nonemployee . . . . . . . . . . . . . . . . . . .
+Profit-sharing plan . . . . . . . . . . . . . . . . . . . . .
+Punitive damages . . . . . . . . . . . . . . . . . . . . .
+Qualified longevity annuity contract . . . . . . . . . . . . .
+Qualified plan distributions . . . . . . . . . . . . . . . . .
+Qualified tuition program payments . . . . . . . . . . . . .
+Real estate transactions . . . . . . . . . . . . . . . . . .
+Recharacterized IRA contributions . . . . . . . . . . . . .
+Refund—state and local tax . . . . . . . . . . . . . . . .
+Rents . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Reportable policy sale . . . . . . . . . . . . . . . . . . .
+Retirement . . . . . . . . . . . . . . . . . . . . . . . . .
+Roth conversion IRA contributions . . . . . . . . . . . . .
+Roth conversion IRA distributions . . . . . . . . . . . . . .
+Roth IRA contributions . . . . . . . . . . . . . . . . . . .
+Roth IRA distributions . . . . . . . . . . . . . . . . . . .
+Royalties . . . . . . . . . . . . . . . . . . . . . . . . . .
+Timber—pay-as-cut contract . . . . . . . . . . . . . . . .
+Sales:
+—Real estate . . . . . . . . . . . . . . . . . . . . . . .
+—Securities . . . . . . . . . . . . . . . . . . . . . . . .
+Section 1035 exchange . . . . . . . . . . . . . . . . . . .
+Seller’s investment in life insurance contract . . . . . . . .
+SEP contributions . . . . . . . . . . . . . . . . . . . . .
+SEP distributions . . . . . . . . . . . . . . . . . . . . . .
+Severance pay . . . . . . . . . . . . . . . . . . . . . . .
+Sick pay . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Report on Form
+1099-A
+1042-S
+W-2
+1099-DIV
+W-2G
+W-2
+1099-NEC
+1099-G
+1099-MISC
+1099-H
+5498-SA
+1099-SA
+1099-PATR
+1099-G
+1099-MISC
+1099-INT
+1099-INT
+1098
+5498
+1099-R
+1099-R, 1099-LTC
+1099-DIV
+1099-R
+1099-LTC
+5498-SA
+1099-SA
+1099-MISC
+W-2
+1099-NEC
+1099-R
+1098-MA
+1098
+W-2
+1099-NEC
+1099-R
+W-2
+1099-NEC
+1099-OID
+1099-OID
+1099-PATR
+1099-K
+1099-R
+1098
+W-2
+1099-NEC
+1099-R
+1099-MISC
+1098-Q
+1099-R
+1099-Q
+1099-S
+1099-R, 5498
+1099-G
+1099-MISC
+1099-LS
+1099-R
+5498
+1099-R
+5498
+1099-R
+1099-MISC, 1099-S
+1099-S
+1099-S
+1099-B
+1099-R
+1099-SB
+W-2, 5498
+1099-R
+W-2
+W-2
+
+29
+
+Type of Payment
+SIMPLE contributions . . . . . . . . . . . . . . . . . . . .
+SIMPLE distributions . . . . . . . . . . . . . . . . . . . .
+Student loan interest . . . . . . . . . . . . . . . . . . . .
+Substitute payments in lieu of dividends or tax-exempt
+interest . . . . . . . . . . . . . . . . . . . . . . . . . .
+Supplemental unemployment . . . . . . . . . . . . . . . .
+Tax refunds—state and local . . . . . . . . . . . . . . . .
+Third party network transactions . . . . . . . . . . . . . .
+Tips . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Traditional IRA contributions . . . . . . . . . . . . . . . .
+Traditional IRA distributions . . . . . . . . . . . . . . . . .
+Transfer of stock acquired through an employee stock purchase
+plan under section 423(c) . . . . . . . . . . . . . . . .
+Tuition . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Unemployment benefits . . . . . . . . . . . . . . . . . .
+Vacation allowance—employee . . . . . . . . . . . . . . .
+Vacation allowance—nonemployee . . . . . . . . . . . . .
+Wages . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+30
+
+Report on Form
+W-2, 5498
+1099-R
+1098-E
+1099-MISC
+W-2
+1099-G
+1099-K
+W-2
+5498
+1099-R
+3922
+1098-T
+1099-G
+W-2
+1099-NEC
+W-2
+
+Gen. Instr. for Certain Info. Returns (2025)
+
+Index
+
+A
+Account number box 14
+
+B
+Backup withholding 2, 18, 19
+
+C
+
+Guide to Information Returns 26
+
+H
+Help 23
+
+I
+Information returns, other 6
+
+K
+
+Corporations, payments to 21
+Corrected returns, how to file 10
+
+Keeping copies 8
+
+D
+
+L
+
+Due dates 6, 8, 16
+
+Limited liability company (LLC) 13, 14
+Logos or substitute statements 15,
+16
+
+E
+Electronic reporting 8
+Extension to file 7
+Extension to furnish statements 18
+
+M
+
+F
+
+N
+
+FATCA filing requirements 4, 13, 14
+Filing returns 7
+FIRE System 8
+Foreign intermediaries, payments
+made through 22
+Foreign person, payment to 4
+Form 1096 2, 7
+Form 945 19
+Form W-9 14
+Forms, how to get 24
+
+G
+Grantor trusts 21
+
+Mailing forms 8
+Names, TINs, etc. 13
+Nominee/middleman 3
+
+O
+Ordering forms 24
+
+P
+Paper document reporting 9
+Partnerships, payments to 21
+Payee statements 2, 15, 16
+Payments made through foreign
+intermediaries 23
+
+Penalties 9, 19
+Private delivery services 6
+
+Q
+Qualified settlement funds 3
+
+S
+State and local tax departments 7
+Statement mailing requirements 15,
+16
+Statements to recipients 2, 15, 16
+Substitute forms 2, 10, 15, 16
+Successor/predecessor reporting 3
+
+T
+Taxpayer identification number
+(TIN) 13, 18
+Telephone numbers on
+statements 15
+TIN Matching 2
+Transmitters, paying agents, etc. 8
+
+V
+Void returns 11
+
+W
+When to file 6, 8
+When to furnish statements 16
+Where to file 7
+Who must file 3, 9
+Widely held fixed investment trusts 4
+Withholding, backup 2, 18, 19
+
+31
+
+

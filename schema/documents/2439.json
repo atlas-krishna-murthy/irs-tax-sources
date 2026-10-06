@@ -1,0 +1,83 @@
+{
+  "document": {
+    "id": "2439",
+    "title": "Notice to Shareholder of Undistributed Long-Term Capital Gains",
+    "kind": "information_return",
+    "revision": "Rev. November 2021",
+    "revision_printed_as": "Form 2439 (Rev. 11-2021)",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f2439.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-pdf/f2439.pdf",
+    "issued_by": "regulated investment company (RIC) or real estate investment trust (REIT)",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1a",
+        "label": "Total undistributed long-term capital gains",
+        "type": "money",
+        "notes": "'This amount is your total undistributed long-term capital gain from your regulated investment company (RIC) or real estate investment trust (REIT).' Boxes 1b, 1c and 1d are breakouts already inside it."
+      },
+      {
+        "box": "1b",
+        "label": "Unrecaptured section 1250 gain",
+        "type": "money",
+        "notes": "COMPONENT OF BOX 1a. The 2021 instruction says 'Individual filers report this amount on line 11 of the Unrecaptured Section 1250 Gain Worksheet in the Schedule D (Form 1040) instructions for 2021 or the applicable line of the worksheet in the instructions for the current year' - the worksheet line number for 2025 was NOT verified here. Destination is a Schedule D worksheet, outside this scope."
+      },
+      {
+        "box": "1c",
+        "label": "Section 1202 gain",
+        "type": "money",
+        "notes": "COMPONENT OF BOX 1a. 'This amount applies to the portion of the amount in box 1a attributable to a section 1202 gain (sale of qualified small business stock).' Destination is the Schedule D QSB exclusion treatment, outside this scope."
+      },
+      {
+        "box": "1d",
+        "label": "Collectibles (28%) gain",
+        "type": "money",
+        "notes": "COMPONENT OF BOX 1a. 'This amount is the collectibles gain (28% rate gain) portion of the amount in box 1a.' The 2021 instruction names line 4 of the 28% Rate Gain Worksheet 'for 2021 or the applicable line ... for the current year'; the 2025 line was NOT verified here."
+      },
+      {
+        "box": "2",
+        "label": "Tax paid by the RIC or REIT on the box 1a gains",
+        "type": "money",
+        "notes": "A CREDIT, not income. 'This amount is the tax paid by the RIC or REIT on the undistributed long-term capital gains shown in box 1a. You can apply for a refund or credit of this tax.'"
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed above the issuer's block on every copy. A corrected form replaces one furnished earlier; its figures are the ones to use, never counted beside the earlier form's."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed on Copy A (the issuer's filing copy) and the state copy; the recipient's Copy B does not print it."
+      }
+    ],
+    "notes": "Continuous-use form. The revision in force is Rev. November 2021 and there is no 2025 revision: https://www.irs.gov/pub/irs-pdf/f2439.pdf and https://www.irs.gov/pub/irs-prior/f2439--2021.pdf are byte-identical (md5 f6e7f2b997b1ec4f170c3b79a7d4cd34), which is the cleanest possible confirmation. The form reports gains the fund never distributed: the shareholder reports the gain AND takes credit for the tax the fund already paid on it, and increases basis by the difference. Its own instructions name prior-year line numbers ('of the 2021 form or the applicable line on the current year form'), so every destination it names must be re-read against the current year's forms - which is what was done here for Schedule D line 11 and Schedule 3 line 13a.",
+    "face_not_boxes": [
+      {
+        "slot": "20",
+        "because": "'For calendar year 20__' and 'beginning ..., 20__' are the RIC's or REIT's tax-year blanks, not a box."
+      }
+    ]
+  },
+  "extraction": {
+    "model": "custom.2439",
+    "note": "Azure ships no prebuilt-tax model for this form, so it reached the generic reader \u2014 which emits no field bearing these box names, so every cited route out of this document was dead while looking implemented (spec 075 US1/W42). Read by the declared custom model over the boxes this document declares. ",
+    "custom": {
+      "reads": "a Form 2439, Notice to Shareholder of Undistributed Long-Term Capital Gains.",
+      "sections": [
+        {
+          "document": "2439",
+          "boxes": [
+            "1a",
+            "1b",
+            "1c",
+            "1d",
+            "2"
+          ]
+        }
+      ]
+    }
+  }
+}

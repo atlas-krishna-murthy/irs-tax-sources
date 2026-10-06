@@ -1,0 +1,81 @@
+{
+  "form": {
+    "id": "form-8815",
+    "form": "Form 8815",
+    "title": "Exclusion of Interest From Series EE and I U.S. Savings Bonds Issued After 1989",
+    "kind": "form",
+    "revision": null,
+    "source_url": "https://www.irs.gov/forms-pubs/about-form-8815",
+    "instructions_url": "https://www.irs.gov/forms-pubs/about-form-8815",
+    "lines": [
+      {
+        "line": "2",
+        "caption": "Enter the total qualified higher education expenses you paid in 2025 for the person(s) listed in column (a) of line 1. See the instructions to find out which expenses qualify",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Enter the total of any nontaxable educational benefits (such as nontaxable scholarship or fellowship grants) received for 2025 for the person(s) listed in column (a) of line 1. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Subtract line 3 from line 2. If zero or less, stop. You cannot take the exclusion",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Enter the total proceeds (principal and interest) from all series EE and I U.S. savings bonds issued after 1989 that you cashed during 2025",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Enter the interest included on line 5. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "If line 4 is equal to or more than line 5, enter \u201c1.000.\u201d If line 4 is less than line 5, divide line 4 by line 5. Enter the result as a decimal (rounded to at least three places)",
+        "type": "percent"
+      },
+      {
+        "line": "8",
+        "caption": "Multiply line 6 by line 7",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Enter your modified adjusted gross income. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Enter $99,500 if single, head of household, or qualifying surviving spouse; or $149,250 if married filing jointly",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Subtract line 10 from line 9. If zero or less, skip line 12, enter -0- on line 13, and go to line 14",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Divide line 11 by $15,000 if single, head of household, or qualifying surviving spouse; or $30,000 if married filing jointly. Enter the result as a decimal (rounded to at least three places)",
+        "type": "percent"
+      },
+      {
+        "line": "13",
+        "caption": "Multiply line 8 by line 12",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Excludable savings bond interest. Subtract line 13 from line 8. Enter the result here and on Schedule B (Form 1040), line 3",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "question": "Did you cash series EE or I U.S. savings bonds issued after 1989 and pay qualified higher education expenses for yourself, your spouse, or your dependents?",
+    "notes": "Schedule B line 3 reads 'Excludable interest on series EE and I U.S. savings bonds issued after 1989. Attach Form 8815.' The excludable amount is computed on Form 8815 and subtracted on Schedule B line 3, which is how interest already reported in Form 1099-INT box 3 leaves taxable income. No route is recorded from Form 1099-INT box 3 to Schedule B line 3, because line 3 receives the Form 8815 RESULT and not the box 3 figure. The form itself was not fetched for this part; no revision or line captions are recorded."
+  }
+}

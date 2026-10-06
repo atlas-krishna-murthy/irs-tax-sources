@@ -1,0 +1,52 @@
+{
+  "rule": {
+    "id": "cap-improvement-capitalized",
+    "title": "An improvement is capitalized: counted 0.00 on its row, depreciated by the software",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "capital_item",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-rental-income-and-expense-records.repairs",
+        "taxpayer-rental-income-and-expense-records.cleaning_and_maintenance",
+        "taxpayer-rental-income-and-expense-records.other_expenses",
+        "taxpayer-rental-income-and-expense-records.supplies",
+        "taxpayer-business-income-and-expense-records.repairs_and_maintenance",
+        "taxpayer-business-income-and-expense-records.other_expenses",
+        "taxpayer-business-income-and-expense-records.supplies",
+        "taxpayer-business-income-and-expense-records.materials_and_supplies"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "capital-item-or-expense"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "capital-item-or-expense",
+        "is": "capital"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "expense",
+      "because": "A repair or ordinary expense unless a preparer says it improved the property"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Publication 527",
+      "line": "Improvements",
+      "revision": "2025",
+      "wording": "Improvements. You must capitalize any expense you pay to improve your rental property. An expense is for an improvement if it results in a betterment to your property, restores your property, or adapts your property to a new or different use. Table 1-1 shows examples of many improvements.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p527--2025.pdf"
+    },
+    "open_point": "Two answers, as the CPA asks it (2026-10-03): Expense, or Depreciate. Depreciate counts the cost 0.00 on its row and leaves it to the tax software's depreciation, never in the expense totals \u2014 unless the de minimis safe harbor is elected and the cost is within its limit (cap-de-minimis-safe-harbor, which runs after this rule). The routine maintenance and small taxpayer safe harbors are still answered Expense by the preparer."
+  }
+}

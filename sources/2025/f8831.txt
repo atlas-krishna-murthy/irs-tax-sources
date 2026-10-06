@@ -1,0 +1,259 @@
+The form you are looking for begins on the next page of this file. Before viewing it, please see
+the important update information below.
+
+                                     New Mailing Addresses
+Addresses for mailing certain forms have changed since the forms were last published. The new mailing
+addresses are shown below.
+Mailing address for Forms 706‐A, 706‐GS(D), 706‐GS(T), 706‐NA, 706‐QDT, 8612, 8725, 8831, 8842,
+8892, 8924, 8928:
+
+Department of the Treasury
+Internal Revenue Service Center
+Kansas City, MO 64999
+
+Mailing address for Forms 2678, 8716, 8822-B, 8832, 8855:
+
+Taxpayers in the States Below                             Mail the Form to This Address
+Connecticut, Delaware, District of Columbia, Georgia,
+Illinois, Indiana,Kentucky, Maine, Maryland,              Department of the Treasury
+Massachusetts, Michigan, New Hampshire, New Jersey, Internal Revenue Service Center
+New York, North Carolina, Ohio, Pennsylvania, Rhode       Kansas City, MO 64999
+Island, South Carolina, Vermont, Virginia, West Virginia,
+Wisconsin
+Alabama, Alaska, Arizona, Arkansas, California,
+Colorado, Florida, Hawaii, Idaho, Iowa, Kansas,           Department of the Treasury
+Louisiana, Minnesota, Mississippi, Missouri, Montana,     Internal Revenue Service Center
+Nebraska, Nevada, New Mexico, North Dakota,               Ogden, UT 84201
+Oklahoma, Oregon, South Dakota, Tennessee, Texas,
+Utah, Washington, Wyoming
+
+
+This update supplements these forms’ instructions. Filers should rely on this update for the changes described,
+which will be incorporated into the next revision of the forms’ instructions.
+Form    8831
+(Rev. April 2018)
+                                                  Excise Taxes on Excess Inclusions of
+                                                       REMIC Residual Interests                                                                                   OMB No. 1545-1379
+Department of the Treasury
+Internal Revenue Service                             ▶ Go to www.irs.gov/Form8831 for the latest information.
+              Name                                                                                                                            Identifying number
+
+Please       Number, street, and room or suite no. (If a P.O. box, see instructions.)
+Type or
+Print
+             City or town, state or province, country, and ZIP or foreign postal code
+
+
+ Part I Transfers to Disqualified Organizations. File a separate Form 8831 for each transfer of a residual interest.
+Section A—Information on the Transfer
+    1    Enter the date the residual interest was transferred to a disqualified organization . . . . . ▶
+    2    Within a reasonable time after discovering this transfer was subject to tax under section 860E(e)(1), were
+         steps taken so that the residual interest you transferred is no longer held by a disqualified organization? ▶ Yes No
+    3    If you answered “Yes” to question 2, enter the date the disqualified organization disposed of the
+         residual interest . . . . . . . . . . . . . . . . . . . . . . . . . . . ▶
+         If you answered “Yes” to question 2, the tax due under section 860E(e)(1) will be waived if you pay the amount due under
+         Regulations section 1.860E-2(a)(7)(ii). Skip Section B and go to Section C to figure the amount due.
+         If you answered “No” to question 2, use Section B to figure the tax due under section 860E(e)(1). Do not complete Section C.
+Section B—Tax Due Under Section 860E(e)(1). Complete this section only if you answered “No” to question 2.
+    4    Enter the present value of the excess inclusions allocable to the residual interest you transferred
+         that are expected to accrue in each calendar quarter (or part thereof) following the transfer of that
+         interest to the disqualified organization (see instructions) . . . . . . . . . . . . . .                                                       4
+    5    Tax due. Multiply line 4 by the highest rate of tax specified in section 11 (see instructions) .                                     .    .    5
+Section C—Amount Due Under Regulations Section 1.860E-2(a)(7)(ii). Complete this section only if you answered
+“Yes” to question 2.
+    6    Enter the amount of excess inclusions allocable to the residual interest you transferred that
+         accrued during the period the disqualified organization held that interest . . . . . . . . .                                                   6
+    7    Amount due. Multiply line 6 by the highest rate of tax specified in section 11 (see instructions)                                         .    7
+ Part II      Tax on Pass-Through Entities With Interests Held by Disqualified Organizations. File a separate Form
+              8831 for Part II if you owe tax in Part I.
+    8    Enter the ending date of the pass-through entity’s tax year for which
+         this return is being filed . . . . . . . . . . . . . . ▶
+    9    Enter the amount of excess inclusions allocable to interests in the pass-through entity for which
+         the record holder is a disqualified organization . . . . . . . . . . . . . . . . .                                                              9
+ 10      Tax due. Multiply line 9 by the highest rate of tax specified in section 11 (see instructions) .                                     .    .    10
+Part III      Tax and Payments
+ 11      Enter the amount from line 5, 7, or 10, whichever applies                      .   .   .   .   .   .   .   .   .      .   .     .    .    .    11
+ 12      Amount paid with Form 7004 . . . . . . . . .                                   .   .   .   .   .   .   .   .   .      .   .     .    .    .    12
+ 13      Amount due. Enter the excess of line 11 over line 12 .                         .   .   .   .   .   .   .   .   .      .   .     .    .    .    13
+ 14      Overpayment. Enter the excess of line 12 over line 11 .                        .   .   .   .   .   .   .   .   .      .   .     .    .    .    14
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is
+true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+
+▶                                                                             ▶                                                        ▶
+Signature                                                                     Date                                                     Title (if any)
+                 Print/Type preparer’s name                        Preparer’s signature                                 Date                                        PTIN
+Paid                                                                                                                                               Check      if
+                                                                                                                                                   self-employed
+Preparer
+Use Only Firm’s name                                                                                                                               Firm’s EIN ▶
+                                  ▶
+
+                 Firm’s address ▶                                                                                                                  Phone no.
+For Privacy Act and Paperwork Reduction Act Notice, see instructions.                                           Cat. No. 13377A                                Form 8831 (Rev. 4-2018)
+[This page left blank intentionally.]
+Form 8831 (Rev. 4-2018)                                                                                                            Page 3
+
+Section references are to the Internal            You will be relieved of the liability for   its tax year in which the disqualified
+Revenue Code unless otherwise noted.           the tax if you obtain an affidavit from the    person is a record holder. If the due
+                                               transferee signed under penalties of           date falls on a Saturday, Sunday, or
+Future Developments                            perjury that either furnishes the              legal holiday, file on the next day that is
+For the latest information about               transferee’s social security number or         not a Saturday, Sunday, or legal holiday.
+developments related to Form 8831 and          states that the transferee is not a              If more time is needed, use Form
+its instructions, such as legislation          disqualified organization, provided you        7004, Application for Automatic
+enacted after they were published, go to       do not have actual knowledge at the            Extension of Time To File Certain
+www.irs.gov/Form8831.                          time of the transfer that the affidavit is     Business Income Tax, Information, and
+                                               false.                                         Other Returns, to request an extension
+General Instructions                              A pass-through entity must file Form        of time to file Form 8831. However, Form
+                                               8831 if it is liable for the tax in Part II    7004 does not extend the time for
+Purpose of Form                                under section 860E(e)(6). The entity must      payment of tax.
+                                               pay this tax if, at any time during the
+Use Form 8831 to report and pay:               entity’s tax year, excess inclusions from      Where To File
+• The excise tax due under section             a residual interest in a REMIC are             Send Form 8831 to the following
+860E(e)(1) on any transfer of a residual       allocable to an interest in the entity for     address.
+interest in a REMIC to a disqualified          which the record holder is a disqualified
+organization,                                  organization. The tax applies to excess          Department of the Treasury
+                                               inclusions for periods after March 31,           Internal Revenue Service
+• The amount due under Regulations                                                              Cincinnati, OH 45999
+                                               1988, but only to the extent the
+section 1.860E-2(a)(7)(ii) if the tax under
+                                               inclusions are allocable either to an
+section 860E(e)(1) is to be waived, or
+                                               interest in the pass-through entity            Rounding Off to Whole
+• The excise tax due under section             acquired after March 31, 1988, or to a         Dollars
+860E(e)(6) on pass-through entities with       residual interest acquired by the pass-
+interests held by disqualified                                                                You may round off cents to whole
+                                               through entity after March 31, 1988. Any
+organizations. All interests in an electing                                                   dollars on your returns and schedules. If
+                                               interest acquired under a binding
+large partnership are treated as held by                                                      you do round to whole dollars, you must
+                                               contract in effect on March 31, 1988, is
+disqualified organizations (see section                                                       round all amounts. To round, drop
+                                               treated as acquired before that date. A
+774(e) for details).                                                                          amounts under 50 cents and increase
+                                               real estate investment trust, regulated
+                                                                                              amounts from 50 to 99 cents to the next
+                                               investment company, common trust
+Definitions                                    fund, or publicly traded partnership is
+                                                                                              dollar. For example, $1.39 becomes $1
+                                                                                              and $2.50 becomes $3.
+A disqualified organization is:                subject to the tax due under section
+                                               860E(e)(6) only for tax years beginning          If you have to add two or more
+• The United States, any state or              after 1988.                                    amounts to figure the amount to enter
+political subdivision thereof, any foreign                                                    on a line, include cents when adding the
+government, any international                     Generally, a pass-through entity is not
+                                                                                              amounts and round off only the total.
+organization, or any of their agencies or      subject to the excise tax under section
+instrumentalities (except for certain          860E(e)(6) if it obtains an affidavit from     Amended Return
+taxable instrumentalities described in         the record holder signed under penalties
+section 168(h)(2)(D) and the Federal           of perjury that either furnishes the record    To amend a previously filed Form 8831,
+Home Loan Mortgage Corporation);               holder’s social security number or states      file a corrected Form 8831 marked
+                                               that the record holder is not a                “Amended” at the top of the form.
+• Any tax-exempt organization (other than a    disqualified organization. The affidavit
+farmers’ cooperative described in section      provides relief for any period during          Signature
+521), unless that organization is subject to   which the pass-through entity does not         See the instructions for the “Signature”
+the unrelated business income tax; and         have actual knowledge that the affidavit       section of your federal income tax
+• Any cooperative described in section         is false. However, this relief does not        return.
+1381(a)(2)(C).                                 apply to electing large partnerships.
+A pass-through entity is a regulated             A pass-through entity that owes both         Paid Preparer Use Only
+investment company, real estate                the excise tax in Part I under section         A paid preparer must sign Form 8831
+investment trust, common trust fund,           860E(e)(1) (or the amount due under            and provide the information in the Paid
+partnership, trust, estate, or a cooperative   Regulations section 1.860E-2(a)(7)(ii))        Preparer Use Only section at the end of
+described in section 1381. A person            and the excise tax in Part II under            the form if the preparer was paid to
+holding an interest in a pass-through entity   section 860E(e)(6) must file a separate        prepare the form and is not an employee
+as a nominee for another person is also        form for each tax.                             of the filing entity. The preparer must
+treated as a pass-through entity.                                                             give you a copy of the form in addition to
+                                               When To File                                   the copy to be filed with the IRS.
+Who Must File                                  For the excise tax due under section              If you are a paid preparer, enter your
+You must file Form 8831 if you are liable      860E(e)(1), file Form 8831 and pay the         Preparer Tax Identification Number
+for the excise tax in Part I under section     tax by April 15 of the year following the      (PTIN) in the space provided. Include
+860E(e)(1) (or the amount due under            calendar year in which the residual            your complete address. If you work for a
+Regulations section 1.860E-2(a)(7)(ii))        interest is transferred to a disqualified      firm, you also must enter the firm’s name
+because you transferred a residual             organization. A pass-through entity must       and the EIN of the firm in place of your
+interest in a REMIC to a disqualified          file Form 8831 and pay the tax due             PTIN.
+organization after March 31, 1988              under section 860E(e)(6) by the 15th day
+(unless the transfer was made under a          of the 4th month following the close of
+binding contract in effect on that date).
+File a separate Form 8831 for each
+transfer of a residual interest.
+Form 8831 (Rev. 4-2018)                                                                                                          Page 4
+
+    You can apply for a PTIN online or by       The present value of the excess            Line 14. The IRS will refund the amount
+filing Form W-12, IRS Paid Preparer Tax       inclusions expected to accrue is             on line 14 if you owe no other taxes.
+Identification Number (PTIN) Application      determined by discounting all remaining      Privacy Act and Paperwork Reduction
+and Renewal. For more information             excess inclusions expected to accrue on      Act Notice. We ask for the information
+about applying for a PTIN online, visit the   the residual interest from the end of        on this form to carry out the Internal
+IRS website at www.irs.gov/PTIN.              each calendar quarter in which those         Revenue laws of the United States. We
+                                              inclusions are expected to accrue to the     need it to figure and collect the right
+Interest and Penalties                        date the disqualified organization           amount of tax. This form is used to
+Interest. Interest is charged on taxes        acquired the residual interest. The          determine the amount of taxes you owe
+not paid by the due date. Interest is also    discount rate to be used in this             as imposed by section 860E. Section
+charged on certain penalties. The             computation is the applicable federal        6011 requires you to provide the
+interest charged is figured at a rate         rate under section 1274(d)(1) that would     requested information if the tax is
+determined under section 6621.                apply to a debt instrument issued on the     applicable to you. Section 6109 requires
+                                              date the disqualified organization           you to provide your identification
+Late filing penalty. Generally, a penalty     acquired the residual interest and with a
+of 5% a month or part of a month, up to                                                    number. Routine uses of this information
+                                              term that ends on the last day of the last   include giving it to the Department of
+a maximum of 25%, is imposed on the           quarter in which excess inclusions are
+net amount of tax due if the excise tax                                                    Justice for civil and criminal litigation and
+                                              expected to accrue for the interest.         to cities, states, and the District of
+return is not filed when due.
+                                                 The REMIC must furnish the                Columbia, and U.S. commonwealths and
+Late payment penalty. Generally, the          information needed to figure the amount      possessions for use in administering
+penalty for not paying tax when due is        on line 4 upon your request. The             their tax laws. We may also disclose this
+1/2 of 1% of the unpaid tax, up to a
+                                              information must be furnished within 60      information to other countries under a
+maximum of 25%, for each month or             days of the request. The REMIC may           tax treaty, to federal and state agencies
+part of a month the tax remains unpaid.       charge a fee for this information.           to enforce federal nontax criminal laws,
+Blended tax rate for fiscal year filers.      Line 6. Enter the amounts reported on        or to federal law enforcement and
+Effective for tax years beginning after       Schedule Q (Form 1066), Quarterly            intelligence agencies to combat
+December 31, 2017, a corporation’s tax        Notice to Residual Interest Holder of        terrorism. If you fail to provide this
+is figured by multiplying taxable income      REMIC Taxable Income or Net Loss             information in a timely manner, you may
+by 21%. However, under section 15,            Allocation, line 2c, to the disqualified     be subject to penalties.
+corporations with fiscal tax years            organization for the period it held the         You are not required to provide the
+beginning before January 1, 2018, and         residual interest.                           information requested on a form that is
+ending after December 31, 2017, figure                                                     subject to the Paperwork Reduction Act
+and apportion their tax by blending the       Part II                                      unless the form displays a valid OMB
+rates in effect before January 1, 2018,                                                    control number. Books or records
+with the rate in effect after December 31,    Line 9. Enter the amounts reported on
+                                              Schedule Q (Form 1066), line 2c, for the     relating to a form or its instructions must
+2017.                                                                                      be retained as long as their contents
+                                              tax year of the pass-through entity that
+                                              are allocable to all disqualified            may become material in the
+Specific Instructions                         organizations that held an interest in the   administration of any Internal Revenue
+                                              entity.                                      law. Generally, tax returns and return
+Name and Address                                                                           information are confidential, as required
+                                              Line 10. In general, deduct the amount       by section 6103.
+Enter the name shown on your most             on line 10 to figure the ordinary income
+recently filed federal income tax return.     of the pass-through entity. For example,        The time needed to complete and file
+Include the suite, room, apartment, or        a real estate investment trust deducts       this form will vary depending on
+other unit number after the street            the tax to figure its real estate            individual circumstances. The estimated
+address. If the Post Office does not          investment trust taxable income under        average time is: Recordkeeping, 4 hr.,
+deliver mail to the street address and        section 857(b)(2). However, an electing      32 min.; Learning about the law or the
+you have a P.O. box, show the box             large partnership excludes the amount        form, 1 hr., 29 min.; Preparing,
+number instead of the street address.         subject to tax (line 9) instead of           copying, assembling, and sending the
+                                              deducting the tax (line 10) from its         form to the IRS, 1 hr., 37 min.
+Identifying Number                            income.                                         If you have comments concerning the
+If you are an individual, enter your social                                                accuracy of these time estimates or
+security number. Other filers, enter your     Part III                                     suggestions for making this form
+employer identification number.               Line 12. If you filed Form 7004, enter       simpler, we would be happy to hear
+                                              the amount paid, if any, when you filed      from you. You can send comments
+Part I                                        that form.                                   through www.irs.gov/FormComments.
+Line 4. The excess inclusions expected                                                     Or you can write to:
+                                              Line 13. You must pay the full amount
+to accrue must be determined as of the        reported on line 13. You may make your         Internal Revenue Service
+date the residual interest is transferred     payment using the Electronic Federal           Tax Forms and Publications Division
+and must be based on events that have         Tax Payment System (EFTPS). To do so,          1111 Constitution Ave. NW, IR-6526
+occurred up to the time of the transfer,      you must be enrolled in EFTPS. To enroll       Washington, DC 20224
+the prepayment and reinvestment               in or get more information about EFTPS,        Although we cannot respond
+assumptions adopted under section             visit www.eftps.gov.                         individually to each comment received,
+1272(a)(6) (or that would have been                                                        we do appreciate your feedback and will
+adopted if the REMIC’s regular interests        You may also send us a check or
+                                              money order. If so, make your check or       consider your comments as we revise
+had been issued with original issue                                                        our tax products. Do not send the tax
+discount), and any required or permitted      money order payable to “United States
+                                              Treasury.” Write your name, address,         form to this address. Instead, see Where
+clean-up calls, or required qualified                                                      To File, earlier.
+liquidation provided under the REMIC’s        identifying number, and “Form 8831” on
+organizational documents.                     the check or money order.
+

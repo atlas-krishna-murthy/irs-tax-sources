@@ -1,0 +1,73 @@
+{
+  "document": {
+    "id": "settlement-statement",
+    "title": "Closing Disclosure / settlement statement for a real estate sale",
+    "kind": "taxpayer_record",
+    "revision": "n/a",
+    "revision_printed_as": null,
+    "source_url": null,
+    "issued_by": "the closing agent",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "contract sales price",
+        "label": "Contract sales price for the whole property",
+        "type": "money"
+      },
+      {
+        "box": "seller credits and charges",
+        "label": "Seller's selling expenses: sales commissions, advertising fees, legal fees, loan charges the seller paid that would normally have been the buyer's, and other fees or costs to sell",
+        "type": "money",
+        "notes": "ONLY selling expenses are code E on Form 8949. A credit the seller gives the buyer, a proration of taxes or dues, and the payoff of the seller's own loan are NOT selling expenses and are not this box (F-494). The box name is kept because stored confirmations are keyed on it. The p523 text reads: 'Determine your selling expenses. These are the costs directly associated with selling your home.' (https://www.irs.gov/pub/irs-prior/p523--2025.pdf)."
+      },
+      {
+        "box": "sellers named",
+        "label": "Every transferor named on the statement",
+        "type": "text"
+      },
+      {
+        "box": "closing date",
+        "label": "Date of closing",
+        "type": "date"
+      },
+      {
+        "box": "real estate taxes allocated to the seller",
+        "label": "Seller's share of the real estate taxes for the year of sale (the proration through the day before the sale)",
+        "type": "money",
+        "notes": "Deductible by the seller as real estate tax; where the buyer paid them they are also part of the sale price. The p523 text reads: 'Any real estate taxes the buyer paid on your behalf' (https://www.irs.gov/pub/irs-prior/p523--2025.pdf)."
+      },
+      {
+        "box": "points paid by the buyer",
+        "label": "Points the buyer paid on the purchase loan, as shown on the settlement statement",
+        "type": "money",
+        "notes": "The buyer's side of the statement. The i1040sca text reads: 'Points are shown on your settlement statement.' (https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf)."
+      }
+    ],
+    "notes": "NO ROUTABLE BOX, AND REQUIRED ANYWAY. It is the ONLY document that can settle whether Form 1099-S box 2 is this seller's share or the whole unallocated proceeds, and the only source of the selling expenses that become a Form 8949 column (g) adjustment under code E. Its boxes feed facts, not lines. A settlement statement carrying no form number can be the sole source of a reportable figure \u2014 the Form 8949 instructions require the transaction to be reported 'even if you didn't receive a Form 1099-B, Form 1099-DA, or Form 1099-S'."
+  },
+  "extraction": {
+    "model": "custom.settlement-statement",
+    "note": "A taxpayer's own record. No prescribed layout, so no structured model and no boxes to read: it prints ITEMS in the client's own words, and which declared box each belongs in is a JUDGEMENT a person confirms (spec 075 group D, clarification Q1). Read by the declared custom model in TRANSCRIBE mode - the same reader, a second template - which copies every line verbatim and names no destination. A separate, cheap proposal call then suggests a box per item; **only a box a person confirms places anything**, so an engagement with nineteen rental sheets shows an empty Schedule E until somebody has looked. That is the decision, not a defect.",
+    "custom": {
+      "reads": "a settlement statement from a property sale or purchase (a Closing Disclosure, ALTA statement or HUD-1)",
+      "sections": [
+        {
+          "document": "settlement-statement",
+          "boxes": [
+            "contract sales price",
+            "seller credits and charges",
+            "sellers named",
+            "closing date",
+            "real estate taxes allocated to the seller",
+            "points paid by the buyer"
+          ]
+        }
+      ],
+      "transcribe": true,
+      "identity": [
+        "sellers named",
+        "closing date"
+      ]
+    }
+  }
+}

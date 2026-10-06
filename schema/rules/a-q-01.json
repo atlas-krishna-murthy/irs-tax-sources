@@ -1,0 +1,43 @@
+{
+  "rule": {
+    "id": "a-q-01",
+    "title": "Education-plan earnings used entirely for qualified expenses are not income",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-Q.2"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "education-distribution-used-for-qualified-expenses"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "education-distribution-used-for-qualified-expenses",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1099-Q",
+      "line": "Box 2",
+      "revision": "2025",
+      "wording": "Generally, amounts distributed that are used to pay for qualified education expenses, transferred between trustees, or rolled over to another qualified education program or to an ABLE account, within 60 days, are not included in income.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1099q--2025.pdf"
+    },
+    "open_point": "When only part was used for qualified expenses, the taxable earnings are box 2 x (1 - AQEE / box 1), the Pub. 970 computation; box 2 then counts as printed. The K-12 $10,000 tuition limit is part of that computation."
+  }
+}

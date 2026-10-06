@@ -1,0 +1,45 @@
+{
+  "rule": {
+    "id": "v4-r-doc-1041t",
+    "title": "Box 13 code A counts only when item D says Form 1041-T was filed",
+    "class": "document",
+    "years": [
+      2025
+    ],
+    "acts_on": {
+      "boxes": [
+        "k-1-1041.13.A"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "box",
+        "ref": "k-1-1041.D"
+      }
+    ],
+    "operator": "include_when",
+    "params": {
+      "when": {
+        "box": "k-1-1041.D",
+        "is": true
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule K-1 (Form 1041)",
+      "line": "Box 13, Code A (Note)",
+      "revision": "2025",
+      "wording": "Form 1041-T, Allocation of Estimated Tax Payments to Beneficiaries, must be timely filed by the fiduciary for the beneficiary to get the credit for an estimated tax payment.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1041sk1--2025.pdf"
+    },
+    "research_ids": [
+      "V4:R-DOC-1041T"
+    ]
+  }
+}

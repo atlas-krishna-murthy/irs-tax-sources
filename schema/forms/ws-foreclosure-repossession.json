@@ -1,0 +1,64 @@
+{
+  "form": {
+    "id": "ws-foreclosure-repossession",
+    "form": "Worksheet for Foreclosures and Repossessions",
+    "title": "Table 1-1. Worksheet for Foreclosures and Repossessions",
+    "kind": "worksheet",
+    "revision": "2025",
+    "revision_printed_as": "Publication 4681 (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/p4681--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/p4681--2025.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Enter the amount of outstanding debt immediately before the transfer of property reduced by any amount for which you remain personally liable immediately after the transfer of property",
+        "type": "money",
+        "part": "1"
+      },
+      {
+        "line": "2",
+        "caption": "Enter the fair market value of the transferred property",
+        "type": "money",
+        "part": "1"
+      },
+      {
+        "line": "3",
+        "caption": "Ordinary income from the cancellation of debt upon foreclosure or repossession.",
+        "type": "money",
+        "part": "1"
+      },
+      {
+        "line": "4",
+        "caption": "Enter the smaller of line 1 or line 2. If you didn\u2019t complete Part 1 (because you weren\u2019t personally liable for the debt), enter the amount of outstanding debt immediately before the transfer of property",
+        "type": "money",
+        "part": "2"
+      },
+      {
+        "line": "5",
+        "caption": "Enter any proceeds you received from the foreclosure sale",
+        "type": "money",
+        "part": "2"
+      },
+      {
+        "line": "6",
+        "caption": "Add line 4 and line 5",
+        "type": "money",
+        "part": "2"
+      },
+      {
+        "line": "7",
+        "caption": "Enter the adjusted basis of the transferred property",
+        "type": "money",
+        "part": "2"
+      },
+      {
+        "line": "8",
+        "caption": "Gain or loss from foreclosure or repossession. Subtract line 7 from line 6",
+        "type": "money",
+        "part": "2",
+        "computed_by_software": true
+      }
+    ],
+    "notes": "Publication 4681's worksheet, kept for the taxpayer's records. A personal-use property's loss is not deductible; canceled recourse debt (Part 1) arrives on Form 1099-C."
+  }
+}

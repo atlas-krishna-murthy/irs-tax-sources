@@ -1,0 +1,75 @@
+Form  8827
+(Rev. December 2025)
+                               Credit for Prior-Year Minimum Tax—Corporations
+                                                   Attach to the corporation’s tax return.                                  OMB No. 1545-0123
+Department of the Treasury                  Go to www.irs.gov/Form8827 for the latest information.
+Internal Revenue Service
+Name                                                                                                            Employer identification number
+
+
+  1      Alternative minimum tax (AMT) for prior year. Enter the amount from Part II, line 13, of the
+         corporation’s prior year Form 4626 . . . . . . . . . . . . . . . . . . . . . .                                1
+  2      Minimum tax credit carryforward from the prior tax year. Enter the amount from line 12 of the prior tax
+         year Form 8827 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                      2
+  3      Add lines 1 and 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                     3
+  4      Regular income tax for current year. Enter the corporation’s regular tax liability for the current tax
+         year, as defined in section 26(b) (including any positive section 6226 adjustment from Form 8978) .           4
+  5      Base erosion minimum tax for current year. Enter the corporation’s tax imposed under section 59A for
+         the current tax year . . . . . . . . . . . . . . . . . . . . . . . . . . .                                     5
+  6      Add lines 4 and 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                      6
+  7      Enter allowable credits for the current tax year. See instructions . . . . . . . . . . . . .                   7
+  8      Section 53(c)(1) limitation. Subtract line 7 from line 6   . . . . . . . . . . . . . . . .                     8
+  9      Enter the tentative minimum tax from Part II, line 9, of the current year Form 4626 . . . . . . .              9
+ 10      Subtract line 9 from line 8. If zero or less, enter -0- . . . . . . . . . . . . . . . . .                     10
+ 11      Current year minimum tax credit. Enter the smaller of line 10 or line 3 here and on Form 1120,
+         Schedule J, line 5d (or the applicable line of the corporation’s tax return). Check if the corporation had
+         a section 382 ownership change or has pre-acquisition excess credits (see instructions):
+         (a)    Section 383 (b)     Section 384 . . . . . . . . . . . . . . . . . . . . .                              11
+ 12      Minimum tax credit carryforward. Subtract line 11 from line 3. Keep a record of this amount to carry
+         forward and use in future years   . . . . . . . . . . . . . . . . . . . . . . .                               12
+
+Instructions                                     Line 11                                          Paperwork Reduction Act Notice.
+                                                 If the corporation had a section 382             We ask for the information on this form
+Section references are to the Internal                                                            to carry out the Internal Revenue laws
+Revenue Code unless otherwise                    ownership change (as defined in
+                                                 section 382(g)), the amount of                   of the United States. You are required
+noted.                                                                                            to give us the information. We need it
+                                                 pre-change minimum tax credits that
+                                                                                                  to ensure that you are complying with
+What’s New                                       can be applied against the
+                                                                                                  these laws and to allow us to figure
+                                                 corporation’s tax for any tax year
+Applicable corporations subject to the           ending after the ownership change                and collect the right amount of tax.
+new corporate alternative minimum                may be limited. See section 383 and              You are not required to provide the
+tax, use Form 8827 to figure any credit          the related regulations. To figure the           information requested on a form that is
+for prior-year minimum tax.                      amount of the pre-change credit, the             subject to the Paperwork Reduction
+                                                 corporation must allocate the credit for         Act unless the form displays a valid
+Purpose of Form                                                                                   OMB control number. Books or
+                                                 the change year between the pre-
+Corporations use Form 8827 to figure             change period and the post-change                records relating to a form or its
+the minimum tax credit, if any, for AMT          period. The corporation must use the             instructions must be retained as long
+incurred in prior tax years, and to              same method of allocation (ratable               as their contents may become material
+figure any minimum tax credit                    allocation or closing-of-the-books) for          in the administration of any Internal
+carryforward to future years.                    purposes of sections 382 and 383.                Revenue law. Generally, tax returns
+                                                 See Regulations section 1.382-6 for              and return information are confidential,
+Who Should File                                  details.                                         as required by section 6103.
+Form 8827 should be filed by                         Also, pre-acquisition excess credits            The time needed to complete and
+corporations that have an AMT liability          of one corporation generally cannot be           file this form will vary depending on
+in a prior year.                                 used to offset the tax attributable to           individual circumstances. The
+                                                 recognized built-in gains of another             estimated burden for business
+Line 7                                                                                            taxpayers filing this form is approved
+                                                 corporation. See section 384 for
+Enter the corporation’s credits allowed          details.                                         under OMB control number 1545-0123
+under Chapter 1, Subchapter A, Part                                                               and is included in the estimates shown
+IV, subparts B, D, E, and F of the                   If either limitation applies, check the      in the instructions for their business
+Internal Revenue Code. For example, if           applicable box and attach a                      income tax return.
+filing Form 1120, include all credits on         computation of the minimum tax credit
+                                                 allowed.                                            If you have comments concerning
+Schedule J, Part I, lines 5a through 5c.                                                          the accuracy of these time estimates,
+                                                                                                  or suggestions for making this form
+                                                                                                  simpler, we would be happy to hear
+                                                                                                  from you. See the instructions for the
+                                                                                                  tax return with which this form is filed.
+
+For Paperwork Reduction Act Notice, see instructions.                    Cat. No. 13008K                 Form 8827 (Rev. 12-2025) Created 4/9/26
+

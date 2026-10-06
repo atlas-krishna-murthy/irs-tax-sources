@@ -1,0 +1,147 @@
+Form     8697
+(Rev. December 2025)
+                                            Interest Computation Under the Look-Back
+                                            Method for Completed Long-Term Contracts
+                                                                                                                                                           OMB No. 1545-0074
+
+
+Department of the Treasury                                                                                                                                 Attachment
+                                            Go to www.irs.gov/Form8697 for instructions and the latest information.                                        Sequence No. 697
+Internal Revenue Service
+For the filing year beginning                                               , and ending                                               . See instructions.
+Name                                                                                                                             A Identifying number
+
+
+Number, street, and apt., room, or suite no. If a P.O. box, see instructions.                                                    B Check applicable box to show type of taxpayer:
+
+                                                                                                                                         Corporation            S corporation
+City or town                                       State or province                                ZIP or foreign postal code           Individual             Partnership
+                                                                                                                                         Estate or trust
+C     If you were an owner of an interest in a pass-through entity (such as a partnership or an S corporation) that holds one or more long-term contracts to which this interest
+      computation relates, enter the name and employer identification number of the entity. Attach a schedule if there is more than one such entity.
+      Name of entity                                                                                                                       Employer identification number
+
+
+    Part I       Regular Method (see instructions)
+                                                                                      Filing year                 Redetermination years
+     1    Taxable income or loss for the prior years shown on tax                                                                                                  (c)
+                                                                                                                                                                  Totals
+          return (or as previously adjusted) before net operating loss                                            (a)                      (b)               (Add columns (a)
+          or capital loss carrybacks (other than carrybacks that must                 Year ended              Year ended               Year ended                and (b).)
+          be taken into account to properly compute interest under
+                                                                                mo.          yr.        mo.         yr.          mo.         yr.
+          section 460) (see instructions). If you were required to file
+          Form 8697 for an earlier year, enter adjusted taxable
+          income for the prior years from line 3, Form 8697, for the
+          most recent filing year that affects the prior years  . .
+
+     2    Adjustment to income to reflect the difference between:
+          (a) the amount of income required to be allocated for
+          post-February 1986 contracts completed or adjusted
+          during the tax year based on the actual contract price
+          and costs, and (b) the amount of income reported for such
+          contracts based on estimated contract price and costs.
+          See instructions and attach a schedule listing each
+          separate contract, unless you were an owner of an
+          interest in a pass-through entity reporting this amount
+          from Schedule K-1 or a similar statement . . . . .
+     3    Adjusted taxable income for look-back purposes.
+          Combine lines 1 and 2. If line 3 is a negative amount, see
+          instructions . . . . . . . . . . . . . .
+     4    Income tax liability on line 3 amount using tax rates in
+          effect for the prior years (see instructions) . . . . .
+
+     5    Income tax liability shown on return (or as previously
+          adjusted) for the prior years (see instructions). If you were
+          required to file Form 8697 for an earlier year, enter the
+          amount required to be reported on line 4, Form 8697, for
+          the most recent filing year that affects the prior years .
+     6    Increase or decrease in tax for the prior years on which
+          interest is due (or is to be refunded). Subtract line 5 from
+          line 4    . . . . . . . . . . . . . . .
+     7    Interest due on increase, if any, shown on line 6 (see
+          instructions) . . . . . . . . . . . . .
+     8    Interest to be refunded on decrease, if any, shown on
+          line 6 (see instructions) . . . . . . . . . .
+     9a   Net interest to be refunded to you. If line 8, column (c), is greater than line 7, column (c), enter the excess. File
+          Form 8697 separately. Do not attach it to your tax return (see instructions) . . . . . . . . . . . . .
+          b Routing number                                                        c Type:            Checking             Savings
+
+          d Account number
+
+    10    Net interest you owe. If line 7, column (c), is greater than line 8, column (c), enter the excess. File Form 8697 with your
+          tax return. See instructions for where to include this amount on your return . . . . . . . . . . . . .
+For Privacy Act and Paperwork Reduction Act Notice, see instructions.                               Cat. No. 64598V                 Form 8697 (Rev. 12-2025) Created 1/12/26
+Form 8697 (Rev. 12-2025)                                                                                                                                                             Page 2
+ Part II      Simplified Marginal Impact Method (SMIM) (see instructions)
+                                                                                                 Date of each prior year to which interest
+                                                                                                           computation relates                                                 (d)
+  1     Adjustment to regular taxable income to reflect the                                                                                                                  Totals
+        difference between: (a) the amount of such income                                     (a)                       (b)                         (c)               (Add columns (a),
+        required to be allocated for post-February 1986 contracts                         Year ended                Year ended                  Year ended               (b), and (c).)
+        completed or adjusted during the tax year based on actual
+        contract price and costs, and (b) the amount of such                        mo.           yr.         mo.           yr.           mo.         yr.
+        income reported for such contracts based on estimated
+        contract price and costs. See instructions and attach a
+        schedule listing each separate contract, unless you were
+        an owner of an interest in a pass-through entity reporting
+        this amount from Schedule K-1 or a similar statement .
+  2     Regular tax increase or decrease for prior years. Multiply
+        line 1 in each column by the applicable regular tax rate
+        (see instructions) . . . . . . . . . . . .
+  3     Adjustment to alternative minimum taxable income (AMTI)
+        to reflect the difference between: (a) AMTI required to be
+        allocated for post-February 1986 contracts completed or
+        adjusted during the tax year based on actual contract
+        price and costs, and (b) AMTI reported for such contracts
+        based on estimated contract price and costs. See
+        instructions and attach a schedule listing each separate
+        contract, unless you were an owner of an interest in a
+        pass-through entity reporting this amount from Schedule
+        K-1 or a similar statement . . . . . . . . .
+  4     Alternative minimum tax (AMT) increase or decrease for
+        prior years. Multiply line 3 in each column by the
+        applicable AMT rate (see instructions) . . . . . .
+  5     Enter the larger of line 2 or line 4. See instructions if either
+        amount is negative . . . . . . . . . . .
+        Pass-through entities: Skip line 6 and enter on line 7 the
+        amount from line 5.
+  6     Overpayment ceiling. For each column in which line 5 is a
+        negative number, enter your total tax liability for the prior year,
+        as adjusted for past applications of the look-back method
+        and after net operating loss, capital loss, net section 1256
+        contracts loss, and credit carryovers and carrybacks to that
+        year. For each column in which line 5 is a positive number,
+        leave line 6 blank and enter on line 7 the amount from line 5
+  7     Increase or decrease in tax for the prior years on which
+        interest is due (or is to be refunded). Enter the smaller of
+        line 5 or line 6. Treat both numbers as positive when making
+        this comparison, but enter the amount as a negative number
+  8     Interest due on increase, if any, shown on line 7 (see
+        instructions) . . . . . . . . . . . . .
+  9     Interest to be refunded on decrease, if any, shown on
+        line 7 (see instructions) . . . . . . . . . .
+ 10a    Net interest to be refunded to you. If line 9, column (d), is greater than line 8, column (d), enter the excess. File
+        Form 8697 separately. Do not attach it to your tax return (see instructions) . . . . . . . . . . . . .
+        b Routing number                                                              c Type:              Checking               Savings
+
+        d Account number
+
+ 11     Net interest you owe. If line 8, column (d), exceeds line 9, column (d), enter the excess. File Form 8697 with your tax
+        return. See instructions for where to include this amount on your return . . . . . . . . . . . . . .
+Signature(s). Complete this section only if you are filing this form by itself and not with your tax return.
+                Under penalties of perjury, I declare that I have examined this form, including accompanying schedules and statements, and to the best of my knowledge and belief, it is true,
+                correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+
+Sign            Your signature                                                                                                           Date
+Here            Spouse’s signature. If a joint return, both must sign                                                                    Date
+
+
+                Preparer’s name                                         Preparer’s signature                                      Date                         PTIN
+Paid                                                                                                                                             Check      if
+                                                                                                                                                 self-employed
+Preparer
+Use Only Firm’s name                                                                                                                              Firm’s EIN
+                Firm’s address                                                                                                                    Phone no.
+                                                                                                                                                               Form 8697 (Rev. 12-2025)
+

@@ -1,0 +1,3907 @@
+2025
+
+Instructions for Form 709
+United States Gift (and Generation-Skipping Transfer) Tax Return
+For gifts made during calendar year 2025
+Section references are to the Internal Revenue Code unless
+otherwise noted.
+Contents
+
+For Gifts Made
+
+Page
+
+General Instructions . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Purpose of Form . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Who Must File . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+When To File . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Where To File . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Amending Form 709 To Provide
+Supplemental Information . . . . . . . . . . . . . . . . 6
+Adequate Disclosure . . . . . . . . . . . . . . . . . . . . . . 6
+Penalties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Joint Tenancy . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Transfer of Certain Life Estates Received
+From Spouse . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Specific Instructions . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Part I—General Information . . . . . . . . . . . . . . . . . 7
+Part III—Spouse’s Consent on Gifts to Third
+Parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Schedule A. Computation of Taxable Gifts . . . . . . 8
+Gifts Subject to Both Gift and GST Taxes . . . . . . . 9
+Schedule B. Gifts From Prior Periods . . . . . . . . . 14
+Schedule C. Deceased Spousal Unused
+Exclusion (DSUE) Amount and Restored
+Exclusion Amount . . . . . . . . . . . . . . . . . . . . . 19
+Schedule D. Computation of
+Generation-Skipping Transfer Tax . . . . . . . . . 20
+Part II—Tax Computation (Page 1 of Form
+709) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Signature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+Future Developments
+For the latest information about developments related to Form
+709 and its instructions, such as legislation enacted after they
+were published, go to IRS.gov/Form709.
+
+and Before
+
+Use Revision of
+Form 709 Dated
+
+–––––
+
+January 1, 1982
+
+November 1981
+
+December 31, 1981
+
+January 1, 1987
+
+January 1987
+
+December 31, 1986
+
+January 1, 1989
+
+December 1988
+
+December 31, 1988
+
+January 1, 1990
+
+December 1989
+
+December 31, 1989
+
+October 9, 1990
+
+October 1990
+
+October 8, 1990
+
+January 1, 1992
+
+November 1991
+
+December 31, 1992
+
+January 1, 1998
+
+December 1996
+
+December 31, 1997
+
+–––––
+
+*
+
+* Use the corresponding annual form.
+
+What’s New
+
+• Electronic Filing. Modernized e-File (MeF) for gift taxes
+
+•
+•
+•
+
+•
+•
+•
+•
+•
+
+Oct 6, 2025
+
+After
+
+now offers a secure and accurate way to file the Form 709,
+United States Gift (and Generation-Skipping Transfer) Tax
+Return. It is an electronic filing process that allows the Form
+709 family of returns to be received through the MeF
+system. You can e-file a return showing a balance due and,
+at the same time, authorize an electronic funds withdrawal
+from your bank account. Payments are subject to limitations
+of the Federal Tax Deposit rules. Additional information is
+available on the Modernized e-File information page. If help
+is needed with your e-file tax needs, you may contact the
+e-help Desk at 866-255-0654 (toll-free).
+Electronic payments. If you have access to U.S. banking
+services or electronic payment systems, you should use
+direct deposit for any refunds and pay electronically for any
+payments, whenever possible.
+Making a payment. If there is a balance due on Part II,
+line 19, go to IRS.gov/Payments for information on how to
+make a payment. See the instructions for Part II, line 19,
+later, for more details.
+Direct deposit. Direct deposit fields have been added onto
+the form on Part II, lines 20b, 20c, and 20d. If there is an
+overpayment on Part II, line 20a, enter your direct deposit
+information on Part II, lines 20b, 20c, and 20d. See Part II,
+line 20, later, for more information.
+The annual gift exclusion for 2025 is $19,000. See Annual
+Exclusion, later.
+For gifts made to spouses who are not U.S. citizens, the
+annual exclusion has increased to $190,000. See
+Nonresidents Not Citizens of the United States, later.
+The top rate for gifts and generation-skipping transfers
+remains at 40%. See Table for Computing Gift Tax.
+The basic credit amount for 2025 is $5,541,800. See Table
+of Basic Exclusion and Credit Amounts.
+The applicable exclusion amount consists of the basic
+exclusion amount ($13,990,000 in 2025) and, in the case of
+a surviving spouse, any unused exclusion amount of the last
+deceased spouse (who died after December 31, 2010). The
+
+Instructions for Form 709 (2025) Catalog Number 16784X
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+executor of the predeceased spouse’s estate must have
+made an election on a timely and complete Form 706 to
+allow the donor to use the predeceased spouse’s unused
+exclusion amount.
+
+Reminders
+Part I—General Information. Entry lines in this section were
+reorganized and the address includes foreign address entries.
+Lines 12 through 18 were moved to Part III.
+Part III—Spouse’s Consent on Gifts to Third Parties. Part I,
+lines 12 through 18, were moved to a new Part III on the second
+page of Form 709. A consenting spouse is no longer required to
+sign the return but must sign a Notice of Consent to be attached
+to the donor’s return.
+Schedule A. Columns for Parts 1, 2, and 3 of Schedule A were
+reorganized. New columns (k), (l), and (m) checkboxes were
+added to Parts 1 and 3 to identify if the gift is a charitable gift,
+deductible gift to spouse, or section 2652(a)(3) election.
+New Form 709-NA. If you are a nonresident not a citizen of the
+United States and made gifts of real or other tangible property
+situated in the United States, file Form 709-NA, United States
+Gift (and Generation-Skipping Transfer) Tax Return of
+Nonresident Not a Citizen of the United States.
+
+Photographs of Missing Children
+
+The IRS is a proud partner with the National Center for Missing &
+Exploited Children® (NCMEC). Photographs of missing children
+selected by the Center may appear in instructions on pages that
+would otherwise be blank. You can help bring these children
+home by looking at the photographs and calling
+1-800-THE-LOST (1-800-843-5678) if you recognize a child.
+
+General Instructions
+Purpose of Form
+
+Use Form 709 to report the following.
+• Transfers subject to the federal gift and certain
+generation-skipping transfer (GST) taxes and to figure the
+tax due, if any, on those transfers.
+• Allocation of the lifetime GST exemption to property
+transferred during the transferor’s lifetime. (For more details,
+see Schedule D, Part 2 GST Exemption Reconciliation, later,
+and Regulations section 26.2632-1.)
+Caution: All gift and GST taxes must be figured and filed on a
+calendar-year basis. List all reportable gifts made during the
+calendar year on one Form 709. This means you must file a
+separate return for each calendar year a reportable gift is given
+(for example, a gift given in 2025 must be reported on a 2025
+Form 709). Do not file more than one Form 709 for the same
+calendar year.
+
+How To Complete Form 709
+1. Determine whether you are required to file Form 709.
+2. Determine what gifts you must report.
+3. Decide whether you and your spouse, if any, will elect to
+split gifts for the year.
+4. Complete lines 1 through 21 of Part I—General Information.
+5. Complete lines 1 through 7 of Part III—Spouse’s Consent on
+Gifts to Third Parties.
+6. List each gift on Part 1, 2, or 3 of Schedule A, as
+appropriate.
+7. Complete Schedules B, C, and D, as applicable.
+2
+
+8. If the gift was listed on Part 2 or 3 of Schedule A, complete
+the necessary portions of Schedule D.
+9. Complete Schedule A, Part 4.
+10. Complete Part II—Tax Computation.
+11. Sign and date the return.
+Tip: Make sure to complete page 1 and the applicable
+schedules in their entirety. Returns filed without entries in each
+field will not be processed.
+
+Who Must File
+
+In general. If you are a citizen or resident of the United States,
+you must file a gift tax return (whether or not any tax is ultimately
+due) in the following situations.
+• If you gave gifts to someone in 2025 totaling more than
+$19,000 (other than to your spouse), you must generally file
+Form 709. But see Transfers Not Subject to the Gift Tax and
+Gifts to Your Spouse, later, for more information on specific
+gifts that are not taxable.
+• Certain gifts, called future interests, are not subject to the
+$19,000 annual exclusion and you must file Form 709 even if
+the gift was under $19,000. See Annual Exclusion, later.
+• Spouses may not file a joint gift tax return. Each individual is
+responsible to file a Form 709.
+• You must file a gift tax return to split gifts with your spouse
+(regardless of their amount) as described in Part III Spouse’s
+Consent on Gifts to Third Parties, later.
+• If a gift is of community property, it is considered made
+one-half by each spouse. For example, a gift of $100,000 of
+community property is considered a gift of $50,000 made by
+each spouse, and each spouse must file a gift tax return.
+• Likewise, each spouse must file a gift tax return if they have
+made a gift of property held by them as joint tenants or
+tenants by the entirety.
+• Only individuals are required to file gift tax returns. If a trust,
+estate, partnership, or corporation makes a gift, the
+individual beneficiaries, partners, or stockholders are
+considered donors and may be liable for the gift and GST
+taxes.
+• The donor is responsible for paying the gift tax. However, if
+the donor does not pay the tax, the person receiving the gift
+may have to pay the tax.
+• If a donor dies before filing a return, the donor’s executor
+must file the return.
+
+Who does not need to file. If you meet all of the following
+requirements, you are not required to file Form 709.
+• You made no gifts during the year to your spouse.
+• You did not give more than $19,000 to any one donee.
+• All the gifts you made were of present interests.
+Gifts to charities. If the only gifts you made during the year are
+deductible as gifts to charities, you do not need to file a return as
+long as you transferred your entire interest in the property to
+qualifying charities. If you transferred only a partial interest, or
+transferred part of your interest to someone other than a charity,
+you must still file a return and report all of your gifts to charities.
+Note: See Pub. 526, Charitable Contributions, for more
+information on identifying a qualified charity.
+If you are required to file a return to report noncharitable gifts
+and you made gifts to charities, you must include all of your gifts
+to charities on the return.
+
+Transfers Subject to the Gift Tax
+
+Generally, the federal gift tax applies to any transfer by gift of real
+or personal property, whether tangible or intangible, that you
+made directly or indirectly, in trust, or by any other means.
+Instructions for Form 709 (2025)
+
+The gift tax applies not only to the free transfer of any kind of
+property, but also to sales or exchanges, not made in the
+ordinary course of business, where value of the money (or
+property) received is less than the value of what is sold or
+exchanged. The gift tax is in addition to any other tax, such as
+federal income tax, paid or due on the transfer.
+The exercise or release of a general power of appointment
+may be a gift by the individual possessing the power. General
+powers of appointment are those in which the holders of the
+power can appoint the property under the power to themselves,
+their creditors, their estates, or the creditors of their estates. To
+qualify as a power of appointment, it must be created by
+someone other than the holder of the power.
+The gift tax may also apply to forgiving a debt, to making an
+interest-free or below-market interest rate loan, to transferring
+the benefits of an insurance policy, to certain property
+settlements in divorce cases, and to giving up some amount of
+annuity in exchange for the creation of a survivor annuity.
+Bonds that are exempt from federal income taxes are not
+exempt from federal gift taxes.
+Sections 2701 and 2702 provide rules for determining
+whether certain transfers to a family member of interests in
+corporations, partnerships, and trusts are gifts. The rules of
+section 2704 determine whether the lapse of any voting or
+liquidation right is a gift.
+Digital assets. The gift tax applies to transfers of digital assets.
+Digital assets are any digital representations of value that are
+recorded on a cryptographically secured distributed ledger or
+any similar technology. For example, digital assets include
+non-fungible tokens (NFTs) and virtual currencies, such as
+cryptocurrencies and stablecoins. If a particular asset has the
+characteristics of a digital asset, it will be treated as a digital
+asset for federal transfer tax purposes.
+Gifts to your spouse. You do not have to file a gift tax return to
+report gifts to your spouse if your spouse is a U.S. citizen unless
+you made a gift to your spouse of a terminable interest that does
+not meet the exception described under Life estate with power of
+appointment, later. You must also file a gift tax return to make the
+qualified terminable interest property (QTIP) election described
+under Line 12, later.
+You do not have to file a gift tax return to report gifts to your
+spouse if your spouse is not a U.S. citizen unless the total gifts of
+present interests you made to your spouse during the year
+exceed $190,000 or you made any gifts of future interests to your
+spouse.
+
+Transfers Not Subject to the Gift Tax
+
+Four types of transfers are not subject to the gift tax. These are:
+• Transfers to political organizations,
+• Transfers to certain exempt organizations,
+• Payments that qualify for the educational exclusion, and
+• Payments that qualify for the medical exclusion.
+These transfers are not “gifts” as that term is used on Form 709
+and in its instructions. You need not file a Form 709 to report
+these transfers and should not list them on Schedule A of Form
+709 if you do file Form 709.
+Political organizations. The gift tax does not apply to a
+transfer to a political organization (defined in section 527(e)(1))
+for the use of the organization.
+Certain exempt organizations. The gift tax does not apply to a
+transfer to any civic league or other organization described in
+section 501(c)(4); any labor, agricultural, or horticultural
+organization described in section 501(c)(5); or any business
+league or other organization described in section 501(c)(6) for
+Instructions for Form 709 (2025)
+
+the use of such organization, provided that such organization is
+exempt from tax under section 501(a).
+Educational exclusion. The gift tax does not apply to an
+amount you paid on behalf of an individual to a qualifying
+domestic or foreign educational organization as tuition for the
+education or training of the individual. A qualifying educational
+organization is one that normally maintains a regular faculty and
+curriculum and normally has a regularly enrolled body of pupils
+or students in attendance at the place where its educational
+activities are regularly carried on. See section 170(b)(1)(A)(ii)
+and its regulations.
+The payment must be made directly to the qualifying
+educational organization and it must be for tuition. No
+educational exclusion is allowed for amounts paid for books,
+supplies, room and board, or other similar expenses that are not
+direct tuition costs. To the extent that the payment to the
+educational organization was for something other than tuition, it
+is a gift to the individual for whose benefit it was made, and may
+be offset by the annual exclusion if it is otherwise available.
+Contributions to a qualified tuition program (QTP) on behalf of
+a designated beneficiary do not qualify for the educational
+exclusion. See Line B in the instructions for Schedule A, later.
+Medical exclusion. The gift tax does not apply to an amount
+you paid on behalf of an individual to a person or institution that
+provided medical care for the individual. The payment must be to
+the care provider. The medical care must meet the requirements
+of section 213(d) (definition of medical care for income tax
+deduction purposes). Medical care includes expenses incurred
+for the diagnosis, cure, mitigation, treatment, or prevention of
+disease, or for the purpose of affecting any structure or function
+of the body, or for transportation primarily for and essential to
+medical care. Medical care also includes amounts paid for
+medical insurance on behalf of any individual.
+The medical exclusion does not apply to amounts paid for
+medical care that are reimbursed by the donee’s insurance. If
+payment for a medical expense is reimbursed by the donee’s
+insurance company, your payment for that expense, to the extent
+of the reimbursed amount, is not eligible for the medical
+exclusion and you are considered to have made a gift to the
+donee of the reimbursed amount.
+To the extent that the payment was for something other than
+medical care, it is a gift to the individual on whose behalf the
+payment was made and may be offset by the annual exclusion if
+it is otherwise available.
+The medical and educational exclusions are allowed without
+regard to the relationship between you and the donee. For
+examples illustrating these exclusions, see Regulations section
+25.2503-6(c).
+Qualified disclaimers. A donee’s refusal to accept a gift is
+called a disclaimer. If a person makes a qualified disclaimer of
+any interest in property, the property will be treated as if it had
+never been transferred to that person. Accordingly, the
+disclaimant is not regarded as making a gift to the person who
+receives the property because of the qualified disclaimer.
+Requirements. To be a qualified disclaimer, a refusal to
+accept an interest in property must meet the following
+conditions.
+1. The refusal must be in writing.
+2. The refusal must be received by the donor, the legal
+representative of the donor, the holder of the legal title to the
+property disclaimed, or the person in possession of the
+property within 9 months after the later of:
+a. The day the transfer creating the interest is made, or
+b. The day the disclaimant reaches age 21.
+3
+
+3. The disclaimant must not have accepted the interest or any
+of its benefits.
+4. As a result of the refusal, the interest must pass without any
+direction from the disclaimant to either:
+a. The spouse of the decedent, or
+b. A person other than the disclaimant.
+5. The refusal must be irrevocable and unqualified.
+The 9-month period for making the disclaimer is generally
+determined separately for each taxable transfer. For gifts, the
+period begins on the date the transfer is a completed transfer for
+gift tax purposes.
+
+Annual Exclusion
+
+The first $19,000 of gifts of present interest to each donee during
+the calendar year is subtracted from total gifts in figuring the
+amount of taxable gifts. For a gift in trust, each beneficiary
+having a present interest in such gift is treated as a separate
+donee for purposes of the annual exclusion.
+All of the gifts made during the calendar year to a donee are
+fully excluded under the annual exclusion if they are all gifts of
+present interest and they total $19,000 or less.
+See Gifts to Donees Other Than Your Spouse in the
+instructions for Schedule A, later, for more information on the
+annual exclusion whether or not gift splitting is elected.
+Note: For gifts made to spouses who are not U.S. citizens, the
+annual exclusion has been increased to $190,000, provided the
+additional $171,000 gift (above the $19,000 annual exclusion)
+would otherwise qualify for the gift tax marital deduction (as
+described in the Schedule A, Part 4, line 4, instructions, later).
+Note: Only the annual exclusion applies to gifts made to a
+nonresident not a citizen of the United States. Deductions and
+credits are not considered in determining gift tax liability for such
+transfers.
+A gift of a future interest cannot be excluded under the annual
+exclusion.
+A gift is considered a present interest if the donee has all
+immediate rights to the use, possession, and enjoyment of the
+property or income from the property.
+A gift is considered a future interest if the donee’s rights to the
+use, possession, and enjoyment of the property or income from
+the property will not begin until some future date. Future interests
+include reversions, remainders, and other similar interests or
+estates.
+A contribution to a QTP on behalf of a designated beneficiary
+is considered a gift of a present interest.
+A gift to a minor is considered a present interest if all of the
+following conditions are met.
+1. Both the property and its income may be expended by, or
+for the benefit of, the minor before the minor reaches age
+21.
+2. All remaining property and its income must pass to the
+minor on the minor’s 21st birthday.
+3. If the minor dies before the age of 21, the property and its
+income will be payable either to the minor’s estate or to
+whomever the minor may appoint under a general power of
+appointment.
+The gift of a present interest to more than one donee as joint
+tenants qualifies for the annual exclusion for each donee.
+4
+
+Nonresident Not a Citizen (NRNC) of the United
+States
+
+For gift tax purposes, an individual is an NRNC of the United
+States if the individual is neither domiciled in nor a citizen of the
+United States at the time the gift is made. An individual who
+acquired U.S. citizenship solely by reason of being a citizen of a
+U.S. territory or by reason of birth or residence within a U.S.
+territory is not treated as a U.S. citizen.
+Note: An individual may be a U.S. resident for income tax
+purposes yet be considered a nonresident for gift tax purposes.
+An NRNC of the United States is subject to gift and GST
+taxes for gifts of real or other tangible property situated in the
+United States. See section 2501(a). If you are an NRNC of the
+United States and made such gifts, file Form 709-NA, United
+States Gift (and Generation-Skipping Transfer) Tax Return of
+Nonresident Not a Citizen of the United States.
+If you were an NRNC of the United States for the entire
+calendar year who made a gift subject to U.S. gift tax, you must
+file Form 709-NA when any of the following apply.
+• You gave any gifts of future interests.
+• Your gifts of present interests to any donee other than your
+spouse total more than $19,000.
+• Your outright gifts to your spouse who is not a U.S. citizen
+total more than $190,000.
+Note: If you are a taxpayer who is a partial-year resident/citizen
+of the United States who makes gifts of U.S.-situs property
+during the portion of the year that you are a nonresident
+noncitizen and also during the portion of the same year when
+you are a U.S. citizen or resident, you must account for
+reportable gifts and tax attributes allocable to your nonresident
+noncitizen period as well as your citizen or resident period. In
+such circumstances, the taxpayer must file only Form 709 and
+include information for all reportable gifts made regardless of the
+taxpayer’s status.
+
+Transfers Subject to the GST Tax
+
+You must report on Form 709 the GST tax imposed on inter vivos
+direct skips. An inter vivos direct skip is a transfer made during
+the donor’s lifetime that is:
+• Subject to the gift tax,
+• Of an interest in property, and
+• Made to a skip person. (See Gifts Subject to Both Gift and
+GST Taxes, later.)
+A transfer is subject to the gift tax if it is required to be
+reported on Schedule A of Form 709 under the rules contained
+in the gift tax portions of these instructions, including the split gift
+rules. Therefore, transfers made to political organizations,
+transfers made to certain exempt organizations, transfers that
+qualify for the medical or educational exclusion, transfers that
+are fully excluded under the annual exclusion, and most transfers
+made to your spouse are not subject to the GST tax.
+Transfers subject to the GST tax are described in further
+detail in the instructions.
+Caution: Certain transfers, particularly transfers to a trust, that
+are not subject to gift tax and are therefore not subject to the
+GST tax on Form 709 may be subject to the GST tax at a later
+date. This is true even if the transfer is less than the $19,000
+annual exclusion. In this instance, you may want to apply a GST
+exemption amount to the transfer on this return or on a Notice of
+Allocation. However, you should be aware that a GST exemption
+may be automatically allocated to the gift if the trust that receives
+the gift is a “GST trust” (as defined under section 2632(c)). For
+more information, see Schedule D, Part 2—GST Exemption
+Reconciliation and Schedule A, Part 3—Indirect Skips and Other
+Transfers in Trust, later.
+Instructions for Form 709 (2025)
+
+Transfers Subject to an Estate Tax Inclusion
+Period (ETIP)
+
+Certain transfers receive special treatment if the transferred
+property is subject to an ETIP. An ETIP is the period during
+which, should the donor die, the value of transferred property
+would be includible (other than by reason of section 2035) in the
+gross estate of the donor or the spouse of the donor. For
+transfers subject to an ETIP, GST tax reporting may be required
+at the close of the ETIP.
+For example, if you transfer a house to a qualified personal
+residence trust for a term of 10 years, with the remainder to your
+granddaughter, the value of the house will be includible in your
+estate if you die during the 10-year term. In this case, the transfer
+to the trust is a completed gift that should be reported on
+Schedule A, Part 3 because the transfer is subject to gift tax now
+and will later become subject to GST tax. The transfer is not a
+direct skip because the trust is not a skip person, as a non-skip
+person (you) holds an interest in the trust.
+On the Form 709 for the year in which the ETIP closes, you
+should report the GST transfer (a taxable termination) on
+Schedule D, Part 1, whether or not an allocation of GST
+exemption or an election under section 2632(c)(5) was
+previously made. This ensures accurate reporting of the value of
+the transfer for GST purposes and the amount of GST exemption
+allocated to the transfer occurring at the close of the ETIP. Note
+that if the ETIP closes as a result of your death, the executor of
+your estate will report the GST transfer on Form 706, United
+States Estate (and Generation-Skipping Transfer) Tax Return.
+If you are filing this Form 709 solely to report the GST portion
+of transfers subject to an ETIP, complete the form as you
+normally would with the following exceptions.
+1. Write “ETIP” at the top of page 1.
+2. Complete only lines 1 through 12, and 14 through 16 of Part
+I—General Information.
+3. Complete Schedule D. Complete columns (b) and (c) of
+Schedule D, Part 1, as explained in the instructions for that
+schedule.
+4. Complete only lines 10 and 11 of Schedule A, Part 4.
+5. Complete Part II—Tax Computation.
+Tip: A direct skip that is subject to an ETIP is deemed to have
+been made only at the close of the ETIP. Any allocation of GST
+exemption to the transfer of property subject to an ETIP, whether
+a direct skip or an indirect skip, shall not be treated as made until
+the close of the ETIP. The donor may prevent the automatic
+allocation of GST exemption by electing out of the automatic
+allocation rules at any time prior to the due date of the Form 709
+for the calendar year in which the close of the ETIP occurs
+(whether or not any transfer was made in the calendar year for
+which the Form 709 was filed and whether or not a Form 709
+would otherwise be required to be filed for that year).
+
+Section 2701 Elections
+
+The special valuation rules of section 2701 contain three
+elections that you can make only with Form 709.
+1. A transferor may elect to treat a qualified payment right that
+the transferor holds (and all other rights of the same class)
+as other than a qualified payment right.
+2. A person may elect to treat a distribution right held by that
+person in a controlled entity as a qualified payment right.
+3. An interest holder may elect to treat as a taxable event the
+payment of a qualified payment that occurs more than 4
+years after its due date.
+Instructions for Form 709 (2025)
+
+The elections described in (1) and (2) must be made on the
+Form 709 that is filed by the transferor to report the transfer that
+is being valued under section 2701. The elections are made by
+attaching a statement to Form 709. For information on what must
+be in the statement and for definitions and other details on the
+elections, see section 2701 and Regulations section
+25.2701-2(c).
+The election described in (3) may be made by attaching a
+statement to the Form 709 filed by the recipient of the qualified
+payment for the year the payment is received. If the election is
+made on a timely filed return, the taxable event is deemed to
+occur on the date the qualified payment is received. If it is made
+on a late-filed return, the taxable event is deemed to occur on the
+first day of the month immediately preceding the month in which
+the return is filed. For information on what must be in the
+statement and for definitions and other details on this election,
+see section 2701 and Regulations section 25.2701-4(d).
+All of the elections may be revoked, but only with the consent
+of the IRS.
+
+When To File
+
+Form 709 is an annual return.
+Generally, you must file Form 709 no earlier than January 1,
+but not later than April 15, of the year after the gift was made.
+However, in instances when April 15 falls on a Saturday, Sunday,
+or legal holiday, Form 709 will be due on the next business day.
+See section 7503.
+If the donor died during 2025, the executor must file the
+donor’s 2025 Form 709 not later than the earlier of:
+• The due date (with extensions) for filing the donor’s estate
+tax return; or
+• April 15, 2026, or the extended due date granted for filing
+the donor’s gift tax return.
+
+Extension of Time To File
+
+There are two methods of extending the time to file the gift tax
+return. Neither method extends the time to pay the gift or GST
+tax. If you want an extension of time to pay the gift or GST tax,
+you must request that separately. See Regulations section
+25.6161-1.
+By extending the time to file your income tax return. Any
+extension of time granted for filing your calendar year 2025
+federal income tax return will also automatically extend the time
+to file your 2025 federal gift tax return. Income tax extensions are
+made by using Form 4868, Application for Automatic Extension
+of Time To File U.S. Individual Income Tax Return; or Form 2350,
+Application for Extension of Time To File U.S. Income Tax
+Return. You may only use these forms to extend the time for filing
+your gift tax return if you are also requesting an extension of time
+to file your income tax return.
+By filing Form 8892. If you do not request an extension for your
+income tax return, use Form 8892, Application for Automatic
+Extension of Time To File Form 709 or Form 709-NA and/or
+Payment of Gift/Generation-Skipping Transfer Tax, to request an
+automatic 6-month extension of time to file your federal gift tax
+return. In addition to containing an extension request, Form 8892
+also serves as a payment voucher (Form 8892-V) for a balance
+due on federal gift taxes for which you are extending the time to
+file. For more information, see Form 8892.
+
+Private Delivery Services (PDSs)
+
+Filers can use certain PDSs designated by the IRS to meet the
+“timely mailing as timely filing” rule for tax returns. Go to
+IRS.gov/PDS for the current list of designated services.
+The PDS can tell you how to get written proof of the mailing
+date.
+5
+
+For the IRS mailing address to use if you’re using a PDS, go
+to IRS.gov/PDSStreetAddresses.
+Caution: PDSs can’t deliver items to P.O. boxes. You must use
+the U.S. Postal Service to mail any item to an IRS P.O. box
+address.
+
+Where To File
+
+File Form 709 at the following address.
+Department of the Treasury
+Internal Revenue Service Center
+Kansas City, MO 64999
+If using a PDS, file at the following address.
+Internal Revenue Service
+333 W. Pershing Road
+Kansas City, MO 64108
+
+Amending Form 709 To Provide
+Supplemental Information
+
+If you find that you must make a correction on a return that has
+already been filed, and/or provide supplemental information, you
+should:
+• File another Form 709;
+• Check the amended return box in line 15 of Part I—General
+Information;
+• Include a statement of what has changed, along with the
+supporting information; and
+• Attach a copy of the original Form 709 that has already been
+filed.
+For the mailing address for a supplemental Form 709, see
+Filing Estate and Gift Tax Returns. File the amended Form 709 at
+the following address.
+Internal Revenue Service Center
+Attn: E&G, Stop 824G
+7940 Kentucky Drive
+Florence, KY 41042-2915
+If using a PDS, file at the following address.
+Internal Revenue Service Center
+Attn: E&G, Stop 824G
+7940 Kentucky Drive
+Florence, KY 41042-2915
+If you have already been notified that the return has been
+selected for examination, you should provide the additional
+information directly to the office conducting the examination.
+Tip: See the Caution under Part III—Spouse’s Consent on Gifts
+to Third Parties, later, before you mail the return.
+
+Adequate Disclosure
+Caution: To begin the running of the statute of limitations for a
+gift, the gift must be adequately disclosed on Form 709 (or an
+attached statement) filed for the year of the gift.
+In general, a gift will be considered adequately disclosed if
+the return or statement includes the following.
+• A full and complete Form 709.
+• A description of the transferred property and any
+consideration received by the donor.
+• The identity of, and relationship between, the donor and
+each donee.
+• If the property is transferred in trust, the trust’s employer
+identification number (EIN) and a brief description of the
+6
+
+•
+
+terms of the trust (or a copy of the trust instrument in lieu of
+the description).
+Either a qualified appraisal or a detailed description of the
+method used to determine the fair market value of the gift.
+
+See Regulations sections 301.6501(c)-1(e) and (f) for details,
+including what constitutes a qualified appraisal, the information
+required if no appraisal is provided, and the information required
+for transfers under sections 2701 and 2702.
+
+Penalties
+Late filing and late payment. Section 6651 imposes penalties
+for both late filing and late payment, unless there is reasonable
+cause for the delay.
+Reasonable-cause determinations. If you receive a notice
+about penalties after you file Form 709, send an explanation and
+we will determine if you meet reasonable-cause criteria. Do not
+attach an explanation when you file Form 709.
+There are also penalties for willful failure to file a return on
+time, willful attempt to evade or defeat payment of tax, and
+valuation understatements that cause an underpayment of the
+tax. A substantial valuation understatement occurs when the
+reported value of property entered on Form 709 is 65% or less of
+the actual value of the property. A gross valuation
+understatement occurs when the reported value listed on the
+Form 709 is 40% or less of the actual value of the property.
+Return preparer. Penalties may also be applied to tax return
+preparers, including gift tax return preparers.
+Gift tax return preparers who prepare any return or claim for
+refund that reflects an understatement of tax liability due to an
+unreasonable position are subject to a penalty equal to the
+greater of $1,000 or 50% of the income earned (or to be earned)
+for the preparation of each such return.
+Gift tax return preparers who prepare any return or claim for
+refund with an understatement of tax liability due to willful or
+reckless conduct can be penalized $5,000 or 75% of the income
+derived (or to be derived) for the preparation of the return.
+Gift tax return preparers who prepare any return or claim for
+refund are required to furnish a copy to the taxpayer, sign the
+return, and provide their preparer tax identification number
+(PTIN). Those who fail to do so are subject to a penalty of $50 for
+such failure, unless it is shown that such failure is due to
+reasonable cause and not due to willful neglect.
+See section 6694 and the related regulations and Ann.
+2009-15, 2009-11 I.R.B. 687, available at IRS.gov/pub/irs-irbs/
+irb09-11.pdf, for more information.
+
+Joint Tenancy
+
+If you buy property with your own funds and the title to the
+property is held by you and a donee as joint tenants with right of
+survivorship and if either you or the donee may give up those
+rights by severing your interest, you have made a gift to the
+donee in the amount of half the value of the property.
+If you create a joint bank account for yourself and a donee (or
+a similar kind of ownership by which you can get back the entire
+fund without the donee’s consent), you have made a gift to the
+donee when the donee draws on the account for the donee’s
+own benefit. The amount of the gift is the amount that the donee
+took out without any obligation to repay you.
+If you buy a U.S. savings bond registered as payable to
+yourself or a donee, there is a gift to the donee when the donee
+cashes the bond without any obligation to account to you.
+
+Instructions for Form 709 (2025)
+
+Transfer of Certain Life Estates
+Received From Spouse
+
+If you received a qualified terminable interest (see Line 12 in the
+instructions for Schedule A, later) from your spouse for which a
+marital deduction was elected on your spouse’s estate or gift tax
+return, you will be subject to the gift tax (and GST tax, if
+applicable) if you dispose of all or part of your life income interest
+(by gift, sale, or otherwise).
+Generally, the entire value of the property transferred will be
+treated as a taxable gift less:
+1. The amount you received (if any) for the life income interest;
+and
+2. The amount (if any) determined after the application of
+section 2702, valuing certain retained interests at zero, for
+the life income interest you retained after the transfer.
+That portion of the property’s value that is attributable to the
+remainder interest is a gift of a future interest for which no annual
+exclusion is allowed. To the extent that you transferred the life
+income interest without receiving any value in return, the transfer
+is a gift, and you may claim an annual exclusion, treating the
+person to whom you transferred the interest as the donee for
+purposes of figuring the annual exclusion.
+
+Specific Instructions
+Part I—General Information
+Line 3. Donor’s Social Security Number
+
+Enter your social security number (SSN), if applicable, or your
+individual taxpayer identification number (ITIN), but only if you
+have previously used the ITIN to file other U.S. tax returns. If you
+do not have an SSN or a previously used ITIN, the IRS will
+assign an Internal Revenue Service Number (IRSN) to you. If
+you have already been assigned an IRSN, please enter the
+number on line 3. If you do not have a SSN, ITIN, or IRSN, leave
+line 3 blank.
+
+• Became a U.S. citizen for a reason other than being a citizen
+of a U.S. territory or being born or residing in a territory.
+
+If you meet the above criteria, enter “United States.”
+Otherwise, enter the country of your citizenship.
+
+Line 19
+
+If you and/or your spouse made gifts to third parties, check the
+“Yes” box and complete Part III. If you are not married, skip to
+line 20.
+
+Line 20. Application of DSUE Amount
+
+If the donor is a citizen or resident of the United States and the
+spouse died after December 31, 2010, the donor may be eligible
+to use the deceased spousal unused exclusion (DSUE) amount.
+The executor of the spouse’s estate must have elected on Form
+706 to allow use of the unused exclusion amount. See Part
+6—Portability of Deceased Spousal Unused Exclusion in the
+Instructions for Form 706. If the executor of the estate made this
+election, attach the first four pages of Form 706 filed by the
+estate. Include any attachments related to DSUE that were filed
+with Form 706 and calculations of any adjustments to the DSUE
+amount like audit reports or previously filed Forms 709. See Rev.
+Proc. 2022-32, which provides an update to the simplified
+method for making a late DSUE election for certain qualifying
+taxpayers (superseding Rev. Proc. 2017-34). See also section
+2010(c)(4) and the related regulations.
+Using the checkboxes provided, indicate whether the donor is
+applying or has applied a DSUE amount from a predeceased
+spouse to gifts reported on this or a previous Form 709. If so,
+complete Schedule C before going to Part II, later.
+
+Line 21. Digital Assets
+
+If you reported on this Form 709 any transfer that includes a
+digital asset (or a financial interest in a digital asset), answer
+“Yes” to the question on line 21. Do not leave the question
+unanswered. You must answer “Yes” or “No” by checking the
+appropriate box.
+
+Lines 4–11. Address
+
+Part III—Spouse’s Consent on Gifts to
+Third Parties
+
+Foreign address. If you have a foreign address, enter the city
+name on the appropriate line. Don’t enter any other information
+on that line, but also complete the spaces below that line. Don’t
+abbreviate the country name. Follow the country’s practice for
+entering the postal code and the name of the province, county, or
+state.
+
+Caution: A married couple may not file a joint gift tax return.
+However, if after reading the instructions below, you and your
+spouse agree to split your gifts, you should file both of your
+individual gift tax returns together to help the IRS process the
+returns and to avoid correspondence from the IRS.
+
+Enter your current mailing address.
+
+P.O. box. Enter your box number only if your post office doesn’t
+deliver mail to your home.
+
+Line 12. Legal Residence (Domicile)
+
+For gift tax purposes, an individual acquires domicile in a place
+by living there, for even a brief period of time, with no definite
+present intention of later moving.
+Enter the state of the United States (including the District of
+Columbia) or a foreign country in which you legally reside or are
+domiciled at the time of the gift.
+
+Line 13. Citizenship
+Enter your citizenship.
+
+The term “citizen of the United States” includes a person who,
+at the time of making the gift:
+• Was domiciled in a territory of the United States,
+• Was a U.S. citizen, and
+Instructions for Form 709 (2025)
+
+Complete this part only if you checked “Yes” on line 19 of Part
+I—General Information.
+
+If you and your spouse both consent, all gifts (including gifts
+of property held with your spouse as joint tenants or tenants by
+the entirety) either of you make to third parties during the
+calendar year will be considered as made one-half by each of
+you if all of the following apply.
+• You and your spouse were married to one another at the
+time of the gift.
+• If divorced or widowed after the gift, you did not remarry
+during the rest of the calendar year.
+• Neither of you was a nonresident not a citizen of the United
+States at the time of the gift.
+• You did not give your spouse a general power of
+appointment over the property interest transferred.
+If you transferred property partly to your spouse and partly to
+third parties, you can only split the gifts if the interest transferred
+to the third parties is ascertainable at the time of the gift.
+The consent is effective for the entire calendar year;
+therefore, all gifts made by either you or your spouse to third
+7
+
+parties during the calendar year (while you were married) must
+be split.
+If the consent is effective, the liability for the entire gift tax of
+each spouse is joint and several.
+If you meet these requirements and want your gifts to be
+considered made one-half by you and one-half by your spouse,
+check the “Yes” box on line 1, and complete lines 2 through 7.
+
+Line 4
+
+If you were married to one another for all of 2025, check the
+“Yes” box and skip to line 6. If you were married for only part of
+the year, check the “No” box and go to line 5. If you were
+divorced or widowed after you made the gift, you cannot elect to
+split gifts if you remarried before the end of 2025.
+
+Line 5
+
+Check the box that explains the change in your marital status
+during the year and give the date you were married, divorced, or
+widowed.
+
+Line 7. Consent of Spouse
+
+You must indicate spousal consent for gifts made to third parties
+to be considered as made one-half by each spouse by using the
+checkbox, and attaching a Notice of Consent. Your spouse (the
+consenting spouse) must sign the Notice of Consent for your
+gift-splitting election to be valid. The Notice of Consent must be
+signed and dated by the consenting spouse and must include a
+statement signifying consent to treat all gifts made to third
+parties as having been made one-half by each spouse, such as
+“[Name of consenting spouse] elects to treat all gifts made to
+third parties as having been made one-half by each spouse.” If
+only one spouse is required to file a gift tax return, then only one
+Notice of Consent is required, and it must be attached to the
+donor spouse’s return. If both spouses are required to file gift tax
+returns, then each spouse should execute a Notice of Consent to
+be attached to the donor spouse’s return. The Notice of Consent
+may generally be signed at any time after the end of the calendar
+year. However, there are two exceptions.
+1. The consent may not be signified after April 15 following the
+end of the year in which the gift was made. But if neither you
+nor your spouse has filed a gift tax return for the year on or
+before that date, the consent must be made on the first gift
+tax return for the year filed by either of you.
+2. The consent may not be obtained after a notice of
+deficiency for the gift tax for the year has been sent to either
+you or your spouse.
+The executor for a deceased spouse or the guardian for a
+legally incompetent spouse may indicate the consent.
+
+When the Consenting Spouse Must Also File a Gift
+Tax Return
+In general, if you and your spouse elect gift splitting, then both
+spouses must file their own individual gift tax return.
+However, only one spouse must file a return if the
+requirements of either of the exceptions below are met. In these
+exceptions, “gifts” means transfers (or parts of transfers) that do
+not qualify for the political organization, educational, or medical
+exclusion.
+Exception 1. During the calendar year:
+• Only one spouse made any gifts,
+• The total value of these gifts to each third-party donee does
+not exceed $38,000, and
+• All of the gifts were of present interests.
+8
+
+Exception 2. During the calendar year:
+• Only one spouse (the donor spouse) made gifts of more
+than $19,000 but not more than $38,000 to any third-party
+donee,
+• The only gifts made by the other spouse (the consenting
+spouse) were gifts of not more than $19,000 to third-party
+donees other than those to whom the donor spouse made
+gifts, and
+• All of the gifts by both spouses were of present interests.
+If either of the above exceptions is met, only the donor
+spouse must file a return and the consenting spouse signifies
+consent on that return.
+Because you must complete Schedules A, B, C, and D to fill
+out Part II, you will find instructions for these schedules before
+the instructions for Part II.
+
+Schedule A. Computation of Taxable
+Gifts
+
+Do not enter on Schedule A any gift or part of a gift that qualifies
+for the political organization, educational, or medical exclusion.
+In the instructions below, “gifts” means transfers (or parts of
+transfers) that do not qualify for the political organization,
+educational, or medical exclusion.
+
+Line A. Valuation Discounts
+
+If the value of any gift you report in either Part 1, Part 2, or Part 3
+of Schedule A includes a discount for lack of marketability, a
+minority interest, a fractional interest in real estate, blockage,
+market absorption, or for any other reason, answer “Yes” to the
+question at the top of Schedule A. Also attach an explanation
+giving the basis for the claimed discounts and showing the
+amount of the discounts taken.
+
+Line B. Qualified Tuition Programs (529 Plans or
+Programs)
+
+If in 2025, you contributed more than $19,000 to a qualified
+tuition plan (QTP) on behalf of any one person, you may elect to
+treat up to $95,000 of the contribution for that person as if you
+had made it ratably over a 5-year period. The election allows you
+to apply the annual exclusion to a portion of the contribution in
+each of the 5 years, beginning in 2025. You can make this
+election for as many separate people as you made QTP
+contributions.
+You can only apply the election to a maximum of $95,000.
+You must report all of your 2025 QTP contributions for any single
+person that exceed $95,000 (in addition to any other gifts you
+made to that person). For each of the 5 years, you report
+one-fifth (20%) of the amount for which you made the election in
+Part 1 of Schedule A for gifts to non-skip persons and in Part 2 of
+Schedule A for gifts to skip persons.
+In column (f) of Part 2 (Schedule A), list the date of the gift as
+the calendar year for which you are deemed to have made the
+gift (that is, the year of the current Form 709 you are filing). Do
+not list the actual year of contribution for subsequent years.
+However, if in any of the last 4 years of the election, you did
+not make any other gifts that would require you to file a Form
+709, you do not need to file Form 709 to report that year’s portion
+of the election amount.
+Example. In 2025, Pat contributed $100,000 to a QTP for the
+benefit of Max (a non-skip person for GST tax purposes). Pat
+elects to treat $95,000 of this contribution as having been made
+ratably over a 5-year period. Accordingly, for 2025, Pat reports
+the following.
+
+Instructions for Form 709 (2025)
+
+$5,000
++
+
+$19,000
+$24,000
+
+(the amount of the contribution that exceeded
+$95,000)
+(the 1/5 portion from the election)
+the total gift to A listed in Part 1 of Schedule A for
+2025
+
+In 2026, Pat gives a gift of $20,000 cash to Alex (a non-skip
+person for GST tax purposes) and no other gifts. On Pat’s Form
+709, Pat reports in Part 1 of Schedule A the $20,000 gift to Alex
+and an $19,000 gift to Max (the one-fifth portion of the 2025 gift
+that is treated as made in 2026). In column (f) of Part 1
+(Schedule A), Pat lists “2026” as the date of the gift.
+Pat makes no gifts in 2027, 2028, or 2029. Pat is not required
+to file Form 709 in any of those years to report the one-fifth
+portion of the QTP gift because Pat is not otherwise required to
+file Form 709.
+You make the election by checking the box on line B at the top
+of Schedule A. The election must be made for the calendar year
+in which the contribution is made. Also attach an explanation that
+includes the following.
+• The total amount contributed per individual beneficiary.
+• The amount for which the election is being made.
+• The name of the individual for whom the contribution was
+made.
+If you are electing gift splitting, apply the gift-splitting rules
+before applying the QTP rules. Each spouse would then decide
+individually whether to make this QTP election.
+Caution: Contributions to QTPs do not qualify for the education
+exclusion.
+
+How To Complete Schedule A, Parts 1, 2, and 3
+
+After you determine which gifts you made in 2025 that are
+subject to the gift tax, list them on Schedule A. You must divide
+these gifts between:
+1. Part 1—those subject only to the gift tax (gifts made to
+nonskip persons—see Part 1, later),
+2. Part 2—those subject to both the gift and GST taxes (gifts
+made to skip persons—see Gifts Subject to Both Gift and
+GST Taxes and Part 2, later), and
+3. Part 3—those subject only to the gift tax at this time but
+which could later be subject to GST tax (gifts that are
+indirect skips—see Part 3, later).
+If you need more space, attach a separate sheet using the
+same format as Schedule A.
+
+Tip: Use the following guidelines when entering gifts on
+Schedule A.
+
+• Enter a gift only once—in Part 1, Part 2, or Part 3.
+• Do not enter any gift or part of a gift that qualified for the
+
+political organization, educational, or medical exclusion.
+
+• Enter gifts under “Gifts made by spouse” only if you have
+•
+
+chosen to split gifts with your spouse and your spouse is
+required to file a Form 709 (see Part III, earlier).
+In column (g), enter the full value of the gift (including those
+made by your spouse, if applicable). If you have chosen to
+split gifts, that one-half portion of the gift is entered in
+column (h).
+
+you must enter all such gifts that you made during the year to or
+on behalf of that donee, including those gifts that will be
+excluded under the annual exclusion. If the total is $19,000 or
+less, you need not enter on Schedule A any gifts (except gifts of
+future interests) that you made to that donee. Enter these gifts in
+the top half of Part 1, 2, or 3, as applicable.
+Gift splitting elected. Enter on Schedule A the entire value of
+every gift you made during the calendar year while you were
+married, even if the gift’s value will be less than $19,000 after it is
+split in column (h) of Part 1, 2, or 3 of Schedule A.
+Gifts made by spouse. If you elected gift splitting and your
+spouse made gifts, list those gifts in the space below “Gifts made
+by spouse” in Part 1, 2, or 3. Report these gifts in the same way
+you report gifts you made.
+
+Gifts to Your Spouse
+
+Except for the gifts described below, you do not need to enter
+any of your gifts to your spouse on Schedule A.
+
+Terminable interests. Terminable interests are defined in the
+instructions for Part 4, line 4. If all the terminable interests you
+gave to your spouse qualify as life estates with power of
+appointment (defined under Life estate with power of
+appointment, later), you do not need to enter any of them on
+Schedule A.
+However, if you gave your spouse any terminable interest that
+does not qualify as a life estate with power of appointment, you
+must report on Schedule A all gifts of terminable interests you
+made to your spouse during the year.
+Charitable remainder trusts. If you make a gift to a charitable
+remainder trust and your spouse is the only noncharitable
+beneficiary (other than yourself), the interest you gave to your
+spouse is not considered a terminable interest and, therefore,
+should not be shown on Schedule A. See section 2523(g)(1).
+For definitions and rules concerning these trusts, see section
+2056(b)(8)(B).
+Future interest. Generally, you should not report a gift of a
+future interest to your spouse unless the future interest is also a
+terminable interest that is required to be reported as described
+earlier. However, if you gave a gift of a future interest to your
+spouse and you are required to report the gift on Form 709
+because you gave the present interest to a donee other than
+your spouse, then you should enter the entire gift, including the
+future interest given to your spouse, on Schedule A. You should
+use the rules under Gifts Subject to Both Gift and GST Taxes,
+later, to determine whether to enter the gift on Schedule A, Part
+1, 2, or 3.
+Spouses who are not U.S. citizens. If your spouse is not a
+U.S. citizen and you gave your spouse a gift of a future interest,
+you must report on Schedule A all gifts to your spouse for the
+year. If all gifts to your spouse were present interests, do not
+report on Schedule A any gifts to your spouse if the total of such
+gifts for the year does not exceed $190,000 and all gifts in
+excess of $19,000 would qualify for a marital deduction if your
+spouse were a U.S. citizen (see the instructions for Schedule A,
+Part 4, line 4). If the gifts exceed $190,000, you must report all of
+the gifts even though some may be excluded.
+
+Gifts Subject to Both Gift and GST
+Taxes
+
+Gifts to Donees Other Than Your Spouse
+
+Definitions
+
+Gift splitting not elected. If the total gifts of present interests
+to any donee are more than $19,000 in the calendar year, then
+
+Direct skip. The GST tax you must report on Form 709 is that
+imposed only on inter vivos direct skips. An inter vivos direct skip
+is a transfer that is:
+• Subject to the gift tax,
+
+You must always enter all gifts of future interests that you made
+during the calendar year regardless of their value.
+
+Instructions for Form 709 (2025)
+
+9
+
+• Of an interest in property, and
+• Made to a skip person.
+
+(donee) is determined by subtracting the number of
+generations between the grandparent and the spouse (or
+former spouse) from the number of generations between
+the grandparent and the descendant (donee).
+
+All three requirements must be met before the gift is subject to
+the GST tax.
+A gift is “subject to the gift tax” if you are required to list it on
+Schedule A of Form 709. However, if you make a nontaxable gift
+(which is a direct skip) to a trust for the benefit of an individual,
+this transfer is subject to the GST tax unless:
+
+3. A person who at any time was married to a person
+described in (1) or (2) above is assigned to the generation
+of that person. A person who at any time was married to the
+donor is assigned to the donor’s generation.
+
+1. During the lifetime of the beneficiary, no corpus or income
+may be distributed to anyone other than the beneficiary; and
+
+4. A relationship by adoption or half-blood is treated as a
+relationship by whole-blood.
+
+2. If the beneficiary dies before the termination of the trust, the
+assets of the trust will be included in the gross estate of the
+beneficiary.
+
+A person who is not assigned to a generation according to
+(1), (2), (3), or (4) above is assigned to a generation based on
+the person’s birth date as follows.
+
+Note: If the property transferred in the direct skip would have
+been includible in the donor’s estate if the donor died
+immediately after the transfer, see Transfers Subject to an Estate
+Tax Inclusion Period (ETIP), earlier.
+To determine if a gift “is of an interest in property” and “is
+made to a skip person,” you must first determine if the donee is a
+“natural person” or a “trust,” as defined below.
+Trust. For purposes of the GST tax, a trust includes not only an
+ordinary trust, but also any other arrangement (other than an
+estate) that although not explicitly a trust, has substantially the
+same effect as a trust. For example, a trust includes life estates
+with remainders, terms for years, and insurance and annuity
+contracts. A transfer of property that is conditional on the
+occurrence of an event is a transfer in trust.
+Interest in property. If a gift is made to a natural person, it is
+always considered a gift of an interest in property for purposes of
+the GST tax.
+If a gift is made to a trust, a natural person will have an
+interest in the property transferred to the trust if that person
+either has a present right to receive income or corpus from the
+trust (such as an income interest for life) or is a permissible
+current recipient of income or corpus from the trust (for example,
+possesses a general power of appointment).
+Skip person. A donee, who is a natural person, is a skip person
+if that donee is assigned to a generation that is two or more
+generations below the generation assignment of the donor. See
+Determining the Generation of a Donee, later.
+A donee that is a trust is a skip person if all the interests in the
+property transferred to the trust (as defined above) are held by
+skip persons.
+A trust will also be a skip person if there are no interests in the
+property transferred to the trust held by any person, and future
+distributions or terminations from the trust can be made only to
+skip persons.
+Nonskip person. A nonskip person is any donee who is not a
+skip person.
+
+Determining the Generation of a Donee
+
+Generally, a generation is determined along family lines as
+follows.
+1. If the donee is a lineal descendant of a grandparent of the
+donor (for example, the donor’s cousin, niece, nephew,
+etc.), the number of generations between the donor and the
+descendant (donee) is determined by subtracting the
+number of generations between the grandparent and the
+donor from the number of generations between the
+grandparent and the descendant (donee).
+2. If the donee is a lineal descendant of a grandparent of a
+spouse (or former spouse) of the donor, the number of
+generations between the donor and the descendant
+
+10
+
+1. A person who was born not more than 121/2 years after the
+donor is in the donor’s generation.
+2. A person born more than 121/2 years, but not more than
+371/2 years, after the donor is in the first generation younger
+than the donor.
+3. Similar rules apply for a new generation every 25 years.
+If more than one of the rules for assigning generations apply
+to a donee, that donee is generally assigned to the youngest of
+the generations that would apply.
+If an estate, trust, partnership, corporation, or other entity
+(other than governmental entities and certain charitable
+organizations and trusts, described in sections 511(a)(2) and
+511(b)(2), as discussed later) is a donee, then each person who
+indirectly receives the gift through the entity is treated as a
+donee and is assigned to a generation as explained in the above
+rules.
+Charitable organizations and trusts, described in sections
+511(a)(2) and 511(b)(2), and governmental entities are assigned
+to the donor’s generation. Transfers to such organizations are
+therefore not subject to the GST tax. These gifts should always
+be listed in Part 1 of Schedule A.
+Generation assignments under Notice 2017-15. Notice
+2017-15 permits a taxpayer to reduce the GST exemption
+allocated to transfers that were made to or for the benefit of
+transferees whose generation assignment is changed as a result
+of the Windsor decision. A taxpayer’s GST exemption that was
+allocated to a transfer to a transferee (or a trust for the sole
+benefit of such transferee) whose generation assignment should
+have been determined on the basis of a familial relationship as
+the result of the Windsor decision, and are nonskip persons, is
+deemed void. For additional information, go to IRS.gov/
+Businesses/Small-Businesses-Self-Employed/Estate-and-GiftTaxes.
+
+Charitable Remainder Trusts
+
+Gifts in the form of charitable remainder annuity trusts, charitable
+remainder unitrusts, and pooled income funds are not transfers
+to skip persons and are therefore not direct skips. You should list
+these gifts in Part 1 of Schedule A if none of the life beneficiaries
+are skip persons. If a life beneficiary is a skip person, list these
+gifts on Part 3 of Schedule A.
+
+Generation Assignment Where Intervening
+Parent Is Deceased
+
+If you made a gift to your grandchild and at the time you made
+the gift, the grandchild’s parent (who is your or your spouse’s or
+your former spouse’s child) is deceased, then for purposes of
+generation assignment, your grandchild is considered to be your
+child rather than your grandchild. Your grandchild’s children will
+be treated as your grandchildren rather than your
+great-grandchildren.
+Instructions for Form 709 (2025)
+
+This rule is also applied to your lineal descendants below the
+level of grandchild. For example, if your grandchild is deceased,
+your great-grandchildren who are lineal descendants of the
+deceased grandchild are considered your grandchildren for
+purposes of the GST tax.
+This special rule may also apply in other cases of the death of
+a parent of the transferee. If property is transferred to a
+descendant of a parent of the transferor and that person’s parent
+(who is a lineal descendant of the parent of the transferor) is
+deceased at the time the transfer is subject to gift or estate tax,
+then for purposes of generation assignment, the individual is
+treated as a member of the generation that is one generation
+below the lower of:
+• The transferor’s generation, or
+• The generation assignment of the youngest living ancestor
+of the individual who is also a descendant of the parent of
+the transferor.
+The same rules apply to the generation assignment of any
+descendant of the individual.
+This rule does not apply to a transfer to an individual who is
+not a lineal descendant of the transferor if the transferor at the
+time of the transfer has any living lineal descendants.
+If any transfer of property to a trust would have been a direct
+skip except for this generation-assignment rule, then the rule
+also applies to transfers from the trust attributable to such
+property.
+Ninety-day rule. For assigning individuals to generations for
+purposes of the GST tax, any individual who dies no later than
+90 days after a transfer occurring by reason of the death of the
+transferor is treated as having predeceased the transferor. The
+90-day rule applies to transfers occurring on or after July 18,
+2005. See Regulations section 26.2651-1(a)(2)(iii) for more
+information.
+
+Examples
+The GST rules can be illustrated by the following examples.
+Example 1. You give your house to your daughter with the
+remainder then passing to your daughter’s children. This gift is
+made to a “trust” even though there is no explicit trust instrument.
+The interest in the property transferred (the present right to use
+the house) is transferred to a nonskip person (your daughter).
+Therefore, the trust is not a skip person because there is an
+interest in the transferred property that is held by a nonskip
+person, and the gift is not a direct skip. The transfer is an indirect
+skip, however, because on the death of your daughter, a
+termination of your daughter’s interest in the trust will occur that
+may be subject to the GST tax. See Part 3, later, for a discussion
+of how to allocate GST exemption to such a trust.
+
+purpose interests in trusts are defined only as present interests,
+all of the interests in this trust are held by skip persons (the
+children’s interests are future interests). Therefore, the trust is a
+skip person and you should list the entire amount you transferred
+to the trust in Part 2 of Schedule A even though some of the
+trust’s ultimate beneficiaries are nonskip persons.
+
+Part 1—Gifts Subject Only to Gift Tax
+
+List in Part 1 gifts subject only to the gift tax. Generally, all of the
+gifts you made to your spouse (that are required to be listed, as
+described earlier), to your children, and to charitable
+organizations are not subject to the GST tax and should
+therefore be listed only in Part 1.
+Group the gifts in four categories.
+
+• Gifts made to your spouse.
+• Gifts made to third parties that are to be split with your
+spouse.
+
+• Charitable gifts (if you are not splitting gifts with your
+spouse).
+
+• Other gifts.
+If a transfer results in gifts to two or more individuals (such as a
+life estate to one with remainder to the other), list the gift to each
+separately.
+Number and describe all gifts (including charitable, public,
+and similar gifts) in the columns provided in Schedule A.
+
+Columns (b) Through (d)
+Describe each gift in enough detail so that the property can be
+easily identified, as explained below.
+For real estate, give:
+
+• A legal description of each parcel;
+• The street number, name, and area if the property is located
+in a city; and
+
+• A short statement of any improvements made to the
+property.
+
+For bonds, give:
+
+• The number of bonds transferred;
+• The principal amount of each bond;
+• Name of obligor;
+• Date of maturity;
+• Rate of interest;
+• Date or dates when interest is payable;
+• Series number, if there is more than one issue;
+• Exchanges where listed or, if unlisted, give the location of
+the principal business office of the corporation; and
+
+• Committee on Uniform Securities Identification Procedures
+
+(CUSIP) number. The CUSIP number is a nine-digit number
+assigned by the American Banking Association to traded
+securities.
+
+Example 2. You give $100,000 to your grandchild. This gift is
+a direct skip that is not made in trust. You should list it in Part 2 of
+Schedule A.
+Example 3. You establish a trust that is required to
+accumulate income for 10 years and then pay its income to your
+grandchildren for their lives and upon their deaths distribute the
+corpus to their children. Because the trust has no current
+beneficiaries, there are no present interests in the property
+transferred to the trust. All of the persons to whom the trust can
+make future distributions (including distributions upon the
+termination of interests in property held in trust) are skip persons
+(that is, your grandchildren and great-grandchildren). Therefore,
+the trust itself is a skip person and you should list the gift in Part
+2 of Schedule A.
+Example 4. You establish a trust that pays all of its income to
+your grandchildren for 10 years. At the end of 10 years, the
+corpus is to be distributed to your children. Because for this
+Instructions for Form 709 (2025)
+
+For stocks:
+
+• Give number of shares;
+• State whether common or preferred;
+• If preferred, give the issue, par value, quotation at which
+returned, and exact name of corporation;
+
+• If unlisted on a principal exchange, give the location of the
+•
+•
+
+principal business office of the corporation, the state in
+which incorporated, and the date of incorporation;
+If listed, give principal exchange; and
+CUSIP number.
+
+For interests in property based on the length of a person’s life,
+give the date of birth of the person. If you transfer any interest in
+a closely held entity, provide the EIN of the entity.
+11
+
+For life insurance policies, give the name of the insurer and
+the policy number.
+Clearly identify in the description column which gifts create
+the opening of an ETIP as described under Transfers Subject to
+an Estate Tax Inclusion Period (ETIP), earlier. Describe the
+interest that is creating the ETIP. An allocation of GST exemption
+to property subject to an ETIP that is made prior to the close of
+the ETIP becomes effective no earlier than the date of the close
+of the ETIP. See Schedule D. Computation of GST Tax, later.
+
+Column (e). Donor’s Adjusted Basis of Gift
+Show the basis you would use for income tax purposes if the gift
+were sold or exchanged. Generally, this means cost plus
+improvements, less applicable depreciation, amortization, and
+depletion.
+For more information on adjusted basis, see Pub. 551, Basis
+of Assets.
+
+Columns (f) and (g). Date of Gift and Value at Date
+of Gift
+The value of a gift is the fair market value (FMV) of the property
+on the date the gift is made (valuation date). The FMV is the
+price at which the property would change hands between a
+willing buyer and a willing seller, when neither is forced to buy or
+to sell, and when both have reasonable knowledge of all relevant
+facts. FMV may not be determined by a forced sale price, nor by
+the sale price of the item in a market other than that in which the
+item is most commonly sold to the public. The location of the
+item must be taken into account whenever appropriate.
+The FMV of a stock or bond (whether listed or unlisted) is the
+mean between the highest and lowest selling prices quoted on
+the valuation date. If only the closing selling prices are available,
+then the FMV is the mean between the quoted closing selling
+price on the valuation date and on the trading day before the
+valuation date. If there were no sales on the valuation date, figure
+the FMV as follows.
+1. Find the mean between the highest and lowest selling
+prices on the nearest trading date before and the nearest
+trading date after the valuation date. Both trading dates
+must be reasonably close to the valuation date.
+2. Prorate the difference between mean prices to the valuation
+date.
+3. Add or subtract (whichever applies) the prorated part of the
+difference to or from the mean price figured for the nearest
+trading date before the actual valuation date.
+If no actual sales were made reasonably close to the
+valuation date, make the same computation using the mean
+between the bona fide bid and the asked prices instead of sales
+prices. If actual sales prices or bona fide bid and asked prices
+are available within a reasonable period of time before the
+valuation date but not after the valuation date, or vice versa, use
+the mean between the highest and lowest sales prices or bid and
+asked prices as the FMV.
+Stock of close corporations or inactive stock must be valued
+on the basis of net worth, earnings, earning and dividend
+capacity, and other relevant factors.
+Generally, the best indication of the value of real property is
+the price paid for the property in an arm’s-length transaction on
+or before the valuation date. If there has been no such
+transaction, use the comparable sales method. In comparing
+12
+
+similar properties, consider differences in the date of the sale,
+and the size, condition, and location of the properties, and make
+all appropriate adjustments.
+The value of all annuities, life estates, terms for years,
+remainders, or reversions is generally the present value on the
+date of the gift.
+Sections 2701 and 2702 provide special valuation rules to
+determine the amount of the gift when a donor transfers an
+equity interest in a corporation or partnership (section 2701) or
+makes a gift in trust (section 2702). The rules only apply if,
+immediately after the transfer, the donor (or an applicable family
+member) holds an applicable retained interest in the corporation
+or partnership, or retains an interest in the trust. For details, see
+sections 2701 and 2702, and their regulations.
+
+Column (h). Split Gifts
+Enter an amount in this column only if you have chosen to split
+gifts with your spouse.
+
+Split Gifts—Gifts Made by Spouses
+
+If you elected to split gifts with your spouse and your spouse has
+given a gift(s) that is being split with you, enter in this area of Part
+1 information on the gift(s) made by your spouse. If only you
+made gifts and you are splitting them with your spouse, do not
+make an entry in this area.
+Generally, if you elect to split your gifts, you must split all gifts
+made by you and your spouse to third-party donees. The only
+exception is if you gave your spouse a general power of
+appointment over a gift you made.
+
+Supplemental Documents
+
+To support the value of your gifts, you must provide information
+showing how it was determined.
+For stock of close corporations or inactive stock, attach
+balance sheets, particularly the one nearest the date of the gift,
+and statements of net earnings or operating results and
+dividends paid for each of the 5 preceding years. In lieu of this
+information, you may attach an appraisal described in
+Regulations section 301.6501(c)-1(f)(3).
+For each life insurance policy, attach Form 712, Life
+Insurance Statement.
+Note for single-premium or paid-up policies. In certain
+situations, for example, where the surrender value of the policy
+exceeds its replacement cost, the true economic value of the
+policy will be greater than the amount shown on line 59 of Form
+712. In these situations, report the full economic value of the
+policy on Schedule A. See Rev. Rul. 78-137, 1978-1 C.B. 280,
+for details.
+If the gift was made by means of a trust, attach a certified or
+verified copy of the trust instrument to the return on which you
+report your first transfer to the trust. However, to report
+subsequent transfers to the trust, you may attach a brief
+description of the terms of the trust or a copy of the trust
+instrument.
+Also attach any appraisal used to determine the value of real
+estate or other property.
+If you do not attach this information, Schedule A must include
+a full explanation of how value was determined.
+
+Part 2—Direct Skips
+
+List in Part 2 only those gifts that are currently subject to both the
+gift and GST taxes. You must list the gifts in Part 2 in the
+Instructions for Form 709 (2025)
+
+chronological order that you made them. Number, describe, and
+value the gifts as described in the instructions for Part 1.
+If you made a transfer to a trust that was a direct skip, list the
+entire gift as one line entry in Part 2.
+
+Column (j). Section 2632(b) Election Out
+If you elect under section 2632(b)(3) to not have the automatic
+allocation rules of section 2632(b) apply to a transfer, enter a
+check in column (j) next to the transfer. You must also attach a
+statement to Form 709 clearly describing the transaction and the
+extent to which the automatic allocation is not to apply. Reporting
+a direct skip on a timely filed Form 709 and paying the GST tax
+on the transfer will qualify as such a statement.
+How to report GSTs after the close of an ETIP. If you are
+reporting a GST that was subject to an ETIP (provided the ETIP
+closed as a result of something other than the death of the
+transferor; see Form 706), do not include the transfer subject to
+an ETIP on Schedule A. Rather, report the transfer subject to an
+ETIP on Schedule D. See Schedule D, Part
+1—Generation-Skipping Transfers, later. Report all other gifts
+made during the year on Schedule A as you normally would.
+
+Split Gifts—Gifts Made by Spouse
+See this heading under Part 1.
+
+Part 3—Indirect Skips and Other Transfers in
+Trust
+
+Some gifts made to trusts are subject only to gift tax at the time
+of the transfer but may later be subject to GST tax. The GST tax
+could apply either at the time of a distribution from the trust, at
+the termination of the trust, or both.
+Section 2632(c) defines indirect skips and applies special
+rules to the allocation of GST exemption to such transfers. In
+general, an indirect skip is a transfer of property that is subject to
+gift tax (other than a direct skip) and is made to a GST trust. A
+GST trust is a trust that could have a GST with respect to the
+transferor, unless the trust provides for certain distributions of
+trust corpus to nonskip persons. See section 2632(c)(3)(B) for
+details.
+List in Part 3 those gifts that are indirect skips as defined in
+section 2632(c) or may later be subject to GST tax. This includes
+indirect skips for which election 2, described below, will be made
+in the current year or has been made in a previous year. You
+must list the gifts in Part 3 in the chronological order that you
+made them.
+
+Column (n). Section 2632(c) Election
+Section 2632(c) provides for the automatic allocation of the
+donor’s unused GST exemption to indirect skips. This section
+also sets forth three different elections you may make regarding
+the allocation of exemption.
+Election 1. You may elect not to have the automatic
+allocation rules apply to the current transfer made to a
+particular trust.
+Election 2. You may elect not to have the automatic rules
+apply to both the current transfer and any and all future
+transfers made to a particular trust.
+Election 3. You may elect to treat any trust as a GST trust for
+purposes of the automatic allocation rules.
+See section 2632(c)(5) for details.
+When to make an election. Election 1 is timely made if it is
+made on a timely filed gift tax return for the year the transfer was
+made or was deemed to have been made.
+Instructions for Form 709 (2025)
+
+Elections 2 and 3 may be made on a timely filed gift tax return
+for the year for which the election is to become effective.
+To make one of these elections, check column (n) next to the
+transfer to which the election applies. You must also attach an
+explanation as described below. If you are making election 2 or 3
+on a return on which the transfer is not reported, simply attach
+the statement described below.
+If you are reporting a transfer to a trust for which election 2 or
+3 was made on a previously filed return, do not make an entry in
+column (n) for that transfer and do not attach a statement unless
+you are terminating the election.
+Attachment. Attach a statement to Form 709 that describes the
+election you are making (or terminating) and clearly identifies the
+trusts and/or transfers to which the election applies.
+
+Split Gifts—Gifts Made by Spouse
+See this heading under Part 1.
+
+Part 4—Taxable Gift Reconciliation
+Line 1
+Enter only gifts of the donor. If gift splitting has been elected,
+enter only the value of the gift that is attributable to the spouse
+that is filing the return.
+
+Line 2
+Enter the total annual exclusions you are claiming for the gifts
+listed on Schedule A. See Annual Exclusion, earlier. If you split a
+gift with your spouse, the annual exclusion you claim against that
+gift may not be more than the smaller of your half of the gift or
+$19,000.
+
+Deductions
+Line 4. Marital Deduction
+Enter all of the gifts to your U.S. citizen spouse that you listed on
+Schedule A and for which you are claiming a marital deduction.
+Enter the total value of items on Parts 1 and 3 of Schedule A for
+which the box in column (l) is checked. Do not enter any gift that
+you did not include on Schedule A.
+Tip: Do not enter on line 4 any gifts to your spouse who was not
+a U.S. citizen at the time of the gift.
+You may deduct all gifts of nonterminable interests made
+during the year that you entered on Schedule A regardless of
+amount, and certain gifts of terminable interests as outlined
+below.
+Terminable interests. Generally, you cannot take the marital
+deduction if the gift to your spouse is a terminable interest. In
+most instances, a terminable interest is nondeductible if
+someone other than the donee spouse will have an interest in
+the property following the termination of the donee spouse’s
+interest. Some examples of terminable interests are:
+• A life estate,
+• An estate for a specified number of years, or
+• Any other property interest that after a period of time will
+terminate or fail.
+If you transfer an interest to your spouse as sole joint tenant
+with yourself or as a tenant by the entirety, the interest is not
+considered a terminable interest just because the tenancy may
+be severed.
+13
+
+Life estate with power of appointment. You may deduct,
+without an election, a gift of a terminable interest if all four
+requirements below are met.
+
+•
+
+1. Your spouse is entitled for life to all of the income from the
+entire interest.
+2. The income is paid yearly or more often.
+3. Your spouse has the unlimited power, while alive or by will,
+to appoint the entire interest in all circumstances.
+4. No part of the entire interest is subject to another person’s
+power of appointment (except to appoint it to your spouse).
+If either the right to income or the power of appointment given
+to your spouse pertains only to a specific portion of a property
+interest, the marital deduction is allowed only to the extent that
+the rights of your spouse meet all four of the above conditions.
+For example, if your spouse is to receive all of the income from
+the entire interest, but only has a power to appoint one-half of the
+entire interest, then only one-half qualifies for the marital
+deduction.
+A partial interest in property is treated as a specific portion of
+an entire interest only if the rights of your spouse to the income
+and to the power are a fractional or percentile share of the entire
+property interest. This means that the interest or share will reflect
+any increase or decrease in the value of the entire property
+interest. If the spouse is entitled to receive a specified sum of
+income annually, the capital amount that would produce such a
+sum will be considered the specific portion from which the
+spouse is entitled to receive the income.
+Election to deduct qualified terminable interest property
+(QTIP). You may elect to deduct a gift of a terminable interest if
+it meets requirements (1), (2), and (4) earlier, even though it
+does not meet requirement (3).
+You make this election simply by listing the QTIP on
+Schedule A and deducting its value from Schedule A, Part 4,
+line 4, checking the box in column (l). You are presumed to have
+made the election for all qualified property that you both list and
+deduct on Schedule A. You may not make the election on a
+late-filed Form 709.
+Special QTIP election. If you elect QTIP treatment for any gifts
+in trust listed on Schedule A, then you may also check column
+(m) to elect to treat the entire trust as non-QTIP for purposes of
+the GST tax. The election must be made for the entire trust that
+contains the particular gift involved on this return. Be sure to
+identify the item number of the specific gift for which you are
+making this special QTIP election.
+
+Line 5
+Enter the amount of the annual exclusions that were claimed for
+the gifts listed on line 4.
+
+Line 7. Charitable Deduction
+You may deduct from the total gifts made during the calendar
+year all gifts you gave to or for the use of:
+• The United States, a state or political subdivision of a state,
+or the District of Columbia for exclusively public purposes;
+• Any corporation, trust, community chest, fund, or foundation
+organized and operated only for religious, charitable,
+scientific, literary, or educational purposes, or to prevent
+cruelty to children or animals, or to foster national or
+international amateur sports competition (if none of its
+activities involve providing athletic equipment unless it is a
+qualified amateur sports organization), as long as no part of
+the earnings benefits any one person, no substantial
+14
+
+•
+
+propaganda is produced, and no lobbying or campaigning
+for any candidate for public office is done;
+A fraternal society, order, or association operating under a
+lodge system, if the transferred property is to be used only
+for religious, charitable, scientific, literary, or educational
+purposes, including the encouragement of art and the
+prevention of cruelty to children or animals; or
+Any war veterans’ organization organized in the United
+States (or any of its territories), or any of its auxiliary
+departments or local chapters or posts, as long as no part of
+any of the earnings benefits any one person.
+
+On line 7, show your total charitable, public, or similar gifts
+(minus annual exclusions allowed). Enter the total value of items
+on Parts 1 and 3 of Schedule A for which the box in column (k) is
+checked.
+
+Line 10. GST Tax
+If GST tax is due on any gift which is a direct skip, the amount of
+the gift shall be increased by the amount of GST tax imposed on
+the direct skip. See section 2515.
+If you entered gifts on Part 2, or if you and your spouse
+elected gift splitting and your spouse made gifts subject to the
+GST tax that you are required to show on your Form 709,
+complete Schedule D, and enter on line 10 the total from
+Schedule D, Part 3, column (g). Otherwise, enter zero on line 10.
+
+Line 12. Election Out of QTIP Treatment of
+Annuities
+Section 2523(f)(6) creates an automatic QTIP election for gifts of
+joint and survivor annuities where the spouses are the only
+possible recipients of the annuity prior to the death of the last
+surviving spouse.
+The donor spouse can elect out of QTIP treatment, however,
+by checking the box on line 12 and entering the item number
+from Schedule A for the annuities for which you are making the
+election. Any annuities entered on line 12 cannot also be entered
+on line 4 of Schedule A, Part 4. Any such annuities that are not
+listed on line 12 must be entered on line 4 of Schedule A, Part 4.
+If there is more than one such joint and survivor annuity, you are
+not required to make the election for all of them. Once made, the
+election is irrevocable.
+
+Schedule B. Gifts From Prior Periods
+
+If you did not file gift tax returns for previous periods, check the
+“No” box on page 1 of Form 709, line 18a, of Part I—General
+Information. If you filed gift tax returns for previous periods,
+check the “Yes” box on line 18a and complete Schedule B by
+listing the years or quarters in chronological order as described
+below. If you need more space, attach a separate sheet using
+the same format as Schedule B.
+Caution. Complete Schedule A before beginning Schedule B.
+
+Column (a)
+
+If you filed returns for gifts made before 1971 or after 1981, show
+the calendar years in column (a). If you filed returns for gifts
+made after 1970 and before 1982, show the calendar quarters.
+
+Column (b)
+
+In column (b), identify the IRS office where you filed the returns.
+If you have changed your name, be sure to list any other names
+under which the returns were filed. If there was any other
+Instructions for Form 709 (2025)
+
+variation in the names under which you filed, such as the use of
+full given names instead of initials, please explain.
+
+Column (c)
+
+To determine the amount of applicable credit (formerly unified
+credit) used for gifts made after 1976, use the Worksheet for
+Schedule B, Column (c) (Credit Allowable for Prior Periods),
+unless your prior gifts total $500,000 or less.
+Prior gifts totaling $500,000 or less. In column (c), enter
+the amount of applicable credit actually applied in the prior
+period.
+Prior gifts totaling over $500,000. See Redetermining the
+Applicable Credit, later.
+
+Column (d)
+
+Column (e)
+
+In column (e), show the correct amount (the amount finally
+determined) of the taxable gifts for each earlier period.
+See Regulations section 25.2504-2 for rules regarding the
+final determination of the value of a gift.
+Note. Amounts shown in column (e) should reflect all taxable
+gifts, even if no gift tax was paid due to the applicable (formerly
+unified) credit.
+
+Redetermining the Applicable Credit
+
+To redetermine the applicable credit for prior gifts in excess of
+$500,000, use the Worksheet for Schedule B, Column (c) (Credit
+Allowable for Prior Periods).
+
+In column (d), enter the amount of specific exemption claimed for
+gifts made in periods ending before January 1, 1977.
+
+Instructions for Form 709 (2025)
+
+15
+
+Instructions for Worksheet for Schedule B, Column (c) (Credit Allowable for Prior Periods)
+Beginning with the earliest year after 1976 in which gifts using a credit amount were made, determine the credit amount (at current rates) for each
+quarter/year as follows.
+Column
+A
+Period
+
+Enter the quarter/year of the prior gift(s). Pre-1977 gifts will be on the first row.
+
+B
+Taxable Gifts for Current Period
+
+Enter the amount of all taxable gifts for the year in column A. The total of all pre-1977 gifts should
+be combined in the first row.
+
+C
+Taxable Gifts for Prior Periods
+
+Enter the amount from column D of the previous row.
+
+D
+Cumulative Taxable Gifts Including Current Period
+
+Enter the sum of columns B and C from the current row.
+
+E
+Tax on Gifts for Prior Periods
+
+Enter the amount from column F of the previous row.
+
+F
+Tax on Cumulative Gifts Including Current Period
+
+Enter the tax based on the amount in column D of the current row using the Table for Computing
+Gift Tax.
+
+G
+Tax on Gifts for Current Period
+
+Subtract the amount in column E from the amount in column F of the current row and enter here.
+
+H
+Used DSUE Amount From Predeceased Spouse(s) and
+Restored Exclusion Amount
+
+Enter the sum of (a) total DSUE amount (if any) received from the estate of the donor’s last
+deceased spouse and used by the donor in prior periods and the current period, and (b)
+Restored Exclusion Amount (if any). DSUE may not be applied to gifts made before the DSUE
+arose. Restored Exclusion Amount may not be applied to gifts made before the taxpayer restored
+the exclusion expended on a taxable gift to the taxpayer’s same-sex spouse. The Restored
+Exclusion Amount is applied in the first year that the taxpayer restores the exclusion and every
+subsequent year.
+
+I
+Basic Exclusion Amount for Year of Gift
+
+Enter the exclusion amount corresponding with the year listed in column A of the current row.
+(See Table of Basic Exclusion and Credit Amounts.)
+
+J
+Applicable Exclusion Amount
+
+Add the amounts in columns H and I of the current row and enter here.
+
+K
+Applicable Credit Amount (Based on Amount in Column J)
+L
+Applicable Credit Amount Used in Prior Periods
+
+Using the Table for Computing Gift Tax, determine the credit corresponding to the amount in
+column J of the current row and enter here. For each row in column K, subtract 20% of any
+amount allowed as a specific exemption for gifts made after September 8, 1976, and before
+January 1, 1977.
+Enter the total of the amounts in columns L and N of the previous row.
+
+M
+Available Credit in Current Period
+
+Subtract the amount in column L from the amount in column K of the current row and enter here.
+
+N
+Credit Allowable
+
+Enter the lesser of column G or column M of the current row.
+
+Repeat this process for each prior year with taxable gifts. Do not enter less than zero.
+
+Worksheet for Schedule B, Column (c) (Credit
+Allowable for Prior Periods)
+Prior Years Credit Recalculation (for Form 709, Schedule B, Column (c))
+(Keep for your records.)
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+Period
+
+Taxable
+Gifts for
+Current
+Period
+
+Taxable
+Gifts for
+Prior
+Periods1
+
+Cumulative
+Taxable Gifts
+Including
+Current
+Period
+(Col. B + Col.
+C)
+
+Tax on
+Gifts for
+Prior
+Periods
+(Col. C)2 3
+
+Tax on
+Cumulative
+Gifts
+Including
+Current
+Period (Col.
+D)3
+
+Tax on
+Gifts for
+Current
+Period
+(Col. F –
+Col. E)
+
+H
+
+I
+
+J
+
+DSUE From
+Basic
+Applicable
+PreExclusion
+Exclusion
+deceased for the Year
+Amount
+Spouse(s)
+of Gift4
+(Col. H +
+and
+Col. I)
+Restored
+Exclusion
+Amount
+
+K
+
+L
+
+M
+
+Applicable
+Applicable
+Available
+Credit
+Credit
+Credit in
+Amount
+Amount
+Current
+Based on Used in Prior
+Period
+Column J3 5
+Periods3 6 (Col. K – Col.
+L)
+
+N
+Credit
+Allowable
+(lesser of
+Col. G or
+Col. M)
+
+Pre-1977
+YYYY
+YYYY
+YYYY
+Total Applicable Credit Used in Prior Periods (Enter the total of column N on Schedule B, line 1, column (c)) :
+Column C: Enter amount from column D of the previous row.
+Column E: Compute the tax on the amount in column C or enter amount from column F of the previous row.
+To compute tax or credit amount, see Table for Computing Gift Tax.
+4
+For years prior to 2010, the basic exclusion amount equals the applicable exclusion amount.
+5
+For each row in column K, subtract 20% of any amount allowed as a specific exemption for gifts made after September 8, 1976, and before January 1, 1977.
+6
+Enter the total of columns L and N of the previous row.
+
+1
+
+2
+
+3
+
+16
+
+Instructions for Form 709 (2025)
+
+Example 1. Prior Years Credit Recalculation (for Form 709, Schedule B, Column (c))
+(Three post-1976 years involved. All have the same maximum credit available. Tentative tax exceeds available credit.)
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+J
+
+Period
+
+Taxable
+Gifts for
+Current
+Period
+
+Taxable
+Gifts for
+Prior
+Periods1
+
+Cumulative
+Taxable Gifts
+Including
+Current
+Period
+(Col. B + Col.
+C)
+
+Tax on
+Gifts for
+Prior
+Periods
+(Col. C)2 3
+
+Tax on
+Cumulative
+Gifts
+Including
+Current
+Period (Col.
+D)3
+
+Tax on
+Gifts for
+Current
+Period
+(Col. F –
+Col. E)
+
+DSUE From
+Predeceased
+Spouse(s)
+and
+Restored
+Exclusion
+Amount
+
+Basic
+Exclusion
+for Year of
+the Gift4
+
+Applicable
+Exclusion
+Amount
+(Col. H +
+Col. I)
+
+K
+
+L
+
+M
+
+N
+
+Applicable
+Applicable
+Available
+Credit
+Credit
+Credit in
+Amount
+Amount
+Current
+Based on Used in Prior
+Period
+35
+36
+Column J
+Periods
+(Col. K – Col.
+L)
+
+Credit
+Allowable
+(lesser of
+Col. G or
+Col. M)
+
+Pre-1977
+2004
+
+800,000
+
+0
+
+800,000
+
+0
+
+267,800
+
+267,800
+
+0
+
+1,000,000
+
+1,000,000
+
+345,800
+
+0
+
+345,800
+
+267,800
+
+2007
+
+300,000
+
+800,000
+
+1,100,000
+
+267,800
+
+385,800
+
+118,000
+
+0
+
+1,000,000
+
+1,000,000
+
+345,800
+
+267,800
+
+78,000
+
+78,000
+
+2009
+
+200,000
+
+1,100,000
+
+1,300,000
+
+385,800
+
+465,800
+
+80,000
+
+0
+
+1,000,000
+
+1,000,000
+
+345,800
+
+345,800
+
+0
+
+0
+
+Total Applicable Credit Used in Prior Periods (Enter the total of column N on Schedule B, line 1, column (c)) :
+
+345,800
+
+Column C: Enter amount from column D of the previous row.
+Column E: Compute the tax on the amount in column C or enter amount from column F of the previous row.
+3
+To compute tax or credit amount, see Table for Computing Gift Tax.
+4
+For years prior to 2010, the basic exclusion amount equals the applicable exclusion amount.
+5
+For each row in column K, subtract 20% of any amount allowed as a specific exemption for gifts made after September 8, 1976, and before January 1, 1977.
+6
+Enter the total of columns L and N of the previous row.
+1
+
+2
+
+Example 2. Prior Years Credit Recalculation (for Form 709, Schedule B, Column (c))
+(Pre-1977 gifts plus 3 post-1976 years: Earlier years’ gifts exceed credit then available. Last gift made after credit increased.)
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+J
+
+Period
+
+Taxable
+Gifts for
+Current
+Period
+
+Taxable
+Gifts for
+Prior
+Periods1
+
+Cumulative
+Taxable Gifts
+Including
+Current
+Period
+(Col. B + Col.
+C)
+
+Tax on
+Gifts for
+Prior
+Periods
+(Col. C)2 3
+
+Tax on
+Cumulative
+Gifts
+Including
+Current
+Period (Col.
+D)3
+
+Tax on
+Gifts for
+Current
+Period
+(Col. F –
+Col. E)
+
+DSUE From
+Predeceased
+Spouse(s)
+and
+Restored
+Exclusion
+Amount
+
+Basic
+Exclusion
+for Year of
+the Gift4
+
+Applicable
+Exclusion
+Amount
+(Col. H +
+Col. I)
+
+200,000
+
+K
+
+L
+
+M
+
+Applicable
+Applicable
+Available
+Credit
+Credit
+Credit in
+Amount
+Amount
+Current
+Based on Used in Prior
+Period
+35
+36
+Column J
+Periods
+(Col. K – Col.
+L)
+
+N
+Credit
+Allowable
+(lesser of
+Col. G or
+Col. M)
+
+Pre-1977
+
+200,000
+
+1987
+
+600,000
+
+200,000
+
+800,000
+
+54,800
+
+267,800
+
+54,800
+213,000
+
+0
+
+600,000
+
+600,000
+
+192,800
+
+0
+
+192,800
+
+192,800
+
+1999
+
+200,000
+
+800,000
+
+1,000,000
+
+267,800
+
+345,800
+
+78,000
+
+0
+
+650,000
+
+650,000
+
+211,300
+
+192,800
+
+18,500
+
+18,500
+
+2002
+
+100
+
+1,000,000
+
+1,000,100
+
+345,800
+
+345,840
+
+40
+
+0
+
+1,000,000
+
+1,000,000
+
+345,800
+
+211,300
+
+134,500
+
+40
+
+Total Applicable Credit Used in Prior Periods (Enter the total of column N on Schedule B, line 1, column (c)) :
+
+211,340
+
+Column C: Enter amount from column D of the previous row.
+Column E: Compute the tax on the amount in column C or enter amount from column F of the previous row.
+3
+To compute tax or credit amount, see Table for Computing Gift Tax.
+4
+For years prior to 2010, the basic exclusion amount equals the applicable exclusion amount.
+5
+For each row in column K, subtract 20% of any amount allowed as a specific exemption for gifts made after September 8, 1976, and before January 1, 1977.
+6
+Enter the total of columns L and N of the previous row.
+1
+
+2
+
+Instructions for Form 709 (2025)
+
+17
+
+Example 3. Prior Years Credit Recalculation (for Form 709, Schedule B, Column (c))
+($6M gift exceeds the applicable credit, $5M DSUE received prior to subsequent $4M gift in the same year.)
+A
+
+B
+
+Period
+
+Taxable
+Gifts for
+Current
+Period
+
+C
+
+D
+
+Taxable
+Cumulative
+Gifts for Taxable Gifts
+Prior
+Including
+Periods1
+Current
+Period
+(Col. B + Col.
+C)
+
+E
+
+F
+
+G
+
+H
+
+I
+
+J
+
+Tax on
+Gifts for
+Prior
+Periods
+(Col. C)2 3
+
+Tax on
+Cumulative
+Gifts
+Including
+Current
+Period (Col.
+D)3
+
+Tax on
+Gifts for
+Current
+Period
+(Col. F –
+Col. E)
+
+DSUE From
+Predeceased
+Spouse(s)
+and
+Restored
+Exclusion
+Amount4
+
+Basic
+Exclusion
+for Year of
+the Gift5
+
+Applicable
+Exclusion
+Amount
+(Col. H +
+Col. I)
+
+4,000,000
+
+5,000,000
+
+9,000,000
+
+K
+
+L
+
+M
+
+Applicable
+Applicable
+Available
+Credit
+Credit
+Credit in
+Amount
+Amount
+Current
+Based on Used in Prior
+Period
+36
+37
+Column J
+Periods
+(Col. K – Col.
+L)
+
+N
+Credit
+Allowable
+(lesser of
+Col. G or
+Col. M)
+
+Pre-1977
+2011
+
+10,000,000
+
+0
+
+10,000,000
+
+0
+
+3,945,800
+
+3,945,800
+
+3,545,800
+
+0
+
+3,545,800
+
+3,545,800
+
+Total Applicable Credit Used in Prior Periods (Enter the total of column N on Schedule B, line 1, column (c)) :
+
+3,545,800
+
+YYYY
+YYYY
+
+Column C: Enter amount from column D of the previous row.
+2
+Column E: Compute the tax on the amount in column C or enter amount from column F of the previous row.
+3
+To compute tax or credit amount, see Table for Computing Gift Tax.
+4
+DSUE may not be applied to gifts made prior to when it arises. Consequently, the available DSUE for the current period is limited to $4,000,000, the value of gifts made after the DSUE arose.
+5
+For years prior to 2010, the basic exclusion amount equals the applicable exclusion amount.
+6
+For each row in column K, subtract 20% of any amount allowed as a specific exemption for gifts made after September 8, 1976, and before January 1, 1977.
+7
+Enter the total of columns L and N of the previous row.
+1
+
+Example 4. Prior Years Credit Recalculation (for Form 709, Schedule B, Column (c))
+(Prior gift exceeds applicable credit, $5M DSUE received prior to subsequent gift.)
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+J
+
+Period
+
+Taxable
+Gifts for
+Current
+Period
+
+Taxable
+Gifts for
+Prior
+Periods1
+
+Cumulative
+Taxable Gifts
+Including
+Current
+Period
+(Col. B + Col.
+C)
+
+Tax on
+Gifts for
+Prior
+Periods
+(Col. C)2 3
+
+Tax on
+Cumulative
+Gifts
+Including
+Current
+Period (Col.
+D)3
+
+Tax on
+Gifts for
+Current
+Period
+(Col. F –
+Col. E)
+
+DSUE From
+Predeceased
+Spouse(s)
+and
+Restored
+Exclusion
+Amount
+
+Basic
+Exclusion
+for Year of
+the Gift4
+
+Applicable
+Exclusion
+Amount
+(Col. H +
+Col. I)
+
+K
+
+L
+
+M
+
+N
+
+Applicable
+Applicable
+Available
+Credit
+Credit
+Credit
+Credit in
+Allowable
+Amount
+Amount
+Current
+(lesser of
+Based on
+Used in Prior
+Period
+Col. G or
+35
+36
+Column J
+Periods
+(Col. K – Col.
+Col. M)
+L)
+
+Pre-1977
+2002
+
+4,000,000
+
+0
+
+4,000,000
+
+0
+
+1,545,800
+
+1,545,800
+
+0
+
+1,000,000
+
+1,000,000
+
+345,800
+
+0
+
+345,800
+
+345,800
+
+2011
+
+4,000,000
+
+4,000,000
+
+8,000,000
+
+1,545,800
+
+3,145,800
+
+1,600,000
+
+4,000,000
+
+5,000,000
+
+9,000,000
+
+3,545,800
+
+345,800
+
+3,200,000
+
+1,600,000
+
+Total Applicable Credit Used in Prior Periods (Enter the total of column N on Schedule B, line 1, column (c)) :
+
+1,945,800
+
+YYYY
+
+Column C: Enter amount from column D of the previous row.
+2
+Column E: Compute the tax on the amount in column C or enter amount from column F of the previous row.
+3
+To compute tax or credit amount, see Table for Computing Gift Tax.
+4
+For years prior to 2010, the basic exclusion amount equals the applicable exclusion amount.
+5
+For each row in column K, subtract 20% of any amount allowed as a specific exemption for gifts made after September 8, 1976, and before January 1, 1977.
+6
+Enter the total of columns L and N of the previous row.
+1
+
+18
+
+Instructions for Form 709 (2025)
+
+deceased spouse, except to the extent allowed by treaty with the
+surviving spouse’s country of citizenship.
+
+Table of Basic Exclusion and Credit Amounts
+(as Recalculated for 2025 Rates)
+
+Last Deceased Spouse Limitation
+
+Period
+
+Exclusion Amounts
+
+Credit Amounts
+
+1977 (Quarters 1 & 2)
+
+$30,000
+
+$6,000
+
+1977 (Quarters 3 & 4)
+
+$120,667
+
+$30,000
+
+1978
+
+$134,000
+
+$34,000
+
+1979
+
+$147,333
+
+$38,000
+
+1980
+
+$161,563
+
+$42,500
+
+1981
+
+$175,625
+
+$47,000
+
+1982
+
+$225,000
+
+$62,800
+
+1983
+
+$275,000
+
+$79,300
+
+1984
+
+$325,000
+
+$96,300
+
+1985
+
+$400,000
+
+$121,800
+
+1986
+
+$500,000
+
+$155,800
+
+1987 through 1997
+
+$600,000
+
+$192,800
+
+1998
+
+$625,000
+
+$202,050
+
+1999
+
+$650,000
+
+$211,300
+
+2000 and 2001
+
+$675,000
+
+$220,550
+
+2002 through 2010
+
+$1,000,000
+
+$345,800
+
+2011
+
+$5,000,000
+
+$1,945,800
+
+2012
+
+$5,120,000
+
+$1,993,800
+
+2013
+
+$5,250,000
+
+$2,045,800
+
+2014
+
+$5,340,000
+
+$2,081,800
+
+2015
+
+$5,430,000
+
+$2,117,800
+
+2016
+
+$5,450,000
+
+$2,125,800
+
+2017
+
+$5,490,000
+
+$2,141,800
+
+2018
+
+$11,180,000
+
+$4,417,800
+
+2019
+
+$11,400,000
+
+$4,505,800
+
+2020
+
+$11,580,000
+
+$4,577,800
+
+2021
+
+$11,700,000
+
+$4,625,800
+
+2022
+
+$12,060,000
+
+$4,769,800
+
+2023
+
+$12,920,000
+
+$5,113,800
+
+2024
+
+$13,610,000
+
+$5,389,800
+
+2025
+
+$13,990,000
+
+$5,541,800
+
+Schedule C. Deceased Spousal
+Unused Exclusion (DSUE) Amount
+and Restored Exclusion Amount
+
+Section 303 of the Tax Relief, Unemployment Insurance
+Reauthorization, and Job Creation Act of 2010 authorized
+estates of decedents dying on or after January 1, 2011, to elect
+to transfer any unused exclusion to the surviving spouse. The
+amount received by the surviving spouse is called the deceased
+spousal unused exclusion, or DSUE, amount. If the executor of
+the decedent’s estate elects transfer, or portability, of the DSUE
+amount, the surviving spouse can apply the DSUE amount
+received from the estate of the last deceased spouse (defined
+later) against any tax liability arising from subsequent lifetime
+gifts and transfers at death.
+Caution: Complete Schedule A before beginning Schedule C.
+Note: A nonresident surviving spouse who is not a citizen of the
+United States may not take into account the DSUE amount of a
+Instructions for Form 709 (2025)
+
+The last deceased spouse is the most recently deceased person
+who was married to the surviving spouse at the time of that
+person’s death. The identity of the last deceased spouse is
+determined as of the day a taxable gift is made and is not
+impacted by whether the decedent’s estate elected portability or
+whether the last deceased spouse had any DSUE amount
+available. Remarriage also does not affect the designation of the
+last deceased spouse and does not prevent the surviving
+spouse from applying the DSUE amount to taxable transfers.
+When a taxable gift is made, the DSUE amount received from
+the last deceased spouse is applied before the surviving
+spouse’s basic exclusion amount. A surviving spouse who has
+more than one predeceased spouse is not precluded from using
+the DSUE amount of each spouse in succession. A surviving
+spouse may not use the sum of DSUE amounts from multiple
+predeceased spouses at one time nor may the DSUE amount of
+a predeceased spouse be applied after the death of a
+subsequent spouse.
+When a surviving spouse applies the DSUE amount to a
+lifetime gift, the IRS may examine any return of a predeceased
+spouse whose executor elected portability to verify the allowable
+DSUE amount. The DSUE may be adjusted or eliminated as a
+result of the examination; however, the IRS may make an
+assessment of additional tax on the return of a predeceased
+spouse only within the applicable limitations period under
+section 6501.
+
+Restored Exclusion Amount. Prior to the decision of the
+Supreme Court in United States v. Windsor, 570 U.S. 744, 133
+S. Ct. 2675 (2013), the Defense of Marriage Act (DOMA), Public
+Law 104-199 (110 Stat. 2419), required that marriages of
+couples of the same sex should not be treated as being married
+for federal tax purposes. As a result, taxpayers in a same-sex
+marriage were not entitled to claim a marital deduction for gifts or
+bequests to each other. Those taxpayers were required to use
+their applicable exclusion amount to defray any gift or estate tax
+imposed on the transfer or were required to pay gift or estate
+taxes, to the extent the taxpayer’s exclusion previously had been
+exhausted.
+In Windsor, the Supreme Court declared that DOMA was
+unconstitutional. For federal tax purposes, marriages of couples
+of the same sex are treated the same as marriages of couples of
+the opposite sex. The term “spouse” includes an individual
+married to a person of the same sex. However, individuals who
+have entered into a registered domestic partnership, civil union,
+or other similar relationship that isn’t considered a marriage
+under state law aren’t considered married for federal tax
+purposes.
+Under a new procedure, a donor who made a transfer to the
+donor’s same-sex spouse, which resulted in a reduction of the
+donor’s applicable exclusion amount, can now recalculate the
+remaining applicable exclusion. This procedure is only available
+to transfers that did not qualify for the marital deduction for
+federal gift tax purposes at the time of the transfer, based solely
+on the application of DOMA. If the limitations period has expired,
+the donor may recalculate the remaining applicable exclusion.
+However, once the limitations period on assessment of tax has
+expired, neither the value of the transferred interest nor any
+position concerning a legal issue (other than the existence of the
+marriage) related to the transfer can be changed. Similarly, no
+credit or refund of the gift taxes paid on the donor’s transfer to
+the donor’s same-sex spouse can be given once the limitations
+period on claims for credit or refund has expired.
+
+19
+
+The first step of the procedure is to determine the amount of
+applicable exclusion that was expended on a taxable gift to a
+same-sex spouse. In any given year, the amount of applicable
+exclusion expended on a taxable gift to a same-sex spouse is
+equal to the amount of applicable exclusion expended on all
+taxable gifts multiplied by the ratio of the amount of taxable gifts
+to the same-sex spouse over total taxable gifts. The amount of
+applicable exclusion expended on all taxable gifts is equal to the
+lesser of the available applicable exclusion or the amount of all
+taxable gifts.
+Example. In 2011, Alex made $5 million of taxable gifts. Alex
+made a $3 million taxable gift to Pat, same-sex spouse, and a $2
+million taxable gift to Max, another individual. Alex’s marriage to
+Pat was recognized by the state where they got married, but was
+not recognized by the federal government. The transfer to Pat
+would qualify for the marital deduction if Alex’s marriage to Pat
+was recognized by the federal government. Alex has a basic
+exclusion of $5 million. Alex had previously used $1 million of the
+applicable exclusion on other gifts in previous years. This means
+that Alex had $4 million of applicable exclusion available in 2011.
+Since Alex’s available applicable exclusion ($4 million) is less
+than the amount of all taxable gifts for the year ($5 million), Alex
+expended all $4 million of the available applicable exclusion on
+all taxable gifts during the year.
+
+Example of Calculation of Restored Exclusion
+Amount
+Taxable gifts to B
+Applicable exclusion
+____________
+expended on all
+x
+=
+Total taxable
+taxable gifts
+gifts
+
+$4 million
+
+$3 million
+x ________
+$5 million
+
+=
+
+Applicable exclusion
+allocable to gifts to B
+
+$2,400,000
+
+In 2011, Alex expended $2,400,000 of the applicable
+exclusion on the taxable gift to Pat.
+The second step of the procedure is to repeat the first step for
+every year when the donor made a taxable gift to a same-sex
+spouse.
+The third step of the procedure is to add up the result for all
+the years. The result is the total amount of applicable exclusion
+expended on the same-sex spouse. This amount of applicable
+exclusion will be restored to the donor for use on future gifts and
+bequests and is known as the Restored Exclusion Amount. Enter
+this amount on line 3 of Schedule C.
+Attach a statement to Form 709 detailing the calculation of
+the above procedure on the first Form 709 on which you claim a
+Restored Exclusion Amount.
+Caution: The Restored Exclusion Amount will have to be
+accounted for the donor on every subsequent Form 709 (and
+Form 706) that will be filed. This means that on all future Forms
+709 that will be filed, the Restored Exclusion Amount will need to
+be entered on Schedule C. (The Restored Exclusion Amount will
+be entered on line 9c of Part II—Tax Computation on Form 706.)
+In addition, the Worksheet for Schedule B, Column (c) (Credit
+Allowable for Prior Periods) should reflect the Restored
+Exclusion Amount. For the period when the applicable exclusion
+was first restored, and on every subsequent period listed on the
+worksheet, add the Restored Exclusion Amount to the total
+DSUE amount (if any) and enter the sum in column H.
+
+Completing Schedule C
+
+Complete Schedule C if the donor is a surviving spouse who
+received a DSUE amount from one or more predeceased
+spouses, or if the donor is a taxpayer who made a taxable
+
+20
+
+transfer to a same-sex spouse which resulted in a reduction of
+the taxpayer’s available applicable exclusion amount (or both).
+Schedule C requests information on all DSUE amounts
+received from the donor’s last deceased spouse and any
+previously deceased spouses. Each line in the chart should
+reflect a different predeceased spouse. Attach proof of each
+portability election reported on Schedule C.
+
+Part 1. DSUE Received From Last Deceased
+Spouse
+In this Part, include information about the DSUE amount from the
+donor’s most recently deceased spouse (whose date of death is
+after December 31, 2010). In column (e), enter the total of the
+amount in column (d) that the donor has applied to gifts in
+previous years and is applying to gifts reported on this return. A
+donor may apply DSUE only to gifts made after the DSUE arose.
+
+Part 2. DSUE Received From Predeceased
+Spouse(s)
+Enter information about the DSUE amount from the spouse(s), if
+any, who died prior to the donor’s most recently deceased
+spouse (but not before January 1, 2011) if the prior spouse’s
+executor elected portability of the DSUE amount. In column (d),
+indicate the amount of DSUE received from the estate of each
+predeceased spouse. In column (e), enter the portion of the
+amount of DSUE shown in column (d) that was applied to prior
+lifetime gifts or transfers. A donor may apply DSUE only to gifts
+made after the DSUE arose.
+Caution: Any remaining DSUE from a predeceased spouse
+cannot be applied against tax arising from lifetime gifts if that
+spouse is not the most recently deceased spouse on the date of
+the gift. This rule applies even if the last deceased spouse had
+no DSUE amount or made no valid portability election, or if the
+DSUE amount from the last deceased spouse has been fully
+applied to gifts in previous periods.
+
+Determining the Applicable Credit Amount
+Including DSUE and the Restored Exclusion
+Amount
+On line 1, enter the donor’s basic exclusion amount; for 2025,
+this amount is $13,990,000. Add the amounts listed in column
+(e) from Parts 1 and 2 and enter the total on line 2. On line 3,
+enter the Restored Exclusion Amount. On line 4, enter the total
+of lines 1, 2, and 3. Using the Table for Computing Gift Tax,
+determine the donor’s applicable credit by applying the
+appropriate tax rate to the amount on line 4. Enter this amount
+on line 5 and on line 7 of Part II—Tax Computation.
+
+Schedule D. Computation of
+Generation-Skipping Transfer Tax
+Part 1—Generation-Skipping Transfers
+
+Enter in Part 1 all of the gifts you listed in Part 2 of Schedule A, in
+the same order and showing the same values. If reporting the
+GST portion of transfers subject to an ETIP, see How to report
+GSTs after the close of an ETIP, later.
+
+Column (a)
+List items from Schedule A, Part 2, column (a), in the same
+order. Next, list items to be reported on Schedule D (including
+ETIP transfers), if any.
+Instructions for Form 709 (2025)
+
+Column (b)
+Only provide descriptions for ETIP transfers; otherwise, leave
+blank.
+
+Column (d)
+You are allowed to claim the gift tax annual exclusion currently
+allowable for your reported direct skips (other than certain direct
+skips to trusts—see Note below) using the rules and limits
+discussed earlier for the gift tax annual exclusion. However, you
+must allocate the exclusion on a gift-by-gift basis for GST
+computation purposes. You must allocate the exclusion to each
+gift, to the extent desired but not exceeding the maximum
+allowable amount, in chronological order, beginning with the
+earliest gift that qualifies for the exclusion. Be sure that you do
+not claim a total exclusion of more than $19,000 per donee.
+Note: You may not claim any annual exclusion for a transfer
+made to a trust unless the trust meets the requirements
+discussed under Part 2, earlier.
+How to report GSTs after the close of an ETIP. If you are
+reporting a GST that occurred because of the close of an ETIP,
+complete Part 1 as follows.
+Column (b). For transfers subject to an ETIP only, describe
+each transfer as provided in the instructions for Part 1 of
+Schedule A. In addition, describe the interest that is closing the
+ETIP, explain what caused the interest to terminate, list the date
+the ETIP closed, and list the year the gift portion of the transfer
+was reported and its item number on Schedule A that was
+originally filed to report the gift portion of the ETIP transfer.
+Column (c).
+1. If the GST exemption is being allocated on a timely filed
+(including extensions) gift tax return, enter the value as of
+the close of the ETIP.
+2. If the GST exemption is being allocated on a late-filed (past
+the due date including extensions) gift return, enter the
+value as of the date the gift tax return was filed.
+
+Part 2—GST Exemption Reconciliation (Section
+2631)
+Line 1
+Every donor is allowed a lifetime GST exemption. The amount of
+the exemption for 2025 is $13,990,000. For transfers made
+through 1998, the GST exemption was $1 million. The exemption
+amounts for 1999 through 2025 are as follows.
+
+Year
+1999 . . . . . . . . . . . . . . . . . . . . . . . . .
+2000 . . . . . . . . . . . . . . . . . . . . . . . . .
+2001 . . . . . . . . . . . . . . . . . . . . . . . . .
+2002 . . . . . . . . . . . . . . . . . . . . . . . . .
+2003 . . . . . . . . . . . . . . . . . . . . . . . . .
+2004 and 2005 . . . . . . . . . . . . . . . . . . .
+2006, 2007, and 2008 . . . . . . . . . . . . . . .
+2009 . . . . . . . . . . . . . . . . . . . . . . . . .
+2010 and 2011 . . . . . . . . . . . . . . . . . . .
+2012 . . . . . . . . . . . . . . . . . . . . . . . . .
+2013 . . . . . . . . . . . . . . . . . . . . . . . . .
+2014 . . . . . . . . . . . . . . . . . . . . . . . . .
+2015 . . . . . . . . . . . . . . . . . . . . . . . . .
+2016 . . . . . . . . . . . . . . . . . . . . . . . . .
+2017 . . . . . . . . . . . . . . . . . . . . . . . . .
+2018 . . . . . . . . . . . . . . . . . . . . . . . . .
+2019 . . . . . . . . . . . . . . . . . . . . . . . . .
+2020 . . . . . . . . . . . . . . . . . . . . . . . . .
+2021 . . . . . . . . . . . . . . . . . . . . . . . . .
+2022 . . . . . . . . . . . . . . . . . . . . . . . . .
+2023 . . . . . . . . . . . . . . . . . . . . . . . . .
+2024 . . . . . . . . . . . . . . . . . . . . . . . . .
+2025 . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Amount
+$1,010,000
+$1,030,000
+$1,060,000
+$1,100,000
+$1,120,000
+$1,500,000
+$2,000,000
+$3,500,000
+$5,000,000
+$5,120,000
+$5,250,000
+$5,340,000
+$5,430,000
+$5,450,000
+$5,490,000
+$11,180,000
+$11,400,000
+$11,580,000
+$11,700,000
+$12,060,000
+$12,920,000
+$13,610,000
+$13,990,000
+
+In general, each annual increase can only be allocated to
+transfers made (or appreciation occurring) during or after the
+year of the increase.
+Example. A donor made $1,750,000 in direct-skip GSTs
+through 2005, and allocated all $1,500,000 of the exemption to
+those transfers. In 2025, the donor makes a $2,000,000 taxable
+GST. The donor can allocate $2,000,000 of exemption to the
+2025 transfer but cannot allocate the $10,490,000 of unused
+2025 exemption to pre-2025 transfers.
+However, if in 2005, the donor made a $1,750,000 transfer to
+a trust that was not a direct skip, but from which GSTs could be
+made in the future, the donor could allocate the increased
+exemption to the trust, even though no additional transfers were
+made to the trust. See Regulations section 26.2642-4 for the
+redetermination of the applicable fraction when additional
+exemption is allocated to the trust.
+Keep a record of your transfers and exemption allocations to
+make sure that any future increases are allocated correctly.
+Enter on line 1 of Part 2 the maximum GST exemption you are
+allowed. This will not necessarily be the highest indexed amount
+if you made no GSTs during the year of the increase.
+The donor can apply this exemption to inter vivos transfers
+(that is, transfers made during the donor’s life) on Form 709. The
+executor can apply the exemption on Form 706 to transfers
+taking effect at death. An allocation is irrevocable.
+In the case of inter vivos direct skips, a portion of the donor’s
+unused exemption is automatically allocated to the transferred
+property unless the donor elects otherwise. To elect out of the
+automatic allocation of exemption, you must file Form 709 and
+attach a statement to it clearly describing the transaction and the
+extent to which the automatic allocation is not to apply. Reporting
+a direct skip on a timely filed Form 709 and paying the GST tax
+on the transfer will prevent an automatic allocation.
+
+Line 5
+Section 2632(c) provides an automatic allocation to indirect
+skips of any unused GST exemption. The unused exemption is
+allocated to indirect skips to the extent necessary to make the
+inclusion ratio zero for the property transferred. You may elect
+Instructions for Form 709 (2025)
+
+21
+
+Table for Computing Gift Tax
+
+Taxable
+amount
+over—
+
+Taxable
+amount
+not over—
+
+Tax on
+amount in
+column A
+
+Rate of tax
+on excess
+over amount
+in column A
+
+----$10,000
+20,000
+40,000
+60,000
+
+$10,000
+20,000
+40,000
+60,000
+80,000
+
+----$1,800
+3,800
+8,200
+13,000
+
+18%
+20%
+22%
+24%
+26%
+
+80,000
+100,000
+150,000
+250,000
+500,000
+750,000
+1,000,000
+
+100,000
+150,000
+250,000
+500,000
+750,000
+1,000,000
+-----
+
+18,200
+23,800
+38,800
+70,800
+155,800
+248,300
+345,800
+
+28%
+30%
+32%
+34%
+37%
+39%
+40%
+
+out of this automatic allocation as explained in the instructions
+for Part 3.
+
+Line 6
+Enter the amount of GST exemption you are applying to transfers
+reported in Part 3 of Schedule A. You may also wish to allocate
+GST exemption to transfers not reported on this return, such as a
+late allocation.
+Notice of Allocation. To allocate your exemption to such
+transfers, attach a statement to this Form 709 and entitle it
+“Notice of Allocation.” The notice must contain the following for
+each trust (or other transfer).
+• Clear identification of the trust, including the trust’s EIN, if
+known.
+• If this is a late allocation, the year the transfer was reported
+on Form 709.
+• The value of the trust assets at the effective date of the
+allocation.
+• The amount of your GST exemption allocated to each gift (or
+a statement that you are allocating exemption by means of a
+formula such as “an amount necessary to produce an
+inclusion ratio of zero”).
+• The inclusion ratio of the trust after the allocation.
+Total the exemption allocations and enter this total on line 6.
+Note: Where the property involved in such a transfer is subject
+to an ETIP, an allocation of the GST exemption at the time of the
+transfer will only become effective at the end of the ETIP. For
+details, see Transfers Subject to an Estate Tax Inclusion Period
+(ETIP), earlier, and section 2642(f).
+
+Part 3—Tax Computation
+
+You must enter in Part 3 every gift you listed in Part 1 of
+Schedule D.
+
+Column (c)
+You are not required to allocate your available exemption. You
+may allocate some, all, or none of your available exemption, as
+you wish, among the gifts listed in Part 3 of Schedule D.
+However, the total exemption claimed in column (c) may not
+exceed the amount you entered on line 3 of Part 2 of
+Schedule D.
+22
+
+.
+
+Column D
+
+.
+
+Column C
+
+.
+
+Column B
+
+.
+
+Column A
+
+Column (d)
+Carry your computation to three decimal places (for example,
+“1.000”).
+
+Part II—Tax Computation (Page 1 of
+Form 709)
+Lines 4 and 5
+
+To compute the tax for the amount on line 3 (to be entered on
+line 4) and the tax for the amount on line 2 (to be entered on
+line 5), use the Table for Computing Gift Tax.
+
+Line 7
+
+The applicable credit (formerly unified credit) amount is the
+tentative tax on the applicable exclusion amount. For gifts made
+in 2025, the applicable exclusion amount equals:
+• The basic exclusion amount of $13,990,000, PLUS
+• Any DSUE amount, PLUS
+• Any Restored Exclusion Amount.
+If you are a citizen or resident of the United States, you must
+apply any available applicable credit against gift tax. If you are
+not eligible to use a DSUE amount from a predeceased spouse,
+or Restored Exclusion Amount on taxable gifts made to a
+same-sex spouse, enter $5,541,800 on line 7. Nonresidents not
+citizens of the United States may not claim the applicable credit
+and should enter zero on line 7.
+If you are eligible to use a DSUE amount from a predeceased
+spouse or a Restored Exclusion Amount for taxable gifts to a
+same-sex spouse (or both), complete Schedule C—Deceased
+Spousal Unused Exclusion (DSUE) Amount and enter the
+amount from line 5 of that schedule on line 7 of Part II—Tax
+Computation.
+Determine the tentative tax on the applicable exclusion
+amount using the rates in the Table for Computing Gift Tax, and
+enter the result on line 7.
+
+Line 10
+
+Enter 20% of the amount allowed as a specific exemption for
+gifts made after September 8, 1976, and before January 1, 1977.
+(These amounts will be among those listed in Schedule B,
+column (d), for gifts made in the third and fourth quarters of
+1976.)
+Instructions for Form 709 (2025)
+
+Line 13
+
+Gift tax conventions are in effect with Australia, Austria,
+Denmark, France, Germany, Japan, and the United Kingdom. If
+you are claiming a credit for payment of foreign gift tax, figure the
+credit and attach the calculation to Form 709, along with
+evidence that the foreign taxes were paid. See the applicable
+convention for details of computing the credit.
+
+• Your deposit is to a savings account that doesn’t allow you to
+write checks, or
+
+• Your checks state they are payable through a financial
+
+institution different from the one at which you have your
+checking account.
+
+Line 20c
+
+Line 19—Tax Due
+
+If the amount on line 17 is more than the amount on line 18,
+subtract line 18 from line 17. This is the amount you owe.
+
+Check the appropriate box for the type of account. Don’t check
+more than one box. You must check the correct box to ensure
+your deposit is accepted.
+
+Making a Payment
+
+Line 20d
+
+The IRS recommends paying electronically whenever possible.
+Options to pay electronically include any of the payment options
+below. Also, go to IRS.gov/Payments and Frequently asked
+questions on estate taxes for more detailed information.
+
+The account number can be up to 17 characters (both numbers
+and letters). Include hyphens but omit spaces and special
+symbols. Enter the number from left to right and leave any
+unused boxes blank. Don’t include the check number.
+
+EFTPS. Payment of the tax due may be submitted electronically
+through the Electronic Federal Tax Payment System (EFTPS).
+EFTPS is a free service of the Department of the Treasury. See
+IRS.gov/EFTPS and EFTPS.gov for more information.
+Same-day wire. Payment of the tax due may be submitted
+electronically through same-day wire from your financial
+institution. Contact your financial institution for availability, cost,
+and time frames. See IRS.gov/SameDayWire and How do I
+make an electronic payment under Frequently asked questions
+on estate taxes on IRS.gov for the worksheet and more
+information.
+Paying by check. Make the check payable to “United States
+Treasury.” Write the donor’s TIN and “Form 709” to assist us in
+posting it to the proper account. See IRS.gov/PayByMail for
+more information.
+Paying by cash. You may be able to pay your balance due
+with cash at participating retail stores. See IRS.gov/PayCash.
+
+Line 20—Overpayment
+
+If you have access to U.S. banking services, you should use
+direct deposit for any refunds, whenever possible. See IRS.gov/
+DirectDeposit for more information.
+Direct deposit is available for this form. If there is an
+overpayment when filing your return, complete Part II, lines 20b,
+20c, and 20d to input your direct deposit information.
+
+Line 20a
+If line 20a is under $1, we will send a refund only on written
+request.
+
+Line 20b
+
+Signature
+
+As a donor, you must sign the return. If you pay another person,
+firm, or corporation to prepare your return, that person must also
+sign the return as preparer unless that person is your regular
+full-time employee.
+Remember, if you and your spouse have consented to split
+gifts, your spouse must also sign and date a Notice of Consent,
+to be attached to the return.
+Third-party designee. If you want to allow the return preparer
+(listed on the bottom of page 1 of Form 709) to discuss your
+2025 Form 709 with the IRS, check the “Yes” box to the far right
+of your signature on page 1 of your return.
+If you check the “Yes” box, you (and your spouse, if splitting
+gifts) are authorizing the IRS to call your return preparer to
+answer questions that may arise during the processing of your
+return. You are also authorizing the return preparer of your 2025
+Form 709 to:
+• Give the IRS any information that is missing from your return;
+• Call the IRS for information about the processing of your
+return or the status of your payment(s);
+• Receive copies of notices or transcripts related to your
+return, upon request; and
+• Respond to certain IRS notices about math errors, offsets,
+and return preparation.
+You are not authorizing your return preparer to receive any
+refund check, to bind you to anything (including any additional
+tax liability), or otherwise represent you before the IRS. If you
+want to expand the authorization of your return preparer, see
+Pub. 947, Practice Before the IRS and Power of Attorney.
+The authorization will automatically end 3 years from the date
+of filing Form 709. If you wish to revoke the authorization before it
+ends, see Pub. 947.
+
+The routing number must be nine digits. The first two digits must
+be 01 through 12 or 21 through 32. Ask your financial institution
+for the correct routing number to enter on line 20b if:
+• The routing number on a deposit slip is different from the
+routing number on your checks,
+Disclosure, Privacy Act, and Paperwork Reduction Act Notice. We ask for the information on this form to carry out the Internal
+Revenue laws of the United States. We need the information to figure and collect the right amount of tax. Form 709 is used to report (1)
+transfers subject to the federal gift and certain GST taxes and to figure the tax, if any, due on those transfers; and (2) allocations of the
+lifetime GST exemption to property transferred during the transferor’s lifetime.
+Our legal right to ask for the information requested on this form is found in sections 6001, 6011, 6019, and 6061, and their
+regulations. You are required to provide the information requested on this form. Section 6109 requires that you provide your identifying
+number.
+Instructions for Form 709 (2025)
+
+23
+
+Generally, tax returns and return information are confidential, as stated in section 6103. However, section 6103 allows or requires
+the Internal Revenue Service to disclose or give such information shown on your Form 709 to the Department of Justice to enforce the
+tax laws, both civil and criminal, and to cities, states, the District of Columbia, and U.S. commonwealths and territories for use in
+administering their tax laws. We may also disclose this information to other countries under a tax treaty, to federal and state agencies
+to enforce federal nontax criminal laws, or to federal law enforcement and intelligence agencies to combat terrorism.
+We may disclose the information on your Form 709 to the Department of the Treasury and contractors for tax administration
+purposes; and to other persons as necessary to obtain information that we cannot get in any other way for purposes of determining the
+amount of or to collect the tax you owe. We may disclose the information on your Form 709 to the Comptroller General to review the
+Internal Revenue Service. We may also disclose the information on your Form 709 to Committees of Congress; federal, state, and
+local child support agencies; and to other federal agencies for the purpose of determining entitlement for benefits or the eligibility for,
+and the repayment of, loans.
+If you are required to but do not file a Form 709, or do not provide the information requested on the form, or provide fraudulent
+information, you may be charged penalties and be subject to criminal prosecution.
+You are not required to provide the information requested on a form that is subject to the Paperwork Reduction Act unless the form
+displays a valid OMB control number. Books or records relating to a form or its instructions must be retained as long as their contents
+may become material in the administration of any Internal Revenue law.
+The time needed to complete and file this form will vary depending on individual circumstances. The estimated average time is:
+Recordkeeping . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52 min.
+Learning about the law or the form. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 hr., 53 min.
+Preparing the form . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 hr., 21 min.
+Copying, assembling, and sending the form to the IRS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 hr., 3 min.
+
+Comments and suggestions. We welcome your comments about this publication and suggestions for future editions.
+You can send us comments through IRS.gov/FormComments. Or, you can write to the Internal Revenue Service, Tax Forms and
+Publications, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224.
+Although we can’t respond individually to each comment received, we do appreciate your feedback and will consider your
+comments and suggestions as we revise our tax forms, instructions, and publications. Don’t send tax questions, tax returns, or
+payments to the above address. Instead, see Where To File, earlier.
+
+24
+
+Instructions for Form 709 (2025)
+
+

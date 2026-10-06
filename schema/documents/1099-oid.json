@@ -1,0 +1,128 @@
+{
+  "document": {
+    "id": "1099-OID",
+    "title": "Original Issue Discount",
+    "kind": "information_return",
+    "revision": "Rev. January 2024",
+    "revision_printed_as": "Form 1099-OID (Rev. 1-2024)",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f1099oid.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1099int",
+    "issued_by": "issuer or broker holding an OID obligation",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Original issue discount for the year",
+        "type": "money",
+        "notes": "The form's own face carries the footnote '* This may not be the correct figure to report on your income tax return. See instructions on the back.' 'Report the amount in box 1 as interest income on your income tax return.'"
+      },
+      {
+        "box": "2",
+        "label": "Other periodic interest",
+        "type": "money",
+        "notes": "Qualified stated interest, separate from the OID. Its character depends on its neighbours: with an amount in box 8 it is U.S. Treasury interest (federally taxable, state-exempt); with an amount in box 11 it is TAX-EXEMPT interest and is not included in interest income. Box 9 is inside this figure."
+      },
+      {
+        "box": "3",
+        "label": "Early withdrawal penalty",
+        "type": "money",
+        "notes": "An ADJUSTMENT to income. Note the box number: the early withdrawal penalty is box 2 on Form 1099-INT and box 3 here."
+      },
+      {
+        "box": "4",
+        "label": "Federal income tax withheld",
+        "type": "money",
+        "notes": "Backup withholding."
+      },
+      {
+        "box": "5",
+        "label": "Market discount",
+        "type": "money",
+        "notes": "Reported only where the section 1278(b) election was made. CROSS-SCOPE NOTE: market discount NOT currently included in income is the origin of the Form 8949 column (f) code D adjustment on the later disposition; that route belongs to the capital gains scope."
+      },
+      {
+        "box": "6",
+        "label": "Acquisition premium",
+        "type": "money",
+        "notes": "REDUCES BOX 1 (or box 8, or the tax-exempt OID in box 11). Enters Schedule B as a subtraction labelled 'OID Adjustment'. Where the payer reported a net amount of OID in box 1 or box 8, 'you must not make an adjustment to this amount for acquisition premium on Schedule B (Form 1040)'."
+      },
+      {
+        "box": "7",
+        "label": "Description",
+        "type": "text",
+        "notes": "CUSIP or description of the obligation. No route."
+      },
+      {
+        "box": "8",
+        "label": "Original issue discount on U.S. Treasury obligations",
+        "type": "money",
+        "notes": "'Report this amount as interest income on your federal income tax return... This OID is exempt from state and local income taxes and is not included in box 1.' A negative figure is a deflation adjustment."
+      },
+      {
+        "box": "9",
+        "label": "Investment expenses",
+        "type": "money",
+        "notes": "COMPONENT OF BOX 2 - note, box 2, not box 1. 'Any amount shown is your share of investment expenses of a single-class REMIC. This amount is included in box 2. Note: This amount is not deductible.' It routes nowhere."
+      },
+      {
+        "box": "10",
+        "label": "Bond premium",
+        "type": "money",
+        "notes": "REDUCES BOX 2 (or, with an amount in box 11, reduces tax-exempt interest). Same 'ABP Adjustment' mechanism as Form 1099-INT box 11."
+      },
+      {
+        "box": "11",
+        "label": "Tax-exempt OID",
+        "type": "money",
+        "notes": "Tax-exempt original issue discount on a covered tax-exempt obligation acquired on or after January 1, 2017."
+      },
+      {
+        "box": "12",
+        "label": "State",
+        "type": "text",
+        "notes": "State reporting. No federal route."
+      },
+      {
+        "box": "13",
+        "label": "State identification no.",
+        "type": "text",
+        "notes": "State reporting. No federal route."
+      },
+      {
+        "box": "14",
+        "label": "State tax withheld",
+        "type": "money",
+        "notes": "State reporting. No federal route."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed above the issuer's block on every copy. A corrected form replaces one furnished earlier; its figures are the ones to use, never counted beside the earlier form's."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed on Copy A (the issuer's filing copy) and the state copy; the recipient's Copy B does not print it."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "FR-016 mark. An account or other unique number the issuer assigned; identification only, never a figure."
+      },
+      {
+        "box": "fatca",
+        "label": "FATCA filing requirement",
+        "type": "checkbox",
+        "notes": "FR-016 mark. The issuer reports this account under chapter 4; the recipient may also have to file Form 8938. Moves no figure."
+      }
+    ],
+    "notes": "Continuous-use form; revision in force for TY2024 and TY2025 is Rev. January 2024. Forms 1099-INT and 1099-OID share one set of filer instructions (i1099int). Box numbering differs between the two forms in a way that invites error: early withdrawal penalty is INT box 2 but OID box 3; investment expenses sit inside INT box 1 but inside OID box 2."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099OID",
+    "note": "The note that stood here \u2014 \"Azure ships no prebuilt-tax model for this form\" \u2014 was STALE, and re-verified as stale twice (2026-09-24 and 2026-09-29) against Azure-Samples `schema/2024-11-30-ga/us-tax/`. v4.0 (2024-11-30 GA) publishes this model. No `fields` map is needed: every box this document declares is answered by Azure as `Box<n>`, which `normalize_box_name` already turns into the declared id."
+  }
+}

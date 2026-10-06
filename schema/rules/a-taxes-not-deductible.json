@@ -1,0 +1,50 @@
+{
+  "rule": {
+    "id": "a-taxes-not-deductible",
+    "title": "Taxes Schedule A does not allow",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-tax-payment-records.state_and_local_income_taxes_paid",
+        "taxpayer-tax-payment-records.state_and_local_real_estate_taxes_paid",
+        "taxpayer-tax-payment-records.state_and_local_personal_property_taxes_paid",
+        "taxpayer-tax-payment-records.other_deductible_taxes_paid"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-a-tax-schedule-a-does-not-allow"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-a-tax-schedule-a-does-not-allow",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this a tax Schedule A does not allow \u2014 federal income or excise tax, social security or Medicare tax, customs duties, federal estate or gift tax, tax on gasoline, car inspection fees, assessments for sidewalks or other improvements, tax paid for someone else, license fees, or foreign personal or real property tax?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "Taxes You Can't Deduct",
+      "revision": "2025",
+      "wording": "Social security, Medicare, federal unemployment (FUTA), and railroad retirement (RRTA) taxes.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "research_ids": [
+      "a-taxes-not-deductible"
+    ]
+  }
+}

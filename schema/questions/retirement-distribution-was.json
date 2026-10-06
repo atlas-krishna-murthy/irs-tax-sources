@@ -1,0 +1,39 @@
+{
+  "question": {
+    "id": "retirement-distribution-was",
+    "wording": "What happened to this Form 1099-R distribution after it was paid?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "kept",
+        "label": "Kept \u2014 taxable as box 2a prints it"
+      },
+      {
+        "value": "rolled_over_in_full",
+        "label": "All of it rolled over within 60 days \u2014 line 4b/5b is 0"
+      },
+      {
+        "value": "hfd_in_full",
+        "label": "All of it an HSA funding distribution the taxpayer elects to exclude \u2014 line 4b is 0"
+      },
+      {
+        "value": "partly",
+        "label": "Part rolled over or an HFD \u2014 the preparer enters the part not excluded"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "kept",
+      "because": "A distribution was kept unless a preparer says it was rolled over or was an HSA funding distribution"
+    },
+    "basis": {
+      "citation": {
+        "form": "Form 1040",
+        "line": "Lines 4a and 4b, Exception 1",
+        "revision": "2025",
+        "wording": "Generally, a rollover must be made within 60 days after the day you received the distribution.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "document": {
+    "id": "1099-SA",
+    "title": "Distributions From an HSA, Archer MSA, or Medicare Advantage MSA",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-SA (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099sa--2025.pdf",
+    "issued_by": "the HSA or MSA trustee/custodian",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Gross distribution",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Earnings on excess cont.",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Distribution code",
+        "type": "code",
+        "codes": [
+          {
+            "code": "1",
+            "label": "Normal distribution"
+          },
+          {
+            "code": "2",
+            "label": "Excess contributions"
+          },
+          {
+            "code": "3",
+            "label": "Disability"
+          },
+          {
+            "code": "4",
+            "label": "Death distribution other than code 6"
+          },
+          {
+            "code": "5",
+            "label": "Prohibited transaction"
+          },
+          {
+            "code": "6",
+            "label": "Death distribution after year of death to a nonspouse beneficiary"
+          }
+        ]
+      },
+      {
+        "box": "4",
+        "label": "FMV on date of death",
+        "type": "money"
+      },
+      {
+        "box": "5-hsa",
+        "label": "HSA",
+        "type": "checkbox"
+      },
+      {
+        "box": "5-archer-msa",
+        "label": "Archer MSA",
+        "type": "checkbox"
+      },
+      {
+        "box": "5-ma-msa",
+        "label": "MA MSA",
+        "type": "checkbox"
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a recipient's copy never carries it. Declared because the face prints it (FR-016)."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox"
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier"
+      }
+    ],
+    "notes": "Box 5 decides the destination: an HSA distribution reaches Form 8889 Part II, an Archer MSA distribution reaches Form 8853 Section A Part II. The gross distribution in box 1 is NOT income - only the part not used for qualified medical expenses is, which those forms compute. Box 3 declares its distribution code table inline, verbatim from the Instructions for Recipient, box 3."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099SA",
+    "note": null
+  }
+}

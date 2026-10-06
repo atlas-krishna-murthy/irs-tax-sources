@@ -1,0 +1,105 @@
+{
+  "form": {
+    "id": "form-8880",
+    "form": "Form 8880",
+    "title": "Credit for Qualified Retirement Savings Contributions",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8880--2025.pdf",
+    "instructions_url": "https://www.irs.gov/forms-pubs/about-form-8880",
+    "notes": "refundable: false. Line 12 goes to Schedule 3 Part I line 4 and line 11 limits it to tax liability. IN FORCE FOR 2025 as the saver's credit \u2014 the form exists for 2025 and its own What's New says the replacement has not arrived: 'New saver's match for qualified retirement contributions starting with 2027 tax returns filed in 2028. Under the SECURE 2.0 Act of 2022, beginning with 2027 tax returns, the saver's credit will be replaced by a saver's match that will be deposited by the government directly into your retirement account. Starting with 2027 tax returns, Form 8880 will only be used to claim the saver's credit for ABLE account contributions.' So for tax years 2025 and 2026 the ordinary saver's credit is unchanged. P.L. 119-21 separately 'makes permanent the credit for contributions by a designated beneficiary to their ABLE account' (Form 8880 What's New). 2025 parameters from the form's own face: contributions counted up to $2,000 per person (line 6); applicable decimal 0.5, 0.2, 0.1 or 0.0 from the line 9 table; credit unavailable if AGI is more than $39,500 single/MFS/QSS, $59,250 head of household, or $79,000 married filing jointly (the Caution block). Printed revision: Form 8880 (2025), Created 11/4/25.",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Traditional and Roth IRA contributions, and ABLE account contributions by the designated beneficiary for 2025. Do not include rollover contributions",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "2",
+        "caption": "Elective deferrals to a 401(k) or other qualified employer plan, voluntary employee contributions, and 501(c)(18)(D) plan contributions for 2025 (see instructions)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "3",
+        "caption": "Add lines 1 and 2",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "4",
+        "caption": "Certain distributions received after 2022 and before the due date (including extensions) of your 2025 tax return (see instructions). If married filing jointly, include both spouses' amounts in both columns. See instructions for an exception",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "5",
+        "caption": "Subtract line 4 from line 3. If zero or less, enter -0-",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "6",
+        "caption": "In each column, enter the smaller of line 5 or $2,000",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "7",
+        "caption": "Add the amounts on line 6. If zero, stop; you can't take this credit",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Enter the amount from Form 1040, 1040-SR, or 1040-NR, line 11a*",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Enter the applicable decimal amount from the table below.",
+        "type": "percent"
+      },
+      {
+        "line": "10",
+        "caption": "Multiply line 7 by line 9",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Limitation based on tax liability. Enter the amount from the Credit Limit Worksheet in the instructions",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Credit for qualified retirement savings contributions. Enter the smaller of line 10 or line 11 here and on Schedule 3 (Form 1040), line 4",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "54",
+        "because": "'Attachment Sequence No. 54' in the form header, not a line"
+      }
+    ]
+  }
+}

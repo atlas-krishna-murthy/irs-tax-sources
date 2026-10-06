@@ -1,0 +1,45 @@
+{
+  "rule": {
+    "id": "s1-educator-11",
+    "title": "Educator expenses are an adjustment only for an eligible educator",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-adjustment-records.educator_expenses"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "eligible-educator"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "eligible-educator",
+        "is": "no"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "yes",
+      "because": "A client who records educator expenses is an eligible educator unless a preparer says otherwise"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Schedule 1 (Form 1040)",
+      "line": "11",
+      "revision": "2025",
+      "wording": "If you were an eligible educator in 2025, you can deduct on line 11 up to $300 of qualified expenses you paid in 2025.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "The $300 limit ($600 when both spouses filing jointly are eligible, $300 each) is NOT applied: the record's row places on Form 1040 line 10 with every other adjustment, so a cap on that line would cap them all. It needs the row addressed to Schedule 1 line 11."
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "form": {
+    "id": "schedule-1",
+    "form": "Schedule 1 (Form 1040)",
+    "title": "Additional Income and Adjustments to Income",
+    "kind": "schedule",
+    "revision": "2025",
+    "revision_printed_as": "Schedule 1 (Form 1040) 2025 Created 7/25/25",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040s1--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1040gi",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Taxable refunds, credits, or offsets of state and local income taxes",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "2a",
+        "caption": "Alimony received",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "2b",
+        "caption": "Date of original divorce or separation agreement (see instructions):",
+        "type": "date",
+        "part": "I"
+      },
+      {
+        "line": "3",
+        "caption": "Business income or (loss). Attach Schedule C",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "4",
+        "caption": "Other gains or (losses). Check if any from Form(s): 4797 4684",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "5",
+        "caption": "Rental real estate, royalties, partnerships, S corporations, trusts, etc. Attach Schedule E",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6",
+        "caption": "Farm income or (loss). Attach Schedule F",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "7",
+        "caption": "Unemployment compensation. If you repaid a 2025 overpayment (see instructions), check here and enter amount repaid:",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8",
+        "caption": "Other income:",
+        "type": "text",
+        "part": "I"
+      },
+      {
+        "line": "8a",
+        "caption": "Net operating loss",
+        "type": "money",
+        "part": "I",
+        "net": "-",
+        "notes": "Printed in preprinted parentheses ( ): a SUBTRACTION in line 9's total."
+      },
+      {
+        "line": "8b",
+        "caption": "Gambling",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8c",
+        "caption": "Cancellation of debt",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8d",
+        "caption": "Foreign earned income exclusion from Form 2555",
+        "type": "money",
+        "part": "I",
+        "net": "-",
+        "notes": "Printed in preprinted parentheses ( ): a SUBTRACTION in line 9's total."
+      },
+      {
+        "line": "8e",
+        "caption": "Income from Form 8853",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8f",
+        "caption": "Income from Form 8889",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8g",
+        "caption": "Alaska Permanent Fund dividends",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8h",
+        "caption": "Jury duty pay",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8i",
+        "caption": "Prizes and awards",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8j",
+        "caption": "Activity not engaged in for profit income",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8k",
+        "caption": "Stock options",
+        "type": "money",
+        "part": "I",
+        "computed_by_software": true
+      },
+      {
+        "line": "8l",
+        "caption": "Income from the rental of personal property if you engaged in the rental for profit but were not in the business of renting such property",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8m",
+        "caption": "Olympic and Paralympic medals and USOC prize money (see instructions)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8n",
+        "caption": "Section 951(a) inclusion (see instructions)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8o",
+        "caption": "Section 951A(a) inclusion (see instructions)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8p",
+        "caption": "Section 461(l) excess business loss adjustment",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8q",
+        "caption": "Taxable distributions from an ABLE account (see instructions)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8r",
+        "caption": "Scholarship and fellowship grants not reported on Form W-2",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8s",
+        "caption": "Nontaxable amount of Medicaid waiver payments included on Form 1040, line 1a or 1d",
+        "type": "money",
+        "part": "I",
+        "net": "-",
+        "notes": "Printed in preprinted parentheses ( ): a SUBTRACTION in line 9's total."
+      },
+      {
+        "line": "8t",
+        "caption": "Pension or annuity from a nonqualifed deferred compensation plan or a nongovernmental section 457 plan",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8u",
+        "caption": "Wages earned while incarcerated",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8v",
+        "caption": "Digital assets received as ordinary income not reported elsewhere. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8z",
+        "caption": "Other income. List type and amount:",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "9",
+        "caption": "Total other income. Add lines 8a through 8z",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "10",
+        "caption": "Combine lines 1 through 7 and 9. This is your additional income. Enter here and on Form 1040, 1040-SR, or 1040-NR, line 8",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "11",
+        "caption": "Educator expenses",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "12",
+        "caption": "Certain business expenses of reservists, performing artists, and fee-basis government officials. Attach Form 2106",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "13",
+        "caption": "Health savings account deduction. Attach Form 8889",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "14",
+        "caption": "Moving expenses for members of the Armed Forces. Attach Form 3903. If claiming only storage fees (see instructions), check here",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "15",
+        "caption": "Deductible part of self-employment tax. Attach Schedule SE",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "16",
+        "caption": "Self-employed SEP, SIMPLE, and qualified plans",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      },
+      {
+        "line": "17",
+        "caption": "Self-employed health insurance deduction",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      },
+      {
+        "line": "18",
+        "caption": "Penalty on early withdrawal of savings",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "19a",
+        "caption": "Alimony paid",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "19b",
+        "caption": "Recipient\u2019s SSN",
+        "type": "tin",
+        "part": "II"
+      },
+      {
+        "line": "19c",
+        "caption": "Date of original divorce or separation agreement (see instructions):",
+        "type": "date",
+        "part": "II"
+      },
+      {
+        "line": "20",
+        "caption": "IRA deduction. If you are married filing separately and lived apart from your spouse for the entire year (see instructions), check here",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      },
+      {
+        "line": "21",
+        "caption": "Student loan interest deduction",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "22",
+        "caption": "Reserved for future use",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "23",
+        "caption": "Archer MSA deduction",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "24",
+        "caption": "Other adjustments:",
+        "type": "text",
+        "part": "II"
+      },
+      {
+        "line": "24a",
+        "caption": "Jury duty pay (see instructions)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "24b",
+        "caption": "Deductible expenses related to income reported on line 8l from the rental of personal property engaged in for profit",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "24c",
+        "caption": "Nontaxable amount of the value of Olympic and Paralympic medals and USOC prize money reported on line 8m",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "24d",
+        "caption": "Reforestation amortization and expenses",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "24e",
+        "caption": "Repayment of supplemental unemployment benefits under the Trade Act of 1974",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "24f",
+        "caption": "Contributions to section 501(c)(18)(D) pension plans",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "24g",
+        "caption": "Contributions by certain chaplains to section 403(b) plans",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "24h",
+        "caption": "Attorney fees and court costs for actions involving certain unlawful discrimination claims (see instructions)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "24i",
+        "caption": "Attorney fees and court costs you paid in connection with an award from the IRS for information you provided that helped the IRS detect tax law violations",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "24j",
+        "caption": "Housing deduction from Form 2555",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "24k",
+        "caption": "Excess deductions of section 67(e) expenses from Schedule K-1 (Form 1041)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "24z",
+        "caption": "Other adjustments. List type and amount:",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "25",
+        "caption": "Total other adjustments. Add lines 24a through 24z",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "26",
+        "caption": "Add lines 11 through 23 and 25. These are your adjustments to income. Enter here and on Form 1040, 1040-SR, or 1040-NR, line 10",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "1099-k-in-error",
+        "caption": "For 2025, enter the amount reported to you on Form(s) 1099-K that was included in error or for personal items sold at a loss",
+        "type": "money",
+        "part": "I",
+        "net": "-",
+        "notes": "UNNUMBERED entry printed above Part I. The 1099-K figure that is not income is entered here and removed at the top of the schedule (the 1099-K 1a pick's not-income branch). \"Note: The remaining amounts reported to you on Form(s) 1099-K should be reported elsewhere on your return depending on the nature of the transaction.\""
+      },
+      {
+        "line": "4-forms",
+        "caption": "Check if any from Form(s):",
+        "type": "checkbox",
+        "part": "I",
+        "columns": [
+          "4797",
+          "4684"
+        ],
+        "column_captions": {
+          "4797": "4797",
+          "4684": "4684"
+        },
+        "notes": "The two checkboxes printed in line 4's caption."
+      },
+      {
+        "line": "7-repaid",
+        "caption": "If you repaid a 2025 overpayment (see instructions), check here",
+        "type": "checkbox",
+        "part": "I"
+      },
+      {
+        "line": "7-amount-repaid",
+        "caption": "enter amount repaid:",
+        "type": "money",
+        "part": "I",
+        "net": "-",
+        "notes": "Line 7's entry space: \"check here and enter amount repaid:\". A memo beside line 7, which already carries the net figure."
+      },
+      {
+        "line": "14-storage-fees",
+        "caption": "If claiming only storage fees (see instructions), check here",
+        "type": "checkbox",
+        "part": "II"
+      },
+      {
+        "line": "20-mfs-lived-apart",
+        "caption": "If you are married filing separately and lived apart from your spouse for the entire year (see instructions), check here",
+        "type": "checkbox",
+        "part": "II"
+      }
+    ],
+    "notes": "Part I Additional Income (lines 1-10); Part II Adjustments to Income (lines 11-26). Line 8t is transcribed verbatim and contains a typographical error printed on the form itself: 'nonqualifed' for 'nonqualified'. The unnumbered entry box above Part I is declared as line '1099-k-in-error'. Line 8 has sub-lines a-v and z (no w, x or y). Line 24 has sub-lines a-k and z.",
+    "face_not_boxes": [
+      {
+        "slot": "01",
+        "because": "the Attachment Sequence No. printed in the form header, not a line"
+      },
+      {
+        "slot": "2",
+        "because": "a page number in the page header (\"Page 2\"), not a line"
+      }
+    ]
+  }
+}

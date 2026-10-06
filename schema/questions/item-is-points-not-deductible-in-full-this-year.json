@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-points-not-deductible-in-full-this-year",
+    "wording": "Are these points ones that are not deductible in full this year \u2014 points on a refinance or other loan that are deducted over the life of the loan, or points paid for the lender's services rather than only to borrow money?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 spread over the loan, or not deductible"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 deductible in full in 2025 (for example a loan to buy or build the main home), or this is only the year's share"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Are these points ones that are not deductible in full this year \u2014 points on a refinance or other loan that are deducted over the life of the loan, or points paid for the lender's services rather than only to borrow money?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Line 8c",
+        "revision": "2025",
+        "wording": "Points paid for other purposes, such as for a lender's services, aren't deductible.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

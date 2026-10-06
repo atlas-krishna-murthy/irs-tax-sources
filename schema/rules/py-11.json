@@ -1,0 +1,44 @@
+{
+  "rule": {
+    "id": "py-11",
+    "title": "2024 Form 1040 line 36, the overpayment applied, is a 2025 line 26 payment as printed",
+    "class": "prior_year",
+    "years": [
+      2025
+    ],
+    "operator": "prior_year_printed",
+    "acts_on": {
+      "boxes": [
+        "prior-year-1040.36"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "prior_year",
+        "ref": "36"
+      }
+    ],
+    "params": {
+      "concept": "36",
+      "to": {
+        "form": "form-1040",
+        "line": "26"
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1040",
+      "line": "26",
+      "revision": "2025",
+      "wording": "Include any overpayment that you applied to your 2025 estimated tax from your 2024 return or an amended return.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "The leadsheet row prior-year-1040.36 already places this figure on line 26 (`to`), and the engine's figure pass skips an `introduces_printed` operator, so this rule records the provision and introduces nothing a second time. If a later engine ever introduces prior-year figures, it must do so INSTEAD of the row, or the overpayment is counted twice."
+  }
+}

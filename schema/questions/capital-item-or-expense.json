@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "capital-item-or-expense",
+    "wording": "Expense or depreciate?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "expense",
+        "label": "Expense"
+      },
+      {
+        "value": "capital",
+        "label": "Depreciate"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "expense",
+      "because": "A repair or ordinary expense unless a preparer says it improved the property"
+    },
+    "basis": {
+      "citation": {
+        "form": "Publication 527",
+        "line": "Improvements",
+        "revision": "2025",
+        "wording": "Improvements. You must capitalize any expense you pay to improve your rental property. An expense is for an improvement if it results in a betterment to your property, restores your property, or adapts your property to a new or different use.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p527--2025.pdf"
+      }
+    }
+  }
+}

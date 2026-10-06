@@ -1,0 +1,138 @@
+{
+  "document": {
+    "id": "1099-Q",
+    "title": "Payments From Qualified Education Programs (Under Sections 529 and 530)",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-Q (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099q--2025.pdf",
+    "issued_by": "the QTP or Coverdell ESA payer/trustee",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Gross distribution",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Earnings",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Basis",
+        "type": "money"
+      },
+      {
+        "box": "4a",
+        "label": "Type of transfer: Trustee-to-trustee",
+        "type": "checkbox"
+      },
+      {
+        "box": "4b",
+        "label": "Type of transfer: QTP to Roth IRA",
+        "type": "checkbox"
+      },
+      {
+        "box": "5a",
+        "label": "Distribution is from: Private QTP",
+        "type": "checkbox"
+      },
+      {
+        "box": "5b",
+        "label": "Distribution is from: State QTP",
+        "type": "checkbox"
+      },
+      {
+        "box": "5c",
+        "label": "Distribution is from: Coverdell ESA",
+        "type": "checkbox"
+      },
+      {
+        "box": "6",
+        "label": "Check if the recipient is not the designated beneficiary",
+        "type": "checkbox"
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a recipient's copy never carries it. Declared because the face prints it (FR-016)."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox"
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier"
+      },
+      {
+        "box": "7-fmv",
+        "label": "If the fair market value (FMV) is shown below, see Pub. 970, Tax Benefits for Education, for how to figure earnings.",
+        "type": "money"
+      },
+      {
+        "box": "7-code",
+        "label": "Distribution codes",
+        "type": "code",
+        "codes": [
+          {
+            "code": "1",
+            "label": "Distributions (including transfers)"
+          },
+          {
+            "code": "2",
+            "label": "Excess contributions plus earnings taxable in the calendar year"
+          },
+          {
+            "code": "3",
+            "label": "Excess contributions plus earnings taxable in the prior calendar year"
+          },
+          {
+            "code": "4",
+            "label": "Disability"
+          },
+          {
+            "code": "5",
+            "label": "Death"
+          },
+          {
+            "code": "6",
+            "label": "Prohibited transaction"
+          }
+        ]
+      }
+    ],
+    "notes": "Box 1 = box 2 + box 3; the EARNINGS in box 2 are the only potentially taxable figure. Routing box 1 to income would report the return of basis as income - see aggregate 1099q.2. Checkbox 4b 'QTP to Roth IRA' is new on the Rev. April 2025 revision (SECURE 2.0 section 126 rollovers). Whether any of box 2 is taxable is not on the document; it depends on the beneficiary's qualified education expenses, which is why the route carries a question.",
+    "face_not_boxes": [
+      {
+        "slot": "4",
+        "because": "'4 Type of transfer:' is the caption over two checkboxes, declared 4a and 4b."
+      },
+      {
+        "slot": "5",
+        "because": "'5 Distribution is from:' is the caption over three checkboxes, declared 5a, 5b and 5c."
+      }
+    ]
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099Q",
+    "note": "The note that stood here \u2014 \"Azure ships no prebuilt-tax model for this form\" \u2014 was STALE, and re-verified as stale twice (2026-09-24 and 2026-09-29) against Azure-Samples `schema/2024-11-30-ga/us-tax/`. v4.0 (2024-11-30 GA) publishes this model. Boxes 1-3 answer as `Box<n>`; boxes 4 and 5 are CHECKBOXES that Azure answers as a selection, so `fields` says which declared box each selected value is. Box 4b (QTP to Roth IRA) has no Azure field of its own \u2014 the model answers box 4 as one boolean \u2014 so a 4b transfer is not read by this model and is not silently filed as 4a.",
+    "fields": {
+      "Box4": {
+        "box": "4a"
+      },
+      "Box5": {
+        "selection": {
+          "privateQualifiedTuition": "5a",
+          "stateQualifiedTuition": "5b",
+          "coverdell": "5c"
+        }
+      }
+    }
+  }
+}

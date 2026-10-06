@@ -1,0 +1,168 @@
+{
+  "document": {
+    "id": "SSA-1099",
+    "title": "Social Security Benefit Statement",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form SSA-1099 - Social Security Benefit Statement - 2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/p915--2025.pdf",
+    "issued_by": "Social Security Administration",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Name",
+        "type": "text"
+      },
+      {
+        "box": "2",
+        "label": "Beneficiary's Social Security Number",
+        "type": "tin"
+      },
+      {
+        "box": "3",
+        "label": "Benefits Paid in 2025",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Benefits Repaid to SSA in 2025",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Net Benefits for 2025 (Box 3 minus Box 4)",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "Voluntary Federal Income Tax Withheld",
+        "type": "money"
+      },
+      {
+        "box": "7",
+        "label": "Address",
+        "type": "text"
+      },
+      {
+        "box": "8",
+        "label": "Claim Number (Use this number if you need to contact SSA.)",
+        "type": "text"
+      },
+      {
+        "box": "3-paid-by-check-or-direct-deposit",
+        "label": "Paid by check or direct deposit",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 3' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029)."
+      },
+      {
+        "box": "3-medicare-premiums",
+        "label": "Medicare Part B premiums deducted from your benefits",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 3' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029). The caption is the SSA-1099's own, as printed in the 2025 Description of Amount in Box 3 (read off two real forms); Pub. 915 paraphrases it without 'Part B'."
+      },
+      {
+        "box": "3-medicare-part-c",
+        "label": "Medicare Part C, Medicare Advantage Premium",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 3' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029)."
+      },
+      {
+        "box": "3-medicare-part-d",
+        "label": "Medicare Part D, Prescription Drug Premium",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 3' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029)."
+      },
+      {
+        "box": "3-workers-compensation-offset",
+        "label": "Workers\u2019 compensation offset",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 3' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029)."
+      },
+      {
+        "box": "3-attorney-fees",
+        "label": "Attorney fees",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 3' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029)."
+      },
+      {
+        "box": "3-payments-for-months-before-december-1983",
+        "label": "Payments for months before December 1983",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 3' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029)."
+      },
+      {
+        "box": "3-lump-sum-death-payment",
+        "label": "Lump-sum death payment",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 3' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029)."
+      },
+      {
+        "box": "3-amounts-refunded-to-you",
+        "label": "Amounts refunded to you",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 3' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029)."
+      },
+      {
+        "box": "3-nontaxable-payments",
+        "label": "Nontaxable payments",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 3' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029)."
+      },
+      {
+        "box": "3-paid-for-earlier-years",
+        "label": "*Box 3 includes $ paid in 2025 for 2024, 2023, and other tax years.",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 3' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029)."
+      },
+      {
+        "box": "4-checks-returned-to-the-ssa",
+        "label": "Checks returned to the SSA",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 4' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029)."
+      },
+      {
+        "box": "4-other-repayments",
+        "label": "Other repayments",
+        "type": "money",
+        "notes": "An item of the face's 'DESCRIPTION OF AMOUNT IN BOX 4' (Pub. 915 (2025), Appendix). Whether prebuilt-tax.us.1099SSA returns description items is unmeasured (F-029)."
+      }
+    ],
+    "notes": "The SSA issues this form; it is not an IRS form and has no irs.gov form PDF. The box layout reproduced here is the specimen printed in IRS Publication 915 (2025), 'Appendix - Social Security Benefit Statement'. Box 5 is the reportable figure and equals box 3 minus box 4 - see the aggregate ssa1099.5. What this document STATES (net benefits, 1040 line 6a) is not what the return REPORTS (the taxable part, line 6b): line 6b is computed by a worksheet whose provisional income already includes half of these benefits, so it is modelled as computed, never routed."
+  },
+  "extraction": {
+    "model": "custom.SSA-1099",
+    "note": "prebuilt-tax.us.1099SSA returns boxes 3-6 and never the description of amount in box 3 and box 4 (measured: 2 stored reads, every one of the box 3/4 description lines not returned, 2026-10-03). Those lines carry the Medicare Part B, C and D premiums deducted from benefits, which reach Schedule A as medical expenses (spec 080 T059, CPA case 2). Read by the declared custom model over every box this document declares, so the premium block is read with the figures it explains.",
+    "custom": {
+      "reads": "a Form SSA-1099, Social Security Benefit Statement, including the 'Description of Amount in Box 3' and 'Description of Amount in Box 4' blocks. Those lines print no box number of their own, and each IS a declared box: report every one of them in the section under the box id the list gives it (for example a line of Medicare premiums deducted from benefits under 3-medicare-premiums, Part C under 3-medicare-part-c, Part D under 3-medicare-part-d, paid by check or direct deposit under 3-paid-by-check-or-direct-deposit), never as an other figure.",
+      "sections": [
+        {
+          "document": "SSA-1099",
+          "boxes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "3-paid-by-check-or-direct-deposit",
+            "3-medicare-premiums",
+            "3-medicare-part-c",
+            "3-medicare-part-d",
+            "3-workers-compensation-offset",
+            "3-attorney-fees",
+            "3-payments-for-months-before-december-1983",
+            "3-lump-sum-death-payment",
+            "3-amounts-refunded-to-you",
+            "3-nontaxable-payments",
+            "3-paid-for-earlier-years",
+            "4-checks-returned-to-the-ssa",
+            "4-other-repayments"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rule": {
+    "id": "a-r-06",
+    "title": "A distribution rolled over in full within 60 days is not taxable",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-R.2a"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "retirement-distribution-was"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "retirement-distribution-was",
+        "is": "rolled_over_in_full"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "kept",
+      "because": "A distribution was kept unless a preparer says it was rolled over or was an HSA funding distribution"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1040",
+      "line": "Lines 4a and 4b, Exception 1",
+      "revision": "2025",
+      "wording": "Generally, a rollover must be made within 60 days after the day you received the distribution.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "Exception 1's own instruction for this case is to enter -0- on line 4b. A direct rollover (box 7 code G) is decided by the paper (rule a-r-04); this rule is the 60-day rollover no 1099-R prints. A partial rollover's taxable part is the preparer's."
+  }
+}

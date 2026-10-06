@@ -1,0 +1,90 @@
+{
+  "form": {
+    "id": "schedule-eic",
+    "form": "Schedule EIC (Form 1040)",
+    "title": "Earned Income Credit \u2014 Qualifying Child Information",
+    "kind": "schedule",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040sei--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1040gi",
+    "notes": "refundable: true \u2014 the earned income credit is fully refundable and lands on Form 1040 line 27a in the payments block. BUT THIS SCHEDULE CARRIES NO DOLLAR AMOUNT. It is qualifying-child information only; the credit itself is figured on the EIC Worksheet and the EIC Table in the Instructions for Form 1040 and entered directly on Form 1040 line 27a. A taxpayer with no qualifying child claims the EIC on line 27a and files no Schedule EIC at all. 2025 parameters, all from Rev. Proc. 2024-40 section 2.06 (primary source), unchanged by P.L. 119-21 which did not amend section 32 \u2014 maximum credit $649 with no qualifying children, $4,328 with one, $7,152 with two, $8,046 with three or more; earned income amount (the point at which the maximum is reached) $8,490 / $12,730 / $17,880 / $17,880; threshold phaseout amount $10,620 / $23,350 / $23,350 / $23,350 for all filing statuses other than married filing jointly and $17,730 / $30,470 / $30,470 / $30,470 for married filing jointly; completed phaseout amount $19,104 / $50,434 / $57,310 / $61,555 for all other filing statuses and $26,214 / $57,554 / $64,430 / $68,675 for married filing jointly. Investment income limit for 2025: the credit 'is not allowed under section 32(i) if the aggregate amount of certain investment income exceeds $11,950' (Rev. Proc. 2024-40 section 2.06(2)). Printed revision: Schedule EIC (Form 1040) 2025, Created 11/17/25.",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Child's name \u2014 First name, Last name. If you have more than three qualifying children, you have to list only three to get the maximum credit.",
+        "type": "text",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "2",
+        "caption": "Child's SSN \u2014 The child must have an SSN as defined in the instructions for Form 1040, line 27a, unless the child was born and died in 2025 or you are claiming the self-only EIC (see instructions). If your child was born and died in 2025 and did not have an SSN, enter \u201cDied\u201d on this line and attach a copy of the child's birth certificate, death certificate, or hospital medical records showing a live birth.",
+        "type": "tin",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "3",
+        "caption": "Child's year of birth \u2014 If born after 2006 and the child is younger than you (or your spouse if filing jointly), skip lines 4a and 4b; go to line 5.",
+        "type": "date",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "4a",
+        "caption": "Was the child under age 24 at the end of 2025, a student, and younger than you (or your spouse if filing jointly)? Yes. Go to line 5. No. Go to line 4b.",
+        "type": "checkbox",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "4b",
+        "caption": "Was the child permanently and totally disabled during any part of 2025? Yes. Go to line 5. No. The child is not a qualifying child.",
+        "type": "checkbox",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "5",
+        "caption": "Child's relationship to you (for example, son, daughter, grandchild, niece, nephew, eligible foster child, etc.)",
+        "type": "text",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "6",
+        "caption": "Number of months child lived with you in the United States during 2025",
+        "type": "count",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "43",
+        "because": "'Attachment Sequence No. 43' in the form header, not a line"
+      }
+    ]
+  }
+}

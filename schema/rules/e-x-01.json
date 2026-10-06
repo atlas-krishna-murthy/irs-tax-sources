@@ -1,0 +1,54 @@
+{
+  "rule": {
+    "id": "e-x-01",
+    "title": "A client record restating an information return ties out; it does not count again",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-tax-payment-records.state_and_local_income_taxes_paid",
+        "taxpayer-tax-payment-records.state_and_local_real_estate_taxes_paid",
+        "taxpayer-tax-payment-records.other_deductible_taxes_paid",
+        "taxpayer-tax-payment-records.federal_estimated_tax_payments",
+        "taxpayer-charitable-contribution-records.gifts_other_than_by_cash_or_check",
+        "taxpayer-medical-expense-records.medical_and_dental_expenses_paid",
+        "taxpayer-mortgage-and-interest-records.points_not_reported_on_1098",
+        "taxpayer-other-income-records.other_income"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-restates-a-figure-another-form-on-this-sheet-reports"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-restates-a-figure-another-form-on-this-sheet-reports",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this item the same payment a form already on this sheet reports on the same line (a Form W-2, 1099, 1098, 1098-C, SSA-1099, a Form 1040-ES voucher, or the settlement statement) \u2014 so counting it would count the payment twice?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "Line 8a",
+      "revision": "2025",
+      "wording": "Form 1098 doesn't show all interest paid. If you paid more interest to the recipient than is shown on Form 1098, include the larger deductible amount on line 8a",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "research_ids": [
+      "e-x-01"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "loan-is-not-secured-by-the-taxpayers-main-or-second-home",
+    "wording": "Is this interest (or these points) on a loan that is NOT a secured debt on the taxpayer's main home or second home (for example a car loan, a credit card, or a loan secured by a rental or business property)?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 not secured by a qualified home"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 secured by the main or second home"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "A home mortgage is secured by the home unless a preparer says otherwise"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 936",
+        "line": "Part I",
+        "revision": "2025",
+        "wording": "The mortgage is a secured debt on a qualified home in which you have an ownership interest.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p936--2025.pdf"
+      }
+    }
+  }
+}

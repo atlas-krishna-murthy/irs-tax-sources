@@ -1,0 +1,327 @@
+{
+  "document": {
+    "id": "1095-B",
+    "title": "Health Coverage",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form 1095-B (2025), Created 9/24/25",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1095b--2025.pdf",
+    "issued_by": "health insurance issuers, carriers, and certain employers and government agencies",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Name of responsible individual-First name, middle name, last name",
+        "type": "text"
+      },
+      {
+        "box": "2",
+        "label": "Social security number (SSN) or other TIN",
+        "type": "tin"
+      },
+      {
+        "box": "3",
+        "label": "Date of birth (if SSN or other TIN is not available)",
+        "type": "date"
+      },
+      {
+        "box": "8",
+        "label": "Enter letter identifying Origin of the Health Coverage (see instructions for codes)",
+        "type": "code",
+        "codes": [
+          {
+            "code": "A",
+            "label": "Small Business Health Options Program (SHOP)"
+          },
+          {
+            "code": "B",
+            "label": "Employer-sponsored coverage"
+          },
+          {
+            "code": "C",
+            "label": "Government-sponsored program"
+          },
+          {
+            "code": "D",
+            "label": "Individual market insurance"
+          },
+          {
+            "code": "E",
+            "label": "Multiemployer plan"
+          },
+          {
+            "code": "F",
+            "label": "Other designated minimum essential coverage"
+          },
+          {
+            "code": "G",
+            "label": "Individual coverage health reimbursement arrangement (HRA)"
+          }
+        ]
+      },
+      {
+        "box": "9",
+        "label": "Reserved",
+        "type": "text"
+      },
+      {
+        "box": "10",
+        "label": "Employer name",
+        "type": "text"
+      },
+      {
+        "box": "11",
+        "label": "Employer identification number (EIN)",
+        "type": "tin"
+      },
+      {
+        "box": "16",
+        "label": "Issuer or Other Coverage Provider \u2014 Name",
+        "type": "text"
+      },
+      {
+        "box": "17",
+        "label": "Issuer or Other Coverage Provider \u2014 Employer identification number (EIN)",
+        "type": "tin"
+      },
+      {
+        "box": "23 (d)",
+        "label": "Covered all 12 months",
+        "type": "checkbox"
+      },
+      {
+        "box": "23 (e)",
+        "label": "Months of coverage",
+        "type": "checkbox",
+        "note": "Twelve checkboxes, Jan through Dec."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED",
+        "type": "checkbox",
+        "note": "A corrected form REPLACES the one it corrects for the same account: the two are never both counted. Which copy stands is a person's call, made by reading the two side by side."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "note": "Printed on Copy A (the IRS's copy) only; a recipient's copy carries no VOID box. Declared so a Copy A that reaches the packet is recognised for what it is - a form that reports nothing."
+      },
+      {
+        "box": "4",
+        "label": "Street address (including apartment no.)",
+        "type": "text"
+      },
+      {
+        "box": "5",
+        "label": "City or town",
+        "type": "text"
+      },
+      {
+        "box": "6",
+        "label": "State or province",
+        "type": "text"
+      },
+      {
+        "box": "7",
+        "label": "Country and ZIP or foreign postal code",
+        "type": "text"
+      },
+      {
+        "box": "12",
+        "label": "Street address (including room or suite no.)",
+        "type": "text"
+      },
+      {
+        "box": "13",
+        "label": "City or town",
+        "type": "text"
+      },
+      {
+        "box": "14",
+        "label": "State or province",
+        "type": "text"
+      },
+      {
+        "box": "15",
+        "label": "Country and ZIP or foreign postal code",
+        "type": "text"
+      },
+      {
+        "box": "18",
+        "label": "Contact telephone number",
+        "type": "text"
+      },
+      {
+        "box": "19",
+        "label": "Street address (including room or suite no.)",
+        "type": "text"
+      },
+      {
+        "box": "20",
+        "label": "City or town",
+        "type": "text"
+      },
+      {
+        "box": "21",
+        "label": "State or province",
+        "type": "text"
+      },
+      {
+        "box": "22",
+        "label": "Country and ZIP or foreign postal code",
+        "type": "text"
+      },
+      {
+        "box": "23 (a)",
+        "label": "Name of covered individual(s)",
+        "type": "text"
+      },
+      {
+        "box": "23 (b)",
+        "label": "SSN or other TIN",
+        "type": "tin"
+      },
+      {
+        "box": "23 (c)",
+        "label": "DOB (if SSN or other TIN is not available)",
+        "type": "date"
+      },
+      {
+        "box": "24 (a)",
+        "label": "Name of covered individual(s)",
+        "type": "text"
+      },
+      {
+        "box": "24 (b)",
+        "label": "SSN or other TIN",
+        "type": "tin"
+      },
+      {
+        "box": "24 (c)",
+        "label": "DOB (if SSN or other TIN is not available)",
+        "type": "date"
+      },
+      {
+        "box": "24 (d)",
+        "label": "Covered all 12 months",
+        "type": "checkbox"
+      },
+      {
+        "box": "24 (e)",
+        "label": "Months of coverage",
+        "type": "checkbox",
+        "note": "Twelve checkboxes, Jan through Dec."
+      },
+      {
+        "box": "25 (a)",
+        "label": "Name of covered individual(s)",
+        "type": "text"
+      },
+      {
+        "box": "25 (b)",
+        "label": "SSN or other TIN",
+        "type": "tin"
+      },
+      {
+        "box": "25 (c)",
+        "label": "DOB (if SSN or other TIN is not available)",
+        "type": "date"
+      },
+      {
+        "box": "25 (d)",
+        "label": "Covered all 12 months",
+        "type": "checkbox"
+      },
+      {
+        "box": "25 (e)",
+        "label": "Months of coverage",
+        "type": "checkbox",
+        "note": "Twelve checkboxes, Jan through Dec."
+      },
+      {
+        "box": "26 (a)",
+        "label": "Name of covered individual(s)",
+        "type": "text"
+      },
+      {
+        "box": "26 (b)",
+        "label": "SSN or other TIN",
+        "type": "tin"
+      },
+      {
+        "box": "26 (c)",
+        "label": "DOB (if SSN or other TIN is not available)",
+        "type": "date"
+      },
+      {
+        "box": "26 (d)",
+        "label": "Covered all 12 months",
+        "type": "checkbox"
+      },
+      {
+        "box": "26 (e)",
+        "label": "Months of coverage",
+        "type": "checkbox",
+        "note": "Twelve checkboxes, Jan through Dec."
+      },
+      {
+        "box": "27 (a)",
+        "label": "Name of covered individual(s)",
+        "type": "text"
+      },
+      {
+        "box": "27 (b)",
+        "label": "SSN or other TIN",
+        "type": "tin"
+      },
+      {
+        "box": "27 (c)",
+        "label": "DOB (if SSN or other TIN is not available)",
+        "type": "date"
+      },
+      {
+        "box": "27 (d)",
+        "label": "Covered all 12 months",
+        "type": "checkbox"
+      },
+      {
+        "box": "27 (e)",
+        "label": "Months of coverage",
+        "type": "checkbox",
+        "note": "Twelve checkboxes, Jan through Dec."
+      },
+      {
+        "box": "28 (a)",
+        "label": "Name of covered individual(s)",
+        "type": "text"
+      },
+      {
+        "box": "28 (b)",
+        "label": "SSN or other TIN",
+        "type": "tin"
+      },
+      {
+        "box": "28 (c)",
+        "label": "DOB (if SSN or other TIN is not available)",
+        "type": "date"
+      },
+      {
+        "box": "28 (d)",
+        "label": "Covered all 12 months",
+        "type": "checkbox"
+      },
+      {
+        "box": "28 (e)",
+        "label": "Months of coverage",
+        "type": "checkbox",
+        "note": "Twelve checkboxes, Jan through Dec."
+      }
+    ],
+    "notes": "Produces NO figure on any federal line. The individual shared responsibility payment has been $0 since tax year 2019, so nothing on this document is reportable on Form 1040. It is evidence of minimum essential coverage and may be required by a state that has its own coverage mandate. See reportability.form-1095b-is-informational. The Instructions for Form 8962 (2025) note that reporting entities are no longer required to send Forms 1095-B and 1095-C to covered individuals unless requested, so its absence is not evidence of anything."
+  },
+  "extraction": {
+    "model": null,
+    "note": "Azure ships no prebuilt-tax model for this form; read generically."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "question": {
+    "id": "bond-premium-is-a-schedule-a-deduction",
+    "wording": "Is this amortizable bond premium a Schedule A deduction — a bond premium carryforward, or premium on a bond acquired before October 23, 1986?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes — Schedule A line 16"
+      },
+      {
+        "value": "no",
+        "label": "No — it offsets the bond's interest (Schedule B), not an itemized deduction"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Schedule A (Form 1040)",
+        "line": "16",
+        "revision": "2025",
+        "wording": "A deduction for amortizable bond premium (for example, a deduction allowed for a bond premium carryforward or a deduction for amortizable bond premium on bonds acquired before October 23, 1986).",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

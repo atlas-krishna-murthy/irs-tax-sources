@@ -1,0 +1,471 @@
+{
+  "document": {
+    "id": "prior-year-1040",
+    "title": "Prior year Form 1040 and its schedules",
+    "kind": "prior_return",
+    "revision": "2024",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040sd--2024.pdf",
+    "issued_by": "the taxpayer's own previously filed return",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1040 line 1a",
+        "label": "Total amount from Form(s) W-2, box 1 (see instructions)",
+        "type": "money",
+        "notes": "2024 Form 1040 line 1a \u2014 read so the open-items list can say what last year's return reported (spec 077: the `wages` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 1z",
+        "label": "Add lines 1a through 1h",
+        "type": "money",
+        "notes": "2024 Form 1040 line 1z \u2014 read so the open-items list can say what last year's return reported (spec 077: the `total_wages` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 2a",
+        "label": "Tax-exempt interest",
+        "type": "money",
+        "notes": "2024 Form 1040 line 2a \u2014 read so the open-items list can say what last year's return reported (spec 077: the `tax_exempt_interest` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 2b",
+        "label": "Taxable interest",
+        "type": "money",
+        "notes": "2024 Form 1040 line 2b \u2014 read so the open-items list can say what last year's return reported (spec 077: the `taxable_interest` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 3a",
+        "label": "Qualified dividends",
+        "type": "money",
+        "notes": "2024 Form 1040 line 3a \u2014 read so the open-items list can say what last year's return reported (spec 077: the `qualified_dividends` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 3b",
+        "label": "Ordinary dividends",
+        "type": "money",
+        "notes": "2024 Form 1040 line 3b \u2014 read so the open-items list can say what last year's return reported (spec 077: the `ordinary_dividends` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 4a",
+        "label": "IRA distributions",
+        "type": "money",
+        "notes": "2024 Form 1040 line 4a \u2014 read so the open-items list can say what last year's return reported (spec 077: the `ira_distributions` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 4b",
+        "label": "Taxable amount",
+        "type": "money",
+        "notes": "2024 Form 1040 line 4b \u2014 read so the open-items list can say what last year's return reported (spec 077: the `ira_taxable` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 5a",
+        "label": "Pensions and annuities",
+        "type": "money",
+        "notes": "2024 Form 1040 line 5a \u2014 read so the open-items list can say what last year's return reported (spec 077: the `pensions_annuities` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 5b",
+        "label": "Taxable amount",
+        "type": "money",
+        "notes": "2024 Form 1040 line 5b \u2014 read so the open-items list can say what last year's return reported (spec 077: the `pension_taxable` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 6a",
+        "label": "Social security benefits",
+        "type": "money",
+        "notes": "2024 Form 1040 line 6a \u2014 read so the open-items list can say what last year's return reported (spec 077: the `social_security_benefits` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 6b",
+        "label": "Taxable amount",
+        "type": "money",
+        "notes": "2024 Form 1040 line 6b \u2014 read so the open-items list can say what last year's return reported (spec 077: the `social_security_taxable` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 7",
+        "label": "Capital gain or (loss). Attach Schedule D if required. If not required, check here",
+        "type": "money",
+        "notes": "2024 Form 1040 line 7 \u2014 read so the open-items list can say what last year's return reported (spec 077: the `capital_gain_loss` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 8",
+        "label": "Additional income from Schedule 1, line 10",
+        "type": "money",
+        "notes": "2024 Form 1040 line 8 \u2014 read so the open-items list can say what last year's return reported (spec 077: the `additional_income` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 9",
+        "label": "Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7, and 8. This is your total income",
+        "type": "money",
+        "notes": "2024 Form 1040 line 9 \u2014 read so the open-items list can say what last year's return reported (spec 077: the `total_income` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 line 11",
+        "label": "Subtract line 10 from line 9. This is your adjusted gross income",
+        "type": "money",
+        "notes": "2024 Form 1040 line 11 \u2014 read so the open-items list can say what last year's return reported (spec 077: the `agi` concept of `form_1040/line_catalog.py`, which the prior-year face maps onto). Without it a re-read of the return from a packet placed no income line at all and every document read *not reported* (engagement 16, 2026-10-04). A figure, never a placement: no route reads it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "36",
+        "label": "Amount of line 34 you want applied to your 2025 estimated tax",
+        "type": "money",
+        "notes": "2024 Form 1040 line 36, verbatim caption; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf. The ONE declaration of the overpayment applied (the duplicate `overpayment-applied` box is retired, spec 080 T085). It places on 2025 line 26 (rule py-11)."
+      },
+      {
+        "box": "1040 line 15",
+        "label": "Subtract line 14 from line 11. If zero or less, enter -0-. This is your taxable income",
+        "type": "money",
+        "notes": "2024 Form 1040 line 15 \u2014 line 1 of this year's Capital Loss Carryover Worksheet. Printed as zero when the year was a loss; the worksheet asks for the would-be negative, which the preparer's software refigures. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "schedule d line 7",
+        "label": "Net short-term capital gain or (loss). Combine lines 1a through 6 in column (h)",
+        "type": "money",
+        "notes": "2024 Schedule D line 7 \u2014 lines 5 and 10 of this year's Capital Loss Carryover Worksheet. Caption verbatim from the 2024 Schedule D (Form 1040); source https://www.irs.gov/pub/irs-prior/f1040sd--2024.pdf."
+      },
+      {
+        "box": "schedule d line 15",
+        "label": "Net long-term capital gain or (loss). Combine lines 8a through 14 in column (h)",
+        "type": "money",
+        "notes": "2024 Schedule D line 15 \u2014 lines 6 and 9 of this year's Capital Loss Carryover Worksheet. Caption verbatim from the 2024 Schedule D (Form 1040); source https://www.irs.gov/pub/irs-prior/f1040sd--2024.pdf."
+      },
+      {
+        "box": "schedule d line 21",
+        "label": "If line 16 is a loss, enter here and on Form 1040, 1040-SR, or 1040-NR, line 7, the smaller of:",
+        "type": "money",
+        "notes": "2024 Schedule D line 21 \u2014 line 2 of this year's Capital Loss Carryover Worksheet. Caption verbatim from the 2024 Schedule D (Form 1040); source https://www.irs.gov/pub/irs-prior/f1040sd--2024.pdf."
+      },
+      {
+        "box": "1040 line 12",
+        "label": "Standard deduction or itemized deductions (from Schedule A)",
+        "type": "money",
+        "notes": "2024 Form 1040 line 12 \u2014 whether last year itemized, which decides whether a 2025 state or local income tax refund is income at all (tax benefit rule). Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 filing status",
+        "label": "Filing Status",
+        "type": "code",
+        "notes": "The filing status checked on the 2024 Form 1040 \u2014 line 5 of this year's State and Local Income Tax Refund Worksheet takes the 2024 standard deduction for it. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "1040 age/blindness",
+        "label": "Age/Blindness",
+        "type": "code",
+        "notes": "The Age/Blindness boxes checked on the 2024 Form 1040 \u2014 line 6 of this year's State and Local Income Tax Refund Worksheet counts them. Caption verbatim from the 2024 Form 1040; source https://www.irs.gov/pub/irs-prior/f1040--2024.pdf."
+      },
+      {
+        "box": "schedule d line 16",
+        "label": "Combine lines 7 and 15 and enter the result",
+        "type": "money",
+        "notes": "2024 Schedule D line 16 \u2014 the worksheet's own test of whether there is any carryover: a line 21 loss smaller than the line 16 loss. Caption verbatim from the 2024 Schedule D (Form 1040); source https://www.irs.gov/pub/irs-prior/f1040sd--2024.pdf."
+      },
+      {
+        "box": "schedule a line 5a",
+        "label": "State and local income taxes or general sales taxes",
+        "type": "money",
+        "notes": "2024 Schedule A line 5a \u2014 the state and local income tax deducted last year, the most of a 2025 refund that can be income. Caption verbatim from the 2024 Schedule A (Form 1040); source https://www.irs.gov/pub/irs-prior/f1040sa--2024.pdf."
+      },
+      {
+        "box": "schedule a line 5a general sales taxes",
+        "label": "If you elect to include general sales taxes instead of income taxes, check this box",
+        "type": "checkbox",
+        "notes": "The 2024 Schedule A line 5a checkbox. Checked, last year deducted general sales taxes instead of income taxes, and none of a 2025 state or local income tax refund is taxable (rule a-g-02). Caption verbatim from the 2024 Schedule A (Form 1040); source https://www.irs.gov/pub/irs-prior/f1040sa--2024.pdf."
+      },
+      {
+        "box": "schedule a line 5d",
+        "label": "Add lines 5a through 5c",
+        "type": "money",
+        "notes": "2024 Schedule A line 5d \u2014 lines 1 and 2 of this year's State and Local Income Tax Refund Worksheet. Caption verbatim from the 2024 Schedule A (Form 1040); source https://www.irs.gov/pub/irs-prior/f1040sa--2024.pdf."
+      },
+      {
+        "box": "schedule a line 5e",
+        "label": "Enter the smaller of line 5d or $10,000 ($5,000 if married filing separately)",
+        "type": "money",
+        "notes": "2024 Schedule A line 5e \u2014 line 2 of this year's State and Local Income Tax Refund Worksheet (what the 2024 SALT cap disallowed was never a benefit). Caption verbatim from the 2024 Schedule A (Form 1040); source https://www.irs.gov/pub/irs-prior/f1040sa--2024.pdf."
+      },
+      {
+        "box": "schedule a line 17",
+        "label": "Add the amounts in the far right column for lines 4 through 16",
+        "type": "money",
+        "notes": "2024 Schedule A line 17, total itemized deductions \u2014 line 4 of this year's State and Local Income Tax Refund Worksheet. Caption verbatim from the 2024 Schedule A (Form 1040); source https://www.irs.gov/pub/irs-prior/f1040sa--2024.pdf."
+      },
+      {
+        "box": "schedule 1 line 8a",
+        "label": "Net operating loss",
+        "type": "money",
+        "notes": "2024 Schedule 1 line 8a \u2014 the NOL deduction last year took, an input to working what remains for 2025 (Form 172). Caption verbatim from the 2024 Schedule 1 (Form 1040); source https://www.irs.gov/pub/irs-prior/f1040s1--2024.pdf."
+      },
+      {
+        "box": "form 172 part ii line 10",
+        "label": "NOL carryover to the subsequent year. Subtract line 9 from line 1.",
+        "type": "money",
+        "notes": "2024 Form 172 Part II line 10 \u2014 the NOL carried to the next year, the figure this year's NOL deduction starts from. Caption verbatim from the 2024 Form 172; source https://www.irs.gov/pub/irs-prior/f172--2024.pdf."
+      },
+      {
+        "box": "form 8606 line 14",
+        "label": "Subtract line 13 from line 3. This is your total basis in traditional IRAs for 2024 and earlier years",
+        "type": "money",
+        "notes": "2024 Form 8606 line 14 \u2014 this year's Form 8606 line 2 (Total Basis Chart). Basis means part of a traditional IRA distribution is not taxable, which Form 8606 Part I works (catalogue A-R-07). Caption verbatim from the 2024 Form 8606; source https://www.irs.gov/pub/irs-prior/f8606--2024.pdf."
+      },
+      {
+        "box": "form 8606 line 22",
+        "label": "Enter your basis in Roth, Roth SEP, and Roth SIMPLE IRA contributions (see instructions)",
+        "type": "money",
+        "notes": "2024 Form 8606 line 22 \u2014 the Roth contribution basis this year's Form 8606 Part III starts from where 2024 had a Roth distribution. Caption verbatim from the 2024 Form 8606; source https://www.irs.gov/pub/irs-prior/f8606--2024.pdf."
+      },
+      {
+        "box": "form 8606 line 24",
+        "label": "Enter your basis in conversions from traditional, traditional SEP, and traditional SIMPLE IRAs and rollovers from qualified retirement plans to a Roth, Roth SEP, or Roth SIMPLE IRA",
+        "type": "money",
+        "notes": "2024 Form 8606 line 24 \u2014 the Roth conversion basis this year's Form 8606 line 24 carries forward. Caption verbatim from the 2024 Form 8606; source https://www.irs.gov/pub/irs-prior/f8606--2024.pdf."
+      },
+      {
+        "box": "simplified method worksheet line 4",
+        "label": "Divide line 2 by the number on line 3",
+        "type": "money",
+        "notes": "Line 4 of LAST year's Simplified Method Worksheet \u2014 carried to this year's line 4 unchanged. A workpaper kept with the prior return, not a filed line; one per annuity. Caption verbatim from the 2024 Simplified Method Worksheet; source https://www.irs.gov/pub/irs-prior/i1040gi--2024.pdf."
+      },
+      {
+        "box": "simplified method worksheet line 10",
+        "label": "Add lines 6 and 8. This is the amount you have recovered tax free through 2024",
+        "type": "money",
+        "notes": "Line 10 of LAST year's Simplified Method Worksheet \u2014 this year's line 6. A workpaper kept with the prior return; one per annuity. Caption verbatim from the 2024 Simplified Method Worksheet; source https://www.irs.gov/pub/irs-prior/i1040gi--2024.pdf."
+      },
+      {
+        "box": "form 5329 line 16",
+        "label": "Total excess contributions. Add lines 14 and 15",
+        "type": "money",
+        "notes": "2024 Form 5329 line 16 \u2014 excess contributions to traditional IRAs, this year's Form 5329 line 9. Caption verbatim from the 2024 Form 5329; source https://www.irs.gov/pub/irs-prior/f5329--2024.pdf."
+      },
+      {
+        "box": "form 5329 line 24",
+        "label": "Total excess contributions. Add lines 22 and 23",
+        "type": "money",
+        "notes": "2024 Form 5329 line 24 \u2014 excess contributions to Roth IRAs, this year's Form 5329 line 18. Caption verbatim from the 2024 Form 5329; source https://www.irs.gov/pub/irs-prior/f5329--2024.pdf."
+      },
+      {
+        "box": "form 5329 line 32",
+        "label": "Total excess contributions. Add lines 30 and 31",
+        "type": "money",
+        "notes": "2024 Form 5329 line 32 \u2014 excess contributions to Coverdell ESAs, this year's Form 5329 line 26. No computation is declared for this year's excise on them, so the figure is listed and read by nothing yet. Caption verbatim from the 2024 Form 5329; source https://www.irs.gov/pub/irs-prior/f5329--2024.pdf."
+      },
+      {
+        "box": "form 5329 line 40",
+        "label": "Total excess contributions. Add lines 38 and 39",
+        "type": "money",
+        "notes": "2024 Form 5329 line 40 \u2014 excess contributions to Archer MSAs, this year's Form 5329 line 34. No computation is declared for this year's excise on them, so the figure is listed and read by nothing yet. Caption verbatim from the 2024 Form 5329; source https://www.irs.gov/pub/irs-prior/f5329--2024.pdf."
+      },
+      {
+        "box": "form 5329 line 48",
+        "label": "Total excess contributions. Add lines 46 and 47",
+        "type": "money",
+        "notes": "2024 Form 5329 line 48 \u2014 excess contributions to HSAs, this year's Form 5329 line 42. Caption verbatim from the 2024 Form 5329; source https://www.irs.gov/pub/irs-prior/f5329--2024.pdf."
+      },
+      {
+        "box": "form 8582 part vii column (c)",
+        "label": "(c) Unallowed loss",
+        "type": "money",
+        "notes": "2024 Form 8582 Part VII (Allocation of Unallowed Losses) column (c), ONE FIGURE PER ACTIVITY \u2014 this year's Part IV/V column (c), prior-year unallowed losses. Read per activity, never totalled: a complete disposition releases only its own activity's figure. Caption verbatim from the 2024 Form 8582; source https://www.irs.gov/pub/irs-prior/f8582--2024.pdf."
+      },
+      {
+        "box": "form 6198 line 19b",
+        "label": "If line 19a is more than zero, enter that amount here and go to line 20",
+        "type": "money",
+        "notes": "2024 Form 6198 line 19b, per activity \u2014 this year's line 15b. Caption verbatim from the 2024 Form 6198; source https://www.irs.gov/pub/irs-prior/f6198--2024.pdf."
+      },
+      {
+        "box": "form 7203 part iii column (e)",
+        "label": "(e) Carryover amounts",
+        "type": "money",
+        "notes": "Last year's Form 7203 Part III column (e), per S corporation and per loss item \u2014 this year's column (b). Caption verbatim from the 2024 Form 7203; source https://www.irs.gov/pub/irs-pdf/f7203.pdf."
+      },
+      {
+        "box": "form 4797 line 7",
+        "label": "Combine lines 2 through 6. Enter the gain or (loss) here and on the appropriate line as follows",
+        "type": "money",
+        "notes": "2024 Form 4797 line 7 \u2014 a 2024 net section 1231 LOSS is one of the five years this year's line 8 lookback reads. Caption verbatim from the 2024 Form 4797; source https://www.irs.gov/pub/irs-prior/f4797--2024.pdf."
+      },
+      {
+        "box": "form 4797 line 8",
+        "label": "Nonrecaptured net section 1231 losses from prior years. See instructions",
+        "type": "money",
+        "notes": "2024 Form 4797 line 8 \u2014 the nonrecaptured losses 2024 carried. Only part of this year's five-year list: a loss of 2020 or earlier ages out, and earlier vintages are on earlier returns. Caption verbatim from the 2024 Form 4797; source https://www.irs.gov/pub/irs-prior/f4797--2024.pdf."
+      },
+      {
+        "box": "form 4952 line 7",
+        "label": "Disallowed investment interest expense to be carried forward to 2025. Subtract line 6 from line 3. If zero or less, enter -0-",
+        "type": "money",
+        "notes": "2024 Form 4952 line 7 \u2014 this year's line 2. Caption verbatim from the 2024 Form 4952; source https://www.irs.gov/pub/irs-prior/f4952--2024.pdf."
+      },
+      {
+        "box": "form 8829 line 43",
+        "label": "Operating expenses. Subtract line 27 from line 26. If less than zero, enter -0-",
+        "type": "money",
+        "notes": "2024 Form 8829 line 43, per home office \u2014 this year's line 25. Caption verbatim from the 2024 Form 8829; source https://www.irs.gov/pub/irs-prior/f8829--2024.pdf."
+      },
+      {
+        "box": "form 8829 line 44",
+        "label": "Excess casualty losses and depreciation. Subtract line 33 from line 32. If less than zero, enter -0-",
+        "type": "money",
+        "notes": "2024 Form 8829 line 44, per home office \u2014 this year's line 31. Caption verbatim from the 2024 Form 8829; source https://www.irs.gov/pub/irs-prior/f8829--2024.pdf."
+      },
+      {
+        "box": "form 4562 line 13",
+        "label": "Carryover of disallowed deduction to 2025. Add lines 9 and 10, less line 12",
+        "type": "money",
+        "notes": "2024 Form 4562 line 13 \u2014 this year's line 10, the section 179 carryover. Caption verbatim from the 2024 Form 4562; source https://www.irs.gov/pub/irs-prior/f4562--2024.pdf."
+      },
+      {
+        "box": "form 8801 line 26",
+        "label": "Credit carryforward to 2025. Subtract line 25 from line 21.",
+        "type": "money",
+        "notes": "2024 Form 8801 line 26 \u2014 this year's line 19. Caption verbatim from the 2024 Form 8801; source https://www.irs.gov/pub/irs-prior/f8801--2024.pdf."
+      },
+      {
+        "box": "form 8995 line 16",
+        "label": "Total qualified business (loss) carryforward. Combine lines 2 and 3. If greater than zero, enter -0-",
+        "type": "money",
+        "notes": "2024 Form 8995 line 16 \u2014 this year's line 3. Caption verbatim from the 2024 Form 8995; source https://www.irs.gov/pub/irs-prior/f8995--2024.pdf."
+      },
+      {
+        "box": "form 8995 line 17",
+        "label": "Total qualified REIT dividends and PTP (loss) carryforward. Combine lines 6 and 7. If greater than zero, enter -0-",
+        "type": "money",
+        "notes": "2024 Form 8995 line 17 \u2014 this year's line 7. Caption verbatim from the 2024 Form 8995; source https://www.irs.gov/pub/irs-prior/f8995--2024.pdf."
+      }
+    ],
+    "notes": "THE ONLY SOURCE OF A CARRYFORWARD, AND OF A PRIOR-YEAR OVERPAYMENT APPLIED TO THIS YEAR. No information return reports either; if the prior return is absent the figures cannot be derived and must be asked for, and an absent carryover is not a zero carryover. ONE PIECE OF PAPER, ONE DOCUMENT: `prior-return` used to declare the same return again with five boxes spelled 'schedule d line 7' beside this document's 'schedule-d-16', and the two spellings were two owners of one question. The Schedule D boxes and their five routes were moved here and that declaration deleted. ITS BOX INVENTORY IS DERIVED, NOT HAND-KEPT: every carryforward's `prior_return_inputs` names the box that answers it, and the builder adds any this file does not already declare (`derived_from: carryforwards`). So a carryforward cannot be declared without the prior return gaining the box it needs \u2014 the discipline E17 applies to extraction, applied to reading. READ BY `custom.prior-year-1040` (spec 080 T086): `prebuilt-tax.us.1040` reads a CURRENT-year 1040 face and returns none of a prior year's schedule lines, so the prior return is read page by page against the boxes declared here \u2014 each box id names the 2024 form and line it is ('schedule d line 7' is 2024 Schedule D line 7, '36' is 2024 Form 1040 line 36), and every label is that form's own caption. A box the reader cannot find is an open question, never a zero. FR-019: every concept a prior-year rule or a carryover computation reads is declared here, each row `not_on_sheet` (prior-year input) naming the computation it feeds; the overpayment applied (box 36) is the one figure that places. Boxes are addressed by the PRIOR year's own line numbers. A prior return PRINTS ITS OWN NAME across the top of page 1, which is what the page classifier splits on.",
+    "revision_printed_as": "Form 1040 (2024) and its schedules and forms",
+    "face_not_boxes": [
+      {
+        "slot": "1a",
+        "because": "a line of last year's Schedule D (Form 1040) \u2014 'Totals for all short-term transactions reported on Form 1099-B or Form 1099-DA for which basis was reported to the IRS' \u2014 that no prior-year rule reads (FR-019 names Schedule D lines 7, 15 and 21, declared as boxes `schedule d line 7/15/21`)"
+      },
+      {
+        "slot": "1b",
+        "because": "a line of last year's Schedule D (Form 1040) \u2014 'Totals for all transactions reported on Form(s) 8949 with Box A or Box G checked' \u2014 that no prior-year rule reads (FR-019 names Schedule D lines 7, 15 and 21, declared as boxes `schedule d line 7/15/21`)"
+      },
+      {
+        "slot": "2",
+        "because": "a line of last year's Schedule D (Form 1040) \u2014 'Totals for all transactions reported on Form(s) 8949 with Box B or Box H checked' \u2014 that no prior-year rule reads (FR-019 names Schedule D lines 7, 15 and 21, declared as boxes `schedule d line 7/15/21`); also the 'Page 2' header"
+      },
+      {
+        "slot": "3",
+        "because": "a line of last year's Schedule D (Form 1040) \u2014 'Totals for all transactions reported on Form(s) 8949 with Box C or Box I checked' \u2014 that no prior-year rule reads (FR-019 names Schedule D lines 7, 15 and 21, declared as boxes `schedule d line 7/15/21`)"
+      },
+      {
+        "slot": "4",
+        "because": "a line of last year's Schedule D (Form 1040) \u2014 'Short-term gain from Form 6252 and short-term gain or (loss) from Forms 4684, 6781, and 8824' \u2014 that no prior-year rule reads (FR-019 names Schedule D lines 7, 15 and 21, declared as boxes `schedule d line 7/15/21`)"
+      },
+      {
+        "slot": "5",
+        "because": "a line of last year's Schedule D (Form 1040) \u2014 'Net short-term gain or (loss) from partnerships, S corporations, estates, and trusts from Schedule(s) K-1' \u2014 that no prior-year rule reads (FR-019 names Schedule D lines 7, 15 and 21, declared as boxes `schedule d line 7/15/21`)"
+      },
+      {
+        "slot": "6",
+        "because": "a line of last year's Schedule D (Form 1040) \u2014 'Short-term capital loss carryover' \u2014 that no prior-year rule reads (FR-019 names Schedule D lines 7, 15 and 21, declared as boxes `schedule d line 7/15/21`)"
+      },
+      {
+        "slot": "7",
+        "because": "Schedule D line 7 'Net short-term capital gain or (loss)' of last year's return \u2014 declared as box `schedule d line 7`, which the slot heuristic cannot read as 7"
+      },
+      {
+        "slot": "8a",
+        "because": "a line of last year's Schedule D (Form 1040) \u2014 'Totals for all long-term transactions reported on Form 1099-B or Form 1099-DA for which basis was reported to the IRS' \u2014 that no prior-year rule reads (FR-019 names Schedule D lines 7, 15 and 21, declared as boxes `schedule d line 7/15/21`)"
+      },
+      {
+        "slot": "8b",
+        "because": "a line of last year's Schedule D (Form 1040) \u2014 'Totals for all transactions reported on Form(s) 8949 with Box D or Box J checked' \u2014 that no prior-year rule reads (FR-019 names Schedule D lines 7, 15 and 21, declared as boxes `schedule d line 7/15/21`)"
+      },
+      {
+        "slot": "9",
+        "because": "a line of last year's Schedule D (Form 1040) \u2014 'Totals for all transactions reported on Form(s) 8949 with Box E or Box K checked' \u2014 that no prior-year rule reads (FR-019 names Schedule D lines 7, 15 and 21, declared as boxes `schedule d line 7/15/21`)"
+      },
+      {
+        "slot": "12",
+        "because": "'Attachment Sequence No. 12' in the Schedule D header (Schedule D line 12, a K-1 long-term figure of last year's return, is read by no prior-year rule)"
+      },
+      {
+        "slot": "14",
+        "because": "a line of last year's Schedule D (Form 1040) \u2014 'Long-term capital loss carryover' \u2014 that no prior-year rule reads (FR-019 names Schedule D lines 7, 15 and 21, declared as boxes `schedule d line 7/15/21`)"
+      },
+      {
+        "slot": "15",
+        "because": "Schedule D line 15 'Net long-term capital gain or (loss)' of last year's return \u2014 declared as box `schedule d line 15`, which the slot heuristic cannot read as 15"
+      }
+    ]
+  },
+  "extraction": {
+    "model": "custom.prior-year-1040",
+    "note": "No prebuilt model reads a PRIOR year's return: `prebuilt-tax.us.1040` reads a current-year 1040 face and returns none of the schedule lines a carryover reads. Read by the declared custom model over the boxes this document declares (spec 068 mechanism, spec 080 T086). NOT YET MEASURED on a real prior return. ONE section, not one per schedule: a custom section is keyed by its DOCUMENT and `section_for` matches a printed heading to the best section, so several sections of one document collapse to the first and every box outside it would fall to unattributed. The schedules are named in `instructions` instead.",
+    "custom": {
+      "reads": "a taxpayer's PRIOR-YEAR (2024) federal return \u2014 Form 1040 and the schedules and forms filed with it \u2014 for the carryovers and prior-year figures this year's return reads. Read only the lines listed; a schedule or form the packet does not include is absent, never zero.",
+      "instructions": [
+        "Each box id names the 2024 form and line it is: '36', '1040 line 1a' and '1040 line 15' are lines of the 2024 Form 1040; 'schedule a line 17' is line 17 of the 2024 Schedule A; 'form 8606 line 14' is line 14 of the 2024 Form 8606. Report a figure under that id only from that form's own page.",
+        "Read the figure printed on the line. Enter a loss printed in parentheses as a negative number. A checkbox is read as checked or not.",
+        "Form 8582 Part VII column (c), Form 6198 line 19b, Form 7203 Part III column (e) and Form 8829 lines 43 and 44 print one figure per activity, S corporation or home: report each row separately with the activity's name as the label, never a total.",
+        "The Simplified Method Worksheet is a workpaper kept with the return, one per annuity; read it only where it is in the packet."
+      ],
+      "sections": [
+        {
+          "document": "prior-year-1040",
+          "boxes": [
+            "1040 line 1a",
+            "1040 line 1z",
+            "1040 line 2a",
+            "1040 line 2b",
+            "1040 line 3a",
+            "1040 line 3b",
+            "1040 line 4a",
+            "1040 line 4b",
+            "1040 line 5a",
+            "1040 line 5b",
+            "1040 line 6a",
+            "1040 line 6b",
+            "1040 line 7",
+            "1040 line 8",
+            "1040 line 9",
+            "1040 line 11",
+            "36",
+            "1040 line 15",
+            "1040 line 12",
+            "1040 filing status",
+            "1040 age/blindness",
+            "schedule 1 line 8a",
+            "schedule a line 5a",
+            "schedule a line 5a general sales taxes",
+            "schedule a line 5d",
+            "schedule a line 5e",
+            "schedule a line 17",
+            "schedule d line 7",
+            "schedule d line 15",
+            "schedule d line 16",
+            "schedule d line 21",
+            "form 172 part ii line 10",
+            "form 8606 line 14",
+            "form 8606 line 22",
+            "form 8606 line 24",
+            "form 5329 line 16",
+            "form 5329 line 24",
+            "form 5329 line 32",
+            "form 5329 line 40",
+            "form 5329 line 48",
+            "form 4562 line 13",
+            "form 4797 line 7",
+            "form 4797 line 8",
+            "form 4952 line 7",
+            "form 6198 line 19b",
+            "form 7203 part iii column (e)",
+            "form 8582 part vii column (c)",
+            "form 8801 line 26",
+            "form 8829 line 43",
+            "form 8829 line 44",
+            "form 8995 line 16",
+            "form 8995 line 17",
+            "simplified method worksheet line 4",
+            "simplified method worksheet line 10"
+          ]
+        }
+      ]
+    }
+  }
+}

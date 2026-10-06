@@ -1,0 +1,37 @@
+{
+  "question": {
+    "id": "k1-debt-financed-proceeds-use",
+    "wording": "How did the client use the debt-financed distribution this K-1's code AC interest expense is allocated to?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "business_materially_participated",
+        "label": "In a trade or business the client materially participated in — Schedule E line 28, column (i)"
+      },
+      {
+        "value": "business_not_materially_participated",
+        "label": "In a trade or business the client did not materially participate in — Schedule E line 28, column (g), before Form 8582"
+      },
+      {
+        "value": "investment",
+        "label": "In an investment activity — Form 4952, not this sheet"
+      },
+      {
+        "value": "personal",
+        "label": "For personal purposes — generally not deductible"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Partner's Instructions for Schedule K-1 (Form 1065)",
+        "line": "Box 13, code AC",
+        "revision": "2025",
+        "wording": "The manner in which you report such interest expense depends on your use of the distributed debt proceeds.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf"
+      }
+    }
+  }
+}

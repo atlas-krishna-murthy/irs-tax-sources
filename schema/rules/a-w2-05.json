@@ -1,0 +1,45 @@
+{
+  "rule": {
+    "id": "a-w2-05",
+    "title": "Nontaxable combat pay is on line 1i only when the election is made",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "include_when",
+    "acts_on": {
+      "boxes": [
+        "W-2.12.Q"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "combat-pay-eic-election"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "combat-pay-eic-election",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Nontaxable combat pay is not elected into earned income unless a preparer says so"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1040",
+      "line": "1i",
+      "revision": "2025",
+      "wording": "If you elect to include your nontaxable combat pay in your earned income when figuring the EIC, enter the amount on line 1i.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "Line 1i is not in line 1z, so the answer moves no income total. Each spouse makes the election for their own combat pay, so it is asked per W-2."
+  }
+}

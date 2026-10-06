@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "interest-received-entirely-as-a-nominee",
+    "wording": "Did the taxpayer receive ALL the interest on this Form 1099-INT as a nominee \u2014 it actually belongs to someone else?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 all of it belongs to another person"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 some or all of it is the taxpayer's"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Interest on the recipient's own form is theirs unless a preparer says they received it as a nominee"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 550",
+        "line": "Nominee distributions",
+        "revision": "2025",
+        "wording": "If you receive a Form 1099-INT and interest as a nominee for another person, see the discussion on Nominee distributions, later.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p550--2025.pdf"
+      }
+    }
+  }
+}

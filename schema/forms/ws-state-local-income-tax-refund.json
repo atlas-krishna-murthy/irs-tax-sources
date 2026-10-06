@@ -1,0 +1,60 @@
+{
+  "form": {
+    "id": "ws-state-local-income-tax-refund",
+    "form": "State and Local Income Tax Refund Worksheet",
+    "title": "State and Local Income Tax Refund Worksheet\u2014Schedule 1, Line 1",
+    "kind": "worksheet",
+    "revision": "2025",
+    "revision_printed_as": "2025 Instructions for Form 1040",
+    "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Enter the income tax refund from Form(s) 1099-G (or similar statement). But don't enter more than the amount of your state and local income taxes shown on your 2024 Schedule A, line 5d",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Is the amount of state and local income taxes (or general sales taxes), real estate taxes, and personal property taxes paid in 2024 (generally, this is the amount reported on your 2024 Schedule A, line 5d) more than the amount on your 2024 Schedule A, line 5e?",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Is the amount on line 1 more than the amount on line 2?",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Enter your total itemized deductions from your 2024 Schedule A, line 17.",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Enter the amount shown below for the filing status claimed on your 2024 Form 1040 or 1040-SR.",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Check any boxes that apply.",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Add lines 5 and 6",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Is the amount on line 7 less than the amount on line 4?",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Taxable part of your refund. Enter the smaller of line 3 or line 8 here and on Schedule 1, line 1",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "notes": "A WORKSHEET, NOT A FILED FORM, and every input but the refund is LAST YEAR'S RETURN (2024 Schedule A lines 5d, 5e and 17, the 2024 filing status and Age/Blindness boxes). Line 9 is the taxable part of a state or local income tax refund, carried to Schedule 1 line 1 and so to 1040 line 8; the sheet lists its inputs and never works it. Its own Exception sends some returns to Pub. 525 instead."
+  }
+}

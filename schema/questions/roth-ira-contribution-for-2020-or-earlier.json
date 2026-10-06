@@ -1,0 +1,29 @@
+{
+  "question": {
+    "id": "roth-ira-contribution-for-2020-or-earlier",
+    "wording": "Did the owner of this Roth IRA make a contribution (including a conversion) to a Roth IRA for 2020 or an earlier year?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes — a contribution or conversion for 2020 or earlier: a code T distribution's line 4b is 0"
+      },
+      {
+        "value": "no",
+        "label": "No — the first Roth contribution was for 2021 or later: see Form 8606"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Form 1040",
+        "line": "Lines 4a and 4b, Exception 2",
+        "revision": "2025",
+        "wording": "You received a distribution from a Roth IRA. But if either (a) or (b) below applies, enter -0- on line 4b; you don't have to see Form 8606 or its instructions. a. Distribution code T is shown in box 7 of Form 1099-R and you made a contribution (including a conversion) to a Roth IRA for 2020 or an earlier year.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+      }
+    }
+  }
+}

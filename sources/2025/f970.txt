@@ -1,0 +1,261 @@
+Form    970                                    Application To Use LIFO Inventory Method                                                 OMB No. 1545-0042
+(Rev. November 2020)                                                      ▶   Attach to your tax return.
+Department of the Treasury                                                                                                               Attachment
+Internal Revenue Service
+                                                    ▶ Go to www.irs.gov/Form970 for the latest information.                              Sequence No. 122
+Name of filer (name of parent corporation if a consolidated group) (see instructions)           Filer’s identification number (see instructions)
+
+
+Name of applicant(s) (if different from filer) and identification number(s)
+
+
+ Part I          Statement of Election Under Section 472                                                                                         Yes No
+
+   1     The applicant elects to use the LIFO inventory method for the tax year ending (enter month, day, year) ▶
+                                        for the following goods (enter here):
+         See instructions and attach a statement if necessary.
+
+   2     In an attached statement, identify and describe the inventory method(s) used by the applicant in the prior tax year
+         for the goods covered by this election.
+
+   3a Is the applicant already using the LIFO inventory method for any other goods? . . . . . . . . .                               .   .   .
+    b If “Yes” to line 3a, attach a statement identifying and describing the goods and the LIFO methods used.
+
+   4a Has the applicant ever used the LIFO inventory method for the goods covered by this election? . . . . . .
+    b If “Yes” to line 4a, attach a statement listing the tax years for which the LIFO inventory method was used and
+      explaining why the LIFO inventory method was discontinued.
+
+   5     The applicant will not use the LIFO inventory method to account for the following goods (enter here): ▶
+
+         Attach a statement if necessary.
+ Part II         LIFO Inventory Requirements                                                                                                     Yes No
+   6a Did the applicant value the closing inventories of goods covered by this election at cost for the tax year
+      immediately preceding the tax year specified on line 1? . . . . . . . . . . . . . . . . . . .
+    b If “No” to line 6a, did the applicant value the beginning inventories of goods covered by this election at cost for
+      the tax year specified on line 1 as required by section 472(d)? . . . . . . . . . . . . . . . . .
+      If “No” to line 6b, attach an explanation.
+    c If “Yes” to line 6b, will the applicant account for the adjustment required by section 472(d) over a 3-year period?
+      If “No” to line 6c, attach an explanation.
+
+   7a When determining the beginning inventories of goods covered by this election, did the applicant treat those goods
+      as being acquired for a unit cost that is equal to the total cost of those goods divided by the total number of units
+      on hand? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    b If “No” to line 7a, attach an explanation.
+
+   8a Did the applicant (or any member of the same group of financially related corporations as defined in section
+      472(g)) issue credit statements or reports to shareholders, partners, other proprietors, or beneficiaries covering the
+      tax year specified on line 1? . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    b If “Yes” to line 8a, attach a statement describing the recipient(s), the date(s) of issuance, and the inventory
+      method(s) used to determine income, profit, or loss in those statements.
+
+   9a Will the applicant determine beginning and ending inventories at cost regardless of market value?                     .   .   .   .   .
+    b If “No” to line 9a, attach an explanation.
+
+ 10a  As a condition of adopting the LIFO inventory method, Regulations section 1.472-4 requires a taxpayer to agree
+      to make any adjustments incident to the change to, the change from, or the use of, the LIFO inventory method
+      that, upon the examination of the taxpayer’s income tax return, the IRS determines are necessary to clearly reflect
+      income. Does the applicant agree to this condition? . . . . . . . . . . . . . . . . . . . . .
+    b If “No” to line 10a, the applicant is not eligible to use the LIFO inventory method and does not need to file Form 970.
+Part III         Specific Goods (Unit) Method
+ 11      Under Regulations section 1.472-1, the types of goods in the opening inventory must be compared with similar types of goods
+         in the closing inventories. Attach a list of the types or categories of goods that will be compared, describe the goods that will
+         be included in each type or category, and identify the unit of measure (pounds, barrels, feet, etc.) used for each type or
+         category.
+For Paperwork Reduction Act Notice, see the instructions.                                           Cat. No. 17057T                 Form 970 (Rev. 11-2020)
+Form 970 (Rev. 11-2020)                                                                                                                          Page 2
+Part III      Specific Goods (Unit) Method (continued)
+ 12      Check the box corresponding to the method that the applicant will use to determine the cost of the goods in the closing
+         inventories in excess of the cost of the goods in the opening inventories. See instructions.
+             Actual cost of goods most recently purchased or produced
+             Average cost of goods purchased or produced during the tax year
+             Actual cost of goods purchased or produced in the order of acquisition
+             Other (attach explanation)
+
+Part IV       Dollar-Value Method
+ 13      Attach a statement describing the applicant’s method of defining “items.”
+
+ 14a     Did the applicant acquire any of the goods covered by this election at below-market prices?             .   .   .   .   .      Yes       No
+      b If “Yes” to line 14a, attach a statement explaining whether the applicant did, or will, account for the goods purchased at
+        below-market prices and similar goods produced or acquired at market prices as separate items. If the applicant did, or will,
+        account for both types of goods as the same item, explain and justify.
+
+ 15      Attach a statement describing the method of pooling the applicant will use for the goods covered by this election. If the
+         applicant will use more than one dollar-value pool, list and describe the contents of each dollar-value pool. See instructions.
+
+ 16      Identify or describe the method the applicant will use to compute the LIFO value of each dollar-value pool containing goods
+         covered by this election (for example, double-extension method, link-chain method, or index method).
+
+         If the applicant’s method is neither the double-extension method nor the Inventory Price Index Computation method, attach a
+         statement describing the method in detail and justifying the applicant’s use of the selected method. See instructions.
+ 17      Check the box corresponding to the method the applicant will use to determine the current-year cost of goods in the closing
+         inventories and to value the LIFO increments of the dollar-value pool(s). See instructions.
+             Actual cost of goods most recently purchased or produced
+             Average cost of goods purchased or produced during the tax year
+             Actual cost of goods purchased or produced in the order of acquisition
+             Other (attach explanation)
+
+ Part V       Inventory Price Index Computation (IPIC) Method
+ 18      Check the box corresponding to the method the applicant will use to compute the LIFO value of each dollar-value pool
+         containing goods covered by this election. See instructions.
+            Double-extension IPIC method
+            Link-chain IPIC method
+
+ 19      Check the box corresponding to the table from which the applicant will select Bureau of Labor Statistics (BLS) price indexes.
+         See instructions.
+              Table 3 of the Consumer Price Index (CPI) Report
+              Table 6 of the Producer Price Index (PPI) Detailed Report
+              Other table of the PPI Detailed Report
+         If the applicant will use “Other table of the PPI Detailed Report,” attach a statement explaining why the other table is more
+         appropriate than Table 6.
+
+ 20      Will the applicant use the 10 percent method? See instructions .   .   .    .   .   .   .   .   .   .   .   .   .   .   .      Yes       No
+
+ 21      If the applicant elects to use a representative month for selecting BLS price indexes from the applicable report, enter the
+         representative month elected for each dollar-value pool.
+         See instructions and attach a statement if necessary.
+Part VI       Other Information
+ 22      Attach a statement describing the applicant’s method of determining the cost of inventory items (for example, standard cost
+         method, actual invoice cost, joint product cost method, or retail inventory method).
+ 23      Did the applicant receive IRS consent to change the method of valuing inventories for the tax year specified
+         on line 1? See instructions . . . . . . . . . . . . . . . . . . . . . . . . . . .                            Yes      No
+                                                                                                                                 Form 970 (Rev. 11-2020)
+Form 970 (Rev. 11-2020)                                                                                                            Page 3
+
+
+General Instructions                                                 Specific Instructions
+Section references are to the Internal Revenue Code unless           Name and Identification Number
+otherwise noted.
+                                                                     Enter the name of the filer on the first line of page 1 of Form
+Future Developments                                                  970. In general, the filer of the Form 970 is the applicant.
+For the latest information about developments related to Form        However, if Form 970 is filed on behalf of the applicant, enter
+970 and its instructions, such as legislation enacted after they     the filer’s name and identification number on the first line of
+were published, go to www.irs.gov/Form970.                           Form 970 and enter the applicant’s name and identification
+                                                                     number on the second line. An individual’s identifying number is
+Purpose of Form                                                      his or her social security number. For all others, it is the entity’s
+Form 970 is filed with your income tax return to elect to use the    employer identification number.
+last-in, first-out (LIFO) inventory method described in section
+472. If you prefer, you can file an election statement that gives
+                                                                     Part I—Statement of Election Under Section
+the same information requested on Form 970.                          472
+                                                                     Line 1. Enter the tax year the LIFO inventory method will first
+How To Use Form 970                                                  be used and list the inventory items for which you will use this
+You must complete Parts I, II, and VI. In addition, complete         method. Include only inventory items that are not already
+Parts III, IV, and V, as applicable.                                 covered under a previous LIFO election. Attach a detailed
+                                                                     analysis of all of your inventories as of the beginning and end of
+When To File                                                         the first tax year the LIFO method will be used and the
+File Form 970 (or a similar statement) with your tax return for      beginning inventory of the preceding tax year. Also, include the
+the first tax year you intend to use the LIFO method.                ending inventory reported on your tax return for the preceding
+   If you filed your return for the tax year in which you wish to    tax year. See Regulations sections 1.472-2 and 1.472-3 for
+use the LIFO inventory method described in section 472               more details on preparing this analysis.
+without making the election, you can make the election by filing
+an amended return within 12 months of the date you filed your        Part III—Specific Goods (Unit) Method
+original return. Attach Form 970 (or similar statement) to the       Line 12. See Regulations section 1.472-2 for more information.
+amended return and write “Filed pursuant to section
+301.9100-2” at the top of Form 970. File the amended return at       Part IV—Dollar-Value Method
+the same address the original return was filed.                      Line 15. Provide sufficient information to justify the pooling
+                                                                     method you are using. Retailers, wholesalers, jobbers, and
+Change From LIFO Method                                              distributors are required to pool their goods by major lines,
+Once you adopt the LIFO method, it is irrevocable unless the         types, or classes, as authorized under Regulations section
+IRS allows you to change to another method. To request               1.472-8(c). Manufacturers or processors can use the natural
+approval to change from the LIFO inventory method, you can           business unit pooling method, as authorized by Regulations
+use the automatic change procedures or the non-automatic             section 1.472-8(b)(1), or can establish multiple pools of similar
+change procedures. For details, see Form 3115, Application for       items in lieu of natural business unit pools, under Regulations
+Change in Accounting Method. Also see the Instructions for           section 1.472-8(b)(3)(i). Multiple pools include raw materials
+Form 3115.                                                           content pools authorized by Regulations section
+                                                                     1.472-8(b)(3)(ii).
+LIFO Recapture Amount                                                   Eligible small businesses can establish pools under the
+A C corporation must include in gross income a LIFO recapture        simplified dollar-value LIFO method (discussed below).
+amount (defined below) if it:
+                                                                        Manufacturers or processors using the inventory price index
+   1. Used the LIFO method for its last tax year before the first    computation (IPIC) method can establish pools based on the
+tax year for which an election to be taxed as an S corporation       commodity codes in Table 6 of the Producer Price Index (PPI)
+becomes effective, or                                                Detailed Report. A retailer using the IPIC method can establish
+   2. Transferred LIFO inventory assets to an S corporation in a     pools based on either the general expenditure categories in
+nonrecognition transaction in which those assets constitute          Table 3 of the Consumer Price Index (CPI) Report or on the
+transferred basis property.                                          commodity codes in Table 6 of the PPI Detailed Report. A
+   The LIFO recapture amount is the amount by which the C            wholesaler, jobber, or distributor using the IPIC method can
+corporation’s inventory amount of the inventory assets using the     establish pools based on the commodity codes in Table 6 of the
+first-in, first-out (FIFO) method exceeds the inventory amount of    PPI Report. The PPI and CPI Reports are published monthly by
+such assets under the LIFO method at the close of the C              the U.S. Bureau of Labor Statistics (BLS). Under the IPIC
+corporation’s last tax year as a C corporation (or for the year of   method, you can also combine pools under special 5% rules.
+the transfer, if (2) above applies).                                 See Regulations sections 1.472-8(b)(4) and 1.472-8(c)(2) for
+   For additional information on LIFO recapture, see                 more information.
+Regulations section 1.1363-2 and Rev. Proc. 94-61, 1994-2               Describe any other method of pooling used.
+C.B. 775. Also see the Instructions for Form 1120 and the               Simplified dollar-value LIFO method. An eligible small
+Instructions for Form 1120-S.                                        business can elect to use the simplified dollar-value LIFO
+                                                                     method. See sections 474(c) and 448(c)(3). If you are a member
+                                                                     of a controlled group, the gross receipts of the group are used
+                                                                     to determine if you qualify. This method requires that you
+Form 970 (Rev. 11-2020)                                                                                                               Page 4
+
+
+maintain a separate inventory pool for items in each major              Line 19. Manufacturers, processors, wholesalers, jobbers, and
+category in the applicable government price index, and that you         distributors must select BLS price indexes from Table 6 of the
+make adjustments to each separate pool based on changes                 PPI Detailed Report, unless the taxpayer can demonstrate that
+from the preceding tax year in the component of such index for          selecting BLS price indexes from another table of the PPI
+the major category. You do not need IRS consent to elect these          Detailed Report is more appropriate. Retailers can select BLS
+provisions. The election is in effect for the first year the election   price indexes from either Table 3 of the CPI Report or from
+is made and for each succeeding year you qualify as an eligible         Table 6 (or another more appropriate table) of the PPI Detailed
+small business. The election can be revoked only with IRS               Report.
+consent.                                                                Line 20. See Regulations section 1.472-8(e)(3)(iii)(C)(2) for a
+   The simplified dollar-value method requires that general             description of the 10 percent method.
+categories of inventory pools be established. The general               Line 21. See Regulations section 1.472-8(e)(3)(iii)(B)(3) before
+categories are based on categories of inventory items                   completing line 21.
+contained in the PPI Detailed Report or the CPI Report. See
+section 474 and Regulations section 1.472-8 for more details.           Part VI—Other Information
+Line 16. Generally, you can only use the double-extension               Line 23. If you filed Form 3115 and received IRS consent to
+method or the inventory price index computation method. See             change your method of valuing inventories for the tax year
+Regulations sections 1.472-8(e)(2) and 1.472-8(e)(3) for a              specified on line 1, do not attach a copy of the approval letter
+description of these methods. However, if you use the link-             (consent agreement). Retain a copy of the letter for your
+chain, index, or “other” method, attach a detailed statement            records.
+explaining how the method is justified under Regulations section
+1.472-8(e)(1). In addition, if you use a link-chain method, your        Privacy Act and Paperwork Reduction Act Notice. We ask for
+statement should explain why the nature of the pool makes the           the information on this form to carry out the Internal Revenue
+double-extension or index method impractical or unsuitable.             laws of the United States. You are required to give us the
+   New Vehicle Alternative LIFO Inventory Method.                       information. We need it to ensure that you are complying with
+Automobile dealers engaged in the trade or business of retail           these laws and to allow us to figure and collect the right amount
+sales of new automobiles or new light-duty trucks can adopt or          of tax. Subtitle B and section 6109, and the regulations require
+use the New Vehicle Alternative LIFO Inventory Method under             you to provide this information.
+Rev. Proc. 97-36, 1997-2 C.B. 450, as modified by Rev. Proc.                You are not required to provide the information requested on
+2008-23, 2008-12 I.R.B. 664, or any succesor. A new                     a form that is subject to the Paperwork Reduction Act unless
+automobile dealer who previously elected this method under              the form displays a valid OMB control number. Books or
+Rev. Proc. 92-79, 1992-2 C.B. 457 is not required to change its         records relating to a form or its instructions must be retained as
+method of accounting to comply with Rev. Proc. 97-36. For               long as their contents may become material in the
+information on accounting method changes to this method, see            administration of any Internal Revenue law. Generally, tax
+section 23.03 of Rev. Proc. 2019-43, 2019-48 I.R.B. 1107, or            returns and return information are confidential, as required by
+any successor.                                                          section 6103. However, section 6103 allows or requires the
+   Used Vehicle Alternative LIFO Inventory Method.                      Internal Revenue Service to disclose information from this form
+Automobile dealers engaged in the trade or business of retail           in certain circumstances. For example, we may disclose
+sales of used automobiles or used light-duty trucks can adopt           information to the Department of Justice for civil or criminal
+or use the Used Vehicle Alternative LIFO Inventory Method as            litigation, and to cities, states, the District of Columbia, and U.S.
+described in Rev. Proc. 2001-23, 2001-10 I.R.B. 784, as                 commonwealths or possessions for use in administering their
+modified by Announcement 2004-16, 2004-1 I.R.B. 668, and                tax laws. We may also disclose this information to other
+Rev. Proc. 2008-23, or its successor. For information on                countries under a tax treaty, to federal and state agencies to
+accounting method changes to this method, see section 23.04             enforce federal nontax criminal laws, or to federal law
+of Rev. Proc. 2019-43, or any successor, and change number              enforcement and intelligence agencies to combat terrorism.
+59 in the List of DCNs in the Instructions for Form 3115.               Failure to provide this information, or providing false
+                                                                        information, may subject you to penalties.
+Line 17. See Regulations section 1.472-8(e)(2) for more
+information.                                                                The time needed to complete and file this form and related
+                                                                        schedules will vary depending on individual circumstances. The
+Part V—Inventory Price Index Computation                                estimated burden for individual taxpayers filing this form is
+(IPIC) Method                                                           approved under OMB control number 1545-0074; the estimated
+                                                                        burden for business taxpayers filing this form is approved under
+Line 18. See Regulations section 1.472-8(e)(3)(iii)(E) for a
+                                                                        OMB control number 1545-0123 and is included in the
+description of the double-extension and link-chain IPIC
+                                                                        estimates shown in the instructions for their individual and
+methods, including examples. The use of either of these IPIC
+                                                                        business income tax return. The estimated burden for all other
+methods is a method of accounting. For information on
+                                                                        taxpayers who file this form is shown below.
+accounting method changes to or within an IPIC method, see
+change numbers 61 and 62 in the List of DCNs in the                     Recordkeeping          . . . . . . . . . . 7 hrs., 53 min.
+Instructions for Form 3115.                                             Learning about the law or the form . . . . . 4 hrs., 3 min.
+                                                                        Preparing the form . . . . . . . . . . 8 hrs., 5 min.
+                                                                        Sending the form to the IRS . . . . . . . 1 hr., 4 min.
+                                                                            If you have comments concerning the accuracy of these time
+                                                                        estimates or suggestions for making this form and related
+                                                                        schedules simpler, we would be happy to hear from you. See
+                                                                        the instructions for the tax return with which this form is filed.
+

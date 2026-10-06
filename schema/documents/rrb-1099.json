@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "RRB-1099",
+    "title": "Payments by the Railroad Retirement Board",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form RRB-1099 - Payments by the Railroad Retirement Board - 2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/p915--2025.pdf",
+    "issued_by": "United States Railroad Retirement Board",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Claim Number and Payee Code",
+        "type": "text"
+      },
+      {
+        "box": "2",
+        "label": "Recipient's Identification Number",
+        "type": "tin"
+      },
+      {
+        "box": "3",
+        "label": "Gross Social Security Equivalent Benefit Portion of Tier 1 Paid in 2025",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Social Security Equivalent Benefit Portion of Tier 1 Repaid to RRB in 2025",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Net Social Security Equivalent Benefit Portion of Tier 1 Paid in 2025",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "Workers' Compensation Offset in 2025",
+        "type": "money"
+      },
+      {
+        "box": "7",
+        "label": "Social Security Equivalent Benefit Portion of Tier 1 Paid for 2024",
+        "type": "money"
+      },
+      {
+        "box": "8",
+        "label": "Social Security Equivalent Benefit Portion of Tier 1 Paid for 2023",
+        "type": "money"
+      },
+      {
+        "box": "9",
+        "label": "Social Security Equivalent Benefit Portion of Tier 1 Paid for Years Prior to 2023",
+        "type": "money"
+      },
+      {
+        "box": "10",
+        "label": "Federal Income Tax Withheld",
+        "type": "money"
+      },
+      {
+        "box": "11",
+        "label": "Medicare Premium Total",
+        "type": "money"
+      }
+    ],
+    "notes": "Issued by the U.S. Railroad Retirement Board, not the IRS; the box layout reproduced here is the specimen printed in IRS Publication 915 (2025). RRB-1099 carries ONLY the social security equivalent benefit (SSEB) portion of tier 1. The NON-social-security-equivalent portion of tier 1, tier 2, vested dual benefits and supplemental annuities are reported on a different document, Form RRB-1099-R, which reaches 1040 lines 5a/5b and is governed by Pub. 575. Boxes 7, 8 and 9 are amounts paid for EARLIER years and are already inside box 3; they support the lump-sum election, they are not separately reportable."
+  },
+  "extraction": {
+    "model": "custom.RRB-1099",
+    "note": "Azure ships no prebuilt-tax model for this form, so it reached the generic reader \u2014 which emits no field bearing these box names, so every cited route out of this document was dead while looking implemented (spec 075 US1/W42). Read by the declared custom model over the boxes this document declares. The 2025 face is VERIFIED against the Form RRB-1099 specimen in Pub. 915 (2025): all eleven captions match verbatim (spec 080 F-022). Unmeasured against a real page.",
+    "custom": {
+      "reads": "a Form RRB-1099, Payments by the Railroad Retirement Board. It is issued by the RRB rather than the IRS and its box numbering is its own.",
+      "sections": [
+        {
+          "document": "RRB-1099",
+          "boxes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "rule": {
+    "id": "s1-student-loan-21",
+    "title": "No student loan interest deduction when married filing separately",
+    "class": "document",
+    "years": [
+      2025
+    ],
+    "acts_on": {
+      "boxes": [
+        "1098-E.1"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "engagement",
+        "ref": "filing_status"
+      }
+    ],
+    "operator": "exclude_when",
+    "params": {
+      "when": {
+        "engagement": "filing_status",
+        "in": [
+          "mfs"
+        ]
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Form 1040 (and 1040-SR)",
+      "line": "Schedule 1, line 21",
+      "revision": "2025",
+      "wording": "Your filing status is any status except married filing separately.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "Only the filing-status condition is applied. The $2,500 limit ('Don’t enter more than $2,500', worksheet line 1) is not applied: 1098-E box 1 places on Form 1040 line 10 beside educator expenses, alimony and the other adjustments, so a line cap would cap them too, and the vocabulary has no per-figure cap. The MAGI phase-out ($85,000 single/HOH/QSS, $170,000 MFJ; 'Divide line 6 by $15,000 ($30,000 if married filing jointly)'; 'Multiply line 1 by line 7') reduces the INTEREST proportionally, which phase_down_cap cannot express, and its MAGI (worksheet lines 2-4: line 9 less Schedule 1 lines 11-20, 23 and 25) is not the SALT MAGI — both are the software's computation. The 'not claimed as a dependent' condition has no engagement value.",
+    "research_ids": [
+      "S1-student-loan-21"
+    ]
+  }
+}

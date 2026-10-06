@@ -1,0 +1,320 @@
+{
+  "form": {
+    "id": "form-5329",
+    "form": "Form 5329",
+    "title": "Additional Taxes on Qualified Plans (Including IRAs) and Other Tax-Favored Accounts",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f5329--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i5329",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Early distributions includible in income (see instructions). For Roth IRA distributions, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Early distributions included on line 1 that are not subject to the additional tax (see instructions). Enter the appropriate exception number from the instructions:",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Amount subject to additional tax. Subtract line 2 from line 1",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Additional tax. Enter 10% (0.10) of line 3. Include this amount on Schedule 2 (Form 1040), line 8",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "5",
+        "caption": "Distributions included in income from a Coverdell ESA, a QTP, or an ABLE account",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Distributions included on line 5 that are not subject to the additional tax (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Amount subject to additional tax. Subtract line 6 from line 5",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Additional tax. Enter 10% (0.10) of line 7. Include this amount on Schedule 2 (Form 1040), line 8",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Enter your excess contributions from line 16 of your 2024 Form 5329. See instructions. If zero, go to line 15",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "If your traditional IRA contributions for 2025 are less than your maximum allowable contribution, see instructions. Otherwise, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "2025 traditional IRA distributions included in income (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "2025 distributions of prior year excess contributions to traditional IRAs (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Add lines 10, 11, and 12",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Prior year excess contributions. Subtract line 13 from line 9. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Excess contributions for 2025 (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Total excess contributions. Add lines 14 and 15",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Additional tax. Enter 6% (0.06) of the smaller of line 16 or the value of your traditional IRAs on December 31, 2025 (including 2025 contributions made in 2026). Include this amount on Schedule 2 (Form 1040), line 8",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "18",
+        "caption": "Enter your excess contributions from line 24 of your 2024 Form 5329. See instructions. If zero, go to line 23",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "If your Roth IRA contributions for 2025 are less than your maximum allowable contribution, see instructions. Otherwise, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "2025 distributions from your Roth IRAs (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "21",
+        "caption": "Add lines 19 and 20",
+        "type": "money"
+      },
+      {
+        "line": "22",
+        "caption": "Prior year excess contributions. Subtract line 21 from line 18. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "23",
+        "caption": "Excess contributions for 2025 (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Total excess contributions. Add lines 22 and 23",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Additional tax. Enter 6% (0.06) of the smaller of line 24 or the value of your Roth IRAs on December 31, 2025 (including 2025 contributions made in 2026). Include this amount on Schedule 2 (Form 1040), line 8",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "26",
+        "caption": "Enter the excess contributions from line 32 of your 2024 Form 5329. See instructions. If zero, go to line 31",
+        "type": "money"
+      },
+      {
+        "line": "27",
+        "caption": "If the contributions to your Coverdell ESAs for 2025 were less than the maximum allowable contribution, see instructions. Otherwise, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "28",
+        "caption": "2025 distributions from your Coverdell ESAs (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "29",
+        "caption": "Add lines 27 and 28",
+        "type": "money"
+      },
+      {
+        "line": "30",
+        "caption": "Prior year excess contributions. Subtract line 29 from line 26. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Excess contributions for 2025 (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "32",
+        "caption": "Total excess contributions. Add lines 30 and 31",
+        "type": "money"
+      },
+      {
+        "line": "33",
+        "caption": "Additional tax. Enter 6% (0.06) of the smaller of line 32 or the value of your Coverdell ESAs on December 31, 2025 (including 2025 contributions made in 2026). Include this amount on Schedule 2 (Form 1040), line 8",
+        "type": "money"
+      },
+      {
+        "line": "34",
+        "caption": "Enter the excess contributions from line 40 of your 2024 Form 5329. See instructions. If zero, go to line 39",
+        "type": "money"
+      },
+      {
+        "line": "35",
+        "caption": "If the contributions to your Archer MSAs for 2025 are less than the maximum allowable contribution, see instructions. Otherwise, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "36",
+        "caption": "2025 distributions from your Archer MSAs from Form 8853, line 8",
+        "type": "money"
+      },
+      {
+        "line": "37",
+        "caption": "Add lines 35 and 36",
+        "type": "money"
+      },
+      {
+        "line": "38",
+        "caption": "Prior year excess contributions. Subtract line 37 from line 34. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "39",
+        "caption": "Excess contributions for 2025 (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "40",
+        "caption": "Total excess contributions. Add lines 38 and 39",
+        "type": "money"
+      },
+      {
+        "line": "41",
+        "caption": "Additional tax. Enter 6% (0.06) of the smaller of line 40 or the value of your Archer MSAs on December 31, 2025 (including 2025 contributions made in 2026). Include this amount on Schedule 2 (Form 1040), line 8",
+        "type": "money"
+      },
+      {
+        "line": "42",
+        "caption": "Enter the excess contributions from line 48 of your 2024 Form 5329. If zero, go to line 47",
+        "type": "money"
+      },
+      {
+        "line": "43",
+        "caption": "If the contributions to your HSAs for 2025 are less than the maximum allowable contribution, see instructions. Otherwise, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "44",
+        "caption": "2025 distributions from your HSAs from Form 8889, line 16",
+        "type": "money"
+      },
+      {
+        "line": "45",
+        "caption": "Add lines 43 and 44",
+        "type": "money"
+      },
+      {
+        "line": "46",
+        "caption": "Prior year excess contributions. Subtract line 45 from line 42. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "47",
+        "caption": "Excess contributions for 2025 (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "48",
+        "caption": "Total excess contributions. Add lines 46 and 47",
+        "type": "money"
+      },
+      {
+        "line": "49",
+        "caption": "Additional tax. Enter 6% (0.06) of the smaller of line 48 or the value of your HSAs on December 31, 2025 (including 2025 contributions made in 2026). Include this amount on Schedule 2 (Form 1040), line 8",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "50",
+        "caption": "Excess contributions for 2025 (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "51",
+        "caption": "Additional tax. Enter 6% (0.06) of the smaller of line 50 or the value of your ABLE account on December 31, 2025. Include this amount on Schedule 2 (Form 1040), line 8",
+        "type": "money"
+      },
+      {
+        "line": "52a",
+        "caption": "Minimum required distribution for 2025 from all qualified plans for which you received a distribution of the full amount of the excess accumulation during the correction window",
+        "type": "money"
+      },
+      {
+        "line": "52b",
+        "caption": "Minimum required distribution for 2025 from all other plans",
+        "type": "money"
+      },
+      {
+        "line": "53a",
+        "caption": "Amount distributed to you during 2025 from all qualified plans for which you received a distribution of the full amount of the excess accumulation during the correction window",
+        "type": "money"
+      },
+      {
+        "line": "53b",
+        "caption": "Amount distributed to you during 2025 from all other plans",
+        "type": "money"
+      },
+      {
+        "line": "54a",
+        "caption": "Subtract line 53a from line 52a and multiply the result by 10% (0.10). If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "54b",
+        "caption": "Subtract line 53b from line 52b and multiply the result by 25% (0.25). If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "55",
+        "caption": "Add lines 54a and 54b. Include the total on Schedule 2 (Form 1040), line 8, or Form 1041, Schedule G, line 8",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "2-exception-number",
+        "caption": "Enter the appropriate exception number from the instructions:",
+        "type": "code",
+        "notes": "The exception number (01-23, or 99) written beside line 2; read off the i5329 table, never a figure."
+      },
+      {
+        "line": "amended-return",
+        "caption": "If this is an amended return, check here",
+        "type": "checkbox"
+      }
+    ],
+    "revision_printed_as": "Form 5329 (2025) Created 6/12/25"
+  }
+}

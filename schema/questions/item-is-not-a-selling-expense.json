@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-not-a-selling-expense",
+    "wording": "Is this seller charge NOT a selling expense \u2014 not a sales commission, advertising fee, legal fee, loan charge that was the buyer's responsibility, or other cost to sell (for example a payoff, a tax proration or an escrow deposit)?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 not a selling expense"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 a cost of selling the property"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "yes",
+      "because": "An escrow or settlement charge is not counted against the gain unless a preparer says it was a cost of selling (the CPA, 2026-10-04: escrow figures do not reach capital gains by default)."
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 523",
+        "line": "Worksheet 2, line 2",
+        "revision": "2025",
+        "wording": "Determine your selling expenses. These are the costs directly associated with selling your home.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p523--2025.pdf"
+      }
+    }
+  }
+}

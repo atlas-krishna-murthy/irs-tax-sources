@@ -1,0 +1,37 @@
+{
+  "question": {
+    "id": "canceled-debt-was",
+    "wording": "What was the debt this Form 1099-C reports as canceled?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "nonbusiness",
+        "label": "A personal (nonbusiness) debt — Schedule 1 line 8c"
+      },
+      {
+        "value": "sole_proprietorship",
+        "label": "A debt of a nonfarm sole proprietorship — Schedule C line 6"
+      },
+      {
+        "value": "rental_real_estate",
+        "label": "A debt of a nonfarm rental of real property — Schedule E line 3"
+      },
+      {
+        "value": "excluded",
+        "label": "All of it is excluded from income (bankruptcy, insolvency or another exclusion, Form 982)"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 4681",
+        "line": "Form 1099-C",
+        "revision": "2025",
+        "wording": "You must report any taxable canceled debt as ordinary income on: • Schedule 1 (Form 1040), line 8c, if the debt is a nonbusiness debt; • Schedule C (Form 1040), line 6, if the debt is related to a nonfarm sole proprietorship; • Schedule E (Form 1040), line 3, if the debt is related to nonfarm rental of real property;",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p4681--2025.pdf"
+      }
+    }
+  }
+}

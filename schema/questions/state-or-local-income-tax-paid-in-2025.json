@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "state-or-local-income-tax-paid-in-2025",
+    "wording": "Was this state or local income tax actually paid (or withheld) during 2025?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 paid in 2025 (including a 2024 balance or an estimate paid in 2025)"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 paid in another year"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "yes",
+      "because": "A tax on the 2025 record was paid in 2025 unless a preparer says otherwise"
+    },
+    "basis": {
+      "citation": {
+        "form": "Schedule A (Form 1040)",
+        "line": "5a",
+        "revision": "2025",
+        "wording": "State and local income taxes paid in 2025 for a prior year, such as taxes paid with your 2024 state or local income tax return.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

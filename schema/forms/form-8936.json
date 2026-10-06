@@ -1,0 +1,169 @@
+{
+  "form": {
+    "id": "form-8936",
+    "form": "Form 8936",
+    "title": "Clean Vehicle Credits",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8936--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8936",
+    "notes": "refundable: false for the personal-use parts. Line 13 (new clean vehicle, personal use) goes to Schedule 3 line 6f and line 18 (previously owned clean vehicle) goes to Schedule 3 line 6m, both nonrefundable and both limited by Form 1040 line 18 less other personal credits (lines 12 and 17). The business/investment parts are general business credits: line 8 goes to Form 3800 Part III line 1y and line 21 (commercial clean vehicles) to Form 3800 Part III line 1aa. TERMINATION, VERIFIED: the Instructions for Form 8936 (2025) state verbatim 'Clean vehicles acquired after September 30, 2025. Taxpayers cannot claim clean vehicle credits for new, previously owned, or commercial clean vehicles that they acquired after September 30, 2025.' and define acquisition: 'a vehicle is \"acquired\" as of the date a written binding contract is entered into and a payment has been made.' The terminating statute is P.L. 119-21, sections 30D, 25E and 45W. So tax year 2025 is a SPLIT year: a vehicle acquired 1 January to 30 September 2025 qualifies, one acquired 1 October to 31 December 2025 does not, and the test is the acquisition date rather than the placed-in-service date. MAGI limits from the form's own face, tested against the LOWER of the 2024 and 2025 figures: new and commercial $150,000 single/MFS, $225,000 head of household, $300,000 married filing jointly/qualifying surviving spouse; previously owned $75,000 / $112,500 / $150,000. Printed revision: Form 8936 (2025), Created 3/19/25.",
+    "lines": [
+      {
+        "line": "1a",
+        "caption": "Enter the amount from line 11a of your 2025 Form 1040, 1040-SR, or 1040-NR. Estates and trusts, Form 1041, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "1b",
+        "caption": "Enter any income from Puerto Rico you excluded",
+        "type": "money"
+      },
+      {
+        "line": "1c",
+        "caption": "Enter any amount from Form 2555, line 45",
+        "type": "money"
+      },
+      {
+        "line": "1d",
+        "caption": "Enter any amount from Form 2555, line 50",
+        "type": "money"
+      },
+      {
+        "line": "1e",
+        "caption": "Enter any amount from Form 4563, line 15",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Add lines 1a through 1e",
+        "type": "money"
+      },
+      {
+        "line": "3a",
+        "caption": "Enter the amount from line 11 of your 2024 Form 1040, 1040-SR, or 1040-NR. Estates and trusts, Form 1041, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "3b",
+        "caption": "Enter any income from Puerto Rico you excluded",
+        "type": "money"
+      },
+      {
+        "line": "3c",
+        "caption": "Enter any amount from Form 2555, line 45",
+        "type": "money"
+      },
+      {
+        "line": "3d",
+        "caption": "Enter any amount from Form 2555, line 50",
+        "type": "money"
+      },
+      {
+        "line": "3e",
+        "caption": "Enter any amount from Form 4563, line 15",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Add lines 3a through 3e",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Enter your 2024 filing status (S, MFS, etc., see chart below)",
+        "type": "text"
+      },
+      {
+        "line": "6",
+        "caption": "Enter the total credit amount figured in Part II of Schedule(s) A (Form 8936)",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "New clean vehicle credit from partnerships and S corporations (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Business/investment use part of credit. Add lines 6 and 7. Partnerships and S corporations, stop here and report this amount on Schedule K. All others, report this amount on Form 3800, Part III, line 1y",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Enter the total credit amount figured in Part III of Schedule(s) A (Form 8936)",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Enter the amount from Form 1040, 1040-SR, or 1040-NR, line 18",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Personal credits from Form 1040, 1040-SR, or 1040-NR (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Subtract line 11 from line 10. If zero or less, enter -0- and stop here. You can't claim the personal use part of the credit",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Personal use part of credit. Enter the smaller of line 9 or line 12 here and on Schedule 3 (Form 1040), line 6f. If line 12 is smaller than line 9, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Enter the total credit amount figured in Part IV of Schedule(s) A (Form 8936)",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Enter the amount from Form 1040, 1040-SR, or 1040-NR, line 18",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Personal credits from Form 1040, 1040-SR, or 1040-NR (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Subtract line 16 from line 15. If zero or less, enter -0- and stop here. You can't claim the Part IV credit",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "Enter the smaller of line 14 or line 17 here and on Schedule 3 (Form 1040), line 6m. If line 17 is smaller than line 14, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "Enter the total credit amount figured in Part V of Schedule(s) A (Form 8936)",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Qualified commercial clean vehicle credit from partnerships and S corporations (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "21",
+        "caption": "Add lines 19 and 20. Partnerships and S corporations, stop here and report this amount on Schedule K. All others, report this amount on Form 3800, Part III, line 1aa",
+        "type": "money"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "3",
+        "because": "'Schedule 3 (Form 1040), line 6f' / 'line 6m' in the captions of lines 13 and 18 \u2014 references, not a line of Form 8936"
+      },
+      {
+        "slot": "69",
+        "because": "'Attachment Sequence No. 69' in the form header, not a line"
+      }
+    ]
+  }
+}

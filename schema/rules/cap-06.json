@@ -1,0 +1,60 @@
+{
+  "rule": {
+    "id": "cap-06",
+    "title": "A net capital loss reaches line 7a only up to ($3,000), or ($1,500) if married filing separately",
+    "class": "sheet",
+    "years": [
+      2025
+    ],
+    "operator": "cap",
+    "acts_on": {
+      "lines": [
+        "form-1040.7a"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "engagement",
+        "ref": "filing_status"
+      }
+    ],
+    "params": {
+      "sign": "negative"
+    },
+    "amounts": {
+      "single": {
+        "amount": 3000
+      },
+      "mfj": {
+        "amount": 3000
+      },
+      "mfs": {
+        "amount": 1500
+      },
+      "hoh": {
+        "amount": 3000
+      },
+      "qss": {
+        "amount": 3000
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Schedule D (Form 1040)",
+      "line": "21",
+      "revision": "2025",
+      "wording": "If line 16 is a loss, enter here and on Form 1040, 1040-SR, or 1040-NR, line 7a, the smaller of: • The loss on line 16; or • ($3,000), or if married filing separately, ($1,500)",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1040sd--2025.pdf"
+    },
+    "open_point": "Applied to the 1040 line 7a total, which is every capital figure the sheet places (Schedule D line 16's net). A gain is untouched. The disallowed part is not lost: it is the capital loss carryover the software works (computations short-term-capital-loss-carryover / long-term-capital-loss-carryover), never figured here.",
+    "research_ids": [
+      "CAP-06"
+    ]
+  }
+}

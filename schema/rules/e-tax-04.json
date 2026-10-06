@@ -1,0 +1,48 @@
+{
+  "rule": {
+    "id": "e-tax-04",
+    "title": "Real estate tax counts only if paid in 2025 and assessed before 2026",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-tax-payment-records.state_and_local_real_estate_taxes_paid"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-real-estate-tax-not-paid-in-2025-or-not-assessed-before-2026"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-real-estate-tax-not-paid-in-2025-or-not-assessed-before-2026",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this real estate tax NOT paid to the taxing authority in 2025, or a prepayment of a tax assessed for 2026 or later (or refunded or rebated in 2025)?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "Line 5b",
+      "revision": "2025",
+      "wording": "Only taxes paid in 2025 and assessed prior to 2026 can be deducted for 2025.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "research_ids": [
+      "e-tax-04"
+    ],
+    "open_point": "A PARTIAL refund or rebate reduces the deduction by its amount; no operator reduces a figure by an answered amount, so only a wholly refunded tax is answered here."
+  }
+}

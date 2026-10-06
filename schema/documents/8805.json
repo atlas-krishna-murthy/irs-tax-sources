@@ -1,0 +1,156 @@
+{
+  "document": {
+    "id": "8805",
+    "title": "Foreign Partner's Information Statement of Section 1446 Withholding Tax",
+    "kind": "information_return",
+    "revision": "Rev. November 2019",
+    "revision_printed_as": "Form 8805 (Rev. November 2019)",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f8805.pdf",
+    "issued_by": "partnership",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "10",
+        "label": "Total tax credit allowed to partner under section 1446",
+        "type": "money"
+      },
+      {
+        "box": "tax-year",
+        "label": "For partnership's calendar year",
+        "type": "text",
+        "note": "Or the partnership's tax year beginning and ending dates - which partnership year the credit belongs to."
+      },
+      {
+        "box": "1a",
+        "label": "Foreign partner's name",
+        "type": "text"
+      },
+      {
+        "box": "1b",
+        "label": "U.S. identifying number",
+        "type": "tin"
+      },
+      {
+        "box": "1c",
+        "label": "Address (if a foreign address, see instructions)",
+        "type": "text"
+      },
+      {
+        "box": "2-account-number",
+        "label": "Account number assigned by partnership (if any)",
+        "type": "identifier"
+      },
+      {
+        "box": "3",
+        "label": "Type of partner (specify\u2014see instructions)",
+        "type": "text"
+      },
+      {
+        "box": "4",
+        "label": "Country code of partner (enter two-letter code\u2014see instructions)",
+        "type": "text"
+      },
+      {
+        "box": "5a",
+        "label": "Name of partnership",
+        "type": "text"
+      },
+      {
+        "box": "5b",
+        "label": "U.S. Employer Identification Number (EIN)",
+        "type": "tin"
+      },
+      {
+        "box": "5c",
+        "label": "Address (if a foreign address, see instructions)",
+        "type": "text"
+      },
+      {
+        "box": "6",
+        "label": "Withholding agent's name",
+        "type": "text"
+      },
+      {
+        "box": "7",
+        "label": "Withholding agent's U.S. EIN",
+        "type": "tin"
+      },
+      {
+        "box": "8a",
+        "label": "Check if the partnership identified on line 5a owns an interest in one or more partnerships",
+        "type": "checkbox"
+      },
+      {
+        "box": "8b",
+        "label": "Check if any of the partnership's effectively connected taxable income (ECTI) is exempt from U.S. tax for the partner identified on line 1a",
+        "type": "checkbox"
+      },
+      {
+        "box": "9",
+        "label": "Partnership's ECTI allocable to partner for the tax year (see instructions)",
+        "type": "money"
+      },
+      {
+        "box": "11a",
+        "label": "Name of beneficiary",
+        "type": "text"
+      },
+      {
+        "box": "11b",
+        "label": "U.S. identifying number of beneficiary",
+        "type": "tin"
+      },
+      {
+        "box": "11c",
+        "label": "Address (if a foreign address, see instructions)",
+        "type": "text"
+      },
+      {
+        "box": "12",
+        "label": "Amount of ECTI on line 9 to be included in the beneficiary's gross income (see instructions)",
+        "type": "money"
+      },
+      {
+        "box": "13",
+        "label": "Amount of tax credit on line 10 that the beneficiary is entitled to claim on its return (see instructions)",
+        "type": "money"
+      }
+    ],
+    "notes": "Continuous-use form; the revision in force for 2025 is Rev. November 2019."
+  },
+  "extraction": {
+    "model": "custom.8805",
+    "note": "Azure ships no prebuilt-tax model for this form, so it reached the generic reader - which emits no field bearing these box names, so every cited route out of this document was dead while looking implemented (spec 075 US1/W42). Read by the declared custom model over every line the Rev. 11-2019 face prints (spec 080 T047).",
+    "custom": {
+      "reads": "a Form 8805, Foreign Partner's Information Statement of Section 1446 Withholding Tax.",
+      "sections": [
+        {
+          "document": "8805",
+          "boxes": [
+            "tax-year",
+            "1a",
+            "1b",
+            "1c",
+            "2-account-number",
+            "3",
+            "4",
+            "5a",
+            "5b",
+            "5c",
+            "6",
+            "7",
+            "8a",
+            "8b",
+            "9",
+            "10",
+            "11a",
+            "11b",
+            "11c",
+            "12",
+            "13"
+          ]
+        }
+      ]
+    }
+  }
+}

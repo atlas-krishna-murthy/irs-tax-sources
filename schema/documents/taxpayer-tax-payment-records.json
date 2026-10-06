@@ -1,0 +1,67 @@
+{
+  "document": {
+    "id": "taxpayer-tax-payment-records",
+    "kind": "taxpayer_record",
+    "title": "The taxpayer's own record of state and local taxes paid",
+    "revision": "n/a",
+    "revision_printed_as": null,
+    "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf",
+    "issued_by": "nobody - the taxpayer's own records, Forms W-2/1099 withholding, and tax bills",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "state_and_local_income_taxes_paid",
+        "label": "State and local income taxes withheld, estimated payments, and balances paid during the year",
+        "type": "money"
+      },
+      {
+        "box": "state_and_local_general_sales_taxes_paid",
+        "label": "State and local general sales taxes, actual or from the Optional State Sales Tax Tables",
+        "type": "money"
+      },
+      {
+        "box": "state_and_local_real_estate_taxes_paid",
+        "label": "State and local real estate taxes paid",
+        "type": "money"
+      },
+      {
+        "box": "state_and_local_personal_property_taxes_paid",
+        "label": "State and local personal property taxes paid",
+        "type": "money"
+      },
+      {
+        "box": "other_deductible_taxes_paid",
+        "label": "Income taxes paid to a foreign country and generation-skipping tax (GST) imposed on certain income distributions",
+        "type": "money"
+      },
+      {
+        "box": "federal_estimated_tax_payments",
+        "label": "2025 estimated tax payments and amount applied from 2024 return",
+        "type": "money",
+        "notes": "Federal estimated payments as the client lists them (dates and amounts). Which payments count for 2025 is a rule (PAY-08), and Form 1040-ES vouchers carry the same payments, so the two are tied out rather than added. The f1040 text reads: '2025 estimated tax payments and amount applied from 2024 return' (https://www.irs.gov/pub/irs-prior/f1040--2025.pdf)."
+      }
+    ],
+    "notes": "Income taxes and general sales taxes are MUTUALLY EXCLUSIVE - Schedule A line 5a reads 'You may include either income taxes or general sales taxes on line 5a, but not both.' Only one of the first two entries here may ever reach line 5a. Real estate taxes are often printed in Form 1098 box 10 rather than on a bill. Foreign income tax may instead be taken as a credit on Schedule 3 line 1, which is usually worth more."
+  },
+  "extraction": {
+    "model": "custom.taxpayer-tax-payment-records",
+    "note": "A taxpayer's own record. No prescribed layout, so no structured model and no boxes to read: it prints ITEMS in the client's own words, and which declared box each belongs in is a JUDGEMENT a person confirms (spec 075 group D, clarification Q1). Read by the declared custom model in TRANSCRIBE mode - the same reader, a second template - which copies every line verbatim and names no destination. A separate, cheap proposal call then suggests a box per item; **only a box a person confirms places anything**, so an engagement with nineteen rental sheets shows an empty Schedule E until somebody has looked. That is the decision, not a defect.",
+    "custom": {
+      "reads": "a client's own record of taxes paid, or the bills and notices behind them",
+      "sections": [
+        {
+          "document": "taxpayer-tax-payment-records",
+          "boxes": [
+            "state_and_local_income_taxes_paid",
+            "state_and_local_general_sales_taxes_paid",
+            "state_and_local_real_estate_taxes_paid",
+            "state_and_local_personal_property_taxes_paid",
+            "other_deductible_taxes_paid",
+            "federal_estimated_tax_payments"
+          ]
+        }
+      ],
+      "transcribe": true
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "rule": {
+    "id": "a-sa-01",
+    "title": "An HSA or MSA distribution used for qualified medical expenses or rolled over is not taxable",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-SA.1"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "hsa-distribution-used-for-qualified-medical-expenses"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "hsa-distribution-used-for-qualified-medical-expenses",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1099-SA",
+      "line": "Instructions for Recipient",
+      "revision": "2025",
+      "wording": "An HSA or Archer MSA distribution isn't taxable if you used it to pay qualified medical expenses of the account holder or eligible family member or you rolled it over.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1099sa--2025.pdf"
+    },
+    "open_point": "A partly qualified distribution's taxable amount is Form 8889 Part II / Form 8853 arithmetic; box 1 then counts as printed. The additional 20% tax is a computation."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "rule": {
+    "id": "a-patr-01-not-taxable",
+    "title": "A patronage dividend on personal-use property or a business asset is not taxable",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-PATR.1"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "patronage-dividend-paid-on"
+      }
+    ],
+    "params": {
+      "when": {
+        "any": [
+          {
+            "answer": "patronage-dividend-paid-on",
+            "is": "personal_use_property"
+          },
+          {
+            "answer": "patronage-dividend-paid-on",
+            "is": "business_capital_asset"
+          }
+        ]
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1099-PATR",
+      "line": "Box 1",
+      "revision": "2025",
+      "wording": "Any dividends paid on (1) property bought for personal use or (2) capital assets or depreciable property used in your business are not taxable. However, if (2) applies, reduce the basis of the assets by this amount.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1099ptr--2025.pdf"
+    },
+    "open_point": "Where (2) applies the asset's basis is reduced by the dividend — a depreciation-record change for the preparer, not a figure on this sheet."
+  }
+}

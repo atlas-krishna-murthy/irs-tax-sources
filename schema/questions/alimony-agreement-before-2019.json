@@ -1,0 +1,29 @@
+{
+  "question": {
+    "id": "alimony-agreement-before-2019",
+    "wording": "Was the divorce or separation agreement under which alimony was paid entered into on or before December 31, 2018, and not changed after 2018 to make alimony nontaxable to the recipient?",
+    "scope": "engagement",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes — on or before December 31, 2018 and not so changed"
+      },
+      {
+        "value": "no",
+        "label": "No — after 2018, or changed after 2018"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Schedule 1 (Form 1040)",
+        "line": "19a",
+        "revision": "2025",
+        "wording": "If you made payments to or for your spouse or former spouse under a divorce or separation agreement entered into on or before December 31, 2018, you may be able to take this deduction.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+      }
+    }
+  }
+}

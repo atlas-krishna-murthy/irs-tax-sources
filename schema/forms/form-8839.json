@@ -1,0 +1,261 @@
+{
+  "form": {
+    "id": "form-8839",
+    "form": "Form 8839",
+    "title": "Qualified Adoption Expenses",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8839--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8839",
+    "notes": "refundable: mixed, and this is NEW FOR 2025. P.L. 119-21 made part of the adoption credit refundable for tax years beginning after December 31, 2024. Line 13 is the REFUNDABLE adoption credit and goes to Form 1040 line 30 \u2014 a line that read 'Reserved for future use' on the 2024 Form 1040 and now carries a caption naming this form. Line 18 is the NONREFUNDABLE adoption credit and goes to Schedule 3 Part I line 6c. Line 31 is neither: it is taxable employer-provided adoption benefits and lands in income on Form 1040 line 1f. 2025 parameters read off the form's own face and confirmed against Rev. Proc. 2024-40 section 2.04: maximum credit and maximum exclusion $17,280 per child (lines 2 and 19); MAGI phase-out begins at $259,190 over a $40,000 range, so it is fully phased out at $299,190 (lines 8, 9, 26 and 27); the REFUNDABLE portion is capped at $5,000 per child (line 11b). The Instructions for Form 8839 (2025) add two limits the form encodes structurally rather than prints: 'Unused nonrefundable credit can't be turned into a refundable credit in a future year' and 'Any amount of the carryforward credit from 2024 remains a nonrefundable credit.' The form enforces both by bringing prior-year carryforward in at line 15, only AFTER line 13 has taken the refundable piece out at line 14. Unused nonrefundable credit carries forward 'to the next 5 years or until used, whichever comes first.' P.L. 119-21 also amended section 23(d)(3) to recognise a determination by an Indian tribal government, not only a State, that a child has special needs \u2014 the Form 8839 What's New calls this 'Parity for Indian tribal governments.' Printed revision: Form 8839 (2025), Created 9/2/25.",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Information About Your Eligible Child or Children \u2014 (a) Child's name (b) Child's year of birth (c) Check if child was born before 2008 and disabled (d) Check if child was a child with special needs (e) Check if child was a foreign child (f) Child's identifying number (g) Check if adoption became final in 2025 or earlier",
+        "type": "text"
+      },
+      {
+        "line": "2",
+        "caption": "Maximum adoption credit per child. Enter $17,280. See instructions",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "3",
+        "caption": "Did you file Form 8839 for a prior year for the same child? No. Enter -0-. Yes. See instructions for the amount to enter",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "4",
+        "caption": "Subtract line 3 from line 2",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "5",
+        "caption": "Qualified adoption expenses. See instructions. Caution: Your qualified adoption expenses may not be equal to the adoption expenses you paid in 2025.",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "6",
+        "caption": "Enter the smaller of line 4 or line 5",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "7",
+        "caption": "Enter modified adjusted gross income. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Is line 7 more than $259,190? No. Skip lines 8 and 9, and enter -0- on line 10. Yes. Subtract $259,190 from line 7",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Divide line 8 by $40,000. Enter the result as a decimal (rounded to at least three places). Do not enter more than 1.000",
+        "type": "percent"
+      },
+      {
+        "line": "10",
+        "caption": "Multiply each amount on line 6 by line 9",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "11a",
+        "caption": "Subtract line 10 from line 6",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "11b",
+        "caption": "Enter the smaller of the amount on line 11a or $5,000",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "11c",
+        "caption": "Add the amounts on line 11b",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Add the amounts on line 11a",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Refundable adoption credit. Enter the amount from line 11(c) here and on Form 1040, 1040-SR, or 1040-NR, line 30. If you are claiming an adoption credit for more than three children, see instructions. Continue to line 14",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Subtract line 13 from line 12. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Credit carryforward, if any, from prior years. See your Adoption Credit Carryforward Worksheet in the 2024 Form 8839 instructions",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Add lines 14 and 15",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Enter the amount from line 5 of the Credit Limit Worksheet in the instructions",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "Nonrefundable adoption credit. Enter the smaller of line 16 or line 17 here and on Schedule 3 (Form 1040), line 6c. If line 17 is smaller than line 16, you may have a credit carryforward. See instructions",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "19",
+        "caption": "Maximum exclusion per child. Enter $17,280. See instructions",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "20",
+        "caption": "Did you receive employer-provided adoption benefits for a prior year for the same child? No. Enter -0-. Yes. See instructions for the amount to enter",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "21",
+        "caption": "Subtract line 20 from line 19",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "22",
+        "caption": "Employer-provided adoption benefits you received in 2025. This amount should be shown in box 12 of your 2025 Form(s) W-2 with code T",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "23",
+        "caption": "Add the amounts on line 22",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Enter the smaller of line 21 or line 22. But if the child was a child with special needs and the adoption became final in 2025, enter the amount from line 21",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "25",
+        "caption": "Enter modified adjusted gross income (from the worksheet in the instructions)",
+        "type": "money"
+      },
+      {
+        "line": "26",
+        "caption": "Is line 25 more than $259,190? No. Skip lines 26 and 27, and enter -0- on line 28. Yes. Subtract $259,190 from line 25",
+        "type": "money"
+      },
+      {
+        "line": "27",
+        "caption": "Divide line 26 by $40,000. Enter the result as a decimal (rounded to at least three places). Do not enter more than 1.000",
+        "type": "percent"
+      },
+      {
+        "line": "28",
+        "caption": "Multiply each amount on line 24 by line 27",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "29",
+        "caption": "Excluded benefits. Subtract line 28 from line 24",
+        "type": "money",
+        "columns": [
+          "Child 1",
+          "Child 2",
+          "Child 3"
+        ]
+      },
+      {
+        "line": "30",
+        "caption": "Add the amounts on line 29",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Taxable benefits. Is line 30 more than line 23? No. Subtract line 30 from line 23. Also, include this amount, if more than zero, on line 1f of Form 1040, 1040-SR, or 1040-NR. Yes. Subtract line 23 from line 30. Enter the result as a negative number. Also, enter the result on line 1f of Form 1040, 1040-SR, or 1040-NR.",
+        "type": "money"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "38",
+        "because": "'Attachment Sequence No. 38' in the form header, not a line"
+      }
+    ]
+  }
+}

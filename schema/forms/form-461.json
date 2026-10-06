@@ -1,0 +1,103 @@
+{
+  "form": {
+    "id": "form-461",
+    "form": "Form 461",
+    "title": "Limitation on Business Losses",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f461--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i461",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Reserved for future use",
+        "type": "text"
+      },
+      {
+        "line": "2",
+        "caption": "Enter amount from Schedule 1 (Form 1040), line 3",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Enter amount from Form 1040 or 1040-SR, line 7a. See instructions",
+        "type": "money",
+        "note": "For 2025 this reads line 7a, tracking the 1040's own renumbering of the capital gain line."
+      },
+      {
+        "line": "4",
+        "caption": "Enter amount from Schedule 1 (Form 1040), line 4",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Enter amount from Schedule 1 (Form 1040), line 5",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Enter amount from Schedule 1 (Form 1040), line 6",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Reserved for future use",
+        "type": "text"
+      },
+      {
+        "line": "8",
+        "caption": "Enter other income, gain, or losses from a trade or business not reported on lines 1 through 7",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Combine lines 1 through 8",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Enter any income or gain reported on lines 1 through 8 that is not attributable to a trade or business",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Enter any losses or deductions reported on lines 1 through 8 that are not attributable to a trade or business. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Subtract line 11 from line 10",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "If line 12 is a negative number, enter it here as a positive number. If line 12 is a positive number, enter it here as a negative number",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Add lines 9 and 13",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Enter $313,000 (or $626,000 if married filing jointly)",
+        "type": "money",
+        "note": "2025 threshold, preprinted on the form."
+      },
+      {
+        "line": "16",
+        "caption": "Add lines 14 and 15. If less than zero, enter the amount from line 16 as a positive number on Schedule 1 (Form 1040), line 8p. See instructions if you are filing a tax return other than a Form 1040 or 1040-SR",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "64",
+        "because": "the Attachment Sequence No. printed in the form header, not a line"
+      }
+    ],
+    "revision_printed_as": "Form 461 (2025) Created 2/26/25"
+  }
+}

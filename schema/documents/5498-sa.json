@@ -1,0 +1,75 @@
+{
+  "document": {
+    "id": "5498-SA",
+    "title": "HSA, Archer MSA, or Medicare Advantage MSA Information",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form 5498-SA (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f5498sa--2025.pdf",
+    "issued_by": "the HSA, Archer MSA or MA MSA trustee",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Employee's or self-employed person's Archer MSA contributions made in 2025 and 2026 for 2025",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Total contributions made in 2025",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Total HSA or Archer MSA contributions made in 2026 for 2025",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Rollover contributions",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Fair market value of HSA, Archer MSA, or MA MSA",
+        "type": "money"
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a recipient's copy never carries it. Declared because the face prints it (FR-016)."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox"
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier"
+      },
+      {
+        "box": "6-hsa",
+        "label": "HSA",
+        "type": "checkbox"
+      },
+      {
+        "box": "6-archer-msa",
+        "label": "Archer MSA",
+        "type": "checkbox"
+      },
+      {
+        "box": "6-ma-msa",
+        "label": "MA MSA",
+        "type": "checkbox"
+      }
+    ],
+    "notes": "THIS DOCUMENT ROUTES NOWHERE, deliberately - like Form 5498 it verifies rather than places. Form 8889 is built from the taxpayer's own contributions (line 2) and the employer's (line 9, from Form W-2 box 12 code W), not from this form. Two traps make it unusable as a routing source. (1) Box 2 is 'Total contributions made IN 2025', which mixes contributions FOR 2024 made in early 2025 with contributions FOR 2025; box 3 separately reports contributions made in 2026 FOR 2025. Neither box is 'contributions for 2025'. (2) Box 2 includes EMPLOYER contributions, which belong on Form 8889 line 9 and REDUCE the line 13 deduction - so copying box 2 to line 2 overstates the deduction by the employer's share."
+  },
+  "extraction": {
+    "model": null,
+    "note": "Azure ships no prebuilt-tax model for this form; read generically."
+  }
+}

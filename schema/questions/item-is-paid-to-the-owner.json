@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-paid-to-the-owner",
+    "wording": "Is this item the owner's own salary, or a draw or personal withdrawal the owner took from the business?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 paid to the owner, not deductible"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 paid to employees or workers"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this item the owner's own salary, or a draw or personal withdrawal the owner took from the business?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Publication 334",
+        "line": "Chapter 8, Employees\u2019 Pay",
+        "revision": "2025",
+        "wording": "You can\u2019t deduct your own salary or any personal withdrawals you make from your business. As a sole proprietor, you are not an employee of the business.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p334--2025.pdf"
+      }
+    }
+  }
+}

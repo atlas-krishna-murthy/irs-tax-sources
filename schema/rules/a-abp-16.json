@@ -1,0 +1,43 @@
+{
+  "rule": {
+    "id": "a-abp-16",
+    "title": "Amortizable bond premium is a Schedule A line 16 deduction only as a carryforward or on a pre-October 23, 1986 bond",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-other-itemized-deduction-records.amortizable_bond_premium"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "bond-premium-is-a-schedule-a-deduction"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "bond-premium-is-a-schedule-a-deduction",
+        "is": "no"
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Schedule A (Form 1040)",
+      "line": "16",
+      "revision": "2025",
+      "wording": "A deduction for amortizable bond premium (for example, a deduction allowed for a bond premium carryforward or a deduction for amortizable bond premium on bonds acquired before October 23, 1986).",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "open_point": "The offset against the bond's interest is the Schedule B 'ABP Adjustment' the preparer's software figures; the excluded figure is not moved there."
+  }
+}

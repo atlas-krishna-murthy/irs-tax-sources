@@ -1,0 +1,261 @@
+{
+  "form": {
+    "id": "form-2441",
+    "form": "Form 2441",
+    "title": "Child and Dependent Care Expenses",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f2441--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i2441",
+    "notes": "refundable: false. For tax year 2025 the credit for child and dependent care expenses is entirely NONREFUNDABLE: line 11 goes to Schedule 3 Part I line 2 and line 10 limits it to tax liability. No part of it is refundable for 2025. The temporary refundability granted by the American Rescue Plan applied to tax year 2021 only. P.L. 119-21 raises the top applicable percentage from 35% to 50%, but only for tax years beginning after December 31, 2025 \u2014 the 2025 form still prints the 35%-to-20% table at line 8, which is the primary evidence that the old rate is what is in force for 2025. Expense caps for 2025: $3,000 for one qualifying person, $6,000 for two or more (lines 3 and 27). Line 26 is not a credit at all \u2014 it is taxable dependent care benefits and lands in income on Form 1040 line 1e. Printed revision: Form 2441 (2025), Created 3/18/25.",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Persons or Organizations Who Provided the Care\u2014You must complete this part.",
+        "type": "text",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ],
+        "rows_are": "instances",
+        "column_captions": {
+          "a": "(a) Care provider\u2019s name",
+          "b": "(b) Address (number, street, apt. no., city, state, and ZIP code)",
+          "c": "(c) Identifying number (SSN or EIN)",
+          "d": "(d) Was the care provider your household employee in 2025?",
+          "e": "(e) Amount paid (see instructions)"
+        },
+        "notes": "One row per care provider (instances). Column types: (a) text, (b) text, (c) tin, (d) checkbox Yes/No, (e) money."
+      },
+      {
+        "line": "2",
+        "caption": "Information about your qualifying person(s).",
+        "type": "text",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "rows_are": "instances",
+        "column_captions": {
+          "a": "(a) Qualifying person\u2019s name",
+          "b": "(b) Qualifying person\u2019s social security number",
+          "c": "(c) Check here if the qualifying person was over age 12 and was disabled.",
+          "d": "(d) Qualified expenses you incurred and paid in 2025 for the person listed in column (a)"
+        },
+        "notes": "One row per qualifying person (instances). Column types: (a) text, (b) tin, (c) checkbox, (d) money."
+      },
+      {
+        "line": "3",
+        "caption": "Add the amounts in column (d) of line 2. Don't enter more than $3,000 if you had one qualifying person or $6,000 if you had two or more persons. If you completed Part III, enter the amount from line 31",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Enter your earned income. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "If married filing jointly, enter your spouse's earned income (if you or your spouse was a student or was disabled, see the instructions); all others, enter the amount from line 4",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Enter the smallest of line 3, 4, or 5. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Enter the amount from Form 1040, 1040-SR, or 1040-NR, line 11a",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Enter on line 8 the decimal amount shown below that applies to the amount on line 7.",
+        "type": "percent",
+        "notes": "A decimal amount (.35 down to .20) read off the table printed beside the line; the same ratio typing as Form 8606 line 10."
+      },
+      {
+        "line": "9a",
+        "caption": "Multiply line 6 by the decimal amount on line 8",
+        "type": "money"
+      },
+      {
+        "line": "9b",
+        "caption": "If you paid 2024 expenses in 2025, complete Worksheet A in the instructions. Enter the amount from line 13 of the worksheet here. Otherwise, enter -0- on line 9b and go to line 9c",
+        "type": "money"
+      },
+      {
+        "line": "9c",
+        "caption": "Add lines 9a and 9b and enter the result",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Tax liability limit. Enter the amount from the Credit Limit Worksheet in the instructions",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Credit for child and dependent care expenses. Enter the smaller of line 9c or line 10 here and on Schedule 3 (Form 1040), line 2",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "12",
+        "caption": "Enter the total amount of dependent care benefits you received in 2025. Amounts you received as an employee should be shown in box 10 of your Form(s) W-2. Don't include amounts reported as wages in box 1 of Form(s) W-2. If you were self-employed or a partner, include amounts you received under a dependent care assistance program from your sole proprietorship or partnership",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Enter the amount, if any, you carried over from 2024 and used in 2025 during the grace period. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Enter the amount, if any, you forfeited or carried forward to 2026. See instructions",
+        "type": "money",
+        "net": "-",
+        "notes": "Printed in preprinted parentheses ( ): subtracted in line 15's \"Combine\"."
+      },
+      {
+        "line": "15",
+        "caption": "Combine lines 12 through 14. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Enter the total amount of qualified expenses incurred in 2025 for the care of the qualifying person(s)",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Enter the smaller of line 15 or 16",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "Enter your earned income. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "Enter the amount shown below that applies to you. \u2022 If married filing jointly, enter your spouse's earned income (if you or your spouse was a student or was disabled, see the instructions for line 5). \u2022 If married filing separately, see instructions. \u2022 All others, enter the amount from line 18.",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Enter the smallest of line 17, 18, or 19. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "21",
+        "caption": "Enter $5,000 ($2,500 if married filing separately and you were required to enter your spouse's earned income on line 19). However, don't enter more than the maximum amount allowed under your dependent care plan. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "22",
+        "caption": "Is any amount on line 12 or 13 from your sole proprietorship or partnership? No. Enter -0-. Yes. Enter the amount here",
+        "type": "money",
+        "notes": "Two entries: the Yes/No answer (line 22-answer) and, on Yes, this amount. \"No. Enter -0-.\""
+      },
+      {
+        "line": "23",
+        "caption": "Subtract line 22 from line 15",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Deductible benefits. Enter the smallest of line 20, 21, or 22. Also, include this amount on the appropriate line(s) of your return. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Excluded benefits. If you checked \u201cNo\u201d on line 22, enter the smaller of line 20 or line 21. Otherwise, subtract line 24 from the smaller of line 20 or line 21. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "26",
+        "caption": "Taxable benefits. Subtract line 25 from line 23. If zero or less, enter -0-. Also, enter this amount on Form 1040, 1040-SR, or 1040-NR, line 1e",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "27",
+        "caption": "Enter $3,000 ($6,000 if two or more qualifying persons)",
+        "type": "money"
+      },
+      {
+        "line": "28",
+        "caption": "Add lines 24 and 25",
+        "type": "money"
+      },
+      {
+        "line": "29",
+        "caption": "Subtract line 28 from line 27. If zero or less, stop. You can't take the credit. Exception. If you paid 2024 expenses in 2025, see the instructions for line 9b",
+        "type": "money"
+      },
+      {
+        "line": "30",
+        "caption": "Complete line 2 on page 1 of this form. Don't include in column (d) any benefits shown on line 28 above. Then, add the amounts in column (d) and enter the total here",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Enter the smaller of line 29 or 30. Also, enter this amount on line 3 on page 1 of this form and complete lines 4 through 11",
+        "type": "money"
+      },
+      {
+        "line": "22-answer",
+        "caption": "Is any amount on line 12 or 13 from your sole proprietorship or partnership?",
+        "type": "checkbox",
+        "columns": [
+          "no",
+          "yes"
+        ],
+        "column_captions": {
+          "no": "No. Enter -0-.",
+          "yes": "Yes. Enter the amount here"
+        }
+      },
+      {
+        "line": "A",
+        "caption": "You can\u2019t claim a credit for child and dependent care expenses if your filing status is married filing separately unless you meet the requirements listed in the instructions under Married Persons Filing Separately. If you meet these requirements, check this box",
+        "type": "checkbox"
+      },
+      {
+        "line": "B",
+        "caption": "If you or your spouse was a student or was disabled during 2025 and you\u2019re entering deemed income of $250 or $500 a month on Form 2441 based on the income rules listed in the instructions under If You or Your Spouse Was a Student or Disabled, check this box",
+        "type": "checkbox"
+      },
+      {
+        "line": "1-more-than-three",
+        "caption": "If you have more than three care providers, see the instructions and check this box",
+        "type": "checkbox"
+      },
+      {
+        "line": "2-more-than-three",
+        "caption": "If you have more than three qualifying persons, see the instructions and check this box",
+        "type": "checkbox"
+      },
+      {
+        "line": "benefits-gate",
+        "caption": "Did you receive dependent care benefits?",
+        "type": "checkbox",
+        "columns": [
+          "no",
+          "yes"
+        ],
+        "column_captions": {
+          "no": "No Complete only Part II below.",
+          "yes": "Yes Complete Part III on page 2 next."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "form": {
+    "id": "form-5695",
+    "form": "Form 5695",
+    "title": "Residential Energy Credits",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f5695--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i5695",
+    "notes": "refundable: false \u2014 both credits on this form are NONREFUNDABLE and both are limited to tax liability (lines 14 and 31). Part I (section 25D residential clean energy) goes to Schedule 3 line 5a; Part II (section 25C energy efficient home improvement) goes to Schedule 3 line 5b. TERMINATION, VERIFIED: the Instructions for Form 5695 (2025) state verbatim 'Termination of credits. You can't claim residential clean energy credits for expenditures made after December 31, 2025. You can't claim energy efficient home improvement credits for expenditures or property placed in service after December 31, 2025.' Both credits are therefore FULLY IN FORCE for the whole of tax year 2025 and gone from 2026. The terminating statute is P.L. 119-21 (139 Stat. 72, July 4, 2025), sections 25D and 25C. ASYMMETRY THAT MATTERS AFTER TERMINATION: Part I carries a carryforward (line 12 in from 2024, line 16 out to 2026), so an unused residential clean energy credit survives the termination and is still claimable in 2026 and later; Part II has NO carryforward line at all, so an unused energy efficient home improvement credit is simply lost. 2025 caps read off the form: 30% rate throughout; $1,200 aggregate on Section A plus Section B other than heat pumps (line 28), within which insulation $1,200 (18b), any one exterior door $250 and all doors $500 (19c, 19h), windows and skylights $600 (20d), central air conditioner $600 (22d), water heater $600 (23d), furnace or boiler $600 (24d), enabling panelboard property $600 (25e), home energy audit $150 (26c); heat pumps, heat pump water heaters, biomass stoves and biomass boilers a separate $2,000 (29h); battery storage must be at least 3 kilowatt hours (5a); fuel cell property limited to $1,000 per kilowatt of capacity (line 10). Printed revision: Form 5695 (2025), Created 3/20/25.",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Qualified solar electric property costs",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Qualified solar water heating property costs",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Qualified small wind energy property costs",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Qualified geothermal heat pump property costs",
+        "type": "money"
+      },
+      {
+        "line": "5a",
+        "caption": "Qualified battery storage technology. Does the qualified battery storage technology have a capacity of at least 3 kilowatt hours? (See instructions.) If you checked the \u201cNo\u201d box, you cannot claim a credit for qualified battery storage technology",
+        "type": "checkbox"
+      },
+      {
+        "line": "5b",
+        "caption": "If you checked the \u201cYes\u201d box, enter the qualified battery technology costs",
+        "type": "money"
+      },
+      {
+        "line": "6a",
+        "caption": "Add lines 1 through 5b",
+        "type": "money"
+      },
+      {
+        "line": "6b",
+        "caption": "Multiply line 6a by 30% (0.30)",
+        "type": "money"
+      },
+      {
+        "line": "7a",
+        "caption": "Qualified fuel cell property. Was qualified fuel cell property installed on, or in connection with, your main home located in the United States? (See instructions.)",
+        "type": "checkbox"
+      },
+      {
+        "line": "7b",
+        "caption": "Enter the complete address of the main home where you installed the fuel cell property.",
+        "type": "text"
+      },
+      {
+        "line": "7c",
+        "caption": "If the special rule for joint occupants applies, check here and attach a statement. (See instructions.)",
+        "type": "checkbox"
+      },
+      {
+        "line": "8",
+        "caption": "Qualified fuel cell property costs",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Multiply line 8 by 30% (0.30)",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Kilowatt capacity of property on line 8 above. If less than 0.5 kW, enter -0-. (See instructions.) x $1,000",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Enter the smaller of line 9 or line 10",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Credit carryforward from 2024. Enter the amount, if any, from your 2024 Form 5695, line 16",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Add lines 6b, 11, and 12",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Limitation based on tax liability. Enter the amount from the Residential Clean Energy Credit Limit Worksheet. (See instructions.)",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Residential clean energy credit. Enter the smaller of line 13 or line 14. Also include this amount on Schedule 3 (Form 1040), line 5a",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "16",
+        "caption": "Credit carryforward to 2026. If line 15 is less than line 13, subtract line 15 from line 13",
+        "type": "money"
+      },
+      {
+        "line": "17a",
+        "caption": "Are the qualified energy efficiency improvements installed in or on your main home located in the United States? (See instructions.)",
+        "type": "checkbox"
+      },
+      {
+        "line": "17b",
+        "caption": "Are you the original user of the qualified energy efficiency improvements?",
+        "type": "checkbox"
+      },
+      {
+        "line": "17c",
+        "caption": "Are the components reasonably expected to remain in use for at least 5 years?",
+        "type": "checkbox"
+      },
+      {
+        "line": "17d",
+        "caption": "Enter the complete address of the main home where you made the qualifying improvements. Caution: You can only have one main home at a time. (See instructions.)",
+        "type": "text"
+      },
+      {
+        "line": "17e",
+        "caption": "Were any of these improvements related to the construction of this main home?",
+        "type": "checkbox"
+      },
+      {
+        "line": "18a",
+        "caption": "Enter the cost of insulation material or system (include air sealing material or system) specifically and primarily designed to reduce heat loss or gain of your home that meets the criteria established by the IECC. (See instructions.)",
+        "type": "money"
+      },
+      {
+        "line": "18b",
+        "caption": "Multiply line 18a by 30% (0.30). Enter the results. Do not enter more than $1,200",
+        "type": "money"
+      },
+      {
+        "line": "19a",
+        "caption": "Enter the cost of the most expensive door you bought",
+        "type": "money"
+      },
+      {
+        "line": "19b",
+        "caption": "Enter the Qualified Manufacturer Identification Number of the door.",
+        "type": "code"
+      },
+      {
+        "line": "19c",
+        "caption": "Multiply line 19a by 30% (0.30). Do not enter more than $250",
+        "type": "money"
+      },
+      {
+        "line": "19d",
+        "caption": "Enter the Qualified Manufacturer Identification Number(s) and cost(s) of the two next most expensive door(s)",
+        "type": "money"
+      },
+      {
+        "line": "19e",
+        "caption": "Enter the cost of all other qualifying exterior doors. If none, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "19f",
+        "caption": "Add lines 19d and 19e",
+        "type": "money"
+      },
+      {
+        "line": "19g",
+        "caption": "Multiply line 19f by 30% (0.30)",
+        "type": "money"
+      },
+      {
+        "line": "19h",
+        "caption": "Add lines 19c and 19g. Do not enter more than $500",
+        "type": "money"
+      },
+      {
+        "line": "20a",
+        "caption": "Enter the Qualified Manufacturer Identification Number(s) and cost(s) of the four most expensive window(s)/skylight(s)",
+        "type": "money"
+      },
+      {
+        "line": "20b",
+        "caption": "Enter the cost of all other exterior windows and skylights. If none, enter -0-. (See instructions.)",
+        "type": "money"
+      },
+      {
+        "line": "20c",
+        "caption": "Add lines 20a and 20b",
+        "type": "money"
+      },
+      {
+        "line": "20d",
+        "caption": "Multiply line 20c by 30% (0.30). Enter the results. Do not enter more than $600",
+        "type": "money"
+      },
+      {
+        "line": "21a",
+        "caption": "Did you incur costs for qualified energy property installed on or in connection with a home located in the United States that you use as a residence?",
+        "type": "checkbox"
+      },
+      {
+        "line": "21b",
+        "caption": "Was the qualified energy property originally placed into service by you?",
+        "type": "checkbox"
+      },
+      {
+        "line": "21c",
+        "caption": "Enter the complete address of each home where you installed qualified energy property.",
+        "type": "text"
+      },
+      {
+        "line": "22a",
+        "caption": "Enter the Qualified Manufacturer Identification Number and cost of the most expensive central air conditioner",
+        "type": "money"
+      },
+      {
+        "line": "22b",
+        "caption": "Enter the cost of all other central air conditioners. If none, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "22c",
+        "caption": "Add lines 22a and 22b",
+        "type": "money"
+      },
+      {
+        "line": "22d",
+        "caption": "Multiply line 22c by 30% (0.30). Enter the results. Do not enter more than $600",
+        "type": "money"
+      },
+      {
+        "line": "23a",
+        "caption": "Enter the Qualified Manufacturer Identification Number(s) and cost(s) of the two most expensive natural gas, propane, or oil water heater(s). If none, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "23b",
+        "caption": "Enter the cost of all other natural gas, propane, or oil water heaters. If none, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "23c",
+        "caption": "Add lines 23a and 23b",
+        "type": "money"
+      },
+      {
+        "line": "23d",
+        "caption": "Multiply line 23c by 30% (0.30). Enter the results. Do not enter more than $600",
+        "type": "money"
+      },
+      {
+        "line": "24a",
+        "caption": "Enter the Qualified Manufacturer Identification Number and cost of the most expensive natural gas, propane, or oil furnace or hot water boiler",
+        "type": "money"
+      },
+      {
+        "line": "24b",
+        "caption": "Enter the cost of all other natural gas, propane, or oil furnace or hot water boilers. If none, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "24c",
+        "caption": "Add lines 24a and 24b",
+        "type": "money"
+      },
+      {
+        "line": "24d",
+        "caption": "Multiply line 24c by 30% (0.30). Enter the results. Do not enter more than $600",
+        "type": "money"
+      },
+      {
+        "line": "25a",
+        "caption": "Did you install improvements or replacements of panelboards, subpanelboards, branch circuits, or feeders (enabling property) to enable the installation and use of a separate qualified energy efficient improvement or qualified energy property (enabled property), and were both the enabling property and the enabled property installed in 2025? (See instructions if some of the property was installed in 2024.)",
+        "type": "checkbox"
+      },
+      {
+        "line": "25b",
+        "caption": "If you checked the \u201cYes\u201d box for line 25a, enter the code for the type of enabled property. (See instructions.)",
+        "type": "code"
+      },
+      {
+        "line": "25c",
+        "caption": "Enter the cost of improvements or replacement of enabling property",
+        "type": "money"
+      },
+      {
+        "line": "25d",
+        "caption": "Enter the Qualified Manufacturer Identification Number(s) of the enabling property.",
+        "type": "code"
+      },
+      {
+        "line": "25e",
+        "caption": "Multiply line 25c by 30% (0.30). Enter the results. Do not enter more than $600",
+        "type": "money"
+      },
+      {
+        "line": "26a",
+        "caption": "Did you incur costs for a home energy audit that included an inspection of your main home located in the United States and a written report prepared by a certified home energy auditor? (See instructions.)",
+        "type": "checkbox"
+      },
+      {
+        "line": "26b",
+        "caption": "Enter the cost of the home energy audits",
+        "type": "money"
+      },
+      {
+        "line": "26c",
+        "caption": "Multiply line 26b by 30% (0.30). Enter the results. Do not enter more than $150",
+        "type": "money"
+      },
+      {
+        "line": "27",
+        "caption": "Add lines 18b, 19h, 20d, 22d, 23d, 24d, 25e, and 26c",
+        "type": "money"
+      },
+      {
+        "line": "28",
+        "caption": "Enter the smaller of line 27 or $1,200",
+        "type": "money"
+      },
+      {
+        "line": "29a",
+        "caption": "Enter the Qualified Manufacturer Identification Number and cost of the most expensive electric or natural gas heat pump",
+        "type": "money"
+      },
+      {
+        "line": "29b",
+        "caption": "Enter the cost of all other electric or natural gas heat pumps. If none, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "29c",
+        "caption": "Enter the Qualified Manufacturer Identification Number and cost of the most expensive electric or natural gas heat pump water heater",
+        "type": "money"
+      },
+      {
+        "line": "29d",
+        "caption": "Enter the cost of all other electric or natural gas heat pump water heaters. If none, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "29e",
+        "caption": "Enter the Qualified Manufacturer Identification Number and cost of the most expensive biomass stove or boiler",
+        "type": "money"
+      },
+      {
+        "line": "29f",
+        "caption": "Enter the cost of all other biomass stoves and biomass boilers. If none, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "29g",
+        "caption": "Add lines 29a through 29f",
+        "type": "money"
+      },
+      {
+        "line": "29h",
+        "caption": "Multiply line 29g by 30% (0.30). Enter the results. Do not enter more than $2,000",
+        "type": "money"
+      },
+      {
+        "line": "30",
+        "caption": "Add lines 28 and 29h",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Limitation based on tax liability. Enter the amount from the Energy Efficient Home Improvement Credit Limit Worksheet. (See instructions.)",
+        "type": "money"
+      },
+      {
+        "line": "32",
+        "caption": "Energy efficient home improvement credit. Enter the smaller of line 30 or line 31. Also include this amount on Schedule 3 (Form 1040), line 5b",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "19",
+        "because": "the heading 'Exterior doors that meet the applicable Energy Star requirements.' over lines 19a-19h, each declared"
+      },
+      {
+        "slot": "26",
+        "because": "the heading 'Home energy audits.' over lines 26a-26c, each declared"
+      },
+      {
+        "slot": "29",
+        "because": "the heading 'Heat pumps and heat pump water heaters; biomass stoves and biomass boilers.' over lines 29a-29h, each declared"
+      },
+      {
+        "slot": "75",
+        "because": "'Attachment Sequence No. 75' in the form header, not a line"
+      }
+    ]
+  }
+}

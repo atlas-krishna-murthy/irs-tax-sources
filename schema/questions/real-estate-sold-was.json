@@ -1,0 +1,33 @@
+{
+  "question": {
+    "id": "real-estate-sold-was",
+    "wording": "What was the real estate this Form 1099-S reports as sold?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "main_home",
+        "label": "The taxpayer's main home — Schedule D (the section 121 exclusion is figured by the preparer's software)"
+      },
+      {
+        "value": "personal_or_investment",
+        "label": "Other personal or investment real estate — Form 8949 / Schedule D"
+      },
+      {
+        "value": "business_or_rental",
+        "label": "Real property used in a trade or business or held as a rental — Form 4797"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Form 1099-S",
+        "line": "Instructions for Transferor",
+        "revision": "2025",
+        "wording": "If the real estate was not your main home, report the transaction on Form 4797, Form 6252, and/or the Schedule D for the appropriate income tax form.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1099s--2025.pdf"
+      }
+    }
+  }
+}

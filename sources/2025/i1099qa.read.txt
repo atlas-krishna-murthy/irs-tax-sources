@@ -1,0 +1,455 @@
+2025
+
+Instructions for Forms
+1099-QA and 5498-QA
+Distributions From ABLE Accounts and ABLE Account Contribution Information
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to
+Forms 1099-QA and 5498-QA and their instructions, such
+as legislation enacted after they were published, go to
+IRS.gov/Form1099QA or IRS.gov/Form5498QA.
+You can also get the General Instructions for Certain
+Information Returns at IRS.gov/1099GeneralInstructions.
+
+What's New
+Contributions. Contributions (including any contributions
+from a section 529 program, but not including
+contributions of the designated beneficiary’s
+compensation income made under section 529A(b)(2)(B))
+made to your ABLE account in 2025 can’t exceed
+$19,000. Also, see Contributions, later, for more
+information.
+
+Reminders
+
+In addition, you should also use the 2025 General
+Instructions for Certain Information Returns. Those
+general instructions include information about the
+following topics.
+• Who must file.
+• When and where to file.
+• Electronic reporting.
+• Corrected and void returns.
+• Statements to recipients.
+• Taxpayer identification numbers (TINs).
+• Backup withholding.
+• Penalties.
+• Other general topics.
+Continuous-use form and instructions. Form 1099-QA
+and its instructions, contained herein, have been
+converted from an annual revision to continuous use. Both
+the form and instructions will be updated as needed. For
+the most recent version, go to IRS.gov/Form1099QA.
+E-filing Forms 1099-QA and 5498-QA. The Taxpayer
+First Act of 2019 authorized the Department of the
+Treasury and the IRS to issue regulations that reduce the
+250-return e-file threshold. T.D. 9972, published February
+23, 2023, lowered the e-file threshold to 10 (calculated by
+aggregating all information returns), effective for
+information returns required to be filed on or after January
+1, 2024. Go to IRS.gov/IRIS for e-file information.
+Online fillable forms. Due to the very low volume of
+paper Forms 1099-QA and 5498-QA received and
+processed by the IRS each year, these forms have been
+Mar 19, 2025
+
+converted to online fillable PDFs. You may fill out these
+forms, available at IRS.gov/Form1099QA and at IRS.gov/
+Form5498QA, and send Copy B to each recipient.
+
+Qualified ABLE Program
+
+A qualified ABLE program is a program established and
+maintained by a state, agency, or instrumentality of a
+state:
+• Under which an ABLE account may be established for a
+blind or disabled individual whose blindness or disability
+occurred before age 26 (an “eligible individual”), who is
+the owner and designated beneficiary of the account;
+• Which permits contributions to such ABLE account to
+pay for the qualified disability expenses of the account’s
+designated beneficiary;
+• Which limits a designated beneficiary to one ABLE
+account; and
+• That meets the other requirements of section 529A.
+
+Contributions. A program is not treated as a qualified
+ABLE program unless it provides that no contribution will
+be accepted:
+1. Unless it is in cash; or
+2. Except in the case of a rollover or
+program-to-program transfer from an ABLE account, if
+such contribution would result in aggregate contributions
+from all contributors to the ABLE account for the tax year
+exceeding the sum of:
+a. $19,000 (in 2025), plus
+b. In the case of additional contributions made by
+certain employed ABLE account designated beneficiaries,
+an amount up to the lesser of:
+i. The designated beneficiary’s compensation for the
+tax year, or
+ii. The poverty line amount for a one-person
+household (Community Services Block Grant Act (42
+U.S.C. 9902)). For 2025, the allowable amount is:
+$15,060 in the continental United States,
+$18,810 in Alaska, and
+$17,310 in Hawaii.
+Note. The amount is based on P.L. 115-97, section
+11024(a)(1)(B)(ii)(II), which allows for “an amount equal to
+the poverty line for a one-person household, as
+determined for the calendar year preceding the calendar
+year in which the tax year begins.” For more information,
+go to aspe.hhs.gov/topics/poverty-economic-mobility/
+poverty-guidelines.
+
+Instructions for Form 1099QA (2025) Catalog Number 67557E
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+The contribution limit is determined using the
+poverty guideline applicable in the state of the
+CAUTION designated beneficiary’s residence, rather than
+the guideline applicable in the state in which the
+designated beneficiary’s ABLE account is established, or
+elsewhere.
+
+which the transferor ABLE account is closed upon
+completion of the transfer, or of part or all of the balance to
+an ABLE account of another eligible individual who is a
+member of the family of the former designated beneficiary,
+without any intervening distribution or deemed distribution
+to the designated beneficiary.
+
+An employed designated beneficiary is not eligible for
+the increased contribution limit for the tax year if any
+contribution is made on behalf of the employee to a
+defined contribution plan (within the meaning of section
+414(i)), a section 403(b) plan, or a section 457(b) plan.
+The designated beneficiary is responsible for maintaining
+adequate records to document the eligibility for increased
+contributions. See T.D. 9923, available at IRS.gov/IRB/
+2020-50_IRB#TD-9923.
+
+Specific Instructions for Form
+1099-QA
+
+!
+
+Separate accounting. A qualified ABLE program must
+provide separate accounting for each designated
+beneficiary.
+Limited investment direction. A qualified ABLE
+program provides that a designated beneficiary may,
+directly or indirectly, direct the investment of any
+contributions to the program (or any earnings on it) no
+more than two times in any calendar year.
+Pledging of interest as security. A program is not
+treated as a qualified ABLE program if it allows any
+interest in the program, or any portion of it, to be used as
+security for a loan.
+Excess aggregate contributions. A qualified ABLE
+program must provide adequate safeguards to prevent
+aggregate contributions on behalf of a designated
+beneficiary in excess of the limit established by the state
+under the state's qualified tuition program (QTP).
+Aggregate contributions include contributions to any prior
+ABLE account maintained by any qualified ABLE program
+for the same designated beneficiary or any prior
+designated beneficiary.
+Return of excess contributions and excess aggregate
+contributions. A qualified ABLE program must return an
+excess contribution or excess aggregate contribution
+(including all net income attributable to that excess
+contribution or excess aggregate contribution) to the
+person who made the contribution on or before the due
+date (including extensions) for the federal income tax
+return of the designated beneficiary for the tax year in
+which the excess contribution or excess aggregate
+contribution was made.
+Rollovers and program-to-program transfers. For
+purposes of these instructions, a “rollover” means a
+contribution to an ABLE account of the designated
+beneficiary (or of an eligible individual who is a member of
+the family of the designated beneficiary) of all or a portion
+of an amount withdrawn from the designated beneficiary’s
+ABLE account, provided the contribution is made within
+60 days of the date of the withdrawal and, in the case of a
+rollover to the designated beneficiary’s ABLE account, no
+rollover has been made to an ABLE account of the
+designated beneficiary within the prior 12 months.
+A “program-to-program transfer” means the direct
+transfer of the entire balance of an ABLE account to an
+ABLE account of the same designated beneficiary in
+2
+
+Who Must File
+
+Any state or its agency or instrumentality that establishes
+and maintains a qualified ABLE program must file a Form
+1099-QA, Distributions From ABLE Accounts, with the IRS
+on or before February 28 of the following year for each
+ABLE account from which any distribution was made or
+which was terminated during the calendar year. The filing
+may be done by either an officer or employee of the state,
+its agency, or its instrumentality having control of the
+qualified ABLE program, or the officer’s or employee’s
+designee.
+Do not file Form 1099-QA for a change in the name of
+the designated beneficiary on an ABLE account if the new
+designated beneficiary is an eligible individual and a
+member of the family of the former designated beneficiary.
+For these purposes, a “member of the family” means a
+sibling, whether by blood or by adoption, and includes a
+brother, sister, stepbrother, stepsister, half-brother, or
+half-sister. If the new designated beneficiary is not an
+eligible individual for the tax year or is not a member of the
+family of the former beneficiary, the Form 1099-QA filed
+with respect to the former designated beneficiary should
+include in box 1 the fair market value (FMV) of the assets
+in the ABLE account on the date on which the change is
+made to the new designated beneficiary.
+Note. The due date of February 28 remains February 28
+even in leap years; the due date does not become
+February 29.
+
+Statements to Recipients
+
+If you are required to file Form 1099-QA, you must also
+furnish a statement to the designated beneficiary of the
+ABLE account reporting distributions, and to each
+contributor who received a returned contribution (plus
+earnings) attributable to the calendar year. Furnish a copy
+of Form 1099-QA or an acceptable substitute statement to
+each recipient, but only with regard to the amounts paid to
+that recipient. See part M in the current General
+Instructions for Certain Information Returns.
+Truncating recipient’s TIN on payee statements.
+Pursuant to Regulations section 301.6109-4, all filers of
+this form may truncate a recipient’s TIN (social security
+number (SSN), individual taxpayer identification number
+(ITIN), adoption taxpayer identification number (ATIN), or
+employer identification number (EIN)) on recipient
+statements. Truncation is not allowed on any documents
+the filer files with the IRS. A payer's TIN may not be
+truncated on any form. See part J in the current General
+Instructions for Certain Information Returns.
+
+Instructions for Forms 1099-QA and 5498-QA (2025)
+
+Payer's Name and TIN
+
+Enter the name, address, and TIN of the payer. For a
+program established and maintained by a state that uses
+the EIN of the state, enter the name of the state on the first
+name line and the name of the program on the second
+name line.
+
+Recipient's Name and TIN
+
+List the designated beneficiary as the recipient unless you
+are reporting a returned excess contribution to the
+contributor. In that case, list the contributor as the
+recipient. Enter the TIN of the applicable recipient.
+
+Account Number
+
+The IRS encourages you to designate an account number
+for all Forms 1099-QA that you file. See part L in the
+current General Instructions for Certain Information
+Returns.
+
+Box 1. Gross Distribution
+
+Enter the gross distribution from the ABLE account during
+the calendar year. The gross distribution includes
+amounts distributed that the designated beneficiary
+intends to roll over to another ABLE account, but does not
+include program-to-program transfers. See Rollovers and
+program-to-program transfers, earlier. On a Form
+1099-QA for a contributor, enter in box 1 the amount(s) of
+excess contributions returned plus earnings thereon.
+
+Box 2. Earnings
+
+To determine the earnings on the gross distribution
+reported in box 1, see Regulations section 1.529A-3(c).
+
+Box 3. Basis
+
+Enter the portion of the distribution that constitutes the
+return of investment in the account. The amount of the
+gross distribution minus the earnings portion of that
+distribution is the portion of the distribution that constitutes
+the return of investment in the account. This amount is
+computed by subtracting the amount in box 2 from the
+amount in box 1.
+
+Box 4. Program-to-Program Transfer Checkbox
+
+Check this box if a program-to-program transfer was made
+from this ABLE account to another ABLE account during
+the calendar year. See Rollovers and program-to-program
+transfers, earlier.
+
+Box 5. ABLE Account Terminated Checkbox
+
+Check the box if the ABLE account terminated during the
+calendar year.
+
+Box 6. Other Than Designated Beneficiary
+Checkbox
+
+Check this box if this form is being filed with respect to a
+distribution to, or for the benefit of, someone other than
+the designated beneficiary of the ABLE account, for
+example, a distribution of an excess contribution to the
+contributor.
+
+Specific Instructions for Form
+5498-QA
+Who Must File
+
+Any state, or its agency, or instrumentality that establishes
+and maintains a qualified ABLE program must file, for
+each ABLE account, a Form 5498-QA, ABLE Account
+Contribution Information, with the IRS on or before June 1,
+2026. The filing may be done by either an officer or
+employee of the state, its agency, or its instrumentality
+having control of the qualified ABLE program, or the
+officer’s or employee’s designee.
+
+Statements to Beneficiaries
+
+If you are required to file Form 5498-QA with the IRS, you
+must also furnish a statement to the designated
+beneficiary by March 15. However, if the filing due date
+falls on a Saturday, Sunday, or a legal holiday, you will be
+considered to have timely filed if you file by the next day
+that is not a Saturday, Sunday, or a legal holiday.
+Furnish a copy of Form 5498-QA or an acceptable
+substitute statement to each beneficiary. For more
+information, see part M in the 2025 General Instructions
+for Certain Information Returns.
+Truncating beneficiary’s TIN on payee statements.
+Pursuant to Regulations section 301.6109-4, all filers of
+this form may truncate a beneficiary’s TIN (social security
+number (SSN), individual taxpayer identification number
+(ITIN), adoption taxpayer identification number (ATIN), or
+employer identification number (EIN)) on payee
+statements. Truncation is not allowed on any documents
+the filer files with the IRS. An issuer's TIN may not be
+truncated on any form. See part J in the 2025 General
+Instructions for Certain Information Returns.
+
+Account Number
+
+The IRS encourages you to designate an account number
+for all Forms 5498-QA that you file. See part L in the 2025
+General Instructions for Certain Information Returns.
+
+Box 1. ABLE Contributions
+
+Enter the total amount of contributions made to the ABLE
+account in 2025. Include all cash contributions, section
+529 QTP to ABLE rollovers, and QTP to ABLE
+program-to-program transfers. Total contributions do not
+include any excess contributions returned by the due date
+of the designated beneficiary's 2025 return (including
+extensions). Do not include the amount of any rollover or
+program-to-program transfer. If no contributions were
+made in 2025, enter zero in this box.
+
+Box 2. ABLE to ABLE Rollovers
+
+Enter the amount of any rollover or program-to-program
+transfer to this ABLE account from another ABLE account
+in 2025. Do not include any contributions from a section
+529 program. See Rollovers and program-to-program
+transfers, earlier.
+
+Box 3. Cumulative Contributions
+
+You may, but are not required to, enter the amount of
+cumulative contributions to this ABLE account. This
+
+Instructions for Forms 1099-QA and 5498-QA (2025)
+
+3
+
+amount is the total of amounts contributed since the
+establishment of the ABLE account, including amounts
+contributed to an ABLE account for the same designated
+beneficiary that was rolled over, or directly transferred (in a
+program-to-program transfer), to the current ABLE
+account.
+
+Box 4. Fair Market Value
+
+Enter the FMV of the account as of December 31, 2025.
+
+Box 5. Account Opened Checkbox
+
+Check the box if the ABLE account was opened in 2025.
+
+Box 6. Basis of Eligibility
+
+!
+
+You must enter one code letter in box 6.
+
+CAUTION
+
+Report the basis of the designated beneficiary's
+eligibility using the codes below.
+• Code A—Eligibility established under section 529A(e)
+(1)(A), SSDI, Title II SSA.
+• Code B—Eligibility established under section 529A(e)
+(1)(A), SSI, Title XVI SSA.
+• Code C—Designated beneficiary is the subject of a
+disability certification filed with the IRS for 2025.
+
+Box 7. Type of Disability Code
+
+!
+
+Report only one primary code number for the type of
+disability for which the designated beneficiary is receiving
+ABLE qualifying benefits. If more than one code applies,
+select the most significant code.
+• Code 1—Developmental Disorders: Autistic Spectrum
+Disorder, Asperger’s Disorder, Developmental Delays and
+Learning Disabilities.
+• Code 2—Intellectual Disability: May be reported as
+mild, moderate, or severe intellectual disability.
+• Code 3—Psychiatric Disorders: Schizophrenia, Major
+depressive disorder, Post-traumatic stress disorder
+(PTSD), Anorexia nervosa, Attention deficit/hyperactivity
+disorder (AD/HD), Bipolar disorder.
+• Code 4—Nervous Disorders: Blindness, Deafness,
+Cerebral Palsy, Muscular Dystrophy, Spina Bifida,
+Juvenile-onset Huntington's disease, Multiple sclerosis,
+Severe sensorineural hearing loss, Congenital cataracts.
+• Code 5—Congenital Anomalies: Chromosomal
+abnormalities, including Down Syndrome, Osteogenesis
+imperfecta; Xeroderma pigmentosum; Spinal muscular
+atrophy; Fragile X syndrome; Edwards syndrome.
+• Code 6—Respiratory Disorders: Cystic Fibrosis.
+• Code 7—Other: Includes Tetralogy of Fallot,
+Hypoplastic left heart syndrome, End-stage liver disease,
+Juvenile-onset rheumatoid arthritis, Sickle cell disease,
+Hemophilia, and any other disability not listed under
+codes 1 through 6.
+
+The following information will only be used for
+aggregate reporting purposes as required by law.
+
+CAUTION
+
+4
+
+Instructions for Forms 1099-QA and 5498-QA (2025)
+
+

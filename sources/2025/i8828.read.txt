@@ -1,0 +1,556 @@
+Instructions for Form 8828
+(Rev. November 2024)
+
+Recapture of Federal Mortgage Subsidy
+
+General Instructions
+Section references are to the Internal
+Revenue Code unless otherwise noted.
+
+Purpose of Form
+
+Use this form to figure and report the
+recapture tax on the mortgage subsidy if
+you sold or otherwise disposed of your
+federally subsidized home.
+
+Federal Mortgage Subsidy
+You have a federal mortgage subsidy if
+you received either of the following
+benefits.
+• A mortgage loan (including a qualified
+rehabilitation loan) that had a lower
+interest rate than was usually charged
+because it was funded from a tax-exempt
+qualified mortgage bond (QMB) issue.
+• A mortgage credit certificate (MCC)
+with your mortgage loan that you could
+use to reduce your federal income taxes.
+
+You may also have a federal mortgage
+subsidy if, when you bought your home,
+either:
+1. You assumed the seller's obligation
+on a QMB-funded loan, provided that you
+were qualified to obtain a loan from the
+proceeds of a QMB, or
+2. The seller's MCC was transferred to
+you with the approval of the issuer and
+both the following apply:
+a. You met the eligibility requirements
+needed to get an MCC, and
+b. The issuer of the MCC issued you a
+replacement MCC.
+
+Recapture Tax
+
+If you sold or otherwise disposed of your
+home during the first 9 years after you
+received a federally subsidized QMB or
+MCC loan, you may have to pay back
+(recapture) all or part of the federal
+mortgage subsidy you received by
+increasing your federal income tax for the
+year in which you sold or disposed of your
+home. Refinancing of a federally
+subsidized loan without a sale or
+disposition of the home does not result in
+recapture, but a later sale or disposition
+after the refinancing may result in
+recapture.
+
+Who Must File
+
+You must file this form if all of the following
+apply. (For exceptions, see Special Rules
+later.)
+
+Aug 1, 2024
+
+• You sold or otherwise disposed of your
+home (whether or not you realized a gain).
+• Your original mortgage loan was
+provided after December 31, 1990.
+• You received a federal mortgage
+subsidy (see Federal Mortgage Subsidy
+earlier).
+
+When and Where To File
+
+Attach Form 8828 to your Form 1040,
+1040-SR, or 1040-NR for the tax year in
+which you sold or otherwise disposed of
+your home. File it with your tax return
+when it’s due (including extensions).
+
+Special Rules
+Giving away your home. If you gave
+away your home (other than to your
+spouse or ex-spouse incident to divorce),
+you must figure your recapture tax as if
+you had actually sold your home for its fair
+market value at the time of the disposition.
+Divorce. The transfer of an interest in the
+home by one spouse (or former spouse) to
+another does not result in recapture tax to
+either person (do not file this form) if:
+• It is incident to divorce, and
+• No gain or loss was included in or
+deducted from income on your return.
+See Pub. 504, Divorced or Separated
+Individuals, for situations where gain or
+loss is included in or deducted from
+income on the transfer incident to divorce.
+Destruction by casualty. If your home is
+destroyed by fire, storm, flood, or other
+casualty, there generally is no recapture
+tax if you replace the home (for use as
+your main home) on its original site. In
+general, the period for replacement is
+limited to 2 years after the end of the tax
+year when the destruction happened. If
+you do not replace the home in time, you
+must file Form 8828 with Form 1040X,
+Amended U.S. Individual Income Tax
+Return, for the year the home was
+destroyed.
+In certain circumstances, the
+replacement period may be extended if
+the home is located in a federally declared
+disaster area and is destroyed by reason
+of that disaster. For more information, see
+Pub. 547, Casualties, Disasters, and
+Thefts.
+Two or more owners. In general, if two
+or more persons own a home and are
+jointly liable for the federally subsidized
+mortgage loan, figure the actual recapture
+tax separately for each, based on the
+interest of each in the home.
+
+For example, Dwaine has a 75%
+ownership interest in a house and his
+daughter, Dara, has the remaining 25%
+ownership interest. Dwaine would figure
+his recapture tax based on his 75%
+ownership interest and Dara would figure
+her recapture tax separately based on her
+25% ownership interest.
+Qualified rehabilitation loan. A
+qualified rehabilitation loan (QRL) is a loan
+funded by a QMB for the rehabilitation of a
+home provided that:
+• There were at least 20 years between
+the date of the building's first use and the
+date rehabilitation began,
+• A certain percentage of the walls and
+framework was retained in place,
+• The rehabilitation costs amounted to 25
+percent or more of your adjusted basis in
+the building after the rehabilitation, and
+• You were the first occupant of the home
+after the rehabilitation was completed.
+If you sold or disposed of this
+rehabilitated building that was your home
+within 9 years after you received the QRL,
+you must recapture the federal mortgage
+subsidy. See section 143(k)(5) for details.
+Special rules may apply for certain
+residences destroyed in a federally
+declared disaster. See section 143(k)(13)
+for more details.
+Home improvement loan. There is
+no recapture of the federal mortgage
+subsidy if, instead of a QRL, you received
+a qualified home improvement loan (QHIL)
+funded by a QMB. A QHIL is limited to
+$15,000 and must be used for alterations,
+repairs, and improvements that protect or
+improve the basic livability or energy
+efficiency of your home. See section
+143(k)(4) for details.
+Qualifying subordinate mortgage loan
+(or grant). A qualifying subordinate
+mortgage loan (or grant) (QSML) is a loan
+that can be made in addition to any QMB
+or MCC federally subsidized financing. To
+receive a QSML, you must agree that if
+you sell your home within a 9-year period,
+you either sell according to certain terms
+or share any gain with the QSML
+governmental lender. See section 143(k)
+(10). If you had a QSML, see the line 13
+instructions.
+Refinancing your home. Proceeds from
+a QMB cannot be used to refinance a
+home mortgage. However, replacement of
+construction period, bridge, or similar
+temporary financing used when you first
+
+Instructions for Form 8828 (Rev. 11-2024) Catalog Number 14075L
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+purchased your home is not treated as
+refinancing.
+If, once you have received permanent
+financing from the proceeds of a QMB, the
+home is refinanced (with conventional
+financing), the federal subsidy on your
+original QMB loan is subject to recapture
+when you sell or dispose of your home
+within the 9-year recapture period. If you
+refinance within the first 4 years after the
+closing date of the original loan, you have
+to adjust your holding period percentage
+as if your loan was fully repaid on the date
+of the refinancing. See the Holding Period
+Percentage Worksheet later.
+Reissuance of an MCC. An MCC can
+be reissued in a refinancing if all of the
+following conditions are met.
+1. The issuer reissues an MCC to
+replace your existing MCC, which can be
+the original MCC, an MCC issued to a
+transferee under Regulations section
+1.25-3(p), or an MCC previously reissued
+under the refinancing provisions.
+2. The reissued MCC takes effect
+beginning with the date you refinanced
+your home (refinancing closing date).
+3. The reissued MCC:
+a. Applies to the same property as
+your existing MCC,
+b. Replaces entirely your existing
+MCC,
+c. Specifies a mortgage debt that
+does not exceed the outstanding debt
+balance on your existing MCC,
+d. Does not increase the certificate
+credit rate specified on the existing MCC,
+and
+e. Does not increase the allowable
+credit under your existing certificate for
+any tax year.
+Repayment of the loan. Your holding
+period percentage (line 20) may be
+reduced (see the line 20 instructions) if
+you:
+• Repay your loan in full or refinance
+other than with reissuance of an MCC (as
+described above) within the first 4 years
+after the closing date of your original loan,
+and
+• Sell or dispose of your home later
+during the 9-year recapture period.
+Other special rules may apply in certain
+cases. See section 143(m).
+
+Specific Instructions
+Note. If your home was financed with a
+federally subsidized loan, you should have
+received notification in writing from the
+bond issuer or the lender at the time your
+mortgage was provided. The notification
+should state that your home was financed
+with a mortgage loan from the proceeds of
+a tax-exempt bond or that you received a
+2
+
+mortgage credit certificate with your
+mortgage loan. The notification should
+include information needed to figure your
+recapture tax and it should advise you to
+keep it for your records.
+Name(s) and social security number.
+The name(s) and social security number
+on Form 8828 should be the same as
+those shown on your tax return.
+
+Part I—Description of
+Home Subject to Federally
+Subsidized Debt
+Line 1. List the address of the property
+that was subject to the federally
+subsidized debt, not your current address
+as shown on your tax return (if different).
+Line 2. Check the applicable box on
+line 2 from the information on the
+notification given to you at the time you
+took out the loan.
+Line 3. Fill in the requested information
+from the notification discussed above. If
+you have a problem identifying the issuer,
+contact your lender and ask for the
+information.
+Line 4. Fill in the name and address of
+the bank or other lender that provided your
+original mortgage.
+Line 5. Fill in the month, day, and year
+that your original federally subsidized
+mortgage loan was provided. This
+generally is the date of settlement on your
+home. However, if the loan became
+federally subsidized debt at a later date,
+use that date instead.
+Line 6. Fill in the applicable month, day,
+and year. The settlement or closing date
+generally is the date of sale. However,
+Form 8828 also applies to certain other
+dispositions of your home. For instance,
+the date to enter on line 6 may be the date
+you deeded the property to a relative (see
+Giving away your home under Special
+Rules earlier).
+Line 8. Enter the date the original
+federally subsidized loan was fully repaid.
+(This may be the same as the date of sale
+or other disposition on line 6.) A
+refinanced QMB loan is fully repaid on the
+date of its refinancing (with conventional
+financing). However, a refinanced MCC
+loan that met all the conditions specified
+earlier under Refinancing your home is
+considered an extension of the original
+MCC loan. Do not enter the refinancing
+date for such an MCC on line 8. See
+Refinancing your home and the
+instructions for line 20.
+
+Part II—Computation of
+Recapture Tax
+
+Note. You must report all required
+information for your interest in the home.
+
+This may be less than 100% if someone
+else also has an interest in the home (see
+Special Rules earlier).
+Line 9. This item applies to both sales
+and other dispositions (see Giving away
+your home under Special Rules earlier). If
+your home was disposed of other than by
+sale, the sales price is the fair market
+value of the home at the time of the
+disposition. You should report only the part
+of the sales price representing your
+interest in the home (see Two or more
+owners and Qualifying subordinate
+mortgage loan (or grant) under Special
+Rules earlier).
+Line 10. Include sales commissions,
+advertising, legal fees, etc., allocable to
+your interest in the home.
+Line 12. In general, the adjusted basis of
+your interest in the home is your share of
+the cost of the property plus purchase
+commissions and improvements, minus
+depreciation. Do not reduce the adjusted
+basis for any gain that you did not
+recognize on the sale of a previous home.
+If you received your home, or interest in
+a home, incident to a divorce, your
+adjusted basis is generally the same as
+that of your spouse (or former spouse).
+For details on how to determine your
+adjusted basis, get Pub. 551, Basis of
+Assets.
+Line 13. Enter “QSML” on the dotted line
+to the left of the line 13 entry space if you
+sold your home at a gain within the 9-year
+recapture period and paid a share of that
+gain to the QSML governmental lender. In
+the amount column for line 13, enter your
+share of the gain. Attach a worksheet to
+your Form 8828 to explain how you
+calculated your share of the gain. Show
+the date you paid the QSML governmental
+lender its share of the gain and the amount
+of that share. See Qualifying subordinate
+mortgage loan (or grant) earlier.
+Line 15. Figure your modified adjusted
+gross income as follows:
+• Begin with: Your adjusted gross
+income as shown on line 11 of your Form
+1040, 1040-SR or 1040-NR.
+• Add: Any tax-exempt interest that you
+received or accrued for the tax year.
+• Subtract: Any gain included in your
+gross income because of the disposition
+of your home.
+Line 16. If your home was financed with a
+federally subsidized loan, you should have
+received notification in writing from the
+bond issuer or the lender at the time your
+mortgage was provided. The notification
+contains a table which lists adjusted
+qualifying income figures. Your adjusted
+qualifying income is found in the column of
+the table that corresponds to your family
+size (number of family members living with
+you at the time of the sale) on the line that
+Instructions for Form 8828 (Rev. 11-2024)
+
+Keep for Your Records
+
+Holding Period Percentage Worksheet
+
+Worksheet for figuring the holding period percentage if you fully repaid the original federally subsidized loan:
+(1) before the date of sale or disposition of your home, and
+(2) within the first 4 years after the closing date of the original loan.
+(Do not use this worksheet if lines 6 and 8 of Form 8828 are the same date.)
+A.
+
+Closing date of original loan. Enter the date from Form 8828, line 5
+
+...............................
+
+A.
+
+B.
+
+Repayment date. Enter the date from Form 8828, line 8
+
+......................................
+
+B.
+
+Month/Day/Year
+If the repayment date on line B is more than 4 years after the closing date on line A, do not use this
+worksheet.
+C.
+
+Enter the number of years between the dates on lines A and B. Round up to the nearest whole year . . . . . . . . . .
+
+D.
+
+If the number of years on line C is:
+
+Month/Day/Year
+C.
+Years
+
+Enter this percentage:
+
+1.
+
+...........................................
+
+20%
+
+2.
+
+...........................................
+
+40%
+
+3.
+
+...........................................
+
+60%
+
+4.
+
+...........................................
+
+80%
+
+D.
+
+E.
+
+Sale date. Enter the date from Form 8828, line 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+F.
+
+Enter the number of years between the dates entered on lines B and E. Round up to the nearest whole
+year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+G.
+
+If the number of years on line F is:
+
+%
+
+E.
+Month/Day/Year
+F.
+Years
+
+1
+
+...........................................
+
+100%
+
+2
+
+...........................................
+
+80%
+
+3
+
+...........................................
+
+60%
+
+4
+
+...........................................
+
+40%
+
+5
+
+...........................................
+
+20%
+
+6 or more
+H.
+
+Enter this percentage:
+
+.....................................
+
+G.
+
+%
+
+Multiply the percentage on line D by the percentage on line G. Round to the nearest whole percentage. This
+is your adjusted holding period percentage to enter on line 20 of Form 8828. If this percentage is zero, you will
+have no recapture, but you still must complete and file Form 8828 . . . . . . . . . . . . . . . . . . . . . . . . . . . . H.
+
+%
+
+corresponds to the number of full and
+partial years that you held your home.
+Line 19. The federally subsidized amount
+should be found on the notification you
+received from the bond issuer or from your
+lender. It is equal to 6.25% of the highest
+amount of the loan that was federally
+subsidized. Enter the figure on line 19.
+
+Instructions for Form 8828 (Rev. 11-2024)
+
+0%
+
+Line 20. You will find your holding period
+percentage on the same line of the table
+from which you obtained your adjusted
+qualifying income (see line 16
+instructions). However, if you fully repaid
+the federally subsidized loan within 4
+
+years of the closing date of the loan, and
+before selling or otherwise disposing of
+your home, you will need to use the
+Holding Period Percentage Worksheet to
+redetermine your holding period
+percentage for line 20.
+
+3
+
+

@@ -1,0 +1,116 @@
+{
+  "form": {
+    "id": "form-8801",
+    "form": "Form 8801",
+    "title": "Credit for Prior Year Minimum Tax\u2014Individuals, Estates, and Trusts",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8801--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8801",
+    "notes": "refundable: false. Line 25 goes to Schedule 3 Part I line 6b. In force for 2025, unchanged by P.L. 119-21. It refunds prior-year alternative minimum tax paid on DEFERRAL items only \u2014 it is not a credit for any expenditure made this year, and Part I exists purely to strip out the exclusion items that never generate a credit. The refundable version of this credit that existed for 2007 through 2012 under section 53(e) is long gone; this is wholly nonrefundable. Unused amounts carry forward indefinitely at line 26. Printed revision: Form 8801 (2025), Created 11/12/25.",
+    "lines": [
+      {
+        "line": "3",
+        "caption": "Minimum tax credit net operating loss deduction (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Combine lines 1, 2, and 3. If zero or less, enter -0- here and on line 15 and go to Part II. If more than $818,000 and you were married filing separately for 2024, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Subtract line 9 from line 4. If zero or less, enter -0- here and on line 15 and go to Part II. Form 1040 and 1040-SR filers, if for 2024 you reported capital gain distributions directly on Form 1040 or 1040-SR, line 7a; you reported qualified dividends on Form 1040 or 1040-SR, line 3a; or you had a gain on both lines 15 and 16 of Schedule D (Form 1040) (as refigured for the AMT, if necessary), complete Part III of Form 8801 and enter the amount from line 55 here",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Multiply line 10 by 26% (0.26). If line 10 is more than the amount shown on the line 11 instructions, see instructions. \u2022 If for 2024 you filed Form 2555, see instructions for the amount to enter.",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Minimum tax foreign tax credit on exclusion items (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Tentative minimum tax on exclusion items. Subtract line 12 from line 11",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Enter the amount from your 2024 Form 6251, line 10, or 2024 Schedule I (Form 1041), line 53",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Net minimum tax on exclusion items. Subtract line 14 from line 13. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Enter the amount from your 2024 Form 6251, line 11, or 2024 Schedule I (Form 1041), line 54",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Enter the amount from line 15",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "Subtract line 17 from line 16. If less than zero, enter as a negative amount",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "2024 credit carryforward. Enter the amount from your 2024 Form 8801, line 26",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Enter your 2024 unallowed qualified electric vehicle credit (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "21",
+        "caption": "Combine lines 18 through 20. If zero or less, stop here and see the instructions",
+        "type": "money"
+      },
+      {
+        "line": "22",
+        "caption": "Enter your 2025 regular income tax liability minus allowable credits (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "23",
+        "caption": "Enter the amount from your 2025 Form 6251, line 9, or 2025 Schedule I (Form 1041), line 52",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Subtract line 23 from line 22. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Minimum tax credit. Enter the smaller of line 21 or line 24. Also enter this amount on your 2025 Schedule 3 (Form 1040), line 6b; or Form 1041, Schedule G, line 2c",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "26",
+        "caption": "Credit carryforward to 2026. Subtract line 25 from line 21. Keep a record of this amount because you may use it in future years",
+        "type": "money"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "2",
+        "because": "a page number in the page header (\"Page 2\"), not a line"
+      }
+    ]
+  }
+}

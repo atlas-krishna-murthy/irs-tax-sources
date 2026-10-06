@@ -1,0 +1,31 @@
+{
+  "form": {
+    "id": "ws-unrecaptured-1250",
+    "form": "Unrecaptured Section 1250 Gain Worksheet",
+    "title": "Unrecaptured Section 1250 Gain Worksheet\u2014Line 19",
+    "kind": "worksheet",
+    "revision": "2025",
+    "revision_printed_as": "Unrecaptured Section 1250 Gain Worksheet (2025)",
+    "source_url": "https://www.irs.gov/instructions/i1040sd",
+    "instructions_url": "https://www.irs.gov/instructions/i1040sd",
+    "lines": [
+      {
+        "line": "5",
+        "caption": "Enter the total of any amounts reported to you on a Schedule K-1 from a partnership or an S corporation as \u201cunrecaptured section 1250 gain\u201d",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Enter the total of any amounts reported to you as \u201cunrecaptured section 1250 gain\u201d on a Schedule K-1, Form 1099-DIV, or Form 2439 from an estate, a trust, a real estate investment trust, or a mutual fund (or other regulated investment company) or in connection with a Form 1099-R",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "Unrecaptured section 1250 gain. Subtract line 17 from line 13. If zero or less, enter -0-. If more than zero, enter the result here and on Schedule D, line 19",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "notes": "PARTIAL DECLARATION \u2014 only the lines this part routes into and out of. THE K-1 SPLIT IS REAL AND EASY TO GET WRONG: line 5 takes unrecaptured section 1250 gain from a PARTNERSHIP or S CORPORATION K-1, line 11 takes it from an ESTATE or TRUST K-1 (and from Form 1099-DIV box 2b, Form 2439 box 1b, and a Form 1099-R). The Schedule K-1 (Form 1041) corroborates line 11 on its own face. A WORKSHEET, NOT A FILED FORM: it isolates the part of a long-term gain attributable to depreciation already taken on section 1250 property, so it can be taxed at up to 25%. Its result reaches Schedule D LINE 19, which is NOT part of line 16."
+  }
+}

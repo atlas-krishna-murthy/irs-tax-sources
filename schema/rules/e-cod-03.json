@@ -1,0 +1,31 @@
+{
+  "rule": {
+    "id": "e-cod-03",
+    "title": "A nonrecourse debt canceled in a foreclosure or abandonment is not canceled-debt income",
+    "class": "document",
+    "years": [2025],
+    "operator": "exclude_when",
+    "acts_on": {"boxes": ["1099-C.2"]},
+    "inputs": [
+      {"kind": "box", "ref": "1099-C.5"},
+      {"kind": "box", "ref": "1099-C.7"}
+    ],
+    "params": {
+      "when": {
+        "all": [
+          {"box": "1099-C.5", "in": ["FALSE"]},
+          {"box": "1099-C.7", "present": true}
+        ]
+      }
+    },
+    "when_missing": {"behaviour": "pending"},
+    "order": {"after": [], "before": []},
+    "citation": {
+      "form": "Pub. 4681",
+      "line": "Sales or Other Dispositions (Such as Foreclosures and Repossessions) — Nonrecourse debt",
+      "revision": "2025",
+      "wording": "If you owned property that was subject to a nonrecourse debt in excess of the FMV of the property, the lender’s foreclosure on the property doesn’t result in ordinary income from the cancellation of debt.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p4681--2025.pdf"
+    }
+  }
+}

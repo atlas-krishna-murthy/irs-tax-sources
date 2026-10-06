@@ -1,0 +1,1529 @@
+2025
+
+Instructions for Schedule D
+(Form 1041)
+Capital Gains and Losses
+Section references are to the Internal Revenue Code unless
+otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to
+Schedule D and its instructions, such as legislation enacted
+after they were published, go to IRS.gov/Form1041.
+
+What's New
+New codes to use for reporting digital asset transactions. Codes G, H, I, J, K, and L were added to lines 1b, 2,
+3, 8b, 9, and 10 to represent the reporting of digital asset
+transactions. See Form 1099-DA, Digital Asset Proceeds
+from Broker Transactions, and Form 8949, Sales and Other
+Dispositions of Capital Assets, and their instructions for
+additional information regarding digital assets.
+Capital gains and qualified dividends. For tax year 2025,
+the 20% maximum capital gain rate applies to estates and
+trusts with income above $15,900. The 0% and 15% rates
+continue to apply to certain threshold amounts. The 0% rate
+applies up to $3,250. The 15% rate applies to amounts over
+$3,250 and up to $15,900.
+
+Reminders
+
+1041) and Form 8949 that are part of the return must also be
+e-filed.
+
+General Instructions
+Any reference in these instructions to “you” means the
+fiduciary of the estate or trust.
+
+Purpose of Schedule
+
+These instructions explain how to complete Schedule D
+(Form 1041). Complete Form 8949 before you complete
+line 1b, 2, 3, 8b, 9, or 10 of Schedule D.
+Use Schedule D to report the following.
+
+• The overall capital gains and losses from transactions
+reported on Form 8949.
+
+• Certain transactions that the estate or trust doesn't have
+to report on Form 8949.
+
+• Gain from Part I of Form 4797, Sales of Business
+Property.
+
+• Capital gain or loss from Form 4684, Casualties and
+Thefts.
+
+• Capital gain from Form 6252, Installment Sale Income.
+• Capital gain or loss from Form 6781, Gains and Losses
+From Section 1256 Contracts and Straddles.
+
+• Capital gain or loss from Form 8824, Like-Kind
+
+Deferral of gain invested in a qualified opportunity fund
+(QOF). If you made a deferral election in a QOF that meets
+the 5 or 7-year holding period threshold, you may be eligible
+for a basis adjustment. See Form 8997 and its instructions for
+additional information regarding QOFs.
+
+• Undistributed long-term capital gains from Form 2439,
+
+Disposal of qualified opportunity fund (QOF) investment. If you disposed of any investment in a QOF during the
+tax year, you will need to check the box on Schedule D and
+attach Form 8949, Sales and Other Dispositions of Capital
+Assets. You will also need to report the disposal on Form
+8997, Initial and Annual Statement of Qualified Opportunity
+Fund (QOF) Investments. See the Instructions for Form 8949
+and the Instructions for Form 8997 for additional reporting
+requirements.
+
+For more information, see Pub. 544, Sales and Other
+Dispositions of Assets; Pub. 551, Basis of Assets; and the
+Instructions for Form 8949.
+
+Form 8971. Form 8971, Information Regarding Beneficiaries
+Acquiring Property From a Decedent, and copies of its
+Schedules A provide information to the IRS about
+beneficiaries who acquired property from a decedent.
+Schedule A provides basis information to beneficiaries who
+acquire certain property from the decedent.
+For more information, see Consistent basis reporting
+between estate and person acquiring property from a
+decedent, later.
+Form 1041 e-filing. When e-filing Form 1041, U.S. Income
+Tax Return for Estates and Trusts, use either Form 8453-FE,
+U.S. Estate or Trust Declaration for an IRS e-file Return, or
+Form 8879-F, IRS e-file Signature Authorization for Form
+1041. If Form 1041 is e-filed, then any Schedule D (Form
+Aug 19, 2025
+
+Exchanges.
+
+Notice to Shareholders of Undistributed Long-Term
+Capital Gains.
+• Capital gain or loss from partnerships, S corporations, or
+other estates or trusts.
+• A capital loss carryover from 2024 to 2025.
+
+Other Forms You May Have To File
+Form 8949. Use Form 8949 to report the sale or exchange
+of a capital asset (defined later) not reported on another form
+or schedule. See Lines 1a and 8a, later, for more information
+about when Form 8949 is and isn't needed.
+Form 4797. Use Form 4797 to report the following.
+1. The sale or exchange of:
+a. Real property used in a trade or business;
+b. Depreciable and amortizable tangible property used
+in a trade or business (but see Disposition of
+Depreciable Property Not Used in Trade or Business
+in the Instructions for Form 4797);
+c. Oil, gas, geothermal, or other mineral property; and
+d. Section 126 property.
+
+Instructions for Schedule D (Form 1041) (2025) Catalog Number 11378R
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+2. The involuntary conversion (other than from casualty or
+theft) of property used in a trade or business and capital
+assets held more than 1 year for business or profit. But
+see Disposition of Depreciable Property Not Used in
+Trade or Business in the Instructions for Form 4797.
+3. The disposition of noncapital assets other than inventory
+or property held primarily for sale to customers in the
+ordinary course of a trade or business.
+4. Ordinary loss on the sale, exchange, or worthlessness of
+small business investment company (section 1242)
+stock.
+5. Ordinary loss on the sale, exchange, or worthlessness of
+small business (section 1244) stock.
+6. Election to defer a qualified section 1231 gain invested in
+a Qualified Opportunity Fund (QOF).
+Form 4684. Use Form 4684 to report involuntary
+conversions of property due to casualty or theft.
+Form 6781. Use Form 6781 to report gains and losses from
+section 1256 contracts and straddles.
+Form 8824. Use Form 8824 if the estate or trust made one
+or more like-kind exchanges. A like-kind exchange occurs
+when the estate or trust exchanges business or investment
+real property for real property of a like kind.
+Form 8971. Use Form 8971 (including Schedule(s) A) to
+report basis between an estate and a person acquiring
+property from a decedent.
+
+Special Rules for Determining Basis of Estate
+and Trust Property
+Basis of trust property. Generally, the basis of property
+acquired by gift is the same as its basis in the hands of the
+donor. However, if the fair market value (FMV) of the property
+at the time it was transferred to the trust is less than the
+transferor's basis, then the FMV is used to determine any
+loss upon disposition.
+If the property was transferred to the trust after 1976, and
+a gift tax was paid under Chapter 12, then increase the
+donor's basis as follows:
+Multiply the amount of the gift tax paid by a fraction, the
+numerator of which is the net appreciation in value of the gift
+(defined below), and the denominator of which is the amount
+of the gift. For this purpose, the net appreciation in value of
+the gift is the amount by which the FMV of the gift exceeds
+the donor's adjusted basis.
+Basis of decedent's estate property. Generally, the basis
+of property acquired by a decedent's estate is the FMV of the
+property at the date of the decedent's death, or the alternate
+valuation date if the executor elected to use an alternate
+valuation under section 2032.
+See Pub. 551 and the Instructions for Form 706, United
+States Estate (and Generation-Skipping Transfer) Tax Return,
+for a discussion of the valuation of qualified real property
+under section 2032A.
+Consistent basis reporting between estate and person
+acquiring property from a decedent. An executor of an
+estate (or other person) required to file an estate tax return
+after July 31, 2015, is required to file Form 8971 and furnish
+Schedules A to certain beneficiaries. More than one person
+may be required to file a Form 8971 for the same decedent's
+estate. The Schedule A must show the final estate tax value
+2
+
+of the property received or to be received by the beneficiary.
+An executor (or other person) who files an estate tax return
+only to make an election regarding the generation-skipping
+transfer tax or portability of the deceased spousal unused
+exclusion (DSUE) is not required to provide Form 8971 and
+Schedule A.
+If Part II, column f, of the Schedule A, received by the
+beneficiary indicates that the property increases the estate
+tax liability, the beneficiary must use a basis consistent with
+the final estate tax value of the property to determine the
+beneficiary’s basis in that property. Calculate a basis
+consistent with the final estate tax value by starting with the
+reported value and then making any allowed adjustments.
+For more information, see sections 1014(f), 6035, the
+Instructions for Form 8971 and Schedule A and Column
+(e)—Cost or Other Basis in the Instructions for Form 8949.
+Basis of property acquired from a decedent who died in
+2010. See Pub. 4895, Tax Treatment of Property Acquired
+From a Decedent Dying in 2010 for details about determining
+the basis of property acquired from a decedent who died in
+2010.
+Basis of assets held on January 1, 2001, where an election to recognize gain was made. If you elected on behalf
+of an estate or trust to recognize gain on an asset held on
+January 1, 2001, the basis in the asset is its closing market
+price or FMV, whichever applies, on the date of the deemed
+sale and reacquisition, whether the deemed sale resulted in a
+gain or an unallowed loss.
+Carryover basis. Carryover basis determined under
+repealed section 1023 applies to property acquired from a
+decedent who died after December 31, 1976, and before
+November 7, 1978, only if the executor made a timely filed
+election on Form 5970-A, Election of Carryover Basis.
+Property received from an Alaska Native Corporation.
+The basis of property received by an Alaska Native
+Settlement Trust from an Alaska Native Corporation is the
+lesser of the basis of the Native Corporation in the property or
+the FMV immediately before the contribution of the property
+to the trust. The basis and FMV of the property are shown on
+the statement provided by the Native Corporation to the
+Settlement Trust.
+
+Capital Asset
+
+Each item of property held by the estate or trust (whether or
+not connected with a trade or business) is a capital asset,
+except the following.
+• Stock in trade, inventory, or property held primarily for
+sale to customers.
+• Depreciable or real property used in a trade or business,
+even if it's fully depreciated.
+• Certain patents, inventions, models, or designs (whether
+or not patented); secret formulas or processes; or similar
+property. See section 1221(a)(3).
+• Copyrights; literary, musical, or artistic compositions;
+letters or memoranda; or similar property eligible for
+copyright protection that the trust received from someone
+whose personal efforts created them or for whom they
+were created in a way (such as by gift) that entitled the
+trust to the basis of the previous owner. In the case of
+letters, memoranda, or similar property, such property
+may also be prepared or produced for the trust.
+Note. Under section 1221(b)(3), the trust can elect to
+treat musical compositions and copyrights in musical
+works as capital assets if it acquired the assets under
+2025 Instructions for Schedule D (Form 1041)
+
+circumstances entitling it to the basis of the person who
+created the property or for whom it was prepared or
+produced.
+• Accounts or notes receivable acquired in the ordinary
+course of a trade or business for services rendered or
+from the sale of inventoriable assets or property held
+primarily for sale to customers.
+• Certain U.S. Government publications not purchased at
+the public sale price.
+• Certain “commodities derivative financial instruments”
+held by a dealer (see section 1221(a)(6)).
+• Certain hedging transactions entered into in the normal
+course of a trade or business (see section 1221(a)(7)).
+• Supplies regularly used in a trade or business.
+
+Short-Term or Long-Term
+
+Separate the capital gains and losses according to how long
+the estate or trust held or owned the property. The holding
+period for short-term capital gains and losses is generally 1
+year or less. The holding period for long-term capital gains
+and losses is generally more than 1 year. Property acquired
+from a decedent is treated as held for more than 1 year.
+To figure the length of the period the estate or trust held
+property, begin counting on the day after the estate or trust
+acquired the property and include the day it was disposed.
+Use the trade dates for the dates of acquisition and sale of
+stocks and bonds traded on an exchange or over-the-counter
+market.
+The holding period for property received by an Alaska
+Native Settlement Trust from an Alaska Native Corporation
+includes the period the Native Corporation held the property.
+The date the Native Corporation acquired the property is
+shown on the statement provided by the Native Corporation
+to the Settlement Trust.
+Beginning in 2018, the long-term holding period for certain
+gains with respect to “applicable partnership interests” is
+more than 3 years. See Pub. 541, Partnerships, for more
+information.
+For more information about holding periods, see the
+Instructions for Form 8949.
+
+Section 643(e)(3) Election
+
+For in-kind noncash property distributions, a fiduciary may
+elect to have the estate or trust recognize gain or loss in the
+same manner as if the distributed property had been sold to
+the beneficiary at its FMV. The distribution deduction is the
+property's FMV. This election applies to all distributions made
+by the estate or trust during the tax year. Once the election is
+made, it may only be revoked with IRS consent.
+Note. Section 267 doesn't allow a trust or a decedent's
+estate to claim a deduction for any loss on property to which
+a section 643(e)(3) election applies. In addition, when a trust
+or a decedent's estate distributes depreciable property,
+section 1239 applies to deny capital gains treatment for any
+gain on property to which a section 643(e)(3) election
+applies.
+
+Related Persons
+
+A trust can't deduct a loss from the sale or exchange of
+property directly or indirectly between any of the following.
+• A grantor and a fiduciary of a trust;
+• A fiduciary of a trust and a fiduciary (or beneficiary) of
+another trust created by the same grantor;
+
+2025 Instructions for Schedule D (Form 1041)
+
+• A fiduciary and a beneficiary of the same trust;
+• A trust fiduciary and a corporation of which more than
+
+50% in value of the outstanding stock is owned directly or
+indirectly by or for the trust or by or for the grantor of the
+trust; or
+• An executor of an estate and a beneficiary of that estate,
+except when the sale or exchange is to satisfy a
+pecuniary bequest (that is, a bequest of a sum of
+money).
+
+Items for Special Treatment
+• Bonds and other debt instruments. See Pub. 550,
+
+Investment Income and Expenses (Including Capital
+Gains and Losses).
+• Gain on the disposition of a market discount bond. In
+general, the gain is recharacterized as interest income to
+the extent of accrued market discount as of the date of
+disposition. See sections 1276 through 1278 and Pub.
+550 for more information on market discount. See the
+Instructions for Form 8949 for detailed information about
+how to report the disposition of a market discount bond.
+• Gain or loss recognized on the disposition of a
+contingent payment debt instrument subject to the
+noncontingent bond method. The gain is generally
+treated as interest income rather than as capital gain. In
+certain situations, all or a portion of a loss recognized on
+the disposition of a contingent payment debt instrument
+subject to the noncontingent bond method may be
+treated as an ordinary loss rather than as a capital loss.
+See Regulations section 1.1275-4(b) and Pub. 550 for
+more information on contingent payment debt
+instruments subject to the noncontingent bond method.
+• A nonbusiness bad debt must be treated as a short-term
+capital loss and can be deducted only in the year the
+debt becomes totally worthless. See Pub. 550 for details.
+• Wash sales of stock or securities (including contracts or
+options to acquire or sell stock or securities) (section
+1091).
+• Gain or loss on options to buy or sell. See Pub. 550.
+• Certain real estate subdivided for sale that may be
+considered a capital asset (section 1237).
+• Gain on disposition of stock in a domestic international
+sales corporation (DISC) or former DISC (section 995(c);
+see also section 996(g)).
+• Gain on the sale or exchange of stock in certain foreign
+corporations (section 1248).
+• Sales of stock received under a qualified public utility
+dividend reinvestment plan. See Pub. 550 for details.
+• Transfer of appreciated property to a political
+organization (section 84).
+• Amounts received by shareholders in corporate
+liquidations. See Pub. 550.
+• Cash received in lieu of fractional shares of stock as a
+result of a stock split or stock dividend. See Pub. 550.
+• Load charges to acquire stock in a regulated investment
+company (including a mutual fund), which may not be
+taken into account in determining gain or loss on certain
+dispositions of the stock if reinvestment rights were
+exercised. See Pub. 550.
+• The sale or exchange of S corporation stock or an
+interest in a trust held for more than 1 year, which may
+result in collectibles gain (28% rate gain). See the
+instructions for line 18c, later.
+• The sale or other disposition of a partnership interest
+may result in ordinary income, collectibles gain, or
+unrecaptured section 1250 gain.
+3
+
+• Gain or loss on the disposition of securities futures
+
+contracts. See Pub. 550.
+• Gains from certain constructive ownership transactions.
+Gain in excess of the gain the estate or trust would have
+recognized if the estate or trust held a financial asset
+directly during the term of a derivative contract must be
+treated as ordinary income. See section 1260 for details.
+• If qualified dividends include extraordinary dividends, any
+loss on the sale or exchange of the stock is a long-term
+capital loss to the extent of the extraordinary dividends.
+An extraordinary dividend is a dividend that is at least
+10% (5% in the case of preferred stock) of the basis in
+the stock.
+• Gain or loss from a sale, exchange, or other disposition
+of virtual currency if held as a capital asset. For more
+information, go to IRS.gov/VirtualCurrencyFAQs.
+• NAV method for money market funds. Report capital gain
+or loss determined under the net asset value (NAV)
+method with respect to shares in a money market fund on
+Form 8949, Part I, with box C or box I checked. Enter the
+name of each fund followed by “(NAV)” in column (a).
+Enter the net gain or loss in column (h). Leave all other
+columns blank. See the Instructions for Form 8949.
+
+Constructive Sales Treatment for Certain
+Appreciated Positions
+
+Generally, the estate or trust must recognize gain (but not
+loss) on the date it enters into a constructive sale of any
+appreciated position in stock, a partnership interest, or
+certain debt instruments as if the position were disposed of at
+FMV on that date.
+The estate or trust is treated as making a constructive sale
+of an appreciated position when it (or a related person, in
+some cases) does one of the following.
+• Enters into a short sale of the same or substantially
+identical property (that is, a “short sale against the box”);
+• Enters into an offsetting notional principal contract
+relating to the same or substantially identical property;
+• Enters into a futures or forward contract to deliver the
+same or substantially identical property; or
+• Acquires the same or substantially identical property (if
+the appreciated position is a short sale, offsetting
+notional principal contract, or a futures or forward
+contract).
+
+Exception. Generally, constructive sale treatment doesn't
+apply if:
+• The estate or trust closed the transaction before the end
+of the 30th day after the end of the year in which it was
+entered into,
+• The estate or trust held the appreciated position to which
+the transaction relates throughout the 60-day period
+starting on the date the transaction was closed, and
+• At no time during that 60-day period was the estate's or
+trust's risk of loss reduced by holding certain other
+positions.
+For details and other exceptions to these rules, see Pub.
+550.
+
+Exclusion of Gain on Qualified Small Business
+(QSB) Stock (Section 1202)
+
+Section 1202 allows you to exclude a portion of the eligible
+gain on the sale or exchange of QSB stock held for more than
+5 years. You can exclude up to 50% of the qualified gain if
+you acquired the QSB stock on or before February 17, 2009.
+4
+
+You can exclude up to 60% of the qualified gain on certain
+empowerment zone business stock for gain attributable to
+periods on or before December 31, 2018. The 60% exclusion
+doesn't apply to gain attributable to periods after December
+31, 2018. See Empowerment zone business stock, later. The
+exclusion is increased to 75% on the sale or exchange of
+QSB stock acquired after February 17, 2009, and before
+September 28, 2010. The exclusion is increased to 100% on
+the sale of QSB stock acquired after September 27, 2010.
+To be QSB stock, the stock must meet all of the following
+tests.
+1. It must be stock in a C corporation (that is, not S
+corporation stock).
+2. It must have been originally issued after August 10,
+1993.
+3. As of the date the stock was issued, the corporation was
+a QSB. A QSB is a domestic C corporation with total
+gross assets of $50 million or less (a) at all times after
+August 9, 1993, and before the stock was issued, and (b)
+immediately after the stock was issued. Gross assets
+include those of any predecessor of the corporation. All
+corporations that are members of the same
+parent-subsidiary controlled group are treated as one
+corporation.
+4. The estate or trust acquired the stock at its original issue
+(either directly or through an underwriter), either in
+exchange for money or other property or as pay for
+services (other than as an underwriter) to the
+corporation. In certain cases, the estate or trust may
+meet the test if it acquired the stock from another person
+who met this test (such as by gift or inheritance) or
+through a conversion or exchange of QSB stock the
+estate or trust held.
+5. During substantially all the time the estate or trust held
+the stock:
+a. The corporation was a C corporation;
+b. At least 80% of the value of the corporation's assets
+was used in the active conduct of one or more
+qualified businesses (defined below); and
+c. The corporation wasn't a foreign corporation, DISC,
+former DISC, corporation that has made (or that has
+a subsidiary that has made) a section 936 election,
+regulated investment company, real estate
+investment trust, real estate mortgage investment
+conduit, financial asset securitization investment
+trust, or cooperative.
+Note. A specialized small business investment company
+(SSBIC) is treated as having met test 5b above.
+Qualified business. A qualified business is any business
+other than the following.
+• One involving services performed in the fields of health,
+law, engineering, architecture, accounting, actuarial
+science, performing arts, consulting, athletics, financial
+services, or brokerage services;
+• One whose principal asset is the reputation or skill of one
+or more employees;
+• Any banking, insurance, financing, leasing, investing, or
+similar business;
+• Any farming business (including the raising or harvesting
+of trees);
+2025 Instructions for Schedule D (Form 1041)
+
+• Any business involving the production of products for
+
+which percentage depletion can be claimed; or
+• Any business of operating a hotel, motel, restaurant, or
+similar business.
+
+For more details about limits and additional requirements
+that may apply, see Pub. 550 or section 1202.
+Acquisition date of stock acquired after February 17,
+2009. When determining whether the exclusion is limited to
+50%, 75%, or 100% of the gain from the QSB stock, the
+acquisition date is considered to be the first day the stock is
+held (determined after applying the holding period rules in
+section 1223).
+Empowerment zone business stock. Generally, the estate
+or trust can exclude up to 60% of its gain on certain QSB
+stock if it meets the following additional requirements.
+1. The stock sold or exchanged was stock in a corporation
+that qualified as an empowerment zone business during
+substantially all of the time the estate or trust held the
+stock.
+2. The estate or trust acquired the stock after December
+21, 2000, and before February 18, 2009.
+3. The gain from the sale or exchange of the stock is
+attributable to periods on or before December 31, 2018.
+Requirement 1 will still be met if the corporation ceased to
+qualify after the 5-year period that began on the date the
+estate or trust acquired the stock. However, the gain that
+qualifies for the 60% exclusion can't be more than the gain
+the estate or trust would have had if it had sold the stock on
+the date the corporation ceased to qualify.
+See section 1397C for more details.
+Stock acquired after February 17, 2009. The estate or
+trust can exclude up to 75% of the gain if it acquired the stock
+after February 17, 2009, and before September 28, 2010.
+The estate or trust can exclude up to 100% of the gain if it
+acquired the stock after September 27, 2010.
+Pass-through entities. If the estate or trust held an interest
+in a pass-through entity (a partnership, S corporation,
+common trust fund, mutual fund, or other regulated
+investment company) that sold QSB stock, the estate or trust
+must generally have held the interest on the date the
+pass-through entity acquired the QSB stock and at all times
+thereafter until the stock was sold to qualify for the exclusion.
+How to report. Report the sale or exchange of the QSB
+stock on Form 8949, Part II, with the appropriate box
+checked, as you would if you weren't taking the exclusion.
+Enter “Q” in column (f) and enter the amount of the excluded
+gain as a negative number in column (g). Put it in
+parentheses to show it is negative. See the Instructions for
+Form 8949, columns (f), (g), and (h). Complete all remaining
+columns. If you are completing line 18c of Schedule D, enter
+as a positive number the amount of your allowable exclusion
+on line 2 of the 28% Rate Gain Worksheet, later; if you
+excluded 60% of the gain, enter 2/3 of the exclusion; if you
+excluded 75% of the gain, enter 1/3 of the exclusion; if you
+excluded 100% of the gain, don't enter an amount.
+Gain from Form 1099-DIV. If the estate or trust received
+a Form 1099-DIV, Dividends and Distributions, with a gain in
+box 2c, part or all of that gain (which is also included in
+box 2a) may be eligible for the section 1202 exclusion.
+Report the total gain (box 2a) on Schedule D, line 13. In
+column (a) of Form 8949, Part II, enter the name of the
+2025 Instructions for Schedule D (Form 1041)
+
+corporation whose stock was sold. In column (f), enter “Q”
+and in column (g), enter the amount of the excluded gain as a
+negative number. See the Instructions for Form 8949,
+columns (f), (g), and (h). If you are completing line 18c of
+Schedule D, enter as a positive number the amount of your
+allowable exclusion on line 2 of the 28% Rate Gain
+Worksheet, later; if you excluded 60% of the gain, enter 2/3 of
+the exclusion; if you excluded 75% of the gain, enter 1/3 of the
+exclusion; if you excluded 100% of the gain, don't enter an
+amount.
+Gain from Form 2439. If the estate or trust received a
+Form 2439, Notice to Shareholder of Undistributed
+Long-Term Capital Gains, with a gain in box 1c, part or all of
+that gain (which is also included in box 1a) may be eligible for
+the section 1202 exclusion. Report the total gain (box 1a) on
+Schedule D, line 11. In column (a) of Form 8949, Part II, enter
+the name of the corporation whose stock was sold. In column
+(f), enter “Q” and in column (g), enter the amount of the
+excluded gain as a negative number. See the Instructions for
+Form 8949, columns (f), (g), and (h). If you are completing
+line 18c of Schedule D, enter as a positive number the
+amount of your allowable exclusion on line 2 of the 28% Rate
+Gain Worksheet, later; if you excluded 60% of the gain, enter
+2/3 of the exclusion; if you excluded 75% of the gain, enter 1/3
+of the exclusion; if you excluded 100% of the gain, don't enter
+an amount.
+Gain from an installment sale of QSB stock. If all
+payments aren't received in the year of sale, a sale of QSB
+stock that isn't traded on an established securities market is
+generally treated as an installment sale and is reported on
+Form 6252. Part or all of any gain from the sale that is
+reported on Form 6252 for the current year may be eligible for
+the section 1202 exclusion. Report the long-term gain from
+Form 6252 on Schedule D, line 11. In column (a) of Form
+8949, Part II, enter the name of the corporation whose stock
+was sold. In column (f), enter “Q” and in column (g), enter the
+amount of the allowable exclusion as a negative number. See
+the Instructions for Form 8949, columns (f), (g), and (h). If you
+are completing line 18c of Schedule D, enter as a positive
+number the amount of your allowable exclusion for the year
+on line 2 of the 28% Rate Gain Worksheet, later; if you
+excluded 60% of the gain, enter 2/3 of the exclusion; if you
+excluded 75% of the gain, enter 1/3 of the exclusion; if you
+excluded 100% of the gain, don't enter an amount.
+Alternative minimum tax. Enter 7% of the estate's or
+trust's allowable exclusion for the year on line 8 of Schedule I
+(Form 1041), Alternative Minimum Tax—Estates and Trusts.
+However, if the estate or trust qualifies for the 100%
+exclusion, leave line 8 of Schedule I (Form 1041) blank.
+Rollover of gain from QSB stock. If the estate or trust held
+QSB stock (as defined earlier) for more than 6 months, it may
+elect to postpone gain if it purchased other QSB stock during
+the 60-day period that began on the date of the sale.
+The estate or trust must recognize gain to the extent the
+sale proceeds exceed the cost of the replacement stock.
+Reduce the basis of the replacement stock by any postponed
+gain.
+The estate or trust must make the election no later than
+the due date (including extensions) for filing Form 1041 for
+the tax year in which the stock was sold. If the original Form
+1041 was filed on time, the election may be made on an
+amended return filed no later than 6 months after the due
+date of the original return (excluding extensions). Write “Filed
+pursuant to section 301.9100-2” at the top of the amended
+5
+
+return, and file it at the same address used for the original
+Form 1041.
+How to report. To make the election, report the sale on
+Part I or Part II of Form 8949 (depending on how long the
+estate or trust owned the stock), as it would be reported if the
+election wasn't made. Then, enter “R” in column (f) and the
+amount of the postponed gain from the section 1045 rollover
+as a negative number in column (g). Put it in parentheses to
+show it is negative. Complete all remaining columns. See the
+Instructions for Form 8949, columns (f), (g), and (h).
+Exclusion of gain from DC Zone assets. If the estate or
+trust sold or exchanged a District of Columbia Enterprise
+Zone (DC Zone) asset that it acquired after 1997 and before
+2012 and held for more than 5 years, it may be able to
+exclude the amount of qualified capital gain that it would
+otherwise include in income. The exclusion applies to an
+interest in, or property of, certain businesses operating in the
+District of Columbia.
+DC Zone asset. A DC Zone asset is any of the following.
+• DC Zone business stock.
+• DC Zone partnership interest.
+• DC Zone business property.
+Qualified capital gain. Qualified capital gain is any gain
+recognized on the sale or exchange of a DC Zone asset that
+is a capital asset or property used in a trade or business. It
+doesn't include any of the following gains.
+• Gain attributable to periods after December 31, 2016.
+• Gain treated as ordinary income under section 1245.
+• Section 1250 gain figured as if section 1250 applied to all
+depreciation rather than the additional depreciation.
+• Gain attributable to real property, or an intangible asset,
+that isn't an integral part of a DC Zone business.
+• Gain from a related-party transaction. See Sales and
+Exchanges Between Related Persons in chapter 2 of
+Pub. 544.
+How to report. Report the sale or exchange of DC Zone
+business stock or a DC Zone partnership interest on Form
+8949, Part II, as you would if you weren't taking the exclusion.
+Then, enter “X” in column (f). Enter the amount of the
+exclusion as a negative number in column (g). Put it in
+parentheses to show it is negative. See the instructions for
+Form 8949, columns (f), (g), and (h). Complete all remaining
+columns.
+Report the sale or exchange of DC Zone business
+property on Form 4797. See the Form 4797 instructions for
+details.
+Exclusion of gain from qualified community assets. If
+the estate or trust sold or exchanged a qualified community
+asset that it acquired after 2001 and before 2010 and held for
+more than 5 years, it may be able to exclude the qualified
+capital gain that it would otherwise include in income. The
+exclusion applies to an interest in, or property of, certain
+renewal community businesses.
+Qualified community asset. A qualified community
+asset is any of the following.
+• Qualified community stock.
+• Qualified community partnership interest.
+• Qualified community business property.
+Qualified capital gain. Qualified capital gain is any gain
+recognized on the sale or exchange of a qualified community
+asset but doesn't include any of the following.
+• Gain attributable to periods after December 31, 2014.
+• Gain treated as ordinary income under section 1245.
+6
+
+• Section 1250 gain figured as if section 1250 applied to all
+depreciation rather than the additional depreciation.
+
+• Gain attributable to real property, or an intangible asset,
+that isn't an integral part of a renewal community
+business.
+• Gain from a related-party transaction. See Sales and
+Exchanges Between Related Persons in chapter 2 of
+Pub. 544.
+
+How to report. Report the sale or exchange of qualified
+community stock or a qualified community partnership
+interest on Form 8949, Part II, with the appropriate box
+checked, as you would if you weren't taking the exclusion.
+Then, enter “X” in column (f) and enter the amount of the
+exclusion as a negative number in column (g). Put it in
+parentheses to show it is negative. See the instructions for
+Form 8949, columns (f), (g), and (h). Complete all remaining
+columns.
+Report the sale or exchange of qualified community
+business property on Form 4797. See the Form 4797
+instructions for details.
+Deferral of gain invested in a Qualified Opportunity
+Fund (QOF). If the estate or trust has an eligible gain
+(defined below), it can invest that gain in a QOF and elect to
+defer part or all of the gain that it would otherwise include in
+income until the estate or trust sells or exchanges the
+investment in the QOF or December 31, 2026, whichever is
+earlier. If the election is made, only include gain to the extent,
+if any, that the amount of realized gain is more than the
+aggregate amount invested in a QOF during the 180-day
+period beginning on the date the gain was realized. The
+estate or trust may also be able to permanently exclude the
+gain from the sale or exchange of any investment in a QOF if
+the investment is held for at least 10 years.
+If you elect to defer tax on an eligible gain by
+investing in a QOF, you will need to complete a Form
+CAUTION 8997 for each year you hold the investment and for
+the year you dispose of the investment. If you have held that
+investment for more than 5 years, see the Instructions for
+Form 8997 for additional information regarding the basis of
+that investment.
+
+!
+
+QOF. A QOF is any investment vehicle that is organized as
+either a corporation or partnership for the purpose of
+investing in eligible property that is located in a Qualified
+Opportunity Zone.
+How to report. Report the eligible gain as you normally
+would on Schedule D (Form 1041). See the Form 8949
+instructions for how to report the deferral. You also need to
+attach Form 8997 annually until you dispose of the QOF
+investment. See the Instructions for Form 8997.
+
+Specific Instructions
+
+!
+
+The instructions below assume the estate or trust is a
+cash basis calendar-year taxpayer.
+
+CAUTION
+
+Rounding Off to Whole Dollars
+
+You can round off cents to whole dollars on your Schedule D
+(Form 1041). If you do round to whole dollars, you must
+round all amounts. To round, drop amounts under 50 cents
+and increase amounts from 50 to 99 cents to the next dollar.
+For example, $1.39 becomes $1 and $2.50 becomes $3.
+
+2025 Instructions for Schedule D (Form 1041)
+
+If you have to add two or more amounts to figure the
+amount to enter on a line, include cents when adding the
+amounts and round off only the total.
+If you are entering amounts that include cents, make sure
+to include the decimal point. There is no cents column on the
+form.
+
+Disposal of QOF investment
+
+If you disposed of any investment in a QOF during the tax
+year, check the box on page 1 of Schedule D and see the
+Instructions for Form 8949 for additional reporting
+requirements. You must also complete Part III of Form 8997.
+See the Instructions for Form 8997 for details.
+
+Lines 1a and 8a—Transactions Not Reported on
+Form 8949
+
+If you had a second transaction that was the same except
+that the proceeds were $5,000 and the basis was $3,000,
+combine the two transactions. Enter $11,000 ($6,000 +
+$5,000) on Schedule D, line 8a, column (d); $5,000 ($2,000 +
+$3,000) in column (e); and $6,000 ($11,000 – $5,000) in
+column (h).
+Example 2—basis not reported to the IRS. The estate
+or trust received a Form 1099-B or Form 1099-DA showing
+proceeds (in box 1d or box 1f) of $6,000 and cost or other
+basis (in box 1e or box 1g) of $2,000. Box 12 on Form
+1099-B or box 2 on Form 1099-DA isn't checked, meaning
+that basis wasn't reported to the IRS. Don't report this
+transaction on line 1a or line 8a. Instead, report the
+transaction on Form 8949. Complete all necessary pages of
+Form 8949 before completing line 1b, 2, 3, 8b, 9, or 10 of
+Schedule D (Form 1041).
+
+The estate or trust can report on line 1a (for short-term
+transactions) or line 8a (for long-term transactions) the
+aggregate totals from any transactions (except sales of
+collectibles) for which:
+• The estate or trust received a Form 1099-B, Proceeds
+From Broker and Barter Exchange Transactions, or Form
+1099-DA, Digital Asset Proceeds from Broker
+Transactions (or substitute statement), that shows basis
+was reported to the IRS and doesn't show any
+adjustments in boxes 1f or 1g of Form 1099-B or boxes
+1h or 1i of Form 1099-DA;
+• The Ordinary checkbox in box 2 of Form 1099-B or box 6
+of Form 1099-DA is not checked;
+• The QOF checkbox in box 3 of Form 1099-B or box 3b of
+Form 1099-DA is not checked;
+• The estate or trust isn't electing to defer income due to an
+investment in a QOF and isn't terminating deferral from
+an investment in a QOF; and
+• The estate or trust doesn't need to make any
+adjustments to the basis or type of gain or loss (short
+term or long term) reported on Form 1099-B or Form
+1099-DA (or substitute statement), or to its gain or loss.
+
+Example 3—adjustment. The estate or trust received a
+Form 1099-B or Form 1099-DA showing proceeds (in box 1d
+or 1f) of $6,000 and cost or other basis (in box 1e or 1g) of
+$2,000. Box 12 on Form 1099-B or box 2 on Form 1099-DA is
+checked, meaning that basis was reported to the IRS.
+However, the basis shown in box 1e or 1g is incorrect. Don't
+report this transaction on line 1a or line 8a. Instead, report the
+transaction on Form 8949. See the Instructions for Form
+8949, columns (f), (g), and (h). Complete all necessary
+pages of Form 8949 before completing line 1b, 2, 3, 8b, 9, or
+10 of Schedule D (Form 1041).
+
+See How To Complete Form 8949, Columns (f) and (g), in
+the Form 8949 instructions for details about possible
+adjustments to your gain or loss.
+
+Example 2—loss. Column (d) is $6,000 and column (e) is
+$8,000. Enter ($2,000) in column (h).
+
+If the estate or trust chooses to report these transactions
+on lines 1a and 8a, don't report them on Form 8949. You
+don't need to attach a statement to explain the entries on
+lines 1a and 8a.
+Figure gain or loss on each line. First, subtract the cost or
+other basis in column (e) from the proceeds (sales price) in
+column (d). Enter the gain or loss in column (h). Enter
+negative amounts in parentheses.
+Example 1—basis reported to the IRS. The estate or
+trust received a Form 1099-B or Form 1099–DA reporting the
+sale of an asset held for 3 years. It shows proceeds (in
+box 1d on Form 1099-B or box 1f on Form 1099-DA) of
+$6,000 and cost or other basis (in box 1e on Form 1099-B or
+box 1g on Form 1099-DA) of $2,000. Box 12 on Form 1099-B
+or box 2 on Form 1099-DA is checked, meaning that basis
+was reported to the IRS. The estate or trust doesn't need to
+make any adjustments to the amounts reported on either
+Form 1099-B, Form 1099-DA, or enter any codes. This was
+the estate’s or trust's only 2025 transaction. Instead of
+reporting this transaction on Form 8949, the estate or trust
+can enter $6,000 on Schedule D, line 8a, column (d); $2,000
+in column (e); and $4,000 ($6,000 – $2,000) in column (h).
+2025 Instructions for Schedule D (Form 1041)
+
+Lines 1b, 2, 3, 8b, 9, and 10, Column
+(h)—Transactions Reported on Form 8949
+
+Figure gain or loss on each line. First, subtract the cost or
+other basis in column (e) from the proceeds (sales price) in
+column (d). Then, combine the result with any adjustments in
+column (g). Enter the gain or loss in column (h). Enter
+negative amounts in parentheses.
+Example 1—gain. Column (d) is $6,000 and column (e) is
+$2,000. Enter $4,000 in column (h).
+
+Example 3—adjustment. Column (d) is $6,000, column
+(e) is $2,000, and column (g) is ($1,000). Enter $3,000
+($6,000 − $2,000 − $1,000) in column (h).
+
+Lines 4 and 11
+Undistributed capital gains. Include on line 11, column
+(h), the amount from box 1a of Form 2439. This amount
+represents the estate's or trust's share of undistributed
+long-term capital gains from a regulated investment company
+(mutual fund) or real estate investment trust.
+If there is an amount in box 1b of Form 2439, include that
+amount on line 11 of the Unrecaptured Section 1250 Gain
+Worksheet, later, if you are required to complete line 18b,
+column (2), of the schedule. If there is an amount in box 1c of
+Form 2439, see Exclusion of Gain on Qualified Small
+Business (QSB) Stock (Section 1202), earlier. If there is an
+amount in box 1d of Form 2439, include that amount on line 4
+of the 28% Rate Gain Worksheet, later.
+Enter on Form 1041, Schedule G, Part II, line 16, the tax
+paid as reported in box 2 of Form 2439. Increase the basis of
+the stock by the excess of the amount included in income
+over the amount of the credit for tax paid. See Pub. 550 for
+more details.
+7
+
+Installment sales. If the estate or trust sold property (other
+than publicly traded stocks or securities) at a gain during the
+tax year and will receive a payment in a later tax year, you
+generally report the sale on the installment method and file
+Form 6252, unless you elect not to do so.
+Also, use Form 6252 to report any payment received in
+2025 from a sale made in an earlier tax year that was
+reported on the installment method.
+To elect out of the installment method, report the full
+amount of the gain on Form 8949, Form 4797, or both on a
+timely filed return (including extensions) for the year of the
+sale. If the original return was filed timely, the election may be
+made on an amended return filed no later than 6 months after
+the due date of the original return (excluding extensions).
+Write “Filed pursuant to section 301.9100-2” at the top of the
+amended return, and file it at the same address as the
+original Form 1041.
+Exchange of “like-kind” property. Generally, no gain or
+loss is recognized when real property held for productive use
+in a trade or business or for investment is exchanged solely
+for real property of a like kind to be held either for productive
+use in a trade or business or for investment. However, if a
+trust exchanges like-kind real property with a related person
+(see Related Persons, earlier) and within 2 years of the last
+transfer that was part of the exchange, the related person
+disposes of the real property, or the trust disposes of the real
+property received in exchange from the related person, then
+the original exchange will not qualify for nonrecognition. See
+section 1031(f) for exceptions.
+Complete and attach Form 8824 to Form 1041 for each
+exchange.
+
+Line 13—Capital Gain Distributions
+
+Enter as a long-term capital gain on line 13, column (h), the
+total capital gain distributions paid during the year, regardless
+of how long the estate or trust held its investment. This
+amount is reported in box 2a of Form 1099-DIV. If there is an
+amount in box 2b, include that amount on line 11 of the
+Unrecaptured Section 1250 Gain Worksheet, later, if the
+worksheet is required. If there is an amount in box 2c, see
+Exclusion of Gain on Qualified Small Business (QSB) Stock
+(Section 1202), earlier. If there is an amount in box 2d of
+Form 1099-DIV, include the amount on line 4 of the 28% Rate
+Gain Worksheet, later.
+
+Line 17, Column (1)—Beneficiaries' Net
+Short-Term Capital Gain or Loss
+
+Enter the amount of net short-term capital gain or loss
+allocable to the beneficiary or beneficiaries. Include only
+those short-term capital losses that are taken into account in
+determining the amount of gain from the sale or exchange of
+capital assets that is paid, credited, or required to be
+distributed to any beneficiary during the tax year. See
+Regulations section 1.643(a)-3 for more information about
+allocation of capital gains and losses.
+If the losses from the sale or exchange of capital assets
+are more than the gains, the net loss must be allocated to the
+estate or trust and not to the beneficiaries.
+
+Line 17, Column (2)—Estate's or Trust's Net
+Short-Term Capital Gain or Loss
+
+Enter the amount of the net short-term capital gain or loss
+allocable to the estate or trust. Include any capital gain paid
+8
+
+or permanently set aside for a charitable purpose specified in
+section 642(c).
+
+Line 17, Column (3)—Total
+
+Enter the total of the amounts entered in columns (1) and (2).
+The amount in column (3) should be the same as the amount
+on line 7.
+
+Line 18a—Net Long-Term Capital Gain or Loss
+
+Allocate the net long-term capital gain or loss on line 18a in
+the same manner as the net short-term capital gain or loss on
+line 17. However, don't take the section 1202 exclusion on
+gain from the sale or exchange of qualified small business
+stock into account when figuring net long-term capital gain or
+loss allocable to the beneficiaries.
+
+Line 18b—Unrecaptured Section 1250 Gain
+
+Complete the Unrecaptured Section 1250 Gain Worksheet,
+later, if any of the following apply.
+• During the tax year, the estate or trust sold or otherwise
+disposed of section 1250 property (generally, real
+property that was depreciated) held more than 1 year.
+• The estate or trust received installment payments during
+the tax year for section 1250 property held more than 1
+year and is reporting gain on the installment method.
+• The estate or trust received a Schedule K-1 from an
+estate or trust, partnership, or S corporation that reports
+“unrecaptured section 1250 gain” for the tax year.
+• The estate or trust received a Form 1099-DIV or Form
+2439 from a real estate investment trust or regulated
+investment company (including a mutual fund) that
+reports “unrecaptured section 1250 gain” for the tax year.
+• The estate or trust reported a long-term capital gain from
+the sale or exchange of an interest in a partnership that
+owned section 1250 property.
+
+Instructions for the Unrecaptured Section 1250
+Gain Worksheet
+Lines 1 through 3. If the estate or trust had more than one
+property, complete lines 1 through 3 for each property on a
+separate worksheet. Next, enter the total amount for all
+properties on line 3; then, go to line 4.
+Line 4. To figure the amount to enter on line 4, follow the
+steps below for each installment sale of trade or business
+property held more than 1 year.
+Step 1. Figure the smaller of (a) the depreciation allowed
+or allowable, or (b) the total gain for the sale. This is the
+smaller of line 22 or line 24 of the 2025 Form 4797 (or the
+comparable lines of Form 4797 for the year of sale) for that
+property.
+Step 2. Reduce the amount figured in step 1 by any
+section 1250 ordinary income recapture for the sale. This is
+the amount from line 26g of the 2025 Form 4797 (or the
+comparable line of Form 4797 for the year of sale) for that
+property. The result is the total unrecaptured section 1250
+gain that must be allocated to the installment payments
+received from the sale.
+Step 3. Generally, the amount of section 1231 gain on
+each installment payment is treated as unrecaptured section
+1250 gain until the total unrecaptured section 1250 gain
+figured in step 2 has been used in full. Figure the amount of
+gain treated as unrecaptured section 1250 gain for
+installment payments received during the tax year as the
+smaller of (a) the amount from line 26 or line 37 of the 2025
+2025 Instructions for Schedule D (Form 1041)
+
+Unrecaptured Section 1250 Gain Worksheet—Line 18b
+
+Keep for Your Records
+
+If the estate or trust isn't reporting a gain on Form 4797, line 7, skip lines 1 through 9 and go to line 10.
+1. If the estate or trust has a section 1250 property in Part III of Form 4797 for which you made an entry in
+Part I of Form 4797 (but not on Form 6252), enter the smaller of line 22 or line 24 of Form 4797 for that
+property. If the estate or trust didn't have any such property, go to line 4. If it had more than one such
+property, see instructions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.
+
+2. Enter the amount from Form 4797, line 26g, for the property for which you made an entry on
+line 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.
+
+3. Subtract line 2 from line 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3.
+
+4. Enter the total unrecaptured section 1250 gain included on line 26 or line 37 of Form(s) 6252 from
+installment sales of trade or business property held more than 1 year (see instructions) . . . . . . . . . . . .
+
+4.
+
+5. Enter the total of any amounts reported to the estate or trust on a Schedule K-1 from a partnership or
+an S corporation as “unrecaptured section 1250 gain” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5.
+
+6. Add lines 3 through 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6.
+
+7. Enter the smaller of line 6 or the gain from Form 4797, line 7 . . . . . . . . . . . . . . . .
+
+7.
+
+8. Enter the amount, if any, from Form 4797, line 8 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8.
+
+9. Subtract line 8 from line 7. If zero or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+9.
+
+10. Enter the amount of any gain from the sale or exchange of an interest in a partnership attributable to
+unrecaptured section 1250 gain (see instructions) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10.
+11. Enter the total of any amounts reported to the estate or trust on a Schedule K-1, Form 1099-DIV, or
+Form 2439 as “unrecaptured section 1250 gain” from an estate, trust, real estate investment trust, or
+mutual fund (or other regulated investment company) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11.
+12. Enter the total of any unrecaptured section 1250 gain from sales (including installment sales) or other
+dispositions of section 1250 property held more than 1 year for which you didn't make an entry in Part I
+of Form 4797 for the year of sale (see instructions) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12.
+13. Add lines 9 through 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13.
+14. If the estate or trust had any section 1202 gain or collectibles gain or (loss), enter
+the total of lines 1 through 4 of the 28% Rate Gain Worksheet. Otherwise,
+enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14.
+15. Enter the (loss), if any, from Schedule D, line 7. If Schedule D, line 7, is zero or a
+gain, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15.
+
+(
+
+)
+
+16. Enter the estate's or trust's long-term capital loss carryovers from Schedule D,
+line 15, and from Schedule K-1 (Form 1041), box 11, code D, from another estate
+or trust . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16.
+
+(
+
+)
+
+17. Combine lines 14 through 16. If the result is a (loss), enter it as a positive amount. If the result is zero or
+a gain, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17.
+18. Unrecaptured section 1250 gain. Subtract line 17 from line 13. If zero or less, enter -0-. Enter the
+result here and in the appropriate columns of Schedule D, line 18b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18.
+
+Form 6252, whichever applies; or (b) the amount of
+unrecaptured section 1250 gain remaining to be reported.
+This amount is generally the total unrecaptured section 1250
+gain for the sale reduced by all gain reported in prior years
+(excluding section 1250 ordinary income recapture).
+However, if you chose not to treat all of the gain from
+payments received after May 6, 1997, and before August 24,
+1999, as unrecaptured section 1250 gain, use only the
+amount you chose to treat as unrecaptured section 1250 gain
+for those payments to reduce the total unrecaptured section
+1250 gain remaining to be reported for the sale. Include this
+amount on line 4.
+2025 Instructions for Schedule D (Form 1041)
+
+Line 10. Include on line 10 the estate's or trust's share of the
+partnership's unrecaptured section 1250 gain that would
+result if the partnership had transferred all of its section 1250
+property in a fully taxable transaction immediately before the
+estate or trust sold or exchanged its interest in that
+partnership. If the estate or trust recognized less than all of
+the realized gain, the partnership will be treated as having
+transferred only a proportionate amount of each section 1250
+property.
+Line 12. An example of an amount reported on line 12 as an
+“other disposition” includes unrecaptured section 1250 gain
+from the sale of a vacation home previously used as a rental
+9
+
+Keep for Your Records
+.
+
+28% Rate Gain Worksheet—Line 18c
+
+1. Enter the total of all collectibles gain or (loss) from items reported on Form 8949, Part II . . . . . . . . . . . . . . . . 1.
+2. Enter as a positive number the total of:
+• Any section 1202 exclusion you reported in column (g) of Form 8949, Part II, with code “Q” in
+column (f), for which you excluded 50% of the gain;
+• 2/3 of any section 1202 exclusion you reported in column (g) of Form 8949, Part II, with code
+. . . . .2.
+“Q” in column (f), for which you excluded 60% of the gain; and
+• 1/3 of any section 1202 exclusion you reported in column (g) of Form 8949, Part II, with code
+“Q” in column (f), for which you excluded 75% of the gain.
+Don't make an entry for any section 1202 exclusion that is 100% of the gain.
+3. Enter the total of all collectibles gain or (loss) from Form 4684, line 4 (but only if Form 4684, line 15, is more
+than zero); Form 6252; Form 6781, Part II; and Form 8824 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.
+4. Enter the total of any collectibles gain reported to the estate or trust on:
+• Form 1099-DIV, box 2d;
+. . . . . 4.
+• Form 2439, box 1d; and
+• Schedule K-1 from a partnership, S corporation, estate, or trust.
+5. Enter the estate's or trust's long-term capital loss carryovers from Schedule D, line 15, and from box 11,
+code D of Schedule K-1 (Form 1041) from another estate or trust . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.
+6. If Schedule D, line 7 is a (loss), enter that (loss) here. Otherwise, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . 6.
+
+(
+
+)
+
+(
+
+)
+
+7. Combine lines 1 through 6. If zero or less, enter -0-. If more than zero, also enter this amount in the
+appropriate columns of Schedule D, line 18c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7.
+
+property that was converted to personal use before the sale.
+To figure the amount to enter on line 12, follow the applicable
+instructions below.
+Installment sales. To figure the amount to include on
+line 12, follow the steps below for each installment sale of
+property held more than 1 year for which you didn't make an
+entry in Part I of Form 4797 for the year of sale.
+Step 1. Figure the smaller of (a) the depreciation allowed
+or allowable, or (b) the total gain for the sale. This is the
+smaller of line 22 or line 24 of the 2025 Form 4797 (or
+comparable lines of Form 4797 for the year of sale) for that
+property.
+Step 2. Reduce the amount figured in step 1 by any
+section 1250 ordinary income recapture for the sale. This is
+the amount from line 26g of the 2025 Form 4797 (or the
+comparable line of Form 4797 for the year of sale) for that
+property. The result is the total unrecaptured section 1250
+gain that must be allocated to the installment payments
+received from the sale.
+Step 3. Generally, the amount of capital gain on each
+installment payment is treated as unrecaptured section 1250
+gain until the total unrecaptured section 1250 gain figured in
+step 2 has been used in full. Figure the amount of gain
+treated as unrecaptured section 1250 gain for installment
+payments received during the tax year as the smaller of (a)
+the amount from line 26 or line 37 of the 2025 Form 6252,
+whichever applies; or (b) the amount of unrecaptured section
+1250 gain remaining to be reported. This amount is generally
+the total unrecaptured section 1250 gain for the sale reduced
+by all gain reported in prior years (excluding section 1250
+ordinary income recapture). However, if you chose not to
+treat all of the gain from payments received after May 6,
+1997, and before August 24, 1999, as unrecaptured section
+1250 gain, use only the amount you chose to treat as
+unrecaptured section 1250 gain for those payments to
+reduce the total unrecaptured section 1250 gain remaining to
+be reported for the sale. Include this amount on line 12.
+10
+
+Other sales or dispositions of section 1250 property.
+For each sale of property held more than 1 year (for which an
+entry wasn't made in Part I of Form 4797), figure the smaller
+of (a) the depreciation allowed or allowable, or (b) the total
+gain for the sale. This amount is the smaller of line 22 or
+line 24 of Form 4797 for that property. Then, reduce that
+amount by any section 1250 ordinary income recapture for
+the sale. This is the amount from line 26g of Form 4797 for
+that property. The result is the total unrecaptured section
+1250 gain for the sale. Include this amount on line 12.
+
+Line 18c—28% Rate Gain
+
+Complete the 28% Rate Gain Worksheet, above, if lines 18a
+and 19 of column (3) are both greater than zero and at least
+one of the following applies.
+• The estate or trust reported in Part II of Form 8949 a
+section 1202 exclusion from the eligible gain on qualified
+small business stock (as discussed earlier), or
+• The estate or trust reported in Part II of Form 8949 a
+collectibles gain or loss.
+A collectibles gain or loss is any long-term gain or
+deductible long-term loss from the sale or exchange of a
+collectible that is a capital asset.
+Collectibles include works of art, rugs, antiques, metals
+(such as gold, silver, and platinum bullion), gems, stamps,
+coins, alcoholic beverages, and certain other tangible
+property.
+Also include gain (but not loss) from the sale or exchange
+of an interest in a partnership, S corporation, or trust held for
+more than 1 year that is attributable to the unrealized
+appreciation of collectibles. For details, see Regulations
+section 1.1(h)-1. Attach the statement required under
+Regulations section 1.1(h)-1(e) to Schedule D.
+
+2025 Instructions for Schedule D (Form 1041)
+
+Capital Loss Carryover Worksheet
+
+Keep for Your Records
+
+Use this worksheet to figure the estate's or trust's capital loss carryovers from 2025 to 2026 if Schedule D, line 20, is a loss and
+(a) the loss on Schedule D, line 19, column (3), is more than $3,000; or (b) Form 1041, page 1, line 23, is a loss.
+1. Enter taxable income or (loss) from Form 1041, line 23 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.
+
+2. Enter the loss from line 20 of Schedule D as a positive amount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.
+
+3. Enter the amount from Form 1041, line 21 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3.
+
+4. Adjusted taxable income. Combine lines 1, 2, and 3. If zero or less, enter -0- . . . . . . . . . . . . . . . . . . . . . .
+
+4.
+
+5. Enter the smaller of line 2 or line 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Note: If line 7 of Schedule D is a loss, go to line 6; otherwise, enter -0- on line 6 and go to
+line 10.
+
+5.
+
+6. Enter the loss from Schedule D, line 7, as a positive amount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7. Enter the gain, if any, from Schedule D, line 16. If that line is blank or shows a loss,
+enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.
+
+6.
+
+8. Add lines 5 and 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9. Short-term capital loss carryover to 2026. Subtract line 8 from line 6. If zero or less, enter -0-. If this
+is the final return of the estate or trust, also enter on Schedule K-1 (Form 1041), box 11, using
+code C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Note: If line 16 of Schedule D is a loss, go to line 10; otherwise, skip lines 10 through 14.
+
+8.
+
+10. Enter the loss from Schedule D, line 16, as a positive amount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11. Enter the gain, if any, from Schedule D, line 7. If that line is blank or shows a loss,
+enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11.
+
+10.
+
+12. Subtract line 6 from line 5. If zero or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+9.
+
+12.
+
+13. Add lines 11 and 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14. Long-term capital loss carryover to 2026. Subtract line 13 from line 10. If zero or less, enter -0-. If
+this is the final return of the estate or trust, also enter on Schedule K-1 (Form 1041), box 11, using
+code D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+13.
+14.
+
+Line 19
+
+Line 20
+
+Trusts filing Schedule D (Form 1041) with Form
+990-T, Exempt Organization Business Income Tax
+CAUTION Return (and proxy tax under section 6033(e)), that
+have more than one unrelated trade or business must
+compute unrelated business taxable income separately for
+each trade or business. The separate amount from each
+unrelated trade or business must be reported on line 4a of
+Part I of the Schedule A (Form 990-T), Unrelated Business
+Taxable Income From an Unrelated Trade or Business,
+completed for the specific trade or business.
+
+Trusts filing Schedule D (Form 1041) with Form
+990-T that have more than one unrelated trade or
+CAUTION business must compute unrelated business taxable
+income separately for each trade or business. The separate
+amount from each unrelated trade or business must be
+reported on line 4c of Part I of the Schedule A (Form 990-T)
+completed for the specific trade or business.
+
+!
+
+Part IV—Capital Loss Limitation
+
+If the sum of all capital losses is more than the sum of all
+capital gains, the capital losses are allowed as a deduction,
+but only to the extent of the smaller of the net loss or $3,000.
+For any year (including the final year) in which capital
+losses exceed capital gains, the estate or trust may have a
+capital loss carryover. Use the Capital Loss Carryover
+Worksheet, above, to figure any capital loss carryover. A
+capital loss carryover may be carried forward indefinitely.
+Capital losses keep their character as either short-term or
+long-term when carried over to the following year.
+
+!
+
+Part V—Tax Computation Using Maximum
+Capital Gains Rates
+Line 26
+If the estate or trust received qualified dividends or capital
+gains as income in respect of a decedent and a section
+691(c) deduction was claimed, you must reduce the amount
+on Form 1041, page 1, line 2b(2), or Schedule D, line 22
+(line 7 of the Schedule D Tax Worksheet, if applicable), by the
+portion of the section 691(c) deduction claimed on Form
+1041, page 1, line 19, that is attributable to the estate's or
+trust's portion of qualified dividends or capital gains.
+
+Line 45
+If the tax using the maximum capital gains rates is less than
+the regular tax, enter the amount from line 45 on line 1a of
+Form 1041, Schedule G, Part I.
+
+2025 Instructions for Schedule D (Form 1041)
+
+11
+
+Schedule D Tax Worksheet
+If you completed the Schedule D Tax Worksheet next instead
+of Part V of Schedule D, be sure to enter the amount from
+
+12
+
+line 44 of the worksheet on line 1a of Form 1041,
+Schedule G, Part I.
+
+2025 Instructions for Schedule D (Form 1041)
+
+Schedule D Tax Worksheet
+
+Keep for Your Records
+
+Complete this worksheet only if:
+• On Schedule D, line 18b, column (2), or line 18c, column (2), is more than zero, or
+• Both line 2b(1) of Form 1041 and line 4g of Form 4952, Investment Interest Expense Deduction, are more than zero, or
+• There are amounts on lines 4e and 4g of Form 4952.
+Exception: Don't use this worksheet to figure the estate's or trust's tax if line 18a, column (2), or line 19, column (2), of Schedule D or Form
+1041, line 23, is zero or less; instead, see the Instructions for Form 1041, Schedule G, Part I, line 1a.
+1. Enter the estate's or trust's taxable income from Form 1041, line 23 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. Enter qualified dividends, if any, from Form 1041, line 2b(2) . . . . . . . .
+2.
+3. Enter the amount from Form 4952, line 4g . . . . . . . . . . 3.
+4. Enter the amount from Form 4952, line 4e* . . . . . . . . .
+4.
+5. Subtract line 4 from line 3. If zero or less, enter -0- . . . . . . . . . . . . . . .
+5.
+6. Subtract line 5 from line 2. If zero or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.
+7. Enter the smaller of line 18a, column (2), or line 19, column (2),
+from Schedule D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.
+8. Enter the smaller of line 3 or line 4 . . . . . . . . . . . . . . . . . . . . . . . . . .
+8.
+9. Subtract line 8 from line 7. If zero or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9.
+10. Add lines 6 and 9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10.
+11. Add lines 18b, column (2), and 18c, column (2), from Schedule D . . . . . . . . . . . . . . . . . 11.
+12. Enter the smaller of line 9 or line 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12.
+13. Subtract line 12 from line 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14. Subtract line 13 from line 1. If zero or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15. Enter the smaller of line 1 or $3,250 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15.
+16. Enter the smaller of line 14 or line 15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16.
+17a. Subtract line 10 from line 1. If zero or less, enter -0- . . . . . . . . . . . . . . 17a.
+17b. Enter the smaller of line 1 or $11,450 . . . . . . . . . . . . . . . . . . . . . . . . 17b.
+17c. Enter the smaller of line 14 or line 17b . . . . . . . . . . . . . . . . . . . . . . . 17c.
+18. Enter the larger of line 17a or line 17c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+18.
+19. Subtract line 16 from line 15. This amount is taxed at 0% . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+19.
+If lines 1 and 15 are the same, skip lines 20 through 40 and go to line 41. Otherwise, go to line 20.
+20. Enter the smaller of line 1 or line 13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+21. Enter the amount from line 19 (if line 19 is blank, enter -0-) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+22. Subtract line 21 from line 20. If zero or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+22.
+23. Enter the smaller of line 1 or $15,900 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23.
+24. Add lines 18 and 19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+24.
+25. Subtract line 24 from line 23. If zero or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . 25.
+26. Enter the smaller of line 22 or line 25 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26.
+27. Multiply line 26 by 15% (0.15) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+28. Reserved . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28.
+29. Add lines 19 and 26 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29.
+If lines 1 and 29 are the same, skip lines 30 through 40 and go to line 41. Otherwise, go to line 30.
+30. Subtract line 29 from line 20. If zero or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+30.
+31. Multiply line 30 by 20% (0.20) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+32. Enter the smaller of line 9 (above) or line 18b, column (2) (from Schedule D) . . . . . . . . . 32.
+33. Add lines 10 and 18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+33.
+34. Enter the amount from line 1 above . . . . . . . . . . . . . . . . . . . . . . . . . .
+34.
+35. Subtract line 34 from line 33. If zero or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . 35.
+36. Subtract line 35 from line 32. If zero or less, enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+36.
+37. Multiply line 36 by 25% (0.25) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+If Schedule D, line 18c, column (2), is zero or blank, skip lines 38 through 40 and go to line 41. Otherwise,
+go to line 38.
+38. Add lines 18, 19, 26, 30, and 36 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38.
+39. Subtract line 38 from line 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39.
+40. Multiply line 39 by 28% (0.28) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+41. Figure the tax on the amount on line 18. Use the 2025 Tax Rate Schedule in the Instructions for Form 1041 . . . . . . . . . .
+42. Add lines 27, 31, 37, 40, and 41 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+43. Figure the tax on the amount on line 1. Use the 2025 Tax Rate Schedule in the Instructions for Form 1041 . . . . . . . . . . .
+44. Tax on all taxable income (including capital gains and qualified dividends). Enter the smaller of line 42 or line 43
+here and on Form 1041, Schedule G, Part I, line 1a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.
+
+13.
+14.
+
+20.
+21.
+
+27.
+
+31.
+
+37.
+
+40.
+41.
+42.
+43.
+44.
+
+*If applicable, enter instead the smaller amount entered on the dotted line next to line 4e of Form 4952.
+
+2025 Instructions for Schedule D (Form 1041)
+
+13
+
+

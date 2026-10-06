@@ -1,0 +1,48 @@
+{
+  "rule": {
+    "id": "e-tax-01",
+    "title": "Line 5a takes income taxes, never the penalties or interest paid with them",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-tax-payment-records.state_and_local_income_taxes_paid"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-a-penalty-or-interest-not-a-tax"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-a-penalty-or-interest-not-a-tax",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this payment a penalty or interest charged with a state or local income tax, rather than the tax itself?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "Line 5a",
+      "revision": "2025",
+      "wording": "State and local income taxes paid in 2025 for a prior year, such as taxes paid with your 2024 state or local income tax return. Don't include penalties or interest.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "research_ids": [
+      "e-tax-01"
+    ],
+    "open_point": "Whether a payment was made during 2025 (a January 2026 estimate is 2026's) is a-salt-5a-paid's question, on the same box; this rule answers only the penalty-or-interest half of the draft."
+  }
+}

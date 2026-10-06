@@ -1,0 +1,2191 @@
+Form
+
+3468
+
+Department of the Treasury
+Internal Revenue Service
+
+Investment Credit
+
+OMB No. 1545-0155
+
+Attach to your tax return.
+Go to www.irs.gov/Form3468 for instructions and the latest information.
+
+Name(s) shown on return
+
+Part I
+
+2025
+
+Attachment
+Sequence No. 174
+Identifying number
+
+Information on Qualified Property or Qualified Facility (see instructions)
+
+1
+
+If making an elective payment election or transfer election, enter the IRS-issued registration
+number for the facility . . . . . . . . . . . . . . . . . . . . . . . .
+2a (i) Enter the facility’s emissions value or rate (kg of CO2e per kg of qualified clean hydrogen):
+(ii) Enter the Department of Energy (DOE) control number, if applicable (see instructions):
+b If you petitioned for a provisional emissions rate (PER), check the applicable box below and complete line 2b(iii), if applicable.
+An emissions value was received from the DOE.
+(i)
+(ii)
+A designated lifecycle analysis (LCA) model was used to determine an emissions value.
+(iii) Enter the DOE control number, if applicable:
+3a Type (solar, clean hydrogen, rehabilitation, etc.):
+b If different from filer, enter:
+(i) Owner’s name:
+(ii) Owner’s TIN:
+c Address of the facility (if applicable):
+
+d Coordinates.
+
+(i) Latitude:
+
+.
+
+(ii) Longitude:
+
+Enter a “+” (plus) or “-” (minus) sign in the first box.
+
+e
+4
+5
+6
+7
+a
+b
+c
+8
+a
+b
+c
+d
+9
+a
+b
+c
+10
+a
+b
+c
+11
+a
+b
+c
+
+.
+Enter a “+” (plus) or “-” (minus) sign in the first box.
+
+Check this box if the property includes qualified interconnection property under section 48(a)(8) or 48E(b)(1)(B) . . . .
+Date construction began (MM/DD/YYYY):
+Date placed in service (MM/DD/YYYY):
+Yes
+No
+Is the facility an expansion of an existing facility? . . . . . . . . . . . . . . . . . . . .
+Does the property, facility, or project produce a net output of less than 1 megawatt (MW) alternating current (ac), or equivalent
+thermal energy?
+Yes.
+No.
+Not applicable; the facility doesn’t produce electricity.
+Does the property, facility, or project satisfy the prevailing wage and apprenticeship requirements?
+Yes, and sections 48C(e)(5) and (6) apply, and it was declared as provided per Notice 2023-18.
+Yes, and either (i) section 48(a)(9)(B)(ii), 48E(a)(2)(A)(ii)(ll), or 48E(a)(2)(B)(ii)(ll) applies if construction began before January 29,
+2023; or (ii) sections 48(a)(10) and (11), or 48E(d)(3) and (4) apply.
+No.
+Not applicable.
+Does the property, facility, or project qualify for a domestic content bonus credit per section 48(a)(12)(B) or 48E(a)(3)(B)?
+Yes, and section 48(a)(9)(B), 48E(a)(2)(A)(ii), or 48E(a)(2)(B)(ii) is satisfied (10% bonus). Attach the required information.
+Yes, and section 48(a)(9)(B), 48E(a)(2)(A)(ii), or 48E(a)(2)(B)(ii) is not satisfied (2% bonus). Attach the required information.
+No.
+Does the property, facility, or project qualify for an energy community bonus credit per section 48(a)(14) or 48E(a)(3)(A)?
+Yes, and section 48(a)(9)(B), 48E(a)(2)(A)(ii), or 48E(a)(2)(B)(ii) is satisfied (10% bonus).
+Yes, and section 48(a)(9)(B), 48E(a)(2)(A)(ii), or 48E(a)(2)(B)(ii) is not satisfied (2% bonus).
+No.
+Does the property, facility, or project qualify for the low-income communities bonus credit under section 48(e)(2) or 48E(h)(2)?
+(The facility must have received an allocation of capacity limitation.)
+Yes, and the facility is located in a low-income community per section 45D(e) (10% bonus).
+Yes, and the facility is located on Indian land per section 2601(2) of P.L. 102-486 (10% bonus).
+Yes, and the facility is part of a qualified low-income residential building project facility per section 48(e)(2)(B) or 48E(h)(2)(B)
+(20% bonus).
+
+d
+
+Yes, and the facility is part of a qualified low-income economic benefit project facility per section 48(e)(2)(C) or 48E(h)(2)(C)
+(20% bonus).
+e If “Yes” to line 11a, 11b, 11c, or 11d, enter your 48(e) or 48E(h) Control Number:
+f Enter the originating pass-through entity’s employer identification number (EIN) (if applicable):
+No.
+g
+For Paperwork Reduction Act Notice, see separate instructions.
+
+Cat. No. 12276E
+
+Form 3468 (2025) Created 9/24/25
+
+Page 2
+
+Form 3468 (2025)
+
+Part I
+12
+a
+
+b
+c
+
+d
+
+e
+13
+
+a
+b
+c
+d
+e
+
+Information on Qualified Property or Qualified Facility (see instructions) (continued)
+
+Enter the nameplate capacity or storage capacity for your property, facility, or project.
+Solar.
+(i) Nameplate capacity:
+kilowatt (kW) direct current (dc)
+kW ac
+(ii) Nameplate capacity:
+(iii) Check here if the solar energy property or facility includes a solar tracking device . . . . . . . . . . . . .
+Wind nameplate capacity:
+kW ac
+Other.
+(i) Type:
+(ii) Nameplate capacity:
+kW
+(iii) Kilowatt type:
+ac
+dc
+Energy storage.
+(i) Power capacity rating:
+kW
+kilowatt-hours (kWh)
+(ii) Energy storage capacity:
+(iii) Is the energy storage installed in connection with the solar or wind facility a thermal storage? . . . .
+Yes
+No
+Not applicable.
+Are you claiming the investment credit as a lessee based on a section 48(d) (as in effect on November 4,
+Yes
+No
+1990) election? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+If “Yes,” complete lines 13a through 13e. If you acquired more than one property as a lessee, attach a statement showing the
+information below separately reported for each property.
+Name of lessor:
+Address of lessor:
+Description of property:
+Amount for which you were treated as having acquired the property . . . . . . . . . . . .
+$
+Income inclusion amount reported for tax year under Regulations section 1.50-1 . . . . . . . .
+$
+
+Part II
+Qualifying Advanced Coal Project Credit and Qualifying Gasification Project Credit
+Section A—Qualifying Advanced Coal Project Credit Under Section 48A (see instructions)
+1a
+
+Enter the qualified investment in integrated gasification
+combined cycle property placed in service during the
+tax year for projects described in section 48A(d)(3)(B)(i)
+b Multiply line 1a by 20% (0.20) . . . . . . . . .
+2a Enter the qualified investment in advanced coal-based
+generation technology property placed in service
+during the tax year for projects described in section
+48A(d)(3)(B)(ii) . . . . . . . . . . . . .
+b Multiply line 2a by 15% (0.15) . . . . . . . . .
+3a Enter the qualified investment in advanced coal-based
+generation technology property placed in service
+during the tax year for projects described in section
+48A(d)(3)(B)(iii) . . . . . . . . . . . . .
+b Multiply line 3a by 30% (0.30) .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1a
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1b
+
+2a
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+2b
+
+3a
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+3b
+
+Section B—Qualifying Gasification Project Credit Under Section 48B (see instructions)
+4a
+
+Enter the qualified investment in qualified gasification
+property placed in service during the tax year for which
+credits were allocated or reallocated after October 3,
+2008, and that includes equipment that separates and
+sequesters at least 75% of the project’s carbon dioxide
+emissions . . . . . . . . . . . . . . .
+
+4a
+b Multiply line 4a by 30% (0.30) . . . . . . . . . . . . . . . .
+4b
+5a Enter the qualified investment in property other than in
+line 4a above placed in service during the tax year .
+5a
+b Multiply line 5a by 20% (0.20) . . . . . . . . . . . . . . . .
+5b
+6
+Enter the applicable unused investment credit from cooperatives. See
+instructions . . . . . . . . . . . . . . . . . . . . . .
+6
+7
+Add lines 1b, 2b, 3b, 4b, 5b, and 6. Report this amount on Form 3800, Part III, line 1a
+
+.
+
+.
+
+.
+
+.
+
+.
+
+7
+Form 3468 (2025)
+
+Page 3
+
+Form 3468 (2025)
+
+Part III
+
+Qualifying Advanced Energy Project Credit Under Section 48C (see instructions)
+
+Caution: You cannot claim any investment credits for a facility or property under section 48C if you also claimed credits under section 45X.
+1a
+
+Enter the qualified investment in advanced energy
+project property placed in service during the tax year
+
+1a
+
+b If you checked the box in Part I, line 8a, and it’s consistent
+with your section 48C application per Notice 2023-18, enter
+%
+30%. If you checked the box in Part I, line 8c, enter 6% .
+1b
+1c
+c Multiply line 1a by line 1b
+. . . . . . . . . . . . . . . . .
+d Enter your section 48C Allocation control number:
+e Is the facility in a section 48C energy community census tract?
+Yes
+No
+f Enter the originating pass-through entity’s EIN (if applicable):
+2
+Enter the applicable unused investment credit from cooperatives. See instructions
+2
+3
+Add lines 1c and 2. Report this amount on Form 3800, Part III, line 1d . . . . . .
+
+Part IV
+
+.
+
+.
+
+.
+
+.
+
+.
+
+3
+
+.
+
+3
+
+Advanced Manufacturing Investment Credit Under Section 48D (see instructions)
+
+1a
+
+Check the box below that applies to your advanced
+manufacturing investment project.
+Semiconductor manufacturing facility
+Semiconductor equipment manufacturing facility
+b Enter the basis of the qualified investment for the tax
+year with respect to any advanced manufacturing facility 1b
+c Multiply line 1b by 25% (0.25) (35% (0.35) for property placed in service after 2025) 1c
+2
+Enter the applicable unused investment credit from cooperatives. See instructions
+2
+3
+Add lines 1c and 2. Report this amount on Form 3800, Part III, line 1o . . . . . .
+
+.
+
+.
+
+.
+
+.
+
+Part V
+Clean Electricity Investment Credit Under Section 48E
+Section A—Qualified Clean Electricity Facilities (see instructions)
+Caution: You cannot claim any investment credits for a facility under section 38 for the tax year or any prior tax year if a credit was
+allowed under section 45, 45J, 45Q, 45U, 45Y, 48, or 48A.
+1a
+
+Enter the basis of the qualified investment for any
+qualified facility described in section 48E(b)(1) placed in
+service during the tax year . . . . . . . . .
+
+b If you checked Part I, line 7a or 8b, enter 30%.
+Otherwise, enter 6%. For qualified fuel cell property
+described under section 48(c)(1), see instructions
+.
+c Multiply line 1a by line 1b
+. . . . . . . . . .
+d If you checked Part I, line 9a, enter 10%. If you checked
+Part I, line 9b, enter 2%. Otherwise, go to line 1f . .
+e Multiply line 1a by line 1d
+. . . . . . . . . .
+f If you checked Part I, line 10a, enter 10%. If you checked
+Part I, line 10b, enter 2%. Otherwise, go to line 1h . .
+g Multiply line 1a by line 1f . . . . . . . . . . .
+h If you checked the box in Part I, line 11a or 11b, enter
+10%. If you checked the box in Part I, line 11c or 11d,
+enter 20%. However, if you checked the box in Part I, line
+11g; or Part I, line 12a(ii), 12b, or 12c(ii), is 5 MW ac or
+more (in relation to line 11a, 11b, 11c, or 11d), you don’t
+qualify for the bonus credit. In that situation, enter 0%
+here, go to line 1n and enter -0-, and then go to line 2 .
+i Enter the amount of capacity limitation you were
+allocated in the allocation letter
+. . . . . . .
+j
+
+If the entry on Part I, line 12a(i), 12b, or 12c(ii), equals
+the entry on line 1i, multiply line 1a by line 1h and go to
+line 1n. Otherwise, continue to line 1k . . . . .
+
+1a
+
+1b
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1d
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1f
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+%
+1c
+%
+1e
+%
+1g
+
+1h
+
+%
+
+1i
+
+kW
+
+1j
+
+k
+
+If the entry on Part I, line 12a(i), 12b, or 12c(ii), is more
+than the entry on line 1i, divide line 1i by Part I, line
+12a(i), 12b, or 12c(ii) . . . . . . . . . . .
+1k
+l Multiply line 1h by line 1k
+. . . . . . . . .
+1l
+m Multiply line 1a by line 1l . . . . . . . . . .
+1m
+n If Part I, line 12a(i), 12b, or 12c(ii), is more than the entry on line 1i, enter the
+1n
+amount from line 1m. Otherwise, enter the amount from line 1j . . . . .
+2
+Add lines 1c, 1e, 1g, and 1n . . . . . . . . . . . . . . . . . . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+2
+Form 3468 (2025)
+
+Page 4
+
+Form 3468 (2025)
+
+Part V
+Clean Electricity Investment Credit Under Section 48E (continued)
+Section B—Qualified Energy Storage Technology (see instructions)
+Caution: You cannot claim any investment credits for a facility under section 38 for the tax year or any prior tax year if a credit was
+allowed under section 45, 45J, 45Q, 45U, 45Y, 48, or 48A.
+3a
+
+Enter the basis of the qualified investment for any
+energy storage technology described in section 48E(c)
+placed in service during the tax year . . . . . .
+3a
+b If you checked Part I, line 7a or 8b, enter 30%.
+Otherwise, enter 6% . . . . . . . . . . .
+3b
+c Multiply line 3a by line 3b
+. . . . . . . . . . . .
+d If you checked Part I, line 9a, enter 10%. If you checked
+Part I, line 9b, enter 2%. Otherwise, go to line 3f . .
+3d
+e Multiply line 3a by line 3d
+. . . . . . . . . . . .
+f If you checked Part I, line 10a, enter 10%. If you checked
+Part I, line 10b, enter 2%. Otherwise, go to line 4 . .
+3f
+g Multiply line 3a by line 3f . . . . . . . . . . . . .
+h Reserved for future use . . . . . . . . . .
+3h
+i Reserved for future use . . . . . . . . . .
+3i
+j Reserved for future use . . . . . . . . . .
+3j
+k Reserved for future use . . . . . . . . . .
+3k
+l Reserved for future use . . . . . . . . . .
+3l
+m Reserved for future use . . . . . . . . . .
+3m
+n Reserved for future use . . . . . . . . . . . . .
+4
+Add lines 3c, 3e, and 3g . . . . . . . . . . . . .
+
+%
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+3c
+%
+3e
+%
+3g
+
+.
+
+3n
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+4
+
+Section C—Totals, Credit Reduction for Subsidized Energy Financing or Private Activity Bonds, and Credit Phaseout
+(see instructions)
+5
+
+Add Part V, lines 2 and 4 . . . . . . . . . .
+If proceeds of subsidized energy financing or private
+activity bonds were not used to finance your qualified
+clean electricity facility or your qualified energy storage
+technology, skip line 6, and go to line 7.
+
+6a
+
+Divide.
+
+Sum, for the tax year and all prior tax years, of
+all proceeds of subsidized energy financing or
+private activity bonds used to finance the
+qualified facility or qualified storage
+technology, as of the close of the tax year
+
+Aggregate amount of additions to the capital
+account for the qualified facility, for the tax
+year and all prior tax years, as of the close of
+the tax year
+
+b
+c
+d
+e
+7
+
+8
+
+9
+10
+11
+
+.
+
+.
+
+.
+
+5
+
+6a
+
+Multiply line 5 by line 6a . . . . . . . . . .
+6b
+Multiply line 5 by 15% (0.15) . . . . . . . .
+6c
+Enter the smaller of line 6b or 6c . . . . . . .
+6d
+Subtract line 6d from line 5 . . . . . . . . .
+6e
+If proceeds of subsidized energy financing or private
+activity bonds were used to finance your facility, enter
+the amount from line 6e. Otherwise, enter the amount
+from line 5 . . . . . . . . . . . . . .
+7
+If you are making an elective payment election under section 6417 and the
+facility doesn’t meet the rules of section 45Y(g)(12)(B)(i), doesn’t have a
+maximum net output of less than 1 MW (as measured in ac), or meet an
+exception under section 45Y(g)(12)(D), and construction began in 2024, 2025,
+or after 2025, multiply line 7 by line A, B, or C below. All others, enter the
+amount from line 7.
+A. Construction began in 2024, 90% (0.90)
+B. Construction began in 2025, 85% (0.85)
+C. Construction began after 2025, 0% (0.00) . . . . . . . . . . .
+8
+Reserved for future use . . . . . . . . . . . . . . . . . .
+9
+Enter the applicable unused investment credit from cooperatives. See instructions 10
+Add lines 8 and 10. Report this amount on Form 3800, Part III, line 1v . . . . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+11
+Form 3468 (2025)
+
+Page 5
+
+Form 3468 (2025)
+
+Part VI
+Energy Credit Under Section 48
+Section A—Geothermal Energy Credit (see instructions)
+1a
+
+Enter the basis of property using geothermal energy
+placed in service during the tax year . . . . . .
+b Applicable energy percentage. See instructions . .
+c Multiply line 1a by line 1b
+. . . . . . . . . .
+d If you checked the box in Part I, line 9a, enter 10%. If
+you checked the box in Part I, line 9b, enter 2%.
+Otherwise, go to line 1f . . . . . . . . . .
+
+1a
+1b
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1d
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+1f
+. .
+. .
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+Enter the basis of property using solar illumination
+(including electrochromic glass) or either solar energy
+property or solar facility placed in service during the tax
+year
+. . . . . . . . . . . . . . . .
+b Applicable energy percentage. See instructions . .
+c Multiply line 3a by line 3b
+. . . . . . . . . .
+
+3a
+3b
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+e
+f
+
+Multiply line 1a by line 1d
+. . . . . . . . . .
+If you checked the box in Part I, line 10a, enter 10%. If
+you checked the box in Part I, line 10b, enter 2%.
+Otherwise, go to line 2 . . . . . . . . . .
+
+g Multiply line 1a by line 1f .
+2
+Add lines 1c, 1e, and 1g .
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+%
+1c
+
+%
+1e
+
+%
+.
+
+1g
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+2
+
+.
+
+.
+
+.
+
+.
+
+.
+
+4
+
+Section B—Solar Energy Credit (see instructions)
+3a
+
+%
+3c
+
+Caution: Property described under section 48(a)(3)(ii) does not qualify for the solar
+facility in connection with low-income community bonus credit under section 48(e). If
+completing Section B for a section 48(a)(3)(ii) property, skip lines 3d through 3j, and
+go to line 3k.
+d If you checked the box in Part I, line 11a or 11b, enter
+10%. If you checked the box in Part I, line 11c or 11d,
+enter 20%. However, if you checked the box in Part I,
+line 11g; or Part I, line 12a(ii), is 5 MW ac or more (in
+relation to line 11a, 11b, 11c, or 11d), you don’t qualify
+for the bonus credit. In that situation, enter 0% here,
+go to line 3j and enter -0-, and then go to line 3k . .
+e Enter the amount of capacity limitation you were
+allocated in the allocation letter
+. . . . . . .
+f If the entry on Part I, line 12a(i), equals the entry on line
+3e, multiply line 3a by line 3d and go to line 3j.
+Otherwise, continue to line 3g . . . . . . . .
+
+3d
+
+%
+
+3e
+
+kW dc
+
+3f
+g If the entry on Part I, line 12a(i), is more than the entry
+on line 3e, divide line 3e by Part I, line 12a(i) . . .
+3g
+h Multiply line 3d by line 3g . . . . . . . . .
+3h
+i Multiply line 3a by line 3h
+. . . . . . . . .
+3i
+j If Part I, line 12a(i), is more than the entry on line 3e, enter the amount from line
+3i. Otherwise, enter the amount from line 3f . . . . . . . . . . .
+3j
+k If you checked the box in Part I, line 9a, enter 10%. If
+you checked the box in Part I, line 9b, enter 2%.
+Otherwise, go to line 3m . . . . . . . . . .
+3k
+%
+l Multiply line 3a by line 3k
+. . . . . . . . . . . . . . . . .
+3l
+m If you checked the box in Part I, line 10a, enter 10%. If
+you checked the box in Part I, line 10b, enter 2%.
+Otherwise, go to line 4 . . . . . . . . . .
+%
+3m
+n Multiply line 3a by line 3m . . . . . . . . . . . . . . . . .
+3n
+4
+Add lines 3c, 3j, 3l, and 3n . . . . . . . . . . . . . . . . . . . .
+
+Form 3468 (2025)
+
+Page 6
+
+Form 3468 (2025)
+
+Part VI
+Energy Credit Under Section 48 (continued)
+Section C—Qualified Fuel Cell Property (see instructions)
+5a
+
+Enter the basis of property using qualified fuel cell
+property placed in service during the tax year that was
+acquired after 2005 and before October 4, 2008, and
+the basis attributable to construction, reconstruction,
+or erection by the taxpayer after 2005 and before
+October 4, 2008
+. . . . . . . . . . . .
+b Multiply line 5a by 30% (0.30) . . . . . . . .
+c Enter the applicable kW capacity of property on line 5a.
+See instructions . . . . . . . . . . . . .
+d Multiply line 5c by $1,000 . . . . . . . . .
+e Enter the smaller of line 5b or 5d . . . . . . . .
+f Enter the basis of property using qualified fuel cell
+property placed in service during the tax year that is
+attributable to periods after October 3, 2008 . . .
+g If you checked the box in Part I, line 7a or 8b, enter
+30%. Otherwise, enter 6% . . . . . . . . .
+h Multiply line 5f by line 5g . . . . . . . . . .
+i If you checked the box in Part I, line 9a, enter 10%. If
+you checked the box in Part I, line 9b, enter 2%.
+Otherwise, go to line 5l . . . . . . . . . .
+j
+k
+l
+
+Multiply line 5f by line 5i . . . . . . . . . .
+Reserved for future use . . . . . . . . . . .
+If you checked the box in Part I, line 10a, enter 10%. If
+you checked the box in Part I, line 10b, enter 2%.
+Otherwise, go to line 5n . . . . . . . . . .
+
+5a
+5b
+5c
+5d
+. .
+
+.
+
+.
+
+.
+
+.
+
+5e
+
+.
+
+5f
+5g
+5h
+
+%
+
+5i
+5j
+. .
+
+%
+
+5l
+m Multiply line 5f by line 5l . . . . . . . . . .
+5m
+n Add lines 5h, 5j, and 5m . . . . . . . . . .
+5n
+o Enter the applicable kW capacity of property on line 5f.
+See instructions . . . . . . . . . . . . .
+5o
+p Multiply line 5o by $3,000 . . . . . . . . .
+5p
+q Enter the smaller of line 5n or 5p . . . . . . . . . .
+6
+Add lines 5e and 5q . . . . . . . . . . . . . .
+
+.
+
+.
+
+.
+
+.
+
+5k
+
+.
+
+%
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+
+5q
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+6
+
+.
+
+.
+
+.
+
+.
+
+.
+
+8
+
+Section D—Qualified Microturbine Property (see instructions)
+7a
+
+Enter the basis of property using microturbine property
+placed in service during the tax year that was acquired
+after 2005, and the basis attributable to construction,
+reconstruction, or erection by the taxpayer after 2005 .
+b If you checked the box in Part I, line 7a or 8b, enter
+10%. Otherwise, enter 2% . . . . . . . . .
+c Multiply line 7a by line 7b
+. . . . . . . . .
+d If you checked the box in Part I, line 9a, enter 10%. If
+you checked the box in Part I, line 9b, enter 2%.
+Otherwise, go to line 7g . . . . . . . . . .
+e Multiply line 7a by line 7d
+. . . . . . . . .
+f Reserved for future use . . . . . . . . . . .
+g If you checked the box in Part I, line 10a, enter 10%. If
+you checked the box in Part I, line 10b, enter 2%.
+Otherwise, go to line 7i . . . . . . . . . .
+h
+i
+j
+k
+l
+
+8
+
+Multiply line 7a by line 7g
+. . . . . . . . .
+Add lines 7c, 7e, and 7h . . . . . . . . . . .
+Enter the applicable kW capacity of property on line 7a.
+See instructions . . . . . . . . . . . . .
+Reserved for future use . . . . . . . . . .
+Multiply line 7j by $200 . . . . . . . . . . .
+Enter the smaller of line 7i or 7l . . . . . . . . .
+
+7a
+7b
+7c
+
+%
+
+7d
+7e
+. .
+
+%
+.
+
+.
+
+.
+
+.
+
+7f
+
+.
+
+7g
+7h
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+7j
+7k
+. .
+. .
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+%
+7i
+
+.
+
+7l
+. .
+
+Form 3468 (2025)
+
+Page 7
+
+Form 3468 (2025)
+
+Part VI
+Energy Credit Under Section 48 (continued)
+Section E—Combined Heat and Power System Property (see instructions)
+Caution: You can’t claim this credit if the electrical capacity of the property is more than 50 MW or has a mechanical energy capacity
+of more than 67,000 horsepower or an equivalent combination of electrical and mechanical energy capabilities.
+9a
+
+Enter the basis of property using combined heat and
+power system placed in service during the tax year .
+b If the electrical capacity of the property is measured in:
+• MW, divide 15 by the MW capacity. Enter 1.0 if the
+capacity is 15 MW or less.
+• Horsepower, divide 20,000 by the horsepower. Enter
+1.0 if the capacity is 20,000 horsepower or less . .
+c Multiply line 9a by line 9b
+. . . . . . . . .
+d If you checked the box in Part I, line 7a or 8b, enter
+30%. Otherwise, enter 6% . . . . . . . . .
+e Multiply line 9c by line 9d
+. . . . . . . . . .
+f If you checked the box in Part I, line 9a, enter 10%. If
+you checked the box in Part I, line 9b, enter 2%.
+Otherwise, go to line 9h . . . . . . . . . .
+
+g Multiply line 9c by line 9f . . . . . . . . . . .
+h If you checked the box in Part I, line 10a, enter 10%. If
+you checked the box in Part I, line 10b, enter 2%.
+Otherwise, go to line 10 . . . . . . . . . .
+i Multiply line 9c by line 9h
+. . . . . . . . . .
+10
+Add lines 9e, 9g, and 9i . . . . . . . . . . .
+
+9a
+
+9b
+9c
+
+.
+
+9d
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+9f
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+9h
+. .
+. .
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+%
+9e
+
+%
+9g
+
+%
+.
+
+9i
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+10
+
+.
+
+.
+
+.
+
+.
+
+.
+
+12
+
+Section F—Qualified Small Wind Energy Property (see instructions)
+11a
+b
+c
+d
+e
+f
+
+Reserved for future use . . . . . . . . . .
+Reserved for future use . . . . . . . . . .
+Reserved for future use . . . . . . . . . . .
+Enter the basis of property using small wind energy
+property placed in service during the tax year . . .
+If you checked the box in Part I, line 7a or 8b, enter
+30%. Otherwise, enter 6% . . . . . . . . .
+Multiply line 11d by line 11e . . . . . . . . . .
+
+g If you checked the box in Part I, line 11a or 11b, enter
+10%. If you checked the box in Part I, line 11c or 11d,
+enter 20%. However, if you checked the box in Part I,
+line 11g; or Part I, line 12b, is 5 MW ac or more (in
+relation to line 11a, 11b, 11c, or 11d), you don’t qualify
+for the bonus credit. In that situation, enter 0% here, go
+to line 11m and enter -0-, and then go to line 11n . .
+h Enter the amount of capacity limitation you were
+allocated in the allocation letter
+. . . . . . .
+i If the entry on Part I, line 12b, equals the entry on line
+11h, multiply line 11d by line 11g and go to line 11m.
+Otherwise, continue to line 11j . . . . . . . .
+
+11a
+11b
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+11c
+
+11d
+11e
+. .
+
+%
+11f
+
+11g
+
+%
+
+11h
+
+kW
+
+11i
+If the entry on Part I, line 12b, is more than the entry on
+line 11h, divide line 11h by Part I, line 12b . . . .
+11j
+k Multiply line 11g by line 11j . . . . . . . . .
+11k
+11l
+l Multiply line 11d by line 11k . . . . . . . . .
+m If Part I, line 12b, is more than the entry on line 11h, enter the amount from line
+11l. Otherwise, enter the amount from line 11i . . . . . . . . . . .
+11m
+n If you checked the box in Part I, line 9a, enter 10%. If
+you checked the box in Part I, line 9b, enter 2%.
+Otherwise, go to line 11p . . . . . . . . . .
+11n
+%
+o Multiply line 11d by line 11n . . . . . . . . . . . . . . . . .
+11o
+p If you checked the box in Part I, line 10a, enter 10%. If
+you checked the box in Part I, line 10b, enter 2%.
+Otherwise, go to line 12 . . . . . . . . . .
+11p
+%
+q Multiply line 11d by line 11p . . . . . . . . . . . . . . . . .
+11q
+12
+Add lines 11f, 11m, 11o, and 11q . . . . . . . . . . . . . . . . . .
+j
+
+Form 3468 (2025)
+
+Page 8
+
+Form 3468 (2025)
+
+Part VI
+Energy Credit Under Section 48 (continued)
+Section G—Waste Energy Recovery Property (see instructions)
+13a
+
+Enter the basis of property using waste energy
+recovery placed in service during the tax year . . .
+13a
+b If you checked the box in Part I, line 7a or 8b, enter
+30%. Otherwise, enter 6% . . . . . . . . .
+13b
+c Multiply line 13a by line 13b . . . . . . . . . . . .
+d If you checked the box in Part I, line 9a, enter 10%. If
+you checked the box in Part I, line 9b, enter 2%.
+Otherwise, go to line 13f . . . . . . . . . .
+13d
+e Multiply line 13a by line 13d . . . . . . . . . . . .
+f If you checked the box in Part I, line 10a, enter 10%. If
+you checked the box in Part I, line 10b, enter 2%.
+Otherwise, go to line 14 . . . . . . . . . .
+13f
+g Multiply line 13a by line 13f . . . . . . . . . . . .
+14
+Add lines 13c, 13e, and 13g . . . . . . . . . . . .
+
+%
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+13c
+
+%
+13e
+
+%
+.
+
+13g
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+14
+
+.
+
+.
+
+.
+
+.
+
+.
+
+16
+
+Section H—Geothermal Heat Pump Systems (see instructions)
+15a
+
+Enter the basis of property using geothermal heat
+pump systems placed in service during the tax year .
+15a
+b If you checked the box in Part I, line 7a or 8b, enter
+30%. Otherwise, enter 6% . . . . . . . . .
+15b
+c Multiply line 15a by line 15b . . . . . . . . . . . .
+d If you checked the box in Part I, line 9a, enter 10%. If
+you checked the box in Part I, line 9b, enter 2%.
+Otherwise, go to line 15f . . . . . . . . . .
+15d
+e Multiply line 15a by line 15d . . . . . . . . . . . .
+f If you checked the box in Part I, line 10a, enter 10%. If
+you checked the box in Part I, line 10b, enter 2%.
+Otherwise, go to line 16 . . . . . . . . . .
+15f
+g Multiply line 15a by line 15f . . . . . . . . . . . .
+16
+Add lines 15c, 15e, and 15g . . . . . . . . . . . .
+
+%
+15c
+
+%
+15e
+
+%
+.
+
+15g
+. .
+
+Form 3468 (2025)
+
+Page 9
+
+Form 3468 (2025)
+
+Part VI
+Energy Credit Under Section 48 (continued)
+Section I—Energy Storage Technology Property (see instructions)
+17a
+
+Enter the basis of property using energy storage
+technology placed in service during the tax year . .
+17a
+b If you checked the box in Part I, line 7a or 8b, enter
+30%. Otherwise, enter 6% . . . . . . . . .
+17b
+c Multiply line 17a by line 17b . . . . . . . . . . . .
+
+%
+.
+
+.
+
+.
+
+.
+
+17c
+
+.
+
+Caution: For lines 17d through 17j, the energy storage technology property must be
+installed in connection with a solar or wind energy property under section 45(d)(1),
+48(a)(3)(A)(i), or 48(a)(3)(A)(vi) that qualifies for the low-income community bonus credit
+under section 48(e) to also qualify for the bonus credit. If the energy storage
+technology property is not installed in connection with such solar or wind energy
+property, then skip lines 17d through 17j, and go to line 17k.
+d If you checked the box in Part I, line 11a or 11b, enter
+10%. If you checked the box in Part I, line 11c or 11d,
+enter 20%. However, if you checked the box in Part I,
+line 11g; or Part I, line 12a(ii) or 12b, is 5 MW ac or more
+(in relation to line 11a, 11b, 11c, or 11d), you don’t
+qualify for the bonus credit. In that situation, enter 0%
+here, go to line 17j and enter -0-, and then go to line 17k
+
+17d
+
+%
+
+e
+
+Enter the amount of capacity limitation you were
+allocated in the allocation letter for the solar or wind
+energy property in connection with the energy storage
+technology . . . . . . . . . . . . . .
+
+17e
+
+kW
+
+f
+
+If the relevant entry on Part I, line 12a(i) or 12b, equals
+the entry on line 17e, multiply line 17a by line 17d and
+go to line 17j. Otherwise, continue to line 17g . . .
+
+17f
+
+g If the relevant entry on Part I, line 12a(i) or 12b, is more
+than the entry on line 17e, divide line 17e by Part I, line
+12a(i) or 12b . . . . . . . . . . . . . .
+h
+i
+j
+
+k
+
+17g
+Multiply line 17d by line 17g . . . . . . . . .
+17h
+Multiply line 17a by line 17h . . . . . . . . .
+17i
+If the entry for the solar or wind energy property in connection with the energy
+storage technology on Part I, line 12a(i) or 12b, is more than the entry on line
+17e, enter the amount from line 17i. Otherwise, enter the amount from line 17f
+If you checked the box in Part I, line 9a, enter 10%. If
+you checked the box in Part I, line 9b, enter 2%.
+Otherwise, go to line 17m . . . . . . . . .
+
+17k
+l Multiply line 17a by line 17k . . . . . . . . . . . . .
+m If you checked the box in Part I, line 10a, enter 10%. If
+you checked the box in Part I, line 10b, enter 2%.
+Otherwise, go to line 18 . . . . . . . . . .
+17m
+n Multiply line 17a by line 17m . . . . . . . . . . . .
+18
+Add lines 17c, 17j, 17l, and 17n . . . . . . . . . . .
+
+17j
+
+%
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+17l
+
+%
+.
+
+17n
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+18
+
+.
+
+.
+
+.
+
+.
+
+.
+
+20
+
+Section J—Qualified Biogas Property (see instructions)
+19a
+
+Enter the basis of property using biogas placed in
+service during the tax year . . . . . . . . .
+19a
+b If you checked the box in Part I, line 7a or 8b, enter
+30%. Otherwise, enter 6% . . . . . . . . .
+19b
+c Multiply line 19a by line 19b . . . . . . . . . . . .
+d If you checked the box in Part I, line 9a, enter 10%. If
+you checked the box in Part I, line 9b, enter 2%.
+Otherwise, go to line 19f . . . . . . . . . .
+19d
+e Multiply line 19a by line 19d . . . . . . . . . . . .
+f If you checked the box in Part I, line 10a, enter 10%. If
+you checked the box in Part I, line 10b, enter 2%.
+Otherwise, go to line 20 . . . . . . . . . .
+19f
+g Multiply line 19a by line 19f . . . . . . . . . . . .
+20
+Add lines 19c, 19e, and 19g . . . . . . . . . . . .
+
+%
+19c
+
+%
+19e
+
+%
+.
+
+19g
+. .
+
+Form 3468 (2025)
+
+Page 10
+
+Form 3468 (2025)
+
+Part VI
+Energy Credit Under Section 48 (continued)
+Section K—Microgrid Controllers Property (see instructions)
+21a
+
+Enter the basis of property using microgrid controllers
+placed in service during the tax year . . . . . .
+21a
+b If you checked the box in Part I, line 7a or 8b, enter
+30%. Otherwise, enter 6% . . . . . . . . .
+21b
+c Multiply line 21a by line 21b . . . . . . . . . . . .
+d If you checked the box in Part I, line 9a, enter 10%. If
+you checked the box in Part I, line 9b, enter 2%.
+Otherwise, go to line 21f . . . . . . . . . .
+21d
+e Multiply line 21a by line 21d . . . . . . . . . . . .
+f If you checked the box in Part I, line 10a, enter 10%. If
+you checked the box in Part I, line 10b, enter 2%.
+Otherwise, go to line 22 . . . . . . . . . .
+21f
+g Multiply line 21a by line 21f . . . . . . . . . . . .
+22
+Add lines 21c, 21e, and 21g . . . . . . . . . . . .
+
+%
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+21c
+
+%
+21e
+
+%
+.
+
+21g
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+22
+
+.
+
+.
+
+.
+
+.
+
+.
+
+24
+
+Section L—Qualified Investment Credit Facility Property (see instructions)
+23a
+
+Enter the basis of property using investment credit
+facility property placed in service during the tax year .
+23a
+b If you checked the box in Part I, line 7a or 8b, enter
+30%. Otherwise, enter 6% . . . . . . . . .
+%
+23b
+c Multiply line 23a by line 23b . . . . . . . . . . . . . . . . .
+23c
+Caution: For property other than that described under section 45(d)(1), the property
+does not qualify for the wind facility in connection with the low-income community
+bonus credit under section 48(e). Skip lines 23d through 23j, and go to line 23k.
+d If you checked the box in Part I, line 11a or 11b, enter
+10%. If you checked the box in Part I, line 11c or 11d,
+enter 20%. However, if you checked the box in Part I,
+line 11g; or Part I, line 12b, is 5 MW ac or more (in
+relation to line 11a, 11b, 11c, or 11d), you don’t qualify
+for the bonus credit. In that situation, enter 0% here,
+go to line 23j and enter -0-, and then go to line 23k .
+e Enter the amount of capacity limitation you were
+allocated in the allocation letter
+. . . . . . .
+f If the entry on Part I, line 12b, equals the entry on line
+23e, multiply line 23a by line 23d and go to line 23j.
+Otherwise, continue to line 23g
+. . . . . . .
+
+23d
+
+%
+
+23e
+
+kW
+
+23f
+g If the entry on Part I, line 12b, is more than the entry on
+line 23e, divide line 23e by Part I, line 12b . . . .
+23g
+h Multiply line 23d by line 23g . . . . . . . . .
+23h
+i Multiply line 23a by line 23h . . . . . . . . .
+23i
+j If Part I, line 12b, is more than the entry on line 23e, enter the amount from line
+23i. Otherwise, enter the amount from line 23f . . . . . . . . . . .
+23j
+k If you checked the box in Part I, line 9a, enter 10%. If
+you checked the box in Part I, line 9b, enter 2%.
+Otherwise, go to line 23m . . . . . . . . .
+23k
+%
+l Multiply line 23a by line 23k . . . . . . . . . . . . . . . . .
+23l
+m If you checked the box in Part I, line 10a, enter 10%. If
+you checked the box in Part I, line 10b, enter 2%.
+Otherwise, go to line 24 . . . . . . . . . .
+23m
+%
+n Multiply line 23a by line 23m . . . . . . . . . . . . . . . .
+23n
+24
+Add lines 23c, 23j, 23l, and 23n . . . . . . . . . . . . . . . . . .
+
+Form 3468 (2025)
+
+Page 11
+
+Form 3468 (2025)
+
+Part VI
+Energy Credit Under Section 48 (continued)
+Section M—Clean Hydrogen Production Facilities as Energy Property (see instructions)
+Caution: If you choose to treat specified clean hydrogen production property as energy property, you cannot also take the credit
+under section 45V or 45Q. Production and sale or use of clean hydrogen must be verified by an unrelated party. Attach a copy of the
+verification report to the tax return.
+25a Enter the basis of property placed in service during the
+tax year for the facility that is designed and reasonably
+expected to produce qualified clean hydrogen per
+section 45V(b)(2)(A)
+. . . . . . . . . . .
+25a
+b If you checked the box in Part I, line 8b, enter 6%. If
+you checked the box in Part I, line 8c, enter 1.2% .
+%
+25b
+25c
+c Multiply line 25a by line 25b . . . . . . . . . . . . . . . . .
+d Enter the basis of property placed in service during the
+tax year for the facility that is designed and reasonably
+expected to produce qualified clean hydrogen per
+section 45V(b)(2)(B)
+. . . . . . . . . . .
+25d
+e If you checked the box in Part I, line 8b, enter 7.5%. If
+you checked the box in Part I, line 8c, enter 1.5% .
+%
+25e
+f Multiply line 25d by line 25e . . . . . . . . . . . . . . . . .
+25f
+g Enter the basis of property placed in service during the
+tax year for the facility that is designed and reasonably
+expected to produce qualified clean hydrogen per
+section 45V(b)(2)(C) . . . . . . . . . . .
+25g
+h If you checked the box in Part I, line 8b, enter 10%. If
+you checked the box in Part I, line 8c, enter 2% . .
+25h
+%
+i Multiply line 25g by line 25h . . . . . . . . . . . . . . . . .
+25i
+j Enter the basis of property placed in service during the
+tax year for the facility that is designed and reasonably
+expected to produce qualified clean hydrogen per
+section 45V(b)(2)(D) . . . . . . . . . . .
+25j
+k If you checked the box in Part I, line 8b, enter 30%. If
+you checked the box in Part I, line 8c, enter 6% . .
+%
+25k
+25l
+l Multiply line 25j by line 25k . . . . . . . . . . . . . . . . .
+26
+Add lines 25c, 25f, 25i, and 25l . . . . . . . . . . . . . . . . . . . . . . . .
+26
+
+Section N—Totals and Credit Reduction for Tax-Exempt Bonds (see instructions)
+27
+
+28a
+
+b
+c
+d
+e
+29
+30
+
+31
+32
+
+Add Part VI, lines 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22,
+24, and 26 . . . . . . . . . . . . . .
+If proceeds of tax-exempt bonds were not used to
+finance your facility, skip line 28, and go to line 29.
+Divide.
+Sum, for the tax year and all prior tax years, of all
+proceeds of tax-exempt bonds (within the
+meaning of section 103), used to finance the
+qualified facility, as of the close of the tax year
+.
+Aggregate amount of additions to the capital
+account for the qualified facility, for the tax year and
+all prior tax years, as of the close of the tax year
+
+.
+
+27
+
+28a
+
+Multiply line 27 by line 28a . . . . . . . . .
+28b
+Multiply line 27 by 15% (0.15) . . . . . . . .
+28c
+Enter the smaller of line 28b or 28c . . . . . .
+28d
+Subtract line 28d from line 27 . . . . . . . .
+28e
+If proceeds of tax-exempt bonds were used to finance your facility, enter the
+amount from line 28e. Otherwise, enter the amount from line 27 . . . . .
+
+29
+If you are making an elective payment election under section 6417 for a facility
+whose construction began in calendar year 2024, and the facility doesn’t meet
+the rules of section 48(a)(12)(B), doesn’t have a maximum net output of less than
+1 MW (as measured in ac), or meet an exception under section 45(b)(10)(D),
+multiply line 29 by 90% (0.90). All others, enter the amount from line 29 . . .
+30
+Enter the applicable unused investment credit from cooperatives. See instructions 31
+Add lines 30 and 31. Report this amount on Form 3800, Part III, line 4a . . . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+32
+Form 3468 (2025)
+
+Page 12
+
+Form 3468 (2025)
+
+Part VII
+
+Rehabilitation Credit Under Section 47 (see instructions)
+
+1a Was there a prior section 170(h) deduction on this property?
+Yes
+No
+b If “Yes” to line 1a, then provide the prior NPS number
+c Check this box if you are electing under section 47(d)(5) to take your qualified rehabilitation expenditures into account for
+the tax year in which paid (or, for self-rehabilitated property, when capitalized). This election applies to the current tax year
+and to all later tax years. You may not revoke this election without IRS consent . . . . . . . . . . . . . . .
+d Enter the dates for the 24- or 60-month measuring period.
+Beginning date:
+End date:
+e Enter the adjusted basis of the building as of the beginning date above (or the first day of your holding
+$
+period, if later) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+f Enter the amount of the qualified rehabilitation expenditures incurred, or treated as incurred, during the
+$
+period on line 1d above . . . . . . . . . . . . . . . . . . . . . . . . . . .
+g Enter the amount of qualified rehabilitation expenditures 1g
+h Reserved for future use . . . . . . . . . . . . . . . . . .
+1h
+i Reserved for future use . . . . . . . . . . . . . . . . . .
+1i
+j For certified historic structures with expenditures paid or incurred, multiply line
+1g by 4% (0.04) . . . . . . . . . . . . . . . . . . . . .
+1j
+Note: This credit is allowed for a 5-year period beginning in the tax year that
+the qualified rehabilitated building is placed in service.
+k If you completed line 1j, enter the following.
+(i) The assigned NPS project number:
+.
+.
+(ii) The originating pass-through entity’s EIN (if applicable):
+(iii) The date the NPS approved the Request for Certification of Completed
+Work:
+.
+l Reserved for future use.
+m If you have not received an approved certification of completed work, enter
+the date that is 30 months after the date that the original rehabilitation credit
+was claimed for the property:
+,
+and attach the first page of NPS Form 10-168, with an indication that it was
+received, and a statement that you did not receive the final certification of
+completed work before the date above.
+2
+3
+
+Enter the applicable unused investment credit from cooperatives. See
+instructions . . . . . . . . . . . . . . . . . . . . . .
+Add lines 1j and 2. Report this amount on Form 3800, Part III, line 4k . . . .
+
+2
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+3
+Form 3468 (2025)
+
+

@@ -1,0 +1,29 @@
+{
+  "question": {
+    "id": "hsa-distribution-used-for-qualified-medical-expenses",
+    "wording": "Was this Form 1099-SA distribution used entirely for qualified medical expenses (or rolled over)?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes — all of it; not taxable"
+      },
+      {
+        "value": "no",
+        "label": "No — some of it was not; the taxable part is figured on Form 8889 or 8853"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Form 1099-SA",
+        "line": "Instructions for Recipient",
+        "revision": "2025",
+        "wording": "An HSA or Archer MSA distribution isn't taxable if you used it to pay qualified medical expenses of the account holder or eligible family member or you rolled it over.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1099sa--2025.pdf"
+      }
+    }
+  }
+}

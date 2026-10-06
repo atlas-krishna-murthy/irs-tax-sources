@@ -1,0 +1,212 @@
+{
+  "form": {
+    "id": "form-8949",
+    "form": "Form 8949",
+    "title": "Sales and Other Dispositions of Capital Assets",
+    "kind": "form",
+    "revision": "2025",
+    "revision_printed_as": "Form 8949 (2025) Created 5/5/25",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8949--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8949",
+    "lines": [
+      {
+        "line": "header",
+        "caption": "File with your Schedule D to list your transactions for lines 1b, 2, 3, 8b, 9, and 10 of Schedule D.",
+        "type": "text"
+      },
+      {
+        "line": "part i note",
+        "caption": "Note: You may aggregate all short-term transactions reported on Form(s) 1099-B and Form(s) 1099-DA showing basis was reported to the IRS and for which no adjustments or codes are required. Enter the totals directly on Schedule D, line 1a; you aren\u2019t required to report these transactions on Form 8949 (see instructions).",
+        "type": "text"
+      },
+      {
+        "line": "part ii note",
+        "caption": "Note: You may aggregate all long-term transactions reported on Form(s) 1099-B and Form(s) 1099-DA showing basis was reported to the IRS and for which no adjustments or codes are required. Enter the totals directly on Schedule D, line 8a; you aren\u2019t required to report these transactions on Form 8949 (see instructions).",
+        "type": "text"
+      },
+      {
+        "line": "box a",
+        "caption": "(A) Short-term transactions reported on Form(s) 1099-B showing basis was reported to the IRS (see Note above)",
+        "type": "checkbox"
+      },
+      {
+        "line": "box b",
+        "caption": "(B) Short-term transactions reported on Form(s) 1099-B showing basis was not reported to the IRS",
+        "type": "checkbox"
+      },
+      {
+        "line": "box c",
+        "caption": "(C) Short-term transactions, other than digital asset transactions, not reported to you on Form 1099-B or Form 1099-DA",
+        "type": "checkbox"
+      },
+      {
+        "line": "box g",
+        "caption": "(G) Short-term transactions reported on Form(s) 1099-DA showing basis was reported to the IRS (see Note above)",
+        "type": "checkbox"
+      },
+      {
+        "line": "box h",
+        "caption": "(H) Short-term transactions reported on Form(s) 1099-DA showing basis was not reported to the IRS",
+        "type": "checkbox"
+      },
+      {
+        "line": "box i",
+        "caption": "(I) Short-term digital asset transactions not reported to you on Form 1099-DA or Form 1099-B",
+        "type": "checkbox"
+      },
+      {
+        "line": "box d",
+        "caption": "(D) Long-term transactions reported on Form(s) 1099-B showing basis was reported to the IRS (see Note above)",
+        "type": "checkbox"
+      },
+      {
+        "line": "box e",
+        "caption": "(E) Long-term transactions reported on Form(s) 1099-B showing basis was not reported to the IRS",
+        "type": "checkbox"
+      },
+      {
+        "line": "box f",
+        "caption": "(F) Long-term transactions, other than digital asset transactions, not reported to you on Form 1099-B or Form 1099-DA",
+        "type": "checkbox"
+      },
+      {
+        "line": "box j",
+        "caption": "(J) Long-term transactions reported on Form(s) 1099-DA showing basis was reported to the IRS (see Note above)",
+        "type": "checkbox"
+      },
+      {
+        "line": "box k",
+        "caption": "(K) Long-term transactions reported on Form(s) 1099-DA showing basis was not reported to the IRS",
+        "type": "checkbox"
+      },
+      {
+        "line": "box l",
+        "caption": "(L) Long-term digital asset transactions not reported to you on Form 1099-DA or Form 1099-B",
+        "type": "checkbox"
+      },
+      {
+        "line": "1",
+        "caption": "(a) Description of property (Example: 100 sh. XYZ Co.)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h"
+        ],
+        "rows_are": "instances",
+        "notes": "Part I (short-term) transaction rows; the face prints only the column headings (a)-(h), declared on the form's columns. One row per transaction."
+      },
+      {
+        "line": "2",
+        "caption": "Totals. Add the amounts in columns (d), (e), (g), and (h) (subtract negative amounts). Enter each total here and include on your Schedule D, line 1b (if Box A or Box G above is checked), line 2 (if Box B or Box H above is checked), or line 3 (if Box C or Box I above is checked)",
+        "type": "money",
+        "columns": [
+          "d",
+          "e",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "line": "2 (part ii)",
+        "caption": "Totals. Add the amounts in columns (d), (e), (g), and (h) (subtract negative amounts). Enter each total here and include on your Schedule D, line 8b (if Box D or Box J above is checked), line 9 (if Box E or Box K above is checked), or line 10 (if Box F or Box L above is checked)",
+        "type": "money",
+        "columns": [
+          "d",
+          "e",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "line": "note (part i)",
+        "caption": "Note: If you checked Box A or Box G above but the basis reported to the IRS was incorrect, enter in column (e) the basis as reported to the IRS, and enter an adjustment in column (g) to correct the basis. See Column (g) in the separate instructions for how to figure the amount of the adjustment.",
+        "type": "text"
+      },
+      {
+        "line": "note (part ii)",
+        "caption": "Note: If you checked Box D or Box J above but the basis reported to the IRS was incorrect, enter in column (e) the basis as reported to the IRS, and enter an adjustment in column (g) to correct the basis. See Column (g) in the separate instructions for how to figure the amount of the adjustment.",
+        "type": "text"
+      },
+      {
+        "line": "1 (part ii)",
+        "caption": "(a) Description of property (Example: 100 sh. XYZ Co.)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h"
+        ],
+        "rows_are": "instances",
+        "notes": "Part II (long-term) transaction rows, the same eight columns (a)-(h). Line 2 (part ii) totals them."
+      }
+    ],
+    "columns": [
+      {
+        "column": "a",
+        "caption": "Description of property (Example: 100 sh. XYZ Co.)"
+      },
+      {
+        "column": "b",
+        "caption": "Date acquired (Mo., day, yr.)"
+      },
+      {
+        "column": "c",
+        "caption": "Date sold or disposed of (Mo., day, yr.)"
+      },
+      {
+        "column": "d",
+        "caption": "Proceeds (sales price) (see instructions)"
+      },
+      {
+        "column": "e",
+        "caption": "Cost or other basis See the Note below and see Column (e) in the separate instructions."
+      },
+      {
+        "column": "f",
+        "caption": "Adjustment, if any, to gain or loss. If you enter an amount in column (g), enter a code in column (f). See the separate instructions. Code(s) from instructions"
+      },
+      {
+        "column": "g",
+        "caption": "Adjustment, if any, to gain or loss. If you enter an amount in column (g), enter a code in column (f). See the separate instructions. Amount of adjustment"
+      },
+      {
+        "column": "h",
+        "caption": "Gain or (loss) Subtract column (e) from column (d) and combine the result with column (g)."
+      }
+    ],
+    "notes": "TWELVE CATEGORY BOXES AS OF 2025. The six securities boxes A/B/C (short) and D/E/F (long) were joined by six digital-asset boxes G/H/I (short) and J/K/L (long) when Form 1099-DA arrived, and boxes C and F were REWORDED to read 'other than digital asset transactions' so they no longer catch a digital asset. THE LETTER COLLISION: six letters \u2014 B, C, D, E, H and L \u2014 are BOTH a category box letter AND a column (f) adjustment code, meaning entirely different things. 'D' as a box means long-term with basis reported to the IRS; 'D' as a code means accrued market discount. Before 2025 only B, C, D and E collided; adding boxes H and L took it to six. Any parser that reads a bare letter without knowing whether it came from the box row or column (f) will silently mis-read a return.",
+    "face_not_boxes": [
+      {
+        "slot": "1b",
+        "because": "a Schedule D line named in the line 2 caption (\"include on your Schedule D, line 1b\"), not a Form 8949 line"
+      },
+      {
+        "slot": "3",
+        "because": "a Schedule D line named in the line 2 caption"
+      },
+      {
+        "slot": "8b",
+        "because": "a Schedule D line named in the Part II line 2 caption"
+      },
+      {
+        "slot": "9",
+        "because": "a Schedule D line named in the Part II line 2 caption"
+      },
+      {
+        "slot": "10",
+        "because": "a Schedule D line named in the Part II line 2 caption"
+      }
+    ]
+  }
+}

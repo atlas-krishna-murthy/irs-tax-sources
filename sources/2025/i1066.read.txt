@@ -1,0 +1,1295 @@
+2025
+
+Instructions for Form 1066
+U.S. Real Estate Mortgage Investment Conduit
+(REMIC) Income Tax Return
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+Future Developments
+For the latest information about developments related to
+Form 1066 and its instructions, such as legislation
+enacted after they were published, go to IRS.gov/
+Form1066.
+
+What’s New
+Increased failure-to-file penalty. The minimum penalty
+under section 6651(a) for the failure to file Form 1066
+within 60 days of the due date has increased to the
+smaller of the tax due or $525. The penalty under section
+6698 that the IRS may charge when no tax is due has
+increased to $255 for each person who was a residual
+interest holder in the REMIC at any time during the year
+for each month or part of a month the return is late, for up
+to 12 months. For more information, see Late filing
+penalty, later.
+Direct deposit. If you have access to U.S. banking
+services or electronic payment systems, you should use
+direct deposit for any refunds by completing Section II,
+lines 4b, 4c, and 4d.
+
+Reminders
+Bipartisan Budget Act. The Bipartisan Budget Act of
+2015 (BBA) created a new centralized partnership audit
+regime that applies to a REMIC for tax years beginning
+after 2017. Under the centralized partnership audit
+regime, any adjustments to the partnership-related items
+of a REMIC are determined at the REMIC level.
+Partnership representative (PR). Under the centralized
+partnership audit regime, a REMIC is required to
+designate a PR if it had more than one residual interest
+holder at any time during the tax year and it didn’t elect out
+of the centralized partnership audit regime. The PR will
+have the sole authority to act on behalf of the REMIC
+under the centralized partnership audit regime. The
+person designated by the REMIC as the PR must have a
+substantial presence in the United States. For more
+information, see Designation of Partnership
+Representative, later.
+Total assets at end of the tax year. If there are no
+assets at the end of the year enter -0-.
+
+Photographs of Missing Children
+
+The IRS is a proud partner with the National Center for
+Missing & Exploited Children® (NCMEC). Photographs of
+missing children selected by the Center may appear in
+Oct 15, 2025
+
+instructions on pages that would otherwise be blank. You
+can help bring these children home by looking at the
+photographs and calling 1-800-THE-LOST
+(1-800-843-5678) if you recognize a child.
+
+How To Get Forms and Publications
+Internet. You can access the IRS website at IRS.gov 24
+hours a day, 7 days a week to:
+• Download forms, including talking tax forms,
+instructions, and publications;
+• Use the online Internal Revenue Code, regulations, or
+other official guidance;
+• Get information on starting and operating a small
+business;
+• Order IRS products online;
+• Research your tax questions online;
+• Search publications online by topic or keyword;
+• View Internal Revenue Bulletins (IRBs) published in the
+last few years; and
+• Sign up to receive local and national tax news by email.
+
+General Instructions
+Purpose of Form
+
+File Form 1066 to report the income, deductions, and
+gains and losses from the operation of a REMIC. In
+addition, the form is filed by the REMIC to report and pay
+the taxes on net income from prohibited transactions, net
+income from foreclosure property, and contributions after
+the startup day.
+
+Who Must File
+
+An entity must file Form 1066 if it elected to be treated as
+a REMIC for its first tax year (and the election is still in
+effect) and it meets the section 860D(a) requirements
+listed below.
+A REMIC is any entity that:
+
+• Elects to be treated as a REMIC for the tax year and all
+
+prior tax years;
+• All of the interests are regular interests or residual
+interests;
+• Has one (and only one) class of residual interests and
+all distributions, if any, with respect to such interests are
+pro rata;
+• Substantially all of the assets consist of qualified
+mortgages and permitted investments as of the close of
+the third month beginning after the startup day (defined in
+the instructions for Item B—Date REMIC started, later)
+and at all times thereafter;
+• Has a calendar tax year; and
+• For which reasonable arrangements have been
+designed to ensure that residual interests aren’t held by
+
+Instructions for Form 1066 (2025) Catalog Number 64231R
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+disqualified organizations (as defined in section 860E(e)
+(5)), and information needed to apply section 860E(e) will
+be made available by the entity.
+Caution: The last item in the above list doesn’t apply to
+REMICs with a startup day before April 1, 1988 (or those
+formed under a binding contract in effect on March 31,
+1988).
+See section 860G for definitions and special rules. See
+section 860D(a) regarding qualification as a REMIC
+during a qualified liquidation.
+
+Making the Election
+
+The election to be treated as a REMIC is made by timely
+filing, for the first tax year of its existence, a Form 1066
+and having it signed by an authorized person. Once the
+election is made, it stays in effect for all years until it is
+terminated.
+
+First Tax Year
+
+For the first tax year of a REMIC’s existence, the REMIC
+must furnish the following in a separate statement
+attached to the REMIC’s initial return.
+• Information concerning the terms of the regular
+interests and the designated residual interest of the
+REMIC, or a copy of the offering circular or prospectus
+containing such information.
+• A description of the prepayment and reinvestment
+assumptions made in accordance with section 1272(a)(6)
+and its regulations, including documentation supporting
+the selection of the prepayment assumption.
+
+Termination of Election
+
+If the entity ceased to qualify as a REMIC under the
+requirements of section 860D(a) in 2025, the election to
+be a REMIC is terminated for 2025 and all future years.
+For 2025 and all future years, you must file the tax form for
+similarly organized entities (corporations, partnerships,
+trusts, etc.).
+
+When To File
+
+Generally, REMICs must file the 2025 Form 1066 by
+March 15, 2026. However, if the entity will file its final
+return in 2025, Form 1066 is due by the 15th day of the
+3rd month following the date the REMIC ceased to exist.
+If you need more time to file Form 1066, file Form 7004,
+Application for Automatic Extension of Time To File
+Certain Business Income Tax, Information, and Other
+Returns, to request an automatic extension. You must file
+Form 7004 by the regular due date of Form 1066.
+
+Period Covered
+
+File the 2025 return for:
+1. Calendar year 2025;
+2. Short tax years beginning and ending in 2025; or
+3. Short tax years beginning and ending in 2026, if the
+2026 Form 1066 isn’t available by the time the REMIC is
+required to file its 2026 return. Even though the REMIC is
+filing the 2026 tax return on a 2025 Form 1066, any tax
+law changes effective after December 31, 2025, have to
+be applied on the tax return.
+
+2
+
+Caution: In the case of (2) or (3) above, fill in the dates
+for the short tax year at the top of the form.
+
+Private Delivery Services (PDSs)
+
+REMICs can use certain PDSs designated by the IRS to
+meet the “timely mailing as timely filing” rule for tax
+returns. Go to IRS.gov/PDS for the current list of PDSs.
+The PDS can tell you how to get written proof of the
+mailing date.
+For the IRS mailing address to use if you’re using a
+PDS, go to IRS.gov/PDSstreetAddresses.
+Caution: PDSs can’t deliver items to P.O. boxes. You
+must use the U.S. Postal Service to mail any item to an
+IRS P.O. box address.
+
+Where To File
+
+If the REMIC’s principal business, office, or agency is
+located in the United States, then file the return at:
+Department of the Treasury
+Internal Revenue Service
+Ogden, UT 84201-0007
+If the REMIC’s principal business, office, or agency is
+located in a foreign country or U.S. territory, then file the
+return at:
+Internal Revenue Service
+P.O. Box 409101
+Ogden, UT 84409
+
+Accounting Method
+
+A REMIC must compute its taxable income (or net loss)
+using the accrual method of accounting. See section
+860C(b). For more information about the accrual method
+of accounting, see Pub. 538.
+
+Rounding Off to Whole Dollars
+
+The REMIC may round off cents to whole dollars on its
+returns and schedules. If the REMIC does round to whole
+dollars, it must round all amounts. To round, drop amounts
+under 50 cents and increase amounts from 50 to 99 cents
+to the next dollar (for example, $1.39 becomes $1 and
+$2.50 becomes $3).
+If two or more amounts must be added to figure the
+amount on a line, include cents when adding the amounts
+and round off only the total.
+
+Recordkeeping
+
+The REMIC’s records must be kept as long as their
+contents may be material in the administration of any
+Internal Revenue law. Copies of the filed tax returns
+should also be kept as part of the REMIC’s records. See
+Pub. 583, Starting a Business and Keeping Records, for
+more information.
+
+Final Return
+
+If the REMIC ceases to exist during the year, check the
+box on Form 1066, page 1, item D(1).
+
+Instructions for Form 1066 (2025)
+
+The box on Schedule Q (Form 1066), item E(1), should
+also be checked to indicate when the schedule is for the
+final quarter of the year.
+
+Amended Return or Administrative
+Adjustment Request (AAR)
+
+If the REMIC files its return and later becomes aware of
+changes it must make to income, deductions, or other
+items, the REMIC should then file a Form 1065-X,
+Amended Return or AAR.
+REMICs not subject to BBA that are filing an amended
+return must file amended Schedules Q with Form 1065-X
+and furnish the amended Schedules Q to the residual
+interest holders. If the REMIC is subject to BBA and is
+filing an AAR, it must file and furnish Forms 8986 to the
+residual interest holders, and not Schedules Q, if the
+adjustments result in an imputed underpayment (IU) and
+the REMIC is making an election under section 6227(b)(2)
+to have the adjustments taken into account by the
+reviewed year residual interest holders, or if the
+adjustments do not result in an IU.
+If the REMIC’s federal return is changed for any reason,
+it may affect its state return. This would include changes
+made as a result of an examination of the REMIC’s return
+by the IRS. Contact the state tax agency where the state
+return is filed for more information.
+
+Assembling the Return
+
+If you need more space to report items shown on the
+forms or schedules, attach separate sheets reporting the
+items. Use the same size and format as on the printed
+forms. But show the totals on the printed forms. Be sure to
+enter the REMIC’s name and employer identification
+number (EIN) on each sheet.
+You must complete every applicable entry space on
+Form 1066. If you attach statements, don’t enter “See
+Attached” instead of completing the entry spaces on this
+form.
+
+Other Forms and Returns That May
+Be Required
+Form 1096, Annual Summary and Transmittal of U.S.
+Information Returns. Use this form to summarize and
+send information returns to the IRS.
+Form 1098, Mortgage Interest Statement. This form is
+used to report the receipt from any individual of $600 or
+more of mortgage interest and points in the course of the
+REMIC’s trade or business.
+Forms 1099-A, B, C, INT, LTC, MISC, NEC, OID, R, S,
+and SA. Use these information returns to report
+acquisitions or abandonments of secured property;
+proceeds from broker and barter exchange transactions;
+cancellation of debt; interest income; certain payments
+made under a long-term care insurance contract and
+certain accelerated death benefits; miscellaneous
+information; nonemployee compensation; original issue
+discount; distributions from pensions, annuities,
+retirement or profit-sharing plans, individual retirement
+arrangements (IRAs), insurance contracts, etc.; proceeds
+from real estate transactions; and distributions from an
+Instructions for Form 1066 (2025)
+
+HSA, Archer MSA, or Medicare Advantage MSA. Also,
+use these returns to report amounts that were received as
+a nominee on behalf of another person.
+Generally, a REMIC must file Forms 1099-INT and
+1099-OID, as appropriate, to report accrued income of
+$10 or more of regular interest holders. See Regulations
+section 1.6049-7. Also, every REMIC must file Forms
+1099-MISC if it makes payments of rents, commissions, or
+other fixed or determinable income (see section 6041)
+totaling $600 or more to any one person in the course of
+its trade or business during the calendar year.
+For more details, see the General Instructions for
+Certain Information Returns.
+Form 8275, Disclosure Statement; and Form 8275-R,
+Regulation Disclosure Statement. Use these forms to
+disclose items or positions taken on a tax return that aren’t
+otherwise adequately disclosed on the return or that are
+contrary to Treasury regulations (to avoid parts of the
+accuracy-related penalty or certain preparer penalties).
+Form 8300, Report of Cash Payments Over $10,000
+Received in a Trade or Business. Generally, this form is
+used to report the receipt of more than $10,000 in cash or
+foreign currency in one transaction or a series of related
+transactions.
+Form 8811, Information Return for Real Estate Mortgage Investment Conduits (REMICs) and Issuers of
+Collateralized Debt Obligations. A REMIC uses this
+form to provide the information required by Regulations
+section 1.6049-7(b)(1)(ii). This information will be
+published in Pub. 938, Real Estate Mortgage Investment
+Conduits (REMICs) Reporting Information. This
+publication contains a directory of REMICs.
+Pub. 938 isn’t printed. Instead, it is available on the IRS
+website. For more information about Pub. 938, go to
+IRS.gov/Pub938.
+Form 8822-B, Change of Address or Responsible
+Party—Business. This form is used to inform the IRS of
+a new REMIC address if the change is made after filing
+Form 1066.
+
+Payment of Tax Due
+
+The REMIC must pay the tax due (page 1, Section II,
+line 3) in full by the 15th day of the 3rd month following the
+end of the tax year.
+Electronic deposit requirement. REMICs must use
+electronic funds transfer (EFT) to make all federal tax
+deposits (such as deposits of employment tax, excise tax,
+and income tax). Generally, an EFT is made using the
+Electronic Federal Tax Payment System (EFTPS). If you
+don’t want to use EFTPS, you can arrange for your tax
+professional, financial institution, payroll service, or other
+trusted third party to make electronic deposits on your
+behalf.
+To get more information about EFTPS or to enroll in
+EFTPS, go to EFTPS.gov or call 800-555-4477. Additional
+information about EFTPS is also available in Pub. 966.
+Same-day wire payment option. If the REMIC fails to
+submit a deposit transaction on EFTPS by 8:00 p.m.
+Eastern time the day before the date a deposit is due, it
+can still make its deposit on time by using the Federal Tax
+3
+
+Collection Service (FTCS) to make a same-day wire
+payment. To use the same-day wire payment method, the
+REMIC will need to make arrangements with its financial
+institution ahead of time. Please check with the financial
+institution regarding availability, deadlines, and costs.
+Financial institutions may charge a fee for payments made
+this way. To learn more about the information required by a
+financial institution to make a same-day wire payment, go
+to IRS.gov/SameDayWire.
+
+Interest and Penalties
+Interest. Interest is charged on taxes not paid by the due
+date, even if an extension of time to file is granted. Interest
+is also charged on penalties imposed for failure to file,
+negligence, fraud, substantial valuation misstatements,
+substantial understatements of tax, and reportable
+transaction understatements from the due date (including
+extensions) to the date of payment. The interest charge is
+figured at a rate determined under section 6621.
+Late filing penalty. A penalty may be charged if the
+return is filed after the due date (including extensions) or
+the return doesn’t show all the information required,
+unless each failure is due to reasonable cause and not
+due to willful neglect.
+If you receive a notice about a penalty after you file this
+return, reply to the notice with an explanation of why the
+return was late. We will determine if you meet the
+reasonable-cause criteria. Don’t attach an explanation
+when you file your return.
+If taxes are due, we will charge a section 6651 penalty
+of 5% of the unpaid tax for each month or part of a month
+the return is late, up to a maximum of 25% of the unpaid
+tax; or, if the return is 60 days or more late, $525 or the
+balance of the tax due on the return, whichever is smaller.
+If no tax is due, we may charge a section 6698 penalty of
+$255 for each person who was a residual interest holder in
+the REMIC at any time during the year for each month or
+part of a month the return is late, for up to 12 months.
+Although we can charge both the section 6651 and
+section 6698 penalties when taxes are due, we will
+generally charge only one of the penalties, whichever is
+greater.
+Late payment penalty. The penalty for not paying the
+tax when due is usually 1/2 of 1% of the unpaid tax for
+each month or part of a month the tax is unpaid. The
+penalty can’t exceed 25% of the unpaid tax. The penalty
+won’t be charged if you can show reasonable cause for
+not paying on time.
+Other penalties. Penalties can also be imposed for
+negligence, substantial understatements of tax, reportable
+transaction understatements, and fraud. See sections
+6662, 6662A, and 6663.
+
+Contributions to the REMIC
+
+Generally, no gain or loss is recognized by the REMIC or
+any of the regular or residual interest holders when
+property is transferred to the REMIC in exchange for an
+interest in the REMIC. The adjusted basis of the interest
+received equals the adjusted basis of the property
+transferred to the REMIC.
+
+4
+
+The basis to the REMIC of property transferred by a
+regular or residual interest holder is its fair market value
+immediately after its transfer.
+If the transferor holds a regular interest and if the issue
+price of the regular interest is more than its adjusted basis,
+the excess is included in income by the regular interest
+holder for the applicable tax years as if the excess were
+market discount on a bond and the holder had made an
+election under section 1278(b) to include this market
+discount currently. If the transferor holds a residual interest
+and if the issue price of the residual interest is more than
+its adjusted basis, the excess is amortized and included in
+the residual interest holder’s income ratably over the
+anticipated weighted average life of the REMIC (as
+defined in Regulations section 1.860E-1(a)(3)(iv)).
+If the transferor holds a regular interest and if the
+adjusted basis of the regular interest is more than its issue
+price, the regular interest holder treats the excess as
+amortizable bond premium subject to the rules of section
+171. If the transferor holds a residual interest and if the
+adjusted basis of the residual interest is more than its
+issue price, the excess is deductible ratably over the
+anticipated weighted average life of the REMIC (as
+defined in Regulations section 1.860E-1(a)(3)(iv)).
+
+Payments Subject to Withholding at
+Source
+
+If there are any nonresident alien individuals, foreign
+partnerships, or foreign corporations as regular interest
+holders or residual interest holders, and the REMIC has
+items of gross income from sources within the United
+States (see sections 861 through 865), see Form 1042,
+Annual Withholding Tax Return for U.S. Source Income of
+Foreign Persons.
+
+Who Must Sign
+Startup day after November 9, 1988. For a REMIC with
+a startup day after November 9, 1988, Form 1066 may be
+signed by any person who could sign the return of the
+entity in the absence of the REMIC election. Thus, the
+return of a REMIC that is a corporation or trust would be
+signed by a corporate officer or a trustee, respectively. For
+REMICs with only segregated pools of assets, the return
+would be signed by any person who could sign the return
+of the entity owning the assets of the REMIC under
+applicable state law.
+Paid preparer’s information. If someone is paid to
+prepare the return, the preparer must sign the return and
+complete the “Paid Preparer Use Only” area.
+The paid preparer must:
+• Have a valid Preparer Tax Identification Number (PTIN),
+• Complete the required preparer information,
+• Sign the return in the space provided for the preparer’s
+signature, and
+• Give the REMIC a copy of the return.
+Note: A paid preparer may sign original returns, amended
+returns, or requests for filing extensions by rubber stamp,
+mechanical device, or computer software program.
+
+Instructions for Form 1066 (2025)
+
+Paid Preparer Authorization
+
+If the REMIC wants to allow the IRS to discuss its 2025 tax
+return with the paid preparer who signed it, check the
+“Yes” box in the signature area of the return. This
+authorization applies only to the individual whose
+signature appears in the “Paid Preparer Use Only” section
+of the REMIC’s return. It doesn’t apply to the firm, if any,
+shown in that section.
+If the “Yes” box is checked, the REMIC is authorizing
+the IRS to call the paid preparer to answer any questions
+that may arise during the processing of its return. The
+REMIC is also authorizing the paid preparer to:
+• Give the IRS any information that is missing from the
+return;
+• Call the IRS for information about the processing of the
+return or the status of any related refund or payment(s);
+and
+• Respond to certain IRS notices that the REMIC has
+shared with the preparer about math errors, offsets, and
+return preparation.
+The REMIC isn’t authorizing the paid preparer to
+receive any refund check, bind the REMIC to anything
+(including any additional tax liability), or otherwise
+represent the REMIC before the IRS.
+The authorization can’t be revoked. However, the
+authorization will automatically end no later than the due
+date (excluding extensions) for filing the REMIC’s 2026 tax
+return. If the REMIC wants to expand the paid preparer’s
+authorization or revoke the authorization before it ends,
+see Pub. 947, Practice Before the IRS and Power of
+Attorney.
+
+Specific Instructions
+General Information
+Name, address, and EIN. Enter the REMIC’s legal name
+and address on the appropriate lines. Include the suite,
+room, or other unit number after the street address. If the
+Post Office doesn’t deliver mail to the street address and
+the REMIC has a P.O. box, show the box number instead.
+If the REMIC receives its mail in care of a third party (such
+as an accountant or attorney), enter on the street address
+line “C/O” followed by the third party’s name and street
+address or P.O. box. If the REMIC has changed its
+address since it last filed a return (including a change to
+an “in care of” address), check the box for item D(3),
+Address change.
+Note: If a change in address or responsible party occurs
+after the return is filed, use Form 8822-B to notify the IRS
+of the change.
+Enter the REMIC’s EIN on Form 1066, page 1, item A. If
+the REMIC doesn’t have its own EIN, it must apply for one.
+A REMIC may apply for an EIN by one of the methods
+discussed below.
+• Online by going to IRS.gov/EIN. The EIN is issued
+immediately once the application information is validated.
+• By mailing or faxing Form SS-4 to the IRS.
+If the REMIC hasn’t received its EIN by the time the return
+is due, write “Applied for” in the space for the EIN. For
+more details, see Pub. 583.
+Instructions for Form 1066 (2025)
+
+Item B—Date REMIC started. Enter the “startup day”
+selected by the REMIC.
+The startup day is the day on which the REMIC issued
+all of its regular and residual interests. However, a sponsor
+may contribute property to a REMIC in exchange for
+regular and residual interests over any period of 10
+consecutive days, and the REMIC may designate any 1 of
+those 10 days as the startup day. The day so designated
+is then the startup day, and all interests are treated as
+issued on that day.
+Item C—Total assets at end of tax year. Enter the total
+assets of the REMIC. If there are no assets at the end of
+the tax year, enter zero.
+
+Section I
+Income—(Lines 1 Through 6)
+Line 1—Taxable interest. Enter the total taxable
+interest. Taxable interest is interest that is included in
+ordinary income from all sources except interest exempt
+from tax and interest on tax-free covenant bonds. You may
+elect to reduce the amount of interest accrued on taxable
+bonds by the amount of amortizable bond premium on
+those bonds attributable to the current tax year. See
+sections 171(c) and 171(e) for details.
+Line 2—Accrued market discount under section
+860C(b)(1)(B). Enter the amount of market discount
+attributable to the current tax year determined on the basis
+of a constant interest rate under the rules of section
+1276(b)(2).
+Line 4—Ordinary gain or (loss). Enter the net gain or
+(loss) from Form 4797, Sales of Business Property, Part II.
+Line 5—Other income. Attach a statement listing by
+type and amount any other taxable income not reported
+on lines 1 through 4. If there is only one item of other
+income, describe it in parentheses to the left of the entry
+space on line 5 instead of attaching a statement.
+If the REMIC issued regular interests at a premium, the
+net amount of the premium is income that must be
+prorated over the term of these interests. Include this
+income on line 5.
+Generally, cancellation of REMIC debt (for example,
+cancellation of unpaid principal and accrued but unpaid
+interest owed to a REMIC regular interest holder) should
+be recognized as income and reported on line 5. Attach a
+supporting statement to line 5 to separately disclose
+income from cancellation of REMIC debt.
+For REMICs with a startup date before November 12,
+1991, enter any capital gain or (loss) on line 5. The
+REMIC can use the Schedule D, included in the 2011
+Form 1066, or a statement showing the same information
+as it appears on the Schedule D, included in the 2011
+Form 1066, to figure the capital gain (loss). Attach the
+schedule or statement to Form 1066.
+
+Deductions—(Lines 7 Through 14)
+Include only deductible amounts on lines 7 through 14. A
+REMIC isn’t allowed any of the following deductions in
+computing its taxable income.
+5
+
+• The net operating loss deduction.
+• The deduction for taxes paid or accrued to foreign
+
+countries and U.S. territories.
+• The deduction for charitable contributions.
+• The deduction for depletion under section 611 for oil
+and gas wells.
+• Losses or deductions allocable to prohibited
+transactions.
+Line 9—Amount accrued to regular interest holders
+in the REMIC that is deductible as interest. Regular
+interests in the REMIC are treated as indebtedness for
+federal income tax purposes. Enter the amount of interest,
+including original issue discount, accruing to regular
+interest holders for the tax year. Don’t deduct any amounts
+paid or accrued for residual interests in the REMIC.
+Line 10—Other interest. Don’t include interest
+deducted on line 9 or interest on indebtedness incurred or
+continued to purchase or carry obligations on which the
+interest is wholly exempt from income tax. You may elect
+to include amortization of bond premium on taxable bonds
+acquired before 1988 unless you elected to offset
+amortizable bond premium against the interest accrued on
+the bond (see the Section I, line 1, instructions). Don’t
+include any amount attributable to a tax-exempt bond.
+Line 11—Taxes. If you have to pay tax on net income
+from foreclosure property, you should include this tax
+(from Schedule J, line 10) on line 11 of Form 1066.
+Note: See section 164(d) for apportionment of taxes on
+real property between the seller and purchaser.
+Enter taxes accrued during the tax year but don’t
+include the following.
+• Federal income taxes (except the tax on net income
+from foreclosure property).
+• Foreign or U.S. territory income taxes.
+• Taxes not imposed on the REMIC.
+• Taxes, including state or local sales taxes, that are paid
+or incurred in connection with an acquisition or disposition
+of property. Such taxes must be treated as a part of the
+cost of the acquired property or, in the case of a
+disposition, as a reduction in the amount realized on the
+disposition.
+Line 12—Depreciation. See the Instructions for Form
+4562, Depreciation and Amortization, or Pub. 946, How To
+Depreciate Property, to figure the amount of depreciation
+to enter on this line. You must complete and attach Form
+4562 if the REMIC placed property in service during 2025,
+claims a section 179 expense deduction, or claims
+depreciation on any car or other listed property.
+Line 13—Other deductions. Attach a statement listing
+by type and amount any other allowable deductions (such
+as bad debt deductions) for which no line is provided on
+Form 1066. If there is only one item of other deductions,
+describe it in parentheses to the left of the entry on line 13
+instead of attaching a statement.
+
+Section II
+Line 3—Tax due. If you have tax due, see Payment of
+Tax Due, earlier, for information on how to make a
+payment.
+6
+
+Line 4—Overpayment. To the extent permitted by law,
+the Secretary of the Treasury will cease issuing paper
+checks for all federal disbursements. Direct deposit is
+available for this form. If there is an overpayment when
+filing your return, complete lines 4b, 4c, and 4d to input
+your direct deposit information. If you qualify for an
+exception, an alternative payment option (paper check)
+may be permitted. See Non-electronic federal
+disbursement exceptions, later for more information.
+Why use direct deposit? You get your refund faster by
+direct deposit than you do by check. Payment is more
+secure. There is no check that can get lost or stolen. It is
+more convenient. You don't have to make a trip to the bank
+to deposit your check. It saves tax dollars. It costs the
+government less to refund by direct deposit. It's proven
+itself. Nearly 90% of social security and veterans benefits
+are sent electronically using direct deposit.
+Account must be in your name. Don't request a
+deposit of your refund to an account that isn't in your
+name. The number of refunds that can be directly
+deposited to a single account or prepaid debit card is
+limited to three a year. After this limit is reached, paper
+checks will be sent instead. Learn more at IRS.gov/
+DepositLimit.
+Line 4a. If line 4a is under $1, we will send a refund only
+on written request.
+Line 4b. The routing number must be nine digits. The first
+two digits must be 01 through 12 or 21 through 32. Ask
+your financial institution for the correct routing number to
+enter on line 4b if:
+• The routing number on a deposit slip is different from
+the routing number on your checks,
+• Your deposit is to a savings account that doesn't allow
+you to write checks, or
+• Your checks state they are payable through a financial
+institution different from the one at which you have your
+checking account.
+Line 4c. Check the appropriate box for the type of
+account. Don't check more than one box. You must check
+the correct box to ensure your deposit is accepted.
+Line 4d. The account number can be up to 17 characters
+(both numbers and letters). Include hyphens but omit
+spaces and special symbols. Enter the number from left to
+right and leave any unused boxes blank. Don't include the
+check number.
+If the direct deposit to your account is different from the
+amount you expected, you will receive an explanation in
+the mail about 2 weeks after your refund is deposited.
+Reasons your direct deposit will be rejected. If any
+of the following apply, your direct deposit request will be
+rejected and a check will be sent instead.
+• You're asking to have a joint refund deposited to an
+individual account, and your financial institution(s) won't
+allow this. The IRS isn't responsible if a financial institution
+rejects a direct deposit.
+• The name on your account doesn't match the name on
+the refund, and your financial institution(s) won't allow a
+refund to be deposited unless the name on the refund
+matches the name on the account.
+• Three direct deposits of tax refunds have already been
+made to the same account or prepaid debit card.
+Instructions for Form 1066 (2025)
+
+• You haven't given a valid account number.
+• Any numbers or letters on lines 4b through 4d are
+
+crossed out or whited out.
+
+Note: The IRS isn't responsible for a lost refund if you
+enter the wrong account information. Check with your
+financial institution to get the correct routing and account
+numbers and to make sure your direct deposit will be
+accepted.
+Non-electronic federal disbursement exceptions. If
+you qualify for one of the exceptions below, a paper check
+may still be permitted as a federal disbursement option.
+1. Individuals who don't have access to banking
+services or electronic payment systems.
+2. Certain emergency payments where electronic
+disbursement would cause undue hardship, as
+contemplated in 31 CFR Part 208.
+3. National security- or law enforcement-related
+activities where non-EFT transactions are necessary or
+desirable.
+4. Other circumstances as determined by the
+Secretary of the Treasury, as reflected in regulations or
+other guidance.
+Note: If you don't qualify for one of the exceptions above,
+the direct deposit information must be entered on lines 4b,
+4c, and 4d. If you do qualify for an exception above, leave
+lines 4b, 4c, and 4d blank.
+
+Schedule J
+Part I—Tax on Net Income From Prohibited
+Transactions
+Losses not included. Don’t net losses from prohibited
+transactions against income or gains from prohibited
+transactions in determining the amounts to enter on lines
+1a through 1d. These losses aren’t deductible in
+computing net income from prohibited transactions.
+For purposes of lines 1a and 1d, the term “prohibited
+transactions” doesn’t include any disposition that is
+required to prevent default on a regular interest where the
+threatened default resulted from a default on one or more
+qualified mortgages, or to facilitate a clean-up call. A
+clean-up call is the redemption of a class of regular
+interests when, by reason of prior payments with respect
+to those interests, the administrative costs associated with
+servicing that class outweigh the benefits of maintaining
+the class. It doesn’t include the redemption of a class in
+order to profit from a change in interest rates.
+Line 1a—Gain from certain dispositions of qualified
+mortgages. Enter the amount of gain from the
+disposition of any qualified mortgage transferred to the
+REMIC other than a disposition from:
+• The substitution of a qualified replacement mortgage for
+a qualified mortgage or the repurchase in lieu of
+substitution of a defective obligation;
+• The foreclosure, default, or imminent default of the
+mortgage;
+• The bankruptcy or insolvency of the REMIC; or
+• A qualified liquidation.
+See section 860F(a) for details and exceptions.
+Instructions for Form 1066 (2025)
+
+Line 1b—Income from nonpermitted assets. Enter the
+amount of any income received or accrued during the year
+attributable to any asset other than a qualified mortgage
+or permitted investment. See section 860G(a) for
+definitions.
+Line 1c—Compensation for services. Enter the receipt
+by the REMIC of any amount representing a fee or other
+compensation for services.
+Line 1d—Gain from the disposition of cash flow investments (except from a qualified liquidation). Enter
+the amount of gain from the disposition of any cash flow
+investment except from a qualified liquidation. A cash flow
+investment is any investment of amounts received under
+qualified mortgages for a temporary period (not more than
+13 months) before distribution to holders of interests in the
+REMIC. See section 860F(a)(4) for the definition of a
+qualified liquidation.
+
+Part II—Tax on Net Income From Foreclosure
+Property
+
+For a definition of foreclosure property, see the
+instructions for Schedule L, line 1c, later. Net income from
+foreclosure property must also be included in the
+computation of taxable income (or net loss) shown on
+Form 1066, page 1, Section I.
+Line 6—Gross income from foreclosure property.
+Don’t include on line 6 amounts described in section
+856(c)(3)(A), (B), (C), (D), (E), or (G).
+Line 8—Deductions. Only those expenses that are
+directly connected with the production of the income
+shown on line 7 may be deducted to figure net income
+from foreclosure property. Allowable deductions include
+depreciation on foreclosure property, interest accrued on
+debt of the REMIC attributable to the carrying of
+foreclosure property, real estate taxes, and fees charged
+by an independent contractor to manage foreclosure
+property. Don’t deduct general overhead and
+administrative expenses.
+Line 10—Tax on net income from foreclosure property. The REMIC is allowed a deduction for the amount of
+tax shown on this line. Include this amount in computing
+the deduction for taxes entered on Form 1066, page 1,
+Section I, line 11.
+
+Part III—Tax on Contributions After the Startup
+Day
+
+Don’t complete this part if the startup day was before July
+1, 1987. For this purpose, startup day means any day
+selected by a REMIC that is on or before the first day on
+which interests in the REMIC are issued.
+Line 11—Tax. Enter the amount of contributions received
+during the calendar year after the startup day (as defined
+in the prior paragraph). See section 860G(d). Don’t
+include cash contributions described next.
+• Any contribution to facilitate a clean-up call or a
+qualified liquidation.
+• Any payment in the nature of a guarantee.
+• Any contribution during the 3-month period beginning
+on the startup day.
+7
+
+• Any contribution to a qualified reserve fund by any
+holder of a residual interest in the REMIC.
+Attach a statement showing your computation.
+Additional Information
+
+Be sure to answer the questions and provide other
+information in items E through L.
+Item E—Type of entity. Check the box for the entity type
+of the REMIC recognized under state or local law. If the
+REMIC isn’t a separate entity under state or local law,
+check the box for “Segregated Pool of Assets” and state
+the name and type of entity that owns the assets in the
+spaces provided.
+Item F—Number of residual interest holders. Enter
+the number of persons who were residual interest holders
+at any time during the tax year.
+Item G—Electing out of the centralized partnership
+audit regime. A REMIC with only one residual interest
+holder at all times during the tax year doesn’t need to
+complete item G because the REMIC isn’t subject to the
+centralized partnership audit regime. If the REMIC had
+more than one residual interest holder at any time during
+the tax year, it may be eligible to elect out of the
+centralized partnership audit regime for the tax year if it
+has 100 or fewer residual interest holders in that year,
+each of which is either an individual, a C corporation, a
+foreign entity that would be treated as a C corporation if it
+was domestic, an S corporation, or an estate of a
+deceased residual interest holder. The election is made
+annually by checking the box on item G of a timely filed
+Form 1066. If the REMIC makes this election, it must also
+attach Schedule B-2 (Form 1065) to Form 1066 and
+provide all of the information requested on the
+Schedule B-2 for each residual interest holder and the
+shareholders of any S corporation residual interest
+holders. The REMIC must notify each residual interest
+holder of the election within 30 days of making the
+election.
+If the REMIC had more than one residual interest
+holder at any time during the tax year and didn’t elect out
+of the centralized partnership audit regime, it must
+complete the Designation of Partnership Representative
+on page 4 of Form 1066. For more information, see
+Designation of Partnership Representative, later.
+Item H—Foreign financial accounts. Check the “Yes”
+box if either (1) or (2) below applies to the REMIC.
+Otherwise, check the “No” box.
+1. At any time during the 2025 calendar year, the
+REMIC had a financial interest in or signature or other
+authority over any foreign financial account, including
+bank, securities, or other types of financial accounts in a
+foreign country (see FinCEN Form 114, Report of Foreign
+Bank and Financial Accounts (FBAR)); and
+a. The combined value of the accounts was more than
+$10,000 at any time during the calendar year, and
+b. The account wasn’t with a U.S. military banking
+facility operated by a U.S. financial institution.
+2. The REMIC owns more than 50% of the stock in any
+corporation that would answer “Yes” to item 1 above.
+8
+
+If the “Yes” box is checked, do the following.
+
+• Enter the name of the foreign country or countries
+
+where the foreign account(s) is held in the space provided
+on the form. Attach a separate sheet if more space is
+needed.
+• Electronically file FinCEN Form 114, also referred to as
+FBAR, with the Department of the Treasury using the
+FinCEN’s BSA E-Filing System. Because FinCEN Form
+114 isn’t a tax form, don’t file it with Form 1066.
+Go to FinCEN.gov for more information.
+Item I—Foreign trust. The REMIC may be required to
+file Form 3520, Annual Return To Report Transactions
+With Foreign Trusts and Receipt of Certain Foreign Gifts,
+if:
+• It directly or indirectly transferred money or property to a
+foreign trust (for this purpose, any U.S. person who
+created a foreign trust is considered a transferor);
+• It is treated as the owner of any part of the assets of a
+foreign trust under the grantor trust rules; or
+• It received a distribution from a foreign trust.
+For more information, see the Instructions for Form
+3520.
+Note: An owner of a foreign trust must ensure that the
+trust files an annual information return on Form 3520-A,
+Annual Information Return of Foreign Trust With a U.S.
+Owner. For details, see the Instructions for Form 3520-A.
+To report information required under section 6038B, the
+REMIC may be required to file Form 926, Return by a U.S.
+Transferor of Property to a Foreign Corporation; or Form
+8865, Return of U.S. Persons With Respect to Certain
+Foreign Partnerships. See the instructions for these forms
+for more information.
+Item L—Sum of the daily accruals. Enter the total of
+the daily accruals for all residual interests for the calendar
+year. See section 860E(c)(2) for details.
+
+Schedule L, Balance Sheets per
+Books
+
+The amounts shown should agree with the REMIC’s
+books and records. Attach a statement explaining any
+differences.
+Line 1a—Cash flow investments. These are any
+investments of amounts received under qualified
+mortgages for a temporary period (not more than 13
+months) before distribution to holders of interests in the
+REMIC.
+Line 1b—Qualified reserve assets. The term “qualified
+reserve asset” means any intangible property that is held
+for investment and as part of a qualified reserve fund. For
+a definition of qualified reserve fund, including exceptions,
+see sections 860G(a)(7)(B) and (C).
+Line 1c—Foreclosure property. This is any real
+property (including interests in real property), and any
+personal property incident to such real property, acquired
+by the REMIC as a result of the REMIC’s having bid in the
+property at foreclosure, or having otherwise reduced the
+property to ownership or possession by agreement or
+process of law, after there was a default or imminent
+default on a qualified mortgage held by the REMIC.
+Instructions for Form 1066 (2025)
+
+Generally, this property ceases to be foreclosure property
+at the close of the third tax year following the tax year in
+which the REMIC acquired the property. See sections
+860G(a)(8) and 856(e), and Regulations section 1.856-6
+for more details.
+Note: Solely for purposes of section 860D(a), the
+determination of whether any property is foreclosure
+property will be made without regard to section 856(e)(4).
+Line 7—Regular interests. These are interests in the
+REMIC that are issued on the startup day with fixed terms
+and that are designated as regular interests, if:
+1. Such interest unconditionally entitles the holder to
+receive a specified principal amount or other similar
+amounts; and
+2. Interest payments (or similar amounts), if any, with
+respect to the interest at or before maturity are payable
+based on a fixed rate (or at a variable rate described in
+Regulations section 1.860G-1(a)(3)), or consist of a
+specified portion of the interest payments on qualified
+mortgages and this portion doesn’t vary during the period
+that the interest is outstanding.
+The interest will meet the requirements of (1) even if the
+timing (but not the amount) of the principal payments (or
+other similar amounts) is contingent on the extent of
+prepayments on qualified mortgages and the amount of
+income from permitted investments.
+An interest will still qualify as a regular interest even if
+the specified principal amount of the regular interest (or
+the amount of interest accrued on the regular interest) can
+be reduced as a result of the nonoccurrence of one or
+more contingent payments with respect to any reverse
+mortgage loan held by the REMIC if, on the startup day for
+the REMIC, the sponsor reasonably believes that all
+principal and interest due under the regular interest will be
+paid at or prior to the liquidation of the REMIC.
+
+Schedule M, Reconciliation of
+Residual Interest Holders’ Capital
+Accounts
+
+Show what caused the changes in the residual interest
+holders’ capital accounts during the tax year.
+
+The amounts shown should agree with the REMIC’s
+books and records and the balance sheet amounts.
+Attach a statement explaining any differences.
+Include in column (d):
+• Tax-exempt interest income,
+• Other tax-exempt income,
+• Income from prohibited transactions,
+• Income recorded on the REMIC’s books but not
+included on this return, and
+• Allowable deductions not charged against book income
+this year.
+Include in column (e):
+
+• Capital losses over the $3,000 limitation (for a REMIC
+
+with a startup day before November 12, 1991),
+• Other nondeductible amounts (such as losses from
+prohibited transactions and expenses connected with the
+production of tax-exempt income),
+• Deductions allocable to prohibited transactions,
+Instructions for Form 1066 (2025)
+
+• Expenses recorded on books not deducted on this
+return, and
+• Taxable income not recorded on the books this year.
+
+Designation of Partnership
+Representative (PR)
+
+Unless the REMIC has made a valid election out of the
+centralized partnership audit regime or had only one
+residual interest holder at all times during the tax year, the
+REMIC must designate a PR. The PR can be any person
+with a substantial presence in the United States. The PR
+will have the sole authority to act on behalf of the REMIC.
+If an entity is designated as PR, the REMIC must also
+appoint an individual to act on the entity’s behalf (a
+designated individual (DI)). The DI must also have a
+substantial presence in the United States.
+How to designate. An original designation of a PR must
+be made on the REMIC’s Form 1066 filed for each
+respective REMIC tax year.
+PR authority. The REMIC and all its residual interest
+holders (and any other person whose tax liability is
+determined in whole or in part by taking into account
+directly or indirectly adjustments determined under the
+centralized partnership audit regime) are bound by the
+actions of the PR in dealings with the IRS. A designation
+for a partnership tax year remains in effect until the
+designation is terminated by:
+• Valid resignation of the PR,
+• Valid revocation of the PR, or
+• Determination by the IRS that the designation isn’t in
+effect.
+Substantial presence. In order for either a PR or a DI to
+have substantial presence in the United States, they must:
+• Make themselves available to meet in person with the
+IRS in the United States at a reasonable time and place,
+as determined by the IRS;
+• Have a street address that is in the United States;
+• Have a telephone number with a U.S. area code; and
+• Have a U.S. taxpayer identification number.
+
+Schedule Q, Quarterly Notice to
+Residual Interest Holder of REMIC
+Taxable Income or Net Loss
+Allocation
+Purpose of Schedule
+
+Schedule Q (Form 1066) shows each residual interest
+holder’s share of the REMIC’s quarterly taxable income (or
+net loss), the excess inclusion for the residual interest
+holder’s interest, and the residual interest holder’s share of
+the REMIC’s section 212 expenses for the quarter.
+Although the REMIC isn’t subject to income tax (except
+on net income from prohibited transactions, net income
+from foreclosure property, and contributions made after
+the startup day), the residual interest holders are liable for
+tax on their shares of the REMIC’s taxable income,
+whether or not distributed, and must include their shares
+on their tax returns.
+
+9
+
+Note: Schedule Q (Form 1066) is a separate tax form that
+isn’t part of Form 1066.
+
+General Instructions
+
+For each calendar quarter, complete Schedule Q (Form
+1066) for each person who was a residual interest holder
+at any time during the quarter. File Schedule Q with Form
+1066. Give one copy to the residual interest holder by the
+last day of the month following the month in which the
+calendar quarter ends. Keep one copy with a copy of
+Form 1066 as part of the REMIC’s records.
+
+Specific Instructions
+
+On each Schedule Q, enter the name, address, and
+identifying number for each residual interest holder and
+REMIC. For each residual interest holder that is an
+individual, you must enter the residual interest holder’s
+social security number (SSN) (or individual taxpayer
+identification number (ITIN) for a resident or nonresident
+alien). For all other residual interest holders, you must
+enter the residual interest holder’s EIN. However, if a
+residual interest holder is an IRA, enter the identifying
+number of the IRA trust. Don’t enter the SSN (or ITIN) of
+the individual for whom the IRA is maintained.
+
+Item A—What Type of Entity Is This Residual
+Interest Holder?
+State on this line whether the residual interest holder is an
+individual, a corporation, an estate, a trust, a partnership,
+an exempt organization, a nominee (custodian), or
+another REMIC. If the residual interest holder is a
+nominee, use the following codes to indicate in
+parentheses the type of entity the nominee represents.
+• I—Individual.
+• C—Corporation.
+• F—Estate or Trust.
+• P—Partnership.
+• E—Exempt Organization.
+• R—REMIC.
+• IRA—Individual Retirement Arrangement.
+
+Item B—Residual Interest Holder’s Percentage of
+Ownership
+Enter in item B2 the percentage at the end of the calendar
+quarter. However, if a residual interest holder’s percentage
+of ownership changed during the quarter, enter in item B1
+the percentage immediately before the change. If there
+are multiple changes in the percentage of ownership
+during the quarter, attach a statement giving the date and
+percentage before each change.
+
+Item C—REMIC Assets
+Enter in item C the percentage of the REMIC’s assets
+during the calendar quarter represented by each of the
+following categories of assets.
+• Real estate assets under section 856(c)(5)(B).
+• Assets described in section 7701(a)(19)(C) (relating to
+the definition of a domestic building and loan association).
+
+10
+
+These percentages must be computed using the
+average adjusted basis of the assets held during the
+calendar quarter. To do this, the REMIC must make the
+appropriate computation as of the close of each month,
+week, or day and then average the monthly, weekly, or
+daily percentages for the quarter. The monthly, weekly, or
+daily computation period must be applied uniformly during
+the calendar quarter to both categories of assets, and may
+not be changed in succeeding calendar quarters without
+IRS consent. If the percentage of the REMIC’s assets for
+either category is at least 95%, the REMIC may show “95
+or more” for that category in item C.
+If less than 95% of the assets of the REMIC are real
+estate assets (as defined in section 856(c)(5)(B)), the
+REMIC must also report to any real estate investment trust
+that holds a residual interest the information specified in
+Regulations section 1.860F-4(e)(1)(ii)(B). However, if a
+REMIC is an “eligible REMIC,” as defined in Notice
+2012-5, and a percentage of its assets represented by
+either of the categories of assets described under REMIC
+assets, earlier, was less than 95% but at least 80%, then
+the REMIC need only specify in item C that the
+percentage for that category was at least 80%. For more
+information, see Notice 2012-5, available on page 291 of
+Internal Revenue Bulletin 2012-3 at IRS.gov/irb/
+2012-03_IRB#NOT-2012-5.
+
+Item F—Reconciliation of Residual Interest
+Holder’s Capital Account
+See the instructions for Schedule M, earlier.
+Line 1a—Taxable income (net loss) of the REMIC for
+the calendar quarter. Enter the REMIC’s taxable income
+(net loss) for the calendar quarter. The sum of the totals
+for the four quarters in the calendar year must equal the
+amount shown on Form 1066, Section I, line 15.
+Line 1b—Your share of the taxable income (net loss)
+for the calendar quarter. Enter the residual interest
+holder’s share of the taxable income (net loss) shown on
+line 1a (determined by adding the holder’s daily portions
+under section 860C(a)(2) for each day in the quarter the
+holder held the residual interest). If line 1a is a loss, enter
+the residual interest holder’s full share of the loss, without
+regard to the adjusted basis of the residual interest
+holder’s interest in the REMIC.
+Line 2a—Sum of the daily accruals under section
+860E for all residual interests for the calendar quarter. Enter the product of the sum of the adjusted issue
+prices of all residual interests at the beginning of the
+quarter and 120% of the long-term federal rate
+(determined on the basis of compounding at the end of
+each quarter and properly adjusted for the length of such
+quarter). See section 860E(c) for details.
+Line 2b—Sum of the daily accruals under section
+860E for your interest. Enter zero if line 2a is zero.
+Otherwise, divide the amount shown on line 2a by the
+number of days in the quarter. Multiply the result by the
+residual interest holder’s percentage of ownership for
+each day in the quarter that the residual interest holder
+owned the interest. Total the daily amounts and enter the
+result.
+Instructions for Form 1066 (2025)
+
+Line 3. Complete lines 3a and 3b only for residual
+interest holders who are individuals or other pass-through
+interest holders (as defined in Temporary Regulations
+section 1.67-3T).
+Line 3a—Section 212 expenses of the REMIC for the
+calendar quarter. Enter the REMIC’s allocable section
+212 expenses for the calendar quarter. The term
+“allocable section 212 expenses” means the aggregate
+amount of the expenses paid or accrued in the calendar
+quarter for which a deduction is allowable under section
+212 in determining the taxable income of the REMIC for
+the calendar quarter.
+
+Section 212 expenses generally include operational
+expenses such as:
+• Rent,
+• Salaries,
+• Legal fees,
+• Accounting fees,
+• Litigation expenses, and
+• The cost of preparing and distributing reports and
+notices to interest holders.
+Line 3b—Your share of section 212 expenses for the
+calendar quarter. Enter the residual interest holder’s
+share of the amount shown on line 3a.
+
+Paperwork Reduction Act Notice. We ask for the information on this form to carry out the Internal Revenue laws of the
+United States. You’re required to give us the information. We need it to ensure that you are complying with these laws and
+to allow us to figure and collect the right amount of tax.
+You’re not required to provide the information requested on a form that is subject to the Paperwork Reduction Act
+unless the form displays a valid OMB control number. Books or records relating to a form or its instructions must be
+retained as long as their contents may become material in the administration of any Internal Revenue law. Generally, tax
+returns and return information are confidential, as required by section 6103.
+The time needed to complete and file this form and related schedule will vary depending on individual circumstances.
+The estimated burden for business taxpayers filing this form and the related schedule is approved under OMB control
+number 1545-0123 and is included in the estimates shown in the instructions for their business income tax return.
+If you have comments concerning the accuracy of the time estimates or suggestions for making this form and related
+schedule simpler, we would be happy to hear from you. You can send us comments through IRS.gov/FormComments.
+Or, you can write to Internal Revenue Service, Tax Forms and Publications, 1111 Constitution Ave. NW, IR-6526,
+Washington, DC 20224. Don’t send tax questions, tax returns, or payments to the above address. Instead, see Where To
+File, earlier.
+
+Instructions for Form 1066 (2025)
+
+11
+
+

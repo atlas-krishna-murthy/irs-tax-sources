@@ -1,0 +1,200 @@
+{
+  "form": {
+    "id": "form-172",
+    "form": "Form 172",
+    "title": "Net Operating Losses (NOLs) For Individuals, Estates, and Trusts",
+    "kind": "form",
+    "revision": "December 2024",
+    "revision_printed_as": "Form 172 (12-2024)",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f172.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-pdf/i172.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "For individuals, subtract your standard deduction or itemized deductions from your adjusted gross income (AGI) and enter it here. For estates and trusts, enter taxable income increased by the total of the charitable deduction, income distribution deduction, and exemption amount",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Nonbusiness capital losses before limitation. Enter as a positive number",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Nonbusiness capital gains (without regard to any section 1202 exclusion)",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "If line 2 is more than line 3, enter the difference. Otherwise, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "5",
+        "caption": "If line 3 is more than line 2, enter the difference. Otherwise, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "6",
+        "caption": "Nonbusiness deductions (see instructions). Enter as a positive number",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Nonbusiness income other than capital gains (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Add lines 5 and 7",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "9",
+        "caption": "If line 6 is more than line 8, enter the difference. Otherwise, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "10",
+        "caption": "If line 8 is more than line 6, enter the difference. Otherwise, enter -0-. But don\u2019t enter more than line 5",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "11",
+        "caption": "Business capital losses before limitation. Enter as a positive number",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Business capital gains (without regard to any section 1202 exclusion)",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Add lines 10 and 12",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "14",
+        "caption": "Subtract line 13 from line 11. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "15",
+        "caption": "Add lines 4 and 14",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "16",
+        "caption": "Enter, if any, the combined net short-term and long-term capital loss from your Schedule D (Form 1040). Estates and trusts, enter, if any, the total net short-term and long-term loss from Schedule D (Form 1041). Enter as a positive number. If you don\u2019t have a loss on that line (and don\u2019t have a section 1202 exclusion), skip lines 16 through 21 and enter on line 22 the amount from line 15",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Section 1202 exclusion. Enter as a positive number",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "Subtract line 17 from line 16. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "19",
+        "caption": "If line 16 is a loss, enter, as a positive number, the smaller of: \u2022 The loss on line 16; or \u2022 $3,000 (If filing Form 1040, $1,500 when married filing separately)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "20",
+        "caption": "If line 18 is more than line 19, enter the difference. Otherwise, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "21",
+        "caption": "If line 19 is more than line 18, enter the difference. Otherwise, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "22",
+        "caption": "Subtract line 20 from line 15. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "23",
+        "caption": "NOL deduction for losses from other years. Enter as a positive number",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "NOL. Combine lines 1, 9, 17, and 21 through 23. If the result is less than zero, enter it here. If the result is zero or more, you don\u2019t have an NOL",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "part-ii-1",
+        "caption": "NOL deduction. Enter as a positive number",
+        "type": "money"
+      },
+      {
+        "line": "part-ii-2",
+        "caption": "Taxable income before the current year NOL carryback. For estates and trusts, increase this amount by the sum of the charitable deduction (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "part-ii-3",
+        "caption": "Net capital loss deduction (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "part-ii-4",
+        "caption": "Section 1202 exclusion. Enter as a positive number (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "part-ii-5",
+        "caption": "Qualified business income deduction (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "part-ii-6",
+        "caption": "Adjustment to adjusted gross income (AGI) (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "part-ii-7",
+        "caption": "Adjustment to itemized deductions from line 33 below (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "part-ii-8",
+        "caption": "Estates and trusts, enter exemption amount",
+        "type": "money"
+      },
+      {
+        "line": "part-ii-9",
+        "caption": "Modified taxable income. Add lines 2 through 8. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "part-ii-10",
+        "caption": "NOL carryover to the subsequent year. Subtract line 9 from line 1. Enter the result from the first preceding tax year here and on the net operating loss line of Schedule 1 (Form 1040) or Form 1040-NR or the net operating loss deduction line of Form 1041. If zero or less, enter -0- (see instructions)",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ]
+  }
+}

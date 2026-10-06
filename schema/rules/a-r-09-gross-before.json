@@ -1,0 +1,58 @@
+{
+  "rule": {
+    "id": "a-r-09-gross-before",
+    "title": "A code 3 disability pension before the minimum retirement age shows no gross on lines 4a or 5a",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-R.1"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "disability-pension-before-minimum-retirement-age"
+      },
+      {
+        "kind": "box",
+        "ref": "1099-R.7"
+      }
+    ],
+    "params": {
+      "when": {
+        "all": [
+          {
+            "box": "1099-R.7",
+            "in": [
+              "3"
+            ],
+            "match": "code"
+          },
+          {
+            "answer": "disability-pension-before-minimum-retirement-age",
+            "is": "yes"
+          }
+        ]
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1040",
+      "line": "1h",
+      "revision": "2025",
+      "wording": "Disability pensions shown on Form 1099-R if you haven't reached the minimum retirement age set by your employer.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "Line 1h takes the taxable amount (box 2a, rule a-r-09); the gross in box 1 has no line of its own there, so it stays on its row and counts nothing."
+  }
+}

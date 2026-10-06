@@ -1,0 +1,82 @@
+{
+  "rule": {
+    "id": "a-salt-cap",
+    "title": "State and local taxes are limited to $40,000 ($20,000 MFS), reduced above $500,000 ($250,000 MFS) of MAGI",
+    "class": "agi",
+    "years": [
+      2025
+    ],
+    "acts_on": {
+      "lines": [
+        "schedule-a.5a",
+        "schedule-a.5b",
+        "schedule-a.5c"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "engagement",
+        "ref": "magi"
+      },
+      {
+        "kind": "engagement",
+        "ref": "filing_status"
+      }
+    ],
+    "operator": "phase_down_cap",
+    "params": {
+      "measure": "magi",
+      "record_on": "schedule-a.5a"
+    },
+    "amounts": {
+      "single": {
+        "cap": 40000,
+        "threshold": 500000,
+        "rate": 0.3,
+        "minimum": 10000
+      },
+      "mfj": {
+        "cap": 40000,
+        "threshold": 500000,
+        "rate": 0.3,
+        "minimum": 10000
+      },
+      "hoh": {
+        "cap": 40000,
+        "threshold": 500000,
+        "rate": 0.3,
+        "minimum": 10000
+      },
+      "qss": {
+        "cap": 40000,
+        "threshold": 500000,
+        "rate": 0.3,
+        "minimum": 10000
+      },
+      "mfs": {
+        "cap": 20000,
+        "threshold": 250000,
+        "rate": 0.15,
+        "minimum": 5000
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "5e",
+      "revision": "2025",
+      "wording": "The overall limit on the deduction for state and local income, sales, and property taxes has increased to $40,000 ($20,000 if married filing separately). The overall limit is reduced if your modified adjusted gross income is more than $500,000 ($250,000 if married filing separately) but will not be reduced below $10,000 ($5,000 if married filing separately).",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "open_point": "Married filing separately follows the 2025 State and Local Tax Deduction Worksheet (spec 080 clarify Q4): line 1 'Enter $40,000', line 5 'Enter $500,000 ($250,000 if married filing separately)', line 7 'Multiply line 6 by 30% (0.30)', line 9 'Enter the larger of the amount on line 8 or $10,000', line 10 'Enter the smaller of the amount on line 9 (half the amount on line 9 if married filing separately) or the amount from Schedule A, line 5d'. Halving line 9 makes the MFS limit $20,000 less 15% of MAGI over $250,000, never below $5,000 — the 0.15 declared here is the worksheet's 30% halved by its line 10, not a printed rate. The statute as quoted reduces the MFS limit by 30% of the excess; the CPA decides. The MAGI the preparer enters must be the worksheet's line 4: Form 1040 line 11b plus excluded Puerto Rico income and Form 2555 lines 45 and 50 and Form 4563 line 15.",
+    "research_ids": [
+      "A-salt-cap"
+    ]
+  }
+}

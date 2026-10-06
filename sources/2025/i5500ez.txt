@@ -1,0 +1,955 @@
+2025
+Instructions for Form 5500-EZ
+Annual Return of a One-Participant
+(Owners/Partners and Their Spouses) Retirement Plan or A Foreign Plan
+
+
+
+Section references are to the Internal Revenue Code unless            Personal computer. You can access the IRS website 24 hours a
+otherwise noted.                                                      day, 7 days a week at IRS.gov to:
+                                                                      • View forms, instructions, and publications.
+Future developments. For the latest information about
+developments related to Form 5500-EZ and its instructions, such       • See answers to frequently asked tax questions.
+as legislation enacted after they were published, go to               • Search publications online by topic or keyword.
+IRS.gov/Form5500EZ.                                                   • Send comments or request help by email.
+                                                                      • Sign up to receive local and national tax news by email.
+Filing Tips
+To reduce the possibility of correspondence and penalties, we         Photographs of Missing Children
+remind filers of the following.                                       The Internal Revenue Service is a proud partner with the National
+                                                                      Center for Missing & Exploited Children® (NCMEC). Photographs
+Filing Form 5500-EZ on paper with the IRS:
+                                                                      of missing children selected by the Center may appear in
+• Use the online, fillable 2025 Form 5500-EZ on the IRS website.
+                                                                      instructions on pages that would otherwise be blank. You can
+Complete and download the form to your computer to print and
+                                                                      help bring these children home by looking at the photographs
+sign before mailing.
+                                                                      and calling 1-800-THE-LOST (1-800-843-5678) if you recognize
+• Or, use the official printed paper Form 5500-EZ obtained from
+                                                                      a child.
+the IRS. Complete the form by hand using only black or blue
+ink. Be sure to enter your information in the specific line fields
+provided; sign and date the form before mailing.
+• Or, use approved software, if available.
+                                                                      General Instructions
+• Do not use felt tip pens or other writing instruments that can      Purpose of Form
+cause signatures or data to bleed through to the other side of the    Form 5500-EZ is used by one-participant plans and foreign plans
+paper. One-sided documents should have no markings on the             that are not subject to the requirements of section 104(a) of the
+blank side.                                                           Employee Retirement Income Security Act of 1974 (ERISA).
+• Do not use glue or other sticky substances on the paper. Paper      Note. A one-participant plan or a foreign plan (as defined under
+should be clean.                                                      Who Must File Form 5500-EZ) cannot file an annual return on
+• Do not submit extraneous information such as arrows or notes        Form 5500, Annual Return/Report of Employee Benefit Plan,
+on the form.                                                          or Form 5500-SF, Short Form Annual Return/Report of Small
+• Mail Form 5500-EZ for plan year 2025 to the IRS office in           Employee Benefit Plan, regardless of whether the plan previously
+Ogden, Utah, to be processed. See Where To File in these              filed an annual return on Form 5500 or Form 5500-SF. Therefore,
+instructions.                                                         every one-participant plan or a foreign plan required to file an
+Filing Form 5500-EZ electronically using the EFAST2 filing            annual return must either file paper Form 5500-EZ with the IRS
+system:                                                               or electronically file Form 5500-EZ using the EFAST2 Filing
+• File online using EFAST2’s web-based filing system or               System.
+• File through an EFAST2-approved vendor.
+                                                                      Who Must File Form 5500-EZ
+Detailed information on electronic filing is available on the         You must file Form 5500-EZ for a retirement plan if the plan is
+EFAST2 website at www.efast.dol.gov.                                  a one-participant plan or a foreign plan that is required to file an
+                                                                      annual return under section 6058(a).
+Phone Help                                                            A one-participant plan means a retirement plan (that is, a defined
+If you have questions and need help in completing this form,
+                                                                      benefit pension plan or a defined contribution profit-sharing or
+please call the IRS Help Desk at 877-829-5500. If you have
+                                                                      money purchase pension plan), other than an Employee Stock
+questions concerning electronic filing under the EFAST2 filing
+                                                                      Ownership Plan (ESOP), which:
+system, call the EFAST2 Help Desk at 1-866-GO-EFAST (1-
+                                                                        1. Covers only you (or you and your spouse) and you (or
+866-463-3278). These toll-free telephone services are available
+                                                                      you and your spouse) own the entire business (which may be
+Monday through Friday.
+                                                                      incorporated or unincorporated); or
+How To Get Forms and Publications                                       2. Covers only one or more partners (or partners and their
+                                                                      spouses) in a business partnership (treating 2% shareholder of
+You can find Form 5500-EZ and its instructions by visiting the IRS
+                                                                      an S corporation, as defined in IRC §1372(b), as a partner); and
+Internet website at IRS.gov/FormsPubs. You can also find and
+order other IRS forms and publications at IRS.gov/OrderForms.           3. Does not provide benefits for anyone except you (or you
+                                                                      and your spouse) or one or more partners (or partners and their
+                                                                      spouses).
+
+
+
+July 7, 2025                                              Catalog Number 63264C
+  A one-participant plan must file an annual return unless the                        Mandatory electronic filing. A filer must file the Form 5500-
+plan meets the conditions for not filing under Who Does Not Have                      EZ electronically using the EFAST2 Filing System for plan year
+To File Form 5500-EZ below.                                                           beginning on or after January 1, 2025 if the filer is required to file
+                                                                                      at least 10 returns of any type with the IRS, including information
+  A foreign plan means a pension plan that is maintained outside
+                                                                                      returns (for example, Forms W-2 and Forms 1099), income tax
+the United States primarily for nonresident aliens.
+                                                                                      returns, employment tax returns, and excise tax returns, during
+  A foreign plan is required to file an annual return if the                          the calendar year that includes the first day of the applicable plan
+employer who maintains the plan is:                                                   year. If a filer is required to file a Form 5500-EZ electronically
+• A domestic employer, or                                                             but does not, the filer is considered to have not filed the form
+• A foreign employer with income derived from sources within                          even if a paper Form 5500-EZ is submitted. See Treasury
+the United States (including foreign subsidiaries of domestic                         Regulations section 301.6058-2 (T.D. 9972) for more information
+employers) if contributions to the plan are deducted on its U.S.                      on mandatory electronic filing of employee retirement benefit plan
+income tax return.                                                                    returns.
+          Do not file an annual return for a plan that is a qualified foreign         On a year-by-year basis, the IRS may waive the requirements
+ !
+ ▲ plan within the meaning of section 404A(e) that does not
+   qualify for the treatment provided in section 402(d).
+                                                                                      to file Form 5500-EZ electronically in cases of undue economic
+CAUTION                                                                               hardship. In general, the filer should maintain documentation
+                                                                                      supporting the undue hardship or other applicable reason for not
+Note. If you are not eligible to file the Form 5500-EZ for a plan
+                                                                                      filing electronically.
+that is subject to the reporting requirements in section 104 of
+ERISA, you must electronically file Form 5500 or, if eligible, Form
+5500-SF.
+                                                                                      EFAST2 Filing System
+                                                                                      A one-participant plan and a foreign plan can satisfy their filing
+Who Does Not Have To File                                                             obligation under the Code by filing Form 5500-EZ electronically
+                                                                                      under the EFAST2 filing system in place of filing Form 5500-EZ
+Form 5500-EZ                                                                          on paper with the IRS.
+You do not have to file Form 5500-EZ for the 2025 plan year for a
+                                                                                      Under EFAST2, you must electronically file the 2025 Forms
+one-participant plan if the total of the plan’s assets and the assets
+                                                                                      5500 and 5500-SF using EFAST2’s web-based filing system or
+of all other one-participant plans maintained by the employer at
+                                                                                      you may file through an EFAST2-approved vendor. The 2025
+the end of the 2025 plan year does not exceed $250,000, unless
+                                                                                      Form 5500-EZ can also be electronically filed using the EFAST2
+2025 is the final plan year of the plan. For more information on
+                                                                                      filing system or filed on paper with the IRS. For more information
+final plan years, see Final Return, later.
+                                                                                      about electronic filing, see the EFAST2 website at www.efast.
+  Example. If a plan meets all the requirements for filing Form                       dol.gov. For telephone assistance, call the EFAST2 Help Desk at
+5500-EZ and its total assets (either alone or in combination with                     1-866-GO-EFAST (1-866-463-3278). The EFAST2 Help Desk is
+one or more one-participant plans maintained by the employer)                         available Monday through Friday.
+exceed $250,000 at the end of the 2025 plan year, Form 5500-
+                                                                                      Note (1). A filer must file Form 5500-EZ electronically with
+EZ must be filed for each of the employer’s one-participant plans
+                                                                                      EFAST2 instead of filing paper Form 5500-EZ with the IRS if the
+including those with less than $250,000 in assets for the 2025
+                                                                                      filer is required to file at least 10 returns of any type with the IRS
+plan year.
+                                                                                      during the calendar year. See How To File for more information.
+Note. You should use the total plan assets as listed as of the end
+                                                                                      Note (2). If a filer is not subject to the IRS mandatory electronic
+of the plan year on line 6a(2) of this form to determine whether
+                                                                                      filing requirement under Treasury Regulations section
+the plan(s) assets exceed $250,000. If an employer maintains
+                                                                                      301.6058-2, a filer may elect to file Form 5500-EZ electronically
+one or more one-participant plans, the total assets of all one-
+                                                                                      using the EFAST2 filing system. Information filed on Form
+participant plans combined must be counted towards the amount
+                                                                                      5500-EZ is required to be made available to the public. However,
+of $250,000.
+                                                                                      the information for a one-participant plan or a foreign plan,
+                                                                                      whether filed electronically with EFAST2 or filed on paper, will not
+How To File                                                                           be published on the internet.
+Paper forms for filing. The 2025 Form 5500-EZ may be filed
+on paper. File the official IRS printed Form 5500-EZ or the
+downloadable form found on the IRS website; or use approved
+                                                                                      What To File
+                                                                                      Plans required to file an annual return for one-participant (owners
+software, if available.
+                                                                                      and their spouses) retirement plans or foreign plans may file
+   You can complete the online, fillable 2025 Form 5500-EZ found                      Form 5500-EZ in accordance with its instructions. Filers of Form
+on the IRS website and download it to your computer to print and                      5500-EZ are not required to file schedules or attachments related
+sign before mailing to the address specified in these instructions.                   to Form 5500 with the 2025 Form 5500-EZ. However, you must
+See Where To File.                                                                    collect and retain for your records completed Schedule MB
+   You can obtain the official IRS printed 2025 Form 5500-EZ                          (Form 5500), Multiemployer Defined Benefit Plan and Certain
+from the IRS to complete by hand with pen or typewriter using                         Money Purchase Plan Actuarial Information, if applicable,
+blue or black ink. Entries should not exceed the lines provided                       and completed and signed Schedule SB (Form 5500), Single-
+on the form. Abbreviate if necessary. Paper forms are available                       Employer Defined Benefit Plan Actuarial Information, if
+from the IRS as discussed earlier in How To Get Forms and                             applicable. Even though you do not have to file the Schedule
+Publications.                                                                         MB (Form 5500) or Schedule SB (Form 5500) with the 2025
+                                                                                      Form 5500-EZ, you are still required to both perform an annual
+Electronic filing. Effective for plan years beginning after 2019, a                   valuation and maintain the funding records associated with plan
+filer can file Form 5500-EZ electronically using the EFAST2 filing                    funding in the same manner as a plan for which the applicable
+system. See EFAST2 Filing System in these instructions.                               schedule must be filed.
+
+
+                                                                                -2-                                    Instructions for Form 5500-EZ (2025)
+Eligible combined plans. The Pension Protection Act of
+2006 established rules for a new type of pension plan, an
+“eligible combined plan,” effective for plan years beginning after
+                                                                             Specific Instructions
+December 31, 2009. An eligible combined plan consists of a                   Part I – Annual Return Identification
+defined benefit plan and a defined contribution plan that includes
+a qualified cash or deferred arrangement under section 401(k).
+                                                                             Information
+                                                                             Enter the calendar or fiscal year beginning and ending dates of
+The assets of the two plans are held in a single trust, but clearly
+                                                                             the plan year (not to exceed 12 months in length) for which you
+identified and allocated between plans. The eligible combined
+                                                                             are reporting information. Express the date in numerical month,
+plan design is available only to employers that:
+                                                                             day, and year in the following order “MM/DD/YYYY” (for example,
+• Employed an average of at least 2, but no more than 500,
+                                                                             “01/01/2025”).
+employees on business days during the calendar year prior to the
+establishment of the eligible combined plan; and                             For a plan year of less than 12 months (short plan year), insert
+• Employ at least 2 employees on the first day of the plan year              the short plan year beginning and ending dates on the line
+that the plan is established.                                                provided at the top of the form. For purposes of this form, the
+                                                                             short plan year ends on the date of the change in accounting
+    Because an eligible combined plan includes both a defined
+                                                                             period or the complete distribution of the plan’s assets.
+benefit plan and a defined contribution plan, the Form 5500-EZ
+filed for the plan must include all the information that would be            First Return
+required for either a defined benefit plan or a defined contribution         Check box A(1) if this is the first filing for this plan. Do not
+plan.                                                                        check this box if you have ever filed for this plan, even if it was a
+Note. The 2025 Schedule MB (Form 5500) and the 2025                          different form (for example, Form 5500).
+Schedule SB (Form 5500) are available only electronically                    Amended Return
+from the Department of Labor website at www.efast.dol.gov.                   Check box A(2) if you are filing an amended Form 5500-EZ
+You can complete the schedules online and print them out for                 to correct errors and/or omissions in a previously filed annual
+your records. If you are a Form 5500-EZ filer, do not attempt to             return for the 2025 plan year. The amended Form 5500-EZ must
+electronically file the Schedule MB or Schedule SB related to                conform to the requirements under the How To File section,
+your 2025 Form 5500-EZ filing.                                               earlier.
+When To File                                                                   If you are filing an amended return for a one-participant plan
+File the 2025 return for plan years that started in 2025. Form               or a foreign plan that previously filed electronically using Form
+5500-EZ must be filed by the last day of the 7th calendar month              5500-SF or Form 5500-EZ, you must submit the amended return
+after the end of the plan year that began in 2025 (not to exceed             electronically using the prior-year Form 5500-EZ for amending
+12 months in length).                                                        returns originally filed for the prior years or use the current-year
+                                                                             Form 5500-EZ for amending returns filed for the current year or
+Note. If the filing due date falls on a Saturday, Sunday, or legal           returns originally filed older than 3-years. Do Not use Form 5500-
+holiday, the return may be filed on the next day that is not a               SF for an amended return of a one-participant plan or a foreign
+Saturday, Sunday, or legal holiday.                                          plan, even if you previously filed using Form 5500-SF.
+
+Where To File                                                                   If you are filing an amended return for a one-participant plan or
+File the paper Form 5500-EZ at the following address:                        a foreign plan that was previously filed on a paper Form 5500-
+                                                                             EZ, you must submit the amended return using the paper Form
+Department of the Treasury Internal Revenue Service Ogden, UT                5500-EZ with the IRS.
+84201-0020
+                                                                             Short Plan Year
+Private delivery services (PDSs). You can use certain private
+                                                                             Check box A(4) if this form is filed for a period of less than 12
+delivery services designated by the IRS to meet the “timely
+                                                                             months. Show the dates at the top of the form.
+mailing as timely filing/paying” rule for tax returns and payments.
+Go to IRS.gov/PDS for the current list of designated services.               For a short plan year, file a return by the last day of the 7th month
+                                                                             following the end of the short plan year. Modify the heading of the
+  The PDS can tell you how to get written proof of the mailing
+                                                                             form to show the beginning and ending dates of your short plan
+date.
+                                                                             year and check box A(4) for a short plan year. If this is also the
+  Private delivery services use the following address:                       first or final return filed for the plan, check the appropriate box
+    Internal Revenue Submission Processing Center 1973                       (box A(1) or A(3)).
+    Rulon White Blvd.                                                        Final Return
+    Ogden, UT 84201                                                          All one-participant plans and all foreign plans should file a return
+                                                                             for their final plan year indicating that all assets have been
+Who Must Sign                                                                distributed.
+The plan administrator or employer (owner) must sign and date
+paper Form 5500-EZ for the 2025 filing.                                         Check box A(3) if all assets under the plan(s) (including
+                                                                             insurance/annuity contracts) have been distributed to the
+Penalties                                                                    participants and beneficiaries or distributed or transferred to
+                                                                             another plan. The final plan year is the year in which distribution
+Code section 6652(e) imposes a penalty of $250 a day (up to a
+                                                                             of all plan assets is completed.
+maximum penalty of $150,000 per plan year) for not filing returns
+in connection with pension, profit-sharing, etc., plans by the               Extension of Time To File
+required due date.                                                           Using Form 5558
+                                                                             If filing under an extension of time based on the filing of a Form
+                                                                             5558, Application for Extension of Time To File Certain Employee
+                                                                             Plan Returns, do not attach Form 5558 to your Form 5500-EZ.
+Instructions for Form 5500-EZ (2025)                                   -3-
+Check the “Form 5558” box in Part I, line B. A one-time extension            14704 attached to the front of the oldest delinquent return in the
+of time to file Form 5500-EZ (up to 2½ months) may be obtained               submission. Form 14704 can be found at www.irs.gov/pub/irs-
+by filing Form 5558 on or before the normal due date (not                    pdf/f14704.pdf. See Rev. Proc. 2015-32, 2015-24 1063, for more
+including any extensions) of the return. A copy of the completed             information.
+extension request must be retained with the plan’s records.
+Please see Instructions for Form 5558 for more information on                A retroactively adopted plan as permitted by
+how and where to file.                                                       SECURE Act section 201
+                                                                             Check this box E if the plan sponsor adopted the plan during
+Note. Line A of the Form 5558 asks for “Name of filer, plan
+                                                                             the 2025 plan year (i.e., by the due date, including extension,
+administrator, or plan sponsor.” The name of the plan sponsor is
+                                                                             for filing the plan sponsor’s tax return for the 2024 taxable year)
+generally the same as the employer name for a one-participant
+                                                                             and elected to treat the plan as having been adopted before the
+plan.
+                                                                             2025 plan year began (i.e., at the close as of the last day of the
+Using Extension of Time To File Federal Income                               sponsor’s taxable year) as permitted by section 201 of the Setting
+                                                                             Every Community Up for Retirement Enhancement Act of 2019
+Tax Return
+                                                                             (SECURE ACT). Plans in this situation are not required to file
+Filers are automatically granted an extension of time to file Form
+                                                                             a 2024 Form 5500-EZ. However, if the plan is a defined benefit
+5500-EZ until the extended due date of the federal income tax
+                                                                             pension plan, the enrolled actuary must complete and sign the
+return of the employer (and are not required to file Form 5558) if
+                                                                             2024 Schedule SB (Form 5500) in addition to the 2025 Schedule
+all of the following conditions are met.
+                                                                             SB (Form 5500) and the plan sponsor must retain both 2024 and
+   1. The plan year and the employer’s tax year are the same;
+                                                                             2025 Schedule SBs for its records. Please see Instructions for
+   2. The employer has been granted an extension of time to file
+                                                                             Schedule SB for more information.
+its federal income tax return to a date later than the normal due
+date for filing the Form 5500-EZ; and
+   3. A copy of the application for extension of time to file the
+                                                                             Part II – Basic Plan Information
+                                                                             Line 1a. Enter the formal name of the plan.
+federal income tax return is retained with the plan’s records.
+                                                                             Line 1b. Enter the three-digit plan number (PN) that the employer
+  Be sure to check the “automatic extension” box in Part I, line
+                                                                             assigned to the plan. Plans should be numbered consecutively
+B. at the top of the form. An extension granted by using this
+                                                                             starting with 001. Once a plan number is used for a plan, it must
+exception cannot be extended further by filing a Form 5558 after
+                                                                             be used as the plan number for all future filings of returns for the
+the normal due date (without extension) of Form 5500-EZ.
+                                                                             plan, and this number may not be used for any other plan even
+Other Extensions of Time                                                     after the plan is terminated.
+The IRS may announce special extensions of time under certain                Line 1c. Enter the date the plan first became effective.
+circumstances, such as extensions for Presidentially-declared
+disasters or for service in, or in support of, the Armed Forces              Line 2a. Each row is designed to contain specific information
+of the United States in a combat zone. If you are relying on                 regarding the employer. Please limit your response to the
+one of these announced special extensions, check the “special                information required in each row as specified below.
+extension” box on the Form 5500-EZ, Part I, line B, and enter a                 1. Enter in the first row the name of the employer.
+description of the announced authority for the extension.                       2. Enter in the second row the trade name if different from the
+                                                                             name entered in the first row.
+Foreign Plan                                                                    3. Enter in the third row the in care of (“C/O”) name.
+Check box C if the return is filed by a foreign plan. See Who                   4. Enter in the fourth row the street address. A post office box
+Must File Form 5500-EZ, earlier.                                             number may be entered if the Post Office does not deliver mail to
+Check box D only if you are filing a paper Form 5500-EZ with the             the employer’s street address.
+IRS for the late filer penalty relief program. The delinquent return            5. Enter in the fifth row the name of the city, the two character
+cannot be file electronically through the EFAST2 System.                     abbreviation of the U.S. state or possession and ZIP code.
+
+Late Filer Penalty Relief Program                                            Note. You can use Form 8822-B, Change of Address or
+The IRS Late Filer Penalty Relief Program for late annual                    Responsible Party — Business, to notify the IRS if you changed
+reporting for non-Title I retirement plans (one-participant plans            your business mailing address, your business location, or the
+and certain foreign plans) provides administrative relief to plan            identity of your responsible party.
+administrators and plan sponsors from the penalties otherwise                   Foreign address. For foreign addresses, enter the information
+applicable under sections 6652(e) and 6692 for failing to timely             in the order of the city or town, state or province, country, and ZIP
+comply with the annual reporting requirements imposed under                  or foreign postal code. Follow the country’s practice in placing the
+sections 6047(e), 6058, and 6059. Rev. Proc. 2015-32 requires                postal code in the address. Do not abbreviate the country name.
+that an applicant must submit a complete Form 5500-EZ for the
+                                                                             Line 2b. Enter the employer’s nine-digit employer identification
+delinquent plan year on paper with the IRS. The IRS delinquent
+                                                                             number (EIN). For example, 00-1234567. Do not enter a social
+return cannot be filed electronically through EFAST2 System.
+                                                                             security number (SSN).
+   An applicant under the program must print in red letters in
+                                                                               Employers without an EIN must apply for one as soon as
+the top margin above the Form 5500-EZ’s title on the first page
+                                                                             possible. EINs are issued by the IRS. You can apply for an EIN:
+of the return: “Delinquent Return Submitted under Rev. Proc.
+2015-32, Eligible for Penalty Relief.” A filer who checks box D and          • Online — Go to the IRS website at IRS.gov/Businesses and
+submits the delinquent 2025 Form 5500-EZ under the program                   click on “Employer ID Numbers.” The EIN is issued immediately
+is not required to also mark the return as described in Rev. Proc.           once the application information is validated.
+2015-32. However, the return must still be marked as described               • By mailing or faxing Form SS-4, Application for Employer
+in Rev. Proc. 2015-32 for delinquent returns for years that have             Identification Number.
+no box D available. Please be aware that each submission
+under the program must include a completed paper copy of Form
+                                                                       -4-                                   Instructions for Form 5500-EZ (2025)
+           The online application process is not yet available for plans          a “cash-out” distribution or deemed distribution of their entire
+ !
+ ▲ with addresses in foreign countries. Foreign plans may not
+   apply for an EIN online but must use one of the other methods
+ CAUTION
+                                                                                  nonforfeitable accrued benefit.
+            to apply. However, foreign plans may call 267-941-1099 (not a            2. Retired or separated participants receiving benefits
+toll-free number) to apply for an EIN. For more information, see the              (for example, individuals who are retired or separated from
+Instructions for Form SS-4.                                                       employment covered by the plan and who are receiving benefits
+                                                                                  under the plan). This category does not include any individual
+Line 2c. Enter the employer’s telephone number including the
+                                                                                  to whom an insurance company has made an irrevocable
+area code.
+                                                                                  commitment to pay all the benefits to which the individual is
+Line 2d. Enter the six-digit applicable code that best describes                  entitled under the plan.
+the nature of the plan sponsor’s business from the list of principal                 3. Other retired or separated participants entitled to future
+business activity codes later in these instructions.                              benefits (for example, any individuals who are retired or
+Line 3a. Each row is designed to contain specific information                     separated from employment covered by the plan and who are
+regarding the plan administrator. Please limit your response to                   entitled to begin receiving benefits under the plan in the future).
+the information required in each row of boxes as specified below.                 This category does not include any individual to whom an
+   1. Enter in the first row the name of the plan administrator                   insurance company has made an irrevocable commitment to pay
+unless the administrator is the employer identified in line 2a. If                all the benefits to which the individual is entitled under the plan.
+this is the case, enter the word “Same” on line 3a and leave the                     4. Deceased individuals who had one or more beneficiaries
+remainder of line 3a, and all of lines 3b and 3c, blank.                          who are receiving or are entitled to receive benefits under the
+   2. Enter in the second row any in care of (“C/O”) name.                        plan. This category does not include any individual to whom an
+   3. Enter in the third row the street address. A post office box                insurance company has made an irrevocable commitment to pay
+number may be entered if the Post Office does not deliver mail to                 all the benefits to which the beneficiaries of that individual are
+the administrator’s street address.                                               entitled under the plan.
+   4. Enter in the fourth row the name of the city, the two-                      Line 5c. Include any individual who terminated employment
+character abbreviation of the U.S. state or possession and ZIP                    during this plan year, whether or not he or she (a) incurred a
+code.                                                                             break in service, (b) received an irrevocable commitment from
+   Foreign address. For foreign addresses, enter the information                  an insurance company to pay all the benefits to which he or she
+in the order of the city or town, state or province, country, and ZIP             is entitled under the plan, and/or (c) received a cash distribution
+or foreign postal code. Follow the country’s practice in placing the              or deemed cash distribution of his or her nonforfeitable accrued
+postal code in the address. Do not abbreviate the country name.                   benefit.
+
+Line 3b. Enter the plan administrator’s nine-digit EIN. A plan                    Part III – Financial Information
+administrator must have an EIN for Form 5500-EZ reporting                         Note. The cash, modified cash, or accrual basis accounting
+purposes. If the plan administrator does not have an EIN, apply                   methods may be used for recognition of transactions in Part III,
+for one as explained in the instructions for line 2b.                             as long as you use one method consistently. Amounts reported
+Line 3c. Enter the plan administrator’s telephone number                          on lines 6a, 6b, and 6c for the beginning of the plan year must be
+including the area code.                                                          the same as reported for the end of the plan year on the return
+                                                                                  for the preceding plan year. Use whole dollars only.
+Lines 4a–4d. If the employer’s name, the employer’s EIN, and/or
+the plan name has changed since the last return was filed for this                Line 6a. “Total plan assets” include rollovers and transfers
+plan, enter the employer’s name and EIN, the plan name, and the                   received from other plans, unrealized gains and losses such
+plan number as it appeared on the last return filed for this plan.                as appreciation/depreciation in assets. It also includes specific
+                                                                                  assets held by the plan at any time during the plan year (for
+Line 5a(1). Enter the total number of participants at the beginning
+                                                                                  example, partnership/joint venture interests, employer real
+of the plan year.
+                                                                                  property, real estate (other than employer real property),
+Line 5a(2). Enter the total number of active participants at the                  employer securities, loans (participant and non-participant loans),
+beginning of the plan year.                                                       and tangible personal property).
+Line 5b(1). Enter the total number of participants at the end of                    Enter the total amount of plan assets at the beginning of the
+the plan year.                                                                    plan year in column (1). Do not include contributions designated
+Line 5b(2). Enter the total number of active participants at the                  for the 2025 plan year in column (1). Enter the total amount of
+end of the plan year.                                                             plan assets at the end of the plan year in column (2).
+
+  “Participant” for purpose of lines 5a(1)–5b(2) means any                        Line 6b. Liabilities include but are not limited to benefit claims
+individual who is included in one of the categories below.                        payable, operating payables, acquisition indebtedness, and other
+  1. Active participants (for example, any individuals who are                    liabilities. Do not include the value of future distributions that will
+currently in employment covered by the plan and who are earning                   be made to participants.
+or retaining credited service under the plan) including:                          Lines 7a and 7b. Enter the total cash contributions received and/
+• Any individuals who are eligible to elect to have the employer                  or receivable by the plan from employers and participants during
+make payments under a section 401(k) qualified cash or deferred                   the plan year.
+arrangement, and                                                                  Line 7c. Enter the amount of all other contributions including
+• Any nonvested individuals who are earning or retaining                          transfers or rollovers received from other plans valued on the
+credited service under the plan.                                                  date of contribution.
+  This category does not include (a) nonvested former
+employees who have incurred the break in service period                           Part IV – Plan Characteristics
+specified in the plan or (b) former employees who have received                   Line 8. Do not leave blank. Enter all applicable two-character
+                                                                                  plan characteristic codes that applied during the reporting year
+Instructions for Form 5500-EZ (2025)                                        -5-
+from the List of Plan Characteristic Codes shown later that                   way that negates the Opinion Letter, then the plan sponsor is
+describe the characteristics of the plan being reported.                      no longer an Adopting Employer of a Pre-approved Plan, and
+                                                                              the plan is treated as an individually designed plan. An “Opinion
+Note. In the case of an eligible combined plan under section
+                                                                              Letter” is a written statement issued by the IRS to a Provider or
+414(x) and ERISA section 210(e), the codes entered in the boxes
+                                                                              Mass Submitter as an opinion on the qualification in form of a
+on line 9 must include any codes applicable for either the defined
+                                                                              plan under Code section 401(a), Code section 403(a), or both
+benefit pension features or the defined contribution pension
+                                                                              Code sections 401 or 403(a) and 4975(e)(7). See Revenue
+features of the plan.
+                                                                              Procedure 2017-41 for more information. The opinion letter serial
+Part V – Compliance and Funding                                               number is a unique combination of a capital letter and a series of
+                                                                              six numbers assigned to each opinion letter.
+Questions
+Line 9. You must check “Yes” if the plan had any participant                  Privacy Act and Paperwork Reduction Act Notice. We ask
+loans outstanding at any time during the plan year and enter the              for the information on this form to carry out the Internal Revenue
+amount outstanding as of the end of the plan year.                            laws of the United States. This form is required to be filed under
+  Enter on this line all loans to participants, including residential         section 6058(a). Section 6109 requires you to provide your
+mortgage loans that are subject to section 72(p). Include the                 identification number. If you fail to provide this information in a
+sum of the value of the unpaid principal balances, plus accrued               timely manner or if you provide false or fraudulent information,
+but unpaid interest, if any, for participant loans made under an              you may be subject to penalties. Section 6104(b) makes the
+individual account plan with investment experience segregated                 information contained in this form publicly available. Therefore,
+for each account made in accordance with 29 CFR 2550.408b-                    the information will be given to anyone who asks for it and may
+1 and which are secured solely by a portion of the participant’s              be given to the Pension Benefit Guaranty Corporation (PBGC) for
+vested accrued benefit. When applicable, combine this amount                  administration of ERISA, the Department of Justice for civil and
+with the current value of any other participant loans. Do not                 criminal litigation, and cities, states, the District of Columbia, and
+include a participant loan that has been deemed distributed.                  U.S. commonwealths and possessions for use in administering
+                                                                              their tax laws. We may also disclose this information to other
+Line 10. Check “Yes” if this plan is a defined benefit plan subject           countries under a treaty, to federal and state agencies to enforce
+to the minimum funding standard requirements of Code section                  federal non-tax criminal laws, and to federal law enforcement and
+412.                                                                          intelligence agencies to combat terrorism.
+Line 10a. Enter the unpaid minimum required contribution for all                 You are not required to provide the information requested on
+years from line 40 of Schedule SB (Form 5500).                                a form that is subject to the Paperwork Reduction Act unless
+   If the plan is a defined benefit plan, the enrolled actuary                the form displays a valid OMB control number. Books or records
+must complete and sign the 2025 Schedule SB (Form 5500)                       relating to a form or its instructions must be retained as long as
+and forward it no later than the filing due date to the person                their contents may become material in the administration of the
+responsible for filing Form 5500-EZ. The completed Schedule SB                Internal Revenue Code. Generally, the Form 5500 series return/
+is subject to the records retention provisions of the Code. See               reports and some of the related schedules are open to public
+the 2025 Instructions for Form 5500 for more information about                inspection.
+Schedule SB.                                                                     The time needed to complete and file this form will vary
+Line 11a. If a waiver of the minimum funding standard for a prior             depending on individual circumstances. The estimated average
+year is being amortized in the current plan year, enter the month,            time is:
+day, and year (MM/DD/YYYY) the letter ruling was granted.                     Recordkeeping ..................................................... 19 hr., 07 min.
+   If a money purchase defined contribution plan (including a                 Learning about the law or the form ....................... 3 hr., 01min.
+target benefit plan) has received a waiver of the minimum funding             Preparing the form ................................................. 5 hr., 19 min.
+standard, and the waiver is currently being amortized, complete               Copying, assembling, and sending the form . .............. 32 min.
+lines 3, 9, and 10 of Schedule MB (Form 5500). See the                           If you have suggestions for making this form simpler, we would
+Instructions for Schedule MB in the Instructions for Form 5500.               be happy to hear from you. You can send us comments from IRS.
+Do not attach Schedule MB to the Form 5500-EZ. Instead, keep                  gov/FormComment. Or you can write to the Internal Revenue
+the completed Schedule MB in accordance with the applicable                   Service, Tax Forms and Publications Division, 1111 Constitution
+records retention requirements.                                               Ave. NW, IR-6526, Washington, DC 20234. Do not send this form
+Line 12. If a plan sponsor or an employer adopted a Pre-                      to this address. Instead, see Where To File, earlier.
+approved Plan that had received a favorable Opinion Letter,
+enter the date of the most recent favorable Opinion Letter issued
+by the IRS and the Opinion Letter serial number listed on the
+letter. A “Pre-approved Plan” is a plan approved by the IRS with
+a favorable opinion letter that is made available by a Provider
+for adoption by employers, including a standardized plan or a
+nonstandardized plan. A Pre-approved Plan may utilize either of
+two forms: a basic plan document with an adoption agreement or
+a single plan document. The employer is permitted to make minor
+modifications to the plan. An “Adopting Employer” is an employer
+that adopts a Pre-approved Plan offered by a Provider, including
+a plan that is word-for-word identical to, or a minor modification
+of, a plan of a Mass Submitter. If a plan was modified in such a
+
+
+
+                                                                        -6-                                          Instructions for Form 5500-EZ (2025)
+LIST OF PLAN CHARACTERISTIC                                                        CODE   Defined Contribution Pension Features
+                                                                                    2D    Offset plan – Plan benefits are subject to offset for retirement
+CODES FOR LINE 8                                                                          benefits provided in another plan or arrangement of the
+                                                                                          employer.
+ CODE     Defined Benefit Pension Features
+                                                                                    2E    Profit-sharing plan.
+   1A     Benefits are primarily pay related.
+                                                                                    2J    Section 401(k) feature – A cash or deferred arrangement
+   1B     Benefits are primarily flat dollar (includes dollars per year of
+                                                                                          described in section 401(k) that is part of a qualified defined
+          service).
+                                                                                          contribution plan that provides for an election by employees
+   1C     Cash balance or similar plan – Plan has a “cash balance”                        to defer part of their compensation or receive these amounts
+          formula. For this purpose, a “cash balance” formula is a                        in cash.
+          benefit formula in a defined benefit plan by whatever name
+                                                                                    2K    Section 401(m) arrangement – Employee contributions are
+          (for example, personal account plan, pension equity plan,
+                                                                                          allocated to separate accounts under the plan or employer
+          life cycle plan, cash account plan, etc.) that rather than,
+                                                                                          contributions are based, in whole or in part, on employee
+          or in addition to, expressing the accrued benefit as a life
+                                                                                          deferrals or contributions to the plan. Not applicable if plan
+          annuity commencing at normal retirement age, defines
+                                                                                          is 401(k) plan with only QNECs and/or QMACs. Also not
+          benefits for each employee in terms more common to a
+                                                                                          applicable if plan is a section 403(b)(1), 403(b)(7), or 408
+          defined contribution plan such as a single sum distribution
+                                                                                          arrangement/accounts annuities.
+          amount (for example, 10% of final average pay times years
+          of service, or the amount of the employee’s hypothetical                  2R    Participant-directed brokerage accounts provided as an
+          account balance).                                                               investment option under the plan.
+   1D     Floor-offset plan – Plan benefits are subject to offset for               2S    Plan provides for automatic enrollment in plan that has
+          retirement benefits provided by an                                              elective contributions deducted from payroll.
+          employer-sponsored defined contribution plan.                             2T    Total or partial participant-directed account plan – Plan uses
+   1E     Section 401(h) arrangement – Plan contains separate                             default investment account for participants who fail to direct
+          accounts under section 401(h) to provide employee health                        assets in their account.
+          benefits.                                                                CODE   Other Pension Benefit Features
+   1F     Section 414(k) arrangement – Benefits are based partly on                 3A    Non-U.S. plan – Pension plan maintained outside the United
+          the balance of the separate account of the participant (also                    States primarily for nonresident aliens.
+          include appropriate defined contribution pension feature
+          codes).                                                                   3B    Plan covering self-employed individuals.
+
+   1I     Frozen plan – As of the last day of the plan year, the plan               3C    Plan not intended to be qualified – A plan not intended to be
+          provides that no participant will get any new benefit accrual                   qualified under section 401, 403, or 408.
+          (whether because of service or compensation).                             3D    Pre-approved pension plan – A pre-approved pension plan
+                                                                                          under sections 401, 403(a), 403(b), and 4975(e)(7) of the
+ CODE     Defined Contribution Pension Features
+                                                                                          Code that is subject to a favorable opinion letter from the IRS.
+   2A     Age/Service Weighted or New Comparability or Similar Plan
+                                                                                    3E    A one-participant plan that satisfies minimum coverage
+          – Age/Service Weighted Plan: Allocations are based on age,
+                                                                                          requirements of section 410(b) only when combined with
+          service, or age and service. New Comparability or Similar
+                                                                                          another plan of the employer.
+          Plan: Allocations are based on participant classifications and
+          a classification(s) consists entirely or predominantly of highly          3F    Plan sponsor(s) received services of leased employees, as
+          compensated employees; or the plan provides an additional                       defined in section 414(n), during the plan year.
+          allocation rate on compensation above a specified threshold,              3H    Plan sponsor(s) is (are) a member(s) of a controlled group, or
+          and the threshold or additional rate exceeds the maximum                        affiliated service group (section 414(b), (c), or (m)).
+          threshold or rate allowed under the permitted disparity rules
+                                                                                    3J    U.S.-based plan that covers residents of Puerto Rico and
+          of section 401(l).
+                                                                                          is qualified under both section 401 and section 1165 of the
+   2B     Target benefit plan.                                                            Internal Revenue Code of Puerto Rico.
+   2C     Money purchase (other than target benefit) plan.
+
+
+
+
+Instructions for Form 5500-EZ (2025)                                         -7-
+Forms 5500, 5500-SF, and
+                                                                This list of principal business activities and their associated              These principal activity codes are based on the North American
+5500-EZ Codes for Principal                                     codes is designed to classify an enterprise by the type of                   Industry Classification System.
+Business Activity                                               activity in which it is engaged.
+
+Code      Agriculture, Forestry,                 Code      Specialty Trade Contractors                 Code      Manufacturing                            Code       Manufacturing
+          Fishing and Hunting                    238100    Foundation, Structure, & Building           Chemical Manufacturing                             Electrical Equipment, Appliance, and
+Crop Production                                            Exterior Contractors (including             325100    Basic Chemical Mfg                       Component Manufacturing
+                                                           framing carpentry, masonry, glass,                                                             335100     Electric Lighting Equipment Mfg
+111100    Oilseed & Grain Farming                                                                      325200    Resin, Synthetic Rubber, &
+                                                           roofing, & siding)
+111210    Vegetable & Melon Farming                                                                              Artificial & Synthetic Fibers &          335200     Major Household Appliance Mfg
+                                                 238210    Electrical Contractors                                Filaments Mfg
+          (including potatoes & yams)                                                                                                                     335310     Electrical Equipment Mfg
+                                                 238220    Plumbing, Heating, & Air-                   325300    Pesticide, Fertilizer, & Other
+111300    Fruit & Tree Nut Farming                                                                                                                        335900     Other Electrical Equipment &
+                                                           Conditioning Contractors                              Agricultural Chemical Mfg
+111400    Greenhouse, Nursery, &                                                                                                                                     Component Mfg
+                                                 238290    Other Building Equipment                    325410    Pharmaceutical & Medicine Mfg
+          Floriculture Production                                                                                                                         Transportation Equipment Manufacturing
+                                                           Contractors
+111900    Other Crop Farming (including                                                                325500    Paint, Coating, & Adhesive Mfg           336100     Motor Vehicle Mfg
+                                                 238300    Building Finishing Contractors
+          tobacco, cotton, sugarcane, hay,                                                             325600    Soap, Cleaning Compound, &
+                                                           (including drywall, insulation,                                                                336210     Motor Vehicle Body & Trailer Mfg
+          peanut, sugar beet, & all other                                                                        Toilet Preparation Mfg
+                                                           painting, wallcovering, flooring, tile,                                                        336300     Motor Vehicle Parts Mfg
+          crop farming)
+                                                           & finish carpentry)                         325900    Other Chemical Product &
+Animal Production                                                                                                Preparation Mfg                          336410     Aerospace Product & Parts Mfg
+                                                 238900    Other Specialty Trade Contractors
+112111    Beef Cattle Ranching & Farming                                                               Plastics and Rubber Products                       336510     Railroad Rolling Stock Mfg
+                                                           (including site preparation)
+112112    Cattle Feedlots                                                                              Manufacturing                                      336610     Ship & Boat Building
+                                                 Code      Manufacturing
+112120    Dairy Cattle & Milk Production                                                               326100    Plastics Product Mfg                     336990     Other Transportation Equipment
+                                                 Food Manufacturing                                                                                                  Mfg
+112210    Hog & Pig Farming                                                                            326200    Rubber Product Mfg
+                                                 311110    Animal Food Mfg                                                                                Furniture and Related Product
+112300    Poultry & Egg Production                                                                     Nonmetallic Mineral Product
+                                                 311200    Grain & Oilseed Milling                                                                        Manufacturing
+                                                                                                       Manufacturing
+112400    Sheep & Goat Farming                   311300    Sugar & Confectionary Product
+                                                                                                       327100    Clay Product & Refractory Mfg            337000     Furniture & Related Product
+112510    Aquaculture (including shellfish &               Mfg                                                                                                       Manufacturing
+          finfish farms & hatcheries)                                                                  327210    Glass & Glass Product Mfg
+                                                 311400    Fruit & Vegetable Preserving &                                                                 Miscellaneous Manufacturing
+112900    Other Animal Production                          Specialty Food Mfg                          327300    Cement & Concrete Product Mfg
+                                                                                                                                                          339110     Medical Equipment & Supplies Mfg
+Forestry and Logging                             311500    Dairy Product Mfg                           327400    Lime & Gypsum Product Mfg
+                                                                                                                                                          339900     Other Miscellaneous Mfg
+113110    Timber Tract Operations                311610    Animal Slaughtering and                     327900    Other Nonmetallic Mineral Product
+                                                           Processing                                            Mfg                                      Code       Wholesale Trade
+113210    Forest Nurseries & Gathering of
+                                                                                                       Primary Metal Manufacturing                        Merchant Wholesalers, Durable Goods
+          Forest Products                        311710    Seafood Product Preparation &
+                                                           Packaging                                   331110    Iron & Steel Mills & Ferroalloy Mfg      423100     Motor Vehicle, & Motor Vehicle
+113310    Logging
+                                                                                                                                                                     Parts & Supplies
+Fishing, Hunting and Trapping                    311800    Bakeries, Tortilla & Dry Pasta Mfg          331200    Steel Product Mfg from Purchased
+                                                                                                                 Steel                                    423200     Furniture & Home Furnishings
+114110    Fishing                                311900    Other Food Mfg (including coffee,
+                                                           tea, flavorings & seasonings)               331310    Alumina & Aluminum Production &          423300     Lumber & Other Construction
+114210    Hunting & Trapping                                                                                                                                         Materials
+                                                 Beverage and Tobacco Product                                    Processing
+Support Activities for Agriculture                                                                                                                        423400     Professional & Commercial
+                                                 Manufacturing                                         331400    Nonferrous Metal (except
+and Forestry                                                                                                                                                         Equipment & Supplies
+                                                 312110    Soft Drink & Ice Mfg                                  Aluminum) Production &
+115110    Support Activities for Crop                                                                            Processing                               423500     Metal & Mineral (except petroleum)
+          Production (including cotton           312120    Breweries
+                                                                                                       331500    Foundries                                423600     Household Appliances and
+          ginning, soil preparation, planting,   312130    Wineries
+                                                                                                       Fabricated Metal Product Manufacturing                        Electrical & Electronic Goods
+          & cultivating)                         312140    Distilleries
+                                                                                                       332110    Forging & Stamping                       423700     Hardware, Plumbing, & Heating
+115210    Support Activities for Animal          312200    Tobacco Manufacturing                                                                                     Equipment & Supplies
+          Production                                                                                   332210    Cutlery & Handtool Mfg
+                                                 Textile Mills and Textile Product Mills                                                                  423800     Machinery, Equipment, & Supplies
+115310    Support Activities for Forestry                                                              332300    Architectural & Structural Metals
+                                                 313000    Textile Mills                                                                                  423910     Sporting & Recreational Goods &
+Code      Mining                                                                                                 Mfg
+                                                 314000    Textile Product Mills                                                                                     Supplies
+211120    Crude Petroleum Extraction                                                                   332400    Boiler, Tank, & Shipping Container
+                                                 Apparel Manufacturing                                           Mfg                                      423920     Toy, & Hobby Goods, & Supplies
+211130    Natural Gas Extraction
+                                                 315100    Apparel Knitting Mills                      332510    Hardware Mfg                             423930     Recyclable Materials
+212110    Coal Mining
+                                                 315210    Cut & Sew Apparel Contractors               332610    Spring & Wire Product Mfg                423940     Jewelry, Watch, Precious Stone, &
+212200    Metal Ore Mining                                                                                                                                           Precious Metals
+                                                 315220    Men’s & Boys’ Cut & Sew Apparel             332700    Machine Shops; Turned Product; &
+212310    Stone Mining & Quarrying                         Mfg.                                                  Screw, Nut, & Bolt Mfg                   423990     Other Miscellaneous Durable
+212320    Sand, Gravel, Clay, & Ceramic          315240    Women’s, Girls’ and Infants’ Cut &                                                                        Goods
+                                                                                                       332810    Coating, Engraving, Heat Treating,
+          & Refractory Minerals Mining, &                  Sew Apparel Mfg.                                      & Allied Activities                      Merchant Wholesalers, Nondurable Goods
+          Quarrying
+                                                 315280    Other Cut & Sew Apparel Mfg                 332900    Other Fabricated Metal Product           424100     Paper & Paper Products
+212390    Other Nonmetallic Mineral Mining                                                                       Mfg
+                                                 315990    Apparel Accessories & Other                                                                    424210     Drugs & Druggists’ Sundries
+          & Quarrying
+                                                           Apparel Mfg                                 Machinery Manufacturing                            424300     Apparel, Piece Goods, & Notions
+213110    Support Activities for Mining
+                                                 Leather and Allied Product Manufacturing              333100    Agriculture, Construction, & Mining      424400     Grocery & Related Products
+Code      Utilities                              316110    Leather & Hide Tanning, &                             Machinery Mfg                            424500     Farm Product Raw Materials
+221100    Electric Power Generation,                       Finishing                                   333200    Industrial Machinery Mfg
+          Transmission & Distribution                                                                                                                     424600     Chemical & Allied Products
+                                                 316210    Footwear Mfg (including rubber &            333310    Commercial & Service Industry
+221210    Natural Gas Distribution                                                                                                                        424700     Petroleum & Petroleum Products
+                                                           plastics)                                             Machinery Mfg
+221300    Water, Sewage & Other Systems                                                                                                                   424800     Beer, Wine, & Distilled Alcoholic
+                                                 316990    Other Leather & Allied Product Mfg          333410    Ventilation, Heating, Air-                          Beverages
+221500    Combination Gas & Electric             Wood Product Manufacturing                                      Conditioning, & Commercial
+                                                                                                                 Refrigeration Equipment Mfg              424910     Farm Supplies
+Code      Construction                           321110    Sawmills & Wood Preservation
+                                                                                                                                                          424920     Book, Periodical, & Newspapers
+                                                                                                       333510    Metalworking Machinery Mfg
+Construction of Buildings                        321210    Veneer, Plywood, & Engineered
+                                                                                                       333610    Engine, Turbine & Power                  424930     Flower, Nursery Stock, & Florists’
+236110    Residential Building Construction                Wood Product Mfg
+                                                                                                                 Transmission Equipment Mfg                          Supplies
+236200    Nonresidential Building                321900    Other Wood Product Mfg
+                                                                                                       333900    Other General Purpose Machinery          424940     Tobacco & Tobacco Products
+          Construction                           Paper Manufacturing
+                                                                                                                 Mfg                                      424950     Paint, Varnish, & Supplies
+Heavy and Civil Engineering Construction         322100    Pulp, Paper, & Paperboard Mills
+                                                                                                       Computer and Electronic Product                    424990     Other Miscellaneous Nondurable
+237100    Utility System Construction            322200    Converted Paper Product Mfg                 Manufacturing                                                 Goods
+237210    Land Subdivision                       Printing and Related Support Activities               334110    Computer & Peripheral Equipment          Wholesale Electronic Markets and Agents
+237310    Highway, Street, & Bridge              323100    Printing & Related Support                            Mfg                                      and Brokers
+          Construction                                     Activities                                  334200    Communications Equipment Mfg             425110     Business to Business Electronic
+237990    Other Heavy & Civil Engineering        Petroleum and Coal Products                           334310    Audio & Video Equipment Mfg                         Markets
+          Construction                           Manufacturing                                                                                            425120     Wholesale Trade Agents & Brokers
+                                                                                                       334410    Semiconductor & Other Electronic
+                                                 324110    Petroleum Refineries (including                       Component Mfg
+                                                           integrated)
+                                                                                                       334500    Navigational, Measuring,
+                                                 324120    Asphalt Paving, Roofing, &                            Electromedical, & Control
+                                                           Saturated Materials Mfg                               Instruments Mfg
+                                                 324190    Other Petroleum & Coal Products             334610    Manufacturing & Reproducing
+                                                           Mfg                                                   Magnetic & Optical Media
+
+
+
+                                                                                                     -8-                                                Instructions for Form 5500-EZ (2025)
+Forms 5500, 5500-SF, and 5500-EZ Codes for Principal Business Activity (continued)
+Code     Retail Trade                        Code      Retail Trade                            Code      Information                             Code      Finance and Insurance
+Motor Vehicle and Parts Dealers              Miscellaneous Store Retailers                     Publishing Industries (except Internet)           Funds, Trusts, and Other Financial Vehicles
+441110   New Car Dealers                     453110    Florists                                511110    Newspaper Publishers                    525100    Insurance & Employee Benefit
+441120   Used Car Dealers                    453210    Office Supplies & Stationery Stores     511120    Periodical Publishers                             Funds
+441210   Recreational Vehicle Dealers        453220    Gift, Novelty, & Souvenir Stores        511130    Book Publishers                         525910    Open-End Investment Funds
+                                                                                                                                                           (Form 1120-RIC)
+441222   Boat Dealers                        453310    Used Merchandise Stores                 511140    Directory & Mailing List Publishers
+                                                                                                                                                 525920    Trusts, Estates, & Agency
+441228   Motorcycle, ATV, and All Other      453910    Pet & Pet Supplies Stores               511190    Other Publishers                                  Accounts
+         Motor Vehicle Dealers               453920    Art Dealers                             511210    Software Publishers                     525990    Other Financial Vehicles (including
+441300   Automotive Parts, Accessories, &    453930    Manufactured (Mobile) Home              Motion Picture and Sound Recording                          mortgage REITs & closed-end
+         Tire Stores                                   Dealers                                 Industries                                                  investment funds)
+Furniture and Home Furnishings Stores        453990    All Other Miscellaneous Store           512100    Motion Picture & Video Industries       “Offices of Bank Holding Companies” and
+442110   Furniture Stores                              Retailers (including tobacco,                     (except video rental)                   “Offices of Other Holding Companies” are located
+442210   Floor Covering Stores                         candle, & trophy shops)                 512200    Sound Recording Industries              under Management of Companies (Holding
+                                             Nonstore Retailers                                                                                  Companies).
+442291   Window Treatment Stores                                                               Broadcasting (except Internet)
+442299   All Other Home Furnishings Stores   454110    Electronic Shopping & Mail-Order        515100    Radio & Television Broadcasting         Code      Real Estate and Rental and
+                                                       Houses                                                                                              Leasing
+Electronics and Appliance Stores                                                               515210    Cable & Other Subscription
+                                             454210    Vending Machine Operators                         Programming                             Real Estate
+443141   Household Appliance Stores
+                                             454310    Fuel Dealers (including Heating Oil     Telecommunications                                531110    Lessors of Residential Buildings &
+443142   Electronics Stores (including                 and Liquefied Petroleum)                                                                            Dwellings (including equity REITs)
+         Audio, Video, Computer, and                                                           517000    Telecommunications (including
+         Camera Stores)                      454390    Other Direct Selling                              paging, cellular, satellite,            531120    Lessors of Nonresidential
+                                                       Establishments (including                         cable & other program                             Buildings (except Miniwarehouses)
+Building Material and Garden Equipment                 door-to-door retailing, frozen                                                                      (including equity REITs)
+and Supplies Dealers                                                                                     distribution, resellers, other
+                                                       food plan providers, party plan                   telecommunications, & internet          531130    Lessors of Miniwarehouses & Self-
+444110   Home Centers                                  merchandisers, & coffee-break                     service providers)                                Storage Units (including equity
+444120   Paint & Wallpaper Stores                      service providers)                                                                                  REITs)
+                                                                                               Data Processing Services
+444130   Hardware Stores                     Code      Transportation and                      518210    Data Processing, Hosting, &             531190    Lessors of Other Real Estate
+444190   Other Building Material Dealers               Warehousing                                       Related Services                                  Property (including equity REITs)
+444200   Lawn & Garden Equipment &           Air, Rail, and Water Transportation               Other Information Services                        531210    Offices of Real Estate Agents &
+         Supplies Stores                     481000    Air Transportation                                                                                  Brokers
+                                                                                               519100    Other Information Services
+Food and Beverage Stores                     482110    Rail Transportation                               (including news syndicates,             531310    Real Estate Property Managers
+445110   Supermarkets and Other Grocery      483000    Water Transportation                              libraries, internet publishing &        531320    Offices of Real Estate Appraisers
+         (except Convenience) Stores                                                                     broadcasting)                           531390    Other Activities Related to Real
+                                             Truck Transportation
+445120   Convenience Stores                                                                    Code      Finance and Insurance                             Estate
+                                             484110    General Freight Trucking, Local
+445210   Meat Markets                                                                          Depository Credit Intermediation                  Rental and Leasing Services
+                                             484120    General Freight Trucking,
+445220   Fish & Seafood Markets                                                                522110    Commercial Banking                      532100    Automotive Equipment Rental &
+                                                       Long-distance
+                                                                                                                                                           Leasing
+445230   Fruit & Vegetable Markets           484200    Specialized Freight Trucking            522120    Savings Institutions
+                                                                                                                                                 532210    Consumer Electronics &
+445291   Baked Goods Stores                  Transit and Ground Passenger                      522130    Credit Unions                                     Appliances Rental
+445292   Confectionery & Nut Stores          Transportation                                    522190    Other Depository Credit                 532281    Formal Wear & Costume Rental
+445299   All Other Specialty Food Stores     485110    Urban Transit Systems                             Intermediation
+                                                                                                                                                 532282    Video Tape & Disc Rental
+445310   Beer, Wine, & Liquor Stores         485210    Interurban & Rural Bus                  Nondepository Credit Intermediation
+                                                                                                                                                 532283    Home Health Equipment Rental
+                                                       Transportation                          522210    Credit Card Issuing
+Health and Personal Care Stores                                                                                                                  532284    Recreational Goods Rental
+                                             485310    Taxi Service                            522220    Sales Financing
+446110   Pharmacies & Drug Stores                                                                                                                532289    All Other Consumer Goods Rental
+                                             485320    Limousine Service                       522291    Consumer Lending
+446120   Cosmetics, Beauty Supplies, &                                                                                                           532310    General Rental Centers
+         Perfume Stores                      485410    School & Employee Bus                   522292    Real Estate Credit (including
+                                                       Transportation                                                                            532400    Commercial & Industrial Machinery
+446130   Optical Goods Stores                                                                            mortgage bankers & originators)
+                                                                                                                                                           & Equipment Rental & Leasing
+                                             485510    Charter Bus Industry                    522293    International Trade Financing
+446190   Other Health & Personal Care                                                                                                            Lessors of Nonfinancial Intangible
+         Stores                              485990    Other Transit & Ground Passenger        522294    Secondary Market Financing              Assets (except copyrighted works)
+                                                       Transportation
+Gasoline Stations                                                                              522298    All Other Nondepository Credit          533110    Lessors of Nonfinancial Intangible
+                                             Pipeline Transportation                                     Intermediation                                    Assets (except copyrighted works)
+447100   Gasoline Stations (including
+         convenience stores with gas)        486000    Pipeline Transportation                 Activities Related to Credit Intermediation       Code      Professional, Scientific, and
+Clothing and Clothing Accessories Stores     Scenic & Sightseeing Transportation               522300    Activities Related to Credit                      Technical Services
+448110   Men’s Clothing Stores               487000    Scenic & Sightseeing                              Intermediation (including loan
+                                                                                                                                                 Legal Services
+                                                       Transportation                                    brokers, check clearing, & money
+448120   Women’s Clothing Stores                                                                         transmitting)                           541110    Offices of Lawyers
+                                             Support Activities for Transportation
+448130   Children’s & Infants’ Clothing                                                        Securities, Commodity Contracts, and              541190    Other Legal Services
+         Stores                              488100    Support Activities for Air
+                                                                                               Other Financial Investments and Related           Accounting, Tax Preparation,
+                                                       Transportation
+448140   Family Clothing Stores                                                                Activities                                        Bookkeeping, and Payroll Services
+                                             488210    Support Activities for Rail
+448150   Clothing Accessories Stores                                                           523110    Investment Banking & Securities         541211    Offices of Certified Public
+                                                       Transportation
+448190   Other Clothing Stores                                                                           Dealing                                           Accountants
+                                             488300    Support Activities for Water
+448210   Shoe Stores                                                                           523120    Securities Brokerage                    541213    Tax Preparation Services
+                                                       Transportation
+448310   Jewelry Stores                                                                        523130    Commodity Contracts Dealing             541214    Payroll Services
+                                             488410    Motor Vehicle Towing
+448320   Luggage & Leather Goods Stores                                                        523140    Commodity Contracts Brokerage           541219    Other Accounting Services
+                                             488490    Other Support Activities for Road
+Sporting Goods, Hobby, Book, and Music                 Transportation                          523210    Securities & Commodity                  Architectural, Engineering, and Related
+Stores                                                                                                   Exchanges                               Services
+                                             488510    Freight Transportation
+451110   Sporting Goods Stores                         Arrangement                             523900    Other Financial Investment              541310    Architectural Services
+                                                                                                         Activities (including portfolio         541320    Landscape Architecture Services
+451120   Hobby, Toy, & Game Stores           488990    Other Support Activities for
+                                                                                                         management & investment advice)
+                                                       Transportation                                                                            541330    Engineering Services
+451130   Sewing, Needlework, & Piece                                                           Insurance Carriers and Related Activities
+         Goods Stores                        Couriers and Messengers                                                                             541340    Drafting Services
+                                                                                               524130    Reinsurance Carriers
+451140   Musical Instrument & Supplies       492110    Couriers                                                                                  541350    Building Inspection Services
+         Stores                                                                                524140    Direct Life, Health, & Medical
+                                             492210    Local Messengers & Local Delivery                                                         541360    Geophysical Surveying & Mapping
+                                                                                                         Insurance Carriers
+451211   Book Stores                         Warehousing and Storage                                                                                       Services
+                                                                                               524150    Direct Insurance (except Life,
+451212   News Dealers & Newsstands           493100    Warehousing & Storage (except                     Health & Medical) Carriers              541370    Surveying & Mapping (except
+General Merchandise Stores                             lessors of miniwarehouses & self-                                                                   Geophysical) Services
+                                                                                               524210    Insurance Agencies & Brokerages
+                                                       storage units)                                                                            541380    Testing Laboratories
+452200   Department Stores                                                                     524290    Other Insurance Related Activities
+452300   General Merchandise Stores incl.                                                                (including third-party administration   Specialized Design Services
+         Warehouse Clubs & Supercenters                                                                  of Insurance and pension funds)         541400    Specialized Design Services
+                                                                                                                                                           (including interior, industrial,
+                                                                                                                                                           graphic, & fashion design)
+
+
+
+
+Instructions for Form 5500-EZ (2025)                                                         -9-
+Forms 5500, 5500-SF, and 5500-EZ Codes for Principal Business Activity (continued)
+Code      Professional, Scientific, and           Code        Educational Services                    Code     Arts, Entertainment, and                Code     Other Services
+          Technical Services                      611000      Educational Services (including                  Recreation                              Religious, Grantmaking, Civic,
+Computer Systems Design and Related                           schools, colleges, & universities)      Amusements, Gambling, and Recreation             Professional, and Similar Organizations
+Services                                          Code        Health Care and Social                  Industries                                       813000   Religious, Grantmaking,
+541511    Custom Computer Programming                         Assistance                              713100   Amusement Parks & Arcades                        Civic, Professional, & Similar
+          Services                                                                                                                                              Organizations (including
+                                                  Offices of Physicians and Dentists                  713200   Gambling Industries
+                                                                                                                                                                condominium and homeowners
+541512    Computer Systems Design                                                                     713900   Other Amusement & Recreation
+                                                  621111      Offices of Physicians (except                                                                     associations)
+          Services                                                                                             Industries (including golf courses,
+                                                              mental health specialists)                                                               813930   Labor Unions and Similar Labor
+541513    Computer Facilities Management                                                                       skiing facilities, marinas, fitness
+                                                  621112      Offices of Physicians, Mental                                                                     Organizations
+          Services                                                                                             centers, & bowling centers)
+                                                              Health Specialists
+541519    Other Computer Related Services                                                             Code     Accommodation and Food                  Code
+                                                  621210      Offices of Dentists
+Other Professional, Scientific, and                                                                            Services                                921000   Governmental Instrumentality or
+                                                  Offices of Other Health Practitioners                                                                         Agency
+Technical Services                                                                                    Accommodation
+                                                  621310      Offices of Chiropractors
+541600    Management, Scientific, &                                                                   721110   Hotels (except Casino Hotels) &
+          Technical Consulting Services           621320      Offices of Optometrists
+                                                                                                               Motels
+541700    Scientific Research &                   621330      Offices of Mental Health
+                                                                                                      721120   Casino Hotels
+          Development Services                                Practitioners (except Physicians)
+                                                                                                      721191   Bed & Breakfast Inns
+541800    Advertising & Related Services          621340      Offices of Physical, Occupational &
+                                                              Speech Therapists, & Audiologists       721199   All other Traveler Accommodation
+541910    Marketing Research & Public
+          Opinion Polling                         621391      Offices of Podiatrists                  721210   RV (Recreational Vehicle) Parks &
+                                                                                                               Recreational Camps
+541920    Photographic Services                   621399      Offices of all Other Miscellaneous
+                                                              Health Practitioners                    721310   Rooming and Boarding Houses,
+541930    Translation & Interpretation                                                                         Dormitories, and Workers’ Camps
+          Services                                Outpatient Care Centers
+                                                                                                      Food Services and Drinking Places
+541940    Veterinary Services                     621410      Family Planning Centers
+                                                                                                      722300   Special Food Services (including
+541990    All Other Professional, Scientific, &   621420      Outpatient Mental Health &
+                                                                                                               food service contractors &
+          Technical Services                                  Substance Abuse Centers
+                                                                                                               caterers)
+Code      Management of Companies                 621491      HMO Medical Centers
+                                                                                                      722410   Drinking Places (Alcoholic
+          (Holding Companies)                     621492      Kidney Dialysis Centers                          Beverages)
+551111    Offices of Bank Holding                 621493      Freestanding Ambulatory Surgical        722511   Full-Service Restaurants
+          Companies                                           & Emergency Centers
+                                                                                                      722513   Limited-Service Restaurants
+551112    Offices of Other Holding                621498      All Other Outpatient Care Centers
+                                                                                                      722514   Cafeterias and Buffets
+          Companies                               Medical and Diagnostic Laboratories
+                                                                                                      722515   Snack and Non-alcoholic Beverage
+Code      Administrative and Support              621510      Medical & Diagnostic Laboratories                Bars
+          and Waste Management                    Home Health Care Services                           Code     Other Services
+          and Remediation Services                621610      Home Health Care Services               Repair and Maintenance
+Administration and Support Services               Other Ambulatory Health Care Services               811110   Automotive Mechanical, &
+561110    Office Administrative Services          621900      Other Ambulatory Health Care                     Electrical Repair & Maintenance
+561210    Facilities Support Services                         Services (including ambulance           811120   Automotive Body, Paint, Interior, &
+561300    Employment Services                                 services & blood & organ banks)                  Glass Repair
+561410    Document Preparation Services           Hospitals                                           811190   Other Automotive Repair &
+561420    Telephone Call Centers                  622000      Hospitals                                        Maintenance (including oil change
+                                                  Nursing and Residential Care Facilities                      & lubrication shops & car washes)
+561430    Business Service Centers
+          (including private mail centers &       623000      Nursing & Residential Care              811210   Electronic & Precision Equipment
+          copy shops)                                         Facilities                                       Repair & Maintenance
+561440    Collection Agencies                     Social Assistance                                   811310   Commercial & Industrial Machinery
+                                                                                                               & Equipment (except Automotive &
+561450    Credit Bureaus                          624100      Individual & Family Services
+                                                                                                               Electronic) Repair & Maintenance
+561490    Other Business Support Services         624200      Community Food & Housing,
+                                                                                                      811410   Home & Garden Equipment &
+          (including repossession services,                   & Emergency & Other Relief
+                                                                                                               Appliance Repair & Maintenance
+          court reporting, & stenotype                        Services
+          services)                                                                                   811420   Reupholstery & Furniture Repair
+                                                  624310      Vocational Rehabilitation Services
+561500    Travel Arrangement & Reservation                                                            811430   Footwear & Leather Goods Repair
+                                                  624410      Child Day Care Services
+          Services                                                                                    811490   Other Personal & Household
+                                                  Code        Arts, Entertainment, and                         Goods Repair & Maintenance
+561600    Investigation & Security Services
+                                                              Recreation                              Personal and Laundry Services
+561710    Exterminating & Pest Control
+                                                  Performing Arts, Spectator Sports, and
+          Services                                                                                    812111   Barber Shops
+                                                  Related Industries
+561720    Janitorial Services                                                                         812112   Beauty Salons
+                                                  711100      Performing Arts Companies
+561730    Landscaping Services                                                                        812113   Nail Salons
+                                                  711210      Spectator Sports (including sports
+561740    Carpet & Upholstery Cleaning                        clubs & racetracks)                     812190   Other Personal Care Services
+          Services                                                                                             (including diet & weight reducing
+                                                  711300      Promoters of Performing Arts,
+561790    Other Services to Buildings &                                                                        centers)
+                                                              Sports, & Similar Events
+          Dwellings                                                                                   812210   Funeral Homes & Funeral Services
+                                                  711410      Agents & Managers for Artists,
+561900    Other Support Services (including                   Athletes, Entertainers, & Other         812220   Cemeteries & Crematories
+          packaging & labeling services,                      Public Figures                          812310   Coin-Operated Laundries &
+          & convention & trade show                                                                            Drycleaners
+                                                  711510      Independent Artists, Writers, &
+          organizers)
+                                                              Performers                              812320   Drycleaning & Laundry Services
+Waste Management and Remediation                                                                               (except Coin-Operated)
+                                                  Museums, Historical Sites, and Similar
+Services
+                                                  Institutions                                        812330   Linen & Uniform Supply
+562000    Waste Management and
+                                                  712100      Museums, Historical Sites, &            812910   Pet Care (except Veterinary)
+          Remediation Services
+                                                              Similar Institutions                             Services
+                                                                                                      812920   Photofinishing
+                                                                                                      812930   Parking Lots & Garages
+                                                                                                      812990   All Other Personal Services
+
+
+
+
+                                                                                                    -10-                                             Instructions for Form 5500-EZ (2025)
+

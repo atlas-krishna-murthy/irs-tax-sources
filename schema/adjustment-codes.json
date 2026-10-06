@@ -1,0 +1,251 @@
+{
+  "adjustment-codes": [
+    {
+      "code": "B",
+      "meaning": "Basis shown in 1099-B box 1e / 1099-DA box 1g is incorrect",
+      "column_g_sign": "either",
+      "note": "Only on boxes A/G/D/J. On B/H/E/K enter the correct basis in (e) and -0- in (g).",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "Worksheet for Basis Adjustments in Column (g), later.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "C",
+      "meaning": "Disposed of collectibles",
+      "column_g_sign": "zero",
+      "note": "A flag, not an amount.",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "Enter -0- in column (g). Report the disposition on Form",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "D",
+      "meaning": "1099-B box 1f / 1099-DA box 1h shows accrued market discount",
+      "column_g_sign": "negative",
+      "note": "The Worksheet for Accrued Market Discount Adjustment in Column (g), line 5: 'Enter it as a negative amount (in parentheses) in Form 8949, column (g).' -0- if the discount is already included in income currently. If the disposition is also a wash sale, use W instead.",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "Use the Worksheet for Accrued Market Discount",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "E",
+      "meaning": "Selling expenses, option premiums, or digital asset transaction costs not reflected on the form",
+      "column_g_sign": "conditional",
+      "note": "Negative for amounts PAID; positive for an option premium RECEIVED. Available only where a form WAS received - without one, column (d) is net proceeds and there is no code E at all.",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "as a negative number (in parentheses) selling expenses,",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "H",
+      "meaning": "Sold main home at a gain, reportable on Part II, and can exclude some or all",
+      "column_g_sign": "negative",
+      "note": "The section 121 main-home exclusion.",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "excluded (nontaxable) gain as a negative number (in",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "L",
+      "meaning": "Nondeductible loss other than one indicated by code W",
+      "column_g_sign": "positive",
+      "note": "",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "amount of the nondeductible loss as a positive number in",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "M",
+      "meaning": "Multiple transactions on a single row (Exception 2 / special provision)",
+      "column_g_sign": "zero",
+      "note": "-0- unless another code requires an adjustment.",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "transaction on a separate row, earlier. Enter -0- in column",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "N",
+      "meaning": "Received the 1099-B / 1099-DA / 1099-S as a nominee",
+      "column_g_sign": "conditional",
+      "note": "Gain -> negative; loss -> positive. 'the amount in column (h) should be zero'.",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "a negative adjustment (in parentheses) in column (g) or any",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "none",
+      "meaning": "No adjustments",
+      "column_g_sign": "zero",
+      "note": "Printed in the same table: 'None of the other statements in this column apply because you have no adjustments -> Leave columns (f) and (g) blank.'",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "None of the other statements in this column Leave columns (f) and (g) blank.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "O",
+      "meaning": "Any adjustment not explained by the codes above",
+      "column_g_sign": "either",
+      "note": "The catch-all.",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "Enter the appropriate adjustment amount in column (g).",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "P",
+      "meaning": "Nonresident alien or foreign entity selling an interest in a partnership engaged in a U.S. trade or business",
+      "column_g_sign": "either",
+      "note": "Per Regs. 1.864(c)(8)-1(b),(c).",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "from the application of Regulations section 1.864(c)(8)-1(b)",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "Q",
+      "meaning": "Sold qualified small business stock and can exclude part of the gain (sec. 1202)",
+      "column_g_sign": "negative",
+      "note": "",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "the exclusion as a negative number (in parentheses) in",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "R",
+      "meaning": "Electing to postpone gain under a rollover",
+      "column_g_sign": "negative",
+      "note": "",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "postponed gain as a negative number (in parentheses) in",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "S",
+      "meaning": "Loss on section 1244 small business stock above the ordinary-loss maximum",
+      "column_g_sign": "either",
+      "note": "Per the Schedule D instructions.",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "See Small Business (Section 1244) Stock in the",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "T",
+      "meaning": "Type of gain or loss in 1099-B box 2 / 1099-DA box 6 is incorrect",
+      "column_g_sign": "zero",
+      "note": "-0- if no other adjustment is needed. Report on the CORRECT Part. If the Ordinary box is checked and it is a contingent payment debt instrument, use O instead.",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "and enter -0- in column (g) on that part of the form if there",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "W",
+      "meaning": "Nondeductible loss from a wash sale",
+      "column_g_sign": "positive",
+      "note": "Enter the CORRECT amount even if box 1g/1i is wrong. -0- if no part is a wash sale.",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "nondeductible wash sale loss shown in box 1g on Form",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "X",
+      "meaning": "Exclusion for DC Zone assets or qualified community assets",
+      "column_g_sign": "negative",
+      "note": "",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "instructions for DC Zone assets or qualified",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "Y",
+      "meaning": "Reporting gain from a QOF investment deferred in a prior year",
+      "column_g_sign": "positive",
+      "note": "An inclusion.",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "See How To Report Gain Previously Deferred in a QOF",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    },
+    {
+      "code": "Z",
+      "meaning": "Electing to postpone gain by investing in a QOF",
+      "column_g_sign": "negative",
+      "note": "A deferral.",
+      "citation": {
+        "form": "Instructions for Form 8949",
+        "line": "How To Complete Form 8949, Columns (f) and (g)",
+        "revision": "2025",
+        "wording": "See How To Report an Election To Defer Tax on Eligible",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8949--2025.pdf"
+      }
+    }
+  ]
+}

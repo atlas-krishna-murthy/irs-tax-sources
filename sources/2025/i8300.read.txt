@@ -1,0 +1,627 @@
+Instructions for Form 8300
+
+Department of the Treasury
+Internal Revenue Service
+
+(Rev. December 2023)
+
+Report of Cash Payments Over $10,000 Received in a Trade or Business
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to
+Form 8300 and its instructions, such as legislation
+enacted after they were published, go to IRS.gov/
+Form8300.
+
+What’s New
+
+Starting January 1, 2024, you must electronically file
+Forms 8300, Report of Cash Payments Over $10,000
+Received in a Trade or Business, if you are required to file
+certain other information returns electronically (for
+example, Forms 1099 (series), Forms W-2, etc.). See
+Who must file, later.
+
+If you are required to electronically file your information
+returns, but filing electronically would cause you undue
+hardship, you might qualify for a waiver or exemptions.
+See the discussion on Waivers and Exemptions, later.
+
+Important Reminders
+
+• Section 6050I (26 United States Code (U.S.C.) 6050I)
+
+and 31 U.S.C. 5331 require that certain information be
+reported to the IRS and the Financial Crimes Enforcement
+Network (FinCEN). This information must be reported on
+IRS/FinCEN Form 8300.
+• Item 33, box i, is to be checked only by clerks of the
+court; box d is to be checked by bail bondsmen. See Item
+33 under Part III, later.
+• The meaning of the word “currency” for purposes of 31
+U.S.C. 5331 is the same as for the word “cash” (see Cash
+under Definitions, later).
+
+General Instructions
+Who must file. Each person engaged in a trade or
+business who, in the course of that trade or business,
+receives more than $10,000 in cash in one transaction or
+in two or more related transactions, must file Form 8300.
+You are required to file certain other information returns
+electronically if you are required to file, in aggregate, at
+least 10 information returns of one or more type, other
+than Form 8300, during the calendar year. If you file fewer
+than 10 information returns during 2024 (of any type other
+than Form 8300), then you do not have to file the
+information returns electronically and you are not required
+to file any Form 8300 electronically in 2024 (although you
+may choose to do so). The number of Forms 8300 you file
+does not affect whether you are required to file any
+information returns electronically, including any Forms
+8300. The 10-information-return threshold is reevaluated
+on an annual basis.
+Example 1. If you file five Forms W-2 and five Forms
+1099-INT in 2024, then you would have met the 10-return
+threshold and you are required to electronically file all your
+Dec 20, 2023
+
+information returns, including any Forms 8300 during
+2024.
+Example 2. If you file three Forms 1099-MISC and four
+Forms 1099-DIV in 2024, you would not have met the
+10-return threshold and you are not required to
+electronically file information returns, including Form 8300
+during 2024.
+Any transactions conducted between a payer (or its
+agent) and the recipient in a 24-hour period are related
+transactions. Transactions are considered related even if
+they occur over a period of more than 24 hours if the
+recipient knows, or has reason to know, that each
+transaction is one of a series of connected transactions.
+Members of a consolidated group. If the person
+required to file Form 8300 is a member of a consolidated
+group, then information specific to that member
+corporation must be provided in Part IV, items 35 through
+41, rather than information about the common parent.
+However, the common parent's name and employer
+identification number must be included in the Comments
+section.
+Related parties. If the person who must file Form 8300
+is related to the individual who gave the person filing
+Form 8300 the cash, or related to the person on whose
+behalf the transaction was conducted, the person filing
+Form 8300 must include the words “RELATED PARTY
+TRANSACTION” in the Comments section. See IRC
+267(b) for more information about related parties. Consult
+your tax advisor for more information.
+Retention requirement. Persons must keep a copy of
+each Form 8300 for 5 years from the date filed. When
+filing electronically, ensure you save a copy of the
+completed form prior to submission. A confirmation that
+the Form 8300 has been filed is not a substitute for the
+form. We recommend you associate the confirmation
+number with the saved copy.
+Court clerks. Clerks of federal or state courts must file
+Form 8300 if more than $10,000 in cash is received as bail
+for an individual(s) charged with a specified criminal
+offense. Both dollar threshold and the specified criminal
+offense criteria must be met. “Specified criminal offense”
+means:
+• A federal criminal offense involving a controlled
+substance (as defined in section 802 of Title 21 of the U.S.
+Code);
+• Racketeering (as defined in section 1951, 1952, or
+1955 of Title 18 of the U.S. Code);
+• Money laundering (as defined in section 1956 or 1957
+of Title 18 of the U.S. Code); and
+• Any state criminal offense substantially similar to stated
+offenses 1–3 above.
+For these purposes, a clerk includes the clerk’s office or
+any other office, department, division, branch, or unit of
+the court that is authorized to receive bail. If a person
+
+Cat. No. 93312P
+
+receives bail on behalf of a clerk, the clerk is treated as
+receiving the bail. See Item 33 under Part III, later.
+If multiple payments are made in cash to satisfy bail
+and the initial payment does not exceed $10,000, the
+initial payment and subsequent payments must be
+aggregated, and the information return must be filed by
+the 15th day after receipt of the payment that causes the
+aggregate amount to exceed $10,000 in cash. In such
+cases, the reporting requirement can be satisfied by
+sending a single written statement with the aggregate
+Form 8300 amounts listed relating to that payer. Payments
+made to satisfy separate bail requirements are not
+required to be aggregated. See Regulations section
+1.6050I-2.
+Casinos. Casinos must file Form 8300 for nongaming
+activities (restaurants, shops, nightclubs, etc.).
+Voluntary use of Form 8300. Form 8300 may be filed
+voluntarily for any suspicious transaction (see Definitions,
+later) for use by FinCEN and the IRS, even if the total
+amount does not exceed $10,000.
+Exceptions. Cash is not required to be reported if it is
+received:
+• By a financial institution required to file FinCEN
+Currency Transaction Report (FinCEN Report 112);
+• By a casino required to file (or exempt from filing)
+FinCEN Report 112, if the cash is received as part of its
+gaming business;
+• By an agent who receives the cash from a principal, if
+the agent uses all of the cash within 15 days in a second
+transaction that is reportable on Form 8300 or on FinCEN
+Report 112, and discloses all the information necessary to
+complete Part II of Form 8300 or FinCEN Report 112 by
+the recipient of the cash in the second transaction;
+• In a transaction occurring entirely outside the United
+States. See Pub. 1544, Reporting Cash Payments of Over
+$10,000 (Received in a Trade or Business), regarding
+transactions occurring in Puerto Rico and territories of the
+United States; or
+• In a transaction that is not in the course of a person’s
+trade or business.
+When to file. File Form 8300 by the 15th day after the
+date the cash was received. If that date falls on a
+Saturday, Sunday, or legal holiday, file the form on the next
+business day.
+Electronically file Form 8300 using the FinCEN Bank
+Secrecy Act (BSA) E-Filing System at http://
+bsaefiling.fincen.treas.gov/main.html.
+If you do not have to file electronically, file paper
+Forms 8300 with the Internal Revenue Service, Detroit
+Federal Building, P.O. Box 32621, Detroit, Ml 48232.
+Waivers. You may file a request for a waiver from filing
+information returns electronically due to undue hardship.
+For more information, refer to Form 8508, Application for a
+Waiver from Electronic Filing of Information Returns. If you
+request and are granted a waiver from electronically filing
+any information return, that waiver automatically applies to
+any Forms 8300 that you are required to file for the
+duration of the calendar year. You may not file a request
+for a waiver from filing only Form 8300 electronically. If a
+waiver is granted, you must include the words “WAIVER”
+2
+
+on the center top of page 1 of each Form 8300 when
+submitting the paper filed return.
+Note. If you file fewer than 10 information returns (of any
+type other than Form 8300) during the calendar year, you
+may file Form 8300 in paper form without requesting a
+waiver. You still have the option to file electronically even if
+the minimum 10-return threshold is not met and you are
+encouraged to do so.
+Exemptions. If using the technology required to file in
+electronic form conflicts with your religious beliefs, you are
+automatically exempt from filing Form 8300 electronically.
+You must include the words “RELIGIOUS EXEMPTION”
+on the center top of page 1 of each Form 8300 when
+submitting the paper filed return.
+Late returns. You must identify late filed returns. A late
+Form 8300 must be filed in the same manner, either
+electronically or on paper, as a timely filed Form 8300. If
+you file a late Form 8300 electronically, you must include
+the word “LATE” in the Comments section of the return. If
+you file a late Form 8300 on paper, you must write “LATE”
+on the center top of page 1 of each Form 8300.
+Failure to file timely includes a failure to file in the
+required manner. If you are required to file
+CAUTION electronically and fail to do so, the form is
+considered late. Forms that are late are subject to penalty.
+
+!
+
+Statement to be provided. You must give a written or
+electronic statement to each person named on a required
+Form 8300 on or before January 31 of the year following
+the calendar year in which the cash is received. The
+statement must show the name, telephone number, and
+address of the contact for the business, the aggregate
+amount of reportable cash received, and that the
+information was furnished to the IRS. Keep a copy of the
+statement for your records.
+DO NOT provide a written or electronic statement to
+any named person for a voluntary filing of Form 8300 for
+suspicious activity of any named person. For all Forms
+8300 required to be filed, the written or electronic
+statement to each named person must not indicate if the
+filer noted the transaction was suspicious. Also, providing
+a copy of Form 8300 to the named person, although not
+prohibited, is not advisable due to the sensitive
+information contained on the form, for example, the
+Employer Identification Number (EIN) or social security
+number (SSN) of the filer.
+Multiple payments. If you receive more than one cash
+payment for a single transaction or for related
+transactions, you must report the multiple payments any
+time you receive a total amount of cash that exceeds
+$10,000 within any 12-month period. Submit the report
+within 15 days of the date you receive the payment that
+causes the total amount of cash to exceed $10,000. If
+more than one report is required within 15 days, you may
+file a combined report. File the combined report no later
+than the date the earliest report, if filed separately, would
+have to be filed.
+Taxpayer identification number (TIN). You must furnish
+the correct TIN of the person or persons from whom you
+receive the cash and, if applicable, the person or persons
+on whose behalf the transaction is being conducted. You
+Instructions for Form 8300 (December 2023)
+
+may be subject to penalties for an incorrect or missing
+TIN.
+The TIN for an individual (including a sole
+proprietorship) is the individual’s SSN. For certain resident
+aliens who are not eligible to get an SSN and nonresident
+aliens who are required to file tax returns, it is an IRS
+Individual Taxpayer Identification Number (ITIN). For other
+persons, including corporations, partnerships, and
+estates, it is the EIN.
+If you have requested but are not able to get a TIN for
+one or more of the parties to a transaction within 15 days
+following the transaction, file the report and use the
+Comments section on page 2 of the form to explain why
+the TIN is not included.
+Exception. You are not required to provide the TIN of a
+person who is a nonresident alien individual or a foreign
+organization that:
+• Does not have income effectively connected with the
+conduct of a U.S. trade or business;
+• Does not have an office or place of business, or a fiscal
+or paying agent, in the United States;
+• Does not furnish a withholding certificate described in
+Regulations section 1.1441-1(e)(2) or (3) or Regulations
+section 1.1441-5(c)(2)(iv) or (3)(iii) to the extent required
+under Regulations section 1.1441-1(e)(4)(vii); or
+• Does not have to furnish a TIN on any return, statement,
+or other document as required by the income tax
+regulations under section 897 or 1445.
+Penalties. You may be subject to penalties if you fail to
+file a correct and complete Form 8300 on time and you
+cannot show that the failure was due to reasonable cause.
+You may also be subject to penalties if you fail to furnish
+timely a correct and complete statement to each person
+named in a required report. A minimum penalty of $25,000
+may be imposed if the failure is due to an intentional or
+willful disregard of the cash reporting requirements.
+Penalties may also be imposed for causing, or
+attempting to cause, a trade or business to fail to file a
+required report; for causing, or attempting to cause, a
+trade or business to file a required report containing a
+material omission or misstatement of fact; or for
+structuring, or attempting to structure, transactions to
+avoid the reporting requirements. These violations may
+also be subject to criminal prosecution that, upon
+conviction, may result in imprisonment of up to 5 years or
+fines of up to $250,000 for individuals and $500,000 for
+corporations or both.
+Reasonable cause. Reasonable cause is based on all
+the facts and circumstances in each situation and allows
+the IRS to provide relief from a penalty that would
+otherwise apply. Reasonable cause relief is generally
+granted when the person exercised ordinary business
+care and prudence in determining their filing obligations
+but was nevertheless unable to comply with those
+obligations.
+The filer needs to establish that either:
+1. There are significant mitigating factors with respect
+to the failure, or
+2. The failure arose from events beyond the filer's
+control.
+Instructions for Form 8300 (December 2023)
+
+Moreover, the filer must establish that the filer acted in
+a responsible manner before and after the failure
+occurred.
+
+Definitions
+
+Cash. The term “cash” means the following.
+• U.S. and foreign coin and currency received in any
+transaction; or
+• A cashier’s check, money order, bank draft, or traveler’s
+check having a face amount of $10,000 or less that is
+received in a designated reporting transaction (defined
+below), or that is received in any transaction in which the
+recipient knows that the instrument is being used in an
+attempt to avoid the reporting of the transaction under
+either section 6050I or 31 U.S.C. 5331.
+Note. Cash does not include a check drawn on the
+payer’s own account, such as a personal check,
+regardless of the amount.
+Designated reporting transaction. A retail sale (or the
+receipt of funds by a broker or other intermediary in
+connection with a retail sale) of a consumer durable, a
+collectible, or a travel or entertainment activity.
+Retail sale. Any sale (whether or not the sale is for
+resale or for any other purpose) made in the course of a
+trade or business if that trade or business principally
+consists of making sales to ultimate consumers.
+Consumer durable. An item of tangible personal
+property of a type that, under ordinary usage, can
+reasonably be expected to remain useful for at least 1
+year, and that has a sales price of more than $10,000.
+Collectible. Any work of art, rug, antique, metal, gem,
+stamp, coin, etc.
+Travel or entertainment activity. An item of travel or
+entertainment that pertains to a single trip or event if the
+combined sales price of the item and all other items
+relating to the same trip or event that are sold in the same
+transaction (or related transactions) exceeds $10,000.
+Exceptions. A cashier’s check, money order, bank
+draft, or traveler’s check is not considered received in a
+designated reporting transaction if it constitutes the
+proceeds of a bank loan or if it is received as a payment
+on certain promissory notes, installment sales contracts,
+or down payment plans. See Pub. 1544 for more
+information.
+Person. An individual, corporation, partnership, trust,
+estate, association, or company.
+Recipient. The person receiving the cash. Each branch
+or other unit of a person’s trade or business is considered
+a separate recipient unless the branch receiving the cash
+(or a central office linking the branches), knows or has
+reason to know the identity of payers making cash
+payments to other branches.
+Trade or business. Generally includes any activity
+carried on for the production of income from selling goods
+or performing services.
+Transaction. Includes the purchase of property or
+services, the payment of debt, the exchange of cash for a
+negotiable instrument, and the receipt of cash to be held
+in escrow or trust. A single transaction may not be broken
+into multiple transactions to avoid reporting.
+3
+
+Suspicious transaction. A suspicious transaction is a
+transaction in which it appears that a person is attempting
+to cause Form 8300 not to be filed, or to file a false or
+incomplete form, or in which the transaction(s) otherwise
+appears suspicious for any reason.
+
+Specific Instructions
+You must complete all parts. However, you may skip Part II
+if the individual named in Part I is conducting the
+transaction on their own behalf. For voluntary reporting of
+suspicious transactions, see Item 1 next.
+Item 1. If you are amending a report, check box 1a,
+Amends prior report. Complete the form in its entirety
+(Parts I–IV) and include the amended information. Do not
+attach a copy of the original report.
+To voluntarily report a suspicious transaction (see
+Suspicious transaction above), check box 1b, Suspicious
+transaction. Describe in the Comments section what was
+suspicious about the transaction. Any suspicious activity
+may be reported to your local IRS Criminal Investigation
+Division. For any suspicious transactions related to money
+laundering or terrorist activity, you should immediately
+report any imminent threat to local area law enforcement
+officials.
+
+Part I. Identity of the Individual From
+Whom the Cash Was Received
+
+Item 2. If two or more individuals conducted the
+transaction you are reporting, check the box and complete
+Part I on page 1 for any one of the individuals. Provide the
+same information for the other individual(s) by completing
+Part I on page 2 of the form. If more than three individuals
+are involved, paper filers should complete and attach a
+copy of Part I for each additional individual and electronic
+filers may add additional Part I entries (up to 99).
+Item 6. Enter the TIN of the individual named. See
+Taxpayer identification number (TIN), earlier, for more
+information.
+Item 8. Enter eight numerals for the date of birth of the
+individual named. For example, if the individual’s birth
+date is July 6, 1960, enter 07/06/1960.
+Item 13. Clearly describe the nature of the occupation,
+profession, or business (for example, “plumber,” “attorney,”
+or “automobile dealer”). Do not use general or
+nondescriptive terms such as “businessperson” or
+“self-employed.” If the individual is retired or unemployed,
+describe the individual's previous occupation, such as
+“retired attorney” or “unemployed roofer.”
+Note. For electronic filers, this item is limited to 25
+characters.
+Item 14. You must verify the name and address of the
+named individual(s). Verification must be made by
+examination of a document normally accepted as a means
+of identification when cashing checks (for example, a
+driver’s license, passport, alien registration card, or other
+official document). In item 14a, enter the type of document
+examined. In item 14b, identify the issuer of the document.
+In item 14c, enter the document’s number. For example, if
+4
+
+the individual has a Utah driver’s license, enter “driver’s
+license” in item 14a, “Utah” in item 14b, and the number
+appearing on the license in item 14c. Enter ID number
+without formatting or special characters.
+Note. You must complete all three items (a, b, and c) in
+this item to make sure that Form 8300 will be processed
+correctly.
+
+Part II. Person on Whose Behalf This
+Transaction Was Conducted
+Item 15. If the transaction is being conducted on behalf
+of more than one person (including parent and child or
+siblings), check the box and complete Part II for any one of
+the persons. Provide the same information for the other
+person(s) by completing Part II on page 2 (limit of 99 Part
+II entries). If there are more than three other persons,
+paper filers should complete and attach a copy of Part II
+for each additional person and electronic filers may add
+additional Part II entries (up to 99).
+Items 16 through 19. If the person on whose behalf the
+transaction is being conducted is an individual, complete
+items 16, 17, and 18. Enter their TIN in item 19. If the
+individual is a sole proprietor and has an EIN, you must
+enter both the SSN and EIN in item 19. If the person is an
+organization, put its name as shown on required tax filings
+in item 16 and its EIN in item 19.
+Item 20. If a sole proprietor or organization named in
+items 16 through 18 is doing business under a name other
+than that entered in item 16 (for example, a “trade” or
+“doing business as (DBA)” name), enter it here.
+Item 27. If the person is not required to furnish a TIN,
+complete this item. See Taxpayer identification number
+(TIN), earlier. Enter a description of the type of official
+document issued to that person in item 27a (for example,
+a “passport”), the country that issued the document in
+item 27b, and the document’s number in item 27c. Enter
+ID number without formatting or special characters.
+Note. You must complete all three items (a, b, and c) in
+this item to make sure that Form 8300 will be processed
+correctly.
+
+Part III. Description of the Transaction
+and Method of Payment
+Item 28. Enter the date you received the cash (for
+example, January 1, 2022, enter 01/01/2022). If you
+received the cash in more than one payment, enter the
+date you received the payment that caused the combined
+amount to exceed $10,000. See Multiple payments,
+earlier, for more information.
+Item 29. Enter the total cash received as of the date that
+cash amount exceeded $10,000 within a 12-month period.
+If a previous Form 8300 was filed on a reportable payment
+or related payments and additional related payments have
+been received, record the total amount received as of the
+date the total of new related payments exceeded an
+additional $10,000 within a new 12-month period.
+Item 30. Check this box if the amount shown in item 29
+was received in more than one payment (for example, as
+
+Instructions for Form 8300 (December 2023)
+
+installment payments or payments on related
+transactions).
+Item 31. Enter the total price of the property, services,
+amount of cash exchanged, etc. (for example, the total
+cost of a vehicle purchased, cost of catering service,
+exchange of currency) if different from the amount shown
+in item 29.
+Item 32. Enter the dollar amount of each form of cash
+received. Show foreign currency amounts in U.S. dollar
+equivalent at a fair market rate of exchange available to
+the public. The sum of the amounts must equal item 29.
+For cashier’s check, money order, bank draft, or traveler’s
+check, provide the name of the issuer and the serial
+number of each instrument. Names of all issuers and all
+serial numbers involved must be provided. If necessary,
+provide this information in the Comments section on
+page 2 of the form.
+Item 33. Check the appropriate box(es) that describe the
+transaction. If the transaction is not specified in boxes a–i,
+check box j and briefly describe the transaction (for
+example, “car lease,” “boat lease,” “house lease,” or
+“aircraft rental”). If the transaction relates to the receipt of
+bail by a court clerk, check box i, “Bail received by court
+clerks.” This box is only for use by court clerks. If the
+transaction relates to cash received by a bail bondsman,
+check box d, “Business services provided.” Select up to
+three types of transactions and if more are required, select
+“other” and add details in the Comments section.
+
+Part IV. Business That Received Cash
+
+Item 36. If you are a sole proprietorship, you must enter
+your SSN. If your business also has an EIN, you must
+provide the EIN as well. All other business entities must
+enter an EIN.
+Item 41. Clearly describe the nature of your business, for
+example, “attorney” or “jewelry dealer.” Do not use general
+or nondescriptive terms such as “business” or “store.”
+Item 42. This form must be signed by an individual who
+has been authorized to do so for the business that
+received the cash.
+
+Comments
+
+Use this section to comment on or clarify anything you
+may have entered on any line in Parts I, II, III, and IV. For
+example, if you checked box b (Suspicious transaction) in
+line 1 above Part I, you may want to explain why the cash
+transaction you are reporting on Form 8300 may be
+suspicious.
+Note. Comments section is limited to 720 characters.
+Paperwork Reduction Act Notice. Except as otherwise
+noted, the information solicited on this form is required by
+the IRS and FinCEN in order to carry out the laws and
+regulations of the United States. Trades or businesses
+and clerks of federal and state criminal courts are required
+to provide the information to the IRS and FinCEN under
+section 6050I and 31 U.S.C. 5331, respectively. Section
+6109 and 31 U.S.C. 5331 require that you provide your
+identification number. The principal purpose for collecting
+
+Instructions for Form 8300 (December 2023)
+
+the information on this form is to maintain reports or
+records that have a high degree of usefulness in criminal,
+tax, or regulatory investigations, risk assessments, or
+proceedings, or in the conduct of intelligence or
+counterintelligence activities, including analysis, to protect
+against terrorism by directing the federal government’s
+attention to unusual or questionable transactions.
+You are not required to provide information as to
+whether the reported transaction is deemed suspicious
+but are strongly encouraged to do so if appropriate.
+Failure to provide all other requested information, or
+providing fraudulent information, may result in criminal
+prosecution and other penalties under 26 U.S.C. and 31
+U.S.C.
+Generally, tax returns and return information are
+confidential, as stated in section 6103. However, section
+6103 allows or requires the IRS to disclose or give the
+information requested on this form to others as described
+in the Internal Revenue Code. For example, we may
+disclose your tax information to the Department of Justice,
+to enforce the tax laws, both civil and criminal, and to
+cities, states, the District of Columbia, and U.S.
+commonwealths and territories to carry out their tax laws.
+We may disclose this information to other persons as
+necessary to obtain information that we cannot get in any
+other way. We may disclose this information to federal,
+state, and local child support agencies; and to other
+federal agencies for the purposes of determining
+entitlement for benefits or the eligibility for and the
+repayment of loans. We may also provide the records to
+appropriate state, local, and foreign criminal law
+enforcement and regulatory personnel in the performance
+of their official duties. We may also disclose this
+information to other countries under a tax treaty, or to
+federal and state agencies to enforce federal nontax
+criminal laws and to combat terrorism. In addition, FinCEN
+may provide the information to those officials if they are
+conducting intelligence or counterintelligence activities to
+protect against international terrorism, ongoing money
+laundering activities, or other criminal activity.
+You are not required to provide the information
+requested on a form that is subject to the Paperwork
+Reduction Act unless the form displays a valid OMB
+control number. Books or records relating to a form or its
+instructions must be retained as long as their contents
+may become material in the administration of any law
+under 26 U.S.C. or 31 U.S.C.
+The time needed to complete this form will vary
+depending on individual circumstances. The estimated
+average time is 30 minutes. If you have comments
+concerning the accuracy of this time estimate or
+suggestions for making this form simpler, we would be
+happy to hear from you. You can send us comments from
+IRS.gov/FormComments. Click on Comment on Tax
+Forms and Publications. Or you can send your comments
+to Internal Revenue Service, Tax Forms and Publications
+Division, 1111 Constitution Ave. NW, IR-6526,
+Washington, DC 20224. Do not send Form 8300 to this
+address.
+
+5
+
+

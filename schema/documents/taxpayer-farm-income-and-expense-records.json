@@ -1,0 +1,210 @@
+{
+  "document": {
+    "id": "taxpayer-farm-income-and-expense-records",
+    "kind": "taxpayer_record",
+    "title": "The taxpayer's own record of a farm's income and expenses (Schedule F)",
+    "revision": "n/a",
+    "revision_printed_as": null,
+    "source_url": "https://www.irs.gov/instructions/i1040sf",
+    "issued_by": "nobody - the taxpayer's own farm income and expense statement",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "sales_of_purchased_livestock_and_resale_items",
+        "label": "Schedule F (Form 1040) line 1a: Sales of purchased livestock and other resale items (see instructions)",
+        "type": "money"
+      },
+      {
+        "box": "cost_of_purchased_livestock_and_resale_items",
+        "label": "Schedule F (Form 1040) line 1b: Cost or other basis of purchased livestock or other items reported on line 1a",
+        "type": "money"
+      },
+      {
+        "box": "sales_of_products_raised",
+        "label": "Schedule F (Form 1040) line 2: Sales of livestock, produce, grains, and other products you raised",
+        "type": "money"
+      },
+      {
+        "box": "custom_hire_income",
+        "label": "Schedule F (Form 1040) line 7: Custom hire (machine work) income",
+        "type": "money"
+      },
+      {
+        "box": "other_farm_income",
+        "label": "Schedule F (Form 1040) line 8: Other income, including federal and state gasoline or fuel tax credit or refund (see instructions)",
+        "type": "money"
+      },
+      {
+        "box": "car_and_truck_expenses",
+        "label": "Schedule F (Form 1040) line 10: Car and truck expenses (see instructions). Also attach Form 4562",
+        "type": "money"
+      },
+      {
+        "box": "chemicals",
+        "label": "Schedule F (Form 1040) line 11: Chemicals",
+        "type": "money"
+      },
+      {
+        "box": "conservation_expenses",
+        "label": "Schedule F (Form 1040) line 12: Conservation expenses (see instructions)",
+        "type": "money"
+      },
+      {
+        "box": "custom_hire_expense",
+        "label": "Schedule F (Form 1040) line 13: Custom hire (machine work)",
+        "type": "money"
+      },
+      {
+        "box": "depreciation_and_section_179",
+        "label": "Schedule F (Form 1040) line 14: Depreciation and section 179 expense (see instructions)",
+        "type": "money"
+      },
+      {
+        "box": "employee_benefit_programs",
+        "label": "Schedule F (Form 1040) line 15: Employee benefit programs other than on line 23",
+        "type": "money"
+      },
+      {
+        "box": "feed",
+        "label": "Schedule F (Form 1040) line 16: Feed",
+        "type": "money"
+      },
+      {
+        "box": "fertilizers_and_lime",
+        "label": "Schedule F (Form 1040) line 17: Fertilizers and lime",
+        "type": "money"
+      },
+      {
+        "box": "freight_and_trucking",
+        "label": "Schedule F (Form 1040) line 18: Freight and trucking",
+        "type": "money"
+      },
+      {
+        "box": "gasoline_fuel_and_oil",
+        "label": "Schedule F (Form 1040) line 19: Gasoline, fuel, and oil",
+        "type": "money"
+      },
+      {
+        "box": "insurance_other_than_health",
+        "label": "Schedule F (Form 1040) line 20: Insurance (other than health)",
+        "type": "money"
+      },
+      {
+        "box": "mortgage_interest",
+        "label": "Schedule F (Form 1040) line 21a: Interest (see instructions): Mortgage (paid to banks, etc.)",
+        "type": "money"
+      },
+      {
+        "box": "other_interest",
+        "label": "Schedule F (Form 1040) line 21b: Interest (see instructions): Other",
+        "type": "money"
+      },
+      {
+        "box": "labor_hired",
+        "label": "Schedule F (Form 1040) line 22: Labor hired (less employment credits)",
+        "type": "money"
+      },
+      {
+        "box": "pension_and_profit_sharing_plans",
+        "label": "Schedule F (Form 1040) line 23: Pension and profit-sharing plans",
+        "type": "money"
+      },
+      {
+        "box": "rent_or_lease_vehicles_machinery_equipment",
+        "label": "Schedule F (Form 1040) line 24a: Rent or lease (see instructions): Vehicles, machinery, equipment",
+        "type": "money"
+      },
+      {
+        "box": "rent_or_lease_other",
+        "label": "Schedule F (Form 1040) line 24b: Rent or lease (see instructions): Other (land, animals, etc.)",
+        "type": "money"
+      },
+      {
+        "box": "repairs_and_maintenance",
+        "label": "Schedule F (Form 1040) line 25: Repairs and maintenance",
+        "type": "money"
+      },
+      {
+        "box": "seeds_and_plants",
+        "label": "Schedule F (Form 1040) line 26: Seeds and plants",
+        "type": "money"
+      },
+      {
+        "box": "storage_and_warehousing",
+        "label": "Schedule F (Form 1040) line 27: Storage and warehousing",
+        "type": "money"
+      },
+      {
+        "box": "supplies",
+        "label": "Schedule F (Form 1040) line 28: Supplies",
+        "type": "money"
+      },
+      {
+        "box": "taxes",
+        "label": "Schedule F (Form 1040) line 29: Taxes",
+        "type": "money"
+      },
+      {
+        "box": "utilities",
+        "label": "Schedule F (Form 1040) line 30: Utilities",
+        "type": "money"
+      },
+      {
+        "box": "veterinary_breeding_and_medicine",
+        "label": "Schedule F (Form 1040) line 31: Veterinary, breeding, and medicine",
+        "type": "money"
+      },
+      {
+        "box": "other_expenses",
+        "label": "Schedule F (Form 1040) line 32a: Other expenses (specify):",
+        "type": "money"
+      }
+    ],
+    "notes": "A farm's sales and expenses are reported by no information return except the 1099-G/1099-PATR items the map already routes, so the client's own farm statement is the only source for most of Schedule F. Cooperative distributions and agricultural program payments arrive on 1099-PATR / 1099-G and must not be added twice."
+  },
+  "extraction": {
+    "model": "custom.taxpayer-farm-income-and-expense-records",
+    "note": "A taxpayer's own record. No prescribed layout, so no structured model and no boxes to read: it prints ITEMS in the client's own words, and which declared box each belongs in is a JUDGEMENT a person confirms (spec 075 group D, clarification Q1). Read by the declared custom model in TRANSCRIBE mode - the same reader, a second template - which copies every line verbatim and names no destination. A separate, cheap proposal call then suggests a box per item; **only a box a person confirms places anything**, so an engagement with nineteen rental sheets shows an empty Schedule E until somebody has looked. That is the decision, not a defect.",
+    "custom": {
+      "reads": "a client's own record of farm income and expenses",
+      "sections": [
+        {
+          "document": "taxpayer-farm-income-and-expense-records",
+          "boxes": [
+            "sales_of_purchased_livestock_and_resale_items",
+            "cost_of_purchased_livestock_and_resale_items",
+            "sales_of_products_raised",
+            "custom_hire_income",
+            "other_farm_income",
+            "car_and_truck_expenses",
+            "chemicals",
+            "conservation_expenses",
+            "custom_hire_expense",
+            "depreciation_and_section_179",
+            "employee_benefit_programs",
+            "feed",
+            "fertilizers_and_lime",
+            "freight_and_trucking",
+            "gasoline_fuel_and_oil",
+            "insurance_other_than_health",
+            "mortgage_interest",
+            "other_interest",
+            "labor_hired",
+            "pension_and_profit_sharing_plans",
+            "rent_or_lease_vehicles_machinery_equipment",
+            "rent_or_lease_other",
+            "repairs_and_maintenance",
+            "seeds_and_plants",
+            "storage_and_warehousing",
+            "supplies",
+            "taxes",
+            "utilities",
+            "veterinary_breeding_and_medicine",
+            "other_expenses"
+          ]
+        }
+      ],
+      "transcribe": true
+    }
+  }
+}

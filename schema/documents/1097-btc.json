@@ -1,0 +1,156 @@
+{
+  "document": {
+    "id": "1097-BTC",
+    "title": "Bond Tax Credit",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1097-BTC (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1097btc--2025.pdf",
+    "issued_by": "issuer of a tax credit bond or its agent, or a distributor of the credit",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "Marks this statement as correcting one already furnished for the same year."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a filer's mark, never a figure."
+      },
+      {
+        "box": "issuer-tin",
+        "label": "FORM 1097-BTC ISSUER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "recipient-tin",
+        "label": "RECIPIENT\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "issuer-is-bond-issuer",
+        "label": "Issuer of bond or its agent filing current year Form 1097-BTC for credit being reported",
+        "type": "checkbox"
+      },
+      {
+        "box": "issuer-is-distributor",
+        "label": "An entity or a person that received or should have received a current year Form 1097-BTC and is distributing part or all of that credit to others",
+        "type": "checkbox"
+      },
+      {
+        "box": "1",
+        "label": "Total",
+        "type": "money"
+      },
+      {
+        "box": "2a",
+        "label": "Code",
+        "type": "code",
+        "notes": "C CUSIP number \u00b7 A Account number \u00b7 O Any other identifier \u2014 what box 2b is."
+      },
+      {
+        "box": "2b",
+        "label": "Unique identifier",
+        "type": "identifier"
+      },
+      {
+        "box": "3",
+        "label": "Bond type",
+        "type": "code",
+        "notes": "101 Clean renewable energy bond \u2026 199 Other."
+      },
+      {
+        "box": "5a",
+        "label": "January",
+        "type": "money",
+        "notes": "The credit allowed for that month; boxes 5a-5l total box 1."
+      },
+      {
+        "box": "5b",
+        "label": "February",
+        "type": "money",
+        "notes": "The credit allowed for that month; boxes 5a-5l total box 1."
+      },
+      {
+        "box": "5c",
+        "label": "March",
+        "type": "money",
+        "notes": "The credit allowed for that month; boxes 5a-5l total box 1."
+      },
+      {
+        "box": "5d",
+        "label": "April",
+        "type": "money",
+        "notes": "The credit allowed for that month; boxes 5a-5l total box 1."
+      },
+      {
+        "box": "5e",
+        "label": "May",
+        "type": "money",
+        "notes": "The credit allowed for that month; boxes 5a-5l total box 1."
+      },
+      {
+        "box": "5f",
+        "label": "June",
+        "type": "money",
+        "notes": "The credit allowed for that month; boxes 5a-5l total box 1."
+      },
+      {
+        "box": "5g",
+        "label": "July",
+        "type": "money",
+        "notes": "The credit allowed for that month; boxes 5a-5l total box 1."
+      },
+      {
+        "box": "5h",
+        "label": "August",
+        "type": "money",
+        "notes": "The credit allowed for that month; boxes 5a-5l total box 1."
+      },
+      {
+        "box": "5i",
+        "label": "September",
+        "type": "money",
+        "notes": "The credit allowed for that month; boxes 5a-5l total box 1."
+      },
+      {
+        "box": "5j",
+        "label": "October",
+        "type": "money",
+        "notes": "The credit allowed for that month; boxes 5a-5l total box 1."
+      },
+      {
+        "box": "5k",
+        "label": "November",
+        "type": "money",
+        "notes": "The credit allowed for that month; boxes 5a-5l total box 1."
+      },
+      {
+        "box": "5l",
+        "label": "December",
+        "type": "money",
+        "notes": "The credit allowed for that month; boxes 5a-5l total box 1."
+      },
+      {
+        "box": "6",
+        "label": "Comments",
+        "type": "text"
+      }
+    ],
+    "notes": "The credit is figured on Form 8912 \u2014 a computation, never placed from this form. Box 4 prints with no caption.",
+    "face_not_boxes": [
+      {
+        "slot": "4",
+        "because": "Box 4 is printed with no caption and the recipient instructions describe none (they run 1, 2a, 2b, 3, 5a-5l, 6)."
+      }
+    ]
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

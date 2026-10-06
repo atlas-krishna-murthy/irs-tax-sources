@@ -1,0 +1,140 @@
+Instructions for Form
+1099-LTC
+(Rev. April 2025)
+Long-Term Care and Accelerated Death Benefits
+
+Future Developments                                                          1. Is regularly engaged in the trade or business of
+                                                                        purchasing or taking assignments of life insurance contracts on
+For the latest information about developments related to Form           the lives of terminally or chronically ill individuals, and
+1099-LTC and its instructions, such as legislation enacted after
+                                                                             2. Is licensed in the state where the insured lives. If licensing
+they were published, go to IRS.gov/Form1099LTC.
+                                                                        is not required in the state, the provider must meet other
+  You can get the General Instructions for Certain Information          requirements (including those below) depending on whether the
+Returns at IRS.gov/Form1099GeneralInstructions.                         insured is terminally or chronically ill.
+Reminders                                                                    a. If the insured is terminally ill, the provider must meet the
+                                                                        requirements of sections 8 and 9 of the Viatical Settlements
+In addition to these specific instructions, you should also use the     Model Act of the National Association of Insurance
+current General Instructions for Certain Information Returns.           Commissioners (NAIC), relating to disclosure and general rules.
+Those general instructions include information about the                The provider must also meet the requirements of the Model
+following topics.                                                       Regulations of the NAIC for evaluating the reasonableness of
+• Who must file.                                                        amounts paid in viatical settlement transactions with terminally ill
+• When and where to file.                                               individuals.
+• Electronic reporting.                                                      b. If the insured is chronically ill, the provider must meet
+• Corrected and void returns.                                           requirements similar to those of sections 8 and 9 of the Viatical
+• Statements to recipients.                                             Settlements Model Act of the NAIC and must also meet any
+• Taxpayer identification numbers (TINs).                               standards of the NAIC for evaluating the reasonableness of
+• Backup withholding.                                                   amounts paid in viatical settlement transactions with chronically
+• Penalties.                                                            ill individuals.
+• Other general topics.
+Continuous use revision. Use these instructions for tax year                     However, if a state enacts a licensing requirement but
+2025 and subsequent years until a superseding revision is                 !      does not permit viatical settlement providers to engage
+                                                                        CAUTION in business until the licenses are granted, the provider
+issued.
+                                                                        will not be considered as licensed under section 101(g)(2)(B)(i)
+Online fillable form. Due to the very low volume of paper               (I). See Rev. Rul. 2002-82, which is on page 978 of Internal
+Forms 1099-LTC received and processed by the IRS each year,             Revenue Bulletin 2002-51 at IRS.gov/pub/irs-irbs/irb02-51.pdf.
+this form is available in an online fillable format. You may fill out
+the form, found online at IRS.gov/Form1099LTC, and send Copy
+B to the recipient. For filing with the IRS, follow the applicable      Qualified Long-Term Care Insurance Contract
+procedures for filing electronically, or, for this form only, if you
+are qualified to file on paper, send in the black-and-white Copy A      A contract issued after 1996 is a qualified long-term care
+with Form 1096 that you print from the IRS website.                     insurance contract if it meets the requirements of section 7702B,
+                                                                        including the requirement that the insured must be a chronically
+                                                                        ill individual (see Chronically Ill Individual, later). A contract
+Specific Instructions                                                   issued before 1997 is generally treated as a qualified long-term
+File Form 1099-LTC, Long-Term Care Accelerated Death                    care insurance contract if it met state law requirements for
+Benefits, if you paid any long-term care benefits.                      long-term care insurance contracts and it has not been materially
+                                                                        changed.
+Long-Term Care Benefits
+“Long-term care benefits” means:                                        Accelerated Death Benefits
+   1. Any payments made under a product that is advertised,
+marketed, or offered as long-term care insurance (whether               An accelerated death benefit is any amount paid under a life
+qualified or not); and                                                  insurance contract for an insured individual who is terminally or
+   2. Accelerated death benefits (excludable in whole or in part        chronically ill. It also includes any amount paid by a viatical
+from gross income under section 101(g)) paid under a life               settlement provider for the sale or assignment of a death benefit
+insurance contract or paid by a viatical settlement provider.           under a life insurance contract for a chronically or terminally ill
+                                                                        individual.
+
+Who Must File                                                           Chronically Ill Individual
+Payers of long-term care benefits who must file Form 1099-LTC
+include insurance companies, governmental units, and viatical           A chronically ill individual is someone who has been certified (at
+settlement providers.                                                   least annually) by a licensed health care practitioner as:
+                                                                           1. Being unable to perform, without substantial assistance
+Viatical Settlement Providers                                           from another individual, at least two daily living activities (eating,
+
+A viatical settlement provider is any person who:
+
+                                     Instructions for Form 1099LTC (Rev. 4-2025) Catalog Number 27981Y
+Dec 4, 2024                           Department of the Treasury Internal Revenue Service www.irs.gov
+toileting, transferring, bathing, dressing, and continence) for at        For more information about the requirement to furnish a
+least 90 days due to a loss of functional capacity; or                 statement to the policyholder and to the insured, see part M in
+    2. Requiring substantial supervision to protect the individual     the current General Instructions for Certain Information Returns.
+from threats to health and safety due to severe cognitive              Truncating recipient’s TIN on payee statements. Pursuant to
+impairment.                                                            Regulations section 301.6109-4, all filers of this form may
+                                                                       truncate a recipient’s TIN (social security number (SSN),
+Terminally Ill Individual                                              individual taxpayer identification number (ITIN), adoption
+                                                                       taxpayer identification number (ATIN), or employer identification
+A terminally ill individual is someone who has been certified by a     number (EIN)) on payee statements. Truncation is not allowed on
+physician as having an illness or physical condition that can          any documents the filer files with the IRS. A payer's TIN may not
+reasonably be expected to result in death in 24 months or less         be truncated on any form. See part J in the current General
+after the date of certification.                                       Instructions for Certain Information Returns.
+
+Reporting                                                              Account Number
+Report payments only if the policyholder is an individual.             The account number is required if you have multiple accounts for
+Reportable payments are those made to the policyholder, to the         a recipient for whom you are filing more than one Form
+insured, or to a third party.                                          1099-LTC. Additionally, the IRS encourages you to designate an
+   You may report benefits paid from each contract on a                account number for all Forms 1099-LTC that you file. See part L
+separate Form 1099-LTC. At your option, you may aggregate              in the current General Instructions for Certain Information
+benefits paid under multiple contracts on one Form 1099-LTC if         Returns.
+the same information is reportable on the form for each contract
+(other than the amount of benefits paid).
+                                                                       Box 1. Gross Long-Term Care Benefits Paid
+                                                                       Enter the gross long-term care benefits paid this year (other than
+                                                                       accelerated death benefits). These benefits are all amounts paid
+Policyholder                                                           out on a per diem or other periodic basis or on a reimbursed
+                                                                       basis. It includes amounts paid to the insured, to the
+The policyholder is the individual who owns the contract,
+                                                                       policyholder, and to third parties. You are not required to
+including the owner of a contract sold or assigned to a viatical
+                                                                       determine whether any benefits are taxable or nontaxable.
+settlement provider. In the case of a group contract, the term
+“policyholder” includes the certificate holder (or similar
+                                                                       Box 2. Accelerated Death Benefits Paid
+participant). You must report long-term care benefits to the
+policyholder even if the payments were made to the insured or to       Enter the gross accelerated death benefits paid under a life
+a third party (for example, a nursing home, caretaker, or              insurance contract this year to or on behalf of an insured who
+physician). The policyholder may also be the insured.                  has been certified as terminally or chronically ill. Include the
+                                                                       amount paid by a viatical settlement provider for the sale or
+   Enter the name, address, and TIN of the policyholder on Form        assignment of the insured's death benefit under a life insurance
+1099-LTC. If the policyholder is not an individual, no reporting is    contract.
+required.
+                                                                       Box 3. Check if Per Diem or Reimbursed Amount
+Insured                                                                Check a box to indicate whether the payments were made on a
+                                                                       per diem or other periodic basis or on a reimbursed basis. For
+The insured is the chronically or terminally ill individual on whose   accelerated death benefits, do not check a box if you made
+behalf long-term care benefits are paid.                               payments on behalf of a terminally ill person. “Per diem basis”
+                                                                       means payments made on any periodic basis without regard to
+  Enter the name, address, and TIN of the insured on Form              actual expenses. “Reimbursed basis” means payments made for
+1099-LTC.                                                              actual expenses incurred.
+
+Statement to Policyholder and Insured                                  Box 4. Qualified Contract (Optional)
+                                                                       Check the box to indicate whether long-term care insurance
+If you are required to file Form 1099-LTC, you must furnish a          benefits are paid from a qualified long-term care insurance
+statement or acceptable substitute to both the policyholder and        contract. See Qualified Long-Term Care Insurance Contract,
+to the insured as shown.                                               earlier.
+
+                                                                       Box 5. Check if Chronically Ill or Terminally Ill
+ IF the statement is for the ...        THEN use...
+                                                                       (Optional)
+ policyholder                           Copy B.
+                                                                       Check the box to indicate whether the insured was chronically or
+ insured                                Copy C.                        terminally ill. Also, enter the latest date certified. If the insured
+ policyholder and the policyholder is   Copy B (Copy C is optional).   was neither chronically nor terminally ill, leave this box blank.
+ the insured                                                           See Chronically Ill Individual and Terminally Ill Individual, earlier.
+
+
+
+
+2                                                                                       Instructions for Form 1099-LTC (Rev. 4-2025)
+

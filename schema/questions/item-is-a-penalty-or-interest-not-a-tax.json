@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-a-penalty-or-interest-not-a-tax",
+    "wording": "Is this payment a penalty or interest charged with a state or local income tax, rather than the tax itself?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 a penalty or interest"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 the tax itself"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this payment a penalty or interest charged with a state or local income tax, rather than the tax itself?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Line 5a",
+        "revision": "2025",
+        "wording": "State and local income taxes paid in 2025 for a prior year, such as taxes paid with your 2024 state or local income tax return. Don't include penalties or interest.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "form": {
+    "id": "eic-worksheet-b",
+    "form": "Earned Income Credit (EIC) Worksheet B",
+    "title": "EIC Worksheet B (Instructions for Form 1040)",
+    "kind": "worksheet",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1040gi",
+    "notes": "refundable: true. The self-employment version of EIC Worksheet A, used by a filer with self-employment, statutory-employee or church-employee income. Its line 11 \u2014 not line 6 \u2014 is what reaches Form 1040 line 27a. PARTIAL TRANSCRIPTION, stated rather than hidden: only lines 4b and 6 through 11 are recorded, because those are the ones I read cleanly off the text layer. Parts 1 through 3 (lines 1a through 4a, the self-employment and statutory-employee earned income build-up) are NOT transcribed and a human must complete them before this form is used to drive anything. The 2025 phase-out thresholds printed at line 10 are identical to Worksheet A's and to Rev. Proc. 2024-40 section 2.06.",
+    "lines": [
+      {
+        "line": "4b",
+        "caption": "Combine lines 1e, 2c, 3, and 4a. This is your total earned income.",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Enter your total earned income from Part 4, line 4b.",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Look up the amount on line 6 above in the EIC Table to find the credit. Be sure you use the correct column for your filing status and the number of qualifying children you have who have valid SSNs. Enter the credit here. If line 7 is zero, STOP. You can't take the credit. Check the box on Form 1040 or 1040-SR, line 27c.",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Enter the amount from Form 1040 or 1040-SR, line 11b.",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Are the amounts on lines 8 and 6 the same? Yes. Skip line 10; enter the amount from line 7 on line 11. No. Go to line 10.",
+        "type": "checkbox"
+      },
+      {
+        "line": "10",
+        "caption": "If you have: \u2022 No qualifying children who have valid SSNs, is the amount on line 8 less than $10,620 ($17,730 if married filing jointly)? \u2022 1 or more qualifying children who have valid SSNs, is the amount on line 8 less than $23,350 ($30,470 if married filing jointly)? Yes. Leave line 10 blank; enter the amount from line 7 on line 11. No. Look up the amount on line 8 in the EIC Table to find the credit. Be sure you use the correct column for your filing status and the number of qualifying children you have who have valid SSNs. Enter the credit here. Look at the amounts on lines 10 and 7. Then, enter the smaller amount on line 11.",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "This is your earned income credit. Enter this amount on Form 1040 or 1040-SR, line 27a. Reminder\u2014 If you have a qualifying child, complete and attach Schedule EIC.",
+        "type": "money"
+      }
+    ]
+  }
+}

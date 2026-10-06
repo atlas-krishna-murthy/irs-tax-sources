@@ -1,0 +1,37 @@
+{
+  "question": {
+    "id": "patronage-dividend-paid-on",
+    "wording": "What were this cooperative's patronage dividends (box 1) paid on?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "business_income",
+        "label": "Purchases or sales of a business — Schedule C line 6"
+      },
+      {
+        "value": "personal_use_property",
+        "label": "Property bought for personal use — not taxable"
+      },
+      {
+        "value": "business_capital_asset",
+        "label": "Capital assets or depreciable property used in the business — not taxable (reduces basis)"
+      },
+      {
+        "value": "other_taxable",
+        "label": "Something else — taxable as other income, Schedule 1 line 8z"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Form 1099-PATR",
+        "line": "Box 1",
+        "revision": "2025",
+        "wording": "Any dividends paid on (1) property bought for personal use or (2) capital assets or depreciable property used in your business are not taxable. However, if (2) applies, reduce the basis of the assets by this amount.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1099ptr--2025.pdf"
+      }
+    }
+  }
+}

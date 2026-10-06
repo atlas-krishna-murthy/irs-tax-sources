@@ -1,0 +1,231 @@
+Instructions for Form
+1099-LS
+(Rev. April 2025)
+
+Reportable Life Insurance Sale
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to
+Form 1099-LS and its instructions, such as legislation
+enacted after they were published, go to IRS.gov/
+Form1099LS.
+You can get the general instructions from General
+Instructions for Certain Information Returns at IRS.gov/
+1099GeneralInstructions.
+
+Reminders
+
+In addition to these specific instructions, you should also
+use the current General Instructions for Certain
+Information Returns. Those general instructions include
+information about the following topics.
+• Who must file.
+• When and where to file.
+• Electronic reporting.
+• Corrected and void returns.
+• Statements to recipients.
+• Taxpayer identification numbers.
+• Backup withholding.
+• Penalties.
+• Other general topics.
+Continuous-use revision. Use these instructions for tax
+year 2025 and subsequent years until a superseding
+revision is issued.
+E-filing Form 1099-LS. The Taxpayer First Act of 2019
+authorized the Department of the Treasury and the IRS to
+issue regulations that reduce the 250-return e-file
+threshold. T.D. 9972, published February 23, 2023,
+lowered the e-file threshold to 10 (calculated by
+aggregating all information returns), effective for
+information returns required to be filed on or after January
+1, 2024. Go to IRS.gov/IRIS for e-file information.
+Online fillable Copies B and C. To ease statement
+furnishing requirements, Copies B and C have been made
+fillable online in a PDF format available at IRS.gov/
+Form1099LS. You can complete these copies online for
+furnishing statements to recipients and for retaining in
+your own files.
+
+General Instructions
+
+This form is used by the acquirer of any interest in a life
+insurance contract (also known as a life insurance policy)
+in a reportable policy sale to report the acquisition. In
+general, a reportable policy sale is any direct or indirect
+acquisition of any interest in a life insurance contract if the
+acquirer, at the time of the acquisition, has no substantial
+
+Mar 20, 2025
+
+family, business, or financial relationship with the person
+insured under that contract, apart from the acquirer’s
+interest in such life insurance contract. See section 101(a)
+(3). Certain exceptions may apply. See Regulations
+section 1.101-1(c)(2). The acquisition of an interest in a
+partnership, trust, or other entity that holds an interest in a
+life insurance contract may be an indirect acquisition of
+that interest in a life insurance contract and may be a
+reportable policy sale. See Regulations section 1.101-1(e)
+(3)(ii).
+
+Who Must File
+
+Generally, file Form 1099-LS if you are the acquirer of any
+interest in a life insurance contract in a reportable policy
+sale.
+An acquirer is any person that acquires an interest in a
+life insurance contract (through a direct acquisition or
+indirect acquisition of the interest) in a reportable policy
+sale.
+You may not have to file Form 1099-LS if the interest in
+a life insurance contract was transferred to you
+gratuitously, if you qualify for an exception in Regulations
+section 1.6050Y-2(f), or if another acquirer or third party
+information reporting contractor reports on your behalf
+under the unified reporting provisions of Regulations
+section 1.6050Y-2(b). You may qualify for an exception in
+Regulations section 1.6050Y-2(f) if you are a foreign
+person, if you report reportable policy sale payments
+made to a person other than the seller under section 6041
+or 6041A, or if you acquire a life insurance contract in a
+section 1035 exchange.
+If you are the acquirer, enter your name, address,
+telephone number, and taxpayer identification number
+(TIN). Additionally, enter the name, address, and
+telephone number of your information contact, if different
+from your own. This contact information must provide
+direct access to a person who can answer questions
+about this information return.
+
+Reporting
+
+If you are the acquirer, you must file a separate Form
+1099-LS for each payment recipient with respect to each
+interest in a life insurance contract you acquired in a
+reportable policy sale. Enter the name, address, and
+taxpayer identification number (TIN) of the payment
+recipient, the name of the issuer of the life insurance
+contract, the policy number of the life insurance contract,
+the amount paid to the payment recipient, and the date of
+the sale. See Regulations section 1.6050Y-2.
+
+Instructions for Form 1099LS (Rev. 4-2025) Catalog Number 71418S
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+Payment Recipient
+
+In general, a reportable policy sale payment recipient
+(payment recipient) is any person that receives a
+reportable policy sale payment in a reportable policy sale.
+A payment recipient may include any seller in the
+reportable policy sale (any person that holds an interest in
+a life insurance contract and transfers that interest, or any
+part of that interest, to an acquirer in a reportable policy
+sale), as well as any broker or other intermediary that
+retains a portion of the cash or other consideration
+transferred in the reportable policy sale. See Regulations
+section 1.6050Y-1(a)(16)(i) for the definition of a
+reportable policy sale payment recipient and section
+1.6050Y-1(a)(18)(i) for the definition of seller. However, a
+person other than a seller is not a payment recipient if that
+person received aggregate payments of less than $600
+with respect to a reportable policy sale. See Regulations
+section 1.6050Y-1(a)(16)(ii).
+
+Issuer
+
+The issuer is the person responsible for administering the
+life insurance contract, including collecting premiums and
+paying death benefits under the contract, on the date a
+Form 1099-LS is required to be furnished under section
+6050Y(a), or their designee. See Regulations section
+1.6050Y-1(a)(8)(i), (ii), and (iv).
+
+Policy Number
+
+The policy number is the unique identifying number
+assigned to the life insurance contract by the issuer
+named on the Form 1099-LS.
+
+Statements to Payment Recipient and Issuer
+
+If you are required to file Form 1099-LS, you must
+generally furnish a statement or acceptable substitute to
+each payment recipient and to the issuer, as shown in the
+table below. The requirement to furnish a statement to the
+issuer applies only with respect to a Form 1099-LS filed
+with respect to the seller and only if your acquisition of an
+interest in a life insurance contract in a reportable policy
+sale is a direct acquisition. See Regulations section
+1.6050Y-2(d)(2)(i). Statements furnished to the issuer
+should be directed to the administrative office that,
+pursuant to the life insurance contract, processes
+transfers of ownership. You may not have to furnish
+statements to the payment recipient and issuer if another
+acquirer or third party information reporting contractor
+reports on your behalf under the unified reporting
+provisions of Regulations section 1.6050Y-2(b).
+
+2
+
+IF the statement is for the...
+
+THEN use...
+
+Payment recipient
+
+Copy B
+
+Issuer
+
+Copy C
+
+For more information about the requirement to furnish a
+statement to the payment recipient and the issuer, see
+part M in the current General Instructions for Certain
+Information Returns.
+Truncating recipient’s TIN on payment recipient
+statements. Pursuant to Regulations section
+301.6109-4, all filers of this form may truncate the
+payment recipient’s TIN (social security number (SSN),
+individual taxpayer identification number (ITIN), adoption
+taxpayer identification number (ATIN), or employer
+identification number (EIN)) on statements furnished to a
+payment recipient (Copy B). Truncation is not allowed on
+any documents the filer files with the IRS. An acquirer’s
+TIN may not be truncated on any form. See part J in the
+current General Instructions for Certain Information
+Returns.
+
+Rescission of Reportable Policy Sale
+
+If a reportable policy sale is rescinded and you have filed a
+Form 1099-LS with respect to the reportable policy sale,
+you must file a corrected Form 1099-LS within 15 calendar
+days of the receipt of notice of the rescission. If a
+reportable policy sale is rescinded and you have furnished
+a statement with respect to the reportable policy sale to a
+payment recipient or issuer, you must furnish the recipient
+of that statement with a corrected statement within 15
+calendar days of the receipt of notice of the rescission.
+See Regulations section 1.6050Y-2(e).
+
+Specific Instructions
+Box 1. Amount Paid to Payment Recipient
+
+Enter the total amount paid to the payment recipient in the
+reportable policy sale. The acquirer is not required to
+report this information to the issuer of the life insurance
+contract. Reporting the amount paid to the payment
+recipient is therefore optional on Copy C.
+
+Box 2. Date of Sale
+
+Enter the date of the reportable policy sale.
+
+Instructions for Form 1099-LS (Rev. 4-2025)
+
+

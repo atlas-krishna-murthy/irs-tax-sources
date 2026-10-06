@@ -1,0 +1,46 @@
+{
+  "rule": {
+    "class": "document",
+    "years": [
+      2025
+    ],
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "id": "a-r-12",
+    "title": "Code Q, a qualified Roth IRA distribution: 4b is 0",
+    "acts_on": {
+      "boxes": [
+        "1099-R.2a"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "box",
+        "ref": "1099-R.7"
+      }
+    ],
+    "operator": "exclude_when",
+    "params": {
+      "when": {
+        "box": "1099-R.7",
+        "in": [
+          "Q"
+        ],
+        "match": "code"
+      }
+    },
+    "citation": {
+      "form": "Form 1040",
+      "line": "Lines 4a and 4b, Exception 2",
+      "revision": "2025",
+      "wording": "You received a distribution from a Roth IRA. But if either (a) or (b) below applies, enter -0- on line 4b; you don't have to see Form 8606 or its instructions. a. Distribution code T is shown in box 7 of Form 1099-R and you made a contribution (including a conversion) to a Roth IRA for 2020 or an earlier year. b. Distribution code Q is shown in box 7 of Form 1099-R.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "Case (b), code Q, is decided by the paper and applied. Case (a), code T with a Roth contribution for 2020 or earlier, turns on a fact no 1099-R prints and waits for a question (spec 080 Phase 7); until then a code T figure is counted as printed."
+  }
+}

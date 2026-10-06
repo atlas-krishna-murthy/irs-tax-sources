@@ -1,0 +1,1549 @@
+{
+  "form": {
+    "id": "form-1040",
+    "form": "Form 1040",
+    "title": "U.S. Individual Income Tax Return",
+    "kind": "face",
+    "revision": "2025",
+    "revision_printed_as": "Form 1040 (2025) Created 9/5/25",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1040gi",
+    "lines": [
+      {
+        "line": "1a",
+        "caption": "Total amount from Form(s) W-2, box 1 (see instructions)",
+        "short": "Wages, salaries, tips (W-2 box 1)",
+        "type": "money",
+        "concept": {
+          "code": "wages",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "1a",
+          "2025": "1a"
+        }
+      },
+      {
+        "line": "1b",
+        "caption": "Household employee wages not reported on Form(s) W-2",
+        "short": "Household employee wages",
+        "type": "money",
+        "concept": {
+          "code": "household_employee_wages",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "1b",
+          "2025": "1b"
+        }
+      },
+      {
+        "line": "1c",
+        "caption": "Tip income not reported on line 1a (see instructions)",
+        "short": "Tip income not reported on line 1a",
+        "type": "money",
+        "concept": {
+          "code": "tip_income",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "1c",
+          "2025": "1c"
+        }
+      },
+      {
+        "line": "1d",
+        "caption": "Medicaid waiver payments not reported on Form(s) W-2 (see instructions)",
+        "short": "Medicaid waiver payments",
+        "type": "money",
+        "concept": {
+          "code": "medicaid_waiver_payments",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "1d",
+          "2025": "1d"
+        }
+      },
+      {
+        "line": "1e",
+        "caption": "Taxable dependent care benefits from Form 2441, line 26",
+        "short": "Taxable dependent care benefits",
+        "type": "money",
+        "computed_by_software": true,
+        "concept": {
+          "code": "dependent_care_benefits",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "1e",
+          "2025": "1e"
+        }
+      },
+      {
+        "line": "1f",
+        "caption": "Employer-provided adoption benefits from Form 8839, line 31",
+        "short": "Employer-provided adoption benefits",
+        "type": "money",
+        "concept": {
+          "code": "adoption_benefits",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "1f",
+          "2025": "1f"
+        }
+      },
+      {
+        "line": "1g",
+        "caption": "Wages from Form 8919, line 6",
+        "short": "Wages from Form 8919",
+        "type": "money",
+        "concept": {
+          "code": "wages_form_8919",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "1g",
+          "2025": "1g"
+        }
+      },
+      {
+        "line": "1h",
+        "caption": "Other earned income (see instructions). Enter type and amount:",
+        "short": "Other earned income",
+        "type": "money",
+        "concept": {
+          "code": "other_earned_income",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "1h",
+          "2025": "1h"
+        }
+      },
+      {
+        "line": "1i",
+        "caption": "Nontaxable combat pay election (see instructions)",
+        "short": "Nontaxable combat pay election",
+        "type": "money",
+        "memo": true,
+        "concept": {
+          "code": "combat_pay_election",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "1i",
+          "2025": "1i"
+        }
+      },
+      {
+        "line": "1z",
+        "caption": "Add lines 1a through 1h",
+        "short": "Total wages (sum of 1a\u20131h)",
+        "type": "money",
+        "concept": {
+          "code": "total_wages",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "1z",
+          "2025": "1z"
+        },
+        "memo": true
+      },
+      {
+        "line": "2a",
+        "caption": "Tax-exempt interest",
+        "short": "Tax-exempt interest",
+        "type": "money",
+        "memo": true,
+        "concept": {
+          "code": "tax_exempt_interest",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "2a",
+          "2025": "2a"
+        }
+      },
+      {
+        "line": "2b",
+        "caption": "Taxable interest",
+        "short": "Taxable interest",
+        "type": "money",
+        "concept": {
+          "code": "taxable_interest",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "2b",
+          "2025": "2b"
+        }
+      },
+      {
+        "line": "3a",
+        "caption": "Qualified dividends",
+        "short": "Qualified dividends",
+        "type": "money",
+        "memo": true,
+        "concept": {
+          "code": "qualified_dividends",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "3a",
+          "2025": "3a"
+        }
+      },
+      {
+        "line": "3b",
+        "caption": "Ordinary dividends",
+        "short": "Ordinary dividends",
+        "type": "money",
+        "concept": {
+          "code": "ordinary_dividends",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "3b",
+          "2025": "3b"
+        },
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Form 1040",
+          "line": "Line 3b",
+          "revision": "2025",
+          "wording": "Enter your total ordinary dividends on line 3b. This amount should be shown in box 1a of Form(s) 1099-DIV.",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+        }
+      },
+      {
+        "line": "3c",
+        "caption": "Check if your child\u2019s dividends are included in 1 Line 3a 2 Line 3b",
+        "short": "Child's dividends included (checkbox)",
+        "type": "checkbox"
+      },
+      {
+        "line": "4a",
+        "caption": "IRA distributions",
+        "short": "IRA distributions (gross)",
+        "type": "money",
+        "memo": true,
+        "concept": {
+          "code": "ira_distributions",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "4a",
+          "2025": "4a"
+        }
+      },
+      {
+        "line": "4b",
+        "caption": "Taxable amount",
+        "short": "IRA distributions \u2014 taxable",
+        "type": "money",
+        "concept": {
+          "code": "ira_taxable",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "4b",
+          "2025": "4b"
+        }
+      },
+      {
+        "line": "4c",
+        "caption": "Check if (see instructions)",
+        "short": "Rollover or QCD (checkbox)",
+        "type": "checkbox",
+        "columns": [
+          "1",
+          "2",
+          "3"
+        ],
+        "notes": "THE LINE PRINTS THREE CHECKBOXES AND `4c` ALONE IS NOT AN ADDRESS ON IT. Box 1 is Rollover, box 2 is QCD, and box 3 is the WRITE-IN: the instructions say \u201cif another publication or instruction tells you to write a word or code next to line 4b, check box 3 on line 4c and enter that word or code on the entry space next to box 3\u201d, and HFD is its named use. Three different marks, not three copies of one, so they are columns in the sense this map already uses for Schedule D line 1b \u2014 `columns_are: fields`, the default. A route naming only `4c` could not say WHICH box it ticks, and the buildsheet carried the distribution's dollar value there instead of a mark.",
+        "column_captions": {
+          "1": "Rollover",
+          "2": "QCD",
+          "3": "write-in (unlabelled third box)"
+        }
+      },
+      {
+        "line": "5a",
+        "caption": "Pensions and annuities",
+        "short": "Pensions & annuities (gross)",
+        "type": "money",
+        "memo": true,
+        "concept": {
+          "code": "pensions_annuities",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "5a",
+          "2025": "5a"
+        }
+      },
+      {
+        "line": "5b",
+        "caption": "Taxable amount",
+        "short": "Pensions & annuities \u2014 taxable",
+        "type": "money",
+        "concept": {
+          "code": "pension_taxable",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "5b",
+          "2025": "5b"
+        }
+      },
+      {
+        "line": "5c",
+        "caption": "Check if (see instructions)",
+        "short": "Rollover or PSO (checkbox)",
+        "type": "checkbox",
+        "columns": [
+          "1",
+          "2",
+          "3"
+        ],
+        "notes": "As line 4c, with box 2 reading PSO rather than QCD: box 1 Rollover, box 2 PSO (the retired public safety officer insurance exclusion), box 3 the write-in. Measured on engagement 16: the rollover route placed $363,770.02 on `5c` and the fan-out rule struck it through, so a ticked checkbox rendered as a duplicate figure excluded from a total.",
+        "column_captions": {
+          "1": "Rollover",
+          "2": "PSO",
+          "3": "write-in (unlabelled third box)"
+        }
+      },
+      {
+        "line": "6a",
+        "caption": "Social security benefits",
+        "short": "Social security benefits (gross)",
+        "type": "money",
+        "memo": true,
+        "concept": {
+          "code": "social_security_benefits",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "6a",
+          "2025": "6a"
+        },
+        "rules": [],
+        "no_rule_because": {
+          "form": "Social Security Benefits Worksheet",
+          "line": "Line 1",
+          "revision": "2025",
+          "wording": "Enter the total amount from box 5 of all your Forms SSA-1099 and RRB-1099. Also enter this amount on Form 1040 or 1040-SR, line 6a",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+        }
+      },
+      {
+        "line": "6b",
+        "caption": "Taxable amount",
+        "short": "Social security benefits \u2014 taxable",
+        "type": "money",
+        "computed_by_software": true,
+        "concept": {
+          "code": "social_security_taxable",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "6b",
+          "2025": "6b"
+        }
+      },
+      {
+        "line": "6c",
+        "caption": "If you elect to use the lump-sum election method, check here (see instructions)",
+        "short": "Lump-sum election (checkbox)",
+        "type": "checkbox"
+      },
+      {
+        "line": "6d",
+        "caption": "If you are married filing separately and lived apart from your spouse the entire year (see inst.), check here",
+        "short": "Married filing separately, lived apart (checkbox)",
+        "type": "checkbox"
+      },
+      {
+        "line": "7a",
+        "caption": "Capital gain or (loss). Attach Schedule D if required",
+        "short": "Capital gain or (loss)",
+        "type": "money",
+        "concept": {
+          "code": "capital_gain_loss",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "7",
+          "2025": "7a"
+        },
+        "rules": [
+          "cap-06"
+        ]
+      },
+      {
+        "line": "7b",
+        "caption": "Check if: Schedule D not required Includes child\u2019s capital gain or (loss)",
+        "short": "Schedule D not required (checkbox)",
+        "type": "checkbox",
+        "columns": [
+          "1",
+          "2"
+        ],
+        "column_captions": {
+          "1": "Schedule D not required",
+          "2": "Includes child\u2019s capital gain or (loss)"
+        },
+        "notes": "Two unnumbered checkboxes, addressed here as columns 1 and 2. The second carries an ENTRY SPACE (line 7b-amount) for the amount from Form 8814, line 10, which is already inside the line 7a total (i1040gi)."
+      },
+      {
+        "line": "8",
+        "caption": "Additional income from Schedule 1, line 10",
+        "short": "Additional income (Schedule 1, line 10)",
+        "type": "money",
+        "concept": {
+          "code": "additional_income",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "8",
+          "2025": "8"
+        },
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Schedule 1 (Form 1040)",
+          "line": "Part I",
+          "revision": "2025",
+          "wording": "The amount on line 10 of Schedule 1 is entered on Form 1040, 1040-SR, or 1040-NR, line 8.",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+        }
+      },
+      {
+        "line": "9",
+        "caption": "Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7a, and 8. This is your total income",
+        "short": "Total income",
+        "type": "money",
+        "concept": {
+          "code": "total_income",
+          "section": "income"
+        },
+        "printed_lines": {
+          "2024": "9",
+          "2025": "9"
+        },
+        "memo": true
+      },
+      {
+        "line": "10",
+        "caption": "Adjustments to income from Schedule 1, line 26",
+        "short": "Adjustments to income (Schedule 1, line 26)",
+        "type": "money",
+        "nature": "deduction",
+        "concept": {
+          "code": "adjustments_to_income",
+          "section": "adjustments"
+        },
+        "printed_lines": {
+          "2024": "10",
+          "2025": "10"
+        },
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Form 1040",
+          "line": "Line 10",
+          "revision": "2025",
+          "wording": "Enter any adjustments to income from Schedule 1, line 26, on line 10.",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+        }
+      },
+      {
+        "line": "11a",
+        "caption": "Subtract line 10 from line 9. This is your adjusted gross income",
+        "short": "Adjusted gross income",
+        "type": "money",
+        "concept": {
+          "code": "agi",
+          "section": "adjustments"
+        },
+        "printed_lines": {
+          "2024": "11",
+          "2025": "11a"
+        }
+      },
+      {
+        "line": "11b",
+        "caption": "Amount from line 11a (adjusted gross income)",
+        "short": "Adjusted gross income (restated on page 2)",
+        "type": "money",
+        "concept": {
+          "code": "agi_restated",
+          "section": "adjustments"
+        },
+        "printed_lines": {
+          "2024": "",
+          "2025": "11b"
+        },
+        "memo": true
+      },
+      {
+        "line": "12a",
+        "caption": "Someone can claim You as a dependent Your spouse as a dependent",
+        "short": "Claimed as a dependent (checkbox)",
+        "type": "checkbox"
+      },
+      {
+        "line": "12b",
+        "caption": "Spouse itemizes on a separate return",
+        "short": "Spouse itemizes separately (checkbox)",
+        "type": "checkbox"
+      },
+      {
+        "line": "12c",
+        "caption": "You were a dual-status alien",
+        "short": "Dual-status alien (checkbox)",
+        "type": "checkbox"
+      },
+      {
+        "line": "12d",
+        "caption": "You: Were born before January 2, 1961 Are blind Spouse: Was born before January 2, 1961 Is blind",
+        "short": "Born before 1961, or blind (checkbox)",
+        "type": "checkbox"
+      },
+      {
+        "line": "12e",
+        "caption": "Standard deduction or itemized deductions (from Schedule A)",
+        "short": "Standard deduction or itemized deductions",
+        "type": "money",
+        "nature": "deduction",
+        "computed_by_software": true,
+        "concept": {
+          "code": "standard_or_itemized_deduction",
+          "section": "deductions"
+        },
+        "printed_lines": {
+          "2024": "12",
+          "2025": "12e"
+        }
+      },
+      {
+        "line": "13a",
+        "caption": "Qualified business income deduction from Form 8995 or Form 8995-A",
+        "short": "Qualified business income deduction",
+        "type": "money",
+        "nature": "deduction",
+        "computed_by_software": true,
+        "concept": {
+          "code": "qbi_deduction",
+          "section": "deductions"
+        },
+        "printed_lines": {
+          "2024": "13",
+          "2025": "13a"
+        }
+      },
+      {
+        "line": "13b",
+        "caption": "Additional deductions from Schedule 1-A, line 38",
+        "short": "Additional deductions (Schedule 1-A, line 38)",
+        "type": "money",
+        "nature": "deduction",
+        "computed_by_software": true,
+        "concept": {
+          "code": "schedule_1a_deductions",
+          "section": "deductions"
+        },
+        "printed_lines": {
+          "2024": "",
+          "2025": "13b"
+        }
+      },
+      {
+        "line": "14",
+        "caption": "Add lines 12e, 13a, and 13b",
+        "short": "Total deductions",
+        "type": "money",
+        "nature": "deduction",
+        "concept": {
+          "code": "total_deductions",
+          "section": "deductions"
+        },
+        "printed_lines": {
+          "2024": "14",
+          "2025": "14"
+        },
+        "memo": true
+      },
+      {
+        "line": "15",
+        "caption": "Subtract line 14 from line 11b. If zero or less, enter -0-. This is your taxable income",
+        "short": "Taxable income",
+        "type": "money",
+        "concept": {
+          "code": "taxable_income",
+          "section": "deductions"
+        },
+        "printed_lines": {
+          "2024": "15",
+          "2025": "15"
+        }
+      },
+      {
+        "line": "16",
+        "caption": "Tax (see instructions). Check if any from Form(s): 1 8814 2 4972 3",
+        "short": "Tax",
+        "type": "money",
+        "nature": "tax",
+        "concept": {
+          "code": "tax",
+          "section": "tax"
+        },
+        "printed_lines": {
+          "2024": "16",
+          "2025": "16"
+        }
+      },
+      {
+        "line": "17",
+        "caption": "Amount from Schedule 2, line 3",
+        "short": "Amount from Schedule 2, line 3",
+        "type": "money",
+        "nature": "tax",
+        "concept": {
+          "code": "schedule_2_tax",
+          "section": "tax"
+        },
+        "printed_lines": {
+          "2024": "17",
+          "2025": "17"
+        }
+      },
+      {
+        "line": "18",
+        "caption": "Add lines 16 and 17",
+        "short": "Tax plus additional tax (16 + 17)",
+        "type": "money",
+        "nature": "tax",
+        "concept": {
+          "code": "tax_plus_additional",
+          "section": "tax"
+        },
+        "printed_lines": {
+          "2024": "18",
+          "2025": "18"
+        },
+        "memo": true
+      },
+      {
+        "line": "19",
+        "caption": "Child tax credit or credit for other dependents from Schedule 8812",
+        "short": "Child tax credit / credit for other dependents",
+        "type": "money",
+        "nature": "credit",
+        "concept": {
+          "code": "child_tax_credit",
+          "section": "tax"
+        },
+        "printed_lines": {
+          "2024": "19",
+          "2025": "19"
+        }
+      },
+      {
+        "line": "20",
+        "caption": "Amount from Schedule 3, line 8",
+        "short": "Amount from Schedule 3, line 8",
+        "type": "money",
+        "nature": "credit",
+        "concept": {
+          "code": "schedule_3_credits",
+          "section": "tax"
+        },
+        "printed_lines": {
+          "2024": "20",
+          "2025": "20"
+        },
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Schedule 3 (Form 1040)",
+          "line": "Line 8",
+          "revision": "2025",
+          "wording": "Include the amount on Schedule 3, line 8, in the amount entered on Form 1040, 1040-SR, or 1040-NR, line 20.",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+        }
+      },
+      {
+        "line": "21",
+        "caption": "Add lines 19 and 20",
+        "short": "Total nonrefundable credits (19 + 20)",
+        "type": "money",
+        "nature": "credit",
+        "concept": {
+          "code": "total_credits",
+          "section": "tax"
+        },
+        "printed_lines": {
+          "2024": "21",
+          "2025": "21"
+        },
+        "memo": true
+      },
+      {
+        "line": "22",
+        "caption": "Subtract line 21 from line 18. If zero or less, enter -0-",
+        "short": "Tax less credits",
+        "type": "money",
+        "nature": "tax",
+        "concept": {
+          "code": "tax_less_credits",
+          "section": "tax"
+        },
+        "printed_lines": {
+          "2024": "22",
+          "2025": "22"
+        },
+        "memo": true
+      },
+      {
+        "line": "23",
+        "caption": "Other taxes, including self-employment tax, from Schedule 2, line 21",
+        "short": "Other taxes (Schedule 2, line 21)",
+        "type": "money",
+        "nature": "tax",
+        "concept": {
+          "code": "other_taxes",
+          "section": "tax"
+        },
+        "printed_lines": {
+          "2024": "23",
+          "2025": "23"
+        },
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Schedule 2 (Form 1040)",
+          "line": "Line 21",
+          "revision": "2025",
+          "wording": "Enter the amount on Schedule 2, line 21, on Form 1040 or 1040-SR, line 23",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+        }
+      },
+      {
+        "line": "24",
+        "caption": "Add lines 22 and 23. This is your total tax",
+        "short": "Total tax",
+        "type": "money",
+        "nature": "tax",
+        "concept": {
+          "code": "total_tax",
+          "section": "tax"
+        },
+        "printed_lines": {
+          "2024": "24",
+          "2025": "24"
+        }
+      },
+      {
+        "line": "25",
+        "caption": "Federal income tax withheld from:",
+        "short": "Federal income tax withheld (heading)",
+        "type": "text"
+      },
+      {
+        "line": "25a",
+        "caption": "Form(s) W-2",
+        "short": "Federal income tax withheld \u2014 Form(s) W-2",
+        "type": "money",
+        "nature": "payment",
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Form 1040",
+          "line": "Line 25a",
+          "revision": "2025",
+          "wording": "Add the amounts shown as federal income tax withheld on your Form(s) W-2. Enter the total on line 25a.",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+        }
+      },
+      {
+        "line": "25b",
+        "caption": "Form(s) 1099",
+        "short": "Federal income tax withheld \u2014 Form(s) 1099",
+        "type": "money",
+        "nature": "payment",
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Form 1040",
+          "line": "Line 25b",
+          "revision": "2025",
+          "wording": "If you received a 2025 Form 1099 showing federal income tax withheld on dividends, taxable or tax-exempt interest income, unemployment compensation, social security benefits, railroad retirement benefits, or other income you received, include the amount withheld in the total on line 25b.",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+        }
+      },
+      {
+        "line": "25c",
+        "caption": "Other forms (see instructions)",
+        "short": "Federal income tax withheld \u2014 other forms",
+        "type": "money",
+        "nature": "payment",
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Form 1040",
+          "line": "Line 25c",
+          "revision": "2025",
+          "wording": "Federal income tax withheld that is shown on a Schedule K-1.",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+        }
+      },
+      {
+        "line": "25d",
+        "caption": "Add lines 25a through 25c",
+        "short": "Federal income tax withheld",
+        "type": "money",
+        "nature": "payment",
+        "concept": {
+          "code": "federal_income_tax_withheld",
+          "section": "payments"
+        },
+        "printed_lines": {
+          "2024": "25d",
+          "2025": "25d"
+        }
+      },
+      {
+        "line": "26",
+        "caption": "2025 estimated tax payments and amount applied from 2024 return",
+        "short": "Estimated tax payments & amount applied",
+        "type": "money",
+        "nature": "payment",
+        "concept": {
+          "code": "estimated_tax_payments",
+          "section": "payments"
+        },
+        "printed_lines": {
+          "2024": "26",
+          "2025": "26"
+        }
+      },
+      {
+        "line": "27a",
+        "caption": "Earned income credit (EIC)",
+        "short": "Earned income credit (EIC)",
+        "type": "money",
+        "nature": "credit",
+        "concept": {
+          "code": "earned_income_credit",
+          "section": "payments"
+        },
+        "printed_lines": {
+          "2024": "27",
+          "2025": "27a"
+        }
+      },
+      {
+        "line": "27b",
+        "caption": "Clergy filing Schedule SE (see instructions)",
+        "short": "Clergy filing Schedule SE (checkbox)",
+        "type": "checkbox"
+      },
+      {
+        "line": "27c",
+        "caption": "If you do not want to claim the EIC, check here",
+        "short": "Not claiming the EIC (checkbox)",
+        "type": "checkbox"
+      },
+      {
+        "line": "28",
+        "caption": "Additional child tax credit (ACTC) from Schedule 8812. If you do not want to claim the ACTC, check here",
+        "short": "Additional child tax credit",
+        "type": "money",
+        "nature": "credit",
+        "concept": {
+          "code": "additional_child_tax_credit",
+          "section": "payments"
+        },
+        "printed_lines": {
+          "2024": "28",
+          "2025": "28"
+        }
+      },
+      {
+        "line": "29",
+        "caption": "American opportunity credit from Form 8863, line 8",
+        "short": "American opportunity credit",
+        "type": "money",
+        "nature": "credit",
+        "concept": {
+          "code": "american_opportunity_credit",
+          "section": "payments"
+        },
+        "printed_lines": {
+          "2024": "29",
+          "2025": "29"
+        }
+      },
+      {
+        "line": "30",
+        "caption": "Refundable adoption credit from Form 8839, line 13",
+        "short": "Refundable adoption credit (Form 8839)",
+        "type": "money",
+        "nature": "credit",
+        "concept": {
+          "code": "refundable_adoption_credit",
+          "section": "payments"
+        },
+        "printed_lines": {
+          "2024": "",
+          "2025": "30"
+        }
+      },
+      {
+        "line": "31",
+        "caption": "Amount from Schedule 3, line 15",
+        "short": "Other payments & refundable credits",
+        "type": "money",
+        "nature": "payment",
+        "concept": {
+          "code": "other_payments_credits",
+          "section": "payments"
+        },
+        "printed_lines": {
+          "2024": "31",
+          "2025": "31"
+        },
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Schedule 3 (Form 1040)",
+          "line": "Line 15",
+          "revision": "2025",
+          "wording": "Enter the amount on Schedule 3, line 15, on Form 1040, 1040-SR, or 1040-NR, line 31.",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+        }
+      },
+      {
+        "line": "32",
+        "caption": "Add lines 27a, 28, 29, 30, and 31. These are your total other payments and refundable credits",
+        "short": "Total other payments & refundable credits",
+        "type": "money",
+        "nature": "credit",
+        "concept": {
+          "code": "total_other_payments",
+          "section": "payments"
+        },
+        "printed_lines": {
+          "2024": "32",
+          "2025": "32"
+        },
+        "memo": true
+      },
+      {
+        "line": "33",
+        "caption": "Add lines 25d, 26, and 32. These are your total payments",
+        "short": "Total payments",
+        "type": "money",
+        "nature": "payment",
+        "concept": {
+          "code": "total_payments",
+          "section": "payments"
+        },
+        "printed_lines": {
+          "2024": "33",
+          "2025": "33"
+        }
+      },
+      {
+        "line": "34",
+        "caption": "If line 33 is more than line 24, subtract line 24 from line 33. This is the amount you overpaid",
+        "short": "Amount overpaid",
+        "type": "money",
+        "concept": {
+          "code": "overpaid",
+          "section": "result"
+        },
+        "printed_lines": {
+          "2024": "34",
+          "2025": "34"
+        }
+      },
+      {
+        "line": "35a",
+        "caption": "Amount of line 34 you want refunded to you. If Form 8888 is attached, check here",
+        "short": "Amount refunded to you",
+        "type": "money",
+        "concept": {
+          "code": "refund",
+          "section": "result"
+        },
+        "printed_lines": {
+          "2024": "35a",
+          "2025": "35a"
+        }
+      },
+      {
+        "line": "35b",
+        "caption": "Routing number",
+        "short": "Refund routing number",
+        "type": "text"
+      },
+      {
+        "line": "35c",
+        "caption": "Type: Checking Savings",
+        "short": "Refund account type",
+        "type": "checkbox"
+      },
+      {
+        "line": "35d",
+        "caption": "Account number",
+        "short": "Refund account number",
+        "type": "text"
+      },
+      {
+        "line": "36",
+        "caption": "Amount of line 34 you want applied to your 2026 estimated tax",
+        "short": "Amount applied to next year's estimated tax",
+        "type": "money",
+        "concept": {
+          "code": "applied_to_next_year",
+          "section": "result"
+        },
+        "printed_lines": {
+          "2024": "36",
+          "2025": "36"
+        }
+      },
+      {
+        "line": "37",
+        "caption": "Subtract line 33 from line 24. This is the amount you owe. For details on how to pay, go to www.irs.gov/Payments or see instructions",
+        "short": "Amount you owe",
+        "type": "money",
+        "concept": {
+          "code": "amount_owed",
+          "section": "result"
+        },
+        "printed_lines": {
+          "2024": "37",
+          "2025": "37"
+        }
+      },
+      {
+        "line": "38",
+        "caption": "Estimated tax penalty (see instructions)",
+        "short": "Estimated tax penalty",
+        "type": "money",
+        "concept": {
+          "code": "est_tax_penalty",
+          "section": "result"
+        },
+        "printed_lines": {
+          "2024": "38",
+          "2025": "38"
+        }
+      },
+      {
+        "line": "tax-year-beginning",
+        "caption": "For the year Jan. 1\u2013Dec. 31, 2025, or other tax year beginning",
+        "type": "date",
+        "short": "Tax year beginning (fiscal year)",
+        "notes": "Header (page 1, above Filing Status). A fiscal-year return enters its beginning date here and its ending date on tax-year-ending."
+      },
+      {
+        "line": "tax-year-ending",
+        "caption": "ending",
+        "type": "date",
+        "short": "Tax year ending (fiscal year)",
+        "notes": "Header (page 1, above Filing Status). The second half of the same printed sentence: \"..., 2025, ending , 20\"."
+      },
+      {
+        "line": "filed-pursuant-to-301.9100-2",
+        "caption": "Filed pursuant to section 301.9100-2",
+        "type": "checkbox",
+        "short": "Filed under section 301.9100-2 (checkbox)",
+        "notes": "Header (page 1, above Filing Status). "
+      },
+      {
+        "line": "combat-zone",
+        "caption": "Combat zone",
+        "type": "checkbox",
+        "short": "Combat zone (checkbox)",
+        "notes": "Header (page 1, above Filing Status). "
+      },
+      {
+        "line": "other-special-filing",
+        "caption": "Other",
+        "type": "checkbox",
+        "short": "Other special filing (checkbox)",
+        "notes": "Header (page 1, above Filing Status). The unlabelled-purpose box printed \"Other\" under section 301.9100-2, with an entry space."
+      },
+      {
+        "line": "deceased",
+        "caption": "Deceased MM / DD / YYYY Spouse MM / DD / YYYY",
+        "type": "date",
+        "short": "Date of death (you / spouse)",
+        "columns": [
+          "you",
+          "spouse"
+        ],
+        "column_captions": {
+          "you": "Deceased",
+          "spouse": "Spouse"
+        },
+        "notes": "Header (page 1, above Filing Status). "
+      },
+      {
+        "line": "your-name",
+        "caption": "Your first name and middle initial",
+        "type": "text",
+        "short": "Your name",
+        "columns": [
+          "first",
+          "last"
+        ],
+        "column_captions": {
+          "first": "Your first name and middle initial",
+          "last": "Last name"
+        },
+        "notes": "Header (page 1, above Filing Status). "
+      },
+      {
+        "line": "your-ssn",
+        "caption": "Your social security number",
+        "type": "tin",
+        "short": "Your SSN",
+        "notes": "Header (page 1, above Filing Status). "
+      },
+      {
+        "line": "spouse-name",
+        "caption": "If joint return, spouse\u2019s first name and middle initial",
+        "type": "text",
+        "short": "Spouse's name",
+        "columns": [
+          "first",
+          "last"
+        ],
+        "column_captions": {
+          "first": "If joint return, spouse\u2019s first name and middle initial",
+          "last": "Last name"
+        },
+        "notes": "Header (page 1, above Filing Status). "
+      },
+      {
+        "line": "spouse-ssn",
+        "caption": "Spouse\u2019s social security number",
+        "type": "tin",
+        "short": "Spouse's SSN",
+        "notes": "Header (page 1, above Filing Status). "
+      },
+      {
+        "line": "home-address",
+        "caption": "Home address (number and street). If you have a P.O. box, see instructions.",
+        "type": "text",
+        "short": "Home address",
+        "columns": [
+          "street",
+          "apt",
+          "city",
+          "state",
+          "zip",
+          "foreign-country",
+          "foreign-province",
+          "foreign-postal-code"
+        ],
+        "column_captions": {
+          "street": "Home address (number and street). If you have a P.O. box, see instructions.",
+          "apt": "Apt. no.",
+          "city": "City, town, or post office. If you have a foreign address, also complete spaces below.",
+          "state": "State",
+          "zip": "ZIP code",
+          "foreign-country": "Foreign country name",
+          "foreign-province": "Foreign province/state/county",
+          "foreign-postal-code": "Foreign postal code"
+        },
+        "notes": "Header (page 1, above Filing Status). "
+      },
+      {
+        "line": "main-home-in-us",
+        "caption": "Check here if your main home, and your spouse\u2019s if filing a joint return, was in the U.S. for more than half of 2025.",
+        "type": "checkbox",
+        "short": "Main home in the U.S. more than half the year (checkbox)",
+        "notes": "Header (page 1, above Filing Status). "
+      },
+      {
+        "line": "presidential-election-campaign",
+        "caption": "Presidential Election Campaign",
+        "type": "checkbox",
+        "short": "Presidential Election Campaign (checkbox)",
+        "columns": [
+          "you",
+          "spouse"
+        ],
+        "column_captions": {
+          "you": "You",
+          "spouse": "Spouse"
+        },
+        "notes": "Header (page 1, above Filing Status). Face: \"Check here if you, or your spouse if filing jointly, want $3 to go to this fund. Checking a box below will not change your tax or refund.\""
+      },
+      {
+        "line": "filing-status",
+        "caption": "Filing Status",
+        "type": "code",
+        "short": "Filing status",
+        "columns": [
+          "single",
+          "mfj",
+          "mfs",
+          "hoh",
+          "qss"
+        ],
+        "column_captions": {
+          "single": "Single",
+          "mfj": "Married filing jointly (even if only one had income)",
+          "mfs": "Married filing separately (MFS)",
+          "hoh": "Head of household (HOH)",
+          "qss": "Qualifying surviving spouse (QSS)"
+        },
+        "notes": "Filing Status block. ONE engagement value that every filing-status rule reads (FR-018d); the five boxes are its values: Single \u00b7 Married filing jointly (even if only one had income) \u00b7 Married filing separately (MFS) \u00b7 Head of household (HOH) \u00b7 Qualifying surviving spouse (QSS)."
+      },
+      {
+        "line": "filing-status-mfs-spouse-name",
+        "caption": "and full name here:",
+        "type": "text",
+        "short": "MFS spouse's name",
+        "notes": "Filing Status, MFS box: \"Married filing separately (MFS). Enter spouse\u2019s SSN above and full name here:\" (the SSN is spouse-ssn)."
+      },
+      {
+        "line": "filing-status-hoh-qss-child-name",
+        "caption": "If you checked the HOH or QSS box, enter the child\u2019s name if the qualifying person is a child but not your dependent:",
+        "type": "text",
+        "short": "HOH/QSS child's name"
+      },
+      {
+        "line": "nonresident-spouse-election",
+        "caption": "If treating a nonresident alien or dual-status alien spouse as a U.S. resident for the entire tax year, check the box and enter their name (see instructions and attach statement if required):",
+        "type": "checkbox",
+        "short": "Nonresident spouse treated as resident (checkbox)",
+        "notes": "The box and the spouse name it asks for; a section 6013(g)/(h) choice that Form 8960 Part I also asks about."
+      },
+      {
+        "line": "digital-assets",
+        "caption": "At any time during 2025, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell, exchange, or otherwise dispose of a digital asset (or a financial interest in a digital asset)? (See instructions.)",
+        "type": "checkbox",
+        "short": "Digital assets question",
+        "columns": [
+          "yes",
+          "no"
+        ],
+        "column_captions": {
+          "yes": "Yes",
+          "no": "No"
+        },
+        "notes": "Digital Assets question. A Form 1099-DA in the packet evidences Yes; that evidence is a RULE authored later (spec 080), not declared here."
+      },
+      {
+        "line": "dependent-first-name",
+        "caption": "(1) First name",
+        "type": "text",
+        "short": "Dependent's first name",
+        "columns": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "columns_are": "instances",
+        "notes": "Dependents table: columns Dependent 1-4 are FOUR DEPENDENTS (instances, not part of an address). Schedule 8812 lines 4 and 6 count from it."
+      },
+      {
+        "line": "dependent-last-name",
+        "caption": "(2) Last name",
+        "type": "text",
+        "short": "Dependent's last name",
+        "columns": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "columns_are": "instances",
+        "notes": "Dependents table: columns Dependent 1-4 are FOUR DEPENDENTS (instances, not part of an address). Schedule 8812 lines 4 and 6 count from it."
+      },
+      {
+        "line": "dependent-ssn",
+        "caption": "(3) SSN",
+        "type": "tin",
+        "short": "Dependent's SSN",
+        "columns": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "columns_are": "instances",
+        "notes": "Dependents table: columns Dependent 1-4 are FOUR DEPENDENTS (instances, not part of an address). Schedule 8812 lines 4 and 6 count from it."
+      },
+      {
+        "line": "dependent-relationship",
+        "caption": "(4) Relationship",
+        "type": "text",
+        "short": "Dependent's relationship",
+        "columns": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "columns_are": "instances",
+        "notes": "Dependents table: columns Dependent 1-4 are FOUR DEPENDENTS (instances, not part of an address). Schedule 8812 lines 4 and 6 count from it."
+      },
+      {
+        "line": "dependent-lived-with-you",
+        "caption": "(5) Check if lived with you more than half of 2025",
+        "type": "checkbox",
+        "short": "Dependent lived with you over half the year (checkbox)",
+        "column_captions": {
+          "1": "(a) Yes",
+          "2": "(a) Yes",
+          "3": "(a) Yes",
+          "4": "(a) Yes"
+        },
+        "columns": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "columns_are": "instances",
+        "notes": "Dependents table: columns Dependent 1-4 are FOUR DEPENDENTS (instances, not part of an address). Schedule 8812 lines 4 and 6 count from it."
+      },
+      {
+        "line": "dependent-lived-in-us",
+        "caption": "And in the U.S.",
+        "type": "checkbox",
+        "short": "Dependent lived in the U.S. (checkbox)",
+        "columns": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "columns_are": "instances",
+        "notes": "Dependents table: columns Dependent 1-4 are FOUR DEPENDENTS (instances, not part of an address). Schedule 8812 lines 4 and 6 count from it."
+      },
+      {
+        "line": "dependent-full-time-student",
+        "caption": "Full-time student",
+        "type": "checkbox",
+        "short": "Dependent is a full-time student (checkbox)",
+        "columns": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "columns_are": "instances",
+        "notes": "Dependents table: columns Dependent 1-4 are FOUR DEPENDENTS (instances, not part of an address). Schedule 8812 lines 4 and 6 count from it."
+      },
+      {
+        "line": "dependent-disabled",
+        "caption": "Permanently and totally disabled",
+        "type": "checkbox",
+        "short": "Dependent permanently and totally disabled (checkbox)",
+        "columns": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "columns_are": "instances",
+        "notes": "Dependents table: columns Dependent 1-4 are FOUR DEPENDENTS (instances, not part of an address). Schedule 8812 lines 4 and 6 count from it."
+      },
+      {
+        "line": "dependent-child-tax-credit",
+        "caption": "Child tax credit",
+        "type": "checkbox",
+        "short": "Dependent qualifies for the child tax credit (checkbox)",
+        "columns": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "columns_are": "instances",
+        "notes": "Dependents table: columns Dependent 1-4 are FOUR DEPENDENTS (instances, not part of an address). Schedule 8812 lines 4 and 6 count from it."
+      },
+      {
+        "line": "dependent-credit-for-other-dependents",
+        "caption": "Credit for other dependents",
+        "type": "checkbox",
+        "short": "Dependent \u2014 credit for other dependents (checkbox)",
+        "columns": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "columns_are": "instances",
+        "notes": "Dependents table: columns Dependent 1-4 are FOUR DEPENDENTS (instances, not part of an address). Schedule 8812 lines 4 and 6 count from it."
+      },
+      {
+        "line": "dependents-more-than-four",
+        "caption": "If more than four dependents, see instructions and check here",
+        "type": "checkbox",
+        "short": "More than four dependents (checkbox)",
+        "notes": "Printed down the left margin of the Dependents table."
+      },
+      {
+        "line": "dependents-lived-apart",
+        "caption": "Check if your filing status is MFS or HOH and you lived apart from your spouse for the last 6 months of 2025, or you are legally separated according to your state law under a written separation agreement or a decree of separate maintenance and you did not live in the same household as your spouse at the end of 2025.",
+        "type": "checkbox",
+        "short": "MFS/HOH and lived apart from spouse (checkbox)"
+      },
+      {
+        "line": "7b-amount",
+        "caption": "Includes child\u2019s capital gain or (loss)",
+        "type": "money",
+        "short": "Child's capital gain or (loss) from Form 8814",
+        "notes": "The entry space beside the second 7b checkbox: \"check the \u201cincludes child\u2019s capital gain or (loss)\u201d box on line 7b and enter the amount from Form 8814, line 10, in the entry space\" (i1040gi). Already included in 7a; never added again."
+      },
+      {
+        "line": "16-forms",
+        "caption": "Check if any from Form(s):",
+        "type": "checkbox",
+        "short": "Tax from Form 8814 / 4972 / other (checkboxes)",
+        "columns": [
+          "1",
+          "2",
+          "3"
+        ],
+        "column_captions": {
+          "1": "8814",
+          "2": "4972",
+          "3": "write-in (unlabelled third box)"
+        },
+        "notes": "Line 16 checkboxes 1 (Form 8814), 2 (Form 4972) and 3 (an unlabelled write-in, the 4c/5c pattern). Line 16 itself is the tax the software computes."
+      },
+      {
+        "line": "26-former-spouse-ssn",
+        "caption": "If you made estimated tax payments with your former spouse in 2025, enter their SSN (see instructions):",
+        "type": "tin",
+        "short": "Former spouse's SSN (joint estimated payments)"
+      },
+      {
+        "line": "28-actc-opt-out",
+        "caption": "If you do not want to claim the ACTC, check here",
+        "type": "checkbox",
+        "short": "Not claiming the ACTC (checkbox)"
+      },
+      {
+        "line": "35a-form-8888",
+        "caption": "If Form 8888 is attached, check here",
+        "type": "checkbox",
+        "short": "Form 8888 attached (checkbox)"
+      },
+      {
+        "line": "third-party-designee",
+        "caption": "Do you want to allow another person to discuss this return with the IRS? See instructions.",
+        "type": "checkbox",
+        "short": "Third party designee",
+        "columns": [
+          "yes",
+          "no",
+          "name",
+          "phone",
+          "pin"
+        ],
+        "column_captions": {
+          "yes": "Yes. Complete below.",
+          "no": "No",
+          "name": "Designee\u2019s name",
+          "phone": "Phone no.",
+          "pin": "Personal identification number (PIN)"
+        },
+        "notes": "Third Party Designee block."
+      },
+      {
+        "line": "occupation",
+        "caption": "Your occupation",
+        "type": "text",
+        "short": "Occupation (you / spouse)",
+        "columns": [
+          "you",
+          "spouse"
+        ],
+        "column_captions": {
+          "you": "Your occupation",
+          "spouse": "Spouse\u2019s occupation"
+        },
+        "notes": "Sign Here block. The signatures and dates are not data and are not declared."
+      },
+      {
+        "line": "identity-protection-pin",
+        "caption": "If the IRS sent you an Identity Protection PIN, enter it here (see inst.)",
+        "type": "code",
+        "short": "Identity Protection PIN (you / spouse)",
+        "columns": [
+          "you",
+          "spouse"
+        ],
+        "column_captions": {
+          "you": "If the IRS sent you an Identity Protection PIN, enter it here",
+          "spouse": "If the IRS sent your spouse an Identity Protection PIN, enter it here"
+        },
+        "notes": "Sign Here block."
+      },
+      {
+        "line": "taxpayer-contact",
+        "caption": "Phone no.",
+        "type": "text",
+        "short": "Phone and email",
+        "columns": [
+          "phone",
+          "email"
+        ],
+        "column_captions": {
+          "phone": "Phone no.",
+          "email": "Email address"
+        },
+        "notes": "Sign Here block."
+      },
+      {
+        "line": "paid-preparer",
+        "caption": "Preparer\u2019s name",
+        "type": "text",
+        "short": "Paid preparer",
+        "columns": [
+          "name",
+          "ptin",
+          "self-employed",
+          "firm-name",
+          "firm-address",
+          "firm-phone",
+          "firm-ein"
+        ],
+        "column_captions": {
+          "name": "Preparer\u2019s name",
+          "ptin": "PTIN",
+          "self-employed": "Check if: Self-employed",
+          "firm-name": "Firm\u2019s name",
+          "firm-address": "Firm\u2019s address",
+          "firm-phone": "Phone no.",
+          "firm-ein": "Firm\u2019s EIN"
+        },
+        "notes": "Paid Preparer Use Only block. The preparer\u2019s signature and date are not data."
+      }
+    ],
+    "notes": "Two printed pages. Lines 1a-11a are on page 1; 11b-38 on page 2. Line 25 carries no amount box - it is the caption over 25a-25d. Lines 3c, 4c, 5c, 6d, 7b, 12a-12d, 27b, 27c and 35c are checkbox lines carrying no amount. On 4c and 5c, checkbox 3 is printed with no label: it is an unlabeled write-in, the same pattern as line 16's third box - the 2025 instructions say to check it and write the word or code (e.g. 'HFD') in the entry space beside it. Line 3c's two boxes, by contrast, ARE labelled ('Line 3a' and 'Line 3b') and there is no write-in. Line 7b's second checkbox carries an ENTRY SPACE: the instructions say to check 'Includes child's capital gain or (loss)' and enter the amount from Form 8814, line 10, in that space, while the gain itself is included in the line 7a total. Line 6c (lump-sum election) is NOT new for 2025 - it is on the TY2024 form too. Standard deduction amounts printed in the left margin for 2025: Single or Married filing separately $15,750; Married filing jointly or Qualifying surviving spouse $31,500; Head of household $23,625.",
+    "face_not_boxes": [
+      {
+        "slot": "1",
+        "because": "the heuristic reads \"Income 1a\" in the left margin; line 1 prints only as 1a-1i/1z, all declared"
+      },
+      {
+        "slot": "2",
+        "because": "a page number in the page header (\"Page 2\"), not a line"
+      },
+      {
+        "slot": "4",
+        "because": "the \"Dependent 4\" column heading of the Dependents table, declared as instance column 4"
+      }
+    ]
+  }
+}

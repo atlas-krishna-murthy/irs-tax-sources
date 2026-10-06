@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "id": "e-med-01",
+    "title": "Only the costs of medical care are medical expenses",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-medical-expense-records.medical_and_dental_expenses_paid"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-not-medical-care"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-not-medical-care",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this something other than medical care \u2014 not for the diagnosis, cure, mitigation, treatment or prevention of disease or for affecting a part or function of the body (for example housework, general health items, cosmetic surgery)?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 502",
+      "line": "What Are Medical Expenses?",
+      "revision": "2025",
+      "wording": "Medical expenses are the costs of diagnosis, cure, mitigation, treatment, or prevention of disease and for the purpose of affecting any part or function of the body.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p502--2025.pdf"
+    },
+    "research_ids": [
+      "e-med-01"
+    ]
+  }
+}

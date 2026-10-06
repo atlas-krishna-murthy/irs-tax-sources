@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-real-estate-tax-not-paid-in-2025-or-not-assessed-before-2026",
+    "wording": "Is this real estate tax NOT paid to the taxing authority in 2025, or a prepayment of a tax assessed for 2026 or later (or refunded or rebated in 2025)?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 not deductible for 2025"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 paid in 2025 and assessed before 2026"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this real estate tax NOT paid to the taxing authority in 2025, or a prepayment of a tax assessed for 2026 or later (or refunded or rebated in 2025)?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Line 5b",
+        "revision": "2025",
+        "wording": "If your mortgage payments include your real estate taxes, you can include only the amount the mortgage company actually paid to the taxing authority in 2025.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

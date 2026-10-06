@@ -1,0 +1,214 @@
+Form  6765
+(Rev. December 2024)
+                                     Credit for Increasing Research Activities                                           OMB No. 1545-0619
+
+                                                        Attach to your tax return.                                        Attachment
+Department of the Treasury
+Internal Revenue Service           Go to www.irs.gov/Form6765 for instructions and the latest information.                Sequence No. 676
+Name(s) shown on return                                                                                       Identifying number
+
+
+A Are you electing the reduced credit under section 280C? See instructions . . . . . . . . . . . . . .                 Yes     No
+B Are you a member of a controlled group or business under common control? . . . . . . . . . . . . .                   Yes     No
+If “Yes,” complete and attach the required statement. See instructions for required attachment.
+Section A—Regular Credit. Skip this section and go to Section B if you are electing or previously elected (and are not revoking) the
+alternative simplified credit.
+  1      Certain amounts paid or incurred to energy consortia (see instructions) . . . . . . . . . .            1
+  2      Basic research payments to qualified organizations (see instructions) . . .         2
+  3      Qualified organization base period amount . . . . . . . . . . . .                   3
+  4      Subtract line 3 from line 2. If zero or less, enter -0- . . . . . . . . . . . . . . . . .              4
+         Note: Complete Section F before going to line 5.
+  5      Total qualified research expenses (QREs). Enter amount from line 48 . . .           5
+  6      Enter fixed-base percentage, but not more than 16% (0.16). See instructions         6               %
+  7      Enter average annual gross receipts. See instructions . . . . . . . .               7
+  8      Multiply line 7 by the percentage on line 6 . . . . . . . . . . . .                 8
+  9      Subtract line 8 from line 5. If zero or less, enter -0- . . . . . . . . .           9
+ 10      Multiply line 5 by 50% (0.50) . . . . . . . . . . . . . . . .                      10
+ 11      Enter the smaller of line 9 or line 10 . . . . . . . . . . . . . . . . . . . . . .                    11
+ 12      Add lines 1, 4, and 11 . . . . . . . . . . . . . . . . . . . . . . . . . . .                          12
+ 13      If you elect to reduce the credit under section 280C, then multiply line 12 by 15.8% (0.158). If not,
+         multiply line 12 by 20% (0.20) and see instructions for the statement that must be attached . . . .   13
+Section B—Alternative Simplified Credit. Skip this section if you are completing Section A.
+
+ 14      Certain amounts paid or incurred to energy consortia (see the line 1 instructions) . . . . . . .           14
+ 15      Basic research payments to qualified organizations (see the line 2 instructions)     15
+ 16      Qualified organization base period amount (see the line 3 instructions) . . .        16
+ 17      Subtract line 16 from line 15. If zero or less, enter -0- . . . . . . . . . . . . . . . .                  17
+ 18      Add lines 14 and 17 . . . . . . . . . . . . . . . . . . . . . . . . . . .                                  18
+ 19      Multiply line 18 by 20% (0.20) . . . . . . . . . . . . . . . . . . . . . . . .                             19
+         Note: Complete Section F before going to line 20.
+ 20      Total qualified research expenses (QREs). Enter amount from line 48 . . .            20
+ 21      Enter your total QREs for the prior 3 tax years. If you had no QREs in any 1 of
+         those years, skip lines 22 and 23 . . . . . . . . . . . . . . .                      21
+ 22      Divide line 21 by 6.0 . . . . . . . . . . . . . . . . . . .                          22
+ 23      Subtract line 22 from line 20. If zero or less, enter -0- . . . . . . . .            23
+ 24      Multiply line 23 by 14% (0.14). If you skipped lines 22 and 23, multiply line 20 by 6% (0.06) . . . .      24
+ 25      Add lines 19 and 24 . . . . . . . . . . . . . . . . . . . . . . . . . . .                                  25
+ 26      If you elect to reduce the credit under section 280C, then multiply line 25 by 79% (0.79). If not, enter
+         the amount from line 25 and see the line 13 instructions for the statement that must be attached . .       26
+For Paperwork Reduction Act Notice, see separate instructions.                     Cat. No. 13700H                  Form 6765 (Rev. 12-2024)
+Form 6765 (Rev. 12-2024)                                                                                                                   Page 2
+
+Section C—Current Year Credit
+
+ 27     Enter the portion of the credit from Form 8932, line 2, that is attributable to wages that were also
+        used to figure the credit on line 13 or line 26 (whichever applies) . . . . . . . . . . . . .                     27
+ 28     Subtract line 27 from line 13 or line 26 (whichever applies). If zero or less, enter -0- . . . . . .              28
+ 29     Credit for increasing research activities from partnerships, S corporations, estates, and trusts . . .            29
+ 30     Add lines 28 and 29 . . . . . . . . . . . . . . . . . . . . . . . . . . .                                         30
+        • Estates and trusts, go to line 31.
+        • Partnerships and S corporations not electing the payroll tax credit, stop here and report this amount on
+        Schedule K.
+        • Partnerships and S corporations electing the payroll tax credit, complete Section D and report on
+        Schedule K the amount on this line reduced by the amount on line 36.
+        • Eligible small businesses, stop here and report the credit on Form 3800, Part III, line 4i. See instructions
+        for the definition of eligible small business.
+        • Filers other than eligible small businesses, stop here and report the credit on Form 3800, Part III, line 1c.
+        Note: Qualified small business filers, other than partnerships and S corporations, electing the payroll tax
+        credit must complete Form 3800 before completing Section D.
+ 31     Amount allocated to beneficiaries of the estate or trust (see instructions) . . . . . . . . . .                   31
+ 32     Estates and trusts, subtract line 31 from line 30. For eligible small businesses, report the credit on
+        Form 3800, Part III, line 4i. See instructions. For filers other than eligible small businesses, report the
+        credit on Form 3800, Part III, line 1c . . . . . . . . . . . . . . . . . . . . . .                         32
+Section D—Qualified Small Business Payroll Tax Election and Payroll Tax Credit. Skip this section if the payroll tax election does
+not apply. See instructions.
+ 33a Check this box if you are a qualified small business electing the payroll tax credit. See instructions
+    b Check the box if payroll tax is reported on a different EIN . . . . . . . . . . . . . .
+ 34    Enter the portion of line 28 elected as a payroll tax credit (do not enter more than $500,000). See
+       instructions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                    34
+ 35    General business credit carryforward from the current year. See instructions. Partnerships and S
+       corporations, skip this line and go to line 36 . . . . . . . . . . . . . . . . . . .                        35
+ 36    Partnerships and S corporations, enter the smaller of line 28 or line 34. All others, enter the smallest of
+       line 28, line 34, or line 35. Enter here and on the applicable line of Form 8974, Part 1, column (e).
+       Members of controlled groups or businesses under common control, see instructions for the statement
+       that must be attached . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 36
+Section E—Other Information. See instructions.
+
+ 37     Enter the number of business components generating the QREs on line 5 or line 20 . . . . . .                      37
+ 38     Enter the amount of officers’ wages included on line 42     . . . . . . . . . . . . . . .                         38
+ 39     Did you acquire or dispose of any major portion of a trade or business in the tax year?   Yes      No
+ 40     Did you include any new categories of expenses as current year QREs? . . . .              Yes      No
+ 41     Did you determine any of the QREs on line 5 or line 20 following the ASC 730
+        Directive? . . . . . . . . . . . . . . . . . . . . . . . . .                              Yes      No
+        If “Yes,” enter the amount from Appendix C Line 19 (you may attach your Appendices A, B, C, and D here)           41
+        This ASC 730 Directive only applies to taxpayers with assets equal to or greater than $10,000,000
+        who follow U.S. GAAP to prepare their Certified Audited Financial Statements showing the amount of
+        currently expensed Financial Statement R&D. See instructions.
+
+Section F—Qualified Research Expenses Summary. See instructions.
+A Are you required to complete Section G? See instructions to determine if you are required to complete Section G, and how to
+  complete Section F if you are not required to complete Section G . . . . . . . . . . . . . . . .               Yes     No
+ 42     Total wages for qualified services for all business components (do not include any wages used in
+        figuring the work opportunity credit) . . . . . . . . . . . . . . . . . . . . . .                                 42
+ 43     Total costs of supplies for all business components . . . . . . . . . . . . . . . . .                             43
+ 44     Total rental or lease cost of computers for all business components . . . . . . . . . . .                         44
+ 45     Total applicable amount of contract research for all business components (do
+        not include basic research payments) . . . . . . . . . . . . . .                      45
+ 46     Enter the applicable amount of all basic research payments. See instructions .        46
+ 47     Add line 45 and line 46 . . . . . . . . . . . . . . . . . . . . . . . . . .                                       47
+ 48     Add lines 42, 43, 44, and 47, then enter line 48 on either line 5 or line 20, whichever is appropriate .          48
+                                                                                                                          Form 6765 (Rev. 12-2024)
+Form 6765 (Rev. 12-2024)                                                                                                                                    Page 3
+
+Section G—Business Component Information. Complete lines 49(a) through 49(f) for each business component you are required to
+report. See instructions. Attach additional sheets if necessary to capture all business components.
+                49(a)
+       EIN of the controlled                        49(b)
+          group member                                                                      49(c)
+                                                 Controlled                                                                              49(d)
+ BC       conducting the                                                       Business component’s name
+                                              group member’s                                                                   Business component type
+       research activities on                                                or unique alphanumeric identifier
+                                             principal business                                                           (select one from available options)
+           this business                                                             (see instructions)
+                                                activity code
+            component
+
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+                                                49(e)
+ BC                                          Software                                                                   49(f)
+                        (if applicable, select from the available options)           Describe the information sought to be discovered. Use the space provided.
+
+
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+                                                                                                                                      Form 6765 (Rev. 12-2024)
+Form 6765 (Rev. 12-2024)                                                                                                                                   Page 4
+
+Section G—Business Component Information (continued). Complete lines 50 through 56 for each business component. If you have
+more than fifteen business components, see instructions.
+
+                               50                             51                                     52                                       53
+    BC             Direct research wages for     Direct supervision wages for             Direct support wages                     Total qualified wages
+                       qualified services             qualified services                  for qualified services             (add line 50, line 51, and line 52)
+
+     1
+     2
+     3
+     4
+     5
+     6
+     7
+     8
+     9
+    10
+    11
+    12
+    13
+    14
+    15
+ Total from
+attachments
+   Total
+                                                                                                                                      56
+                                    54                                           55                                    Applicable amount of contract
+    BC
+                              Cost of supplies                   Rental or lease cost of computers                 research expenses (see instructions for
+                                                                                                                     reporting basic research payments)
+     1
+     2
+     3
+     4
+     5
+     6
+     7
+     8
+     9
+    10
+    11
+    12
+    13
+    14
+    15
+ Total from
+attachments
+   Total
+                                                                                                                                     Form 6765 (Rev. 12-2024)
+

@@ -1,0 +1,64 @@
+{
+  "rule": {
+    "id": "k1-1065-13-codes-columns",
+    "title": "K-1 code AC interest on debt-financed distributions: column (i) or (g) by the client's use of the proceeds",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "route_among",
+    "acts_on": {
+      "boxes": [
+        "k-1-1065.13.AC",
+        "k-1-1120s.12.AC"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "k1-debt-financed-proceeds-use"
+      }
+    ],
+    "params": {
+      "cases": [
+        {
+          "when": {
+            "answer": "k1-debt-financed-proceeds-use",
+            "is": "business_materially_participated"
+          },
+          "to": {
+            "form": "schedule-e",
+            "line": "28",
+            "column": "i"
+          }
+        },
+        {
+          "when": {
+            "answer": "k1-debt-financed-proceeds-use",
+            "is": "business_not_materially_participated"
+          },
+          "to": {
+            "form": "schedule-e",
+            "line": "28",
+            "column": "g"
+          }
+        }
+      ]
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Partner's Instructions for Schedule K-1 (Form 1065)",
+      "line": "Box 13, code AC",
+      "revision": "2025",
+      "wording": "If the proceeds were used in a trade or business activity, report the interest on Schedule E (Form 1040), line 28. In column (a), enter the name of the partnership and “interest expense.” If you materially participated in the trade or business activity, enter the interest expense in column (i). If you didn’t materially participate in the activity, follow the Instructions for Form 8582 to figure the interest expense you can report in column (g).",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf"
+    },
+    "open_point": "The material participation that decides (i) or (g) is in the activity the PROCEEDS were used in, which need not be the entity's own, so it is asked here rather than read from the entity's passive answer. Column (g) carries the figure as printed, before the Form 8582 limitation, which the tax software computes. The Schedule K-1 (Form 1120-S) instructions for box 12 code AC say the same, naming the corporation."
+  }
+}

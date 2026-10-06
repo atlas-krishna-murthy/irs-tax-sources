@@ -1,0 +1,2596 @@
+{
+  "computations": [
+    {
+      "id": "dependent-care-benefits-taxable",
+      "produces": {
+        "form": "form-2441",
+        "line": "26"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "1e"
+      },
+      "inputs": [
+        "W-2.10",
+        "k-1-1065.13.O"
+      ],
+      "per": "owner",
+      "why": "Form 2441 Part III works the taxable part of dependent care benefits (W-2 box 10, a partner's K-1 13 code O) against the qualified expenses, earned income and the $5,000 exclusion: a new figure carried to line 1e.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f2441--2025.pdf",
+        "wording": "Taxable benefits. Subtract line 25 from line 23. If zero or less, enter -0-. Also, enter this amount on Form 1040"
+      },
+      "traces": {
+        "catalogue": [
+          "CR-04",
+          "V6:k1-dependent-care-benefits"
+        ],
+        "findings": [
+          "F-404",
+          "F-402"
+        ]
+      }
+    },
+    {
+      "id": "pension-taxable-not-determined",
+      "produces": {
+        "form": "ws-simplified-method",
+        "line": "9"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "5b"
+      },
+      "inputs": [
+        "RRB-1099-R.3",
+        "1099-R.5",
+        "1099-R.9b",
+        "4852.8i",
+        "prior-year-1040.simplified method worksheet line 4",
+        "prior-year-1040.simplified method worksheet line 10"
+      ],
+      "per": "return",
+      "why": "Where the payer cannot state the taxable amount, the General Rule or the Simplified Method works it from the cost recovered: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+        "wording": "If your Form 1099-R doesn't show the taxable amount, you must use the General Rule explained in Pub. 939 to figure the taxable part to enter on line 5b."
+      },
+      "traces": {
+        "catalogue": [
+          "A-R-08"
+        ],
+        "findings": [
+          "F-012"
+        ]
+      }
+    },
+    {
+      "id": "social-security-taxable",
+      "produces": {
+        "form": "form-1040",
+        "line": "6b"
+      },
+      "inputs": [
+        "RRB-1099.7",
+        "RRB-1099.8",
+        "RRB-1099.9",
+        "SSA-1099.3-paid-for-earlier-years",
+        "SSA-1099.5",
+        "RRB-1099.5"
+      ],
+      "per": "return",
+      "why": "The Social Security Benefits Worksheet works the taxable part from the benefits, the other income and the filing status: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+        "wording": "Use the Social Security Benefits Worksheet in these instructions to see if any of your benefits are taxable."
+      },
+      "traces": {
+        "catalogue": [
+          "A-SS-02",
+          "A-SS-05"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "hsa-deduction",
+      "produces": {
+        "form": "form-8889",
+        "line": "13"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "10"
+      },
+      "inputs": [
+        "5498-SA.2",
+        "5498-SA.3",
+        "W-2.12.W",
+        "taxpayer-adjustment-records.hsa_hdhp_coverage",
+        "taxpayer-adjustment-records.hsa_contributions_made"
+      ],
+      "per": "owner",
+      "why": "Form 8889 Part I works the HSA deduction from the contributions made against the limit for the coverage months, less the employer's: a new figure. It is carried to Schedule 1 line 13 and so into line 10.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8889--2025.pdf",
+        "wording": "Include on line 2 only those amounts you, or others on your behalf, contributed to your HSA for 2025."
+      },
+      "traces": {
+        "catalogue": [
+          "S1-hsa-13"
+        ],
+        "findings": [
+          "F-066",
+          "F-405",
+          "F-398"
+        ]
+      }
+    },
+    {
+      "id": "standard-or-itemized-deduction",
+      "produces": {
+        "form": "form-1040",
+        "line": "12e"
+      },
+      "inputs": [],
+      "per": "return",
+      "why": "The larger of the standard deduction and Schedule A line 17, which depends on every Schedule A limitation and the filing status.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+        "wording": "In most cases, your federal income tax will be less if you take the larger of your standard deduction or itemized deductions."
+      },
+      "traces": {
+        "catalogue": [
+          "A-standard-vs-itemized"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "qualified-business-income-deduction",
+      "produces": {
+        "form": "form-1040",
+        "line": "13a"
+      },
+      "inputs": [
+        "1099-DIV.5",
+        "1099-PATR.6",
+        "1099-PATR.7",
+        "1099-PATR.8",
+        "1099-PATR.9",
+        "k-1-1065.20.Z",
+        "k-1-1120s.17.V",
+        "k-1-1041.14.I",
+        "prior-year-1040.form 8995 line 16",
+        "prior-year-1040.form 8995 line 17"
+      ],
+      "per": "return",
+      "why": "Form 8995 or 8995-A works the QBI deduction from qualified business income, REIT dividends and the taxable-income limit: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8995--2025.pdf",
+        "wording": "Qualified business income deduction. Enter the smaller of line 10 or line 14."
+      },
+      "traces": {
+        "catalogue": [
+          "V2:NEW-V2-17"
+        ],
+        "findings": [
+          "F-285"
+        ]
+      }
+    },
+    {
+      "id": "schedule-1a-deductions",
+      "produces": {
+        "form": "form-1040",
+        "line": "13b"
+      },
+      "inputs": [],
+      "per": "return",
+      "why": "Schedule 1-A line 38 totals the tips, overtime, car-loan interest and senior deductions, each worked on its own part.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1040s1a--2025.pdf",
+        "wording": "Add lines 13, 21, 30, and 37. Enter here and on Form 1040 or 1040-SR, line 13b"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": []
+      }
+    },
+    {
+      "id": "qualified-tips-deduction",
+      "produces": {
+        "form": "schedule-1a",
+        "line": "13"
+      },
+      "inputs": [
+        "W-2.7",
+        "4852.7d"
+      ],
+      "per": "owner",
+      "why": "Schedule 1-A Part II works the tips deduction against its cap and the MAGI phase-out.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1040s1a--2025.pdf",
+        "wording": "Qualified tips deduction. Subtract line 12 from line 7. If zero or less, enter -0-"
+      },
+      "traces": {
+        "catalogue": [
+          "1A-tips"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "qualified-overtime-deduction",
+      "produces": {
+        "form": "schedule-1a",
+        "line": "21"
+      },
+      "inputs": [
+        "W-2.14"
+      ],
+      "per": "owner",
+      "why": "Schedule 1-A Part III works the overtime deduction against its cap and the MAGI phase-out.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1040s1a--2025.pdf",
+        "wording": "Qualified overtime compensation deduction. Subtract line 20 from line 15. If zero or less, enter -0-"
+      },
+      "traces": {
+        "catalogue": [
+          "1A-overtime"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "car-loan-interest-deduction",
+      "produces": {
+        "form": "schedule-1a",
+        "line": "30"
+      },
+      "inputs": [
+        "lender-car-loan-statement.interest"
+      ],
+      "per": "return",
+      "why": "Schedule 1-A Part IV works the car-loan interest deduction from each vehicle's line 22 column (iii) - the lender's interest less what Schedule C, E or F deducted - against the $10,000 cap and the MAGI phase-out: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+        "wording": "On line 22, column (iii), enter the total amount of the QPVLI paid or accrued on the loan during the taxable year minus the amount on line 22, column (ii)."
+      },
+      "traces": {
+        "catalogue": [
+          "1A-car-loan"
+        ],
+        "findings": [
+          "F-222"
+        ]
+      }
+    },
+    {
+      "id": "excess-advance-premium-tax-credit",
+      "produces": {
+        "form": "schedule-2",
+        "line": "1a"
+      },
+      "inputs": [
+        "1095-A.33C",
+        "1095-A.21C",
+        "1095-A.22C",
+        "1095-A.23C",
+        "1095-A.24C",
+        "1095-A.25C",
+        "1095-A.26C",
+        "1095-A.27C",
+        "1095-A.28C",
+        "1095-A.29C",
+        "1095-A.30C",
+        "1095-A.31C",
+        "1095-A.32C"
+      ],
+      "per": "return",
+      "why": "Form 8962 reconciles the advance premium tax credit against the credit allowed: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1095a--2025.pdf",
+        "wording": "must still reconcile the entire advance payment that was paid on your behalf for that month using Form 8962"
+      },
+      "traces": {
+        "catalogue": [
+          "CR-09",
+          "V3:N-1095A-COLC"
+        ],
+        "findings": [
+          "F-228"
+        ]
+      }
+    },
+    {
+      "id": "self-employment-tax",
+      "produces": {
+        "form": "schedule-se",
+        "line": "12"
+      },
+      "reaches": {
+        "form": "schedule-2",
+        "line": "4"
+      },
+      "inputs": [
+        "k-1-1065.14.A",
+        "W-2.3",
+        "W-2.7",
+        "4852.7b",
+        "k-1-1065.20.AQ",
+        "k-1-1065.14.C"
+      ],
+      "per": "owner",
+      "why": "Schedule SE works the tax from net earnings from self-employment, with the social security part limited by the wages already taxed (line 8a, W-2 boxes 3 and 7): a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1040sse--2025.pdf",
+        "wording": "Self-employment tax. Add lines 10 and 11. Enter here and on Schedule 2 (Form 1040), line 4"
+      },
+      "traces": {
+        "catalogue": [
+          "V5:V5-N05"
+        ],
+        "findings": [
+          "F-041"
+        ]
+      }
+    },
+    {
+      "id": "additional-medicare-tax",
+      "produces": {
+        "form": "form-8959",
+        "line": "18"
+      },
+      "reaches": {
+        "form": "schedule-2",
+        "line": "11"
+      },
+      "inputs": [
+        "W-2.5",
+        "4852.7c"
+      ],
+      "per": "owner",
+      "why": "Form 8959 Parts I-III work the 0.9% Additional Medicare Tax on Medicare wages (W-2 box 5), self-employment income and RRTA compensation above the filing-status threshold: a new figure carried to Schedule 2 line 11.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8959--2025.pdf",
+        "wording": "Add lines 7, 13, and 17. Also include this amount on Schedule 2 (Form 1040), line 11"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-040",
+          "F-041"
+        ]
+      }
+    },
+    {
+      "id": "net-investment-income-tax",
+      "produces": {
+        "form": "schedule-2",
+        "line": "12"
+      },
+      "inputs": [
+        "k-1-1041.14.H",
+        "k-1-1065.20.Y",
+        "k-1-1120s.17.U",
+        "1099-R.7"
+      ],
+      "per": "return",
+      "why": "Form 8960 works the tax from net investment income and MAGI over the threshold: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf",
+        "wording": "follow the Instructions for Form 8960 to figure and report your NII and AGI or MAGI"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-403"
+        ]
+      }
+    },
+    {
+      "id": "foreign-tax-credit",
+      "produces": {
+        "form": "schedule-3",
+        "line": "1"
+      },
+      "inputs": [
+        "K-3-1065.part-iii-section-4-line-1-total"
+      ],
+      "per": "return",
+      "why": "Form 1116 (or the election to claim without it) works the credit from the foreign tax paid and the limitation: a new figure."
+    },
+    {
+      "id": "education-credits",
+      "produces": {
+        "form": "schedule-3",
+        "line": "3"
+      },
+      "inputs": [
+        "1098-T.1",
+        "1098-T.5",
+        "1098-T.7",
+        "1098-T.8",
+        "1098-T.9",
+        "1098-T.10"
+      ],
+      "per": "return",
+      "why": "Form 8863 works the American opportunity and lifetime learning credits from qualified expenses less scholarships: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8863--2025.pdf",
+        "wording": "Nonrefundable education credits. Enter the amount from line 7 of the Credit Limit Worksheet (see instructions) here and on Schedule 3 (Form 1040), line 3"
+      },
+      "traces": {
+        "catalogue": [
+          "CR-06"
+        ],
+        "findings": [
+          "F-199",
+          "F-201"
+        ]
+      }
+    },
+    {
+      "id": "net-premium-tax-credit",
+      "produces": {
+        "form": "schedule-3",
+        "line": "9"
+      },
+      "inputs": [
+        "1095-A.33A",
+        "1095-A.33B",
+        "W-2.12.FF"
+      ],
+      "per": "return",
+      "why": "Form 8962 works the net premium tax credit from the premiums, the second-lowest-cost silver plan and household income: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8962--2025.pdf",
+        "wording": "Net PTC. If line 24 is greater than line 25, subtract line 25 from line 24. Enter the difference here and on Schedule 3 (Form 1040), line 9."
+      },
+      "traces": {
+        "catalogue": [
+          "CR-09",
+          "E-MED-04"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "excess-social-security-withheld",
+      "produces": {
+        "form": "schedule-3",
+        "line": "11"
+      },
+      "inputs": [
+        "W-2.4",
+        "4852.7h",
+        "W-2.3",
+        "4852.7b"
+      ],
+      "per": "owner",
+      "why": "The excess is the sum of box 4 across one person's employers less the per-person maximum: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+        "wording": "You can take a credit on this line for the amount withheld in excess of $10,918.20."
+      },
+      "traces": {
+        "catalogue": [
+          "PAY-05"
+        ],
+        "findings": [
+          "F-041"
+        ]
+      }
+    },
+    {
+      "id": "additional-medicare-tax-withheld",
+      "produces": {
+        "form": "form-8959",
+        "line": "24"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "25c"
+      },
+      "inputs": [
+        "W-2.6",
+        "W-2.5",
+        "W-2.12.B",
+        "W-2.12.N",
+        "4852.7i",
+        "4852.7c"
+      ],
+      "per": "owner",
+      "why": "Form 8959 Part V works the Additional Medicare Tax withheld as box 6 (plus box 12 codes B and N) less 1.45% of box 5 Medicare wages: a new figure, a PAYMENT carried to line 25c, never a tax.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8959--2025.pdf",
+        "wording": "Total Additional Medicare Tax withholding. Add lines 22 and 23. Also include this amount with federal income tax withholding on Form 1040, 1040-SR, or 1040-NR, line 25c"
+      },
+      "traces": {
+        "catalogue": [
+          "PAY-04"
+        ],
+        "findings": [
+          "F-040",
+          "F-401"
+        ]
+      }
+    },
+    {
+      "id": "deductible-part-of-self-employment-tax",
+      "produces": {
+        "form": "schedule-se",
+        "line": "13"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "10"
+      },
+      "inputs": [
+        "schedule-se.12"
+      ],
+      "per": "owner",
+      "why": "Half of the self-employment tax Schedule SE works out, carried to Schedule 1 line 15 and so into line 10: a new figure derived from another computation.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+        "wording": "The deductible part of your self-employment tax is on line 13 of Schedule SE."
+      },
+      "traces": {
+        "catalogue": [
+          "S1-half-se-tax-15"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "ira-deduction",
+      "produces": {
+        "form": "schedule-1",
+        "line": "20"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "10"
+      },
+      "inputs": [
+        "5498.1",
+        "5498.6",
+        "W-2.13-retirement-plan",
+        "taxpayer-adjustment-records.deductible_ira_contribution"
+      ],
+      "per": "owner",
+      "why": "The IRA Deduction Worksheet works the deductible part of traditional IRA contributions against the contribution limit, the workplace-plan coverage (W-2 box 13) and the MAGI phase-out: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+        "wording": "Use the IRA Deduction Worksheet to figure the amount, if any, of your IRA deduction."
+      },
+      "traces": {
+        "catalogue": [
+          "S1-ira-20",
+          "A-W2-08"
+        ],
+        "findings": [
+          "F-064",
+          "F-399"
+        ]
+      }
+    },
+    {
+      "id": "self-employed-retirement-plan-deduction",
+      "produces": {
+        "form": "schedule-1",
+        "line": "16"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "10"
+      },
+      "inputs": [
+        "taxpayer-adjustment-records.self_employed_sep_simple_and_qualified_plan_contributions"
+      ],
+      "per": "owner",
+      "why": "The deduction for the owner's own SEP, SIMPLE or qualified-plan contributions is limited by net earnings after the deductible part of SE tax (Pub. 560): a new figure, never the contribution itself.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+        "wording": "If you were self-employed or a partner, you may be able to take this"
+      },
+      "traces": {
+        "catalogue": [
+          "S1-sep-simple-16"
+        ],
+        "findings": [
+          "F-399"
+        ]
+      }
+    },
+    {
+      "id": "self-employed-health-insurance-deduction",
+      "produces": {
+        "form": "schedule-1",
+        "line": "17"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "10"
+      },
+      "inputs": [
+        "taxpayer-adjustment-records.self_employed_health_insurance_premiums"
+      ],
+      "per": "owner",
+      "why": "The Self-Employed Health Insurance Deduction Worksheet (or Form 7206) limits the premiums to the business's net profit less Schedule 1 lines 15 and 16; what is deducted here is then kept off Schedule A: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+        "wording": "Self-employed health insurance deduction. Enter the smaller of line 1 or line 2 here and on Schedule 1, line 17."
+      },
+      "traces": {
+        "catalogue": [
+          "S1-se-health-17",
+          "A-med-se-health-offset"
+        ],
+        "findings": [
+          "F-399"
+        ]
+      }
+    },
+    {
+      "id": "archer-msa-deduction",
+      "produces": {
+        "form": "form-8853",
+        "line": "5"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "10"
+      },
+      "inputs": [
+        "5498-SA.1",
+        "W-2.12.R"
+      ],
+      "per": "owner",
+      "why": "Form 8853 Part I works the Archer MSA deduction as the smallest of the contributions, the coverage limitation and the compensation: a new figure carried to Schedule 1 line 23.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8853--2025.pdf",
+        "wording": "Archer MSA deduction. Enter the smallest of line 2, 3, or 4 here. Also include this amount on Schedule 1 (Form 1040), line 23"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-066"
+        ]
+      }
+    },
+    {
+      "id": "early-distribution-additional-tax",
+      "produces": {
+        "form": "form-5329",
+        "line": "4"
+      },
+      "reaches": {
+        "form": "schedule-2",
+        "line": "8"
+      },
+      "inputs": [
+        "1099-R.7",
+        "1099-R.10"
+      ],
+      "per": "owner",
+      "why": "Form 5329 Part I works the 10% additional tax (25% for code S) on early distributions includible in income, less those an exception covers; box 7 codes 1, J and S and the box 10 in-plan Roth rollover amount are its inputs: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f5329--2025.pdf",
+        "wording": "Additional tax. Enter 10% (0.10) of line 3. Include this amount on Schedule 2 (Form 1040), line 8"
+      },
+      "traces": {
+        "catalogue": [
+          "A-R-21"
+        ],
+        "findings": [
+          "F-013",
+          "F-296"
+        ]
+      }
+    },
+    {
+      "id": "excess-ira-contributions-tax",
+      "produces": {
+        "form": "form-5329",
+        "line": "17"
+      },
+      "reaches": {
+        "form": "schedule-2",
+        "line": "8"
+      },
+      "inputs": [
+        "5498.1",
+        "5498.5",
+        "form-5329.9",
+        "prior-year-1040.form 5329 line 16"
+      ],
+      "per": "owner",
+      "why": "Form 5329 Part III works the 6% excise on excess traditional IRA contributions, capped by the year-end value of the IRAs (Form 5498 box 5): a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f5329--2025.pdf",
+        "wording": "Additional tax. Enter 6% (0.06) of the smaller of line 16 or the value of your traditional IRAs on December 31"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-064"
+        ]
+      }
+    },
+    {
+      "id": "excess-roth-ira-contributions-tax",
+      "produces": {
+        "form": "form-5329",
+        "line": "25"
+      },
+      "reaches": {
+        "form": "schedule-2",
+        "line": "8"
+      },
+      "inputs": [
+        "5498.10",
+        "5498.5",
+        "form-5329.18",
+        "prior-year-1040.form 5329 line 24"
+      ],
+      "per": "owner",
+      "why": "Form 5329 Part IV works the 6% excise on excess Roth IRA contributions (Form 5498 box 10), capped by the year-end value of the Roth IRAs: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f5329--2025.pdf",
+        "wording": "Additional tax. Enter 6% (0.06) of the smaller of line 24 or the value of your Roth IRAs on December 31, 2025"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-064"
+        ]
+      }
+    },
+    {
+      "id": "excess-hsa-contributions-tax",
+      "produces": {
+        "form": "form-5329",
+        "line": "49"
+      },
+      "reaches": {
+        "form": "schedule-2",
+        "line": "8"
+      },
+      "inputs": [
+        "5498-SA.2",
+        "5498-SA.5",
+        "form-5329.42",
+        "prior-year-1040.form 5329 line 48"
+      ],
+      "per": "owner",
+      "why": "Form 5329 Part VII works the 6% excise on excess HSA contributions, capped by the year-end value of the HSAs (Form 5498-SA box 5): a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f5329--2025.pdf",
+        "wording": "Additional tax. Enter 6% (0.06) of the smaller of line 48 or the value of your HSAs on December 31, 2025"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-066"
+        ]
+      }
+    },
+    {
+      "id": "rmd-shortfall-excise",
+      "produces": {
+        "form": "form-5329",
+        "line": "55"
+      },
+      "reaches": {
+        "form": "schedule-2",
+        "line": "8"
+      },
+      "inputs": [
+        "form-5329.52a",
+        "form-5329.52b",
+        "form-5329.53a",
+        "form-5329.53b"
+      ],
+      "per": "owner",
+      "why": "Form 5329 Part IX works the excise on a required minimum distribution not taken \u2014 10% or 25% of the shortfall: a new figure from the required and the distributed amounts.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f5329--2025.pdf",
+        "wording": "Subtract line 53b from line 52b and multiply the result by 25% (0.25). If zero or less, enter -0-"
+      },
+      "traces": {
+        "catalogue": [
+          "V6:rmd-shortfall-excise"
+        ],
+        "findings": [
+          "F-418"
+        ]
+      }
+    },
+    {
+      "id": "traditional-ira-distribution-taxable",
+      "produces": {
+        "form": "form-8606",
+        "line": "15c"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "4b"
+      },
+      "inputs": [
+        "1099-R.7",
+        "5498.5",
+        "taxpayer-adjustment-records.nondeductible_ira_contributions",
+        "prior-year-1040.form 8606 line 14"
+      ],
+      "per": "owner",
+      "why": "Form 8606 Part I works the nontaxable part of traditional IRA distributions from the basis (nondeductible contributions) over the year-end value plus distributions and conversions: a new figure for line 4b.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8606--2025.pdf",
+        "wording": "Enter the value of all your traditional IRAs as of December 31, 2025"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-296",
+          "F-399",
+          "F-064"
+        ]
+      }
+    },
+    {
+      "id": "roth-conversion-taxable",
+      "produces": {
+        "form": "form-8606",
+        "line": "18"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "4b"
+      },
+      "inputs": [
+        "1099-R.7",
+        "5498.3"
+      ],
+      "per": "owner",
+      "why": "Form 8606 Part II works the taxable part of a conversion to a Roth IRA as the amount converted less its basis: a new figure for line 4b.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8606--2025.pdf",
+        "wording": "Taxable amount. Subtract line 17 from line 16. If more than zero, also include this amount on 2025 Form 1040"
+      },
+      "traces": {
+        "catalogue": [
+          "A-R-17"
+        ],
+        "findings": [
+          "F-296"
+        ]
+      }
+    },
+    {
+      "id": "roth-ira-distribution-taxable",
+      "produces": {
+        "form": "form-8606",
+        "line": "25c"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "4b"
+      },
+      "inputs": [
+        "1099-R.7",
+        "prior-year-1040.form 8606 line 22",
+        "prior-year-1040.form 8606 line 24"
+      ],
+      "per": "owner",
+      "why": "Form 8606 Part III works the taxable part of a nonqualified Roth IRA distribution (box 7 code J) from the contribution and conversion basis: a new figure for line 4b.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1099r--2025.pdf",
+        "wording": "You must compute any taxable amount on Form 8606."
+      },
+      "traces": {
+        "catalogue": [
+          "A-R-14"
+        ],
+        "findings": [
+          "F-296"
+        ]
+      }
+    },
+    {
+      "id": "hsa-taxable-distributions",
+      "produces": {
+        "form": "form-8889",
+        "line": "16"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "8"
+      },
+      "inputs": [
+        "taxpayer-adjustment-records.hsa_qualified_medical_expenses_paid"
+      ],
+      "per": "owner",
+      "why": "Form 8889 Part II works the taxable HSA distributions as the distributions less rollovers and the qualified medical expenses they paid: a new figure carried to Schedule 1 line 8f.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8889--2025.pdf",
+        "wording": "Subtract line 15 from line 14c. If zero or less, enter -0-."
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-398"
+        ]
+      }
+    },
+    {
+      "id": "hsa-distribution-additional-tax",
+      "produces": {
+        "form": "form-8889",
+        "line": "17b"
+      },
+      "reaches": {
+        "form": "schedule-2",
+        "line": "17c"
+      },
+      "inputs": [
+        "1099-SA.3",
+        "form-8889.16"
+      ],
+      "per": "owner",
+      "why": "Form 8889 line 17b works the 20% additional tax on taxable HSA distributions not excepted by death, disability or age 65 (1099-SA box 3 codes 3, 4 and 6): a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8889--2025.pdf",
+        "wording": "Additional 20% tax (see instructions). Enter 20% (0.20) of the distributions included on line 16 that are subject to the additional 20% tax."
+      },
+      "traces": {
+        "catalogue": [
+          "A-SA-03"
+        ],
+        "findings": [
+          "F-299",
+          "F-397"
+        ]
+      }
+    },
+    {
+      "id": "hsa-testing-period-income",
+      "produces": {
+        "form": "form-8889",
+        "line": "20"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "8"
+      },
+      "inputs": [
+        "form-8889.18",
+        "form-8889.19"
+      ],
+      "per": "owner",
+      "why": "Form 8889 Part III works the income from failing the testing period (last-month rule and qualified HSA funding distributions): a new figure carried to Schedule 1 line 8f.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8889--2025.pdf",
+        "wording": "Enter on line 18 the excess of the amount contributed over the redetermined amount."
+      },
+      "traces": {
+        "catalogue": [
+          "V6:hsa-testing-period"
+        ],
+        "findings": [
+          "F-417"
+        ]
+      }
+    },
+    {
+      "id": "hsa-testing-period-additional-tax",
+      "produces": {
+        "form": "form-8889",
+        "line": "21"
+      },
+      "reaches": {
+        "form": "schedule-2",
+        "line": "17d"
+      },
+      "inputs": [
+        "form-8889.20"
+      ],
+      "per": "owner",
+      "why": "Form 8889 line 21 works the 10% additional tax on the testing-period income: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8889--2025.pdf",
+        "wording": "Additional tax. Multiply line 20 by 10% (0.10). Include this amount in the total on Schedule 2"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-417"
+        ]
+      }
+    },
+    {
+      "id": "unreported-tips-tax",
+      "produces": {
+        "form": "form-4137",
+        "line": "13"
+      },
+      "reaches": {
+        "form": "schedule-2",
+        "line": "5"
+      },
+      "inputs": [
+        "W-2.8"
+      ],
+      "per": "owner",
+      "why": "Form 4137 works social security and Medicare tax on tips not reported to the employer (allocated tips in W-2 box 8 included): a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+        "wording": "If you received tips of $20 or more in any month and you didn\u2019t report the full amount to your employer, you must pay the social security and Medicare or railroad retirement (RRTA) tax on the unreported tips."
+      },
+      "traces": {
+        "catalogue": [
+          "V5:V5-N04"
+        ],
+        "findings": [
+          "F-300"
+        ]
+      }
+    },
+    {
+      "id": "ltc-taxable-payments",
+      "produces": {
+        "form": "form-8853",
+        "line": "26"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "8"
+      },
+      "inputs": [
+        "1099-LTC.1",
+        "1099-LTC.2"
+      ],
+      "per": "owner",
+      "why": "Form 8853 Section C works the taxable part of per diem long-term care and accelerated death benefits over the per diem limitation: a new figure carried to Schedule 1 line 8e.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i8853--2025.pdf",
+        "wording": "$420 is the 2025 per diem limit for periodic payments received under a qualified LTC insurance contract."
+      },
+      "traces": {
+        "catalogue": [
+          "A-LTC-02"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "retirement-savings-contributions-credit",
+      "produces": {
+        "form": "form-8880",
+        "line": "12"
+      },
+      "reaches": {
+        "form": "schedule-3",
+        "line": "4"
+      },
+      "inputs": [
+        "5498-QA.1",
+        "5498.10"
+      ],
+      "per": "owner",
+      "why": "Form 8880 works the saver's credit from IRA, ABLE (by the designated beneficiary) and plan contributions less distributions, at an AGI-based rate, limited by tax: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8880--2025.pdf",
+        "wording": "Traditional and Roth IRA contributions, and ABLE account contributions by the designated beneficiary"
+      },
+      "traces": {
+        "catalogue": [
+          "V1:NEW-R7"
+        ],
+        "findings": [
+          "F-070"
+        ]
+      }
+    },
+    {
+      "id": "child-and-dependent-care-credit",
+      "produces": {
+        "form": "form-2441",
+        "line": "11"
+      },
+      "reaches": {
+        "form": "schedule-3",
+        "line": "2"
+      },
+      "inputs": [
+        "form-2441.1",
+        "form-2441.2"
+      ],
+      "per": "return",
+      "why": "Form 2441 Part II works the credit from the care expenses paid to the providers (Part I) for the qualifying persons (line 2), limited by earned income and reduced by excluded benefits: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f2441--2025.pdf",
+        "wording": "Credit for child and dependent care expenses. Enter the smaller of line 9c or line 10 here and on Schedule 3"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-400"
+        ]
+      }
+    },
+    {
+      "id": "additional-child-tax-credit",
+      "produces": {
+        "form": "schedule-8812",
+        "line": "27"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "28"
+      },
+      "inputs": [
+        "W-2.4",
+        "W-2.6",
+        "W-2.12.Q"
+      ],
+      "per": "return",
+      "why": "Schedule 8812 Part II works the refundable additional child tax credit from earned income (nontaxable combat pay, W-2 box 12 code Q, by election) or the withheld social security and Medicare taxes (W-2 boxes 4 and 6): a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1040s8--2025.pdf",
+        "wording": "Withheld social security, Medicare, and Additional Medicare taxes from Form(s) W-2, boxes 4 and 6."
+      },
+      "traces": {
+        "catalogue": [
+          "V5:V5-N07"
+        ],
+        "findings": [
+          "F-341"
+        ]
+      }
+    },
+    {
+      "id": "lump-sum-distribution-tax",
+      "produces": {
+        "form": "form-4972",
+        "line": "30"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "16"
+      },
+      "inputs": [
+        "1099-R.2a",
+        "1099-R.3",
+        "1099-R.6",
+        "1099-R.8",
+        "1099-R.9a"
+      ],
+      "per": "owner",
+      "why": "Form 4972 works a separate tax on a qualified lump-sum distribution to a participant born before January 2, 1936 \u2014 the 20% capital gain election on box 3 and the 10-year option on the rest: a new figure added to line 16.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f4972--2025.pdf",
+        "wording": "Tax on lump-sum distribution. Add lines 7 and 29."
+      },
+      "traces": {
+        "catalogue": [
+          "A-R-20"
+        ],
+        "findings": [
+          "F-427"
+        ]
+      }
+    },
+    {
+      "id": "estimated-tax-penalty",
+      "produces": {
+        "form": "form-2210",
+        "line": "19"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "38"
+      },
+      "inputs": [
+        "1040-ES.voucher",
+        "form-2210.6",
+        "form-2210.8"
+      ],
+      "per": "return",
+      "why": "Form 2210 works the underpayment penalty from the required installments (the smaller of 90% of this year's tax and the prior-year safe harbor) against the estimated payments by due date and the withholding: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f2210--2025.pdf",
+        "wording": "Include this amount on Form 1040, 1040-SR, or 1040-NR, line 38"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-422"
+        ]
+      }
+    },
+    {
+      "id": "employee-business-expenses",
+      "produces": {
+        "form": "form-2106",
+        "line": "10"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "10"
+      },
+      "inputs": [
+        "W-2.12.L",
+        "form-2106.6"
+      ],
+      "per": "owner",
+      "why": "Form 2106 works the deductible business expenses of reservists, qualified performing artists, fee-basis officials and impairment-related work as expenses less employer reimbursements (W-2 box 12 code L): a new figure carried to Schedule 1 line 12.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f2106--2025.pdf",
+        "wording": "Also, enter the total on Schedule 1 (Form 1040), line 12."
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-421"
+        ]
+      }
+    },
+    {
+      "id": "alternative-minimum-tax",
+      "produces": {
+        "form": "form-6251",
+        "line": "11"
+      },
+      "reaches": {
+        "form": "schedule-2",
+        "line": "2"
+      },
+      "inputs": [
+        "1099-DIV.13",
+        "1099-INT.9",
+        "3921.3",
+        "3921.4",
+        "3921.5",
+        "k-1-1065.17.A",
+        "k-1-1065.17.B",
+        "k-1-1065.17.C",
+        "k-1-1065.17.D",
+        "k-1-1065.17.E",
+        "k-1-1065.17.F",
+        "k-1-1120s.15.A",
+        "k-1-1120s.15.B",
+        "k-1-1120s.15.C",
+        "k-1-1120s.15.D",
+        "k-1-1120s.15.E",
+        "k-1-1120s.15.F",
+        "k-1-1041.12.A",
+        "k-1-1041.12.B",
+        "k-1-1041.12.C",
+        "k-1-1041.12.D",
+        "k-1-1041.12.E",
+        "k-1-1041.12.F",
+        "k-1-1041.12.G",
+        "k-1-1041.12.H",
+        "k-1-1041.12.I"
+      ],
+      "per": "return",
+      "why": "Form 6251 refigures taxable income with the AMT adjustments and preferences (private activity bond interest, the ISO spread, the pass-through AMT items), applies the exemption and the AMT rates, and subtracts the regular tax: a new figure, carried to Schedule 2 line 2.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f6251--2025.pdf",
+        "wording": "AMT. Subtract line 10 from line 9. If zero or less, enter -0-. Enter here and on Schedule 2 (Form 1040), line 2"
+      },
+      "traces": {
+        "catalogue": [
+          "V3:N-3921-AMT"
+        ],
+        "findings": [
+          "F-156",
+          "F-179",
+          "F-281",
+          "F-282"
+        ]
+      }
+    },
+    {
+      "id": "stock-option-disposition-ordinary-income",
+      "produces": {
+        "form": "schedule-1",
+        "line": "8k"
+      },
+      "inputs": [
+        "3921.3",
+        "3921.4",
+        "3921.5",
+        "3922.3",
+        "3922.4",
+        "3922.5",
+        "3922.6",
+        "3922.8"
+      ],
+      "per": "owner",
+      "why": "A disqualifying disposition of ISO stock, or any disposition of ESPP stock, makes part of the gain ordinary compensation \u2014 the spread (or, for ESPP, the lesser of the grant-date discount and the gain) times the shares, worked from the per-share prices on Forms 3921/3922 and the sale: a new figure. Where the employer has not included it in Form W-2 box 1 it is reported on Schedule 1 line 8k.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/p525--2025.pdf",
+        "wording": "you must report the ordinary income as wages on Schedule 1 (Form 1040), line 8k"
+      },
+      "traces": {
+        "catalogue": [
+          "V3:N-3922-ESPP"
+        ],
+        "findings": [
+          "F-180",
+          "F-182"
+        ]
+      }
+    },
+    {
+      "id": "investment-interest-deduction",
+      "produces": {
+        "form": "form-4952",
+        "line": "8"
+      },
+      "reaches": {
+        "form": "schedule-a",
+        "line": "9"
+      },
+      "inputs": [
+        "taxpayer-mortgage-and-interest-records.investment_interest_paid",
+        "k-1-1065.13.H",
+        "k-1-1065.20.A",
+        "k-1-1065.20.B",
+        "k-1-1120s.12.H",
+        "k-1-1120s.17.A",
+        "k-1-1120s.17.B",
+        "k-1-1041.14.E",
+        "form-4952.2",
+        "prior-year-1040.form 4952 line 7"
+      ],
+      "per": "return",
+      "why": "Form 4952 limits the investment interest deduction to net investment income (investment income less investment expenses, with the qualified-dividend and capital-gain election) and carries the rest forward: a new figure, carried to Schedule A line 9.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f4952--2025.pdf",
+        "wording": "Investment interest expense deduction. Enter the smaller of line 3 or line 6."
+      },
+      "traces": {
+        "catalogue": [
+          "A-investment-interest"
+        ],
+        "findings": [
+          "F-253",
+          "F-373",
+          "F-374"
+        ]
+      }
+    },
+    {
+      "id": "unrecaptured-section-1250-gain",
+      "produces": {
+        "form": "ws-unrecaptured-1250",
+        "line": "18"
+      },
+      "reaches": {
+        "form": "schedule-d",
+        "line": "19"
+      },
+      "inputs": [
+        "1099-DIV.2b",
+        "2439.1b",
+        "k-1-1065.9c",
+        "k-1-1120s.8c",
+        "k-1-1041.4c"
+      ],
+      "per": "return",
+      "why": "The Unrecaptured Section 1250 Gain Worksheet isolates the part of long-term gain attributable to depreciation on section 1250 property (from the reported memo amounts, Form 4797 and installment sales, less losses) so it is taxed at up to 25%: a new figure for Schedule D line 19.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sd--2025.pdf",
+        "wording": "enter the result here and on Schedule D, line 19"
+      },
+      "traces": {
+        "catalogue": [
+          "CAP-09"
+        ],
+        "findings": [
+          "F-133",
+          "F-264"
+        ]
+      }
+    },
+    {
+      "id": "collectibles-28-percent-rate-gain",
+      "produces": {
+        "form": "ws-28-rate-gain",
+        "line": "7"
+      },
+      "reaches": {
+        "form": "schedule-d",
+        "line": "18"
+      },
+      "inputs": [
+        "1099-DIV.2d",
+        "2439.1d",
+        "k-1-1065.9b",
+        "k-1-1120s.8b",
+        "k-1-1041.4b"
+      ],
+      "per": "return",
+      "why": "The 28% Rate Gain Worksheet combines collectibles gain, the section 1202 exclusion and the loss carryovers into the gain taxed at 28%: a new figure for Schedule D line 18.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sd--2025.pdf",
+        "wording": "Combine lines 1 through 6. If zero or less, enter -0-. If more than zero, also enter this amount on Schedule D, line 18"
+      },
+      "traces": {
+        "catalogue": [
+          "CAP-09"
+        ],
+        "findings": [
+          "F-133",
+          "F-264"
+        ]
+      }
+    },
+    {
+      "id": "short-term-capital-loss-carryover",
+      "produces": {
+        "form": "ws-capital-loss-carryover",
+        "line": "8"
+      },
+      "reaches": {
+        "form": "schedule-d",
+        "line": "6"
+      },
+      "inputs": [
+        "prior-year-1040.1040 line 15",
+        "prior-year-1040.schedule d line 7",
+        "prior-year-1040.schedule d line 15",
+        "prior-year-1040.schedule d line 21",
+        "prior-year-1040.schedule d line 16"
+      ],
+      "per": "return",
+      "why": "The Capital Loss Carryover Worksheet works the short-term carryover from last year's taxable income and Schedule D lines 7, 15 and 21: a new figure for Schedule D line 6. Nothing from last year is placed on this year's lines.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sd--2025.pdf",
+        "wording": "Short-term capital loss carryover for 2025. Subtract line 7 from line 5."
+      },
+      "traces": {
+        "catalogue": [
+          "PY-01"
+        ],
+        "findings": [
+          "F-293"
+        ]
+      }
+    },
+    {
+      "id": "long-term-capital-loss-carryover",
+      "produces": {
+        "form": "ws-capital-loss-carryover",
+        "line": "13"
+      },
+      "reaches": {
+        "form": "schedule-d",
+        "line": "14"
+      },
+      "inputs": [
+        "prior-year-1040.1040 line 15",
+        "prior-year-1040.schedule d line 7",
+        "prior-year-1040.schedule d line 15",
+        "prior-year-1040.schedule d line 21",
+        "prior-year-1040.schedule d line 16"
+      ],
+      "per": "return",
+      "why": "The Capital Loss Carryover Worksheet works the long-term carryover from last year's taxable income and Schedule D lines 7, 15 and 21: a new figure for Schedule D line 14. Nothing from last year is placed on this year's lines.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sd--2025.pdf",
+        "wording": "Long-term capital loss carryover for 2025. Subtract line 12 from line 9."
+      },
+      "traces": {
+        "catalogue": [
+          "PY-01"
+        ],
+        "findings": [
+          "F-293"
+        ]
+      }
+    },
+    {
+      "id": "passive-activity-loss-limitation",
+      "produces": {
+        "form": "form-8582",
+        "line": "11"
+      },
+      "reaches": {
+        "form": "schedule-e",
+        "line": "22"
+      },
+      "inputs": [
+        "form-8582.1a",
+        "form-8582.1b",
+        "form-8582.1c",
+        "form-8582.2a",
+        "form-8582.2b",
+        "form-8582.2c",
+        "prior-year-1040.form 8582 part vii column (c)"
+      ],
+      "per": "return",
+      "why": "Form 8582 allows passive losses only against passive income, plus the $25,000 special allowance for active-participation rental real estate phased out by MAGI, and allocates the unallowed loss to each activity: a new figure, carried to Schedule E (line 22 for rentals, column (g) of line 28 for K-1s).",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040se--2025.pdf",
+        "wording": "You can deduct losses from passive activities in most cases only to the extent of"
+      },
+      "traces": {
+        "catalogue": [
+          "lim-passive",
+          "pal-special-allowance-phaseout",
+          "PY-02"
+        ],
+        "findings": [
+          "F-377"
+        ]
+      }
+    },
+    {
+      "id": "at-risk-loss-limitation",
+      "produces": {
+        "form": "form-6198",
+        "line": "21"
+      },
+      "reaches": {
+        "form": "schedule-e",
+        "line": "28"
+      },
+      "inputs": [
+        "form-6198.5",
+        "form-6198.10b",
+        "form-6198.15",
+        "form-6198.19b",
+        "form-6198.20",
+        "k-1-1065.K1-qualified-nonrecourse-ending",
+        "k-1-1065.K1-recourse-ending",
+        "prior-year-1040.form 6198 line 19b"
+      ],
+      "per": "activity",
+      "why": "Form 6198 limits an activity's loss to the amount at risk (simplified or detailed computation), and a negative amount at risk recaptures prior losses as income: a new figure per activity, reported on the schedule the loss came from (Schedule E line 28 for a K-1, Schedule C line 32 for a business).",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040se--2025.pdf",
+        "wording": "In most cases, you must complete Form 6198 to figure your loss if you have"
+      },
+      "traces": {
+        "catalogue": [
+          "lim-at-risk",
+          "V6:NEW-4",
+          "PY-10"
+        ],
+        "findings": [
+          "F-378",
+          "F-389"
+        ]
+      }
+    },
+    {
+      "id": "s-corporation-basis-loss-limitation",
+      "produces": {
+        "form": "form-7203",
+        "line": "47"
+      },
+      "reaches": {
+        "form": "schedule-e",
+        "line": "28"
+      },
+      "inputs": [
+        "shareholder-basis-records.stock_basis",
+        "shareholder-basis-records.debt_basis",
+        "shareholder-basis-records.suspended_basis_loss",
+        "k-1-1120s.16.D",
+        "form-7203.1",
+        "form-7203.5",
+        "form-7203.6",
+        "form-7203.21",
+        "k-1-1120s.I-beginning",
+        "k-1-1120s.I-ending",
+        "prior-year-1040.form 7203 part iii column (e)"
+      ],
+      "per": "activity",
+      "why": "Form 7203 adjusts stock and debt basis for the year's items and distributions and allows losses and deductions only to the extent of basis (columns (c) and (d) of line 47), the rest carried forward by category; a distribution above stock basis (line 6 over line 5) is capital gain. Each is a new figure, the first limitation before at-risk and passive.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-pdf/f7203.pdf",
+        "wording": "If line 6 is larger than line 5, subtract line 5 from line 6 and report the result as a capital gain on Form 8949 and Schedule D."
+      },
+      "traces": {
+        "catalogue": [
+          "lim-basis",
+          "E-BAS-01",
+          "V6:NEW-5"
+        ],
+        "findings": [
+          "F-383",
+          "F-386",
+          "F-387"
+        ]
+      }
+    },
+    {
+      "id": "s-corporation-loan-repayment-gain",
+      "produces": {
+        "form": "form-7203",
+        "line": "34"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "7a"
+      },
+      "inputs": [
+        "k-1-1120s.16.E",
+        "form-7203.19",
+        "form-7203.21",
+        "form-7203.26"
+      ],
+      "per": "activity",
+      "why": "A repayment of a shareholder loan whose basis was reduced by losses is part return of basis and part gain (Form 7203 Part II, line 34): capital gain on Form 8949/Schedule D for a formal note, ordinary gain on Form 4797 for open-account debt.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-pdf/i7203.pdf",
+        "wording": "Debt evidenced by a formal note will result in capital gain, and should be reported on Form 8949 and Schedule D."
+      },
+      "traces": {
+        "catalogue": [
+          "V6:NEW-6"
+        ],
+        "findings": [
+          "F-263",
+          "F-384"
+        ]
+      }
+    },
+    {
+      "id": "personal-casualty-loss",
+      "produces": {
+        "form": "form-4684",
+        "line": "18"
+      },
+      "reaches": {
+        "form": "schedule-a",
+        "line": "15"
+      },
+      "inputs": [
+        "form-4684.disaster",
+        "form-4684.2",
+        "form-4684.3",
+        "form-4684.5",
+        "form-4684.6",
+        "form-4684.11",
+        "form-4684.17"
+      ],
+      "per": "return",
+      "why": "Form 4684 Section A works a personal-use casualty loss per property (the smaller of basis or the fall in value, less insurance), less $100 per casualty and 10% of AGI, and only for a federally declared disaster: a new figure for Schedule A line 15. No declared document carries these inputs.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f4684--2025.pdf",
+        "wording": "Subtract line 17 from line 16. If zero or less, enter -0-. Also, enter the result on Schedule A (Form 1040), line 15"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-380"
+        ]
+      }
+    },
+    {
+      "id": "casualty-loss-income-producing-property",
+      "produces": {
+        "form": "form-4684",
+        "line": "38b"
+      },
+      "reaches": {
+        "form": "schedule-a",
+        "line": "16"
+      },
+      "inputs": [
+        "taxpayer-other-itemized-deduction-records.casualty_and_theft_losses_of_income_producing_property",
+        "form-4684.32",
+        "form-4684.51"
+      ],
+      "per": "return",
+      "why": "Form 4684 Section B works the casualty or theft loss of income-producing property (including a Ponzi-scheme loss from Section C line 51, entered on line 28) by holding period, lines 32 and 38b: a new figure for Schedule A line 16.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf",
+        "wording": "Casualty and theft losses of income-producing property (including losses from financial scams) from Form 4684, lines 32 and 38b, or Form 4797, line 18a."
+      },
+      "traces": {
+        "catalogue": [
+          "E-L16-02"
+        ],
+        "findings": [
+          "F-497",
+          "F-390"
+        ]
+      }
+    },
+    {
+      "id": "casualty-gain-or-loss-business-property",
+      "produces": {
+        "form": "form-4684",
+        "line": "38a"
+      },
+      "reaches": {
+        "form": "schedule-1",
+        "line": "4"
+      },
+      "inputs": [
+        "k-1-1065.11.B",
+        "k-1-1120s.10.B",
+        "form-4684.34"
+      ],
+      "per": "return",
+      "why": "Form 4684 Section B Part II nets casualty and theft gains and losses of property held more than one year by column (business, income-producing, gains) and carries the business net to Form 4797 line 14 (or a net gain to line 3): a new figure, reaching Schedule 1 line 4 through Form 4797.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f4684--2025.pdf",
+        "wording": "All others, enter this amount on Form 4797, line 14."
+      },
+      "traces": {
+        "catalogue": [
+          "V6:NEW-3"
+        ],
+        "findings": [
+          "F-379",
+          "F-390"
+        ]
+      }
+    },
+    {
+      "id": "form-4797-ordinary-gain-or-loss",
+      "produces": {
+        "form": "form-4797",
+        "line": "18b"
+      },
+      "reaches": {
+        "form": "schedule-1",
+        "line": "4"
+      },
+      "inputs": [
+        "k-1-1065.11.I",
+        "k-1-1120s.10.I",
+        "form-4797.11",
+        "form-4797.13",
+        "form-4797.14"
+      ],
+      "per": "return",
+      "why": "Form 4797 Part II combines ordinary gains and losses \u2014 a net section 1231 loss, depreciation recapture from Part III, Form 4684 business casualty results \u2014 into the figure for Schedule 1 line 4: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f4797--2025.pdf",
+        "wording": "Redetermine the gain or (loss) on line 17 excluding the loss, if any, on line 18a. Enter here and on Schedule 1 (Form 1040), Part I, line 4"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-248"
+        ]
+      }
+    },
+    {
+      "id": "net-section-1231-gain",
+      "produces": {
+        "form": "form-4797",
+        "line": "9"
+      },
+      "reaches": {
+        "form": "schedule-d",
+        "line": "11"
+      },
+      "inputs": [
+        "k-1-1065.11.I",
+        "k-1-1120s.10.I",
+        "form-4797.7",
+        "form-4797.8",
+        "prior-year-1040.form 4797 line 7",
+        "prior-year-1040.form 4797 line 8"
+      ],
+      "per": "return",
+      "why": "Form 4797 Part I nets section 1231 gains and losses and recaptures as ordinary the nonrecaptured net section 1231 losses of the five prior years (line 8); what remains is long-term capital gain on Schedule D line 11: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f4797--2025.pdf",
+        "wording": "enter the gain from line 9 as a long-term capital gain on the Schedule D filed with your return"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-248",
+          "F-376"
+        ]
+      }
+    },
+    {
+      "id": "section-737-gain",
+      "produces": {
+        "form": "ws-section-737-gain",
+        "line": "7"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "7a"
+      },
+      "inputs": [
+        "k-1-1065.19.B",
+        "ws-section-737-gain.1",
+        "ws-section-737-gain.2",
+        "ws-section-737-gain.3",
+        "ws-section-737-gain.6"
+      ],
+      "per": "activity",
+      "why": "Section 737 gain is the lesser of the distributed property's value over the partner's remaining basis and the net precontribution gain, from the partnership's statement and the partner's basis: a new figure, reported on Form 4797 or Form 8949/Schedule D.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf",
+        "wording": "report the amount from line 7, above, on Form 4797 or Form 8949 and the Schedule D of your tax return"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-259"
+        ]
+      }
+    },
+    {
+      "id": "section-1061-recharacterization",
+      "produces": {
+        "form": "ws-section-1061-b",
+        "line": "9"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "7a"
+      },
+      "inputs": [
+        "k-1-1065.20.AM",
+        "ws-section-1061-b.1",
+        "ws-section-1061-b.4"
+      ],
+      "per": "return",
+      "why": "Section 1061 recharacterizes the part of an applicable partnership interest's long-term gain held three years or less as short-term, worked on Worksheet B from the partnership's Worksheet A: a new figure entered as a Form 8949 adjustment.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/p541--2025.pdf",
+        "wording": "the owner taxpayer will increase the reported short-term capital gain by listing as a transaction identified as"
+      },
+      "traces": {
+        "catalogue": [
+          "V4:R-DOC-1061"
+        ],
+        "findings": [
+          "F-289"
+        ]
+      }
+    },
+    {
+      "id": "federal-mortgage-subsidy-recapture",
+      "produces": {
+        "form": "form-8828",
+        "line": "23"
+      },
+      "reaches": {
+        "form": "schedule-2",
+        "line": "17b"
+      },
+      "inputs": [
+        "1099-S.2",
+        "form-8828.9",
+        "form-8828.12",
+        "form-8828.19",
+        "form-8828.20"
+      ],
+      "per": "return",
+      "why": "A home financed with a tax-exempt-bond mortgage or a mortgage credit certificate and sold within nine years recaptures part of the subsidy, worked on Form 8828 from the gain, the subsidized amount, the holding period and MAGI: a new figure for Schedule 2 line 17b.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-pdf/f8828.pdf",
+        "wording": "Tax. Enter the smaller of line 14 or line 22. Also, include this amount on Schedule 2 (Form 1040), line 17b"
+      },
+      "traces": {
+        "catalogue": [
+          "V2:NEW-V2-14"
+        ],
+        "findings": [
+          "F-130",
+          "F-446"
+        ]
+      }
+    },
+    {
+      "id": "tax-credit-bond-credit",
+      "produces": {
+        "form": "form-8912",
+        "line": "12"
+      },
+      "reaches": {
+        "form": "schedule-3",
+        "line": "6k"
+      },
+      "inputs": [
+        "1097-BTC.1",
+        "k-1-1065.15.AP",
+        "k-1-1065.15.AQ",
+        "k-1-1065.15.AR",
+        "k-1-1065.15.AS",
+        "k-1-1065.15.AT",
+        "k-1-1065.15.AU",
+        "k-1-1120s.13.AP",
+        "k-1-1120s.13.AQ",
+        "k-1-1120s.13.AR",
+        "k-1-1120s.13.AS",
+        "k-1-1120s.13.AT",
+        "k-1-1120s.13.AU",
+        "k-1-1041.13.P"
+      ],
+      "per": "return",
+      "why": "Form 8912 totals the bond credits reported on Forms 1097-BTC and passed through on K-1s and limits them to the regular tax plus AMT less other credits: a new figure for Schedule 3 line 6k.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-pdf/f8912.pdf",
+        "wording": "Report this amount on Schedule 3 (Form 1040), line 6k"
+      },
+      "traces": {
+        "catalogue": [
+          "V2:NEW-V2-11",
+          "V3:N-1097BTC"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "business-interest-expense-limitation",
+      "produces": {
+        "form": "form-8990",
+        "line": "30"
+      },
+      "reaches": {
+        "form": "schedule-e",
+        "line": "28"
+      },
+      "inputs": [
+        "k-1-1065.13.K",
+        "k-1-1065.20.AE",
+        "k-1-1065.20.AF",
+        "k-1-1065.20.AG",
+        "k-1-1065.20.AY",
+        "k-1-1120s.17.AA",
+        "k-1-1120s.17.AB",
+        "k-1-1120s.17.AC",
+        "schedule-c.16a",
+        "schedule-c.16b",
+        "form-8990.2"
+      ],
+      "per": "return",
+      "why": "Section 163(j) limits business interest expense to business interest income plus 30% of adjusted taxable income (plus floor plan interest), worked on Form 8990 with the excess items K-1s pass through, unless the taxpayer is a small business: a new figure, the rest carried forward.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf",
+        "wording": "You must file Form 8990 to deduct any interest expenses of this trade or business unless you are a small business taxpayer (defined under Part III)"
+      },
+      "traces": {
+        "catalogue": [
+          "c-business-interest-8990"
+        ],
+        "findings": [
+          "F-471"
+        ]
+      }
+    },
+    {
+      "id": "savings-bond-interest-exclusion",
+      "produces": {
+        "form": "form-8815",
+        "line": "14"
+      },
+      "reaches": {
+        "form": "schedule-b",
+        "line": "3"
+      },
+      "inputs": [
+        "1099-INT.3",
+        "form-8815.2",
+        "form-8815.3",
+        "form-8815.5",
+        "form-8815.6",
+        "form-8815.9"
+      ],
+      "per": "return",
+      "why": "Form 8815 excludes the part of series EE/I bond interest matching qualified higher education expenses, phased out by MAGI: a new figure subtracted on Schedule B line 3.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8815--2025.pdf",
+        "wording": "Excludable savings bond interest. Subtract line 13 from line 8. Enter the result here and on Schedule B (Form 1040), line 3"
+      },
+      "traces": {
+        "catalogue": [
+          "A-INT-06"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "installment-sale-income",
+      "produces": {
+        "form": "form-6252",
+        "line": "26"
+      },
+      "reaches": {
+        "form": "schedule-d",
+        "line": "11"
+      },
+      "inputs": [
+        "form-6252.5",
+        "form-6252.8",
+        "form-6252.9",
+        "form-6252.11",
+        "form-6252.21",
+        "form-6252.23"
+      ],
+      "per": "activity",
+      "why": "The installment method reports each year's share of the gain \u2014 payments received times the gross profit percentage, less the ordinary recapture \u2014 on Form 6252: a new figure for Schedule D (line 4 short-term or line 11 long-term) or Form 4797.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f6252--2025.pdf",
+        "wording": "Subtract line 25 from line 24. Enter here and on Schedule D or Form 4797."
+      },
+      "traces": {
+        "catalogue": [
+          "CAP-20"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "foreclosure-or-repossession-gain-or-loss",
+      "produces": {
+        "form": "ws-foreclosure-repossession",
+        "line": "8"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "7a"
+      },
+      "inputs": [
+        "1099-A.2",
+        "1099-A.4",
+        "ws-foreclosure-repossession.7"
+      ],
+      "per": "activity",
+      "why": "A foreclosure or abandonment is a disposition: the amount realized (the debt, or for recourse debt the smaller of debt and fair market value, plus any proceeds) less adjusted basis is the gain or loss, worked on Publication 4681's worksheet \u2014 a new figure for Form 8949/Schedule D (or Form 4797 for business property).",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/p4681--2025.pdf",
+        "wording": "Gain or loss from foreclosure or repossession. Subtract line 7 from line 6"
+      },
+      "traces": {
+        "catalogue": [
+          "V2:NEW-V2-19"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "golden-parachute-excise-tax",
+      "produces": {
+        "form": "schedule-2",
+        "line": "17k"
+      },
+      "inputs": [
+        "1099-NEC.3"
+      ],
+      "per": "owner",
+      "why": "The excise on an excess parachute payment reported on Form 1099-NEC box 3 is 20% of that amount \u2014 a new figure (Form W-2 code K, by contrast, prints the tax itself and is placed as printed).",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+        "wording": "If you received a Form 1099-NEC, the tax is 20% of the EPP shown in box 3. Enter this amount on line 17k."
+      },
+      "traces": {
+        "catalogue": [
+          "TAX-02"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "nonqualified-deferred-compensation-409a-tax",
+      "produces": {
+        "form": "schedule-2",
+        "line": "17h"
+      },
+      "inputs": [
+        "W-2.12.Z",
+        "1099-MISC.15"
+      ],
+      "per": "owner",
+      "why": "Income from a nonqualified deferred compensation plan that fails section 409A bears an additional 20% tax plus a premium interest amount: a new figure for Schedule 2 line 17h.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+        "wording": "Enter any additional tax on income you received from a nonqualified deferred compensation plan that fails to meet the requirements of section 409A."
+      },
+      "traces": {
+        "catalogue": [
+          "TAX-03"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "qualified-home-mortgage-interest-limit",
+      "produces": {
+        "form": "ws-pub936-table-1",
+        "line": "15"
+      },
+      "reaches": {
+        "form": "schedule-a",
+        "line": "8a"
+      },
+      "inputs": [
+        "1098.1",
+        "1098.2",
+        "1098.3",
+        "1098.11"
+      ],
+      "per": "return",
+      "why": "Where the mortgages exceed the qualified loan limit, Pub. 936 Table 1 works the deductible home mortgage interest from the average balances of each debt and the interest paid: a new figure, never the interest the Form 1098 prints.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/p936--2025.pdf",
+        "wording": "Multiply the amount on line 13 by the decimal amount on line 14. Enter the result. This is your deductible home mortgage interest. Enter this amount on Schedule A (Form 1040)"
+      },
+      "traces": {
+        "catalogue": [
+          "A-mortgage-limit"
+        ],
+        "findings": [
+          "F-185"
+        ]
+      }
+    },
+    {
+      "id": "refundable-american-opportunity-credit",
+      "produces": {
+        "form": "form-8863",
+        "line": "8"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "29"
+      },
+      "inputs": [
+        "1098-T.1",
+        "1098-T.5",
+        "1098-T.8",
+        "1098-T.9",
+        "1098-T.10"
+      ],
+      "per": "return",
+      "why": "Form 8863 Part I works the refundable 40% of the American opportunity credit from adjusted qualified expenses and the MAGI phase-out: a new figure, carried to Form 1040 line 29.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8863--2025.pdf",
+        "wording": "Refundable American opportunity credit. Multiply line 7 by 40% (0.40). Enter the amount here and on Form 1040 or 1040-SR, line 29."
+      },
+      "traces": {
+        "catalogue": [
+          "CR-06"
+        ],
+        "findings": [
+          "F-201"
+        ]
+      }
+    },
+    {
+      "id": "taxable-scholarship-income",
+      "produces": {
+        "form": "ws-taxable-scholarship",
+        "line": "9"
+      },
+      "reaches": {
+        "form": "schedule-1",
+        "line": "8r"
+      },
+      "inputs": [
+        "1098-T.5"
+      ],
+      "per": "owner",
+      "why": "Pub. 970 Worksheet 1-1 works the taxable part of a scholarship from the grant, the part paid for services and the qualified education expenses: a new figure, never box 5 itself.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/p970--2025.pdf",
+        "wording": "Taxable part. Add lines 2, 4, and 8. See Reporting Scholarships and Fellowship Grants, earlier, for information on how to report this amount on your tax return"
+      },
+      "traces": {
+        "catalogue": [
+          "V3:N-1098T-8R"
+        ],
+        "findings": [
+          "F-200"
+        ]
+      }
+    },
+    {
+      "id": "enhanced-deduction-for-seniors",
+      "produces": {
+        "form": "schedule-1a",
+        "line": "37"
+      },
+      "inputs": [],
+      "per": "return",
+      "why": "Schedule 1-A Part V works $6,000 per qualifying person born before January 2, 1961, phased out at 6% of MAGI over $75,000 ($150,000 joint): a new figure from the birth dates and MAGI, read off no document.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1040s1a--2025.pdf",
+        "wording": "Enhanced deduction for seniors. Add lines 36a and 36b"
+      },
+      "traces": {
+        "catalogue": [
+          "1A-senior"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "net-operating-loss-deduction",
+      "produces": {
+        "form": "form-172",
+        "line": "part-ii-10"
+      },
+      "reaches": {
+        "form": "schedule-1",
+        "line": "8a"
+      },
+      "inputs": [
+        "prior-year-1040.schedule 1 line 8a",
+        "prior-year-1040.form 172 part ii line 10"
+      ],
+      "per": "return",
+      "why": "The NOL deduction is the carryover from an earlier year's loss, refigured on Form 172 against modified taxable income and limited to 80% of taxable income for losses after 2017: a new figure read off no current-year document.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-pdf/f172.pdf",
+        "wording": "Enter the result from the first preceding tax year here and on the net operating loss line of Schedule 1 (Form 1040)"
+      },
+      "traces": {
+        "catalogue": [],
+        "findings": [
+          "F-420"
+        ]
+      }
+    },
+    {
+      "id": "schedule-c-depreciation-and-section-179",
+      "produces": {
+        "form": "form-4562",
+        "line": "22"
+      },
+      "reaches": {
+        "form": "schedule-c",
+        "line": "13"
+      },
+      "inputs": [
+        "taxpayer-business-income-and-expense-records.depreciation_and_section_179",
+        "taxpayer-business-income-and-expense-records.capital_item_description",
+        "taxpayer-business-income-and-expense-records.capital_item_placed_in_service_date",
+        "form-4562.10",
+        "prior-year-1040.form 4562 line 13"
+      ],
+      "per": "activity",
+      "why": "Depreciation and the section 179 deduction are worked on Form 4562 from each asset's basis, placed-in-service date, method and convention (and the 2025 special allowance and section 179 limits): a new figure, never a client's own total.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf",
+        "wording": "See the Instructions for Form 4562 and Pub. 946 to figure the amount to enter on line 13."
+      },
+      "traces": {
+        "catalogue": [
+          "depr-client-supplied-depreciation",
+          "depr-bonus-2025",
+          "depr-section-179-2025"
+        ],
+        "findings": [
+          "F-349",
+          "F-357"
+        ]
+      }
+    },
+    {
+      "id": "schedule-e-depreciation",
+      "produces": {
+        "form": "form-4562",
+        "line": "22"
+      },
+      "reaches": {
+        "form": "schedule-e",
+        "line": "18"
+      },
+      "inputs": [
+        "taxpayer-rental-income-and-expense-records.depreciation_or_depletion",
+        "taxpayer-rental-income-and-expense-records.capital_item_description",
+        "taxpayer-rental-income-and-expense-records.capital_item_placed_in_service_date"
+      ],
+      "per": "activity",
+      "why": "A rental's depreciation is worked on Form 4562 from the building's basis (its cost split from the land), placed-in-service date and recovery period: a new figure, never a client's own total.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040se--2025.pdf",
+        "wording": "See the Instructions for Form 4562 to figure the amount of depreciation to enter on line 18."
+      },
+      "traces": {
+        "catalogue": [
+          "depr-client-supplied-depreciation",
+          "depr-land-not-depreciable",
+          "depr-bonus-2025"
+        ],
+        "findings": [
+          "F-349"
+        ]
+      }
+    },
+    {
+      "id": "business-use-of-home",
+      "produces": {
+        "form": "form-8829",
+        "line": "36"
+      },
+      "reaches": {
+        "form": "schedule-c",
+        "line": "30"
+      },
+      "inputs": [
+        "form-8829.25",
+        "form-8829.31",
+        "prior-year-1040.form 8829 line 43",
+        "prior-year-1040.form 8829 line 44"
+      ],
+      "per": "activity",
+      "why": "Form 8829 works the business-use-of-home deduction from the business percentage of the home's expenses, limited by the business's gross income, plus last year's disallowed carryovers (or the simplified method's $5 a square foot up to 300): a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8829--2025.pdf",
+        "wording": "Allowable expenses for business use of your home. Subtract line 35 from line 34. Enter here and on Schedule C, line 30."
+      },
+      "traces": {
+        "catalogue": [
+          "c-home-office"
+        ],
+        "findings": [
+          "F-351"
+        ]
+      }
+    },
+    {
+      "id": "excess-business-loss",
+      "produces": {
+        "form": "form-461",
+        "line": "16"
+      },
+      "reaches": {
+        "form": "schedule-1",
+        "line": "8p"
+      },
+      "inputs": [],
+      "per": "return",
+      "why": "Form 461 works the excess business loss from the combined business income and losses against the $313,000 ($626,000 joint) threshold: a new figure added back on Schedule 1 line 8p.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f461--2025.pdf",
+        "wording": "Add lines 14 and 15. If less than zero, enter the amount from line 16 as a positive number on Schedule 1 (Form 1040), line 8p."
+      },
+      "traces": {
+        "catalogue": [
+          "c-excess-business-loss"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "charitable-contribution-carryover",
+      "produces": {
+        "form": "schedule-a",
+        "line": "13"
+      },
+      "inputs": [
+        "taxpayer-charitable-contribution-records.charitable_carryover_from_prior_year"
+      ],
+      "per": "return",
+      "why": "The carryover allowed this year is worked from each earlier year's unused contributions by vintage and limit class (five years; 2021 contributions at 60%) against this year's AGI limits: a new figure, never the client's total carried in.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf",
+        "wording": "After applying those limits, enter the amount of your carryover that you are allowed to deduct this year."
+      },
+      "traces": {
+        "catalogue": [
+          "A-charity-carryover-13"
+        ],
+        "findings": [
+          "F-493"
+        ]
+      }
+    },
+    {
+      "id": "claim-of-right-repayment-credit",
+      "produces": {
+        "form": "schedule-3",
+        "line": "13b"
+      },
+      "inputs": [
+        "taxpayer-other-itemized-deduction-records.repayment_under_a_claim_of_right_over_3000"
+      ],
+      "per": "return",
+      "why": "For a repayment over $3,000 the taxpayer may instead take a section 1341 credit: the tax is figured both ways (the deduction, and the earlier year's tax refigured without the income) and the method giving less tax is used - a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/p525--2025.pdf",
+        "wording": "However, you can choose to take a credit for the year of repayment. Figure your tax under both methods and compare the results."
+      },
+      "traces": {
+        "catalogue": [
+          "E-L16-06"
+        ],
+        "findings": [
+          "F-499"
+        ]
+      }
+    },
+    {
+      "id": "residential-clean-energy-credit",
+      "produces": {
+        "form": "form-5695",
+        "line": "15"
+      },
+      "reaches": {
+        "form": "schedule-3",
+        "line": "5a"
+      },
+      "inputs": [],
+      "per": "return",
+      "why": "Form 5695 Part I works 30% of qualified clean energy costs plus any 2024 carryforward, limited by tax: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f5695--2025.pdf",
+        "wording": "Residential clean energy credit. Enter the smaller of line 13 or line 14. Also include this amount on Schedule 3 (Form 1040), line 5a"
+      },
+      "traces": {
+        "catalogue": [
+          "CR-07",
+          "PY-13"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "energy-efficient-home-improvement-credit",
+      "produces": {
+        "form": "form-5695",
+        "line": "32"
+      },
+      "reaches": {
+        "form": "schedule-3",
+        "line": "5b"
+      },
+      "inputs": [],
+      "per": "return",
+      "why": "Form 5695 Part II works the energy efficient home improvement credit against its per-item and annual caps and the tax: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f5695--2025.pdf",
+        "wording": "Energy efficient home improvement credit. Enter the smaller of line 30 or line 31. Also include this amount on Schedule 3 (Form 1040), line 5b"
+      },
+      "traces": {
+        "catalogue": [
+          "CR-07"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "prior-year-minimum-tax-credit",
+      "produces": {
+        "form": "form-8801",
+        "line": "25"
+      },
+      "reaches": {
+        "form": "schedule-3",
+        "line": "6b"
+      },
+      "inputs": [
+        "prior-year-1040.form 8801 line 26"
+      ],
+      "per": "return",
+      "why": "Form 8801 works the credit for prior-year minimum tax from last year's AMT on deferral items and carryforward, limited by this year's regular tax over tentative minimum tax: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8801--2025.pdf",
+        "wording": "Minimum tax credit. Enter the smaller of line 21 or line 24. Also enter this amount on your 2025 Schedule 3 (Form 1040), line 6b"
+      },
+      "traces": {
+        "catalogue": [
+          "PY-06",
+          "CR-10"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "adoption-credit",
+      "produces": {
+        "form": "form-8839",
+        "line": "18"
+      },
+      "reaches": {
+        "form": "schedule-3",
+        "line": "6c"
+      },
+      "inputs": [],
+      "per": "return",
+      "why": "Form 8839 works the adoption credit from qualified expenses per child, the dollar limit and the MAGI phase-out, plus carryforwards, limited by tax: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8839--2025.pdf",
+        "wording": "Nonrefundable adoption credit. Enter the smaller of line 16 or line 17 here and on Schedule 3 (Form 1040), line 6c."
+      },
+      "traces": {
+        "catalogue": [
+          "CR-10",
+          "PY-13"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "credit-for-the-elderly-or-disabled",
+      "produces": {
+        "form": "schedule-r",
+        "line": "22"
+      },
+      "reaches": {
+        "form": "schedule-3",
+        "line": "6d"
+      },
+      "inputs": [],
+      "per": "return",
+      "why": "Schedule R works the credit from the initial amount for the filing status less nontaxable benefits and half the AGI over the limit: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f1040sr--2025.pdf",
+        "wording": "Credit for the elderly or the disabled. Enter the smaller of line 20 or line 21. Also enter this amount on Schedule 3 (Form 1040), line 6d"
+      },
+      "traces": {
+        "catalogue": [
+          "CR-10"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "mortgage-interest-credit",
+      "produces": {
+        "form": "form-8396",
+        "line": "9"
+      },
+      "reaches": {
+        "form": "schedule-3",
+        "line": "6g"
+      },
+      "inputs": [],
+      "per": "return",
+      "why": "Form 8396 works the credit from the interest on the certified indebtedness times the certificate rate, plus carryforwards, limited by tax: a new figure.",
+      "citation": {
+        "source_url": "https://www.irs.gov/pub/irs-prior/f8396--2025.pdf",
+        "wording": "Current-year mortgage interest credit. Enter the smaller of line 7 or line 8. Also include this amount on Schedule 3 (Form 1040), line 6g"
+      },
+      "traces": {
+        "catalogue": [
+          "CR-10",
+          "PY-13"
+        ],
+        "findings": []
+      }
+    },
+    {
+      "id": "state-local-income-tax-refund-taxable",
+      "produces": {
+        "form": "ws-state-local-income-tax-refund",
+        "line": "9"
+      },
+      "reaches": {
+        "form": "form-1040",
+        "line": "8"
+      },
+      "inputs": [
+        "1099-G.2",
+        "prior-year-1040.1040 line 12",
+        "prior-year-1040.1040 filing status",
+        "prior-year-1040.1040 age/blindness",
+        "prior-year-1040.schedule a line 5a",
+        "prior-year-1040.schedule a line 5a general sales taxes",
+        "prior-year-1040.schedule a line 5d",
+        "prior-year-1040.schedule a line 5e",
+        "prior-year-1040.schedule a line 17"
+      ],
+      "per": "return",
+      "why": "A 2025 refund of state or local income tax is income only to the extent the 2024 deduction reduced the 2024 tax (the tax benefit rule). The State and Local Income Tax Refund Worksheet works that from last year's Schedule A lines 5d, 5e and 17, the 2024 standard deduction for the 2024 filing status and the Age/Blindness boxes: a new figure. Where the worksheet does not apply (the Exception), Pub. 525 does.",
+      "citation": {
+        "form": "State and Local Income Tax Refund Worksheet",
+        "line": "9",
+        "wording": "Taxable part of your refund. Enter the smaller of line 3 or line 8 here and on Schedule 1, line 1",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+      }
+    }
+  ]
+}

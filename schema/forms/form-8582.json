@@ -1,0 +1,242 @@
+{
+  "form": {
+    "id": "form-8582",
+    "form": "Form 8582",
+    "title": "Passive Activity Loss Limitations",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8582--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8582",
+    "lines": [
+      {
+        "line": "1a",
+        "caption": "Rental Real Estate Activities With Active Participation: Activities with net income (enter the amount from Part IV, column (a))",
+        "type": "money"
+      },
+      {
+        "line": "1b",
+        "caption": "Rental Real Estate Activities With Active Participation: Activities with net loss (enter the amount from Part IV, column (b))",
+        "type": "money"
+      },
+      {
+        "line": "1c",
+        "caption": "Rental Real Estate Activities With Active Participation: Prior years\u2019 unallowed losses (enter the amount from Part IV, column (c))",
+        "type": "money"
+      },
+      {
+        "line": "1d",
+        "caption": "Combine lines 1a, 1b, and 1c",
+        "type": "money"
+      },
+      {
+        "line": "2a",
+        "caption": "All Other Passive Activities: Activities with net income (enter the amount from Part V, column (a))",
+        "type": "money"
+      },
+      {
+        "line": "2b",
+        "caption": "All Other Passive Activities: Activities with net loss (enter the amount from Part V, column (b))",
+        "type": "money"
+      },
+      {
+        "line": "2c",
+        "caption": "All Other Passive Activities: Prior years\u2019 unallowed losses (enter the amount from Part V, column (c))",
+        "type": "money"
+      },
+      {
+        "line": "2d",
+        "caption": "Combine lines 2a, 2b, and 2c",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Combine lines 1d and 2d and subtract any prior year unallowed CRD. See instructions. If this line is zero or more, stop here and include this form with your return; all losses are allowed, including any prior year unallowed losses entered on line 1c or 2c. Report the losses on the forms and schedules normally used",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Enter the smaller of the loss on line 1d or the loss on line 3",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Enter $150,000. If married filing separately, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Enter modified adjusted gross income, but not less than zero. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Subtract line 6 from line 5",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Multiply line 7 by 50% (0.50). Do not enter more than $25,000. If married filing separately, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Enter the smaller of line 4 or line 8. If line 3 includes any CRD, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Add the income, if any, on lines 1a and 2a and enter the total",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Total losses allowed from all passive activities for 2025. Add lines 9 and 10. See instructions to find out how to report the losses on your tax return",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "part-iv",
+        "caption": "Complete This Part Before Part I, Lines 1a, 1b, and 1c. See instructions.",
+        "type": "text",
+        "columns": [
+          "name",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ],
+        "note": "Per activity: (a) Net income (line 1a); (b) Net loss (line 1b); (c) Unallowed loss (line 1c); (d) Overall gain; (e) Overall loss. One row per activity (rows_are instances). Columns \"name\" and \"reported-on\" are TEXT; a \"Ratio\" column is a decimal (percent type) that totals 1.00; every other column is money.",
+        "column_captions": {
+          "a": "(a) Net income (line 1a)",
+          "b": "(b) Net loss (line 1b)",
+          "c": "(c) Unallowed loss (line 1c)",
+          "d": "(d) Gain",
+          "e": "(e) Loss",
+          "name": "Name of activity"
+        },
+        "rows_are": "instances"
+      },
+      {
+        "line": "part-v",
+        "caption": "Complete This Part Before Part I, Lines 2a, 2b, and 2c. See instructions.",
+        "type": "text",
+        "columns": [
+          "name",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ],
+        "note": "Per activity: (a) Net income (line 2a); (b) Net loss (line 2b); (c) Unallowed loss (line 2c); (d) Overall gain; (e) Overall loss. One row per activity (rows_are instances). Columns \"name\" and \"reported-on\" are TEXT; a \"Ratio\" column is a decimal (percent type) that totals 1.00; every other column is money.",
+        "column_captions": {
+          "a": "(a) Net income (line 2a)",
+          "b": "(b) Net loss (line 2b)",
+          "c": "(c) Unallowed loss (line 2c)",
+          "d": "(d) Gain",
+          "e": "(e) Loss",
+          "name": "Name of activity"
+        },
+        "rows_are": "instances"
+      },
+      {
+        "line": "part-vi",
+        "caption": "Use This Part if an Amount Is Shown on Part II, Line 9. See instructions.",
+        "type": "text",
+        "columns": [
+          "name",
+          "reported-on",
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "note": "Per activity, with a column headed \u201cForm or schedule and line number to be reported on (see instructions)\u201d: (a) Loss; (b) Ratio; (c) Special allowance; (d) Subtract column (c) from column (a). One row per activity (rows_are instances). Columns \"name\" and \"reported-on\" are TEXT; a \"Ratio\" column is a decimal (percent type) that totals 1.00; every other column is money.",
+        "column_captions": {
+          "a": "(a) Loss",
+          "b": "(b) Ratio",
+          "c": "(c) Special allowance",
+          "d": "(d) Subtract column (c) from column (a).",
+          "name": "Name of activity",
+          "reported-on": "Form or schedule and line number to be reported on (see instructions)"
+        },
+        "rows_are": "instances"
+      },
+      {
+        "line": "part-vii",
+        "caption": "Allocation of Unallowed Losses. See instructions.",
+        "type": "text",
+        "columns": [
+          "name",
+          "reported-on",
+          "a",
+          "b",
+          "c"
+        ],
+        "note": "Per activity, with a column headed \u201cForm or schedule and line number to be reported on (see instructions)\u201d: (a) Loss; (b) Ratio; (c) Unallowed loss. One row per activity (rows_are instances). Columns \"name\" and \"reported-on\" are TEXT; a \"Ratio\" column is a decimal (percent type) that totals 1.00; every other column is money.",
+        "column_captions": {
+          "a": "(a) Loss",
+          "b": "(b) Ratio",
+          "c": "(c) Unallowed loss",
+          "name": "Name of activity",
+          "reported-on": "Form or schedule and line number to be reported on (see instructions)"
+        },
+        "rows_are": "instances"
+      },
+      {
+        "line": "part-viii",
+        "caption": "Allowed Losses. See instructions.",
+        "type": "text",
+        "columns": [
+          "name",
+          "reported-on",
+          "a",
+          "b",
+          "c"
+        ],
+        "note": "Per activity, with a column headed \u201cForm or schedule and line number to be reported on (see instructions)\u201d: (a) Loss; (b) Unallowed loss; (c) Allowed loss. This is where a passive loss acquires the destination it will actually be reported on. One row per activity (rows_are instances). Columns \"name\" and \"reported-on\" are TEXT; a \"Ratio\" column is a decimal (percent type) that totals 1.00; every other column is money.",
+        "column_captions": {
+          "a": "(a) Loss",
+          "b": "(b) Unallowed loss",
+          "c": "(c) Allowed loss",
+          "name": "Name of activity",
+          "reported-on": "Form or schedule and line number to be reported on (see instructions)"
+        },
+        "rows_are": "instances"
+      },
+      {
+        "line": "part-ix",
+        "caption": "Activities With Losses Reported on Two or More Forms or Schedules. See instructions.",
+        "type": "text",
+        "columns": [
+          "name",
+          "reported-on",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ],
+        "note": "(a), (b), (c) Ratio, (d) Unallowed loss, (e) Allowed loss. Sub-lines 1a \u201cNet loss plus prior year unallowed loss from form or schedule\u201d, 1b \u201cNet income from form or schedule\u201d, 1c \u201cSubtract line 1b from line 1a. If zero or less, enter -0-\u201d. One row per activity (rows_are instances). Columns \"name\" and \"reported-on\" are TEXT; a \"Ratio\" column is a decimal (percent type) that totals 1.00; every other column is money.",
+        "column_captions": {
+          "a": "(a)",
+          "b": "(b)",
+          "c": "(c) Ratio",
+          "d": "(d) Unallowed loss",
+          "e": "(e) Allowed loss",
+          "name": "Name of activity",
+          "reported-on": "Form or schedule and line number to be reported on (see instructions)"
+        },
+        "rows_are": "instances"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "2",
+        "because": "a page number in the page header (\"Page 2\"), not a line"
+      }
+    ],
+    "revision_printed_as": "Form 8582 (2025) Created 5/8/25"
+  }
+}

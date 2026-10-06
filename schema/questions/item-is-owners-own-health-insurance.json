@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-owners-own-health-insurance",
+    "wording": "Is this item health insurance (an accident and health plan) for the owner, the owner's spouse or dependents, rather than for employees?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 the owner's own coverage, not a Schedule C expense"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 a benefit program for employees"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this item health insurance (an accident and health plan) for the owner, the owner's spouse or dependents, rather than for employees?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule C (Form 1040)",
+        "line": "Line 14",
+        "revision": "2025",
+        "wording": "Do not include on line 14 any contributions you made on your behalf as a self-employed person to an accident and health plan.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+      }
+    }
+  }
+}

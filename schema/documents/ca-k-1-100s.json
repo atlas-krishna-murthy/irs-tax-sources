@@ -1,0 +1,18 @@
+{
+  "document": {
+    "id": "CA-K-1-100S",
+    "title": "Schedule K-1 (100S), Shareholder's Share of Income, Deductions, Credits, etc. (California)",
+    "kind": "information_return",
+    "jurisdiction": "US-CA",
+    "revision": "2025",
+    "revision_printed_as": "Schedule K-1 (100S) 2025",
+    "issued_by": "California S corporation (Franchise Tax Board form)",
+    "container_of": null,
+    "boxes": [],
+    "notes": "The California counterpart of Schedule K-1 (Form 1120-S), usually printed right after it with its own 'Additional Information From Schedule K-1' continuation. Its amounts are California amounts - they differ from the federal K-1 wherever California does not conform (depreciation, bonus depreciation, credits) - so reading it onto a federal line would double-count the federal K-1 or report state figures as federal. The federal consequence arrives on k-1-1120s."
+  },
+  "extraction": {
+    "model": null,
+    "note": "Out of this map's jurisdiction (US-CA). Classifiable so it can be named and held; deliberately not extracted federally."
+  }
+}

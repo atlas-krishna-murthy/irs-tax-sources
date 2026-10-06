@@ -1,0 +1,145 @@
+{
+  "form": {
+    "id": "form-8959",
+    "form": "Form 8959",
+    "title": "Additional Medicare Tax",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8959--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8959",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Medicare wages and tips from Form W-2, box 5. If you have more than one Form W-2, enter the total of the amounts from box 5",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Unreported tips from Form 4137, line 6",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Wages from Form 8919, line 6",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Add lines 1 through 3",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Enter the following amount for your filing status: Married filing jointly . . . $250,000; Married filing separately . . . $125,000; Single, Head of household, or Qualifying surviving spouse . . . $200,000",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Subtract line 5 from line 4. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Additional Medicare Tax on Medicare wages. Multiply line 6 by 0.9% (0.009). Enter here and go to Part II",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Self-employment income from Schedule SE (Form 1040), Part I, line 6. If you had a loss, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Enter the following amount for your filing status: Married filing jointly . . . $250,000; Married filing separately . . . $125,000; Single, Head of household, or Qualifying surviving spouse . . . $200,000",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Enter the amount from line 4",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Subtract line 10 from line 9. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Subtract line 11 from line 8. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Additional Medicare Tax on self-employment income. Multiply line 12 by 0.9% (0.009). Enter here and go to Part III",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Railroad retirement (RRTA) compensation and tips from Form(s) W-2, box 14 (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Enter the following amount for your filing status: Married filing jointly . . . $250,000; Married filing separately . . . $125,000; Single, Head of household, or Qualifying surviving spouse . . . $200,000",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Subtract line 15 from line 14. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Additional Medicare Tax on railroad retirement (RRTA) compensation. Multiply line 16 by 0.9% (0.009). Enter here and go to Part IV",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "Add lines 7, 13, and 17. Also include this amount on Schedule 2 (Form 1040), line 11 (Form 1040-SS filers, see instructions), and go to Part V",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "19",
+        "caption": "Medicare tax withheld from Form W-2, box 6. If you have more than one Form W-2, enter the total of the amounts from box 6",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Enter the amount from line 1",
+        "type": "money"
+      },
+      {
+        "line": "21",
+        "caption": "Multiply line 20 by 1.45% (0.0145). This is your regular Medicare tax withholding on Medicare wages",
+        "type": "money"
+      },
+      {
+        "line": "22",
+        "caption": "Subtract line 21 from line 19. If zero or less, enter -0-. This is your Additional Medicare Tax withholding on Medicare wages",
+        "type": "money"
+      },
+      {
+        "line": "23",
+        "caption": "Additional Medicare Tax withholding on railroad retirement (RRTA) compensation from Form W-2, box 14 (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Total Additional Medicare Tax withholding. Add lines 22 and 23. Also include this amount with federal income tax withholding on Form 1040, 1040-SR, or 1040-NR, line 25c (Form 1040-SS filers, see instructions)",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "25c",
+        "because": "'Form 1040, 1040-SR, or 1040-NR, line 25c' \u2014 a reference inside line 24's caption, not a line of Form 8959"
+      },
+      {
+        "slot": "71",
+        "because": "'Attachment Sequence No. 71' in the form header, not a line"
+      }
+    ]
+  }
+}

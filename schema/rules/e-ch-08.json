@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "id": "e-ch-08",
+    "title": "Clothing and household items must be in good used condition or better",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-charitable-contribution-records.gifts_other_than_by_cash_or_check"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-clothing-or-a-household-item-not-in-good-used-condition"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-clothing-or-a-household-item-not-in-good-used-condition",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this clothing or a household item that is not in good used condition or better (and not a single item over $500 with a qualified appraisal and Form 8283)?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "Line 12",
+      "revision": "2025",
+      "wording": "However, this rule doesn't apply to a contribution of any single item for which a deduction of more than $500 is claimed and for which you include a qualified appraisal and Form 8283 with your tax return.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "research_ids": [
+      "e-ch-08"
+    ]
+  }
+}

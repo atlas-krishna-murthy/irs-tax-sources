@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-clothing-or-a-household-item-not-in-good-used-condition",
+    "wording": "Is this clothing or a household item that is not in good used condition or better (and not a single item over $500 with a qualified appraisal and Form 8283)?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 not in good used condition"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 good used condition or better, appraised over $500, or not clothing or a household item"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this clothing or a household item that is not in good used condition or better (and not a single item over $500 with a qualified appraisal and Form 8283)?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Line 12",
+        "revision": "2025",
+        "wording": "A deduction for these contributions will be allowed only if the items are in good used condition or better.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

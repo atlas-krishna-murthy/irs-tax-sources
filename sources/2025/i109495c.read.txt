@@ -1,0 +1,2677 @@
+2025
+
+Instructions for Forms
+1094-C and 1095-C
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to
+Form 1094-C, Transmittal of Employer-Provided Health
+Insurance Offer and Coverage Information Returns, and
+Form 1095-C, Employer-Provided Health Insurance Offer
+and Coverage, and the instructions, such as legislation
+enacted after they were published, go to IRS.gov/
+Form1094C and IRS.gov/Form1095C.
+
+What’s New
+Alternative manner of furnishing statements.
+Employers no longer have to automatically send Form
+1095-C to individuals. The requirement for furnishing the
+statement is met if the employer responsible for providing
+the statements provides clear, conspicuous, and
+accessible notice on its website that an individual may
+request a copy of their statement and the copy is timely
+furnished. For this purpose, the statement is timely
+furnished if provided to the individual no later than the
+later of January 31, 2026, or 30 days after the date of the
+request. For additional guidance, see IRS.gov/irb/
+2025-11_IRB#NOT-2025-15.
+
+Additional Information
+
+For information related to the Affordable Care Act, visit
+IRS.gov/ACA. For the final regulations under section 6056,
+Information Reporting by Applicable Large Employers on
+Health Insurance Coverage Offered Under
+Employer-Sponsored Plans, see T.D. 9661, 2014-13 I.R.B.
+855, at IRS.gov/irb/2014-13_IRB#TD-9661. For the final
+regulations under section 6055, Information Reporting of
+Minimum Essential Coverage, see T.D. 9660, 2014-13
+I.R.B. 842, at IRS.gov/irb/2014-13_IRB#TD-9660 and T.D.
+9970, 2023-02 I.R.B. 311, at IRS.gov/irb/2023–
+02_IRB#TD-9970. For the final regulations under section
+4980H, Shared Responsibility for Employers Regarding
+Health Coverage, see T.D. 9655, 2014-9 I.R.B. 541, at
+IRS.gov/irb/2014-09_IRB#TD-9655. For answers to
+frequently asked questions regarding the employer shared
+responsibility provisions and related information reporting
+requirements, visit IRS.gov.
+For information related to filing Forms 1094-C and
+1095-C electronically, visit IRS.gov/AIR. For FAQs
+specifically related to completing Forms 1094-C and
+1095-C, go to IRS.gov/Affordable-Care-Act/Employers/
+Questions-and-Answers-about-Information-Reporting-byEmployers-on-Form-1094-C-and-Form-1095-C.
+For additional guidance and proposed regulatory
+changes relating to section 6055, including the
+requirement to solicit the TIN of each covered individual
+Oct 30, 2025
+
+for purposes of the reporting of health coverage
+information, see Proposed Regulations section
+1.6055-1(h) and Regulations section 301.6724-1.
+
+General Instructions for Forms
+1094-C and 1095-C
+
+See Definitions, later, for key terms used in these
+instructions.
+
+Purpose of Form
+
+Employers with 50 or more full-time employees (including
+full-time equivalent employees) in the previous year use
+Forms 1094-C and 1095-C to report the information
+required under sections 6055 and 6056 about offers of
+health coverage and enrollment in health coverage for
+their employees. Form 1094-C must be used to report to
+the IRS summary information for each Applicable Large
+Employer (ALE Member) (defined below) and to transmit
+Forms 1095-C to the IRS. Form 1095-C is used to report
+information about each employee to the IRS and to the
+employee. Forms 1094-C and 1095-C are used in
+determining whether an ALE Member owes a payment
+under the employer shared responsibility provisions under
+section 4980H. Form 1095-C is also used in determining
+the eligibility of employees for the premium tax credit.
+ALE Members that offer employer-sponsored,
+self-insured coverage also use Form 1095-C to report
+information to the IRS and to employees about individuals
+who have minimum essential coverage under the
+employer plan.
+
+Who Must File
+
+An ALE Member must file one or more Forms 1094-C
+(including a Form 1094-C designated as the Authoritative
+Transmittal, whether or not filing multiple Forms 1094-C),
+and must file a Form 1095-C for each employee who was
+a full-time employee of the ALE Member for any month of
+the calendar year. Generally, the ALE Member is required
+to furnish a copy of the Form 1095-C (or a substitute form)
+to the employee.
+An ALE Member is, generally, a single person or entity
+that is an Applicable Large Employer, or if applicable,
+each person or entity that is a member of an Aggregated
+ALE Group. An Applicable Large Employer, generally, is
+an employer with 50 or more full-time employees
+(including full-time equivalent employees) in the previous
+year. For purposes of determining if an employer or group
+of employers is an Applicable Large Employer, all ALE
+Members under common control (an Aggregated ALE
+Group) are aggregated together. If the Aggregated ALE
+Group, taking into account the employees of all ALE
+Members in the group, employed on average 50 or more
+
+Instructions for Form 1094-C and Form 1095-C (2025) Catalog Number 63018M
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+full-time employees (including full-time equivalent
+employees) on business days during the preceding
+calendar year, then the Aggregated ALE Group is an
+Applicable Large Employer and each separate employer
+within the group is an ALE Member. Each ALE Member is
+required to file Forms 1094-C and 1095-C reporting offers
+of coverage to its full-time employees (even if the ALE
+Member has fewer than 50 full-time employees of its own).
+For more information on which employers are subject to
+the employer shared responsibility provisions of section
+4980H, see Employer in the Definitions section of these
+instructions. For more information on determining full-time
+employees, see Full-Time Employee in the Definitions
+section of these instructions, which includes information
+on the treatment of new hires and employees in Limited
+Non-Assessment Periods.
+Tip: For purposes of reporting on Forms 1094-C and
+1095-C, an employee in a Limited Non-Assessment
+Period is not considered a full-time employee during that
+period.
+
+Reporting by Employers That
+Sponsor Self-Insured Health Plans
+An employer that offers health coverage through a
+self-insured health plan must report information about
+each individual enrolled in such coverage. For an
+employer that is an ALE Member, this information must be
+reported on Form 1095-C, Part III, for any employee who is
+enrolled in coverage (and any spouse or dependent of
+that employee). See the option to file Form 1094-B and
+Form 1095-B, rather than Form 1094-C and Form 1095-C,
+to report coverage of certain nonemployees, below.
+ALE Members that offer health coverage through an
+employer-sponsored, self-insured health plan must
+complete Form 1095-C, Parts I, II, and III, for any
+employee who enrolls in the health coverage, whether or
+not the employee is a full-time employee for any month of
+the calendar year.
+
+An employer that offers employer-sponsored,
+self-insured health coverage but is not an ALE Member
+should not file Forms 1094-C and 1095-C, but should
+instead file Forms 1094-B and 1095-B to report
+information for employees who enrolled in the
+employer-sponsored, self-insured health coverage.
+Note: If an ALE Member is offering health coverage to
+employees other than under a self-insured plan, such as
+through an insured health plan or a multiemployer health
+plan, the issuer of the insurance or the sponsor of the plan
+providing the coverage is required to furnish the
+information about their health coverage to any enrolled
+employees, and the ALE Member should not complete
+Form 1095-C, Part III, for those employees.
+
+Reporting of Enrollment Information for
+Nonemployees: Option To Use Forms 1094-B and
+1095-B
+ALE Members that offer employer-sponsored, self-insured
+health coverage to nonemployees who enroll in the
+coverage may use Forms 1094-B and 1095-B, rather than
+Form 1095-C, Part III, to report coverage for those
+individuals and other family members. For this purpose, a
+nonemployee includes, for example, a nonemployee
+director, an individual who was a retired employee during
+the entire year, or a nonemployee COBRA beneficiary,
+including a former employee who terminated employment
+during a previous year.
+For information on reporting for nonemployees enrolled
+in an employer-sponsored, self-insured health plan using
+Forms 1094-B and 1095-B, see the instructions for those
+forms.
+For ALE Members that choose to use Form 1095-C to
+report coverage information for nonemployees enrolled in
+an employer-sponsored, self-insured health plan, see the
+specific instructions for Form 1095-C, Part III—Covered
+Individuals (Lines 18–30), later. Form 1095-C may be
+used only if the individual identified on line 1 has an SSN.
+
+For full-time employees enrolled in an ALE Member’s
+self-insured coverage, including an employee who was a
+full-time employee for at least 1 month of the calendar
+year, the ALE Member must complete Form 1095-C, Part
+II, according to the generally applicable instructions, and
+should not enter code 1G on line 14 for any month. For an
+employee enrolled in an ALE Member’s self-insured
+coverage who is not a full-time employee for any month of
+the calendar year (meaning that for all 12 calendar months
+the employee was not a full-time employee), for Form
+1095-C, Part II, the ALE Member must enter code 1G on
+line 14 in the “All 12 Months” column or in the separate
+monthly boxes for all 12 calendar months, and the ALE
+Member need not complete Part II, lines 15 and 16.
+
+If you are not using the official IRS form to furnish
+statements to recipients, see Pub. 5223, General Rules
+and Specifications for Affordable Care Act Substitute
+Forms 1095-A, 1094-B, 1095-B, 1094-C, and 1095-C,
+which explains the requirements for format and content of
+substitute statements to recipients. You may develop them
+yourself or buy them from a private printer. Substitute
+statements furnished to recipients may be in portrait
+format; however, substitute returns filed with the IRS using
+paper must be printed in landscape format.
+
+Tip: An individual coverage HRA is a self-insured group
+health plan and is therefore an eligible
+employer-sponsored plan. An individual is ineligible for a
+premium tax credit (PTC) for a month if the individual is
+covered by an individual coverage HRA or eligible for an
+individual coverage HRA that is affordable.
+
+A Form 1094-C must be filed when an ALE Member files
+one or more Forms 1095-C. An ALE Member may choose
+to file multiple Forms 1094-C, each accompanied by
+Forms 1095-C for a portion of its employees, provided that
+a Form 1095-C is filed for each employee for whom the
+ALE Member is required to file. If an ALE Member files
+
+2
+
+Substitute Statements to Recipients
+
+Authoritative Transmittal for ALE Members
+Filing Multiple Forms 1094-C
+
+Instructions for Forms 1094-C and 1095-C (2025)
+
+more than one Form 1094-C, one (and only one) Form
+1094-C filed by the ALE Member must be identified on
+line 19, Part I, as the Authoritative Transmittal, and, on the
+Authoritative Transmittal, the ALE Member must report
+certain aggregate data for all full-time employees and all
+employees, as applicable, of the ALE Member.
+Example 1. Employer A, an ALE Member, files a
+single Form 1094-C, attaching Forms 1095-C for each of
+its 100 full-time employees. This Form 1094-C should be
+identified as the Authoritative Transmittal on line 19, and
+the remainder of the form completed as indicated in the
+instructions for line 19, later.
+Example 2. Employer B, an ALE Member, files two
+Forms 1094-C, one for each of its two operating divisions,
+Division X and Division Y. (Division X and Division Y are
+units of the same ALE Member, and thus both report
+under the same employer identification number (EIN);
+they are not members of an Aggregated ALE Group.)
+Attached to one Form 1094-C are Forms 1095-C for the
+200 full-time employees of Division X, and attached to the
+other Form 1094-C are Forms 1095-C for the 1,000
+full-time employees of Division Y. One of these Forms
+1094-C should be identified as the Authoritative
+Transmittal on line 19, and should include aggregate
+employer-level data for all 1,200 full-time employees of
+Employer B as well as the total number of employees of
+Employer B, as applicable, as required in Parts II, III, and
+IV of Form 1094-C. The other Form 1094-C should not be
+identified as the Authoritative Transmittal on line 19, and
+should report on line 18 only the number of Forms 1095-C
+that are attached to that Form 1094-C, and should leave
+the remaining sections of the form blank, as indicated in
+the instructions for line 19, later.
+Note: Each ALE Member must file its own Forms 1094-C
+and 1095-C under its own separate EIN, even if the ALE
+Member is part of an Aggregated ALE Group. No
+Authoritative Transmittal should be filed for an Aggregated
+ALE Group.
+Example 3. Assume that Employer A from Example 1
+is a member of the same Aggregated ALE Group as
+Employer B from Example 2. Accordingly, Employer A and
+Employer B are separate ALE Members filing under
+separate EINs. Forms 1094-C should be filed in the same
+manner indicated in Examples 1 and 2. Employer A
+should include only information about employees of
+Employer A in its Authoritative Transmittal, and Employer
+B should include only information about employees of
+Employer B in its Authoritative Transmittal. No
+Authoritative Transmittal should be filed for the
+Aggregated ALE Group reporting combined data for
+employees of both Employer A and Employer B.
+Similar rules apply for a Governmental Unit that has
+delegated its reporting responsibilities for some of its
+employees to another Governmental Unit—see
+Designated Governmental Entity (DGE) in the Definitions
+section of these instructions for more information. In the
+case of a Governmental Unit that has delegated its
+reporting responsibilities for some of its employees, the
+Governmental Unit must ensure that among the multiple
+Forms 1094-C filed by or on behalf of the Governmental
+Unit transmitting Forms 1095-C for the Governmental
+Instructions for Forms 1094-C and 1095-C (2025)
+
+Unit’s employees, one of the filed Forms 1094-C is
+designated as the Authoritative Transmittal and reports
+aggregate employer-level data for the Governmental Unit,
+as required in Parts II, III, and IV of Form 1094-C.
+Example. County is an Aggregated ALE Group made
+up of the ALE Members School District, the Police District,
+and the County General Office. The School District
+designates the state to report on behalf of the teachers
+and reports for itself for its remaining full-time employees.
+In this case, either the School District or the state must file
+an Authoritative Transmittal reporting aggregate
+employer-level data for the School District.
+
+One Form 1095-C for Each Employee of ALE
+Member
+
+For each full-time employee of an ALE Member, there
+must be only one Form 1095-C filed for employment with
+that ALE Member. For example, if an ALE Member
+separately reports for each of its two divisions, the ALE
+Member must combine the offer and coverage information
+for any employee who worked at both divisions during the
+calendar year so that a single Form 1095-C is filed for the
+calendar year for that employee, which reports information
+for all 12 months of the calendar year from that ALE
+Member.
+In contrast, a full-time employee who works for more
+than one ALE Member that is a member of the same
+Aggregated ALE Group must receive a separate Form
+1095-C from each ALE Member. For any calendar month
+in which a full-time employee works for more than one
+ALE Member of an Aggregated ALE Group, only one ALE
+Member is treated as the employer of that employee for
+reporting purposes (generally, the ALE Member for whom
+the employee worked the greatest number of hours of
+service), and only that ALE Member reports for that
+employee for that calendar month. The other ALE Member
+is not required to report for that employee for that calendar
+month, unless the other ALE Member is otherwise
+required to file Form 1095-C for that employee because
+the individual was a full-time employee of that ALE
+Member for a different month of the same calendar year.
+In this case, the individual may be treated as not
+employed by that ALE Member for that calendar month. If
+under these rules, an ALE Member is not required to
+report for an employee for any month in the calendar year,
+the ALE Member is not required to report for that full-time
+employee for that calendar year. For a description of the
+rules related to determining which ALE Member in an
+Aggregated ALE Group is treated as the employer for a
+month in this situation, see the definition of Employee.
+Example. Employer A and Employer B are separate
+ALE Members that belong to the same Aggregated ALE
+Group. Both Employer A and Employer B offer coverage
+through the AB health plan, which is an insured plan. In
+January and February, Employee has 130 hours of service
+for Employer A and no hours of service for Employer B. In
+March, Employee has 100 hours of service for Employer A
+and 30 hours of service for Employer B. In April through
+December, Employee has 130 hours of service for
+Employer B and no hours of service for Employer A.
+Employer A is the employer of Employee for filing
+purposes for January, February, and March. Employer A
+3
+
+should file Form 1095-C for Employee reporting offers of
+coverage using the appropriate code on line 14 for
+January, February, and March; should complete lines 15
+and 16 per the instructions; and should include Employee
+in the count of total employees and full-time employees
+reported for those months on Form 1094-C. For the
+months April through December, on Form 1095-C,
+Employer A should enter code 1H (no offer of coverage)
+on line 14, leave line 15 blank, and enter code 2A (not an
+employee) on line 16 (since Employee is treated as an
+employee of Employer B and not as an employee of
+Employer A in those months), and should exclude
+Employee from the count of total employees and full-time
+employees reported for those months on Form 1094-C.
+
+When To File
+
+You will meet the requirement to file Forms 1094-C and
+1095-C if the forms are properly addressed and mailed on
+or before the due date. If the due date falls on a weekend
+or legal holiday, then the due date is the following
+business day. A business day is any day that is not a
+Saturday, Sunday, or legal holiday.
+Generally, you must file Forms 1094-C and 1095-C by
+February 28 if filing on paper (or March 31 if filing
+electronically) of the year following the calendar year to
+which the return relates. For calendar year 2025, Forms
+1094-C and 1095-C are required to be filed by March 2,
+2026, or March 31, 2026, if filing electronically.
+See Furnishing Forms 1095-C to Employees for
+information on when Form 1095-C must be furnished.
+
+Extensions
+You can get an automatic 30-day extension of time to file
+by completing Form 8809, Application for Extension of
+Time To File Information Returns. The form may be
+submitted on paper, or through the FIRE System either as
+a fill-in form or an electronic file. No signature or
+explanation is required for the extension. However, you
+must file Form 8809 on or before the due date of the
+returns in order to get the 30-day extension. Under certain
+hardship conditions, you may apply for an additional
+30-day extension. See the Instructions for Form 8809 for
+more information.
+How to apply. File Form 8809 as soon as you know that
+a 30-day extension of time to file is needed. See the
+instructions for Form 8809. Mail or fax Form 8809 using
+the address and phone number listed in the instructions.
+You can also submit the extension request online through
+the FIRE System. You are encouraged to submit requests
+using the online fill-in form. See Pub. 1220 for more
+information on filing online or electronically.
+
+Where To File
+
+Send all information returns filed on paper to the following:
+
+4
+
+If your principal business,
+office or agency, or legal
+residence, in the case of an
+individual, is located in:
+▼
+Alabama, Arizona, Arkansas,
+Connecticut, Delaware, Florida,
+Georgia, Kentucky, Louisiana,
+Maine, Massachusetts,
+Mississippi, New Hampshire,
+New Jersey, New Mexico, New
+York, North Carolina, Ohio,
+Pennsylvania, Rhode Island,
+Texas, Vermont, Virginia,
+West Virginia
+
+If your principal business,
+office or agency, or legal
+residence, in the case of an
+individual, is located in:
+▼
+Alaska, California, Colorado,
+District of Columbia, Hawaii,
+Idaho, Illinois, Indiana, Iowa,
+Kansas, Maryland, Michigan,
+Minnesota, Missouri, Montana,
+Nebraska, Nevada, North
+Dakota, Oklahoma, Oregon,
+South Carolina, South Dakota,
+Tennessee, Utah, Washington,
+Wisconsin, Wyoming
+
+Use the following address:
+▼
+
+Department of the Treasury
+Internal Revenue Service
+Center
+Austin, TX 73301
+
+Use the following address:
+▼
+
+Department of the Treasury
+Internal Revenue Service
+Center
+P.O. Box 219256
+Kansas City, MO 64121-9256
+
+If your legal residence or principal place of business or
+principal office or agency is outside the United States, file
+with the Department of the Treasury, Internal Revenue
+Service Center, Austin, TX 73301.
+Shipping and mailing. If you are filing on paper, send
+the forms to the IRS in a flat mailing (not folded), and do
+not paperclip or staple the forms together. If you are
+sending many forms, you may send them in conveniently
+sized packages. On each package, write your name,
+number the packages consecutively, and place Form
+1094-C in package number one. Postal regulations require
+forms and packages to be sent by First-Class Mail.
+Returns filed with the IRS must be printed in landscape
+format.
+Keeping copies. Generally, keep copies of information
+returns you filed with the IRS or have the ability to
+reconstruct the data for at least 3 years, from the due date
+of the returns.
+
+Electronic Filing
+If you are required to file 10 or more
+information returns during the year, you
+must file the forms electronically. The
+10-or-more requirement applies in the aggregate to
+certain information returns. Accordingly, a filer may be
+required to file fewer than 10 Forms 1094-C and 1095-C,
+but still have an electronic filing obligation based on other
+Instructions for Forms 1094-C and 1095-C (2025)
+
+kinds of information returns filed. The electronic filing
+requirement does not apply if you request and receive a
+hardship waiver. The IRS encourages you to file
+electronically even though you are filing fewer than 10
+returns.
+Waiver. To receive a waiver from the required filing of
+information returns electronically, submit Form 8508. You
+are encouraged to file Form 8508 at least 45 days before
+the due date of the returns, but no later than the due date
+of the return. The IRS does not process waiver requests
+until January 1 of the calendar year the returns are due.
+You cannot apply for a waiver for more than 1 tax year at a
+time. If you need a waiver for more than 1 tax year, you
+must reapply at the appropriate time each year. If a waiver
+for original returns is approved, any corrections for the
+same types of returns will be covered under the waiver.
+However, if you submit original returns electronically but
+you want to submit your corrections on paper, a waiver
+must be approved for the corrections if you must file 10 or
+more corrections. If you receive an approved waiver, do
+not send a copy of it to the service center where you file
+your paper returns. Keep the waiver for your records only.
+If you are required to file electronically but fail to do so,
+and you do not have an approved waiver, you may be
+subject to a penalty of $340 per return for failure to file
+electronically unless you establish reasonable cause.
+However, you can file up to 10 returns on paper; those
+returns will not be subject to a penalty for failure to file
+electronically.
+Pub. 5165, Guide for Electronically Filing Affordable
+Care Act (ACA) Information Returns for Software
+Developers and Transmitters, specifies the
+communication procedures, transmission formats,
+business rules, and validation procedures, and explains
+when a return will be accepted, accepted with errors, or
+rejected, for returns filed electronically for calendar year
+2025 through the ACA Information Return (AIR) system.
+To develop software for use with the AIR system, software
+developers, transmitters, and issuers, including ALE
+Members filing their own Forms 1094-C and 1095-C,
+should use the guidelines provided in Pub. 5165 along
+with the Extensible Markup Language (XML) Schemas
+published on IRS.gov.
+Reminder. The formatting directions in these
+instructions (for example, the directions to enter the
+nine-digit EIN, including the dash on line 2 of Form
+1094-C) are for the preparation of paper returns. When
+filing forms electronically, the formatting set forth in the
+XML Schemas and Business Rules published on IRS.gov
+must be followed rather than the formatting directions in
+these instructions. For more information regarding
+electronic filing, see Pubs. 5164 and 5165.
+
+Substitute Returns Filed With the IRS
+
+If you are filing your returns on paper, see Pub. 5223 for
+specifications for private printing of substitute information
+returns. You may not request special consideration. Only
+forms that conform to the official form and the
+specifications in Pub. 5223 are acceptable for filing with
+the IRS. Substitute returns filed with the IRS must be
+printed in landscape format.
+Instructions for Forms 1094-C and 1095-C (2025)
+
+VOID Box
+
+Do not use this box on Form 1095-C.
+
+Corrected Forms 1094-C and 1095-C
+
+Tip: For information about filing corrections electronically,
+see section 7.1 of Pub. 5165.
+
+Corrected Returns
+A corrected return should be filed as soon as possible
+after an error is discovered. File the corrected returns as
+follows.
+Form 1094-C. If correcting information on the
+Authoritative Transmittal (identified on Part I, line 19, as
+the Authoritative Transmittal, one (and only one) of which
+must be filed for each ALE Member reporting aggregate
+employer-level data for all full-time employees and
+employees of the ALE Member), file a standalone, fully
+completed Form 1094-C, including the correct information,
+and enter an “X” in the “CORRECTED” checkbox. Do not
+file a return correcting information on a Form 1094-C that
+is not the Authoritative Transmittal.
+Caution: Do not file any other documents (for example,
+Form 1095-C) with the corrected Authoritative Transmittal.
+Form 1095-C. If correcting information on a Form
+1095-C that was previously filed with the IRS, file a fully
+completed Form 1095-C, including the correct information
+and enter an “X” in the “CORRECTED” checkbox. File a
+Form 1094-C (do not mark the “CORRECTED” checkbox
+on Form 1094-C) with corrected Form(s) 1095-C. Furnish
+the employee a copy of the corrected Form 1095-C,
+unless the ALE Member was, and continues to be, eligible
+for and used the alternative method of furnishing under
+the Qualifying Offer Method for that employee for that
+year’s furnishing. For more information, see Alternative
+method of furnishing Form 1095-C to employees under
+the Qualifying Offer Method.
+Forms 1095-C filed with incorrect dollar amounts on
+line 15, Employee Required Contribution, may fall under a
+safe harbor for certain de minimis errors. The safe harbor
+generally applies if no single amount in error differs from
+the correct amount by more than $100. If the safe harbor
+applies, you will not have to correct Form 1095-C to avoid
+penalties. However, if the recipient elects for the safe
+harbor not to apply, you may have to issue a corrected
+Form 1095-C to avoid penalties. For more information, see
+Notice 2017-9, 2017-4 I.R.B. 542, at IRS.gov/irb/2017-04
+IRB/ar11.html.
+Note: Enter an “X” in the “CORRECTED” checkbox only
+when correcting a Form 1095-C previously filed with the
+IRS. If you are correcting a Form 1095-C that was
+previously furnished to a recipient, but not filed with the
+IRS, write, type, or print “CORRECTED” on the new Form
+1095-C furnished to the recipient.
+Correcting information affecting statement furnished
+to employee using an Alternative Furnishing Method
+under the Qualifying Offer Method. If an ALE Member
+eligible to use the Qualifying Offer Method had furnished
+the employee an alternative statement, the ALE Member
+must furnish the employee a corrected statement if it filed
+5
+
+a corrected Form 1095-C correcting the ALE Member’s
+name, EIN, address, or contact name and telephone
+number. If the ALE Member is no longer eligible to use an
+alternative furnishing method for the employee for whom it
+filed a corrected Form 1095-C, it must furnish a Form
+1095-C to the employee and advise the employee that
+Form 1095-C replaces the statement it had previously
+furnished.
+Caution: If you fail to file correct information returns or fail
+to furnish a correct recipient statement, you may be
+subject to a penalty. However, you are not required to file
+corrected returns for missing or incorrect TINs if you meet
+the reasonable cause criteria. For additional information,
+see Pub. 1586, Reasonable Cause Regulations &
+Requirements for Missing and Incorrect Name/TINs on
+Information Returns.
+Tip: See the charts for examples of errors and
+step-by-step instructions for filing corrected returns.
+
+Original Form 1095-C Submitted to IRS and Furnished to
+Employee
+IF any of the following are
+incorrect ...
+
+THEN ...
+
+Name, SSN, ALE Member EIN
+
+1. Prepare a new Form 1095-C.
+
+Offer of Coverage (line 14)
+
+2. Enter an “X” in the
+“CORRECTED” checkbox at the
+top of the form.
+
+Employee Required Contribution 3. Submit corrected Forms 1095-C
+with a non-authoritative Form
+1094-C transmittal to the IRS.
+Section 4980H Safe Harbor and
+Other Relief Codes (line 16)
+4. Furnish a corrected Form 1095-C
+to the employee.
+Covered Individuals Information
+
+Original Authoritative Transmittal Form 1094-C
+IF any of the following are
+incorrect ...
+
+THEN ...
+
+ALE Member or Designated
+Government Entity (Name
+and/or EIN)
+
+1. Prepare a new Authoritative
+Transmittal, Form 1094-C.
+
+Total number of Forms 1095-C
+filed by and/or on behalf of ALE
+Member
+
+Aggregated ALE Group
+Membership
+Certifications of Eligibility
+Minimum Essential Coverage
+Offer Indicator
+Section 4980H Full-Time
+Employee Count for ALE
+Member
+Aggregated Group Indicator
+Other ALE Members of
+Aggregated ALE Group (Name
+and/or EIN)
+
+2. Enter an “X” in the
+“CORRECTED” checkbox at the
+top of the form.
+
+3. Submit the standalone corrected
+Form 1094-C with the correct
+information present.
+
+Original Alternative Furnishing Method Under the Qualifying
+Offer Method Statement Furnished to Employee
+IF any of the following are
+incorrect ...
+
+THEN ...
+
+Name, SSN, ALE Member EIN
+
+• Submission to the IRS:
+1. Prepare a new Form 1095-C.
+2. Enter an “X” in the
+“CORRECTED” checkbox at the
+top of the form.
+3. Submit corrected Form
+1095-Cs with a non-authoritative
+Form 1094-C transmittal to the
+IRS.
+
+Offer of Coverage
+
+• Furnish to employee:
+If, after the correction, the ALE
+Member is still eligible to use the
+alternative furnishing method under
+the Qualifying Offer Method, furnish
+the employee either a Form 1095-C
+or corrected statement.
+If the ALE Member is no longer
+eligible to use the alternative
+furnishing method with respect to
+the employee, furnish a Form
+1095-C to the employee.
+
+Furnishing Forms 1095-C to Employees
+
+You will meet the requirement to furnish Form 1095-C to
+an employee if the form is properly addressed and mailed
+on or before the due date. If the due date falls on a
+weekend or legal holiday, then the due date is the
+following business day. A business day is any day that is
+not a Saturday, Sunday, or legal holiday.
+An ALE Member must furnish a Form 1095-C to each of
+its full-time employees by March 2, 2026, for the 2025
+calendar year. See Extensions of time to furnish
+statements to recipients, below.
+
+6
+
+Instructions for Forms 1094-C and 1095-C (2025)
+
+For more information on alternative furnishing methods
+for employers, see Qualifying Offer Method, later.
+Filers of Form 1095-C may truncate the social security
+number (SSN) of an individual (the employee or any family
+member of the employee receiving coverage) on Form
+1095-C statements furnished to employees by showing
+only the last four digits of the SSN and replacing the first
+five digits with asterisks (*) or Xs. Truncation is not allowed
+on forms filed with the IRS. In addition, an ALE Member’s
+EIN may not be truncated on the statements furnished to
+employees or the forms filed with the IRS.
+Except as provided below, statements must be
+furnished on paper by mail (or hand delivered), unless the
+recipient affirmatively consents to receive the statement in
+an electronic format. If mailed, the statement must be sent
+to the employee’s last known permanent address, or if no
+permanent address is known, to the employee’s
+temporary address. For more information on furnishing
+statements to non-full-time employees and nonemployees
+who are enrolled in employer-sponsored self-insured
+health coverage, see Alternative manner of furnishing
+statements, later.
+Consent to furnish statement electronically. An ALE
+Member is required to obtain affirmative consent to furnish
+a statement electronically. This requirement ensures that
+statements are furnished electronically only to individuals
+who are able to access them. The consent must relate
+specifically to receiving the Form 1095-C electronically. An
+individual may consent on paper or electronically, such as
+by email. If consent is on paper, the individual must
+confirm the consent electronically. A statement may be
+furnished electronically by email or by informing the
+individual how to access the statement on the ALE
+Member’s website. Statements reporting coverage and
+offers of coverage under an expatriate health plan,
+however, may be furnished electronically unless the
+recipient explicitly refuses to consent to receive the
+statement in an electronic format. Specific information on
+consents to furnish statements electronically can be found
+in Regulations section 301.6056-2.
+Extensions of time to furnish statements to recipients. The due date for furnishing Form 1095-C is
+automatically extended from January 31, 2026, to March
+2, 2026. Thus, no additional extensions will be granted.
+Information reporting penalties. All employers subject
+to the employer shared responsibility provisions and other
+employers that sponsor self-insured group health plans
+that fail to comply with the applicable information reporting
+requirements may be subject to the general reporting
+penalty provisions for failure to file correct information
+returns and failure to furnish correct payee statements. For
+returns required to be made and statements required to
+be furnished for 2025 tax year returns, the following apply.
+• The penalty for failure to file a correct information return
+is $340 for each return for which the failure occurs, with
+the total penalty for a calendar year not to exceed
+$4,098,500.
+• The penalty for failure to provide a correct payee
+statement is $340 for each statement for which the failure
+occurs, with the total penalty for a calendar year not to
+exceed $4,098,500.
+Instructions for Forms 1094-C and 1095-C (2025)
+
+• Special rules apply that increase the per-statement and
+total penalties if there is intentional disregard of the
+requirement to file the returns and furnish the required
+statements.
+Penalties may be waived if the failure was due to
+reasonable cause and not willful neglect. See section
+6724 and Regulations section 301.6724-1 and
+Regulations section 1.6055-1(h) (which relate to Form
+1095-C, Part III). For additional information, see Pub.
+1586.
+Alternative manner of furnishing statements. If you
+are an ALE Member that offers employer-sponsored,
+self-insured health coverage and meets the requirements
+of Regulations section 1.6055-1(g), you may use the
+alternative manner of furnishing statements to
+non-full-time employees and nonemployees who are
+enrolled in the self-insured health coverage. To use the
+alternative manner of furnishing statements, the following
+conditions must be met.
+• The employer must provide clear and conspicuous
+notice, in a location on its website that is reasonably
+accessible to all individuals, stating that individuals may
+receive a copy of their statement upon request. The notice
+must include an email address, a physical address to
+which a request for a statement may be sent, and a
+telephone number that individuals may use to contact the
+employer with any questions. A notice posted on an
+employer’s website must be written in plain, non-technical
+terms and with letters of a font size large enough,
+including any visual clues or graphical figures, to call to a
+viewer’s attention that the information pertains to tax
+statements reporting that individuals had health coverage.
+For example, an employer’s website provides a clear and
+conspicuous notice if it (1) includes a statement on the
+main page, or a link on the main page, reading “Tax
+Information,” to a secondary page that includes a
+statement, in capital letters, “IMPORTANT HEALTH
+COVERAGE TAX DOCUMENTS”; (2) explains how
+non-full-time employees and nonemployees who are
+enrolled in the plan may request a copy of Form 1095-C;
+and (3) includes the employer’s email address, mailing
+address, and telephone number.
+• The employer must post the notice on its website by
+March 2, 2026, and retain the notice in the same location
+on its website through October 15, 2026.
+• The employer must furnish the statement to a
+requesting individual within 30 days of the date the
+request is received. To satisfy this requirement, the
+employer may furnish the statement electronically if the
+recipient affirmatively consents.
+Effective January 31, 2024, employers no longer have
+to automatically send Form 1095-C to individuals.
+Employers can now post a notice on its website informing
+individuals that they may request a copy of the statement.
+The requirement to provide the statement is met as long
+as the notice satisfies the requirements set forth above
+and is:
+• Clear, conspicuous, and reasonably accessible to all
+responsible individuals;
+• Timely posted, which for tax year 2025 is by March 2,
+2026, and retained until October 15 of the filing year; and
+7
+
+• Furnished to the individual no later than the later of
+January 31, 2026, or 30 days after the date of the request.
+For additional guidance, see IRS.gov irb/
+2025-11_IRB#NOT-2025-15.
+
+Specific Instructions for Form 1094-C
+Part I—Applicable Large Employer Member
+(ALE Member)
+Line 1. Enter employer’s name. The employer is the ALE
+Member.
+Line 2. Enter the ALE Member’s EIN. Do not enter an
+SSN. Enter the nine-digit EIN, including the dash.
+Caution: If you are filing Form 1094-C, a valid EIN is
+required at the time the form is filed. If a valid EIN is not
+provided, Form 1094-C will not be processed. If you do
+not have an EIN, you may apply for one online. Go to
+IRS.gov/EIN. You may also apply by faxing or mailing
+Form SS-4, Application for Employer Identification
+Number, to the IRS. See the Instructions for Form SS-4
+and Pub. 1635, Understanding Your EIN.
+Lines 3–6. Enter the ALE Member’s complete address
+(including room or suite no., if applicable). This address
+should match the ALE Member’s address used on Form
+1095-C.
+Lines 7 and 8. Enter the name and telephone number of
+the person to contact who is responsible for answering
+any questions from the IRS regarding the filing of, or
+information reported on, Form 1094-C or 1095-C. This
+may be different than the contact information on line 10 of
+Form 1095-C.
+Note: If you are a Designated Governmental Entity (DGE)
+filing on behalf of an ALE Member, complete lines 9–16. If
+you are not a DGE filing on behalf of an ALE Member, do
+not complete lines 9–16. Instead, skip to line 18. See
+Designated Governmental Entity (DGE) in the Definitions
+section of these instructions.
+Line 9. If a DGE is filing on behalf of the ALE Member,
+enter the name of the DGE.
+Line 10. Enter the DGE’s EIN (including the dash). Do
+not enter an SSN.
+Caution: If you are a DGE that is filing Form 1094-C, a
+valid EIN is required at the time the return is filed. If a valid
+EIN is not provided, the return will not be processed. If the
+DGE does not have an EIN when filing Form 1094-C, it
+can get an EIN by applying online at IRS.gov/EIN or by
+faxing or mailing a completed Form SS-4. See the
+Instructions for Form SS-4 and Pub. 1635.
+Lines 11–14. Enter the DGE’s complete address
+(including room or suite no.).
+Lines 15 and 16. Enter the name and telephone number
+of the person to contact who is responsible for answering
+any questions from the IRS regarding the filing of, or
+information reported on, Form 1094-C.
+Line 17. Reserved for future use.
+
+8
+
+Line 18. Enter the total number of Forms 1095-C
+submitted with this Form 1094-C transmittal.
+Line 19. If this Form 1094-C transmittal is the
+Authoritative Transmittal that reports aggregate
+employer-level data for the ALE Member, check the box
+on line 19 and complete Parts II, III, and IV, to the extent
+applicable. Otherwise, complete the signature portion of
+Form 1094-C and leave the remainder of Parts II, III, and
+IV blank.
+There must be only one Authoritative Transmittal filed
+for each ALE Member. If this is the only Form 1094-C
+being filed for the ALE Member, this Form 1094-C must
+report aggregate employer-level data for the ALE Member
+and be identified on line 19 as the Authoritative
+Transmittal. If multiple Forms 1094-C are being filed for an
+ALE Member so that Forms 1095-C for all full-time
+employees of the ALE Member are not attached to a
+single Form 1094-C transmittal (because Forms 1095-C
+for some full-time employees of the ALE Member are
+being transmitted separately), one (and only one) of the
+Forms 1094-C must report aggregate employer-level data
+for the ALE Member and be identified on line 19 as the
+Authoritative Transmittal. For more information, see
+Authoritative Transmittal for ALE Members Filing Multiple
+Forms 1094-C, earlier.
+
+Part II—ALE Member Information
+Reminder. Lines 20–22 should be completed only on the
+Authoritative Transmittal for the ALE Member. For more
+information, see Authoritative Transmittal for ALE
+Members Filing Multiple Forms 1094-C, earlier.
+Line 20. Enter the total number of Forms 1095-C that will
+be filed by, and/or on behalf of, the ALE Member. This
+includes all Forms 1095-C that are filed with this
+transmittal, including those filed for individuals who
+enrolled in the employer-sponsored, self-insured plan, if
+any, and for any Forms 1095-C filed with a separate
+transmittal filed by, or on behalf of, the ALE Member.
+Line 21. If during any month of the calendar year the ALE
+Member was a member of an Aggregated ALE Group,
+check “Yes.” If you check “Yes,” also complete the
+“Aggregated Group Indicator” in Part III, column (d), and
+then complete Part IV to list the other members of the
+Aggregated ALE Group. If, for all 12 months of the
+calendar year, the employer was not a member of an
+Aggregated ALE Group, check “No,” and do not complete
+Part III, column (d), or Part IV.
+Line 22. If the ALE Member meets the eligibility
+requirements and is using one of the Offer Methods, it
+must check the applicable box. See the descriptions of
+Qualifying Offer Method and 98% Offer Method, later.
+A. Qualifying Offer Method. Check this box if the ALE
+Member is eligible to use, and is using, the Qualifying
+Offer Method to report the information on Form 1095-C for
+one or more full-time employees. Under the Qualifying
+Offer Method, there is an alternative method of completing
+Form 1095-C and an alternative method for furnishing
+Form 1095-C to certain employees. If the ALE Member is
+using either of these alternative rules, check this box. To
+be eligible to use the Qualifying Offer Method, the ALE
+Member must certify that it made a Qualifying Offer to one
+Instructions for Forms 1094-C and 1095-C (2025)
+
+or more of its full-time employees for all months during the
+year in which the employee was a full-time employee for
+whom an employer shared responsibility payment could
+apply. Additional requirements described below must be
+met to be eligible to use the alternative method for
+furnishing Form 1095-C to employees under the
+Qualifying Offer Method.
+Alternative method of completing Form 1095-C
+under the Qualifying Offer Method. If the ALE Member
+reports using this method, it must not complete Form
+1095-C, Part II, line 15, for any month for which a
+Qualifying Offer is made. Instead, it must enter the
+Qualifying Offer code 1A on Form 1095-C, line 14, for any
+month for which the employee received a Qualifying Offer
+(or in the “All 12 Months” box if the employee received a
+Qualifying Offer for all 12 months), and must leave line 15
+blank for any month for which code 1A is entered on
+line 14. The ALE Member may, but is not required to, enter
+an applicable code on line 16 for any month for which
+code 1A is entered on line 14; a Qualifying Offer is, by
+definition, treated as an offer that falls within an
+affordability safe harbor even if no code is entered on
+line 16.
+An ALE Member is not required to use the Qualifying
+Offer Method even if it is eligible, and instead may enter
+on line 14 the applicable offer code and then enter on
+line 15 the Employee Required Contribution.
+Tip: If the ALE Member is eligible to use the Qualifying
+Offer Method, it may report on Form 1095-C by entering
+the Qualifying Offer code 1A on Form 1095-C, line 14, for
+any month for which it made a Qualifying Offer to an
+employee, even if the employee did not receive a
+Qualifying Offer for all 12 calendar months. However, if an
+employee receives a Qualifying Offer for less than all 12
+months, the ALE Member must furnish a copy of Form
+1095-C to the employee (rather than using the alternative
+method of furnishing Form 1095-C described later).
+Example. Employee’s employment with Employer
+begins on January 1. Employee is in a health coverage
+waiting period (and an employer shared responsibility
+payment could not apply with respect to Employee,
+because Employee is in a Limited Non-Assessment
+Period) until April 1 and is a full-time employee for the
+remainder of the calendar year. Employer makes a
+Qualifying Offer to Employee for coverage beginning on
+April 1 and for the remainder of the calendar year.
+Employer is eligible to use the Qualifying Offer method
+because it has made a Qualifying Offer to at least one
+full-time employee for all months in which both (1) the
+employee was a full-time employee, and (2) an employer
+shared responsibility payment could apply with respect to
+the employee. Employer may use the alternative method
+of completing Form 1095-C under the Qualifying Offer
+Method for this Employee. However, Employer may not
+use the alternative method of furnishing Form 1095-C to
+Employee under the Qualifying Offer Method because
+Employee did not receive a Qualifying Offer for all 12
+months of the calendar year.
+Alternative method of furnishing Form 1095-C to
+employees under the Qualifying Offer Method. An
+ALE Member that is eligible to use the Qualifying Offer
+Method may use the alternative method of furnishing Form
+Instructions for Forms 1094-C and 1095-C (2025)
+
+1095-C only for a full-time employee who (1) received a
+Qualifying Offer for all 12 months of the calendar year, and
+(2) did not enroll in employer-sponsored, self-insured
+coverage. For such an employee, an ALE Member meets
+its obligation to furnish a Form 1095-C to the employee if it
+furnishes the employee a statement containing the
+following information.
+• Employer/ALE Member name, address, and EIN.
+• Contact name and telephone number at which the
+employee may receive information about the offer of
+coverage and the information on the Form 1095-C filed
+with the IRS for that employee.
+• Notification that, for all 12 months of the calendar year,
+the employee and their spouse and dependents, if any,
+received a Qualifying Offer and therefore the employee is
+not eligible for a premium tax credit.
+• Information directing the employee to see Pub. 974,
+Premium Tax Credit (PTC), for more information on
+eligibility for the premium tax credit.
+An ALE Member is not required to use the alternative
+method of furnishing for an employee even if the
+alternative method would be allowed. Instead, the ALE
+Member may furnish a copy of Form 1095-C as filed with
+the IRS (with or without the statement described earlier).
+As stated earlier, an ALE Member may not use the
+alternative furnishing method for a full-time employee who
+enrolled in self-insured coverage. Rather, the ALE
+Member must furnish Form 1095-C, including the
+information reporting enrollment in the coverage on Form
+1095-C, Part III.
+B. Reserved for future use.
+C. Reserved for future use.
+D. 98% Offer Method. Check this box if the employer
+is eligible for, and is using, the 98% Offer Method. To be
+eligible to use the 98% Offer Method, an employer must
+certify that, taking into account all months during which
+the individuals were employees of the ALE Member and
+were not in a Limited Non-Assessment Period, the ALE
+Member offered affordable health coverage providing
+minimum value to at least 98% of its employees for whom
+it is filing a Form 1095-C employee statement, and offered
+minimum essential coverage to those employees’
+dependents. The ALE Member is not required to identify
+which of the employees for whom it is filing were full-time
+employees, but the ALE Member is still required, under
+the general reporting rules, to file Forms 1095-C on behalf
+of all its full-time employees who were full-time employees
+for 1 or more months of the calendar year. To ensure
+compliance with the general reporting rules, an ALE
+Member should confirm for any employee for whom it fails
+to file a Form 1095-C that the employee was not a full-time
+employee for any month of the calendar year. For this
+purpose, the health coverage is affordable if the ALE
+Member meets one of the section 4980H affordability safe
+harbors.
+Example. Employer has 325 employees. Of those 325
+employees, Employer identifies 25 employees as not
+possibly being full-time employees because they are
+scheduled to work 10 hours per week and are not eligible
+for additional hours. Of the remaining 300 employees, 295
+are offered affordable minimum value coverage for all
+periods during which they are employed other than any
+9
+
+applicable waiting period (which qualifies as a Limited
+Non-Assessment Period). Employer files a Form 1095-C
+for each of the 300 employees (excluding the 25
+employees that it identified as not possibly being full-time
+employees). Employer may use the 98% Offer Method
+because it makes an affordable offer of coverage that
+provides minimum value to at least 98% of the employees
+for whom Employer files a Form 1095-C. Using this
+method, Employer does not identify whether each of the
+300 employees is a full-time employee. However,
+Employer must still file a Form 1095-C for all of its full-time
+employees. Employer chooses to file a Form 1095-C on
+behalf of all 300 employees, including the five employees
+to whom it did not offer coverage, because if one or more
+of those employees was, in fact, a full-time employee for 1
+or more months of the calendar year, Employer would be
+required to have filed a Form 1095-C on behalf of those
+employees.
+Note: If an ALE Member uses the 98% Offer Method, it is
+not required to complete the “Section 4980H Full-Time
+Employee Count for ALE Member” in Part III, column (b).
+
+Part III—ALE Member Information—Monthly
+(Lines 23–35)
+Column (a)—Minimum Essential Coverage Offer Indicator.
+• If the ALE Member offered minimum essential
+coverage, including an individual coverage HRA, to at
+least 95% of its full-time employees and their dependents
+for the entire calendar year, enter “X” in the “Yes”
+checkbox on line 23 for “All 12 Months” or for each of the
+12 calendar months.
+• If the ALE Member offered minimum essential
+coverage, including an individual coverage HRA, to at
+least 95% of its full-time employees and their dependents
+only for certain calendar months, enter “X” in the “Yes”
+checkbox for each applicable month.
+• For the months, if any, for which the ALE Member did
+not offer minimum essential coverage, including an
+individual coverage HRA, to at least 95% of its full-time
+employees and their dependents, enter “X” in the “No”
+checkbox for each applicable month.
+• If the ALE Member did not offer minimum essential
+coverage, including an individual coverage HRA, to at
+least 95% of its full-time employees and their dependents
+for any of the 12 months, enter “X” in the “No” checkbox
+for “All 12 Months” or for each of the 12 calendar months.
+Note: For purposes of column (a), an employee in a
+Limited Non-Assessment Period is not counted in
+determining whether minimum essential coverage was
+offered to at least 95% of an ALE Member’s full-time
+employees and their dependents. For a description of the
+differences between the definition of the term “Limited
+Non-Assessment Period” used with respect to section
+4980H(a) and the definition used with respect to section
+4980H(b), relating to whether the ALE Member offers
+minimum value coverage at the end of the Limited
+Non-Assessment Period, see the Definitions section.
+Tip: An employee who is treated as having been offered
+health coverage, including an individual coverage HRA,
+10
+
+for purposes of section 4980H (even though not actually
+offered) is treated as offered minimum essential coverage
+for this purpose. For example, for the months for which the
+ALE Member is eligible for multiemployer arrangement
+interim guidance (if the ALE Member is contributing on
+behalf of an employee whether or not the employee is
+eligible for coverage under the multiemployer plan) with
+respect to an employee, that employee should be treated
+as having been offered minimum essential coverage for
+purposes of column (a). For different rules for purposes of
+reporting offers of coverage on Form 1095-C, see the
+specific instructions for Form 1095-C, Part II, Line 14.
+Tip: For purposes of column (a), if the ALE Member
+offered minimum essential coverage to all but five of its
+full-time employees and their dependents, and five is
+greater than 5% of the number of full-time employees of
+the ALE Member, the ALE Member may report in column
+(a) as if it offered health coverage to at least 95% of its
+full-time employees and their dependents (even if it
+offered health coverage to less than 95% of its full-time
+employees and their dependents, for example, to 75 of its
+80 full-time employees and their dependents).
+See Definitions, later, for more information on an offer
+of health coverage.
+Column (b)—Section 4980H Full-Time Employee
+Count for ALE Member. Enter the number of full-time
+employees for each month, but do not count any
+employee in a Limited Non-Assessment Period. If the
+number of full-time employees (excluding employees in a
+Limited Non-Assessment Period) for a month is zero,
+enter -0-. An employee should be counted as a full-time
+employee for a month if the employee satisfied the
+definition of “full-time employee” under the monthly
+measurement method or the look-back measurement
+method (as applicable) on any day of the month. See
+Full-time employee and Limited Non-Assessment Period
+in the Definitions section. Be sure to use the section
+4980H definition and not any other definition of the term
+“full-time employee” that you may use for other purposes.
+Example. Employer uses the look-back measurement
+method to determine the full-time status of its employees.
+Employee, who is not in a Limited Non-Assessment
+Period, averaged over 130 hours of service per month
+during the measurement period that corresponds with the
+stability period starting January 1, 2025, and ending
+December 31, 2025. Employee terminates employment
+with Employer on February 15, 2025. Employer must
+include Employee in the number of full-time employees
+reported in column (b) for January and February. See the
+description of code 2B in the instructions for line 16 of
+Form 1095-C, later, for rules for reporting an offer of
+coverage in an employee’s final month of employment.
+Note: If the ALE Member certified that it was eligible for
+the 98% Offer Method by selecting box D, on line 22, it is
+not required to complete column (b).
+Column (c)—Total Employee Count for ALE Member.
+Enter the total number of all of the ALE Member’s
+employees, including full-time employees and
+non-full-time employees, and employees in a Limited
+Non-Assessment Period, for each calendar month. An
+Instructions for Forms 1094-C and 1095-C (2025)
+
+ALE Member must choose to use one of the following
+days of the month to determine the number of employees
+per month and must use that day for all months of the
+year: (1) the 1st day of each month, (2) the last day of
+each month, (3) the 12th day of each month, (4) the 1st
+day of the 1st payroll period that starts during each month,
+or (5) the last day of the 1st payroll period that starts
+during each month (provided that for each month that last
+day falls within the calendar month in which the payroll
+period starts). If the total number of employees was the
+same for every month of the entire calendar year, enter
+that number in line 23, column (c), “All 12 Months,” or in
+the boxes for each month of the calendar year. If the
+number of employees for any month is zero, enter -0-.
+Column (d)—Aggregated Group Indicator. An ALE
+Member must complete this column if it checked “Yes” on
+line 21, indicating that, during any month of the calendar
+year, it was a member of an Aggregated ALE Group. If the
+ALE Member was a member of an Aggregated ALE Group
+during each month of the calendar year, enter “X” in the
+“All 12 Months” box or in the boxes for each of the 12
+calendar months. If the ALE Member was not a member of
+an Aggregated ALE Group for all 12 months but was a
+member of an Aggregated ALE Group for 1 or more
+month(s), enter “X” in each month for which it was a
+member of an Aggregated ALE Group. If an ALE Member
+enters “X” in 1 or more months in this column, it must also
+complete Part IV.
+
+Part IV—Other ALE Members of Aggregated ALE
+Group (Lines 36–65)
+An ALE Member must complete this section if it checks
+“Yes” on line 21. If the ALE Member was a member of an
+Aggregated ALE Group (with other ALE Members) for any
+month of the calendar year, enter the name(s) and EIN(s)
+of up to 30 of the other Aggregated ALE Group members
+(not including the reporting ALE Member). If there are
+more than 30 members of the Aggregated ALE Group (not
+including the reporting ALE Member), enter the 30 with
+the highest monthly average number of full-time
+employees (using the number reported in Part III, column
+(b), if a number was required to be reported) for the year
+or for the number of months during which the ALE
+Member was a member of the Aggregated ALE Group. If
+any member of the Aggregated ALE Group uses the 98%
+Offer Method and thus is not required to identify which
+employees are full-time employees, all ALE Members of
+the Aggregated ALE Group should use the monthly
+average number of total employees rather than the
+monthly average number of full-time employees for this
+purpose. Regardless of the number of members in the
+Aggregated ALE Group, list only the 30 members in
+descending order, listing first the member with the highest
+average monthly number of full-time employees (or
+highest average number of total employees, if any
+member of the Aggregated ALE Group uses the 98%
+Offer Method), but do not include the reporting ALE
+Member. The reporting ALE Member must also complete
+Part III, column (d), to indicate which months it was part of
+an Aggregated ALE Group.
+Caution: If you are filing Form 1094-C, a valid EIN is
+required at the time it is filed. If a valid EIN is not provided,
+Instructions for Forms 1094-C and 1095-C (2025)
+
+Form 1094-C will not be processed. If you do not have an
+EIN, you may apply for one online. Go to IRS.gov/EIN. You
+may also apply by faxing or mailing Form SS-4 to the IRS.
+See the Instructions for Form SS-4 and Pub. 1635.
+
+Specific Instructions for Form 1095-C
+Part I—Employee
+Line 1. Enter the name of the employee (first name,
+middle initial, last name).
+Line 2. Enter the nine-digit SSN of the employee
+(including the dashes).
+Lines 3–6. Enter the employee’s complete address,
+including apartment no., if applicable. A country code is
+not required for U.S. addresses.
+
+Part I—Applicable Large Employer Member
+(Employer)
+Line 7. Enter the name of the ALE Member.
+Line 8. Enter the ALE Member’s EIN. Do not enter an
+SSN. Enter the nine-digit EIN, including the dash. The
+ALE Member’s name and EIN should match the name and
+EIN of the ALE Member reported on lines 1 and 2 of Form
+1094-C.
+Caution: If you are filing Form 1095-C, a valid EIN is
+required at the time it is filed. If a valid EIN is not provided,
+Form 1095-C will not be processed. If you do not have an
+EIN, you may apply for one online. Go to IRS.gov/EIN. You
+may also apply by faxing or mailing Form SS-4 to the IRS.
+See the Instructions for Form SS-4 and Pub. 1635.
+Lines 9 and 11–13. Enter the ALE Member’s complete
+address (including room or suite no., if applicable). This
+address should match the address reported on lines 3–6
+of the Form 1094-C.
+Line 10. Enter the telephone number of the person to
+contact whom the recipient may call about the information
+reported on the form. This may be different than the
+contact information entered on line 8 of Form 1094-C.
+
+Part II—Employee Offer of Coverage
+Age. If the employee was offered an individual coverage
+HRA, enter the employee’s age on January 1, 2025. Note
+that for non-calendar year plans or for employees who
+become eligible during the plan year, this age may not be
+the Applicable age used to determine Employee Required
+Contribution.
+Plan Start Month. This box is required for the 2025 Form
+1095-C and the ALE Member may not leave it blank. To
+complete the box, enter the two-digit number (01 through
+12) indicating the calendar month during which the plan
+year begins of the health plan in which the employee is
+offered coverage (or would be offered coverage if the
+employee were eligible to participate in the plan). If more
+than 1 plan year could apply (for instance, if the ALE
+Member changes the plan year during the year), enter the
+earliest applicable month. If there is no health plan under
+which coverage is offered to the employee, enter “00.”
+
+11
+
+Line 14. For each calendar month, enter the applicable
+code from Code Series 1. If the same code applies for all
+12 calendar months, you may enter the applicable code in
+the “All 12 Months” box and not complete the individual
+calendar month boxes, or you may enter the code in each
+of the boxes for the 12 calendar months. If an employee
+was not offered coverage for a month, enter code 1H. Do
+not leave line 14 blank for any month (including months
+when the individual was not an employee of the ALE
+Member). An ALE Member offers health coverage for a
+month only if it offers health coverage that would provide
+coverage for every day of that calendar month. Thus, if
+coverage terminates before the last day of the month
+(because, for instance, the employee terminates
+employment with the ALE Member, or otherwise loses
+eligibility for coverage under the plan), the employee does
+not actually have an offer of coverage for that month (and
+code 1H should therefore be entered on line 14). See
+line 16, code 2B, later, for how the ALE Member may
+complete line 16 in the event that coverage terminates
+before the last day of the month.
+A code must be entered for each calendar month,
+January through December, even if the employee was not
+a full-time employee for 1 or more of the calendar months.
+Enter the code identifying the type of health coverage
+actually offered by the ALE Member (or on behalf of the
+ALE Member) to the employee, if any. If the employee was
+not actually offered coverage, enter code 1H (no offer of
+coverage) on line 14.
+For reporting offers of coverage for 2025, an ALE
+Member relying on the multiemployer arrangement interim
+guidance should enter code 1H on line 14 for any month
+for which the ALE Member enters code 2E on line 16
+(indicating that the ALE Member was required to
+contribute to a multiemployer plan on behalf of the
+employee for that month and therefore is eligible for
+multiemployer interim rule relief). For a description of the
+multiemployer arrangement interim guidance, see Offer of
+health coverage in the Definitions section. For reporting
+for 2025, code 1H may be entered without regard to
+whether the employee was eligible to enroll, or enrolled in,
+coverage under the multiemployer plan. For reporting for
+2026 and future years, ALE Members relying on the
+multiemployer arrangement interim guidance may be
+required to report offers of coverage made through a
+multiemployer plan in a different manner.
+
+Indicator Codes for Employee Offer of Coverage
+(Form 1095-C, Line 14)
+Code Series 1—Offer of Coverage. The Code Series 1
+indicator codes specify the type of coverage, if any,
+offered to an employee, the employee’s spouse, and the
+employee’s dependents. The term Dependent has the
+specific meaning set forth in the Definitions section of
+these instructions. In addition, for this purpose, an offer of
+coverage is treated as made to an employee’s
+dependents only if the offer of coverage is made to an
+unlimited number of dependents regardless of the actual
+number of dependents, if any, an employee has during
+any particular calendar month.
+
+12
+
+If the type of coverage, if any, offered to an employee
+was the same for all 12 months in the calendar year, enter
+the Code Series 1 indicator code corresponding to the
+type of coverage offered either in the “All 12 Months” box
+or in each of the 12 boxes for the calendar months.
+Conditional offer of spousal coverage. Codes 1J
+and 1K address conditional offers of spousal coverage
+(also referred to as “coverage offered conditionally”). A
+conditional offer is an offer of coverage that is subject to
+one or more reasonable, objective conditions (for
+example, an offer to cover an employee’s spouse only if
+the spouse is not eligible for coverage under Medicare or
+a group health plan sponsored by another employer).
+Using codes 1J and 1K, an ALE Member may report a
+conditional offer to a spouse as an offer of coverage,
+regardless of whether the spouse meets the reasonable,
+objective condition. A conditional offer may impact a
+spouse’s eligibility for the premium tax credit under
+section 36B only if all conditions to the offer are satisfied
+(that is, the spouse was actually offered the coverage and
+eligible for it) and the Exchange makes a determination
+about the affordability of the offer. To help employees (and
+spouses) who have received a conditional offer determine
+their eligibility for the premium tax credit, the ALE Member
+should be prepared to provide, upon request, a list of any
+and all conditions applicable to the spousal offer of
+coverage. As is noted in the definition of Dependent in the
+Definitions section, a spouse is not a dependent for
+purposes of section 4980H.
+An ALE Member may not report a conditional offer of
+coverage to an employee’s dependents as an offer to the
+dependents, unless the ALE Member knows that the
+dependents met the condition to be eligible for the ALE
+Member’s coverage. Further, an offer of coverage is
+treated as made to an employee’s dependents only if the
+offer of coverage is made to an unlimited number of
+dependents regardless of the actual number of
+dependents, if any, an employee has during any particular
+calendar month.
+COBRA continuation coverage. An offer of COBRA
+continuation coverage is reported differently depending on
+whether or not the offer is made due to an employee’s
+termination of employment.
+An offer of COBRA continuation coverage that is made
+to a former employee (or to a former employee’s spouse
+or dependents) due to termination of employment should
+not be reported as an offer of coverage on line 14. In this
+situation, code 1H (no offer of coverage) must be entered
+on line 14 for any month for which the offer of COBRA
+continuation coverage applies, and code 2A (Employee
+not employed during the month) must be entered on
+line 16 (see the instructions for line 16), without regard to
+whether the employee or spouse or dependents enrolled
+in the COBRA coverage. However, for the month in which
+the employee terminates employment with the ALE
+Member, see the instructions for line 16, code 2B.
+An offer of COBRA continuation coverage that is made
+to an employee who remains employed by the ALE
+Member (or to that employee’s spouse and dependents)
+should be reported on line 14 as an offer of coverage, but
+only for any individual who receives an offer of COBRA
+continuation coverage (or an offer of similar coverage that
+Instructions for Forms 1094-C and 1095-C (2025)
+
+is made at the same time as the offer of COBRA
+continuation coverage is made to enrolled individuals).
+Generally, an offer of COBRA continuation coverage is
+required to be made only to individuals who were enrolled
+in coverage and would lose eligibility for coverage due to
+the COBRA qualifying event, but an ALE Member may
+choose to extend a similar offer of coverage to a spouse
+or dependent even if the offer is not required by COBRA.
+Example. During the applicable open enrollment
+period for its health plan, Employer makes an offer of
+minimum essential coverage providing minimum value to
+Employee and to Employee’s spouse and dependents.
+Employee elects to enroll in employee-only coverage
+starting January 1. On June 1, Employee experiences a
+reduction in hours that results in loss of eligibility for
+coverage under the plan. As of June 1, Employer
+terminates Employee’s existing coverage and makes an
+offer of COBRA continuation coverage to Employee, but
+does not make an offer to Employee’s spouse and
+dependents. Employer should enter code 1E (Minimum
+essential coverage providing minimum value offered to
+employee and at least minimum essential coverage
+offered to dependent(s) and spouse) on line 14 for months
+January–May, and should enter code 1B (Minimum
+essential coverage providing minimum value offered to
+employee only) on line 14 for months June–December.
+Note: Notwithstanding the preceding instructions for
+completing line 14 of Form 1095-C, for purposes of
+section 4980H, an ALE Member is treated as having
+made an offer to the employee’s dependents for an entire
+plan year if the ALE Member provided the employee an
+effective opportunity to enroll the employee’s dependents
+at least once for the plan year, even if the employee
+declined to enroll the dependents in the coverage and, as
+a result, the dependents later did not receive an offer of
+COBRA coverage.
+Post-employment (non-COBRA) coverage. An offer
+of post-employment coverage to a former employee (or to
+that former employee’s spouse or dependent(s)) for
+coverage that would be effective after the employee has
+terminated employment (such as at retirement) should not
+be reported as an offer of coverage on line 14. If the ALE
+Member is otherwise required to file Form 1095-C for the
+former employee (because, for example, the individual
+was a full-time employee for 1 or more months in the
+calendar year in which the termination of employment
+occurred), the ALE Member should enter code 1H (no
+offer of coverage) on line 14 for any month to which an
+offer of post-employment coverage applies, and should
+also enter code 2A (not an employee) on line 16 (see the
+instructions for line 16).
+Tip: For additional information, including examples about
+reporting offers of COBRA continuation coverage and
+post-employment coverage, go to IRS.gov/AffordableCare-Act/Employers/Questions-and-Answers-aboutInformation-Reporting-by-Employers-on-Form-1094-Cand-Form-1095-C.
+• 1A. Qualifying Offer: Minimum essential coverage
+providing minimum value offered to full-time employee
+with Employee Required Contribution equal to or less than
+9.5% (as adjusted) of mainland single federal poverty line
+Instructions for Forms 1094-C and 1095-C (2025)
+
+and at least minimum essential coverage offered to
+spouse and dependent(s).
+Tip: This code may be used to report for specific months
+for which a Qualifying Offer was made, even if the
+employee did not receive a Qualifying Offer for all 12
+months of the calendar year. However, an ALE Member
+may not use the Alternative Furnishing Method for an
+employee who did not receive a Qualifying Offer for all 12
+calendar months.
+• 1B. Minimum essential coverage providing minimum
+value offered to employee only.
+• 1C. Minimum essential coverage providing minimum
+value offered to employee and at least minimum essential
+coverage offered to dependent(s) (not spouse).
+• 1D. Minimum essential coverage providing minimum
+value offered to employee and at least minimum essential
+coverage offered to spouse (not dependent(s)). Do not
+use code 1D if the coverage for the spouse was offered
+conditionally. Instead, use code 1J.
+• 1E. Minimum essential coverage providing minimum
+value offered to employee and at least minimum essential
+coverage offered to dependent(s) and spouse. Do not use
+code 1E if the coverage for the spouse was offered
+conditionally. Instead, use code 1K.
+• 1F. Minimum essential coverage NOT providing
+minimum value offered to employee; employee and
+spouse or dependent(s); or employee, spouse, and
+dependents.
+• 1G. Offer of coverage for at least 1 month of the
+calendar year to an individual who was not an employee
+for any month of the calendar year or to an employee who
+was not a full-time employee for any month of the calendar
+year (which may include 1 or more months in which the
+individual was not an employee) and who enrolled in
+self-insured coverage for 1 or more months of the
+calendar year.
+Note: Code 1G applies for the entire year or not at all.
+Therefore, if code 1G applies, an ALE Member must enter
+code 1G on line 14 in the “All 12 Months” column or in
+each separate monthly box (for all 12 months).
+• 1H. No offer of coverage (employee not offered any
+health coverage or employee offered coverage that is not
+minimum essential coverage, which may include 1 or
+more months in which the individual was not an
+employee).
+• 1I. Reserved for future use.
+• 1J. Minimum essential coverage providing minimum
+value offered to employee and at least minimum essential
+coverage conditionally offered to spouse; minimum
+essential coverage not offered to dependent(s). (See
+Conditional offer of spousal coverage, earlier, for an
+additional description of conditional offers.)
+• 1K. Minimum essential coverage providing minimum
+value offered to employee; at least minimum essential
+coverage offered to dependents; and at least minimum
+essential coverage conditionally offered to spouse. (See
+Conditional offer of spousal coverage, earlier, for an
+additional description of conditional offers.)
+• 1L. Individual coverage HRA offered to employee only
+with affordability determined by using employee’s primary
+residence location ZIP code.
+13
+
+• 1M. Individual coverage HRA offered to employee and
+dependent(s) (not spouse) with affordability determined
+by using employee’s primary residence location ZIP code.
+• 1N. Individual coverage HRA offered to employee,
+spouse, and dependent(s) with affordability determined by
+using employee’s primary residence location ZIP code.
+• 1O. Individual coverage HRA offered to employees only
+using the employee’s primary employment site ZIP code
+affordability safe harbor.
+• 1P. Individual coverage HRA offered to employee and
+dependent(s) (not spouse) using the employee’s primary
+employment site ZIP code affordability safe harbor.
+• 1Q. Individual coverage HRA offered to employee,
+spouse, and dependent(s) using employee’s primary
+employment site ZIP code affordability safe harbor.
+• 1R. Individual coverage HRA that is NOT affordable
+offered to employee; employee and spouse, or
+dependent(s); or employee, spouse, and dependents.
+• 1S. Individual coverage HRA offered to an individual
+who was not a full-time employee.
+• 1T. Individual coverage HRA offered to employee and
+spouse (not dependents) with affordability determined
+using employee’s primary residence location ZIP code.
+• 1U. Individual coverage HRA offered to employee and
+spouse (not dependents) using employee’s primary
+employment site ZIP code affordability safe harbor.
+• 1V. Reserved for future use.
+• 1W. Reserved for future use.
+• 1X. Reserved for future use.
+• 1Y. Reserved for future use.
+• 1Z. Reserved for future use.
+Line 15. Complete line 15 only if code 1B, 1C, 1D, 1E, 1J,
+1K, 1L, 1M, 1N, 1O, 1P, 1Q, 1T, or 1U is entered on line 14
+either in the “All 12 Months” box or in any of the monthly
+boxes. Enter the amount of the Employee Required
+Contribution, which is, generally, the employee share of
+the monthly cost for the lowest-cost, self-only, minimum
+essential coverage providing minimum value that is
+offered to the employee. For additional details on how to
+determine the Employee Required Contribution, including
+how to determine the Employee Required Contribution for
+the individual coverage HRA, see the Definitions section,
+later. Enter the amount, including any cents. If the
+employee is offered coverage but the Employee Required
+Contribution is zero, enter “0.00” (do not leave blank). If
+the Employee Required Contribution was the same
+amount for all 12 calendar months, you may enter that
+monthly amount in the “All 12 Months” box and not
+complete the monthly boxes. If the Employee Required
+Contribution was not the same for all 12 months (for
+instance, if an ALE Member has a non-calendar year plan
+and the employee share of the premium changes with the
+new plan year that starts in 2025), enter the amount in
+each calendar month for which the employee was offered
+minimum value coverage. See the definition of Employee
+Required Contribution in the Definitions section, for more
+information, including on how to determine the monthly
+required contribution from annual data.
+Tip: For line 15, the amount entered might not be the
+amount the employee is paying for the coverage, for
+example, if the employee chose to enroll in more
+expensive coverage, such as family coverage, or if the
+14
+
+employee is eligible for certain other healthcare
+arrangements.
+Line 16. For each calendar month, enter the applicable
+code, if any, from Code Series 2. Enter only one code from
+Code Series 2 per calendar month. The instructions below
+address which code to use for a month if more than one
+code from Code Series 2 could apply. If the same code
+applies for all 12 calendar months, you may enter the code
+in the “All 12 Months” box and not complete the monthly
+boxes. If none of the codes apply for a calendar month,
+leave the line blank for that month.
+Code Series 2—Section 4980H Safe Harbor Codes
+and Other Relief for ALE Members. An ALE Member
+enters the applicable Code Series 2 indicator code, if any,
+on line 16 to report for 1 or more months of the calendar
+year that one of the following situations applied to the
+employee.
+• The employee was not employed or was not a full-time
+employee,
+• The employee enrolled in the minimum essential
+coverage offered,
+• The employee was in a Limited Non-Assessment
+Period with respect to section 4980H(b),
+• The ALE Member met one of the section 4980H
+affordability safe harbors with respect to this employee, or
+• The ALE Member was eligible for multiemployer interim
+rule relief for this employee.
+If no indicator code applies, leave line 16 blank. In some
+circumstances, more than one indicator code could apply
+to the same employee in the same month. For example,
+an employee could be enrolled in health coverage for a
+particular month during which they are not a full-time
+employee. However, only one code may be used for a
+particular calendar month. For any month in which an
+employee enrolled in minimum essential coverage, in
+general, indicator code 2C reporting enrollment is used
+instead of any other indicator code that could also apply
+(but see the exceptions to this rule below regarding the
+multiemployer interim rule relief and enrollment in COBRA
+continuation coverage or other post-employment
+coverage). For an employee who did not enroll in health
+coverage, there are some specific ordering rules for which
+code to use. See the descriptions of the codes.
+Note: There is no code to enter on line 16 to indicate that
+a full-time employee offered coverage either did not enroll
+in the coverage or waived the coverage.
+• 2A. Employee not employed during the month. Enter
+code 2A if the employee was not employed on any day of
+the calendar month. Do not use code 2A for a month if the
+individual was an employee of the ALE Member on any
+day of the calendar month. Do not use code 2A for the
+month during which an employee terminates employment
+with the ALE Member.
+• 2B. Employee not a full-time employee. Enter code 2B if
+the employee is not a full-time employee for the month
+and did not enroll in minimum essential coverage, if
+offered for the month. Enter code 2B also if the employee
+is a full-time employee for the month and whose offer of
+coverage (or coverage if the employee was enrolled)
+ended before the last day of the month solely because the
+employee terminated employment during the month (so
+Instructions for Forms 1094-C and 1095-C (2025)
+
+that the offer of coverage or coverage would have
+continued if the employee had not terminated employment
+during the month).
+• 2C. Employee enrolled in health coverage offered.
+Enter code 2C for any month in which the employee
+enrolled for each day of the month in health coverage
+offered by the ALE Member, regardless of whether any
+other code in Code Series 2 might also apply (for
+example, the code for a section 4980H affordability safe
+harbor) except as provided below. Do not enter code 2C
+on line 16 for any month in which the multiemployer
+interim rule relief applies (enter code 2E). Do not enter
+code 2C on line 16 if code 1G is entered on line 14. Do not
+enter code 2C on line 16 for any month in which a
+terminated employee is enrolled in COBRA continuation
+coverage or other post-employment coverage (enter code
+2A). Do not enter code 2C on line 16 for any month in
+which the employee enrolled in coverage that was not
+minimum essential coverage.
+• 2D. Employee in a section 4980H(b) Limited
+Non-Assessment Period. Enter code 2D for any month
+during which an employee is in a section 4980H(b)
+Limited Non-Assessment Period. If an employee is in an
+initial measurement period, enter code 2D (employee in a
+section 4980H(b) Limited Non-Assessment Period) for the
+month, and not code 2B (employee not a full-time
+employee). For an employee in a section 4980H(b)
+Limited Non-Assessment Period for whom the ALE
+Member is also eligible for the multiemployer interim rule
+relief for the month, enter code 2E (multiemployer interim
+rule relief) and not code 2D (employee in a section
+4980H(b) Limited Non-Assessment Period).
+• 2E. Multiemployer interim rule relief. Enter code 2E for
+any month for which the multiemployer arrangement
+interim guidance applies for that employee, regardless of
+whether any other code in Code Series 2 (including code
+2C) might also apply. This relief is described under Offer
+of Health Coverage in the Definitions section of these
+instructions.
+Note: Although ALE Members may use the section
+4980H affordability safe harbors to determine affordability
+for purposes of the multiemployer arrangement interim
+guidance, an ALE Member eligible for the relief provided
+in the multiemployer arrangement interim guidance for a
+month for an employee should enter code 2E
+(multiemployer interim rule relief), and not code 2F, 2G, or
+2H (codes for section 4980H affordability safe harbors).
+• 2F. Section 4980H affordability Form W-2 safe harbor.
+Enter code 2F if the ALE Member used the section 4980H
+Form W-2 safe harbor to determine affordability for
+purposes of section 4980H(b) for this employee for the
+year. If an ALE Member uses this safe harbor for an
+employee, it must be used for all months of the calendar
+year for which the employee is offered health coverage.
+• 2G. Section 4980H affordability federal poverty line safe
+harbor. Enter code 2G if the ALE Member used the
+section 4980H federal poverty line safe harbor to
+determine affordability for purposes of section 4980H(b)
+for this employee for any month(s).
+• 2H. Section 4980H affordability rate of pay safe harbor.
+Enter code 2H if the ALE Member used the section 4980H
+rate of pay safe harbor to determine affordability for
+
+Instructions for Forms 1094-C and 1095-C (2025)
+
+purposes of section 4980H(b) for this employee for any
+month(s).
+Note: An affordability safe harbor code should not be
+entered on line 16 for any month that the ALE Member did
+not offer minimum essential coverage, including an
+individual coverage HRA, to at least 95% of its full-time
+employees and their dependents (that is, any month for
+which the ALE Member checked the “No” box on Form
+1094-C, Part III, column (a)). For more information, see the
+instructions for Form 1094-C, Part III, column (a).
+• 2I. Reserved for future use.
+Note: References to 9.5% in the section 4980H
+affordability safe harbors and Qualifying Offer Method are
+applied based on the percentage as indexed for purposes
+of applying the affordability thresholds under section 36B
+(the premium tax credit). The percentage, as adjusted, is
+8.39% for plan years beginning in 2024, and 9.02% for
+plan years beginning in 2025.
+Line 17. If the ALE Member used code 1L, 1M, 1N, 1O,
+1P, 1Q, 1T, or 1U because it offered the employee an
+individual coverage HRA, enter the appropriate ZIP code
+used for identifying the lowest cost silver plan used to
+calculate the Employee Required Contribution in line 15.
+This will be the ZIP code of the employee’s residence
+(code 1L, 1M, 1N, or 1T) or the ZIP code of the
+employee’s primary site of employment if the ALE Member
+uses the work location safe harbor (code 1O, 1P, 1Q, or
+1U).
+Location safe harbor for individual coverage HRAs.
+For purposes of section 4980H(b), an employer may use
+the cost of self-only coverage for the lowest cost silver
+plan for the employee for self-only coverage offered
+through the Exchange where the employee’s primary site
+of employment is located for determining whether an offer
+of an individual coverage HRA to a full-time employee is
+affordable. The ZIP code for the employee’s primary site
+of employment is used to identify the applicable lowest
+cost silver plan to determine affordability.
+Note: In addition to the location safe harbor for individual
+coverage HRAs, ALE Members may use the section
+4980H affordability safe harbors to determine affordability
+for purposes of section 4980H(b) for an employee for the
+year.
+
+Part III—Covered Individuals (Lines 18–30)
+
+Note: If there are more than 13 covered individuals,
+additional copies of page 3, Part III, may be used.
+Complete Part III ONLY if the ALE Member offers
+employer-sponsored, self-insured health coverage,
+including an individual coverage HRA, in which the
+employee or other individual enrolled. For this purpose,
+employer-sponsored, self-insured health coverage does
+not include coverage under a multiemployer plan. Do not
+complete Part III if the ALE Member offers coverage only
+under an insured group health plan. If an ALE Member
+offers both insured and self-insured coverage, complete
+Part III only for employees who enroll in the self-insured
+coverage.
+An ALE Member with a self-insured major medical plan
+and a health reimbursement arrangement (HRA) that has
+15
+
+an individual who enrolls in both types of minimum
+essential coverage is required to report the individual’s
+coverage under only one of the arrangements in Part III.
+An ALE Member with an insured major medical plan and
+an HRA that has an individual who enrolls in both types of
+minimum essential coverage is not required to report in
+Part III the HRA coverage of an individual if the individual
+is eligible for the HRA because the individual enrolled in
+the insured major medical plan. An ALE Member with an
+HRA must report coverage under the HRA in Part III for
+any individual who is not enrolled in a major medical plan
+of the ALE Member (for example, if the individual is
+enrolled in a group health plan of another employer (such
+as spousal coverage) or if the ALE Member provides an
+individual coverage HRA). For additional information on
+the reporting of supplemental coverage, see Proposed
+Regulations section 1.6055-1(d)(2) and (3).
+If the ALE Member is completing Part III, enter “X” in the
+checkbox in Part III. If the ALE Member is not completing
+Part III, do not enter “X” in the checkbox in Part III.
+This part must be completed by an ALE Member
+offering self-insured health coverage for any individual
+who was an employee for 1 or more calendar months of
+the year, whether full-time or non-full-time, and who
+enrolled in the coverage. The employee (if enrolled in
+self-insured coverage) should be listed on line 18; any
+other family members who enrolled in coverage offered to
+the employee should be listed on subsequent lines.
+Tip: All employee family members that are covered
+individuals through the employee’s enrollment (for
+example, because the employee elected family coverage)
+must be included on the same form as the employee (or
+any other individual to whom the offer was made). For
+example, if the employee is offered family coverage by
+their employer under a self-insured health plan and enrolls
+in the family coverage, the employee and the employee’s
+family members that are covered under the plan must all
+be reported on the same Form 1095-C.
+If two or more employees employed by the same ALE
+Member are spouses or an employee and their
+dependent, and one employee enrolled in a coverage
+option under the plan that also covered the other
+employee(s) (for example, one employee spouse enrolled
+in family coverage that provided coverage to the other
+employee spouse and their employee dependent child),
+the enrollment information should be reflected only on
+Form 1095-C for the employee who enrolled in the
+coverage. (However, it would report the other employee
+family members as covered individuals.)
+Coverage of nonemployee. This part may be
+completed by an ALE Member offering self-insured health
+coverage for any other individual who enrolled in the
+coverage under the plan for 1 or more calendar months of
+the year but was not an employee for any calendar month
+of the year, such as a nonemployee director, a retired
+employee who retired in a previous year, a terminated
+employee receiving COBRA continuation coverage (or
+any other form of post-employment coverage) who
+terminated employment during a previous year, and a
+nonemployee COBRA beneficiary (but not including an
+individual who obtained coverage through the employee’s
+16
+
+enrollment, such as a spouse or dependent obtaining
+coverage when an employee elects COBRA continuation
+coverage that is family coverage). If Form 1095-C is used
+with respect to an individual who was not an employee for
+any month of the calendar year, Part II must be completed
+by using code 1G in the “All 12 Months” box or the
+separate monthly boxes for all 12 calendar months. The
+employer must report for these individuals using Form
+1095-B, if it chooses not to use Form 1095-C.
+Tip: If a nonemployee individual enrolls in the coverage
+under a self-insured health plan, all family members that
+are covered individuals because of the individual’s
+enrollment must be included on the same Form 1095-B or
+Form 1095-C as the individual who is offered, and enrolls
+in, the coverage.
+Columns (a) through (e), as applicable, must be
+completed for each individual enrolled in the coverage,
+including the employee reported on line 1. Enter the
+nine-digit SSN or other TIN for each covered individual in
+column (b). Enter a date of birth in column (c) only if an
+SSN or other TIN is not entered in column (b). Column (d)
+will be checked if the individual was covered for at least 1
+day in every month of the year. For individuals who were
+covered for some but not all months, information will be
+entered in column (e) indicating the months for which
+these individuals were covered.
+Tip: Governmental Unit employers offering self-insured
+health coverage that have delegated another
+Governmental Unit (DGE) for purposes of reporting and
+furnishing enrollment information (meaning the information
+that otherwise would be reported on Form 1095-C, Part
+III), but have not designated a DGE for purposes of
+reporting and furnishing offer of coverage information
+(meaning the information that is reported on Form 1095-C,
+Part II), should file and furnish Forms 1095-C with a
+completed Part I and Part II, but not a completed Part III,
+and should not check the box indicating that the
+Governmental Unit offers self-insured health coverage. In
+this case, the DGE should file Forms 1094-B and 1095-B
+to report enrollment information for employees on behalf
+of the Governmental Unit. See FAQs on IRS.gov.
+A DGE that has been delegated by a Governmental
+Unit for purposes of reporting and furnishing both offer of
+coverage and enrollment information (meaning the
+information that would be reported on Parts II and III of
+Form 1095-C) should file Forms 1094-C and 1095-C to
+report the information for employees on behalf of the
+Governmental Unit.
+Column (a). Enter the name of each covered individual
+(first name, middle initial, last name), including the
+employee, if the employee is enrolled in self-insured
+coverage.
+Column (b). Enter the nine-digit SSN for each covered
+individual, including the dashes. For covered individuals
+who are not the employee listed in Part I, a taxpayer
+identification number (TIN), rather than an SSN, may be
+entered if the covered individual does not have an SSN, or
+the field may be left blank if the covered individual does
+not have a TIN.
+Instructions for Forms 1094-C and 1095-C (2025)
+
+Column (c). Enter a date of birth (YYYY-MM-DD) for the
+covered individual only if column (b) is blank.
+Column (d). Check this box if the individual was covered
+for at least 1 day per month for all 12 months of the
+calendar year.
+Column (e). If the individual was not covered for all 12
+months of the calendar year, check the applicable box(es)
+for the month(s) in which the individual was covered for at
+least 1 day in the month.
+
+Definitions
+
+This section contains the definitions of key terms used in
+Forms 1094-C and 1095-C and these instructions. For
+definitions of terms not included in this section, see the
+final regulations under section 4980H, T.D. 9655, 2014-9
+I.R.B. 541, at IRS.gov/irb/2014-9_IRB/ar05.html and
+section 6056, T.D. 9661, 2014-13 I.R.B. 855, at
+IRS.gov/irb/2014-13_IRB/ar09.html.
+Affordability. Generally, the lowest cost silver plan for the
+employee based on the employee’s residence is used to
+determine affordability. The ZIP code for the employee’s
+residence is used to identify the applicable lowest cost
+silver plan to determine affordability.
+Aggregated ALE Group. An Aggregated ALE Group
+refers to a group of ALE Members treated as a single
+employer under section 414(b), 414(c), 414(m), or 414(o).
+An ALE Member is a member of an Aggregated ALE
+Group for a month if it is treated as a single employer with
+the other members of the group on any day of the
+calendar month. If an ALE is made up of only one person
+or entity, that one ALE Member is not a part of an
+Aggregated ALE Group. Government entities and
+churches or conventions or associations of churches may
+apply a reasonable, good faith interpretation of the
+aggregation rules under section 414 in determining their
+status as an ALE or member of an Aggregated ALE
+Group. For more information on how the aggregation rules
+apply to government entity employers, see Notice
+2015-87, Q&A 18, at IRS.gov/irb/2015-52_IRB/ar11.html.
+Applicable Large Employer (ALE). An ALE is, for a
+particular calendar year, any single employer, or group of
+employers treated as an Aggregated ALE Group, that
+employed an average of at least 50 full-time employees
+(including full-time equivalent employees) on business
+days during the preceding calendar year. For purposes of
+determining an employer’s average number of employees,
+disregard an employee for any month in which the
+employee has coverage under a plan described in section
+4980H(c)(2)(F) (generally, TRICARE or Veterans
+Administration coverage). A new employer (that is, an
+employer that was not in existence on any business day in
+the prior calendar year) is an ALE for the current calendar
+year if it reasonably expects to employ, and actually does
+employ, an average of at least 50 full-time employees
+(including full-time equivalent employees) on business
+days during the current calendar year. For information on a
+special rule for certain employers with seasonal workers,
+see the final regulations under section 4980H and FAQs
+on IRS.gov.
+
+Instructions for Forms 1094-C and 1095-C (2025)
+
+Applicable Large Employer Member (ALE Member).
+An ALE Member is a single person or entity that is an
+ALE, or if applicable, each person or entity that is a
+member of an Aggregated ALE Group. A person or entity
+that does not have employees or only has employees with
+no hours of service (for example, only employees whose
+entire service consists of work outside of the United
+States that does not count as hours of service under
+section 4980H) is not an ALE Member.
+Bona fide volunteer. A bona fide volunteer is an
+employee of a government entity or tax-exempt
+organization whose only compensation from that entity or
+organization is (1) reimbursement for (or reasonable
+allowance for) reasonable expenses incurred in the
+performance of services by volunteers, or (2) reasonable
+benefits (including length of service awards), and nominal
+fees, customarily paid by similar entities in connection with
+the performance of services by volunteers.
+COBRA continuation coverage. COBRA continuation
+coverage is health coverage that is required to be offered
+under the Consolidated Omnibus Budget Reconciliation
+Act of 1986 (COBRA) in certain circumstances in which
+an employee or other individual covered under a health
+plan loses eligibility for coverage under that health plan
+(for example, because the employee terminates
+employment or has a reduction in hours). For purposes of
+these instructions, COBRA continuation coverage also
+includes coverage required under any other federal or
+state law that provides continuation coverage comparable
+to that provided under COBRA. For additional details, see
+section 4980B and Regulations sections 54.4980B-1
+through 54.4980B-10.
+Dependent. A dependent is an employee’s child,
+including a child who has been legally adopted or legally
+placed for adoption with the employee, who has not
+reached age 26. A child reaches age 26 on the 26th
+anniversary of the date the child was born and is treated
+as a dependent for the entire calendar month during which
+they reach age 26. For this purpose, a dependent does
+not include stepchildren, foster children, or a child that
+does not reside in the United States (or a country
+contiguous to the United States) and who is not a U.S.
+citizen or national. For this purpose, a dependent does not
+include a spouse.
+Designated Governmental Entity (DGE). A DGE is a
+person or persons that are part of or related to the
+Governmental Unit that is the ALE Member and that is
+appropriately designated for purposes of these reporting
+requirements. For a Governmental Unit that has delegated
+some or all of its reporting responsibilities to a DGE for
+some or all of its employees, one Authoritative Transmittal
+must still be filed for that Governmental Unit reporting
+aggregate employer-level data for all employees of the
+Governmental Unit (including those for whom the
+Governmental Unit has delegated its reporting
+responsibilities). For more information, see Authoritative
+Transmittal for Employers Filing Multiple Forms 1094-C,
+earlier.
+Eligible employer-sponsored plan. An eligible
+employer-sponsored plan refers to group health coverage
+for employees under (1) a governmental plan, such as the
+17
+
+Federal Employees Health Benefits Program (FEHB); (2)
+an insured plan or coverage offered in the small or large
+group market within a state; (3) a grandfathered health
+plan offered in a group market; or (4) a self-insured group
+health plan for employees, including an individual
+coverage HRA.
+Employee. An employee is an individual who is an
+employee under the common-law standard for
+determining employer–employee relationships. An
+employee does not include a sole proprietor, a partner in a
+partnership, an S corporation shareholder who owns at
+least 2% of the S corporation, a leased employee within
+the meaning of section 414(n), or a worker that is a
+qualified real estate agent or direct seller.
+If an employee is an employee of more than one ALE
+Member of the same Aggregated ALE Group during a
+calendar month, the employee is treated as an employee
+of the ALE Member for whom the employee has the
+greatest number of hours of service for that calendar
+month; if the employee has an equal number of hours of
+service for two or more ALE Members of the same
+Aggregated ALE Group for the calendar month, those ALE
+Members must treat one of the ALE Members as the
+employer of that employee for that calendar month. See
+One Form 1095-C for Each Employee of Each Employer
+for a discussion of reporting in these circumstances. See
+Pub.15-A, Employer’s Supplemental Tax Guide, for more
+information on determining who is an employee.
+Note: In certain circumstances, an employee may have a
+break in service (including a break in service due to a
+termination of employment) during which the individual
+does not earn hours of service but, upon beginning to
+earn hours of service again, the ALE Member must treat
+the individual as a continuing employee rather than a new
+hire for purposes of certain rules under the regulations
+under section 4980H. See Regulations sections
+54.4980H-3(c)(4) and 54.4980H-3(d)(6). These rules do
+not impact whether the individual was an employee during
+the break in service, so the individual should only be
+treated as an employee during the break in service for
+purposes of reporting if the individual remained an
+employee during that period (and had not terminated
+employment with the ALE Member). For example, an
+employee on unpaid leave during the break in service
+would be treated as an employee for reporting purposes
+during the break in service, while a former employee
+whose employment had been terminated during the break
+in service would not be treated as an employee for
+reporting purposes.
+Employee Required Contribution. The Employee
+Required Contribution is the employee’s share of the
+monthly cost for the lowest-cost, self-only minimum
+essential coverage providing minimum value that is
+offered to the employee by the ALE Member. The
+employee share is the portion of the monthly cost that
+would be paid by the employee for self-only coverage,
+whether paid through salary reduction or otherwise.
+For purposes of determining the amount of the
+employee’s share of the monthly cost, an ALE Member
+may divide the total cost to the employee for the plan year
+by the number of months in the plan year. This monthly
+18
+
+amount of the employee’s share of the cost would then be
+reported for any months of that plan year that fall within
+the 2025 calendar year. For example, if the plan year
+begins January 1, the ALE Member may determine the
+amount to report for each month by taking the total annual
+employee cost for all 12 months and dividing by 12. If the
+plan year begins April 1, the ALE Member may determine
+the amount to report for January through March 2025, by
+taking the total annual employee cost for the plan year
+ending March 31, 2025, and dividing by 12 (and reporting
+that amount for January, February, and March 2025).
+Then, the ALE Member may determine the monthly
+amount for April through December 2025 by taking the
+total annual employee cost for the plan year ending March
+31, 2025, and dividing by 12 (and reporting that amount
+for April through December 2025).
+The Employee Required Contribution may not be the
+amount the employee paid for coverage. For additional
+rules on determining the amount of the Employee
+Required Contribution, including for cases in which an
+ALE Member makes available certain HRA contributions,
+cafeteria plan contributions, wellness program incentives,
+and opt-out payments, see Regulations sections
+1.5000A-3(e)(3)(ii) and 1.36B-2(c)(3)(v)(A). Also see
+Notice 2015-87.
+Special rules apply for individual coverage HRAs.
+Generally, the Employee Required Contribution for the
+individual coverage HRA means the required HRA
+contribution, as defined in Regulations section 1.36B-2(c)
+(5)(ii). However, for purposes of the individual coverage
+HRA safe harbors in Proposed Regulations section
+54.4980H-5(f), the required contribution is determined
+based on the applicable lowest cost silver plan, as defined
+in Proposed Regulations 54.4980H-5(f)(7)(iii), and the
+monthly premium for the applicable lowest cost silver plan
+is determined based on the employee’s age, as defined in
+Proposed Regulations 54.4980H(f)(7)(i), and the
+employee’s applicable location, as defined in Proposed
+Regulations 54.4980H(f)(7)(ii).
+For an employee offered an individual coverage HRA,
+the Employee Required Contribution is the excess of the
+monthly premium for the applicable lowest cost silver plan
+based on the employee’s applicable age over the monthly
+individual coverage HRA amount (generally, the annual
+individual coverage HRA amount divided by 12).
+Applicable lowest cost silver plan. Generally, the
+lowest cost silver plan for an employee for a calendar
+month is the lowest cost silver plan for self-only coverage
+of the employee offered through the Exchange for the ZIP
+code of the employee’s applicable location for the month.
+If there are different lowest cost silver plans in different
+parts of a rating area, an employee’s applicable lowest
+cost silver plan is the lowest cost silver plan in the part of
+the rating area in which the employee’s applicable location
+is located. The lowest cost silver plan for an employee is
+the lowest cost silver plan for the lowest age band in the
+individual market for the employee’s applicable location.
+For more information, see Employer Lowest Cost Silver
+Plan Premium Look-up Table.
+Applicable age. For an employee who is or will be
+eligible for an individual coverage HRA on the first day of
+the plan year, the employee’s applicable age for the plan
+Instructions for Forms 1094-C and 1095-C (2025)
+
+year is the employee’s age on the first day of the plan year.
+For an employee who becomes eligible during the plan
+year, the employee’s applicable age for the remainder of
+the plan year is the employee’s age on the date the
+individual coverage HRA can first become effective for
+that employee. Note that for non-calendar year plans or for
+employees who become eligible during the plan year, the
+applicable age may not be the age reported in Part II of
+Form 1095-C.
+Applicable location. An employee’s applicable
+location is where the employee resides for the calendar
+month, or if the ALE Member is applying the location safe
+harbor, the employee’s primary site of employment for the
+calendar month.
+Employer. For purposes of these instructions, an
+employer is the person that is the employer of an
+employee under the common-law standard for
+determining employer–employee relationships and that is
+subject to the employer shared responsibility provisions of
+section 4980H (these employers are referred to as ALE
+Members). For more information on which employers are
+ALE Members, see the definitions of Applicable Large
+Employer (ALE) and Applicable Large Employer Member
+(ALE Member).
+Full-time employee. For purposes of Forms 1094-C and
+1095-C, the term “full-time employee” means a full-time
+employee, as defined under section 4980H and the
+related regulations, rather than any other definition of that
+term that the ALE Member may use for other purposes.
+Accordingly, a full-time employee is an employee who, for
+a calendar month, is determined to be a full-time
+employee under either the monthly measurement method
+or the look-back measurement method (as applicable to
+that employee). The monthly measurement method and
+the look-back measurement method are the two methods
+provided under the section 4980H regulations for
+determining whether an employee has sufficient hours of
+service to be a full-time employee. Under the monthly
+measurement method, a full-time employee is an
+employee who was employed an average of at least 30
+hours of service per week with the ALE Member during a
+calendar month. Under the look-back measurement
+method, an employee is a full-time employee for each
+month of the stability period selected by the ALE Member
+if the employee was employed an average of at least 30
+hours of service per week with the ALE Member during
+the measurement period preceding that stability period.
+(The look-back measurement method for identifying
+full-time employees is available only for purposes of
+determining and computing liability under section 4980H,
+and not for purposes of determining if the employer is an
+Applicable Large Employer.) For purposes of both
+methods, 130 hours of service in a calendar month is
+treated as the monthly equivalent of at least 30 hours of
+service per week.
+An ALE Member must report complete information for
+all 12 months of the calendar year for any of its employees
+who were full-time employees for 1 or more months of the
+calendar year. For more information on the identification of
+full-time employees, including discussion of the monthly
+measurement method and the look-back measurement
+method, and the rules for when an ALE Member may use
+Instructions for Forms 1094-C and 1095-C (2025)
+
+one or both methods, see Regulations sections
+54.4980H-1(a)(21) and 54.4980H-3, and Notice 2014-49,
+2014-41 I.R.B. 66 (describing a proposed approach to the
+application of the look-back measurement method in
+situations in which the measurement period applicable to
+an employee changes).
+Note: A former employee (for example, a retiree) is not a
+full-time employee for any month after termination of
+employment with the ALE Member. However, if the former
+employee was a full-time employee for any month of the
+calendar year (for example, before retiring mid-year), the
+ALE Member must complete information in Part II of Form
+1095-C for all 12 months of the calendar year, using the
+appropriate codes.
+Tip: An ALE Member need not file a Form 1095-C for an
+individual who for each month of a calendar year is either
+not an employee of the ALE Member or is an employee in
+a Limited Non-Assessment Period with respect to section
+4980H(b). However, for the months in which the employee
+was an employee of the ALE Member, such an employee
+would be included in the total employee count reported on
+Form 1094-C, Part III, column (c). Also, if during the
+Limited Non-Assessment Period the employee enrolled in
+coverage under a self-insured, employer-sponsored plan,
+the ALE Member must file a Form 1095-C for the
+employee to report coverage information for the year.
+Full-time equivalent employees. A combination of
+employees, each of whom individually is not treated as a
+full-time employee because they are not employed on
+average at least 30 hours of service per week with an
+employer, but who, in combination, are counted as the
+equivalent of a full-time employee solely for purposes of
+determining whether the employer is an ALE. For rules on
+how to determine full-time equivalent employees, see
+Regulations section 54.4980H-2(c).
+Governmental Unit and Agency or Instrumentality of
+a Governmental Unit. A Governmental Unit is the
+government of the United States, any state or political
+subdivision thereof, or any Indian tribal government (as
+defined in section 7701(a)(40)) or subdivision of an Indian
+tribal government (as defined in section 7871(d)). For
+purposes of these instructions, references to a
+Governmental Unit include an Agency or Instrumentality of
+a Governmental Unit. Until guidance is issued that defines
+the term “Agency or Instrumentality of a Governmental
+Unit” for purposes of section 6056, an entity may
+determine whether it is an Agency or Instrumentality of a
+Governmental Unit based on a reasonable and good faith
+interpretation of existing rules relating to agency or
+instrumentality determinations for other federal tax
+purposes.
+Health coverage. As used in these instructions, health
+coverage refers to minimum essential coverage, unless
+otherwise indicated.
+Hours of service. An hour of service is each hour for
+which an employee is paid, or entitled to payment, for the
+performance of duties for the employer, and each hour for
+which an employee is paid, or entitled to payment, for a
+period of time during which no duties are performed due
+to vacation, holiday, illness, incapacity (including
+19
+
+disability), layoff, jury duty, military duty, or leave of
+absence. An hour of service does not include any hour of
+service performed as a bona fide volunteer of a
+government entity or tax-exempt entity, as part of a
+Federal Work-Study Program (or a substantially similar
+program of a state or political subdivision thereof) or to the
+extent the compensation for services performed
+constitutes income from sources outside the United
+States. For additional rules for determining hours of
+service, see Regulations sections 54.4980H-1(a)(24) and
+54.4980H-3(b), and Notice 2015-87, Q&A 14, at
+IRS.gov/irb/2015-52_IRB#NOT-2015-87. See section VI of
+the preamble to the section 4980H regulations for a
+discussion of determination of hours of service for
+categories of employees for whom the general rules for
+determining hours of service may present special
+difficulties (including adjunct faculty and commissioned
+salespeople) and certain categories of work hours
+associated with some positions of employment, including
+layover hours (for example, for certain airline employees),
+on-call hours, and work performed by an individual who is
+subject to a vow of poverty as a member of a religious
+order.
+Individual coverage HRA. An HRA is a type of
+account-based health plan that employers can use to
+reimburse employees for their medical care expenses. An
+individual coverage HRA is an HRA integrated with
+individual health insurance coverage or Medicare, subject
+to certain conditions. For more information about
+individual coverage HRAs, see T.D. 9867 and IRS.gov/
+Newsroom/Health-Reimbursement-Arrangements-HRAs.
+Limited Non-Assessment Period. A Limited
+Non-Assessment Period generally refers to a period
+during which an ALE Member will not be subject to an
+assessable payment under section 4980H(a) and, in
+certain cases, section 4980H(b), for a full-time employee,
+regardless of whether that employee is offered health
+coverage during that period.
+The first 5 periods described below are Limited
+Non-Assessment Periods with respect to sections
+4980H(a) and 4980H(b) only if the employee is offered
+health coverage by the first day of the first month following
+the end of the period. Also, the first 5 periods described
+below are Limited Non-Assessment Periods for section
+4980H(b) only if the health coverage that is offered at the
+end of the period provides minimum value. For more
+information on Limited Non-Assessment Periods and the
+application of section 4980H, see Regulations section
+54.4980H-1(a)(26).
+• First year as ALE period. January through March of the
+first calendar year in which an employer is an ALE, but
+only for an employee who was not offered health coverage
+by the employer at any point during the prior calendar
+year.
+• Waiting period under the monthly measurement
+method. If an ALE Member is using the monthly
+measurement method to determine whether an employee
+is a full-time employee, the period beginning with the first
+full calendar month in which the employee is first
+otherwise (but for completion of the waiting period) eligible
+for an offer of health coverage and ending no later than 2
+
+20
+
+full calendar months after the end of that first calendar
+month.
+• Waiting period under the look-back measurement
+method. If an ALE Member is using the look-back
+measurement method to determine whether an employee
+is a full-time employee and the employee is reasonably
+expected to be a full-time employee at their start date, the
+period beginning on the employee’s start date and ending
+not later than the end of the employee’s third full calendar
+month of employment.
+• Initial measurement period and associated
+administrative period under the look-back measurement
+method. If an ALE Member is using the look-back
+measurement method to determine whether a new
+employee is a full-time employee, and the employee is a
+variable hour employee, seasonal employee, or part-time
+employee, the initial measurement period for that
+employee and the administrative period immediately
+following the end of that initial measurement period.
+• Period following change in status that occurs during
+initial measurement period under the look-back
+measurement method. If an ALE Member is using the
+look-back measurement method to determine whether a
+new employee is a full-time employee, and, as of the
+employee’s start date, the employee is a variable hour
+employee, seasonal employee, or part-time employee,
+but, during the initial measurement period, the employee
+has a change in employment status such that, if the
+employee had begun employment in the new position or
+status, the employee would have reasonably been
+expected to be a full-time employee, the period beginning
+on the date of the employee’s change in employment
+status and ending not later than the end of the third full
+calendar month following the change in employment
+status. If the employee is a full-time employee based on
+the initial measurement period and the associated stability
+period starts sooner than the end of the third full calendar
+month following the change in employment status, this
+Limited Non-Assessment Period ends on the day before
+the first day of that associated stability period.
+• First calendar month of employment. If the employee’s
+first day of employment is a day other than the first day of
+the calendar month, then the employee’s first calendar
+month of employment is a Limited Non-Assessment
+Period.
+Minimum essential coverage (MEC). Although various
+types of health coverage may qualify as MEC, for
+purposes of these instructions, MEC refers to health
+coverage under an eligible employer-sponsored plan. An
+individual coverage HRA is a self-insured group health
+plan and an eligible employer sponsored plan. For more
+details on MEC, see Minimum essential coverage in Pub.
+974.
+Minimum value. A plan provides minimum value if the
+plan pays at least 60% of the costs of benefits for a
+standard population and provides substantial coverage of
+in-patient hospitalization services and physician services.
+An individual coverage HRA that is affordable is treated as
+providing minimum value.
+Offer of health coverage. An ALE Member makes an
+offer of coverage to an employee if it provides the
+employee an effective opportunity to enroll in the health
+Instructions for Forms 1094-C and 1095-C (2025)
+
+coverage (or to decline that coverage) at least once for
+each plan year. For this purpose, the plan year must be 12
+consecutive months unless a short plan year of less than
+12 consecutive months is permitted for a valid business
+purpose. An ALE Member makes an offer of health
+coverage to an employee for the plan year if it continues
+the employee’s election of coverage from a prior year but
+provides the employee an effective opportunity to opt out
+of the health coverage. If an ALE Member provides health
+coverage to an employee but does not provide the
+employee an effective opportunity to decline the coverage,
+the ALE Member is treated as having made an offer of
+health coverage to the employee only if that health
+coverage provides minimum value and does not have an
+Employee Required Contribution for the coverage for any
+calendar month of more than 9.5% (as adjusted) of a
+monthly amount determined as the mainland federal
+poverty line for a single individual for the applicable
+calendar year, divided by 12.
+For purposes of reporting, an offer to a spouse includes
+an offer to a spouse that is subject to one or more
+reasonable, objective conditions, regardless of whether
+the reasonable, objective conditions are satisfied. For
+example, an offer of coverage that is available to a spouse
+only if the spouse certifies that the spouse does not have
+access to health coverage from another employer is
+treated as an offer of coverage to the spouse for reporting
+purposes. Note that this treatment is for reporting
+purposes only, and will generally not affect the spouse’s
+eligibility for the premium tax credit if the spouse did not
+meet the condition and therefore did not have an actual
+offer of coverage. A conditional offer to a spouse is
+reported by entering code 1J or 1K (as applicable) on
+line 14 of Form 1095-C. See the instructions for line 14 for
+more information. An offer to a dependent does not
+include an offer to a dependent that is subject to one or
+more reasonable, objective conditions unless the
+dependent satisfies the conditions and the dependent
+actually had an offer of coverage. In addition, an offer of
+coverage is treated as made to an employee’s
+dependents only if the offer of coverage is made to an
+unlimited number of dependents regardless of the actual
+number of dependents, if any, an employee has during
+any particular calendar month.
+An ALE Member offers health coverage for a month
+only if it offers health coverage that would provide
+coverage for every day of that calendar month. For
+reporting purposes, this means that an offer of coverage
+does not occur for a month if an employee’s employment
+terminates before the last day of a calendar month and the
+health coverage also ends before the last day of that
+calendar month (or for an employee who did not enroll in
+coverage, the coverage would have ended if the employee
+had enrolled in coverage). However, see the description of
+Code Series 2—Section 4980H Safe Harbor Codes and
+Other Relief for Employers, code 2B, which may be
+applicable in these circumstances to indicate that the ALE
+Member is treated as having offered coverage for the
+entire month for purposes of section 4980H.
+An ALE Member offers health coverage to an employee
+if it, or another employer in the Aggregated ALE Group, or
+a third party, such as a multiemployer or single employer
+Taft-Hartley plan, a multiple employer welfare
+Instructions for Forms 1094-C and 1095-C (2025)
+
+arrangement (MEWA), or, in certain cases, a staffing firm,
+offers health coverage on behalf of the employer. See
+Regulations sections 54.4980H-4(b)(2) and
+54.4980H-5(b).
+Tip: Interim Guidance Regarding Multiemployer
+Arrangements. An ALE Member is treated as offering
+health coverage to an employee if the ALE Member is
+required by a collective bargaining agreement or related
+participation agreement to make contributions for that
+employee to a multiemployer plan that offers, to
+individuals who satisfy the plan’s eligibility conditions,
+health coverage that is affordable and provides minimum
+value, and that also offers health coverage to those
+individuals’ dependents. For more information, see
+section XV.E of the preamble to the final regulations under
+section 4980H. This relief is referred to as the
+“multiemployer arrangement interim guidance” and the
+“multiemployer interim rule relief” in these instructions.
+Qualifying Offer. A Qualifying Offer is an offer of MEC
+providing minimum value to one or more full-time
+employees for all calendar months during the calendar
+year for which the employee was a full-time employee for
+whom a section 4980H assessable payment could apply,
+with an Employee Required Contribution for each month,
+not exceeding 9.5 % (as adjusted) of the mainland single
+federal poverty line divided by 12, provided that the offer
+includes an offer of MEC to the employee’s spouse and
+dependents (if any).
+Privacy Act and Paperwork Reduction Act Notice. We
+ask for the information on these forms to carry out the
+Internal Revenue laws of the United States and the Patient
+Protection and Affordable Care Act. Our legal right to ask
+for the information on this form is Internal Revenue Code
+sections 6055, 6056, 4980H, and their regulations. We
+request it to confirm that you are providing your
+employees offers of, and enrollment in, health coverage
+and to determine the employer shared responsibility
+payments and eligibility of your employees for premium
+tax credits. If you do not provide this information, we may
+be unable to determine whether your employees are
+entitled to premium tax credits. Providing false or
+fraudulent information may subject you to penalties. We
+may disclose this information to the Department of Justice
+for civil or criminal litigation and to cities, states, and the
+District of Columbia for use in administering their tax laws.
+We may also disclose this information to other countries
+under a tax treaty, to federal and state agencies to enforce
+federal nontax criminal laws, or to federal law enforcement
+and intelligence agencies to combat terrorism.
+You are not required to provide the information
+requested on a form that is subject to the Paperwork
+Reduction Act unless the form displays a valid OMB
+control number. Books or records relating to a form or its
+instructions must be retained as long as their contents
+may become material in the administration of any Internal
+Revenue law. Generally, tax returns and return information
+are confidential, as required by section 6103.
+The time needed to complete and file this form will vary
+depending on individual circumstances. The estimated
+average time is:
+21
+
+Form 1094-C. . . . . . . . . . . . . . . . . .
+
+4 hr.
+
+Form 1095-C. . . . . . . . . . . . . . . . . .
+
+12 min.
+
+If you have comments concerning the accuracy of
+these time estimates or suggestions for making this form
+
+22
+
+simpler, we would be happy to hear from you. You can
+send us comments from IRS.gov/FormComments. Or you
+can write to the Internal Revenue Service, Tax Forms and
+Publications Division, 1111 Constitution Ave. NW,
+IR-6526, Washington, DC 20224. Don’t send the form to
+this office.
+
+Instructions for Forms 1094-C and 1095-C (2025)
+
+

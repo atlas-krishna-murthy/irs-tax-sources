@@ -1,0 +1,82 @@
+{
+  "rule": {
+    "id": "a-k-01",
+    "title": "A Form 1099-K's gross amount reaches the line its transactions belong to",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "route_among",
+    "acts_on": {
+      "boxes": [
+        "1099-K.1a"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "form-1099-k-payments-were"
+      }
+    ],
+    "params": {
+      "cases": [
+        {
+          "when": {
+            "answer": "form-1099-k-payments-were",
+            "is": "business"
+          },
+          "to": {
+            "form": "schedule-c",
+            "line": "1"
+          }
+        },
+        {
+          "when": {
+            "answer": "form-1099-k-payments-were",
+            "is": "rental"
+          },
+          "to": {
+            "form": "schedule-e",
+            "line": "3"
+          }
+        },
+        {
+          "when": {
+            "answer": "form-1099-k-payments-were",
+            "is": "personal_items_sold_at_a_gain"
+          },
+          "to": {
+            "form": "form-1040",
+            "line": "7a"
+          }
+        },
+        {
+          "when": {
+            "answer": "form-1099-k-payments-were",
+            "is": "not_for_profit_activity"
+          },
+          "to": {
+            "form": "form-1040",
+            "line": "8",
+            "sub_line": "8j"
+          }
+        }
+      ]
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Schedule 1 (Form 1040)",
+      "line": "Form(s) 1099-K",
+      "revision": "2025",
+      "wording": "The remaining amounts reported to you on Form(s) 1099-K should be reported elsewhere on your return depending on the nature of the transactions.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "Box 1a is a GROSS amount; a mix of kinds on one form is split by the preparer, and only an answer covering the whole box is applied."
+  }
+}

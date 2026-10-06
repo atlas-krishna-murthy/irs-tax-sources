@@ -1,0 +1,2688 @@
+Future Developments
+Publication 1212
+(Rev. December 2025)
+
+Guide to
+Original Issue
+Discount (OID)
+Instruments
+
+For the latest information about developments related to
+Pub. 1212, such as legislation enacted after it was
+published, go to IRS.gov/Pub1212.
+
+Photographs of Missing
+Children
+The IRS is a proud partner with the National Center for
+Missing & Exploited Children® (NCMEC). Photographs of
+missing children selected by the Center may appear in
+this publication on pages that would otherwise be blank.
+You can help bring these children home by looking at the
+photographs
+and
+calling
+1-800-THE-LOST
+(1-800-843-5678) if you recognize a child.
+
+Introduction
+This publication has two purposes. Its primary purpose is
+to help brokers and other middlemen identify publicly offered original issue discount (OID) debt instruments they
+may hold as nominees for the true owners, so they can file
+Forms 1099-OID or Forms 1099-INT, as required. The
+other purpose of the publication is to help owners of publicly offered OID debt instruments determine how much
+OID to report on their income tax returns.
+Original issue discount (OID) tables. The tables of
+publicly offered OID debt instruments (OID tables) are
+available at IRS.gov/Pub1212. Details about the deadlines
+to furnish and file information returns that rely on these tables and how to obtain an extension to these deadlines
+can be found in the General Instructions for Certain
+Information
+Returns,
+available
+at
+IRS.gov/
+1099GeneralInstructions. The information in the OID tables comes from the issuers of the debt instruments and
+from financial publications and is updated annually. (However, see Debt Instruments Not in the OID Tables, later.)
+Brokers and other middlemen can rely on the OID tables to determine, for information reporting purposes,
+whether a debt instrument was issued at a discount and
+the OID to be reported on information returns. However,
+because the information in the OID tables has generally
+not been verified by the IRS as correct, the following tax
+matters are subject to change upon examination by the
+IRS.
+
+• The OID reported by owners of a debt instrument on
+Get forms and other information faster and easier at:
+
+• IRS.gov (English)
+• IRS.gov/Korean (한국어)
+• IRS.gov/Spanish (Español) • IRS.gov/Russian (Pусский)
+• IRS.gov/Chinese (中文)
+• IRS.gov/Vietnamese (Tiếng Việt)
+
+their income tax returns.
+
+• The issuer's classification of an instrument as debt for
+federal income tax purposes.
+
+• The adjusted basis of a debt instrument.
+Instructions for issuers of OID debt instruments. In
+general, issuers of publicly offered OID debt instruments
+
+Jan 26, 2026
+
+Publication 1212 (Rev. 12-2025) Catalog Number 61273T
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+must file Form 8281 within 30 days after the date of issuance, and, if registered with the Securities and Exchange
+Commission (SEC), within 30 days after registration with
+the SEC. A separate Form 8281 must be filed for each issuance or SEC registration. For more information, see
+Form 8281 and its instructions, available at IRS.gov/
+Form8281.
+Issuers should report errors in and omissions
+from the OID tables in writing at the following address:
+
+Useful Items
+
+You may want to see:
+Publication
+515 Withholding of Tax on Nonresident Aliens and
+Foreign Entities
+515
+
+519 U.S. Tax Guide for Aliens
+519
+
+550 Investment Income and Expenses
+550
+
+938 Real Estate Mortgage Investment Conduits
+(REMICs) Reporting Information (And Other
+Collateralized Debt Obligations (CDOs))
+938
+
+IRS OID Publication Project
+C:DC:TS:CAR:MP:TFP
+1111 Constitution Ave. NW, IR-6526
+Washington, DC 20224
+
+Form (and Instructions)
+1096 Annual Summary and Transmittal of U.S.
+Information Returns
+1096
+
+REMIC and CDO information reporting requirements.
+Brokers and other middlemen must follow special information reporting requirements for real estate mortgage investment conduit (REMIC) regular interests, and collateralized debt obligation (CDO) interests. The rules are
+explained in Pub. 938.
+Holders of interests in REMICs and CDOs should see
+chapter 1 of Pub. 550 for information on REMICs and
+CDOs.
+
+1099-B Proceeds From Broker and Barter Exchange
+Transactions
+1099-B
+
+1099-INT Interest Income
+1099-INT
+
+1099-OID Original Issue Discount
+1099-OID
+
+8281 Information Return for Publicly Offered Original
+Issue Discount Instruments
+8281
+
+8949 Sales and Other Dispositions of Capital Assets
+8949
+
+Comments and suggestions. We welcome your comments about this publication and suggestions for future
+editions.
+You can send us comments through IRS.gov/
+FormComments. Or, you can write to the Internal Revenue
+Service, Tax Forms and Publications, 1111 Constitution
+Ave. NW, IR-6526, Washington, DC 20224.
+Although we can’t respond individually to each comment received, we do appreciate your feedback and will
+consider your comments and suggestions as we revise
+our tax forms, instructions, and publications. Don’t send
+tax questions, tax returns, or payments to the above address.
+Getting answers to your tax questions. If you have
+a tax question not answered by this publication or the How
+To Get Tax Help section at the end of this publication, go
+to the IRS Interactive Tax Assistant page at IRS.gov/
+Help/ITA where you can find topics by using the search
+feature or viewing the categories listed.
+Getting tax forms, instructions, and publications.
+Go to IRS.gov/Forms to download current and prior-year
+forms, instructions, and publications.
+Ordering tax forms, instructions, and publications.
+Go to IRS.gov/OrderForms to order current forms, instructions, and publications; call 800-829-3676 to order
+prior-year forms and instructions. The IRS will process
+your order for forms and publications as soon as possible.
+Don’t resubmit requests you’ve already sent us. You can
+get forms and publications faster online.
+
+2
+
+Schedule B (Form 1040) Interest and Ordinary
+Dividends
+Schedule B (Form 1040)
+
+Schedule D (Form 1040) Capital Gains and Losses
+Schedule D (Form 1040)
+
+W-8 Instructions for the Requester of Forms
+W-8BEN, W-8BEN-E, W-8ECI, W-8EXP, and
+W-8IMY
+W-8
+
+See How To Get Tax Help at the end of this publication for
+information about getting publications and forms.
+
+Definitions
+The following terms are used throughout this publication.
+“Original issue discount” is defined first. The other terms
+are listed alphabetically.
+Original issue discount (OID). OID is a form of interest.
+It is the excess of a debt instrument's stated redemption
+price at maturity over its issue price (acquisition price for a
+stripped bond or coupon). Zero coupon bonds and debt
+instruments that pay no stated interest until maturity are
+examples of debt instruments that have OID.
+Accrual period. An accrual period is an interval of time
+used to measure OID. The length of an accrual period can
+be 6 months, a year, or some other period no longer than
+1 year, depending on when the debt instrument was issued.
+Acquisition premium. Acquisition premium is the excess of a debt instrument’s adjusted basis immediately after purchase, including purchase at original issue, over the
+debt instrument’s adjusted issue price at that time. A
+Publication 1212 (12-2025)
+
+purchaser reduces any OID income by the acquisition premium, as discussed under Information for Owners of OID
+Debt Instruments, later.
+If the purchaser’s adjusted basis exceeds the total of all
+amounts payable under the debt instrument (other than
+qualified stated interest) after the date of purchase, then
+the debt instrument has premium instead of acquisition
+premium. See Premium, later.
+Adjusted issue price. The adjusted issue price of a debt
+instrument at the beginning of an accrual period is used to
+figure the OID allocable to that period. In general, the adjusted issue price at the beginning of the debt instrument's
+first accrual period is its issue price. The adjusted issue
+price at the beginning of any subsequent accrual period is
+the sum of the issue price and all the OID includible in income before that accrual period minus any payment previously made on the debt instrument, other than a payment
+of qualified stated interest.
+Debt instrument. The term “debt instrument” means any
+instrument or contractual arrangement that constitutes indebtedness under general principles of federal income tax
+law (including, for example, a bond, debenture, note, certificate, or other evidence of indebtedness). It generally
+does not include an annuity contract.
+Issue price. For debt instruments listed in Section I-A
+and Section I-B of the OID tables, the issue price is generally the initial offering price to the public (excluding bond
+houses and brokers) at which a substantial amount of
+these instruments were sold.
+Market discount. A debt instrument is generally acquired with market discount if its stated redemption price
+at maturity is greater than its basis after its acquisition. In
+general, a debt instrument is purchased in the secondary
+market at a market discount when the value of the debt instrument has decreased since the instrument’s issue date
+(for example, because of an increase in interest rates). An
+OID debt instrument generally has market discount if your
+adjusted basis in the debt instrument immediately after
+you acquired it (usually its purchase price) was less than
+the debt instrument's issue price plus the total OID that
+accrued before you acquired it. The market discount is the
+difference between the issue price plus accrued OID and
+your adjusted basis.
+Premium. A debt instrument is purchased at a premium if
+its adjusted basis immediately after purchase is greater
+than the total of all amounts payable on the debt instrument after the purchase date, other than qualified stated
+interest. The premium is the excess of the adjusted basis
+over the payable amounts.
+Premium will generally eliminate the future reporting of
+OID in income by the purchaser, as discussed under Information for Owners of OID Debt Instruments, later. See
+Pub. 550 for more information on the tax treatment of bond
+premium.
+Qualified stated interest. In general, qualified stated interest is stated interest that is unconditionally payable in
+Publication 1212 (12-2025)
+
+cash or property (other than debt instruments of the issuer) at least annually over the term of the debt instrument
+at a single fixed rate.
+Stated redemption price at maturity. A debt instrument's stated redemption price at maturity is the sum of all
+amounts (principal and interest) payable on the debt instrument, other than qualified stated interest.
+Yield to maturity (YTM). In general, the YTM is the discount rate that, when used in figuring the present value of
+all principal and interest payments, produces an amount
+equal to the issue price of the debt instrument. The YTM is
+generally shown on the face of the debt instrument or in
+the literature you receive from your broker. If you do not
+have this information, consult your broker, tax advisor, or
+the issuer.
+
+Debt Instruments in the OID
+Tables
+The OID tables, available at IRS.gov/Pub1212, can be
+used by brokers and other middlemen to prepare information returns.
+If you own a debt instrument included in the tables, you generally should not rely on the informaCAUTION tion in the OID tables to determine (or compare)
+the OID to be reported on your tax return, but you should
+use, as a starting point, the information supplied to you on
+Form 1099-OID. The OID amounts listed are figured without reference to the price or date at which you acquired
+the debt instrument. For information about determining the
+OID to be reported on your tax return, see the instructions
+for figuring OID under Information for Owners of OID Debt
+Instruments, later.
+
+!
+
+The following discussions explain what information is
+contained in each section of the tables.
+Section I. This section contains
+long-term debt instruments.
+
+publicly
+
+offered,
+
+• Section I-A: Corporate Debt Instruments Issued Before 1985.
+
+• Section I-B:
+Corporate Debt Instruments Issued After 1984.
+Taxable obligations issued by a state or a local
+government.
+
+• Section I-C: Inflation-Indexed Debt Instruments.
+For each publicly offered debt instrument in Section I,
+the list contains the following information.
+
+• The name of the issuer.
+• The Committee on Uniform Security Identification Procedures (CUSIP) number.
+
+• The issue date.
+• The maturity date.
+3
+
+• The issue price expressed as a percent of principal or
+• The annual stated or coupon interest rate. (This rate is
+
+Debt Instruments Not in the
+OID Tables
+
+• The YTM for Section I-B bonds issued after December
+
+The list of debt instruments discussed earlier does not
+contain the following items.
+
+• The total OID accrued up to January 1 of a calendar
+
+• U.S. savings bonds.
+• Certificates of deposit and other face-amount certifi-
+
+of stated redemption price at maturity.
+
+shown as 0.00 if no annual interest payments are provided.)
+31, 2006.
+
+year. (This information is not available for every instrument.)
+
+• The daily OID for the accrual periods falling in a calendar year and a subsequent year for long-term debt instruments issued after July 1, 1982.
+
+• The total OID per $1,000 of principal or maturity value
+for a calendar year and a subsequent year.
+
+Section II. This section contains stripped coupons and
+principal components of U.S. Treasury and Government-Sponsored Enterprise debt instruments. These stripped components are available through the Department of
+the Treasury's Separate Trading of Registered Interest and
+Principal of Securities (STRIPS) program and government-sponsored enterprises such as the Resolution Funding Corporation. This section also includes debt instruments backed by U.S. Treasury securities that represent
+ownership interests in those securities.
+The obligations listed in Section II are arranged by maturity date. The amounts listed are the total OID for a calendar year per $1,000 of redemption price.
+Section III. This section contains short-term discount obligations.
+
+• Section III-A: Short-Term U.S. Treasury Bills.
+• Section III-B: Federal Home Loan Banks.
+• Section III-C: Federal National Mortgage Association.
+• Section III-D: Federal Farm Credit Banks.
+• Section III-E: Federal Home Loan Mortgage Corporation.
+
+• Section III-F: Federal Agricultural Mortgage Corporation.
+
+Information that supplements Section III-A is available on the Internet at TreasuryDirect.gov/
+tdhome.htm.
+The short-term obligations listed in this section are arranged by maturity date. For each obligation, the list contains the CUSIP number, maturity date, issue date, issue
+price (expressed as a percent of principal), and discount
+to be reported as interest for a calendar year per $1,000 of
+redemption price. Brokers and other middlemen should
+rely on the issue price information in Section III only if they
+are unable to determine the price actually paid by the
+owner.
+
+cates issued at a discount, including syndicated certificates of deposit.
+
+• Obligations issued by tax-exempt organizations.
+• OID debt instruments that matured or were entirely
+
+called by the issuer before the tables were posted on
+the IRS website.
+
+• Mortgage-backed securities and mortgage participation certificates.
+
+• Short-term obligations, other than the obligations listed in Section III.
+
+• Debt instruments issued at a discount by states or
+
+their political subdivisions if these debt instruments
+are tax-exempt obligations.
+
+• REMIC regular interests and CDOs.
+• Commercial paper and banker's acceptances issued
+at a discount.
+
+• Obligations issued at a discount by individuals.
+• Foreign obligations not traded in the United States
+and obligations not issued in the United States.
+
+Information for Brokers and
+Other Middlemen
+The following discussions contain specific instructions for
+brokers and middlemen who hold or redeem a debt instrument for the owner.
+In general, you must file a Form 1099-INT or Form
+1099-OID for the debt instrument if the interest or OID to
+be included in the owner's income for a calendar year totals $10 or more. You must also file a Form 1099-INT or
+Form 1099-OID if you were required to deduct and withhold tax, even if the interest or OID is less than $10. See
+Backup Withholding, later.
+If you must file a Form 1099-INT or Form 1099-OID, furnish a copy to the owner of the debt instrument by January
+31 in the year it is due, or February 15 in the year it is due
+if the Form 1099-INT or Form 1099-OID is furnished as
+part of a consolidated reporting statement. File all your
+Forms 1099 with the IRS, accompanied by Form 1096, by
+February 28 in the year they are due (March 31 if you file
+electronically).
+Electronic payee statements. You can issue Form
+1099-INT or Form 1099-OID electronically with the consent of the recipient.
+
+4
+
+Publication 1212 (12-2025)
+
+More information. For more information, including e-filing and penalties for failure to file (or furnish) required information returns or statements, see the current General
+Instructions for Certain Information Returns, available at
+IRS.gov/1099GeneralInstructions.
+
+Short-Term Obligations Redeemed at
+Maturity
+If you redeem a short-term discount obligation for the
+owner at maturity, you must report the discount as interest
+on Form 1099-INT.
+To figure the discount, use the purchase price shown
+on the owner's copy of the purchase confirmation receipt
+or similar record, or the price shown in your transaction records.
+If the owner's purchase price cannot be determined,
+figure the discount as if the owner had purchased the obligation at its original issue price. A special rule is used to
+determine the original issue price for information reporting
+on U.S. Treasury bills (T-bills) listed in Section III-A. Under
+this rule, you treat as the original issue price of the T-bill
+the noncompetitive (weighted average of accepted auction bids) discount price for the longest-maturity T-bill maturing on the same date as the T-bill being redeemed.
+This noncompetitive discount price is the issue price (expressed as a percent of principal) shown in Section III-A.
+A similar rule is used to figure the discount on
+short-term discount obligations issued by the organizations listed in Section III-B through Section III-F.
+Example 1. There are 13-week and 26-week T-bills
+maturing on the same date as the T-bill being redeemed.
+The price actually paid by the owner cannot be established by owner or middleman records. You treat as the issue price of the T-bill the noncompetitive discount price
+(expressed as a percent of principal) shown in Section III-A for a 26-week bill maturing on the same date as
+the T-bill redeemed. The interest you report on Form
+1099-INT is the OID (per $1,000 of principal) shown in
+Section III-A for that obligation.
+
+Long-Term Debt Instruments
+If you hold a long-term OID debt instrument as a nominee
+for the true owner, you must generally file Form 1099-OID.
+For this purpose, you can rely on Section I of the OID tables to determine the following information.
+
+• Whether a debt instrument has OID.
+• The OID to be reported on the Form 1099-OID.
+In general, you must report OID on publicly offered,
+long-term debt instruments listed in Section I. You can
+also report OID on other long-term debt instruments.
+Form 1099-OID. Form 1099-OID for a calendar year
+shows the following information.
+
+• Box 1. The OID for the actual dates the owner held the
+debt instruments during a calendar year. To determine
+
+Publication 1212 (12-2025)
+
+this amount, see Figuring OID, later. You may report a
+net amount of OID that reflects the offset of OID by the
+amount of acquisition premium amortization for the
+year. If you do so, leave box 6 blank.
+
+• Box 2. The qualified stated interest paid or credited
+
+during the calendar year. Interest reported here is not
+reported on Form 1099-INT. The qualified stated interest on Treasury inflation-protected securities (TIPS)
+may be reported on Form 1099-INT in box 3 instead.
+
+• Box 3. Any interest or principal forfeited because of an
+early withdrawal that the owner can deduct from gross
+income. Do not reduce the amounts in boxes 1 and 2
+by the forfeiture.
+
+• Box 4. Any backup withholding for this debt instrument.
+
+• Box 5. For a covered security acquired with market
+
+discount under Regulations section 1.6045-1(a)(15),
+enter the amount of market discount that accrued during the period the holder owned the debt instrument,
+provided the holder notified you of an election made
+under section 1278(b) to include market discount in income as it accrued. Follow the instructions in Regulations section 1.6045-1(n) to determine the accruals of
+market discount.
+
+• Box 6. For a covered security acquired with acquisition
+premium, enter the amount of acquisition premium
+amortization for the period the holder owned the debt
+instrument. If a net amount of OID is reported in box 1,
+box 8, or box 11, as applicable, leave this box blank.
+Follow the instructions in Regulations section
+1.6045-1(n) to determine the amortization of acquisition premium.
+
+• Box 7. The CUSIP number, if any. If there is no CUSIP
+number, give a description of the debt instrument, including the abbreviation for the stock exchange, the
+abbreviation used by the stock exchange for the issuer, the coupon rate, and the year of maturity (for example, NYSE XYZ 12.50 2006). If the issuer of the
+debt instrument is other than the payer, show the
+name of the issuer in this box.
+
+• Box 8. The OID on a U.S. Treasury obligation for the
+
+part of the year the owner held the debt instrument.
+You may report a net amount of OID that reflects the
+offset of OID by the amount of acquisition premium
+amortization for the year. If you do so, leave box 6
+blank.
+
+• Box 9. Investment expenses passed on to holders of a
+single-class REMIC. Caution. This amount is not deductible.
+
+• Box 10. For a taxable covered security acquired at a
+
+premium, enter the amount of bond premium amortization allocable to the interest paid during the tax year,
+unless you were notified in writing that the holder did
+not want to amortize bond premium under section
+171. See Regulations sections 1.6045-1(n)(5) and
+1.6049-9(b). If you are required to report bond premium amortization and you reported a net amount of
+interest in box 2, leave this box blank.
+5
+
+• Box 11. Use to report any tax-exempt OID.
+• Boxes 12–14. Use to report any state income tax withheld for this debt instrument.
+
+Figuring OID. You can determine the OID on a long-term
+debt instrument by using either of the following.
+
+• Section I of the OID tables.
+• The income tax regulations.
+Using Section I. If the owner held the debt instrument
+for the entire calendar year, report the OID shown in Section I for the calendar year. Because OID is listed for each
+$1,000 of stated redemption price at maturity, you must
+adjust the listed amount to reflect the debt instrument's
+actual stated redemption price at maturity. For example, if
+the debt instrument's stated redemption price at maturity
+is $500, report one-half the listed OID.
+If the owner held the debt instrument for less than the
+entire calendar year, figure the OID to report as follows.
+1. Look up the daily OID for the first accrual period in the
+calendar year during which the owner held the debt
+instrument.
+2. Multiply the daily OID by the number of days the
+owner held the debt instrument during that accrual period.
+3. Repeat steps (1) and (2) for any remaining accrual periods for the year during which the owner held the
+debt instrument.
+4. Add the results in steps (2) and (3) to determine the
+owner's OID per $1,000 of stated redemption price at
+maturity.
+5. If necessary, adjust the OID in step (4) to reflect the
+debt instrument's stated redemption price at maturity.
+Report the result on Form 1099-OID in box 1.
+Using the income tax regulations. Instead of using
+Section I to figure the OID, you can use the Regulations
+under sections 1272 through 1275. For example, under
+the regulations, you can use monthly accrual periods in
+figuring OID for a debt instrument issued after April 3,
+1994, that provides for monthly payments. (If you use Section I-B, the OID is figured using 6-month accrual periods.)
+For a general explanation of the rules for figuring OID
+under the regulations, see Figuring OID on Long-Term
+Debt Instruments under Information for Owners of OID
+Debt Instruments, later.
+
+Certificates of Deposit
+If you hold a bank certificate of deposit (CD) as a nominee, you must determine whether the CD has OID and
+any OID includible in the income of the owner. You must
+file an information return showing the reportable interest
+and OID, if any, on the CD. These rules apply whether or
+not you sold the CD to the owner. Report OID on a CD in
+the same way as OID on other debt instruments. See
+Short-Term Obligations Redeemed at Maturity and
+Long-Term Debt Instruments, earlier.
+6
+
+Bearer Bonds and Coupons
+If a coupon from a bearer bond is presented to you for collection before the bond matures, you must generally report
+the interest on Form 1099-INT. However, do not report the
+interest if either of the following applies.
+
+• You hold the bond as a nominee for the true owner.
+• The payee is a foreign person. See Backup Withholding, later.
+
+Because you cannot assume the presenter of the coupon
+also owns the bond, you should not report OID on the
+bond on Form 1099-OID. The coupon may have been
+“stripped” (separated) from the bond and separately purchased.
+However, if a long-term bearer bond in the OID tables is
+presented to you for redemption upon call or maturity, you
+should prepare a Form 1099-OID showing the OID for that
+calendar year, as well as any coupon interest payments
+collected at the time of redemption.
+
+Backup Withholding
+If you report OID on Form 1099-OID or interest on Form
+1099-INT for a calendar year, you may be required to apply backup withholding to the reportable payment at a rate
+of 24% (0.24). The backup withholding is deducted at the
+time a cash payment is made. See Pub. 1281 for more information.
+Backup withholding generally applies to reportable interest and OID in the following situations.
+1. The payee does not give you a taxpayer identification
+number (TIN). A payee who provides an obviously incorrect TIN, defined as a number that does not have
+nine digits, has not given you a TIN.
+2. The IRS notifies you that the payee gave an incorrect
+TIN.
+3. The IRS notifies you that the payee is subject to
+backup withholding due to payee underreporting.
+4. For debt instruments acquired after 1983:
+a. The payee does not certify, under penalties of perjury, that he or she is not subject to backup withholding under (3); or
+b. The payee does not certify, under penalties of perjury, that the TIN given is correct.
+However, an exception exists for certain window payments of interest. For short-term discount obligations
+(other than government obligations), bearer bonds and
+coupons, and U.S. savings bonds, backup withholding applies only if the payee does not give you a TIN or gives you
+an obviously incorrect number for a TIN.
+Short-term obligations. Backup withholding applies to
+the payment of OID that is includible in the holder’s gross
+income, to the extent it is in cash. However, backup withholding applies to any interest payable before maturity
+when the interest is paid or credited.
+Publication 1212 (12-2025)
+
+If the owner of a short-term obligation at maturity is not
+the original owner and can establish the purchase price of
+the obligation, the amount subject to backup withholding
+must be determined by treating the purchase price as the
+issue price. However, you can choose to disregard that
+price if it would require significant manual intervention in
+the computer or recordkeeping system used for the obligation. If the purchase price of a listed obligation is not established or is disregarded, you must use the issue price
+shown in Section III.
+Long-term obligations. If no cash payments are made
+on a long-term obligation before maturity, backup withholding applies only at maturity. The amount subject to
+backup withholding is the OID includible in the owner's
+gross income for the calendar year when the obligation
+matures. The amount to be withheld is limited to the cash
+paid.
+Registered long-term obligations with cash payments. If a registered long-term obligation has cash payments before maturity, backup withholding applies when a
+cash payment is made. The amount subject to backup
+withholding is the total of the qualified stated interest (defined earlier under Definitions) and OID includible in the
+owner's gross income for the calendar year when the payment is made. If more than one cash payment is made
+during the year, the OID subject to withholding for the year
+must be allocated among the expected cash payments in
+the ratio that each bears to the total of the expected cash
+payments. For any payment, the required withholding is
+limited to the cash paid.
+Payee not the original owner. If the payee is not the
+original owner of the obligation, the OID subject to backup
+withholding is the OID includible in the gross income of all
+owners during the calendar year (without regard to any
+amount paid by the new owner at the time of transfer). The
+amount subject to backup withholding at maturity of a listed obligation must be determined using the issue price
+shown in Section I.
+Bearer long-term obligations with cash payments.
+If a bearer long-term obligation has cash payments before
+maturity, backup withholding applies when the cash payments are made. For payments before maturity, the
+amount subject to withholding is the qualified stated interest (defined earlier under Definitions) includible in the
+owner's gross income for the calendar year. For a payment at maturity, the amount subject to withholding is only
+the total of any qualified stated interest paid at maturity
+and the OID includible in the owner's gross income for the
+calendar year when the obligation matures. The required
+withholding at maturity is limited to the cash paid.
+Sales and redemptions. If you report the gross proceeds from a sale, exchange, or redemption of a debt instrument on Form 1099-B for a calendar year, you may be
+required to withhold 24% (0.24) of the amount reported.
+Backup withholding applies in the following situations.
+
+• The payee does not give you a TIN.
+
+Publication 1212 (12-2025)
+
+• The IRS notifies you that the payee gave an incorrect
+TIN.
+
+• For debt instruments held in an account opened after
+1983, the payee does not certify, under penalties of
+perjury, that the TIN given is correct.
+
+Payments outside the United States to U.S. person.
+The requirements for backup withholding generally apply
+to certain payments of OID and interest made outside the
+United States if you actually know the payee is a U.S. person. Otherwise, the requirements for backup withholding
+generally do not apply to payments of OID and interest
+made outside the United States or to payments made to a
+payee that you may treat as a foreign person (including by
+receipt of the appropriate Form W-8 or documentary evidence, when permitted). A U.S. resident or citizen is not a
+foreign person.
+More information. For more information about backup
+withholding and exceptions to backup withholding, see
+Regulations section 31.3406(g)-1 and Pub. 515. For information about information reporting on payments made
+outside the United States or to foreign persons, see Regulations sections 1.6049-5(c) through (e), Pub. 515, and the
+General Instructions for Certain Information Returns.
+
+Information for Owners of OID
+Debt Instruments
+This section is for persons who prepare their own tax returns. It discusses the income tax rules for figuring and reporting OID on long-term debt instruments. It also includes a similar discussion for stripped bonds and
+coupons, such as zero coupon bonds available through
+the Department of the Treasury's STRIPS program and
+government-sponsored enterprises such as the Resolution Funding Corporation. However, the information provided does not cover every situation. More information can
+be found in Regulations under sections 1271 through
+1275.
+Including OID in income. Generally, you include OID in
+income as it accrues each year, whether or not you receive any payments from the debt instrument issuer.
+Exceptions. The rules for including OID in income as
+it accrues generally do not apply to the following debt instruments.
+
+• U.S. savings bonds.
+• Tax-exempt obligations. (However, see Tax-Exempt
+Bonds and Coupons, later.)
+
+• Loans of $10,000 or less between individuals who are
+not in the business of lending money. (The dollar limit
+includes outstanding prior loans by the lender to the
+borrower.) This exception does not apply if a principal
+purpose of the loan is to avoid any federal tax.
+
+See chapter 1 of Pub. 550 for information about the
+rules for these and other types of discounted debt
+7
+
+instruments, such as short-term and market discount obligations. Pub. 550 also discusses rules for holders of REMIC interests and CDOs.
+
+to the debt instrument starting as of the date of purchase.
+For more information, see Bond Premium Amortization in
+Pub. 550.
+
+De minimis rule. You can treat OID as zero if the total
+OID on a debt instrument is less than one-fourth of 1%
+(0.0025) of the stated redemption price at maturity multiplied by the number of full years from the date of original
+issue to maturity. Debt instruments with de minimis OID
+are not listed in this publication. There are special rules to
+determine the de minimis amount in the case of debt instruments that provide for more than one payment of principal. Also, the de minimis rules generally do not apply to
+tax-exempt obligations.
+
+Adjustment for acquisition premium. If your debt instrument has acquisition premium, reduce the OID you report. Your adjustment is the difference between the OID
+shown on your Form 1099-OID and the reduced OID
+amount figured using the rules explained later under Figuring OID on Long-Term Debt Instruments. If your debt instrument is a covered security under Regulations section
+1.6045-1(a)(15), your broker may either report the acquisition premium amortization adjustment amount in box 6 or
+may report a net amount of OID in box 1 or box 8, as applicable, that reflects the adjustment of OID by the amortized
+acquisition premium. In general, your broker will use the
+rules in Regulations section 1.1272-2(b)(4) to determine
+the amortization of acquisition premium.
+
+Example 2. You bought at issuance a 10-year debt instrument with a stated redemption price at maturity of
+$1,000, issued at $980 with OID of $20. One-fourth of 1%
+(0.0025) of $1,000 (the stated redemption price) multiplied by 10 (the number of full years from the date of original issue to maturity) equals $25. Under the de minimis
+rule, you can treat the OID as zero because the $20 discount is less than $25.
+Example 3. Assume the same facts as Example 2, except the debt instrument was issued at $950. You must report part of the $50 OID each year because it is more than
+$25.
+Choice to report all interest as OID. Generally, you can
+choose to treat all interest on a debt instrument acquired
+after April 3, 1994, as OID and include it in gross income
+by using the constant yield method. See Constant yield
+method under Debt Instruments Issued After 1984, later,
+for more information.
+For this choice, interest includes stated interest, acquisition discount, OID, de minimis OID, market discount, de
+minimis market discount, and unstated interest, as adjusted by any amortizable bond premium or acquisition premium. For more information, see Regulations section
+1.1272-3.
+Purchase after date of original issue. A debt instrument you purchased after the date of original issue may
+have premium, acquisition premium, or market discount. If
+your debt instrument has premium or acquisition premium,
+the OID reported to you on Form 1099-OID may have to
+be adjusted. For more information, see Showing an OID
+adjustment under How To Report OID, later. If your debt
+instrument is a covered security under Regulations section 1.6045-1(a)(15), market discount, acquisition premium, or premium is reported in box 5, 6, or 10 of Form
+1099-OID, respectively. The following rules generally do
+not apply to contingent payment debt instruments.
+Adjustment for premium. If your debt instrument
+(other than an inflation-indexed debt instrument) has premium, do not report any OID as ordinary income. Your adjustment is the total OID shown on your Form 1099-OID. If
+you pay a premium to buy a debt instrument, you may be
+able to amortize the premium over the remaining term of
+the debt instrument, which would allow you to reduce the
+amount of qualified stated interest reportable with respect
+8
+
+Market discount. If your debt instrument has market
+discount that you choose to include in income currently
+and if the debt instrument is a covered security under
+Regulations section 1.6045-1(a)(15), your broker will report the market discount includible in income in box 5 of
+Form 1099-OID if you notify your broker in writing that you
+elect to include market discount in income as it accrues.
+Unless you notify your broker in writing that you have not
+elected to use a constant yield method under section
+1276(b) to determine accruals of market discount, your
+broker will use a constant yield method to determine accruals of market discount rather than a ratable method.
+See Market Discount Bonds in chapter 1 of Pub. 550 for
+information on how to figure accrued market discount and
+include it in your income currently and for other information about market discount bonds.
+If you choose to use the constant yield method to figure
+accrued market discount, also see Figuring OID on
+Long-Term Debt Instruments, later. The constant yield
+method of figuring accrued OID, explained under Debt Instruments Issued After July 1, 1982, and Before 1985 or
+Debt Instruments Issued After 1984, as appropriate, is
+also used to figure accrued market discount.
+For more information concerning premium or market
+discount on an inflation-indexed debt instrument, see
+Regulations section 1.1275-7.
+Sale, exchange, or redemption. Generally, you treat
+your gain or loss from the sale, exchange, or redemption
+of an OID debt instrument as a capital gain or loss if you
+held the debt instrument as a capital asset. If you sold the
+debt instrument through a broker, you should receive Form
+1099-B or an equivalent statement from the broker. Use
+the Form 1099-B or other statement and your brokerage
+statements to complete Form 8949, and Schedule D
+(Form 1040).
+Your gain or loss is the difference between the amount
+you realized on the sale, exchange, or redemption and
+your basis in the debt instrument. Your basis, generally, is
+your cost increased by the OID you have included in income each year you held it. In general, to determine your
+gain or loss on a tax-exempt bond, figure your basis in the
+Publication 1212 (12-2025)
+
+bond by adding to your cost the OID you would have included in income if the bond had been taxable. For a covered
+security, your broker will report the adjusted basis of the
+debt instrument to you on Form 1099-B.
+See chapter 4 of Pub. 550 for more information about
+the tax treatment of the sale or redemption of discounted
+debt instruments.
+Example 4. Larry, a calendar year taxpayer, bought a
+corporate debt instrument at original issue for $86,235.00
+on November 1 of Year 1. The 15-year debt instrument
+matures on October 31 of Year 16 at a stated redemption
+price of $100,000. The debt instrument provides for semiannual payments of interest at 10% (0.10). Assume the
+debt instrument is a capital asset in Larry's hands. The
+debt instrument has $13,765.00 of OID ($100,000 stated
+redemption price at maturity minus $86,235.00 issue
+price).
+Larry sold the debt instrument for $90,000 on November 1 of Year 4. Including the OID he will report for the period he held the debt instrument in Year 4, Larry has included $1,214.00 of OID in income and has increased his
+basis by that amount to $87,449.00. Larry has realized a
+gain of $2,551.00. All of Larry's gain is capital gain.
+
+Form 1099-OID
+The issuer of the debt instrument (or your broker, if you
+purchased or held the debt instrument through a broker)
+should give you a copy of Form 1099-OID or a similar
+statement if the accrued OID for the calendar year is $10
+or more and the term of the debt instrument is more than 1
+year. Form 1099-OID shows all OID income in box 1 except OID on a U.S. Treasury obligation, which is shown in
+box 8. It also shows, in box 2, any qualified stated interest
+you must include in income. (However, any qualified stated interest on TIPS can be reported on Form 1099-INT in
+box 3.) For a taxable covered security, Form 1099-OID
+may show accrued market discount in box 5, acquisition
+premium in box 6, or premium in box 10. For a taxable
+covered security with acquisition premium, box 1 or box 8,
+as applicable, may show a net amount of OID that reflects
+the offset of OID by the amount of acquisition premium
+amortization for the year. If so, box 6 will be blank. For a
+covered security with bond premium, box 2 may show a
+net amount of qualified stated interest that reflects the offset of interest income by the amount of premium amortization for the year. If so, box 10 will be blank. A copy of Form
+1099-OID will be sent to the IRS. Do not attach your copy
+to your tax return. Keep it for your records.
+If you are required to file a tax return and you receive Form 1099-OID showing taxable amounts,
+CAUTION you must report these amounts on your return. A
+20% (0.20) accuracy-related penalty may be charged for
+underpayment of tax due to either negligence or disregard
+of rules and regulations or substantial understatement of
+tax.
+
+!
+
+Tax-exempt obligations. For a tax-exempt OID obligation that is a covered security acquired on or after January
+1, 2017, box 11 of Form 1099-OID shows the tax-exempt
+Publication 1212 (12-2025)
+
+OID on the obligation for the part of the year you owned it.
+If there is an amount in both boxes 10 and 11, for a
+tax-exempt obligation that is a covered security acquired
+on or after January 1, 2017, and issued with OID, the
+amount in box 10 shows the amount of premium amortization for the year that reduces the amount of your tax-exempt interest for the year. The payer may, but is not required to, report the premium amortization for a
+tax-exempt obligation that is a covered security acquired
+before January 1, 2017, and issued with OID.
+Form 1099-OID not received. If you held an OID debt
+instrument for a calendar year but did not receive a Form
+1099-OID, refer to the discussions under Figuring OID on
+Long-Term Debt Instruments, later, for information on the
+OID you must report.
+Refiguring OID. You may need to refigure the OID shown
+in box 1 or box 8 of Form 1099-OID to determine the
+proper amount to include in income if one of the following
+applies.
+
+• You bought the debt instrument at a premium or at an
+
+acquisition premium. However, if you bought a covered security at an acquisition premium, you may not
+have to refigure the OID if your broker reported a net
+adjusted amount of OID in box 1 or box 8, as applicable, that reflects the adjustment of the OID by the
+amortized acquisition premium.
+
+• The debt instrument is a stripped bond or coupon (including zero coupon bonds backed by U.S. Treasury
+securities).
+
+• The debt instrument is a contingent payment or inflation-indexed debt instrument.
+
+See the discussions under Figuring OID on Long-Term
+Debt Instruments or Figuring OID on Stripped Bonds and
+Coupons, later, for the specific computations.
+Refiguring interest. If you disposed of a debt instrument
+or acquired it from another holder between interest dates,
+see the discussion under Bonds Sold Between Interest
+Dates in chapter 1 of Pub. 550 for information about refiguring the interest shown on Form 1099-OID in box 2.
+Nominee. If you are the holder of an OID debt instrument
+and you receive a Form 1099-OID that shows your TIN
+and includes amounts belonging to another person, you
+are considered a “nominee.” You must file another Form
+1099-OID for each actual owner, showing the OID for the
+owner. Show the owner of the debt instrument as the “recipient” and you as the “payer.”
+Complete Form 1099-OID and Form 1096 and file the
+forms with the Internal Revenue Service Center for your
+area. See Where To File in the Instructions for Form 1096.
+You must also give a copy of the Form 1099-OID to the actual owner. However, you are not required to file a nominee return to show amounts belonging to your spouse.
+See the Form 1099-OID instructions for more information.
+When preparing your tax return, follow the instructions
+under Showing an OID adjustment, later.
+
+9
+
+How To Report OID
+You report your taxable interest and OID income on the interest line of Form 1040 or 1040-SR.
+Where to report. List each payer's name (if a brokerage
+firm gave you a Form 1099, list the brokerage firm as the
+payer), and the amount received from each payer on
+Schedule B (Form 1040), line 1. Include all OID and qualified stated interest shown on any Form 1099-OID, boxes
+1, 2, and 8, you received for the tax year. Also include any
+other OID and interest income for which you did not receive a Form 1099.
+Showing an OID adjustment. To report more or less
+OID than shown in box 1 or box 8 on Form 1099-OID, list
+the full OID on Schedule B (Form 1040), Part I, line 1, and
+follow the instructions under (1) or (2) next.
+1. If the OID, as adjusted, is less than the amount shown
+on Form 1099-OID, show the adjustment as follows.
+a. Under your last entry on line 1, subtotal all interest
+and OID income listed on line 1.
+b. Below the subtotal, write “Nominee Distribution” or
+“OID Adjustment” and show the OID you are not
+required to report.
+c. Subtract that OID from the subtotal and enter the
+result on line 2.
+2. If the OID, as adjusted, is more than the amount
+shown on Form 1099-OID, show the adjustment as
+follows.
+a. Under your last entry on line 1, subtotal all interest
+and OID income listed on line 1.
+b. Below the subtotal, write “OID Adjustment” and
+show the additional OID.
+c. Add that OID to the subtotal and enter the result
+on line 2.
+Note. The above does not apply to a debt instrument
+acquired at an acquisition premium if the broker reported
+a net amount of OID rather than a gross amount of OID in
+box 1 or box 8.
+
+Figuring OID on Long-Term Debt
+Instruments
+How you figure the OID on a long-term debt instrument
+depends on the date it was issued. It may also depend on
+the type of the debt instrument. There are different rules
+for each of the following debt instruments.
+1. Debt instruments issued after July 1, 1982, and before 1985.
+2. Debt instruments issued after 1984 (other than debt
+instruments described in Box 6 under Form
+1099-OID, earlier).
+3. Contingent payment debt instruments issued after August 12, 1996.
+10
+
+4. Inflation-indexed debt instruments (including TIPS) issued after January 5, 1997.
+Zero coupon bonds. The rules for figuring OID on zero
+coupon bonds, including those backed by U.S. Treasury
+securities, are discussed under Figuring OID on Stripped
+Bonds and Coupons, later.
+Form 1099-OID. You should receive a Form 1099-OID
+showing OID for the part of the year you held the debt instrument. However, if you paid an acquisition premium,
+you may need to refigure the OID to report on your tax return. See Reduction for acquisition premium, later. If your
+debt instrument is a covered security under Regulations
+section 1.6045-1(a)(15), you may not have to refigure the
+OID if your broker reported a net adjusted amount of OID
+in box 1 or box 8, as applicable, that reflects the adjustment of OID by the amortized acquisition premium.
+If you held an OID debt instrument in a calendar
+year but did not receive a Form 1099-OID, see
+Form 1099-OID not received, later, and refer to
+the OID tables, available at IRS.gov/Pub1212 by clicking
+the link under Recent Developments.
+Form 1099-OID not received. The OID listed is for each
+$1,000 of redemption price. You must adjust the listed
+amount if your debt instrument has a different principal
+amount. For example, if you have a debt instrument with a
+$500 principal amount, use one-half the listed amount to
+figure your OID.
+If you held the debt instrument the entire calendar year,
+use the OID shown in the OID tables for a calendar year.
+(If your debt instrument is not listed in the OID tables, consult the issuer for information about the issue price, the
+YTM, and the OID that has accrued for that year.) If you
+did not hold the debt instrument the entire calendar year,
+figure your OID using the following method.
+1. Divide the OID shown by 12.
+2. Multiply the result in (1) by the number of complete
+and partial months (for example, 61/2 months) you
+held the debt instrument during a calendar year. This
+is the OID to include in income unless you paid an acquisition premium. The reduction for acquisition premium is discussed next.
+Reduction for acquisition premium. If you bought the
+debt instrument at an acquisition premium, figure the OID
+to include in income as follows.
+1. Divide the total OID on the debt instrument by the
+number of complete months, and any part of a month,
+from the date of original issue to the maturity date.
+This is the monthly OID.
+2. Subtract from your cost the issue price and the accumulated OID from the date of issue to the date of purchase. (If the result is zero or less, stop here. You did
+not pay an acquisition premium.)
+3. Divide the amount figured in (2) by the number of
+complete months, and any part of a month, from the
+date of your purchase to the maturity date.
+Publication 1212 (12-2025)
+
+4. Subtract the amount figured in (3) from the amount
+figured in (1). This is the OID to include in income for
+each month you hold the debt instrument during the
+year.
+
+1. Look up the daily OID for the first accrual period you
+held the debt instrument during a calendar year. (See
+Accrual period under Debt Instruments Issued After
+July 1, 1982, and Before 1985, later.)
+
+Transfers during the month. If you buy or sell a debt instrument on any day other than the same day of the month
+as the date of original issue, the portion of OID for the
+month of sale is divided between the seller and the buyer
+according to the number of days each held the debt instrument. Your holding period for this purpose begins the day
+you acquire the debt instrument and ends the day before
+you dispose of it.
+
+2. Multiply the daily OID by the number of days you held
+the debt instrument during that accrual period.
+
+Debt Instruments Issued After July 1, 1982,
+and Before 1985
+If you hold these debt instruments as capital assets, you
+must include part of the OID in income each year you own
+the debt instruments and increase your basis by the
+amount included. For information about showing the correct OID on your tax return, see How To Report OID, earlier.
+Form 1099-OID. You should receive a Form 1099-OID
+showing OID for the part of the year you held the debt instrument. However, if you paid an acquisition premium,
+you may need to refigure the OID to report on your tax return. See Constant yield method and the discussions on
+acquisition premium that follow, later.
+If you held an OID debt instrument in a calendar
+year but did not receive a Form 1099-OID, see
+Form 1099-OID not received, later, and refer to
+Section I-A in the OID tables, available at IRS.gov/
+Pub1212 by clicking the link under Recent Developments.
+Form 1099-OID not received. The OID listed is for each
+$1,000 of redemption price. You must adjust the listed
+amount if your debt instrument has a different principal
+amount. For example, if you have a debt instrument with a
+$500 principal amount, use one-half the listed amount to
+figure your OID.
+If you held the debt instrument the entire calendar year,
+use the OID shown in Section I-A for a calendar year. (If
+your debt instrument is not listed in Section I-A, consult
+the issuer for information about the issue price, the YTM,
+and the OID that has accrued for that year.) If you did not
+hold the debt instrument the entire calendar year, figure
+your OID using the following method.
+Method 1.
+1. Divide the total OID for a calendar year by 365 (366
+for leap years).
+2. Multiply the result in (1) by the number of days you
+held the debt instrument during that particular year.
+This computation is an approximation and may result in a
+slightly higher OID than method 2.
+Method 2.
+
+Publication 1212 (12-2025)
+
+3. If you held the debt instrument for part of both accrual
+periods, repeat (1) and (2) for the second accrual period.
+4. Add the results of (2) and (3). This is the OID to include in income, unless you paid an acquisition premium. (The reduction for acquisition premium is discussed later.)
+Constant yield method. This discussion shows how to
+figure OID on debt instruments issued after July 1, 1982,
+and before 1985, using a constant yield method. OID is allocated over the life of the debt instrument through adjustments to the issue price for each accrual period.
+Figure the OID allocable to any accrual period as follows.
+1. Multiply the adjusted issue price at the beginning of
+the accrual period by the debt instrument's YTM.
+2. Subtract from the result in (1) any qualified stated interest allocable to the accrual period.
+Accrual period. An accrual period for any OID debt
+instrument issued after July 1, 1982, and before 1985, is
+each year period beginning on the date of the issue of the
+obligation and each anniversary thereafter, or the shorter
+period to maturity for the last accrual period. Your tax year
+will usually include parts of two accrual periods.
+Daily OID. The OID for any accrual period is allocated
+equally to each day in the accrual period. You must include in income the sum of the OID amounts for each day
+you hold the debt instrument during the year. If your tax
+year includes parts of two or more accrual periods, you
+must include the proper daily OID amounts for each accrual period.
+Figuring daily OID. The daily OID for the initial accrual period is figured using the following formula.
+
+( ip x ytm) – qsi
+p
+
+ip = issue price
+ytm = yield to maturity
+qsi = qualified stated interest
+p = number of days in accrual period
+
+The daily OID for subsequent accrual periods is figured
+the same way except the adjusted issue price at the beginning of each period is used in the formula instead of the
+issue price.
+11
+
+Reduction for acquisition premium on debt instruments purchased before July 19, 1984. If you bought
+the debt instrument at an acquisition premium before July
+19, 1984, figure the OID includible in income by reducing
+the daily OID by the daily acquisition premium. Figure the
+daily acquisition premium by dividing the total acquisition
+premium by the number of days in the period beginning on
+your purchase date and ending on the day before the date
+of maturity.
+Reduction for acquisition premium on debt instruments purchased after July 18, 1984. If you bought the
+debt instrument at an acquisition premium after July 18,
+1984, figure the OID includible in income by reducing the
+daily OID by the daily acquisition premium. However, the
+method of figuring the daily acquisition premium is different from the method described in the preceding discussion. To figure the daily acquisition premium under this
+method, multiply the daily OID by the following fraction.
+
+• The numerator is the acquisition premium.
+• The denominator is the total OID remaining for the
+debt instrument after your purchase date.
+
+Section I-A in the OID tables is available at
+IRS.gov/Pub1212 by clicking the link under Recent Developments.
+Using Section I-A to figure accumulated OID. If you
+bought your corporate debt instrument in a calendar year
+or the subsequent year, you can figure the accumulated
+OID to the date of purchase by adding the following
+amounts.
+1. The amount from the “Total OID to January 1, YYYY”
+column for your debt instrument.
+2. The OID from January 1 of a calendar year to the date
+of purchase, figured as follows.
+a. Multiply the daily OID for the first accrual period in
+the calendar year by the number of days from January 1 to the date of purchase, or the end of the
+accrual period if the debt instrument was purchased in the second or third accrual period.
+b. Multiply the daily OID for each subsequent accrual
+period by the number of days in the period to the
+date of purchase or the end of the accrual period,
+whichever applies.
+c. Add the amounts figured in (2a) and (2b).
+
+Debt Instruments Issued After 1984
+If you hold debt instruments issued after 1984, you must
+report part of the OID in gross income each year that you
+own the debt instruments. You must include the OID in
+gross income whether or not you hold the debt instrument
+as a capital asset. Your basis in the debt instrument is increased by the OID you include in income. For information
+about showing the correct OID on your tax return, see
+How To Report OID, earlier.
+
+12
+
+Form 1099-OID. You should receive a Form 1099-OID
+showing OID for the part of a calendar year you held the
+debt instrument. However, if you paid an acquisition premium, you may need to refigure the OID to report on your
+tax return. See Constant yield method and Reduction for
+acquisition premium, later.
+If your taxable debt instrument is a covered security,
+your broker will figure the amortization of acquisition premium for you. Your broker may report either a gross
+amount of OID in box 1 or box 8, as applicable, and the
+acquisition premium amortization in box 6, or may report a
+net amount of OID that reflects the offset of OID by the
+amount of acquisition premium amortization for the year in
+box 1 or box 8, as applicable. In general, your broker will
+use the rules in Regulations section 1.1272-2(b)(4) to determine the amortization of acquisition premium. However,
+you may use a constant yield method to amortize acquisition premium if you make an election under Regulations
+section 1.1272-3.
+You may also need to refigure the OID for a contingent
+payment or inflation-indexed debt instrument on which the
+amount reported on Form 1099-OID is inaccurate. See
+Contingent Payment Debt Instruments or Inflation-Indexed
+Debt Instruments, later.
+If you held an OID debt instrument in a calendar
+year but did not receive a Form 1099-OID, see
+Form 1099-OID not received, later, and refer to
+Section I-B in the OID tables, available at IRS.gov/
+Pub1212 by clicking the link under Recent Developments.
+Form 1099-OID not received. The OID listed is for each
+$1,000 of redemption price. You must adjust the listed
+amount if your debt instrument has a different principal
+amount. For example, if you have a debt instrument with a
+$500 principal amount, use one-half the listed amount to
+figure your OID.
+Use the OID shown in Section I-B for a calendar year if
+you held the debt instrument the entire calendar year. (If
+your debt instrument is not listed in Section I-B, consult
+the issuer for information about the issue price, the YTM,
+and the OID that accrued for that year.) If you did not hold
+the debt instrument the entire calendar year, figure your
+OID as follows.
+1. Look up the daily OID for the first accrual period in
+which you held the debt instrument during a calendar
+year. (See Accrual period under Debt Instruments Issued After 1984, later.)
+2. Multiply the daily OID by the number of days you held
+the debt instrument during that accrual period.
+3. Repeat (1) and (2) for any remaining accrual periods
+in which you held the debt instrument.
+4. Add the results of (2) and (3). This is the OID to include in income for that year, unless you paid an acquisition premium. (The reduction for acquisition premium is discussed later.)
+Tax-exempt bond. If you own a tax-exempt bond, figure
+your basis in the bond by adding to your cost the OID you
+would have included in income if the bond had been
+Publication 1212 (12-2025)
+
+taxable. You need to make this adjustment to determine if
+you have a gain or loss on a later disposition of the bond.
+In general, use the rules that follow to determine your OID.
+If your tax-exempt bond is a covered security under Regulations section 1.6045-1(a)(15), your broker will make this
+adjustment to your basis and will report the adjusted basis
+on Form 1099-B.
+Constant yield method. This discussion shows how to
+figure OID on debt instruments issued after 1984 using a
+constant yield method. (The special rules that apply to
+contingent payment debt instruments and inflation-indexed debt instruments are explained later.) OID is allocated over the life of the debt instrument through adjustments to the issue price for each accrual period.
+Figure the OID allocable to any accrual period as follows.
+1. Multiply the adjusted issue price at the beginning of
+the accrual period by a fraction. The numerator of the
+fraction is the debt instrument's YTM, and the denominator is the number of accrual periods per year. The
+yield must be stated appropriately taking into account
+the length of the particular accrual period.
+2. Subtract from the result in (1) any qualified stated interest allocable to the accrual period.
+Accrual period. For debt instruments issued after
+1984 and before April 4, 1994, an accrual period is each
+6-month period that ends on the day that corresponds to
+the stated maturity date of the debt instrument or the date
+6 months before that date. For example, a debt instrument
+maturing on March 31 has accrual periods that end on
+September 30 and March 31 of each calendar year. Any
+short period is included as the first accrual period.
+For debt instruments issued after April 3, 1994, accrual
+periods may be of any length and may vary in length over
+the term of the debt instrument, as long as each accrual
+period is no longer than 1 year and all payments are made
+on the first or last day of an accrual period. However, the
+OID listed for these debt instruments in Section I-B has
+been figured using 6-month accrual periods.
+Daily OID. The OID for any accrual period is allocated
+equally to each day in the accrual period. Figure the
+amount to include in income by adding the OID for each
+day you hold the debt instrument during the year. Since
+your tax year will usually include parts of two or more accrual periods, you must include the proper daily OID for
+each accrual period. If your debt instrument has 6-month
+accrual periods, your tax year will usually include one full
+6-month accrual period and parts of two other 6-month
+periods.
+Figuring daily OID. The daily OID for the initial accrual period is figured using the following formula.
+
+(
+
+ip x
+
+( ytm
+n )) – qsi
+p
+
+Publication 1212 (12-2025)
+
+ip = issue price
+ytm = yield to maturity
+n = number of accrual periods in 1 year
+qsi = qualified stated interest
+p = number of days in accrual period
+
+The daily OID for subsequent accrual periods is figured
+the same way except the adjusted issue price at the beginning of each period is used in the formula instead of the
+issue price.
+Example 5. On January 1 of Year 1, you bought a
+15-year, 10% (0.10) debt instrument of A Corporation at
+original issue for $86,235.17. According to the prospectus,
+the debt instrument matures on December 31 of Year 15
+at a stated redemption price of $100,000. The YTM is
+12% (0.12), compounded semiannually. The debt instrument provides for qualified stated interest payments of
+$5,000 on June 30 and December 31 of each calendar
+year. The accrual periods are the 6-month periods ending
+on each of these dates. The number of days for the first
+accrual period (January 1 through June 30) is 181 days
+(182 for leap years). The daily OID for the first accrual period is figured as follows.
+– $5,000
+( $86,235.17 × 0.12
+2 )
+181 days
+
+=
+
+$174.11020
+= $0.96193
+181
+
+The adjusted issue price at the beginning of the second
+accrual period is the issue price plus the OID previously
+includible in income ($86,235.17 + $174.11), or
+$86,409.28. The number of days for the second accrual
+period (July 1 through December 31) is 184 days. The
+daily OID for the second accrual period is figured as follows.
+– $5,000
+( $86,409.28 × 0.12
+2 )
+184 days
+
+=
+
+$184.55681 = $1.00303
+184
+
+Since the first and second accrual periods coincide exactly with your tax year, you include in income for Year 1
+the OID allocable to the first two accrual periods, $174.11
+($0.96193 × 181 days) plus $184.56 ($1.00303 × 184
+days), or $358.67. Add the OID to the $10,000 interest
+you report on your income tax return for Year 1.
+Example 6. Assume the same facts as in Example 5,
+except that you bought the debt instrument at original issue on May 1 of Year 1, with a maturity date of April 30,
+13
+
+Year 16. Also, the interest payment dates are October 31
+and April 30 of each calendar year. The accrual periods
+are the 6-month periods ending on each of these dates.
+The number of days for the first accrual period (May 1
+through October 31) is 184 days. The daily OID for the first
+accrual period is figured as follows.
+– $5,000
+( $86,235.17 × 0.12
+2 )
+184 days
+
+= $174.11020 = $0.94625
+184
+
+The number of days for the second accrual period (November 1 through April 30) is 181 days (182 for leap
+years). The daily OID for the second accrual period is figured as follows.
+– $5,000
+( $86,409.28 × 0.12
+2 )
+181 days
+
+=
+
+$184.55681
+= $1.01965
+181
+
+If you hold the debt instrument through the end of Year
+1, you must include $236.31 of OID in income. This is
+$174.11 ($0.94625 × 184 days) for the period May 1
+through October 31 plus $62.20 ($1.01965 × 61 days) for
+the period November 1 through December 31. The OID is
+added to the $5,000 interest income paid on October 31
+of Year 1. Your basis in the debt instrument is increased by
+the OID you include in income. On January 1 of Year 2,
+your basis in the A Corporation debt instrument is
+$86,471.48 ($86,235.17 + $236.31).
+Short first accrual period. You may have to make adjustments if a debt instrument has a short first accrual period. For example, a debt instrument with 6-month accrual
+periods that is issued on February 15 and matures on October 31 has a short first accrual period that ends April 30.
+(The remaining accrual periods begin on May 1 and November 1.) For this short period, figure the daily OID as
+described earlier, but adjust the yield for the length of the
+short accrual period. You may use any reasonable compounding method in determining OID for a short period.
+Examples of reasonable compounding methods include
+continuous compounding and monthly compounding (that
+is, simple interest within a month). Consult your tax advisor for more information about making this computation.
+The OID for the final accrual period is the difference between the amount payable at maturity (other than a payment of qualified stated interest) and the adjusted issue
+price at the beginning of the final accrual period.
+Reduction for acquisition premium. If you acquired a
+debt instrument with OID at an acquisition premium, you
+must amortize the acquisition premium over the life of the
+14
+
+debt instrument. Unless you make the constant yield election under Regulations section 1.1272-3, figure the OID includible in income by reducing the daily OID by the daily
+acquisition premium. To figure the daily acquisition premium, multiply the daily OID by the following fraction.
+
+• The numerator is the acquisition premium.
+• The denominator is the total OID remaining for the
+debt instrument after your purchase date.
+
+If your debt instrument is a covered security, your
+broker may either report a gross amount of OID in box 1 or
+box 8 and the amount of acquisition premium amortization
+in box 6, or your broker may report a net OID amount to
+you in box 1 or box 8, and leave box 6 blank.
+If your broker reports a net OID amount in box 1 or
+box 8, do not deduct acquisition premium amortization
+from that amount. If your broker reports a gross amount of
+OID in box 1 or box 8, and the amount of acquisition premium amortization in box 6, follow steps 1.a through 1.c
+under Showing an OID adjustment, earlier.
+Example 7. Assume the same facts as in Example 6,
+except that you bought the debt instrument on November
+1 of Year 1 for $87,000, after its original issue on May 1 of
+Year 1. The adjusted issue price on November 1 of Year 1
+is $86,409.28 ($86,235.17 + $174.11). In this case, you
+paid an acquisition premium of $590.72 ($87,000 −
+$86,409.28). The daily OID for the accrual period November 1 through April 30, reduced for the acquisition premium, is figured as follows.
+1)
+
+4)
+
+Daily OID on date of purchase (2nd accrual
+period) . . . . . . . . . . . . . . . . . . . . . . . . . .
+Acquisition premium . . . . . . . .
+$590.72
+Total OID remaining after
+purchase date ($13,764.83 −
+$174.11) . . . . . . . . . . . . . . .
+$13,590.72
+Line 2 ÷ line 3 . . . . . . . . . . . . . . . . . . . . . .
+
+5)
+
+Line 1 × line 4 . . . . . . . . . . . . . . . . . . . . . .
+
+0.04432
+
+6) Daily OID reduced for the acquisition premium.
+Line 1 − line 5 . . . . . . . . . . . . . . . . . . . . .
+
+$0.97533
+
+2)
+3)
+
+$1.01965*
+
+0.04346
+
+* As shown in Example 6, earlier.
+
+The total OID to include in income for Year 1 is $59.50
+($0.97533 × 61 days).
+
+Contingent Payment Debt Instruments
+This discussion shows how to figure OID on a contingent
+payment debt instrument issued after August 12, 1996,
+that was issued for cash or publicly traded property. In
+general, a contingent payment debt instrument provides
+for one or more payments that are contingent as to timing
+or amount. If you hold a contingent payment debt instrument, you must report OID as it accrues each year.
+Contingent payment debt instruments acquired on or
+after January 1, 2016, are “covered securities.” Dispositions of covered and noncovered securities must be reported on Form 8949. The gain or loss on these securities
+subject to the noncontingent bond method will be adjusted by any amounts shown in column (g) with a corresponding code O in column (f). In general, the gain from
+Publication 1212 (12-2025)
+
+the sale of these securities will be ordinary and losses will
+be ordinary to the extent of prior-year OID inclusions.
+Because the actual payments on a contingent payment
+debt instrument cannot be known in advance, issuers and
+holders cannot use the Constant yield method (discussed
+earlier under Debt Instruments Issued After 1984) without
+making certain assumptions about the payments on the
+debt instrument. To figure OID accruals on contingent payment debt instruments, holders and issuers must use the
+noncontingent bond method.
+Noncontingent bond method. Under this method, the
+issuer must figure a comparable yield for the debt instrument and, based on this yield, construct a projected payment schedule for the instrument, which includes a projected fixed amount for each contingent payment. In general,
+holders and issuers accrue OID on this projected payment
+schedule using the constant yield method that applies to
+fixed payment debt instruments. When the actual amount
+of a contingent payment differs from the projected fixed
+amount, the holders and issuers make adjustments to
+their OID accruals. If the actual contingent payment is
+larger than expected, both the issuer and the holder increase their OID accruals. If the actual contingent payment is smaller than expected, holders and issuers generally decrease their OID accruals.
+Form 1099-OID. The amount shown on Form 1099-OID
+in box 1 you receive for a contingent payment debt instrument may not be the correct amount to include in income.
+For example, the amount may not be correct if the actual
+amount of the contingent payment was different from the
+projected amount. If the amount in box 1 is not correct,
+you must figure the OID to report on your return under the
+following rules. For information on showing an OID adjustment on your tax return, see How To Report OID, earlier.
+Figuring OID. To figure OID on a contingent payment
+debt instrument, you need to know the “comparable yield”
+and “projected payment schedule” of the debt instrument.
+The issuer must make these available to you. If the issuer
+does not determine the comparable yield and/or the projected payment schedule, the holder must do so instead.
+Comparable yield. The comparable yield is generally
+the yield at which the issuer would issue a fixed rate debt
+instrument with terms and conditions similar to those of
+the contingent payment debt instrument. The comparable
+yield is determined as of the debt instrument's issue date.
+Projected payment schedule. The projected payment schedule for a contingent payment debt instrument
+includes all fixed payments due under the instrument and
+a projected fixed amount for each contingent payment.
+The projected payment schedule is created by the issuer
+as of the debt instrument's issue date. It is used to determine the issuer's and holder's interest accruals and adjustments. If the issuer does not determine the projected
+payment schedule, the holder must do so instead.
+Steps for figuring OID. Figure the OID on a contingent payment debt instrument in two steps.
+Publication 1212 (12-2025)
+
+1. Figure the OID using the Constant yield method (discussed earlier under Debt Instruments Issued After
+1984) that applies to fixed payment debt instruments.
+Use the comparable yield as the YTM. In general, use
+the projected payment schedule to determine the instrument's adjusted issue price at the beginning of
+each accrual period (other than the initial period). Do
+not treat any amount payable as qualified stated interest.
+2. Adjust the OID in (1) to account for the actual contingent payments. If the actual amount of the contingent
+payment is greater than the projected fixed amount,
+you have a positive adjustment. If the contingent payment is less than the projected fixed amount, you
+have a negative adjustment.
+Net positive adjustment. A net positive adjustment
+exists for a tax year when the total of any positive adjustments described in (2) above for the tax year is more than
+the total of any negative adjustments for the tax year. Treat
+a net positive adjustment as additional OID for the tax
+year.
+Net negative adjustment. A net negative adjustment
+exists for a tax year when the total of any negative adjustments described in (2) above for the tax year is more than
+the total of any positive adjustments for the tax year. Use a
+net negative adjustment to offset OID on the debt instrument for the tax year. If the net negative adjustment is
+more than the OID on the debt instrument for the tax year,
+you can claim the difference as an ordinary loss. However,
+the amount you can claim as an ordinary loss is limited to
+the OID on the debt instrument you included in income in
+prior tax years. You must carry forward any net negative
+adjustment that is more than the total OID for the tax year
+and treat it as a negative adjustment in the next tax year.
+Basis adjustments. In general, increase your basis in a
+contingent payment debt instrument by the OID included
+in income. Your basis, however, is not affected by any negative or positive adjustments. Decrease your basis by any
+noncontingent payment received and the projected contingent payment scheduled to be received.
+Treatment of gain or loss on sale or exchange. If you
+sell a contingent payment debt instrument at a gain, your
+gain is ordinary income (interest income), even if you hold
+the debt instrument as a capital asset. If you sell a contingent payment debt instrument at a loss, your loss is an ordinary loss to the extent of your prior OID accruals on the
+debt instrument. If the debt instrument is a capital asset,
+treat any loss that is more than your prior OID accruals as
+a capital loss.
+See Regulations section 1.1275-4(b) for exceptions to
+these rules.
+Premium, acquisition premium, and market discount.
+The rules for accruing premium, acquisition premium, and
+market discount do not apply to a contingent payment
+debt instrument. See Regulations section 1.1275-4(b) to
+determine how to account for these items.
+15
+
+Inflation-Indexed Debt Instruments
+This discussion shows how you figure OID on certain inflation-indexed debt instruments issued after January 5,
+1997. An inflation-indexed debt instrument is generally a
+debt instrument on which the payments are adjusted for
+inflation and deflation (such as TIPS).
+In general, if you hold an inflation-indexed debt instrument, you must report as OID any increase in the inflation-adjusted principal amount of the debt instrument that
+occurs while you held the debt instrument during the tax
+year. You must include the OID in gross income whether
+or not you hold the debt instrument as a capital asset.
+Your basis in the debt instrument is increased by the OID
+you include in income.
+Inflation-indexed debt instruments acquired on or after
+January 1, 2016, are “covered securities.” Dispositions of
+covered and noncovered securities must be reported on
+Form 8949.
+Inflation-adjusted principal amount. For any date, the
+inflation-adjusted principal amount of an inflation-indexed
+debt instrument is the debt instrument's outstanding principal amount multiplied by the index ratio for that date.
+(For TIPS, multiply the par value by the index ratio for that
+date.) For this purpose, determine the outstanding principal amount as if there were no inflation or deflation over
+the term of the debt instrument.
+Index ratio. This is a fraction, the numerator of which
+is the value of the reference index for the date and the denominator of which is the value of the reference index for
+the debt instrument's issue date.
+A reference index measures inflation and deflation over
+the term of a debt instrument. Its value is reset each
+month to a current value of a single qualified inflation index (for example, the non-seasonally adjusted U.S. City
+Average All Items Consumer Price Index for All Urban
+Consumers (CPI-U), published by the U.S. Bureau of
+Labor Statistics). The value of the index for any date between reset dates is determined through straight-line interpolation.
+The daily index ratios for TIPS are available on the
+Internet at TreasuryDirect.gov/instit/annceresult/
+tipscpi/tipscpi.htm.
+Form 1099-OID. The amount shown in box 8 of the Form
+1099-OID you receive for an inflation-indexed debt instrument may not be the correct amount to include in income.
+For example, the amount may not be correct if you bought
+the debt instrument other than at original issue or sold it
+during the year. If the amount shown in box 8 is not correct, you must figure the OID to report on your return under the following rules. For information about showing an
+OID adjustment on your tax return, see How To Report
+OID, earlier.
+
+Figuring OID. Figure the OID on an inflation-indexed
+debt instrument using one of the following methods.
+
+• The coupon bond method, described in the follow-
+
+ing discussion, applies if the debt instrument is issued
+at par (as determined under Regulations section
+1.1275-7(d)(2)(i)), all stated interest payable on the
+debt instrument is qualified stated interest, and the
+coupons have not been stripped from the debt instrument. This method applies to TIPS, including TIPS issued with more than a de minimis amount of premium
+(see Regulations section 1.1275-7).
+
+• The discount bond method applies to any infla-
+
+tion-indexed debt instrument that does not qualify for
+the coupon bond method, such as a stripped debt instrument. This method is described in Regulations
+section 1.1275-7(e).
+
+Under the coupon bond method, figure the OID you
+must report for the tax year as follows.
+Debt instrument held at the end of the tax year. If
+you held the debt instrument at the end of the tax year, figure your OID for the year using the following steps.
+1. Add the inflation-adjusted principal amount for the day
+after the last day of the tax year and any principal payments you received during the year. (For TIPS, multiply the par value by the index ratio for the day after the
+last day of the tax year, and add any principal payments received.)
+2. Subtract from (1) above the inflation-adjusted principal amount for the first day on which you held the debt
+instrument during the tax year. (For TIPS, subtract
+from (1) above the product of the par value multiplied
+by the index ratio for the first day held during the tax
+year.)
+Interest is reported separately, as discussed later under
+Stated interest, later.
+Debt instrument sold or retired during the tax year.
+If you sold the debt instrument during the tax year, or if it
+was retired, figure your OID for the year using the following
+steps.
+1. Add the inflation-adjusted principal amount for the last
+day on which you held the debt instrument during the
+tax year and any principal payments you received during the year. (For TIPS, multiply the par value by the
+index ratio for the sale or retirement date, and add any
+principal payments received.)
+2. Subtract from (1) above the inflation-adjusted principal amount for the first day on which you held the debt
+instrument during the tax year. (For TIPS, subtract
+from (1) above the product of the par value multiplied
+by the index ratio for the first day held during the tax
+year.)
+Interest is reported separately, as discussed later under
+Stated interest, later.
+Example 8. On February 6 of Year 9, you bought an
+old 10-year, 3.375% (0.03375) inflation-indexed debt
+
+16
+
+Publication 1212 (12-2025)
+
+instrument (maturing January 15 of Year 11) for $9,831.
+The stated principal (par value) amount is $10,000 and
+the inflation-adjusted principal amount for February 6 of
+Year 9 is $12,047.50 ($10,000 par value multiplied by
+1.20475 index ratio). You held the debt instrument until
+August 29 of Year 9 when the inflation-adjusted principal
+amount was $12,275.70 ($10,000 par value multiplied by
+1.22757 index ratio). Your OID for Year 9 is $228.20
+($12,275.70 − $12,047.50). Your basis in the debt instrument on August 29 of Year 9 was $10,059.20 ($9,831 cost
++ $228.20 OID) for Year 9.
+Stated interest. Under the coupon bond method, you
+report any stated interest on the debt instrument under
+your regular method of accounting. For example, if you
+use the cash method, you generally include in income for
+the tax year any interest payments received on the debt
+instrument during the year.
+Deflation adjustments. If your calculation to figure OID
+on an inflation-indexed debt instrument produces a negative number, you do not have any OID. Instead, you have a
+deflation adjustment. A deflation adjustment is generally
+used to offset interest income from the debt instrument for
+the tax year. Show this offset as an adjustment on your
+Schedule B (Form 1040) in the same way you would show
+an OID adjustment. See How To Report OID, earlier.
+You decrease your basis in the debt instrument by the
+deflation adjustment used to offset interest income.
+Example 9. Assume the same facts as in Example 8,
+except that you bought the debt instrument for $9,831 on
+January 6 of Year 9, when the inflation-adjusted principal
+amount was $12,050.10, and sold the debt instrument on
+March 1 of Year 9, when the inflation-adjusted principal
+amount was $12,011.20. Because the OID calculation for
+Year 9 ($12,011.20 − $12,050.10) produces a negative
+number (negative $38.90), you have a deflation adjustment. You use this deflation adjustment to offset the stated interest reported to you on the debt instrument.
+Your basis in the debt instrument on March 1 of Year 9
+is $9,792.10 ($9,831 cost − $38.90 deflation adjustment).
+Premium on inflation-indexed debt instruments. In
+general, any premium on an inflation-indexed debt instrument is determined as of the date you acquire the debt instrument by assuming there will be no further inflation or
+deflation over the remaining term of the debt instrument.
+You allocate any premium over the remaining term of the
+debt instrument by making the same assumption. In general, the premium allocable to a tax year offsets the interest otherwise includible in income for the year. If the premium allocable to the year is more than that interest, the
+difference generally offsets the OID on the debt instrument for the year. See Regulations section 1.1275-7 for an
+example applying the coupon bond method to a TIPS issued with more than a de minimis amount of premium.
+
+Publication 1212 (12-2025)
+
+Figuring OID on Stripped Bonds and
+Coupons
+If you strip one or more coupons from a bond and then sell
+or otherwise dispose of the bond or the stripped coupons,
+they are treated as separate debt instruments issued with
+OID. The holder of a stripped bond has the right to receive
+the principal (redemption price) payment. The holder of a
+stripped coupon has the right to receive an interest payment on the bond. The rule requiring the holder of a debt
+instrument issued with OID to include the OID in gross income as it accrues applies to stripped bonds and coupons acquired after July 1, 1982. See Debt Instruments
+and Coupons Purchased After July 1, 1982, and Before
+1985 or Debt Instruments and Coupons Purchased After
+1984, later, for information about figuring the OID to report.
+Stripped bonds and coupons include the following instruments.
+
+• Zero coupon bonds available through the Department
+of the Treasury's STRIPS program and government-sponsored enterprises such as the Resolution
+Funding Corporation and the Financing Corporation.
+
+• Debt instruments backed by U.S. Treasury securities
+
+that represent ownership interests in those securities.
+Examples include obligations backed by U.S. Treasury
+bonds that are offered primarily by brokerage firms
+(variously called CATS, TIGRs, etc.).
+
+Seller of stripped bonds or coupons. If you strip coupons from a bond and sell the bond or coupons, include in
+income the interest that accrued while you held the bond
+before the date of sale to the extent the interest was not
+previously included in your income. For an obligation acquired after October 22, 1986, you must also include the
+market discount that accrued before the date of sale of the
+stripped bond (or coupon) to the extent the discount was
+not previously included in your income.
+Add the interest and market discount you include in income to the basis of the bond and coupons. This adjusted
+basis is then allocated between the items you keep and
+the items you sell, based on the fair market value of the
+items. The difference between the sale price of the bond
+(or coupon) and the allocated basis of the bond (or coupon) is the gain or loss from the sale.
+Treat any item you keep as an OID bond originally issued and purchased by you on the sale date of the other
+items. If you keep the bond, treat the excess of the redemption price of the bond over the basis of the bond as
+OID. If you keep the coupons, treat the excess of the
+amount payable on the coupons over the basis of the coupons as OID.
+Purchaser of stripped bonds or coupons. If you purchase a stripped bond or coupon, treat it as if it were originally issued on the date of purchase. If you purchase the
+stripped bond, treat as OID any excess of the stated redemption price at maturity over your purchase price. If you
+purchase the stripped coupon, treat as OID any excess of
+17
+
+the amount payable on the due date of the coupon over
+your purchase price.
+
+result is the part of the OID treated as nontaxable OID on
+a stripped tax-exempt bond or coupon.
+
+Form 1099-OID
+
+Step 3. Determine taxable part. The taxable part of
+OID is the OID determined in Step 1 minus the nontaxable
+part determined in Step 2.
+
+The amount shown in box 8 of the Form 1099-OID you receive for a stripped bond or coupon may not be the proper
+amount to include in income. If not, you must figure the
+OID to report on your return under the rules that follow. For
+information about showing an OID adjustment on your tax
+return, see How To Report OID, earlier.
+
+Tax-Exempt Bonds and Coupons
+The OID on a stripped tax-exempt bond, or on a stripped
+coupon from such a bond, is generally not taxable. However, if you acquired the stripped bond or coupon after October 22, 1986, you must accrue OID on it to determine its
+basis when you dispose of it. How you figure accrued OID
+and whether any OID is taxable depend on the date you
+bought (or are treated as having bought) the stripped
+bond or coupon.
+Acquired before June 11, 1987. None of the OID on
+bonds or coupons acquired before this date is taxable.
+The accrued OID is added to the basis of the bond or coupon. The accrued OID is the amount that produces a
+YTM, based on your purchase date and purchase price,
+equal to the lower of the following rates.
+1. The coupon rate on the bond before the separation of
+coupons. (However, if you can establish the YTM of
+the bond (with all coupons attached) at the time of its
+original issue, you can use that YTM instead.)
+2. The YTM of the stripped bond or coupon.
+Increase your basis in the stripped tax-exempt bond or
+coupon by the interest that accrued but was neither paid
+nor previously reflected in your basis before the date you
+sold the bond or coupon.
+Acquired after June 10, 1987. Part of the OID on bonds
+or coupons acquired after this date may be taxable. Figure
+the taxable part in three steps.
+Step 1. Figure OID as if all taxable. First, figure the
+OID following the rules in this section as if all the OID were
+taxable. (See Debt Instruments and Coupons Purchased
+After 1984, later.) Use the YTM based on the date you obtained the stripped bond or coupon.
+Step 2. Determine nontaxable part. Find the issue
+price that would produce a YTM as of the purchase date
+equal to the lower of the following rates.
+1. The coupon rate on the bond from which the coupons
+were separated. (However, you can use the original
+YTM instead.)
+2. The YTM based on the purchase date and purchase
+price of the stripped coupon or bond.
+Subtract this issue price from the stated redemption
+price of the bond at maturity (or, in the case of a coupon,
+the amount payable on the due date of the coupon). The
+18
+
+Exception. None of the OID on your stripped tax-exempt bond or coupon is taxable if you bought it from a person who held it for sale on June 10, 1987, in the ordinary
+course of that person's trade or business.
+Basis adjustment. Increase the basis of your stripped
+tax-exempt bond or coupon by the taxable and nontaxable
+accrued OID. If you own a tax-exempt bond from which
+one or more coupons have been stripped, increase your
+basis in it by the sum of the interest accrued but not paid
+before you dispose of it (and not previously reflected in
+basis) and any accrued market discount to the extent not
+previously included in your income.
+Example 10. Assume that a tax-exempt bond with a
+face amount of $100 due January 1 of Year 4 and a coupon rate of 10% (0.10) (compounded semiannually) was
+issued for $100 on January 1 of Year 1. On January 1 of
+Year 2, the bond was stripped and you bought the right to
+receive the principal amount for $79.21. The stripped
+bond is treated as if it was originally issued on January 1
+of Year 2 with OID of $20.79 ($100.00 − $79.21). This reflects a YTM at the time of the strip of 12% (0.12) (compounded semiannually). The tax-exempt part of OID on
+the stripped bond is limited to $17.73. This is the difference between the redemption price ($100) and the issue
+price that would produce a YTM of 10% (0.10) ($82.27).
+This part of the OID is treated as OID on a tax-exempt obligation.
+The OID on the stripped bond that is more than the
+tax-exempt part is $3.06. This is the excess of the total
+OID ($20.79) over the tax-exempt part ($17.73). This part
+of the OID ($3.06) is treated as OID on an obligation that
+is not tax-exempt.
+The total OID allocable to the accrual period ending
+June 30 of Year 2 is $4.75 (6% (0.06) × $79.21). Of this,
+$4.11 (5% (0.05) × $82.27) is treated as OID on a tax-exempt obligation and $0.64 ($4.75 − $4.11) is treated as
+OID on an obligation that is not tax-exempt. Your basis in
+the debt instrument as of June 30 of Year 2 is increased to
+$83.96 ($79.21 purchase price + accrued OID of $4.75).
+
+Debt Instruments and Coupons Purchased
+After July 1, 1982, and Before 1985
+If you purchased a stripped bond or coupon after July 1,
+1982, and before 1985, and you held that debt instrument
+as a capital asset during any part of a calendar year, you
+must figure the OID to be included in income using a constant yield method. Under this method, OID is allocated
+over the time you hold the debt instrument by adjusting the
+acquisition price for each accrual period. The OID for the
+accrual period is figured by multiplying the adjusted acquisition price at the beginning of the period by the YTM.
+
+Publication 1212 (12-2025)
+
+Adjusted acquisition price. The adjusted acquisition
+price of a stripped bond or coupon at the beginning of the
+first accrual period is its purchase (or acquisition) price.
+The adjusted acquisition price at the beginning of any
+subsequent accrual period is the sum of the acquisition
+price and all of the OID includible in income before that
+accrual period.
+Accrual period. An accrual period for any stripped
+bond or coupon acquired before 1985 is each year period
+beginning on the date of the purchase of the obligation
+and each anniversary thereafter, or the shorter period to
+maturity for the last accrual period.
+Yield to maturity (YTM). In general, the YTM of a stripped bond or coupon is the discount rate that, when used
+in figuring the present value of all principal and interest
+payments, produces an amount equal to the acquisition
+price of the debt instrument or coupon.
+Figuring YTM. If you purchased a stripped bond or
+coupon after July 1, 1982, but before 1985, and the period
+from your purchase date to the day the debt instrument
+matures can be divided exactly into full 1-year periods
+without including a shorter period, then the YTM can be
+figured by applying the following formula.
+
+(( ) )
+1
+m
+
+srp
+ap
+
+– 1
+
+srp = stated redemption price at maturity
+ap = acquisition price
+m = number of full accrual periods from purchase to maturity
+
+If the debt instrument is a stripped coupon, the stated
+redemption price is the amount payable on the due date of
+the coupon.
+If the period between your purchase date and the maturity date (or due date) of the debt instrument does not divide into an exact number of full 1-year periods, so that a
+period shorter than 1 year must be included, consult your
+broker or your tax advisor for information about figuring
+the YTM.
+Daily OID. The OID for any accrual period is allocated
+equally to each day in the accrual period. You figure the
+amount to include in income by adding the daily OID
+amounts for each day you hold the debt instrument during
+the year. If your tax year includes parts of more than one
+accrual period (which will be the case unless the accrual
+period coincides with your tax year), you must include the
+proper daily OID amounts for each of the two accrual periods.
+The daily OID for the initial accrual period is figured by
+applying the following formula.
+
+( ap x ytm )
+p
+
+Publication 1212 (12-2025)
+
+ap = acquisition price
+ytm = yield to maturity
+p = number of days in accrual period
+
+The daily OID for subsequent accrual periods is figured
+in the same way, except the adjusted acquisition price at
+the beginning of each period is used in the formula instead of the acquisition price.
+The rules for figuring OID on these debt instruments are
+similar to those in Debt Instruments Issued After July 1,
+1982, and Before 1985, earlier.
+
+Debt Instruments and Coupons Purchased
+After 1984
+If you purchased a stripped bond or coupon (other than a
+stripped inflation-indexed debt instrument) after 1984, and
+you held that debt instrument during any part of a calendar
+year, you must figure the OID to be included in income using a constant yield method. Under this method, OID is allocated over the time you hold the debt instrument by adjusting the acquisition price for each accrual period. The
+OID for the accrual period is figured by multiplying the adjusted acquisition price at the beginning of the period by a
+fraction. The numerator of the fraction is the debt instrument's YTM, and the denominator is the number of accrual periods per year.
+If the stripped bond or coupon is an inflation-indexed instrument, you must figure the OID to be included in income using the discount bond method described in Regulations section 1.1275-7(e).
+Adjusted acquisition price. The adjusted acquisition
+price of a stripped bond or coupon at the beginning of the
+first accrual period is its purchase (or acquisition) price.
+The adjusted acquisition price at the beginning of any
+subsequent accrual period is the sum of the acquisition
+price and all of the OID includible in income before that
+accrual period.
+Accrual period. For a stripped bond or coupon acquired
+after 1984, and before April 4, 1994, an accrual period is
+each 6-month period that ends on the day that corresponds to the stated maturity date of the stripped bond (or
+payment date of a stripped coupon) or the date 6 months
+before that date. For example, a stripped bond that has a
+maturity date (or a stripped coupon that has a payment
+date) of March 31 has accrual periods that end on September 30 and March 31 of each calendar year. Any short
+period is included as the first accrual period.
+For a stripped bond or coupon acquired after April 3,
+1994, accrual periods may be of any length and may vary
+in length over the term of the debt instrument, as long as
+each accrual period is no longer than 1 year and all payments are made on the first or last day of an accrual period.
+Yield to maturity (YTM). In general, the YTM of a stripped bond or coupon is the discount rate that, when used
+in figuring the present value of all principal and interest
+19
+
+payments, produces an amount equal to the acquisition
+price.
+Figuring YTM. How you figure the YTM for a stripped
+debt instrument or coupon purchased after 1984 depends
+on whether you have equal accrual periods or a short initial accrual period.
+1. Equal accrual periods. If the period from the date
+you purchased a stripped bond or coupon to the maturity
+date can be divided evenly into full accrual periods without
+including a shorter period, you can figure the YTM by using the following formula.
+n ×
+
+((
+
+)
+
+srp
+ap
+
+1
+m
+– 1
+
+)
+
+n = number of accrual periods in 1 year
+srp = stated redemption price at maturity
+
+n = number of accrual periods in 1 year
+srp = stated redemption price at maturity
+ap = acquisition price
+r = number of days from purchase to end of short accrual
+period
+s = number of days in accrual period ending on last day of
+short accrual period
+m = number of full accrual periods from purchase to maturity
+
+Example 12. On May 30 of Year 1, you bought a coupon stripped from a U.S. Treasury bond through the Department of the Treasury's STRIPS program for $60,000.
+$100,000 is payable on the coupon's due date, August 11
+of Year 7. You decide to figure OID using 6-month accrual
+periods. There are 12 full 6-month accrual periods and a
+74-day short initial accrual period from the purchase date
+to the coupon's due date. The YTM on this stripped coupon is figured as follows.
+
+ap = acquisition price
+m = number of full accrual periods from purchase to maturity
+
+If the debt instrument is a stripped coupon, the stated
+redemption price is the amount payable on the due date of
+the coupon.
+Example 11. On May 15 of Year 1, you bought a coupon stripped from a U.S. Treasury bond through the Department of the Treasury's STRIPS program for $38,000.
+An amount of $100,000 is payable on the coupon's due
+date, November 14 of Year 13. There are exactly 25
+6-month periods between the purchase date, May 15 of
+Year 1, and the coupon's due date, November 14 of Year
+13. The YTM on this stripped coupon is figured as follows.
+2 ×
+
+((
+
+$100,000
+$38,000
+
+)
+
+1
+25
+– 1
+
+)
+
+= 2 × (1.03946 -1) = 0.07892 = 7.892%
+
+Use 7.892% (0.07892) YTM to figure the OID for each
+accrual period or partial accrual period for which you must
+report OID.
+2. Short initial accrual period. If the period from the
+date you purchased a stripped bond or coupon to the date
+of its maturity cannot be divided evenly into accrual periods, so that a shorter period must be included, you can
+figure the YTM by using the following formula (the exact
+method).
+
+n ×
+
+(( )
+srp
+ap
+
+(
+
+1
+r + m
+s
+
+)
+– 1
+
+2 x
+
+(((
+
+(
+$100,000
+$60,000
+
+)
+
+1
+
+74 +
+12
+181
+
+)
+
+) )
+–1
+
+= 2 x (1.04203 – 1) = 0.08406 = 8.406%
+
+Use 8.406% (0.08406) YTM to figure the OID for each
+accrual period or partial accrual period for which you must
+report OID.
+Daily OID. The OID for any accrual period is allocated
+equally to each day in the accrual period. You must include in income the sum of the daily OID amounts for
+each day you hold the debt instrument during the year.
+Since your tax year will usually include parts of two or
+more accrual periods, you must include the proper daily
+OID amounts for each accrual period.
+Figuring daily OID. For the initial accrual period of a
+stripped bond or coupon acquired after 1984, figure the
+daily OID using Formula 1, later, if there are equal accrual
+periods. Use Formula 2, later, if there is a short initial accrual period.
+For subsequent accrual periods, figure the daily OID
+using Formula 1 (whether or not there was a short initial
+accrual period), but use the adjusted acquisition price in
+the formula instead of the acquisition price.
+Formula 1.
+
+)
+
+ap x
+
+( ytm
+n )
+
+p
+
+Formula 2.
+
+(
+20
+
+(
+
+ytm
+ap x 1 + n
+r
+
+) ) – ap
+( sr )
+
+Publication 1212 (12-2025)
+
+ap = acquisition price
+
+How To Get Tax Help
+
+ytm = yield to maturity
+n = number of accrual periods in 1 year
+p = number of days in accrual period
+r = number of days from purchase to end of short accrual
+period
+s = number of days in accrual period ending on last day of
+short accrual period
+
+The rules for figuring OID on these debt instruments are
+similar to those illustrated in Example 5 and Example 6,
+earlier, under Debt Instruments Issued After 1984.
+Example 13. Assume the same facts as in Example 12 and that you held the coupon for the rest of Year 1.
+For the short initial accrual period from May 30 through
+August 11, the daily OID is figured using Formula 2, as follows.
+
+(
+
+(
+
+$60,000 x 1 + 0.08406
+2
+
+)
+
+74
+(181
+)
+
+)
+
+– $60,000
+
+74
+
+= $1,018.48 = $13.76327
+74
+
+The OID for this period is $1,018.48 ($13.76327 × 74
+days).
+For the second accrual period from August 12 of Year 1
+through February 11 of Year 2, the adjusted acquisition
+price is $61,018.48. This is the original $60,000 acquisition price plus $1,018.48 OID for the short initial accrual
+period. The daily OID is figured using Formula 1, as follows.
+
+( $61,018.48 × 0.08406
+)
+2
+184
+
+( $2,564.60671) = $13.93808
+184
+
+The OID for the part of this period included in Year 1
+(August 12–December 31) is $1,979.21 ($13.93808 × 142
+days).
+The OID to be reported on your income tax return for
+Year 1 is $2,997.69 ($1,018.48 + $1,979.21).
+Final accrual period. The OID for the final accrual period for a stripped bond or coupon is the amount payable
+at maturity of the stripped bond (or interest payable on the
+stripped coupon) minus the adjusted acquisition price at
+the beginning of the final accrual period. The daily OID for
+the final accrual period is figured by dividing the OID for
+the period by the number of days in the period.
+
+Publication 1212 (12-2025)
+
+If you have questions about a tax issue; need help preparing your tax return; or want to download free publications,
+forms, or instructions, go to IRS.gov to find resources that
+can help you right away.
+Tax reform. Tax reform legislation impacting federal
+taxes, credits, and deductions was enacted in P.L. 119-21,
+commonly known as the One Big Beautiful Bill Act, on July
+4, 2025. Go to IRS.gov/OBBB for more information and
+updates on how this legislation affects your taxes.
+Preparing and filing your tax return. After receiving all
+your wage and earnings statements (Forms W-2, W-2G,
+1099-R, 1099-MISC, 1099-NEC, etc.); unemployment
+compensation statements (by mail or in a digital format) or
+other government payment statements (Form 1099-G);
+and interest, dividend, and retirement statements from
+banks and investment firms (Forms 1099), you have several options to choose from to prepare and file your tax return. You can prepare the tax return yourself, see if you
+qualify for free tax preparation, or hire a tax professional to
+prepare your return.
+Free options for tax preparation. Your options for preparing and filing your return online or in your local community, if you qualify, include the following.
+
+• Free File. This program lets you prepare and file your
+
+federal individual income tax return for free using software or Free File Fillable Forms. However, state tax
+preparation may not be available through Free File. Go
+to IRS.gov/FreeFile to see if you qualify for free online
+federal tax preparation, e-filing, and direct deposit or
+payment options.
+
+• VITA. The Volunteer Income Tax Assistance (VITA)
+
+program offers free tax help to people with
+low-to-moderate incomes, persons with disabilities,
+and limited-English-speaking taxpayers who need
+help preparing their own tax returns. Go to IRS.gov/
+VITA, download the free IRS2Go app, or call
+800-906-9887 for information on free tax return preparation.
+
+• TCE. The Tax Counseling for the Elderly (TCE) pro-
+
+gram offers free tax help for all taxpayers, particularly
+those who are 60 years of age and older. TCE volunteers specialize in answering questions about pensions and retirement-related issues unique to seniors.
+Go to IRS.gov/TCE or download the free IRS2Go app
+for information on free tax return preparation.
+
+• MilTax. Members of the U.S. Armed Forces and quali-
+
+fied veterans may use MilTax, a free tax service offered by the Department of Defense through Military
+OneSource. For more information, go to
+MilitaryOneSource (MilitaryOneSource.mil/MilTax).
+Also, the IRS offers Free Fillable Forms, which can
+be completed online and then e-filed regardless of income.
+21
+
+Using online tools to help prepare your return. Go to
+IRS.gov/Tools for the following.
+
+• The Earned Income Tax Credit Assistant (IRS.gov/
+EITCAssistant) determines if you’re eligible for the
+earned income credit (EITC).
+
+• The Online EIN Application (IRS.gov/EIN) helps you
+get an employer identification number (EIN) at no
+cost.
+
+• The Tax Withholding Estimator (IRS.gov/W4App)
+
+makes it easier for you to estimate the federal income
+tax you want your employer to withhold from your paycheck. This is tax withholding. See how your withholding affects your refund, take-home pay, or tax due.
+
+• The Sales Tax Deduction Calculator (IRS.gov/
+
+SalesTax) figures the amount you can claim if you
+itemize deductions on Schedule A (Form 1040).
+Getting answers to your tax questions. On
+IRS.gov, you can get up-to-date information on
+current events and changes in tax law.
+
+• IRS.gov/Help: A variety of tools to help you get answers to some of the most common tax questions.
+
+• IRS.gov/ITA: The Interactive Tax Assistant, a tool that
+will ask you questions and, based on your input, provide answers on a number of tax topics.
+
+• IRS.gov/Forms: Find forms, instructions, and publica-
+
+tions. You will find details on the most recent tax
+changes and interactive links to help you find answers
+to your questions.
+
+• You may also be able to access tax information in your
+e-filing software.
+
+Need someone to prepare your tax return? There are
+various types of tax return preparers, including enrolled
+agents, certified public accountants (CPAs), accountants,
+and many others who don’t have professional credentials.
+If you choose to have someone prepare your tax return,
+choose that preparer wisely. A paid tax preparer is:
+
+• Primarily responsible for the overall substantive accuracy of your return,
+
+• Required to sign the return, and
+• Required to include their preparer tax identification
+number (PTIN).
+
+Although the tax preparer always signs the return,
+you’re ultimately responsible for providing all the
+CAUTION information required for the preparer to accurately
+prepare your return and for the accuracy of every item reported on the return. Anyone paid to prepare tax returns
+for others should have a thorough understanding of tax
+matters. For more information on how to choose a tax preparer, go to Tips for Choosing a Tax Preparer on IRS.gov.
+
+!
+
+Employers can register to use Business Services Online. The Social Security Administration (SSA) offers online service at SSA.gov/employer for fast, free, and secure
+W-2 filing options to CPAs, accountants, enrolled agents,
+22
+
+and individuals who process Form W-2, Wage and Tax
+Statement; and Form W-2c, Corrected Wage and Tax
+Statement.
+Business tax account. If you are a sole proprietor, a
+partnership, an S corporation, a C corporation, or a single-member limited liability company (LLC), you can view
+your tax information on record with the IRS and do more
+with a business tax account. Go to IRS.gov/
+BusinessAccount for more information.
+IRS social media. Go to IRS.gov/SocialMedia to see the
+various social media tools the IRS uses to share the latest
+information on tax changes, scam alerts, initiatives, products, and services. At the IRS, privacy and security are our
+highest priority. We use these tools to share public information with you. Don’t post your social security number
+(SSN) or other confidential information on social media
+sites. Always protect your identity when using any social
+networking site.
+The following IRS YouTube channels provide short, informative videos on various tax-related topics in English
+and ASL.
+
+• Youtube.com/irsvideos.
+• Youtube.com/irsvideosASL.
+Over-the-Phone Interpreter (OPI) Service. The IRS offers the OPI Service to taxpayers needing language interpretation. The OPI Service is available at Taxpayer Assistance Centers (TACs), most IRS offices, and every
+VITA/TCE tax return site. This service is available in Spanish, Mandarin, Cantonese, Korean, Vietnamese, Russian,
+and Haitian Creole.
+Accessibility Helpline available for taxpayers with
+disabilities. Taxpayers who need information about accessibility services can call 833-690-0598. The Accessibility Helpline can answer questions related to current and
+future accessibility products and services available in alternative media formats (for example, braille-ready, large
+print, audio, etc.). The Accessibility Helpline does not
+have access to your IRS account. For help with tax law, refunds, or account-related issues, go to IRS.gov/
+LetUsHelp.
+Alternative media preference. Form 9000, Alternative
+Media Preference, or Form 9000(SP) allows you to elect to
+receive certain types of written correspondence in the following formats.
+
+• Standard Print.
+• Large Print.
+• Braille.
+• Audio (MP3).
+• Plain Text File (TXT).
+• Braille-Ready File (BRF).
+Disasters. Go to IRS.gov/DisasterRelief to review the
+available disaster tax relief.
+Publication 1212 (12-2025)
+
+Getting tax forms and publications. Go to IRS.gov/
+Forms to view, download, or print all the forms, instructions, and publications you may need. Or you can go to
+IRS.gov/OrderForms to place an order.
+Mobile-friendly forms. You’ll need an IRS Online Account (OLA) to complete mobile-friendly forms that require
+signatures. You’ll have the option to submit your form(s)
+online or download a copy for mailing. You’ll need scans of
+your documents to support your submission. Go to
+IRS.gov/MobileFriendlyForms for more information.
+Getting tax publications and instructions in eBook
+format. Download and view most tax publications and instructions (including the Instructions for Form 1040) on
+mobile devices as eBooks at IRS.gov/eBooks.
+IRS eBooks have been tested using Apple’s iBooks for
+iPad. Our eBooks haven’t been tested on other dedicated
+eBook readers, and eBook functionality may not operate
+as intended.
+Access your online account (individual taxpayers
+only). Go to IRS.gov/Account to securely access information about your federal tax account.
+
+• View the amount you owe and a breakdown by tax
+year.
+
+• See payment plan details or apply for a new payment
+plan.
+
+• Make a payment or view 5 years of payment history
+and any pending or scheduled payments.
+
+Reporting and resolving your tax-related identity
+theft issues.
+
+• Tax-related identity theft happens when someone
+
+steals your personal information to commit tax fraud.
+Your taxes can be affected if your SSN is used to file a
+fraudulent return or to claim a refund or credit.
+
+• The IRS doesn’t initiate contact with taxpayers by
+
+email, text messages (including shortened links), telephone calls, or social media channels to request or
+verify personal or financial information. This includes
+requests for personal identification numbers (PINs),
+passwords, or similar information for credit cards,
+banks, or other financial accounts.
+
+• Go to IRS.gov/IdentityTheft, the IRS Identity Theft
+
+Central webpage, for information on identity theft and
+data security protection for taxpayers, tax professionals, and businesses. If your SSN has been lost or
+stolen or you suspect you’re a victim of tax-related
+identity theft, you can learn what steps you should
+take.
+
+• Get an Identity Protection PIN (IP PIN). IP PINs are
+
+six-digit numbers assigned to taxpayers to help prevent the misuse of their SSNs on fraudulent federal income tax returns. When you have an IP PIN, it prevents someone else from filing a tax return with your
+SSN. To learn more, go to IRS.gov/IPPIN.
+
+Ways to check on the status of your refund.
+
+• Access your tax records, including key data from your
+
+• Go to IRS.gov/Refunds.
+• Download the official IRS2Go app to your mobile de-
+
+• View digital copies of select notices from the IRS.
+• Approve or reject authorization requests from tax pro-
+
+• Call the automated refund hotline at 800-829-1954.
+
+most recent tax return, and transcripts.
+
+fessionals.
+
+Get a transcript of your return. With an online account,
+you can access a variety of information to help you during
+the filing season. You can get a transcript, review your
+most recently filed tax return, and get your adjusted gross
+income. Create or access your online account at IRS.gov/
+Account.
+Tax Pro Account. This tool lets your tax professional
+submit an authorization request to access your individual
+taxpayer IRS OLA. For more information, go to IRS.gov/
+TaxProAccount.
+Using direct deposit. The safest and easiest way to receive a tax refund is to e-file and choose direct deposit,
+which securely and electronically transfers your refund directly into your financial account. Direct deposit also
+avoids the possibility that your check could be lost, stolen,
+destroyed, or returned undeliverable to the IRS. Eight in
+10 taxpayers use direct deposit to receive their refunds. If
+you don’t have a bank account, go to IRS.gov/
+DirectDeposit for more information on where to find a bank
+or credit union that can open an account online.
+
+Publication 1212 (12-2025)
+
+vice to check your refund status.
+
+The IRS can’t issue refunds before mid-February
+for returns that claimed the EITC or the additional
+CAUTION child tax credit (ACTC). This applies to the entire
+refund, not just the portion associated with these credits.
+
+!
+
+Making a tax payment. The IRS recommends paying
+electronically whenever possible. Options to pay electronically are included in the list below. Payments of U.S. tax
+must be remitted to the IRS in U.S. dollars. Digital assets
+are not accepted. Go to IRS.gov/Payments for information
+on how to make a payment using any of the following options.
+
+• IRS Direct Pay: Pay taxes from your bank account. It’s
+
+free and secure, and no sign-in is required. You can
+change or cancel within 2 days of scheduled payment.
+
+• Debit Card, Credit Card, or Digital Wallet: Choose an
+approved payment processor to pay online or by
+phone.
+
+• Electronic Funds Withdrawal: Schedule a payment
+
+when filing your federal taxes using tax return preparation software or through a tax professional.
+
+• Electronic Federal Tax Payment System: This is the
+best option for businesses. Enrollment is required.
+
+23
+
+• Check or Money Order: Mail your payment to the address listed on the notice or instructions.
+
+• Cash: You may be able to pay your taxes with cash at
+a participating retail store.
+
+• Same-Day Wire: You may be able to do same-day
+
+wire from your financial institution. Contact your financial institution for availability, cost, and time frames.
+
+Note: The IRS uses the latest encryption technology to
+ensure that the electronic payments you make online, by
+phone, or from a mobile device using the IRS2Go app are
+safe and secure. Paying electronically is quick and easy.
+What if I can’t pay now? Go to IRS.gov/Payments for
+more information about your options.
+
+• Apply for an online payment agreement (IRS.gov/
+
+OPA) to meet your tax obligation in monthly installments if you can’t pay your taxes in full today. Once
+you complete the online process, you will receive immediate notification of whether your agreement has
+been approved.
+
+• Use the Offer in Compromise Pre-Qualifier to see if
+
+you can settle your tax debt for less than the full
+amount you owe. For more information on the Offer in
+Compromise program, go to IRS.gov/OIC.
+
+Filing an amended return. Go to IRS.gov/1040X for information and updates.
+Checking the status of your amended return. Go to
+IRS.gov/WMAR to track the status of Form 1040-X amended returns.
+It can take up to 3 weeks from the date you filed
+your amended return for it to show up in our sysCAUTION tem, and processing it can take up to 16 weeks.
+
+!
+
+Understanding an IRS notice or letter you’ve received. Go to IRS.gov/Notices to find additional information about responding to an IRS notice or letter.
+IRS Document Upload Tool. You may be able to use
+the Document Upload Tool to respond digitally to eligible
+IRS notices and letters by securely uploading required
+documents online through IRS.gov. For more information,
+go to IRS.gov/DUT.
+Schedule LEP. You can use Schedule LEP (Form 1040),
+Request for Change in Language Preference, to state a
+preference to receive notices, letters, or other written communications from the IRS in an alternative language. You
+may not immediately receive written communications in
+the requested language. The IRS’s commitment to LEP
+taxpayers is part of a multi-year timeline that began providing translations in 2023. You will continue to receive
+communications, including notices and letters, in English
+until they are translated to your preferred language.
+Contacting your local TAC. Keep in mind, many questions can be answered on IRS.gov without visiting a TAC.
+Go to IRS.gov/LetUsHelp for the topics people ask about
+24
+
+most. If you still need help, TACs provide tax help when a
+tax issue can’t be handled online or by phone. All TACs
+now provide service by appointment, so you’ll know in advance that you can get the service you need without long
+wait times. Before you visit, go to IRS.gov/TAC to find the
+nearest TAC and to check hours, available services, and
+appointment options. Or, on the IRS2Go app, under the
+Stay Connected tab, choose the Contact Us option and
+click on “Local Offices.”
+————————————————————————
+Below is a message to you from the Taxpayer Advocate
+Service, an independent organization established by Congress.
+
+The Taxpayer Advocate Service (TAS)
+Is Here To Help You
+What Is the Taxpayer Advocate Service?
+The Taxpayer Advocate Service (TAS) is an independent
+organization within the Internal Revenue Service (IRS).
+TAS helps taxpayers resolve problems with the IRS,
+makes administrative and legislative recommendations to
+prevent or correct the problems, and protects taxpayer
+rights. We work to ensure that every taxpayer is treated
+fairly and that you know and understand your rights under
+the Taxpayer Bill of Rights. We are Your Voice at the IRS.
+
+How Can TAS Help Me?
+TAS can help you resolve problems that you haven’t been
+able to resolve with the IRS on your own. Always try to resolve your problem with the IRS first, but if you can’t, then
+come to TAS. Our services are free.
+
+• TAS helps all taxpayers (and their representatives), including individuals, businesses, and exempt organizations. You may be eligible for TAS help if your IRS
+problem is causing financial difficulty, if you’ve tried
+and been unable to resolve your issue with the IRS, or
+if you believe an IRS system, process, or procedure
+just isn’t working as it should.
+
+• To get help any time with general tax topics, visit
+
+www.TaxpayerAdvocate.IRS.gov. The site can help
+you with common tax issues and situations, such as
+what to do if you make a mistake on your return or if
+you get a notice from the IRS.
+
+• TAS works to resolve large-scale (systemic) problems
+
+that affect many taxpayers. You can report systemic issues at www.IRS.gov/SAMS. (Be sure not to include
+any personal identifiable information.)
+
+How Do I Contact TAS?
+TAS has offices in every state, the District of Columbia,
+and Puerto Rico. To find your local advocate’s number:
+
+• Go to www.TaxpayerAdvocate.IRS.gov/Contact-Us,
+• Check your local directory, or
+Publication 1212 (12-2025)
+
+• Call TAS toll free at 877-777-4778.
+What Are My Rights as a Taxpayer?
+The Taxpayer Bill of Rights describes ten basic rights that
+all taxpayers have when dealing with the IRS. Go to
+
+Publication 1212 (12-2025)
+
+www.TaxpayerAdvocate.IRS.gov/Taxpayer-Rights
+for
+more information about the rights, what they mean to you,
+and how they apply to specific situations you may encounter with the IRS. TAS strives to protect taxpayer rights and
+ensure the IRS is administering the tax law in a fair and
+equitable way.
+
+25
+
+Index
+
+To help us develop a more useful index, please let us know if you have ideas for index entries.
+See “Comments and Suggestions” in the “Introduction” for the ways you can reach us.
+Adjusted issue price 3
+Debt instrument 3
+Issue price 3
+Market discount 3
+Original issue discount (OID) 2
+Premium 3
+Qualified stated interest 3
+Stated redemption price at
+maturity 3
+Yield to maturity 3
+
+A
+
+Accrual period 2
+Acquisition premium 2
+Adjusted issue price 3
+Assistance (See Tax help)
+
+B
+
+Backup withholding 6
+Bearer bonds and coupons 6
+Brokers (See Information for brokers
+and other middlemen)
+
+C
+
+Certificates of deposit 6
+Contingent payment debt
+instruments 14
+
+D
+
+Debt instrument 3
+Debt instruments:
+Long-term 5
+Short-term 5
+Debt instruments and coupons
+purchased after 1984 19
+Debt instruments and coupons
+purchased after July 1, 1982, and
+before 1985 18
+Debt Instruments in the OID
+tables 3
+Debt instruments issued after
+1984 12
+Debt instruments issued after July
+1, 1982, and before 1985 11
+Debt instruments not in the OID
+tables 4
+Definitions 2
+Accrual period 2
+Acquisition premium 2
+
+26
+
+E
+
+OID tables, Debt Instruments in 3
+OID tables, Debt instruments not
+in 4
+OID, figuring 6
+Using section I 6
+Using the income tax regulations 6
+Original issue discount (OID) 2
+Owners of OID debt instruments,
+information for 7
+
+P
+
+Electronic payee statements 4
+
+Premium 3
+Publications (See Tax help)
+
+F
+
+Q
+
+Form 5
+
+Qualified stated interest 3
+
+I
+
+R
+
+Inflation-indexed debt
+instruments 16
+Information for brokers and other
+middlemen 4
+Information for owners of OID debt
+instruments 7
+Issue price 3
+Issuers of OID debt instruments,
+Instructions for 1
+
+L
+
+Long-term debt instruments 5
+
+M
+
+Market discount 3
+
+O
+
+REMIC and CDO information
+reporting requirements 2
+
+S
+
+Section I 3
+Section II 4
+Section III 4
+Short-term obligations redeemed at
+maturity 5
+Stated redemption price at
+maturity 3
+Stripped bonds and coupons,
+figuring OID 17
+
+T
+
+Tax help 21
+
+OID on long-term debt instruments, Y
+figuring 10
+Yield to maturity 3, 19
+OID on stripped bonds and
+coupons, figuring 17
+
+Publication 1212 (12-2025)
+
+

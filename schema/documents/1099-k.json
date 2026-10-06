@@ -1,0 +1,175 @@
+{
+  "document": {
+    "id": "1099-K",
+    "title": "Payment Card and Third Party Network Transactions",
+    "kind": "information_return",
+    "revision": "Rev. March 2024",
+    "revision_printed_as": "Form 1099-K (Rev. 3-2024)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099k--2024.pdf",
+    "issued_by": "a payment settlement entity (PSE) - a payment card acquirer or a third party settlement organization",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1a",
+        "label": "Gross amount of payment card/third party network transactions",
+        "type": "money"
+      },
+      {
+        "box": "1b",
+        "label": "Card Not Present transactions",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Merchant category code",
+        "type": "code"
+      },
+      {
+        "box": "3",
+        "label": "Number of payment transactions",
+        "type": "count"
+      },
+      {
+        "box": "4",
+        "label": "Federal income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "5a",
+        "label": "January",
+        "type": "money"
+      },
+      {
+        "box": "5b",
+        "label": "February",
+        "type": "money"
+      },
+      {
+        "box": "5c",
+        "label": "March",
+        "type": "money"
+      },
+      {
+        "box": "5d",
+        "label": "April",
+        "type": "money"
+      },
+      {
+        "box": "5e",
+        "label": "May",
+        "type": "money"
+      },
+      {
+        "box": "5f",
+        "label": "June",
+        "type": "money"
+      },
+      {
+        "box": "5g",
+        "label": "July",
+        "type": "money"
+      },
+      {
+        "box": "5h",
+        "label": "August",
+        "type": "money"
+      },
+      {
+        "box": "5i",
+        "label": "September",
+        "type": "money"
+      },
+      {
+        "box": "5j",
+        "label": "October",
+        "type": "money"
+      },
+      {
+        "box": "5k",
+        "label": "November",
+        "type": "money"
+      },
+      {
+        "box": "5l",
+        "label": "December",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "State",
+        "type": "text"
+      },
+      {
+        "box": "7",
+        "label": "State identification no.",
+        "type": "text"
+      },
+      {
+        "box": "8",
+        "label": "State income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "filer-type",
+        "label": "Check to indicate if FILER is a (an):",
+        "type": "checkbox",
+        "codes": [
+          {
+            "code": "pse",
+            "label": "Payment settlement entity (PSE)"
+          },
+          {
+            "code": "epf",
+            "label": "Electronic Payment Facilitator (EPF)/Other third party"
+          }
+        ],
+        "notes": "Unnumbered checkbox pair on Copy B."
+      },
+      {
+        "box": "transaction-type",
+        "label": "Check to indicate transactions reported are:",
+        "type": "checkbox",
+        "codes": [
+          {
+            "code": "payment-card",
+            "label": "Payment card"
+          },
+          {
+            "code": "third-party-network",
+            "label": "Third party network"
+          }
+        ],
+        "notes": "Unnumbered checkbox pair on Copy B."
+      },
+      {
+        "box": "pse-name",
+        "label": "PSE\u2019S name and telephone number",
+        "type": "text",
+        "notes": "Unnumbered; whom to contact when the FILER is not recognised."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed above the issuer's block on every copy. A corrected form replaces one furnished earlier; its figures are the ones to use, never counted beside the earlier form's."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed on Copy A (the issuer's filing copy) and the state copy; the recipient's Copy B does not print it."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "FR-016 mark. An account or other unique number the issuer assigned; identification only, never a figure."
+      }
+    ],
+    "notes": "The revision in force for tax year 2025 is Rev. March 2024; irs-prior/f1099k--2025.pdf returns 404. DO NOT take the box numbering from irs.gov/pub/irs-pdf/f1099k.pdf, which serves Rev. December 2026: that revision adds boxes 1c 'Cash tips' and 1d 'TTOC', and moves state income tax withheld from box 8 to box 6. On the TY2025 form box 6 is 'State', box 7 is 'State identification no.' and box 8 is 'State income tax withheld'. Confirmed against Publication 1179 (Rev. Proc. 2025-22), whose exhibit prints 'Form 1099-K (Rev. 3-2024)'. REPORTING THRESHOLD FOR CALENDAR YEAR 2025: a third party settlement organization must file only where the gross amount of reportable payment transactions to a payee EXCEEDS $20,000 AND the number of transactions EXCEEDS 200. The One, Big, Beautiful Bill retroactively reinstated the pre-ARPA threshold; the $5,000/$2,500/$600 phase-in of Notice 2024-85 is superseded. Payment CARD transactions have no de minimis threshold and are reported regardless of amount. NOTE that the instruction set paired with this form revision (i1099k--2024.pdf, Rev. March 2024) still prints the superseded $600 ARPA rule - take the form revision from March 2024 but the threshold from the post-OBBBA guidance. THE THRESHOLD DOES NOT CHANGE TAXABILITY: income is reportable whether or not a Form 1099-K was required or issued, and an amount on a Form 1099-K is not income merely because it was reported. See reportability rule 1099k-threshold-is-not-taxability."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099K",
+    "note": null
+  }
+}

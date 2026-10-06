@@ -1,0 +1,68 @@
+{
+  "document": {
+    "id": "1099-CAP",
+    "title": "Changes in Corporate Control and Capital Structure",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-CAP (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099cap--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-pdf/f1099cap.pdf",
+    "issued_by": "a corporation that had a change in control or a substantial change in capital structure",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Date of sale or exchange",
+        "type": "date",
+        "notes": "'Shows the date the stock was exchanged for cash, stock, or other property.'"
+      },
+      {
+        "box": "2",
+        "label": "Aggregate amount rec'd",
+        "type": "money",
+        "notes": "'Shows the aggregate amount of any cash and the fair market value of any stock or other property received by you in the exchange for the stock you held.' The form's own footnote reads '* You cannot claim a loss based on the amount in box 2.'"
+      },
+      {
+        "box": "3",
+        "label": "No. of shares exchanged",
+        "type": "count",
+        "notes": "'Shows the number of shares of the corporation's stock that you held which were exchanged in the transaction.'"
+      },
+      {
+        "box": "4",
+        "label": "Classes of stock exchanged",
+        "type": "text",
+        "notes": "'Shows the class or classes of stock that were exchanged.'"
+      },
+      {
+        "box": "5",
+        "label": "(unlabelled)",
+        "type": "text",
+        "notes": "Box 5 is printed on the form with no caption. No route."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed above the issuer's block on every copy. A corrected form replaces one furnished earlier; its figures are the ones to use, never counted beside the earlier form's."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed on Copy A (the issuer's filing copy) and the state copy; the recipient's Copy B does not print it."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "FR-016 mark. An account or other unique number the issuer assigned; identification only, never a figure."
+      }
+    ],
+    "notes": "The only 1099 in this scope that is NOT a dividend or interest report. It carries proceeds, not basis, so the gain cannot be computed from the form alone. Its shareholder instruction says: 'Report any gain from the exchange on Form 8949. However, you cannot claim a (loss) on Form 8949 as a result of this exchange.' The Form 8949 leg belongs to the capital gains scope."
+  },
+  "extraction": {
+    "model": null,
+    "note": "Azure ships no prebuilt-tax model for this form; read generically."
+  }
+}

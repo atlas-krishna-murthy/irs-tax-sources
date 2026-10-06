@@ -1,0 +1,3821 @@
+2025
+
+Instructions for Form 8865
+Return of U.S. Persons With Respect to Certain Foreign Partnerships
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to
+Form 8865, its schedules, and its instructions, such as
+legislation enacted after they were published, go to
+IRS.gov/Form8865.
+
+What’s New
+
+See What’s New in the Instructions for Form 1065 for
+changes and new Internal Revenue Code sections that
+may affect foreign partnerships with fiscal years, corporate
+partners, or certain impacted activities.
+
+General Instructions
+
+Only the general instructions for Schedules B, K, K-1,
+M-1, and M-2 are included later in these instructions. If
+you are required to complete these schedules for Form
+8865, use the specific instructions for the corresponding
+schedules of Form 1065, U.S. Return of Partnership
+Income.
+IF you are completing Form
+8865...
+
+THEN use the instructions for
+Form 1065...
+
+Schedule B
+
+page 1 (income and deductions).
+
+Schedules K and K-1
+
+Schedules K and K-1.
+
+Schedule K-3
+
+Schedule K-3.
+
+Schedule L
+
+Schedule L.
+
+Schedule M-1
+
+Schedule M-1.
+
+Schedule M-2
+
+Schedule M-2.
+
+Note: If you are reporting capital gains and losses, use
+Schedule D (Form 1065). See the Instructions for
+Schedule D (Form 1065).
+
+Purpose of Form
+
+Use Form 8865 to report the information required under
+section 6038 (reporting with respect to controlled foreign
+partnerships), section 6038B (reporting of transfers to
+foreign partnerships), or section 6046A (reporting of
+acquisitions, dispositions, and changes in foreign
+partnership interests).
+
+Dec 12, 2025
+
+Who Must File
+
+A U.S. person qualifying under one or more of the
+Categories of Filers (see below) must complete and file
+Form 8865. These instructions and the Filing
+Requirements for Categories of Filers chart, later, explain
+the information, statements, and schedules required for
+each category of filer. If you qualify under more than one
+category for a particular foreign partnership, you must
+submit all the items required for each category under
+which you qualify.
+Example. If you qualify as a Category 2 and a
+Category 3 filer, you must submit all the schedules
+required of Category 2 filers (page 1 of Form 8865, and
+Schedules A, A-2, N, K-1, and K-3) plus any additional
+schedules that Category 3 filers are required to submit
+(Schedules A-1 and O).
+Complete a separate Form 8865 and the applicable
+schedules for each foreign partnership.
+File the 2025 Form 8865 with your income tax return for
+your tax year beginning in 2025.
+If a Form 8832, Entity Classification Election, was filed
+for this entity for the current tax year, see When To File
+and Where To File in the instructions for Form 8832 to
+determine if you are required to attach a copy of the Form
+8832 to the tax return to which the Form 8865 is being
+attached.
+If a domestic section 721(c) partnership is formed on or
+after January 18, 2017, and the gain deferral method is
+applied, then a U.S. transferor must file Form 8865 for that
+partnership. See Regulations section 1.721(c)-6(b)(4).
+See Section 721(c) partnership, Gain deferral method,
+and U.S. transferor, later.
+A U.S. transferor that is required to provide information
+for a partnership under Regulations sections 1.721(c)-6(b)
+(2)(iv) and 1.721(c)-6(b)(3)(xi) must file a separate Form
+8865 (along with all necessary schedules and
+attachments) for each partnership treated as a U.S.
+transferor under Regulations sections 1.721(c)-3(d) and
+1.721(c)-6(c)(2). See U.S. transferor, later.
+
+Instructions for Form 8865 (2025) Catalog Number 26053N
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+Filing Requirements for Categories of Filers
+Category of Filers
+
+Filing Requirements
+
+1
+
+2
+
+3
+
+4
+
+Identifying information—page 1 of Form 8865
+Schedule A—Constructive Ownership of Partnership Interest
+Schedule A-1—Certain Partners of Foreign Partnership
+Schedule A-3—Affiliation Schedule
+Schedule B—Income Statement—Trade or Business Income
+Schedule G (Form 8865)—Statement of Application of the Gain Deferral Method Under Section
+721
+Schedule H (Form 8865)—Acceleration Events and Exceptions Reporting Relating to Gain
+Deferral Method Under Section 721(c)
+Schedule K—Partners’ Distributive Share Items
+Schedule K-1 (Form 8865)—Partner’s Share of Income, Deductions, Credits, etc. (direct partners
+only)
+Schedule K-2 (Form 8865)—Partners’ Distributive Share Items—International
+Schedule K-3 (Form 8865)—Partner’s Share of Income, Deductions, Credits, etc.—International
+Schedule L—Balance Sheets per Books
+Schedule M-1—Reconciliation of Income (Loss) per Books With Income (Loss) per Return
+Schedule M-2—Analysis of Partners’ Capital Accounts
+Schedule N—Transactions Between Controlled Foreign Partnership and Partners or Other
+Related Entities
+Schedule D—Schedule D (Form 1065), Capital Gains and Losses
+Schedule O (Form 8865)—Transfer of Property to a Foreign Partnership
+Schedule P (Form 8865)—Acquisitions, Dispositions, and Changes of Interests in a Foreign
+Partnership
+
+Categories of Filers
+Category 1 filer. A Category 1 filer is a U.S. person who
+controlled the foreign partnership at any time during the
+partnership’s tax year. Control of a partnership is
+ownership of more than a 50% interest in the partnership.
+See the definition of 50% interest, later. There may be
+more than one Category 1 filer for a partnership for a
+particular partnership tax year. See U.S. person and
+Foreign partnership, later.
+A Category 1 filer also includes a U.S. transferor who
+must report certain information for a section 721(c)
+partnership for the tax year of contribution and
+subsequent years, pursuant to Regulations section
+1.721(c)-6. A Category 1 filer fulfills this reporting
+requirement by filing Schedule G and, in certain
+circumstances, Schedule H. See Section 721(c)
+partnership and U.S. transferor, later.
+Category 2 filer. A Category 2 filer is a U.S. person who
+at any time during the tax year of the foreign partnership
+owned a 10% or greater interest in the partnership while
+the partnership was controlled by U.S. persons each
+owning at least a 10% interest. However, if the foreign
+partnership had a Category 1 filer at any time during that
+2
+
+tax year, no person will be considered a Category 2 filer.
+See the definition of 10% interest, later.
+Category 3 filer. A Category 3 filer is a U.S. person who
+contributed property during that person’s tax year to a
+foreign partnership in exchange for an interest in the
+partnership (a section 721 transfer), if that person either:
+1. Owned directly or constructively at least a 10%
+interest in the foreign partnership immediately after the
+contribution, or
+2. The value of the property contributed (when added
+to the value of any other property contributed to the
+partnership by such person, or any related person, during
+the 12-month period ending on the date of transfer)
+exceeds $100,000.
+If a domestic partnership contributes property to a
+foreign partnership, the domestic partnership’s partners
+are considered to have transferred a proportionate share
+of the contributed property to the foreign partnership.
+However, if the domestic partnership files Form 8865 and
+properly reports all the required information for the
+contribution, its partners will not be required to report the
+transfer.
+A Category 3 filer includes a U.S. transferor who (a)
+contributes section 721(c) property to a section 721(c)
+Instructions for Form 8865 (2025)
+
+partnership, and (b) has reporting requirements pursuant
+to Regulations section 1.721(c)-6(b)(2). The Category 3
+filer fulfills this reporting requirement by filing Schedule G,
+in addition to Schedule O, and, in certain circumstances,
+Schedule H. See Section 721(c) property, later.
+Category 3 also includes a U.S. person that previously
+transferred appreciated property to the partnership and
+was required to report that transfer under section 6038B, if
+the foreign partnership disposed of such property while
+the U.S. person remained a direct or indirect partner in the
+partnership.
+Category 4 filer. A Category 4 filer is a U.S. person that
+had a reportable event under section 6046A during that
+person’s tax year. There are three categories of reportable
+event’s under section 6046A: acquisitions, dispositions,
+and changes in proportional interests.
+Acquisitions. A U.S. person that acquires a foreign
+partnership interest has a reportable event if:
+• The person didn’t own a 10% or greater direct interest
+in the partnership and, as a result of the acquisition, the
+person owns a 10% or greater direct interest in the
+partnership (for example, from 9% to 10%)—for purposes
+of this rule, an acquisition includes an increase in a
+person’s direct proportional interest (see Changes in
+proportional interests, later); or
+• Compared to the person’s direct interest when the
+person last had a reportable event, after the acquisition
+the person’s direct interest has increased by at least a
+10% interest (for example, from 11% to 21%).
+An acquisition of a section 721(c) partnership interest
+may be an acceleration event exception under the gain
+deferral method. See Regulations section 1.721(c)-5. In
+this case, the acquirer may become a successor U.S.
+transferor and may have a reporting requirement under
+Regulations section 1.721(c)-6. See the specific
+instructions for Schedule H, later.
+Dispositions. A U.S. person that disposes of a foreign
+partnership interest has a reportable event if:
+• The person owned a 10% or greater direct interest in
+the partnership before the disposition and, as a result of
+the disposition, the person owns less than a 10% direct
+interest (for example, from 10% to 8%)—for purposes of
+this rule, a disposition includes a decrease in a person’s
+direct proportional interest; or
+• Compared to the person’s direct interest when the
+person last had a reportable event, after the disposition
+the person’s direct interest has decreased by at least a
+10% interest (for example, from 21% to 11%).
+A disposition of a section 721(c) partnership interest
+may be an acceleration event for purposes of applying the
+gain deferral method. The U.S. transferor may be required
+to recognize gain in an amount equal to the remaining
+built-in gain on the section 721(c) property previously
+contributed to the section 721(c) partnership. See
+Regulations section 1.721(c)-4. For acceleration event
+exceptions, see Regulations section 1.721(c)-5. See the
+specific instructions for Schedule H, later.
+Changes in proportional interests. A U.S. person
+has a reportable event if compared to the person’s direct
+proportional interest the last time the person had a
+reportable event, the person’s direct proportional interest
+Instructions for Form 8865 (2025)
+
+has increased or decreased by at least the equivalent of a
+10% interest in the partnership.
+Special rule for a partnership interest owned on
+December 31, 1999. If the U.S. person owned at least a
+10% direct interest in the foreign partnership on
+December 31,1999, then comparisons should be made to
+the person’s direct interest on December 31,1999. Once
+the person has a reportable event after December
+31,1999, future comparisons should be made by
+reference to the last reportable event.
+
+Exceptions to Filing
+Multiple Category 1 filers. If during the tax year of the
+partnership more than one U.S. person qualifies as a
+Category 1 filer, only one of these Category 1 partners is
+required to file Form 8865. A U.S. person with a controlling
+interest in the losses or deductions of the partnership isn’t
+permitted to be the filer of Form 8865 if another U.S.
+person has a controlling interest in capital or profits; only
+the latter may file the return. The U.S. person that files the
+Form 8865 must complete item F on page 1.
+The single Form 8865 to be filed must contain all of the
+information that would be required if each Category 1 filer
+filed a separate Form 8865. Specifically, separate
+Schedules N, K-1, and K-3 (if applicable) must be
+attached to the Form 8865 for each Category 1 filer. Also,
+items B, C, and D on page 1 and Schedule A on page 2 of
+Form 8865 must be completed for each Category 1 filer
+not filing the form. Attach a separate statement listing this
+information to the single Form 8865.
+A Category 1 filer not filing Form 8865 must attach a
+statement entitled “Controlled Foreign Partnership
+Reporting” to that person’s income tax return.
+The statement must include the following information.
+• A statement that the person qualified as a Category 1
+filer, but is not submitting Form 8865 under the multiple
+Category 1 filers exception.
+• The name, address, and identifying number (if any) of
+the foreign partnership of which the person qualified as a
+Category 1 filer.
+• A statement that the filing requirement has been or will
+be satisfied.
+• The name and address of the person filing Form 8865
+for this partnership.
+• The Internal Revenue Service Center where the Form
+8865 must be filed (or indicate “electronic filing” if the
+Form 8865 has been or will be filed electronically).
+Caution: A U.S. person who qualifies for this exception to
+the Category 1 filing requirement would still have to file a
+separate Form 8865 if that person is also subject to the
+filing requirements of Category 3 or 4. This separate Form
+8865 would include all the information required for a
+Category 3 filer, a Category 4 filer, or a U.S. transferor who
+must report certain information for a section 721(c)
+partnership for the year of contribution and subsequent
+years, pursuant to Regulations section 1.721(c)-6, in
+addition to the “Controlled Foreign Partnership Reporting”
+statement.
+Constructive owners. See Constructive ownership,
+later. A Category 1 or 2 filer that doesn’t own a direct
+interest in the partnership and that is required to file this
+3
+
+form solely because of constructive ownership from a U.S.
+person(s) isn’t required to file Form 8865 if:
+1. Form 8865 is filed by the U.S. person(s) through
+which the indirect partner constructively owns an interest
+in the foreign partnership,
+2. The U.S. person through which the indirect partner
+constructively owns an interest in the foreign partnership
+is also a constructive owner and meets all the
+requirements of this constructive ownership filing
+exception, or
+3. Form 8865 is filed for the foreign partnership by
+another Category 1 filer under the multiple Category 1
+filers exception.
+To qualify for the constructive ownership filing
+exception, the indirect partner must file with its income tax
+return a statement entitled “Controlled Foreign Partnership
+Reporting.”
+This statement must contain the following information.
+1. A statement that the indirect partner was required to
+file Form 8865, but isn’t doing so under the constructive
+owners exception.
+2. The names and addresses of the U.S. persons
+whose interests the indirect partner constructively owns.
+3. The name and address of the foreign partnership for
+which the indirect partner would have had to have filed
+Form 8865 but for this exception.
+4. If the indirect partner is a domestic corporation, a
+statement setting forth all the information that the indirect
+partner would have had to provide in response to
+questions G8a and G8b on Form 8865. See Item H10,
+later, for more information.
+Members of an affiliated group of corporations filing
+a consolidated return. If one or more members of an
+affiliated group of corporations filing a consolidated return
+qualify as Category 1 or 2 filers for a particular foreign
+partnership, the common parent corporation may file one
+Form 8865 on behalf of all of the members of the group
+required to report. Except for group members who also
+qualify under the constructive owners exception, the Form
+8865 must contain all the information that would have
+been required to be submitted if each group member filed
+its own Form 8865.
+Exception for certain trusts. Trusts relating to state and
+local government employee retirement plans that would
+otherwise have Forms 8865 reporting requirements with
+regard to foreign partnerships aren’t required to file Form
+8865.
+Exception for certain Category 4 filers. If you qualify
+as a Category 3 and 4 filer because you contributed
+property to a foreign partnership in exchange for a 10% or
+greater interest in that partnership, you aren’t required to
+report this transaction under both Category 3 and 4 filing
+requirements. If you properly report the contribution of
+property under the Category 3 rules, you aren’t required to
+report it as a Category 4 filer. However, the acquisition will
+count as a reportable event to determine if a later change
+in your partnership interest qualifies as a reportable event
+under Category 4.
+4
+
+Example. Partner A doesn’t own an interest in FPS, a
+foreign partnership. Partner A transfers property to FPS in
+exchange for a 15% direct interest. Partner A qualifies as
+a Category 3 filer because he transferred property to a
+foreign partnership and owned at least a 10% interest in
+FPS immediately after the contribution. Partner A is also a
+Category 4 filer because he didn’t own a 10% or greater
+direct interest in FPS and as a result of the acquisition now
+owns a 10% or greater direct interest in FPS. If Partner A
+properly reports the contribution on Form 8865 as a
+Category 3 filer, Partner A isn’t required to report his
+acquisition of the 15% interest in FPS as a Category 4
+filer.
+
+Relief for Category 1 and 2 Filers When the
+Foreign Partnership Files Form 1065
+
+If a foreign partnership files Form 1065 for its tax year,
+Category 1 and 2 filers may use a copy of the completed
+Form 1065 schedules in place of the equivalent schedules
+of Form 8865.
+If you file Form 8865 with an electronically filed income
+tax return, see the electronic filing publications identified
+in the instructions for your income tax return for more
+information.
+
+See the first paragraph under General Instructions,
+earlier, for the Form 1065 schedules that are equivalent to
+the Form 8865 schedules.
+Example. Partner A is a Category 1 filer with respect
+to FPS, a foreign partnership, during the 2025 tax year.
+FPS completes and files a Form 1065 for its 2025 tax year.
+Instead of completing Schedules B, K, K-2, L, M-1, M-2,
+K-1, and K-3 of Form 8865, Partner A may attach to its
+Form 8865 page 1 of Form 1065 and Form 1065
+Schedules K, K-2, L, M-1, M-2, K-1, and K-3 (including
+the Schedules K-1 and K-3 for Partner A and all other U.S.
+persons owning 10% or greater direct interests in FPS).
+Partner A must complete the following items and
+schedules on Form 8865.
+• The first and second pages.
+• Schedule A.
+• Schedule A-1.
+• Schedule A-2.
+• Schedule A-3.
+• Schedule G (Form 8865).
+• Schedule H (Form 8865).
+• Schedule M.
+• Schedule N.
+
+Example. Partner A is a Category 2 filer with respect
+to FPS, a foreign partnership. If FPS completes and files a
+Form 1065 for its 2025 tax year, Partner A may file with
+Form 8865 the Schedules K-1 and K-3 (Form 1065) that it
+receives from the partnership instead of Schedules K-1
+and K-3 (Form 8865). Partner A must complete the
+following items and schedules on Form 8865.
+• The first and second pages.
+• Schedule A.
+• Schedule A-2.
+• Schedule N.
+
+When and Where To File
+
+Attach Form 8865 to your income tax return (or, if
+applicable, partnership or exempt organization return) and
+Instructions for Form 8865 (2025)
+
+file both by the due date (including extensions) for that
+return. If you don’t have to file an income tax return, you
+must file Form 8865 separately with the IRS at the time
+and place you would be required to file an income tax
+return (or, if applicable, a partnership or exempt
+organization return). See below for penalties that may
+apply if you don’t file Form 8865 on time.
+
+Definitions
+Partnership. A partnership is the relationship between
+two or more persons who join to carry on a trade or
+business, with each person contributing money, property,
+labor, or skill and each expecting to share in the profits
+and losses of the business whether or not a formal
+partnership agreement is made.
+The term “partnership” includes a limited partnership,
+syndicate, group, pool, joint venture, or other
+unincorporated organization, through or by which any
+business, financial operation, or venture is carried on, that
+isn’t, within the meaning of the regulations under section
+7701, a corporation, trust, estate, or sole proprietorship.
+A joint undertaking merely to share expenses isn’t a
+partnership. Mere co-ownership of property that is
+maintained and leased or rented isn’t a partnership.
+However, if the co-owners provide services to the tenants,
+a partnership exists.
+Foreign partnership. A foreign partnership is a
+partnership that isn’t created or organized in the United
+States or under the law of the United States or of any state
+or the District of Columbia. If a domestic section 721(c)
+partnership is formed on or after January 18, 2017, and
+the gain deferral method is applied, then the section
+721(c) partnership is treated as a foreign partnership for
+purposes of Form 8865 and these instructions. See
+Regulations section 1.721(c)-6(b)(4).
+Section 721(c) partnership. A partnership (domestic or
+foreign) is a section 721(c) partnership if there is a
+contribution of section 721(c) property to the partnership
+and, after the contribution (and all transactions related to
+the contribution), (a) a related foreign person with respect
+to the U.S. transferor is a direct or indirect partner in the
+partnership; and (b) the U.S. transferor and related
+persons own 80% or more of the interests in partnership
+capital, profits, deductions, or losses. See Regulations
+section 1.721(c)-1(b)(14).
+U.S. transferor. A U.S. transferor is a U.S. person other
+than a domestic partnership. See Regulations section
+1.721(c)-1(b)(18).
+Section 721(c) property. Section 721(c) property is
+property (other than excluded property) with built-in gain
+that is contributed to a partnership by a U.S. transferor,
+including pursuant to a contribution described in
+Regulations section 1.721(c)-2(d) (partnership
+look-through rule). See Regulations section 1.721(c)-1(b)
+(15).
+Gain deferral contribution. A gain deferral contribution
+is a contribution of section 721(c) property to a section
+721(c) partnership for which the recognition of gain is
+deferred under the gain deferral method. See Regulations
+section 1.721(c)-1(b)(7).
+Instructions for Form 8865 (2025)
+
+Gain deferral method. The gain deferral method is the
+method described in Regulations section 1.721(c)-3(b)
+applied to avoid the immediate recognition of gain upon a
+contribution of section 721(c) property to a section 721(c)
+partnership under Regulations section 1.721(c)-2(b).
+50% interest. A 50% interest in a partnership is an
+interest equal to:
+• 50% of the capital,
+• 50% of the profits, or
+• 50% of the deductions or losses.
+For purposes of determining a 50% interest, the
+constructive ownership rules described below apply.
+10% interest. A 10% interest in a partnership is an
+interest equal to:
+• 10% of the capital,
+• 10% of the profits, or
+• 10% of the deductions or losses.
+For purposes of determining a 10% interest, the
+constructive ownership rules described below apply.
+Constructive ownership. For purposes of determining
+an interest in a partnership, the constructive ownership
+rules of section 267(c) (excluding section 267(c)(3)) apply,
+taking into account that such rules refer to corporations
+and not to partnerships. Generally, an interest owned
+directly or indirectly by or for a corporation, partnership,
+estate, or trust shall be considered as being owned
+proportionately by its owners, partners, or beneficiaries.
+Also, an individual is considered to own an interest
+owned directly or indirectly by or for their family. The family
+of an individual includes only that individual’s spouse,
+siblings, ancestors, and lineal descendants. An interest
+will be attributed from a nonresident alien individual under
+the family attribution rules only if the person to whom the
+interest is attributed owns a direct or indirect interest in the
+foreign partnership under section 267(c)(1) or (5).
+U.S. person. A U.S. person is a citizen or resident of the
+United States, a domestic partnership, a domestic
+corporation, and any estate or trust that isn’t foreign. See
+section 7701(a)(30).
+Control of a corporation. For purposes of Schedule N,
+control of a corporation is ownership of stock possessing
+more than 50% of the total combined voting power, or
+more than 50% of the total value of shares of all classes of
+stock, of the corporation. For rules concerning indirect
+ownership and attribution, see Regulations section
+1.6038-2(c).
+Change in a proportional interest. A partner’s
+proportional interest in a foreign partnership can change
+as a result of changes in other partners’ interests, for
+example, when another partner withdraws from the
+partnership. A partner’s proportional interest can also
+change, for example, by operation of the partnership
+agreement (for example, if the partnership agreement
+provides that a partner’s interest in profits will change on a
+set date or when the partnership has earned a specified
+amount of profits, then the partner’s proportional interest
+changes when the set date or specified amount of profits
+is reached).
+
+5
+
+Penalties
+Failure to timely submit all information required of
+Category 1 and 2 filers.
+• A $10,000 penalty is imposed for each tax year of each
+foreign partnership for failure to furnish the required
+information within the time prescribed. If the information
+isn’t filed within 90 days after the IRS has mailed a notice
+of the failure to the U.S. person, an additional $10,000
+penalty (per foreign partnership) is charged for each
+30-day period, or fraction thereof, during which the failure
+continues after the 90-day period has expired. The
+additional penalty is limited to a maximum of $50,000 for
+each failure.
+• Any person who fails to furnish all of the information
+required within the time prescribed will be subject to a
+reduction of 10% of the foreign taxes available for credit
+under sections 901 and 960. If the failure continues 90
+days or more after the date the IRS mails notice of the
+failure, an additional 5% reduction is made for each
+3-month period, or fraction thereof, during which the
+failure continues after the 90-day period has expired. See
+section 6038 (and the underlying regulations) for the
+maximum reduction, the exception due to reasonable
+cause, and the limits on the amount of these penalties.
+• Criminal penalties under sections 7203, 7206, and
+7207 may apply for failure to file or for filing false or
+fraudulent information.
+Additionally, any person that files under the constructive
+owners exception may be subject to these penalties if all
+the requirements of the exception aren’t met. Any person
+required to file Form 8865 who doesn’t file under the
+multiple Category 1 filers exception may be subject to the
+above penalties if the other person doesn’t file a correctly
+completed form and schedules. See Exceptions to Filing,
+earlier.
+Failure to file information required of Category 3 filers. Any person that fails to properly report a contribution
+to a foreign partnership that is required to be reported
+under section 6038B and the regulations under that
+section is subject to a penalty equal to 10% of the fair
+market value (FMV) of the property at the time of the
+contribution. This penalty is subject to a $100,000 limit,
+unless the failure is due to intentional disregard. In
+addition, the transferor must recognize gain on the
+contribution as if the contributed property had been sold
+for its FMV. See section 6038B for the exception due to
+reasonable cause.
+Failure to file information required of Category 4 filers. Any person who fails to properly report all the
+information requested by section 6046A is subject to a
+$10,000 penalty, in addition to the section 7203 criminal
+penalty, unless it is shown that such failure is due to
+reasonable cause. If the failure continues for more than 90
+days after the IRS mails notice of the failure, an additional
+$10,000 penalty will apply for each 30-day period (or
+fraction thereof) during which the failure continues after
+the 90-day period has expired. The additional penalty
+shall not exceed $50,000.
+Treaty-based return positions. File Form 8833,
+Treaty-Based Return Position Disclosure Under Section
+6114 or 7701(b), to report a return position that a treaty of
+6
+
+the United States (such as an income tax treaty; an estate
+and gift tax treaty; or a friendship, commerce, and
+navigation treaty):
+• Overrides or modifies any provision of the Internal
+Revenue Code, and
+• Causes (or potentially causes) a reduction of any tax
+incurred at any time.
+Failure to make such a report may result in a $1,000
+penalty ($10,000 in the case of a C corporation). See
+section 6712.
+Section 6662(j). Penalties may be imposed for
+underpayment attributable to undisclosed foreign financial
+asset understatements. The term “undisclosed foreign
+financial asset” for any tax year includes any asset for
+which required information was not provided. An
+“undisclosed foreign financial asset understatement”
+means for any tax year, the portion of the understatement
+for that tax year which is attributable to any transaction
+involving an undisclosed foreign financial asset. No
+penalty will be imposed for any portion of an
+underpayment if the taxpayer can demonstrate that the
+failure to comply was due to reasonable cause for such
+portion of the underpayment and the taxpayer acted in
+good faith for such portion of the underpayment. See
+sections 6662(j) and 6664(c) for additional information.
+Failure to comply with a requirement of the gain deferral method. Failure to comply with a requirement of
+the gain deferral method, including a failure to comply with
+the procedural and reporting requirements imposed under
+Regulations sections 1.721(c)-3 and 1.721(c)-6 and
+section 6038B, may result in an acceleration event under
+Regulations section 1.721(c)-4(b)(2) and a penalty under
+section 6038B. See the specific instructions for
+Schedule G and Schedule H, later.
+
+Corrections to Form 8865
+
+If you file a Form 8865 that you later determine is
+incomplete or incorrect, file a corrected Form 8865 with an
+amended tax return following the instructions for the return
+with which you originally filed Form 8865. Enter
+“corrected” at the top of the form and attach a statement
+identifying and explaining the changes.
+
+Specific Instructions
+Important: All information must be in English. All
+amounts must be stated in U.S. dollars.
+If the information required in a given section exceeds
+the space provided within that section, attach a separate
+statement(s) to provide the remaining information, using
+the same size and format as the printed forms.
+Fill in all applicable lines and schedules. All
+Categories of filers must complete all items on pages 1
+and 2, with three exceptions. Complete item E only if, in
+addition to filing the form on your own behalf, you are
+reporting information about other Category 1 filers under
+the multiple Category 1 filers exception, or you are
+reporting information about members of your affiliated
+group of corporations under the consolidated return
+exception. Only Category 1 and 2 filers are required to
+complete item H8. See Exceptions to Filing, earlier.
+Instructions for Form 8865 (2025)
+
+Answer items H10 and H11 only if you are a Category 1
+filer.
+
+Tax Year
+
+Enter in the space below the title of Form 8865 the tax
+year of the foreign partnership that ended with or within
+the tax year of the person filing this form. Category 1 or 2
+filers must report information for the tax year of the foreign
+partnership that ends with or within their tax years. A
+Category 3 or 4 filer must report on Schedule O or P,
+respectively, transactions that occurred during that filer’s
+tax year (rather than during the partnership’s tax year).
+
+Identifying Numbers and Addresses
+
+Enter the identifying number of the person filing this
+return. Use an employer identification number (EIN) to
+identify partnerships, corporations, and estates or trusts.
+For individuals, use a social security number (SSN) or
+other identification number.
+Include the suite, room, or other unit number after the
+street address. If the post office doesn’t deliver mail to the
+street address and the U.S. person has a P.O. box, show
+the box number instead.
+Foreign address. Enter the information in the following
+order: city or town, state or province, and country. Follow
+the country’s practice for entering the postal code, if any.
+Don’t abbreviate the country name.
+
+Item A. Category of Filer
+
+Check the box for each category that describes the
+person filing the form. If more than one category applies,
+check all boxes that apply. See Categories of Filers,
+earlier.
+
+Item C
+
+Enter the filer’s share of nonrecourse liabilities,
+partnership-level qualified nonrecourse financing, and
+other liabilities. Nonrecourse liabilities are those liabilities
+of the partnership for which no partner bears the
+economic risk of loss. The extent to which a partner bears
+the economic risk is determined under the rules of
+Regulations section 1.752-2.
+“Qualified nonrecourse financing” generally includes
+financing:
+• For which no one is personally liable for repayment;
+• That is borrowed for use in an activity of holding real
+property; and
+• That is borrowed from a qualified person (defined in
+section 49(a)(1)(D)(iv)) or is lent or guaranteed by a
+federal, state, or local government.
+See section 465(b)(6) for more information on qualified
+nonrecourse financing.
+
+Item D. Identification of Common Parent
+
+If the person filing the form is a member of a consolidated
+group, but not the parent, list the name, address, and EIN
+of the filer’s common parent.
+
+Item E
+
+Check the item E checkbox only if the Form 8865 filer also
+files Form 8938, Statement of Specified Foreign Financial
+
+Instructions for Form 8865 (2025)
+
+Assets, for the tax year and includes this form in the total
+number of Forms 8865 reported on Form 8938, Part IV,
+line 19. For more information, see the Instructions for
+Form 8938, generally, and in particular, Duplicative
+reporting and Part IV. Excepted Specified Foreign
+Financial Assets.
+
+Item F
+Information about certain partners. If you are reporting
+information about other persons under the multiple
+Category 1 filers exception, or are reporting information
+about members of your affiliated group of corporations
+under the consolidated return exception (see Exceptions
+to Filing, earlier), identify each such person in item F. List
+their names, addresses, and identifying numbers. Also,
+indicate whether each person is a Category 1 filer or
+Category 2 filer, and whether such person constructively
+owned an interest in the foreign partnership during the tax
+year of the partnership listed at the top of Form 8865,
+page 1. See Constructive ownership, earlier.
+
+Item G1
+
+For the foreign partnership’s address, enter the city or
+town, the state or province, and the foreign country in that
+order. Follow the foreign country’s practice in placing the
+postal code in the address. Don’t abbreviate the country
+name. If the partnership receives its mail in care of a third
+party (such as an accountant or attorney), enter “C/O”
+followed by the third party’s name and street address or
+P.O. box.
+
+Item G2(a)
+
+If the foreign partnership has an EIN, enter it here. Don’t
+enter “FOREIGNUS” or “APPLIED FOR.” If the partnership
+has no EIN, item G2(b) must be completed.
+
+Item G2(b)
+
+A reference ID number (defined below) is required in item
+G2(b) only in cases where no EIN was entered in item
+G2(a) for the foreign partnership. However, filers are
+permitted to enter both an EIN in item G2(a) and a
+reference ID number in item G2(b). If applicable, enter the
+reference ID number you have assigned to the foreign
+partnership identified in item G1.
+
+A “reference ID number” is a number established by or
+on behalf of the U.S. person identified at the top of page 1
+of the form that is assigned to a foreign partnership for
+which Form 8865 reporting is required. These numbers
+are used to uniquely identify the foreign partnership in
+order to keep track of the partnership from tax year to tax
+year.
+The reference ID number must meet the requirements
+below. Don’t enter “FOREIGNUS” or “APPLIED FOR” with
+respect to the reference ID number.
+Note: Because reference ID numbers are established by
+or on behalf of the U.S. person filing Form 8865, there is
+no need to apply to the IRS to request a reference ID
+number or for permission to use these numbers.
+Note: Generally, the reference ID number assigned to a
+foreign partnership on Form 8865 has relevance only on
+Form 8865, its schedules, and any other form that is
+7
+
+attached to or associated with Form 8865, and should not
+be used for that foreign partnership on other IRS forms.
+However, the foreign partnership’s reference ID number
+should also be entered on Form 8858, Information Return
+of U.S. Persons With Respect to Foreign Disregarded
+Entities (FDEs) and Foreign Branch (FBs), if the foreign
+partnership is listed as a tax owner of a foreign
+disregarded entity on Form 8858. See the instructions for
+Form 8858, line 3c(2), for more information.
+
+Requirements
+The reference ID number that is entered in item G2(b)
+must be alphanumeric (defined below) and no special
+characters or spaces are permitted. The length of a given
+reference ID number is limited to 50 characters.
+For these purposes, the term “alphanumeric” means
+the entry can be alphabetic, numeric, or any combination
+of the two.
+The same reference ID number must be used
+consistently from tax year to tax year for a given foreign
+partnership. If for any reason a reference ID number falls
+out of use (for example, the foreign partnership no longer
+exists due to disposition or liquidation), the reference ID
+number used for that foreign partnership cannot be used
+again for another foreign partnership for purposes of Form
+8865 reporting.
+There are some situations that warrant correlation of a
+new reference ID number with a previous reference ID
+number when assigning a new reference ID number to a
+foreign partnership. For example:
+• In the case of a merger or acquisition, a Form 8865 filer
+must use a reference ID number which correlates the
+previous reference ID number with the new reference ID
+number assigned to the foreign partnership; or
+• In the case of an entity classification election that is
+made on behalf of the foreign partnership on Form 8832,
+Regulations section 301.6109-1(b)(2)(v) requires the
+foreign partnership to have an EIN for this election. For the
+first year that Form 8865 is filed after an entity
+classification election is made on behalf of the foreign
+partnership on Form 8832, the new EIN must be entered
+in item G2(a) of Form 8865 and the old reference ID
+number must be entered in item G2(b). In subsequent
+years, the filer may continue to enter both the EIN in item
+G2(a) and the reference ID number in item G2(b), but
+must enter at least the EIN in item G2(a).
+You must correlate the reference ID numbers as
+follows: New reference ID number (space) Old reference
+ID number. If there is more than one old reference ID
+number, you must enter a space between each such
+number. As indicated above, the length of a given
+reference ID number is limited to 50 characters and each
+number must be alphanumeric and no special characters
+are permitted.
+Note: This correlation requirement applies only to the first
+year the new reference ID number is used.
+
+8
+
+Item G6. Principal Business Activity Code
+If the foreign partnership filed Form 1065. Enter the
+business code number (principal business activity code)
+shown in item C of the Form 1065 filed by the partnership.
+If the foreign partnership did not file Form 1065.
+Enter the applicable principal business activity code from
+Codes for Principal Business Activity and Principal
+Product or Service at the end of these instructions. If the
+information necessary to apply the total receipts test is not
+available, pick a principal business activity code using the
+information you have about the partnership.
+
+Item G8a. Functional Currency
+
+Enter the foreign partnership’s functional currency. See
+sections 985 through 989 and the regulations thereunder.
+If the partnership had more than one qualified business
+unit (QBU), described in Regulations section
+1.989(a)-1(b)(2)(ii), attach a statement identifying each
+QBU, its country of operation, and its functional currency.
+A QBU under Regulations section 1.989(a)-1(b)(2)(ii) is
+any separate and clearly identified unit of a trade or
+business of the partnership which maintains separate
+books and records.
+Hyperinflationary exception. A partnership that has a
+hyperinflationary currency as its functional currency is
+subject to special rules set forth in Regulations section
+1.985-3. Generally, under these rules, a partnership must
+use the U.S. dollar as its functional currency.
+
+Item G8b. Exchange Rate
+
+When translating functional currency to U.S. dollars, you
+must use the method specified in sections 985 through
+989 and the regulations thereunder. But, regardless of the
+specific method required, all exchange rates must be
+reported using a “divide-by convention” rounded to at
+least four places. That is, the exchange rate must be
+reported in terms of the amount by which the functional
+currency amount must be divided in order to reflect an
+equivalent amount of U.S. dollars. As such, the exchange
+rate must be reported as the units of foreign currency that
+equal one U.S. dollar, rounded to at least four places.
+Don’t report the exchange rate as the number of U.S.
+dollars that equals one unit of foreign currency.
+Note: You must round the result to more than four places
+if failure to do so would materially distort the exchange
+rate or the equivalent amount of U.S. dollars.
+
+Item H2
+
+If the foreign partnership was required to file Form 1065
+for the partnership’s tax year listed at the top of page 1 of
+Form 8865, check the applicable box and enter the
+Internal Revenue Service Center where the form was or
+will be filed (or enter “electronic filing” if the form was or
+will be filed electronically). Also, check the applicable
+box(es) if the foreign partnership was required to file (for
+its tax year) Form 8804, Annual Return for Partnership
+Withholding Tax (Section 1446); or (for the calendar year
+ending with or within the foreign partnership’s tax year)
+Form 1042, Annual Withholding Tax Return for U.S.
+Source Income of Foreign Persons.
+Instructions for Form 8865 (2025)
+
+Item H5
+
+Section 267A disallows a deduction for certain interest or
+royalty paid or accrued in agreement with a hybrid
+arrangement, to the extent that, under the foreign tax law,
+there isn’t a corresponding income inclusion (including
+long-term deferral). In the case of a filer that is a tax
+resident of the United States (for example, a domestic
+corporation or citizen of the United States), report in item
+H5 the total amount of interest and royalty paid or accrued
+by the foreign partnership for which your distributive share
+of deductions is disallowed under section 267A. In the
+case of a filer that isn’t a tax resident of the United States
+(for example, a domestic partnership), only report in item
+H5 the portion of your distributive share of interest and
+royalty paid or accrued by the foreign partnership for
+which you know, or have reason to know, that one or more
+of your owners aren’t allowed a deduction under section
+267A. For additional information about section 267A,
+including the application of section 267A in the case of
+payments by a partnership, see IRS.gov/Businesses/
+Partnerships/FAQs-for-Form-1065-Schedule-B-OtherInformation-Question-22.
+
+Item H6
+
+Answer “Yes” to item H6 if the partnership is a section
+721(c) partnership. If the answer is “Yes,” see the specific
+instructions for Schedules G and H, relating to the gain
+deferral method, and, if applicable, Schedule O, relating to
+the contribution of property during the tax year. See
+Section 721(c) partnership, earlier.
+
+Item H8
+
+Note: Only Category 1 and 2 filers are required to
+complete item H8.
+Enter the number of Forms 8858 attached to Form
+8865. A disregarded entity is an entity that is disregarded
+as an entity separate from its owner under Regulations
+section 301.7701-2(c)(2). The partnership is the tax owner
+of the foreign disregarded entity if it is treated as owning
+the assets and liabilities of the foreign disregarded entity
+for purposes of U.S. income tax law.
+
+If the foreign partnership is the tax owner of a foreign
+disregarded entity or operates a foreign branch and you
+are a Category 1 or 2 filer of Form 8865, complete and
+attach Form 8858 to Form 8865. For more information,
+see the Instructions for Form 8858. In addition, if the
+foreign partnership is required to attach Form 8858 to
+Form 8865, the amounts reported on certain schedules on
+Form 8858 must be included in determining the amounts
+reported on the equivalent schedules as follows.
+
+IF amounts were reported on
+the following Schedule on
+Form 8858...
+
+THEN take those amounts into
+account (converting from
+GAAP to tax as necessary)
+when determining the amounts
+to be reported on this
+Schedule on Form 8865...
+
+Schedule C
+
+Schedule B.
+
+Schedule F
+
+Schedule L.
+
+Schedule J
+
+Schedule K-2, Part III, Section 4.
+
+Schedule M
+
+Schedule N.
+
+Item H10. Separate Units
+
+Note: Only Category 1 filers (or indirect partners that are
+filing the constructive ownership exception statement) are
+required to answer items H10a and H10b, if applicable.
+Answer “Yes” to item H10a if the filer is a domestic
+corporation and (a) the partnership is a hybrid entity; or (b)
+the filer, through its interest in the partnership, indirectly
+owns an interest in a hybrid entity or indirectly carries on a
+business operation outside the United States that, if
+carried on by a U.S. person, would constitute a foreign
+branch (as defined in Regulations section 1.367(a)-6T(g)
+(1)). Under Regulations section 1.1503(d)-1(b)(3), a
+“hybrid entity” means an entity that isn’t taxable as an
+association for U.S. federal tax purposes, but is subject to
+an income tax of a foreign country as a corporation (or
+otherwise at the entity level) either on its worldwide
+income or on a residence basis. If the answer to item
+H10a is “No,” skip item H10b.
+See Regulations section 1.1503(d)-1(b)(4) for more
+information on separate units, including information on
+when two or more individual separate units are combined
+and treated as one separate unit. If you answer “Yes” to
+item H10b, then, for each separate unit that has a dual
+consolidated loss, attach a statement that sets forth (a)
+the identity and country of operation of the separate unit
+or, in the case of a combined separate unit, the identity
+and country of operation of each individual separate unit
+that is treated as part of the combined separate unit; and
+(b) the amount of the dual consolidated loss. See
+Regulations section 1.1503(d)-5 for rules on determining
+the amount of a dual consolidated loss attributable to a
+separate unit.
+
+Item H11
+
+Note: Only Category 1 filers are required to answer item
+H11.
+Answer “Yes” to item H11 if the partnership meets both
+of the requirements shown on the form. “Total receipts” is
+defined as the sum of gross receipts or sales (Schedule B,
+line 1a); all other income reported on Schedule B (lines 4
+through 7); income reported on Schedule K, lines 3a, 5,
+6a, and 7; income or net gain reported on Schedule K,
+lines 8, 9a, 10, and 11; and income or net gain reported
+on Form 8825, Rental Real Estate Income and Expenses
+of a Partnership or an S Corporation, lines 2, 19, and 20a.
+
+Item H12
+
+Check “Yes” on item H12a if the filer of this Form 8865 is
+claiming a deduction under section 250 for foreign-derived
+
+Instructions for Form 8865 (2025)
+
+9
+
+intangible income (FDII), and enter the amounts
+requested on items H12b, H12c, and H12d. Enter U.S.
+dollar amounts on items H12b, H12c, and H12d,
+translated from functional currency at the average
+exchange rate for the foreign partnership’s tax year. See
+section 989(b).
+The reported amounts should provide information for
+transactions between the filer of the Form 8865 and the
+foreign partnership. See Form 8993 and its instructions for
+information on the section 250 deduction. If no deduction
+is being claimed, check “No.”
+
+Item H14
+
+Answer “Yes” if at any time during the year there were
+transfers between the partnership and its partners subject
+to the disclosure requirements of Regulations section
+1.707-8. For certain transfers that are presumed to be
+sales, the partnership or the partners must comply with
+the disclosure requirements in Regulations section
+1.707-8. Generally, disclosure is required when:
+1. Certain transfers to a partner are made within 2
+years of a transfer of property by the partner to the
+partnership;
+2. Certain debt is incurred by a partner within 2 years
+of the earlier of (a) a written agreement to transfer, or (b) a
+transfer of the property that secures the debt, if the debt is
+treated as a qualified liability; or
+3. Transfers from a partnership to a partner occur
+which are the equivalent to those listed in (1) or (2) above.
+The disclosure must be made on the transferor
+partner’s return using Form 8275, Disclosure Statement,
+or on an attached statement providing the same
+information. When more than one partner transfers
+property to a partnership under a plan, the disclosure may
+be made by the partnership rather than each partner.
+
+Signature
+Filer. Don’t sign Form 8865 if you are filing it as an
+attachment to your income tax return. Sign the return only
+if you are filing Form 8865 separately because you aren’t
+required to file a U.S. income tax return. See When and
+Where To File, earlier, for more information.
+Paid preparer. Don’t sign Form 8865 or complete the
+paid preparer section at the bottom of the form if Form
+8865 is filed as an attachment to an income tax return.
+Sign Form 8865 and complete the paid preparer section
+only if Form 8865 is filed separately.
+
+Schedule A. Constructive Ownership
+of Partnership Interest
+
+All filers must complete Schedule A. Check box a if the
+person filing the return owns a direct interest in the foreign
+partnership. Check box b if the person filing the return
+constructively owns an interest in the foreign partnership.
+See Constructive ownership, earlier.
+
+Category 1 and 2 filers. Category 1 and 2 filers must list
+the persons (U.S. and foreign) whose interests in the
+foreign partnership they constructively owned during the
+partnership’s tax year.
+10
+
+Category 3 filers. Category 3 filers must list the persons
+(U.S. and foreign) whose interests in the foreign
+partnership they constructively owned during the filer’s tax
+year that the reportable transfer occurred. See
+Schedule A-2, later.
+
+Schedule A-1. Certain Partners of
+Foreign Partnership
+
+All Category 1 and certain Category 3 filers must
+complete Schedule A-1. Any person already listed on
+Schedule A isn’t required to be listed again on
+Schedule A-1.
+Category 1 filers. Category 1 filers must list all U.S.
+persons who owned at least a 10% direct interest in the
+foreign partnership during the partnership’s tax year listed
+at the top of page 1 of Form 8865.
+Category 3 filers. Category 3 filers must list:
+• Each U.S. person that owned a 10% or greater direct
+interest in the foreign partnership during the Category 3
+filer’s tax year, and
+• Any other person related to the Category 3 filer that was
+a direct partner in the foreign partnership during that tax
+year.
+See Regulations section 1.6038B-2(i)(4) for the
+definition of a “related person.”
+Exception. Category 3 filers who only transferred cash
+and didn’t own a 10% or greater interest in the transferee
+partnership after the transfer aren’t required to complete
+Schedule A-1.
+
+Schedule A-2. Foreign Partners of
+Section 721(c) Partnership
+
+Schedule A-2 must be completed if (1) item H6 is
+answered “Yes” (that the partnership is a section 721(c)
+partnership); and (2) during the current tax year, a gain
+deferral contribution occurred, or (3) a gain deferral
+contribution occurred in a prior tax year (including before
+2021) and, during the current tax year, the gain deferral
+method is applied to section 721(c) property contributed
+in the prior gain deferral contribution. See Section 721(c)
+partnership, Gain deferral contribution, and Gain deferral
+method, earlier.
+Country of organization. Enter the 2-letter country code
+for the country of organization for any foreign partner,
+other than an individual. See country codes on IRS.gov/
+CountryCodes.
+Check if related to U.S. transferor. Check the box if the
+partner is directly or indirectly related to the U.S. transferor
+(within the meaning of section 267(b) or 707(b)(1)) and
+isn’t a U.S. person.
+Percentage interest. Include the foreign partner’s
+percentage of interest in the partnership’s capital and
+profits immediately after the gain deferral contribution. If
+multiple gain deferral contributions occurred during the tax
+year, enter the percentages immediately after the last gain
+deferral contribution. See Gain deferral contribution,
+earlier.
+
+Instructions for Form 8865 (2025)
+
+Schedule A-3. Affiliation Schedule
+
+All filers must complete Schedule A-3. List on
+Schedule A-3 all partnerships (foreign or domestic) in
+which the foreign partnership owned a direct interest, or a
+10% indirect interest (under the rules of sections 267(c)(1)
+and (5)) during the partnership tax year listed at the top of
+page 1 of Form 8865.
+Category 1 filers. Only Category 1 filers must complete
+the “Total ordinary income or loss” column. In that column,
+report the foreign partnership’s share of ordinary income
+(even if not received) or loss from partnerships in which
+the foreign partnership owns a direct interest. The total
+amount of ordinary income or loss from each partnership
+must also be included on Schedule B, line 4.
+
+Schedule B. Income
+Statement—Trade or Business
+Income
+Important: All Category 1 filers in partnerships engaged
+in a domestic or foreign trade or business must complete
+Form 8865, Schedule B.
+If the partnership is a section 721(c) partnership and
+the gain deferral method is applied, Schedule B must
+include any remedial items for section 721(c) property,
+including an offsetting remedial item relating to
+contributed section 197(f)(9) property. See Regulations
+sections 1.704-3(d) and 1.704-3(d)(5)(iii). The total net
+amount of remedial allocations should be included on
+line 7, “Other income (loss).” Attach a detailed statement
+describing the remedial items allocated to each partner
+during the tax year for section 721(c) property. See
+Regulations section 1.721(c)-3. See Section 721(c)
+partnership, Section 721(c) property, and Gain deferral
+method, earlier.
+
+Specific Instructions for Schedule B
+
+For specific instructions for Form 8865, Schedule B, use
+the instructions for Form 1065, lines 1a through 21
+(income and deductions).
+Tip: You can view or download the Instructions for Form
+1065 at IRS.gov/Form1065. Also, these instructions can
+be ordered by calling 800-829-3676 (800-TAX-FORM).
+
+Schedule D (Form 1065). Capital
+Gains and Losses
+Important: All Form 8865 Category 1 filers in
+partnerships having partnership items described in the
+Instructions for Schedule D (Form 1065), Capital Gains
+and Losses, must complete that schedule.
+Tip: You can view or download the Schedule D (Form
+1065) and the Instructions for Schedule D (Form 1065) at
+IRS.gov/forms-pubs/about-schedule-d-form-1065. Also,
+the form and its instructions can be ordered by calling
+800-829-3676 (800-TAX-FORM).
+
+Instructions for Form 8865 (2025)
+
+Schedule G (Form 8865). Statement
+of Application of the Gain Deferral
+Method Under Section 721(c)
+
+A U.S. transferor uses Schedule G to comply with the
+reporting requirements that must be satisfied in applying
+the gain deferral method. If the gain deferral method is
+applied to section 721(c) property, a U.S. transferor must
+file Schedule G for the tax year of a gain deferral
+contribution, as well as for each subsequent tax year to
+which the gain deferral method is applied to section
+721(c) property, even if the gain deferral contribution for
+that property occurred before 2018. See Regulations
+sections 1.721(c)-6(b)(2) and (3). See Gain deferral
+method, Gain deferral contribution, and Section 721(c)
+property, earlier.
+
+Filing Year
+
+Check the box for “Tax year of gain deferral contribution” if
+your tax year is a year in which a gain deferral contribution
+occurred (a gain deferral contribution year). Check the
+“Annual reporting” box if a gain deferral contribution
+occurred in a year prior to the current tax year and, in the
+current tax year, the gain deferral method applies to
+section 721(c) property contributed in the prior gain
+deferral contribution (an annual reporting year). If the tax
+year is both a gain deferral contribution year and an
+annual reporting year, both boxes should be checked.
+
+General Instructions
+
+On Schedule G, information must be provided for section
+721(c) property that was (a) contributed to the partnership
+in a gain deferral contribution that occurred during the
+current tax year; or (b) contributed to the partnership in a
+gain deferral contribution that occurred during a prior tax
+year, provided that the gain deferral method is applied to
+the property in the current tax year. Collectively, section
+721(c) property for which information must be reported on
+Schedule G is referred to as “reportable section 721(c)
+properties.” See Section 721(c) property, earlier.
+In Parts I through V, information must be provided on a
+property-by-property basis. In Part I, reportable section
+721(c) properties and accompanying information must be
+listed in descending order of FMV (measured at the time
+of contribution). Thus, the reportable section 721(c)
+property with the highest FMV should be listed on line 1,
+the reportable section 721(c) property with the second
+highest FMV should be listed on line 2, and so on.
+In Parts II through IV, the line on which information is
+provided for a reportable section 721(c) property must
+correspond to the line on which the property is listed in
+Part I. Thus, in Parts II through IV, line 1 corresponds to
+Part I, line 1, and line 2 corresponds to Part I, line 2, and
+so on.
+If there are more than four reportable section 721(c)
+properties, in Parts I through IV, attach a statement using
+the same format as in Parts I through IV, listing properties,
+or information for properties, in the same manner as
+described in the preceding two paragraphs. For example,
+the first line on the statement for Part I must be labeled “5”
+and contain columns with the same information as those
+11
+
+in Part I, and must list the reportable section 721(c)
+property with the fifth-highest FMV. The statements for
+Parts I through IV may be combined in a single attached
+statement, provided that the format described above is
+followed.
+A U.S. transferor should complete and file only one
+Schedule G for each partnership. See U.S. transferor,
+earlier.
+
+Part I. Section 721(c) Property
+
+Provide the requested information for each reportable
+section 721(c) property. See General Instructions under
+Schedule G, earlier, for the order in which properties must
+be listed and when an attached statement can and must
+be used. If there are more than four reportable section
+721(c) properties, enter on line 4a the following
+information for the reportable section 721(c) properties
+listed on the attached statement.
+1. In columns 6(a) through 6(c), provide the aggregate
+FMV, basis, and built-in gain, respectively, of the
+properties.
+2. Check the boxes in columns 4, 5, and 7(a)–(e) if
+applicable to any of the properties.
+Caution: Don’t complete line 4a if there are four or fewer
+reportable section 721(c) properties.
+Note: Schedule O, Transfer of Property to a Foreign
+Partnership, may need to be completed if, during the tax
+year, the U.S. transferor contributed property (including
+section 721(c) property) to the partnership. See the
+Schedule O instructions, later.
+Column 4. Section 197(f)(9) property. Check the box
+for the reportable section 721(c) property if the property is
+an intangible described in section 197(f)(9).
+Column 5. Effectively connected income property.
+Check the box for the reportable section 721(c) property if
+(a) all distributive shares of income and gain with respect
+to the property for all direct and indirect partners that are
+related foreign persons for the U.S. transferor will be
+subject to taxation as income effectively connected with a
+trade or business within the United States (under section
+871 or 882), and (b) neither the section 721(c) partnership
+nor a related foreign person that is a direct or indirect
+partner in the partnership claims benefits under an income
+tax convention that would exempt the income or gain from
+tax or reduce the rate of taxation to which the income or
+gain is subject. See Regulations sections 1.721(c)-3(b)(1)
+(ii) and 1.721(c)-6(c)(1).
+Column 6(a). Fair market value. Enter the FMV of the
+reportable section 721(c) property, measured as of the
+date of contribution.
+Column 6(b). Basis. Enter the adjusted tax basis of the
+reportable section 721(c) property on the date of the
+contribution. See sections 1011 through 1016 for more
+information for the determination of adjusted tax basis.
+Column 7. Events. Check the box for each of columns
+7(a) through 7(e) which describes an event that occurred
+during the tax year for the reportable section 721(c)
+property. If a box is checked for any reportable section
+721(c) property listed, check “Yes” on the corresponding
+12
+
+line in Part V of Schedule G and complete Schedule H.
+See the Part V instructions below.
+
+Part II. Remaining Built-in Gain, Remedial
+Income, and Gain Recognition
+
+Provide the requested information for each reportable
+section 721(c) property. See General Instructions under
+Schedule G, earlier, for the order in which properties must
+be listed and when an attached statement can and must
+be used. On line 4a, provide the total amounts in each
+column for all reportable section 721(c) property, including
+property listed on an attached statement.
+Column (a). Remaining built-in gain at beginning of
+tax year. For a reportable section 721(c) property, enter
+the amount of remaining built-in gain at the beginning of
+the tax year. If the property was contributed in the current
+tax year, enter the property’s built-in gain on the date of
+the contribution (Part I, column 6(c)).
+Column (b). Remaining built-in gain at end of tax
+year. For a reportable section 721(c) property, enter the
+amount of remaining built-in gain at the end of the tax
+year, figured under the gain deferral method.
+Column (c). Remedial income allocated to the U.S.
+transferor. For a reportable section 721(c) property,
+enter the remedial income allocated to the U.S. transferor
+under the remedial allocation method. When the gain
+deferral method applies to a section 721(c) property, the
+partnership must use the remedial allocation method
+described in Regulations section 1.704-3(d) for the
+property. See Regulations section 1.721(c)-3(b)(1)(i)(A).
+Column (d). Gain recognized due to acceleration
+event. For a reportable section 721(c) property, enter the
+amount of built-in gain taken into account by reason of an
+acceleration event or partial acceleration event. See
+Regulations sections 1.721(c)-4 and 1.721(c)-5 for events
+constituting an acceleration event or partial acceleration
+event and for the consequences of such events.
+Column (e). Gain recognized due to section 367
+transfer. For a reportable section 721(c) property, enter
+the amount of gain recognized by the U.S. transferor
+pursuant to Regulations section 1.721(c)-5(e) (regarding
+transfers, including indirect transfers, described in section
+367 of section 721(c) property to a foreign corporation).
+Gain recognized under section 367 should not be
+included in column 5. Instead, column 5 should list only
+the amount of gain recognized pursuant to Regulations
+section 1.721(c)-5(e) (requiring the U.S. transferor to
+recognize an amount of gain equal to the remaining
+built-in gain (if any) that would have been allocated to the
+U.S. transferor if the partnership had sold the remaining
+portion of the property immediately before the transfer for
+FMV).
+
+Part III. Allocation Percentages of Partnership
+Items With Respect to Section 721(c) Property
+
+For each reportable section 721(c) property, enter the
+percentage of income, gain, deduction, and loss allocated
+to the U.S. transferor, related domestic partners, and
+related foreign partners. See General Instructions under
+Schedule G, earlier, for the order in which properties must
+be listed and when an attached statement can and must
+Instructions for Form 8865 (2025)
+
+be used. See section 267(b) or 707(b)(1) for rules on
+determining related partners, and see Regulations section
+1.721(c)-3(c) for a rule requiring that the partnership apply
+the consistent allocation method when the gain deferral
+method applies.
+
+Part IV. Allocation of Items to U.S. Transferor
+With Respect to Section 721(c) Property
+
+For each reportable section 721(c) property, enter the
+amount (both book and tax) of income, gain, deduction,
+and loss allocated to the U.S. transferor under the gain
+deferral method. See General Instructions under
+Schedule G, earlier, for the order in which properties must
+be listed and when an attached statement can and must
+be used. In addition, a description of any tax item or
+regulatory allocation for a reportable section 721(c)
+property that is allocated to the U.S. transferor must be
+included in Part VI, Supplemental Information.
+
+Part V. Additional Information
+
+Part V provides questions relating to whether certain
+events have occurred in the current tax year for one or
+more reportable section 721(c) properties and information
+relating to treaty benefits. Such events include:
+• Acceleration events (see Regulations section
+1.721(c)-4),
+• Partial acceleration events (see Regulations section
+1.721(c)-5(d)),
+• Termination events (see Regulations section
+1.721(c)-5(b)),
+• Successor events involving a successor partnership or
+U.S. transferor (see Regulations section 1.721(c)-5(c)),
+• Taxable disposition of a portion of an interest in a
+partnership (see Regulations section 1.721(c)-5(f)), and
+• Direct or indirect transfer of section 721(c) property to a
+foreign corporation subject to section 367 (see
+Regulations section 1.721(c)-5(e)).
+Lines 1 through 6b. If the answer is “Yes” to any of the
+questions on lines 1 through 6b of Part V, also complete
+and attach Schedule H (Form 8865). See the separate
+instructions later for Schedule H. In addition, the
+corresponding checkboxes in Part I, columns 7(a) through
+7(e), should be marked, as applicable.
+Line 7a. If the answer is “Yes,” attach to Form 8865 a
+copy of the waiver of treaty benefits for the reportable
+section 721(c) property. See Regulations sections
+1.721(c)-6(b)(2)(iii) and 1.721(c)-6(c).
+
+Part VI. Supplemental Information
+Information to be reported. When providing any
+information in Part VI, indicate the Part, Part column, and
+line for which the information is provided.
+Additional part rows. If an attached statement is used in
+Parts I through IV, include the statement “Additional
+Section 721(c) Property statement(s) is/are attached” in
+the area provided in Part VI.
+Other information. Use the Supplemental Information
+section to provide any additional information required by
+Regulations section 1.721(c)-6 that isn’t captured in Parts
+I through IV above.
+Instructions for Form 8865 (2025)
+
+Schedule H (Form 8865). Acceleration
+Events and Exceptions Reporting
+Relating to Gain Deferral Method
+Under Section 721(c)
+If the gain deferral method is being applied to reportable
+section 721(c) property, complete and file Schedule H to
+report certain events related to the section 721(c)
+property. See Regulations sections 1.721(c)-4 and -5 for
+more information. Complete a separate Schedule H for
+each partnership.
+
+General instructions. Complete all Parts of Schedule H
+that correspond to the box or boxes checked in
+Schedule G, Part I, column 7, and the related line on Part
+V checked “Yes.” If additional lines are needed to report
+the information required in Parts I through V, attach a
+statement in the same format as the format used in the
+Part, in Part VI, Supplemental Information. See Section
+721(c) property, earlier.
+For Parts I–III and V, enter in column (a) the line number
+for the section 721(c) property from Schedule G, Part I. If
+the impacted section 721(c) property is listed on an
+attached statement to Schedule G, Part I, enter the line
+number from the attached statement on which that
+property was identified.
+
+Part I. Acceleration Event
+Acceleration event. An acceleration event is any event
+that either would reduce the amount of the remaining
+built-in gain that a U.S. transferor would have recognized
+under the gain deferral method if the event had not
+occurred or could defer the recognition of the remaining
+built-in gain. Acceleration events are applicable on a
+property-by-property basis. An acceleration event
+includes the transfer of section 721(c) property by making
+a contribution of the property itself to another partnership
+or the contribution of an interest in a section 721(c)
+partnership to another partnership. When an acceleration
+event occurs for a section 721(c) property, the U.S.
+transferor must recognize gain in an amount equal to
+remaining built-in gain in the property that would have
+been allocated to the U.S. transferor if the section 721(c)
+partnership had sold the section 721(c) property
+immediately before the acceleration event for FMV.
+Following the event, the gain deferral method no longer
+applies to that section 721(c) property. See Regulations
+section 1.721(c)-4 for rules relating to acceleration events.
+At any time, a U.S. transferor may affirmatively treat an
+acceleration event as having occurred (a deemed
+acceleration event) for a section 721(c) property by both
+recognizing the remaining built-in gain in that section
+721(c) property and satisfying the reporting requirements
+of the acceleration event. See Regulations section
+1.721(c)-4(b)(4).
+Column (b). Provide a description of the acceleration
+event, including the citation in the case of a partial or
+deemed acceleration event. See Regulations section
+1.721(c)-6(b)(3)(iv). Use Part VI if additional space is
+needed to describe the transaction.
+13
+
+Column (d). Enter the amount of the gain recognized by
+the U.S. transferor for the section 721(c) property resulting
+from the acceleration event.
+Column (e). Enter the amount that the section 721(c)
+partnership will increase its basis in the section 721(c)
+property as a result of the acceleration event. See
+Regulations sections 1.721(c)-4(c)(2) and 1.721(c)-5(d) in
+the case of a partial acceleration event.
+Column (f). Check the box if there is a partial
+acceleration event and the U.S. transferor recognizes a
+partial gain for the section 721(c) property. Certain
+distributions of other partnership property to a partner that
+result in an adjustment under section 734 to the section
+721(c) property constitute a partial acceleration event
+requiring that the U.S. transferor recognize gain. If there is
+a remaining built-in gain in the section 721(c) property
+immediately after the partial acceleration event, the gain
+deferral method must continue to apply and the U.S.
+transferor is required to continue to report the information
+on Schedule G for that property. See Regulations section
+1.721(c)-5(d).
+
+Part II. Termination Event
+
+A termination event causes the gain deferral method to no
+longer apply for the affected section 721(c) property on a
+property-by-property basis. Regulations section
+1.721(c)-5(b) identifies the termination events.
+Column (b). Provide a description of the termination
+event, including the citation to the relevant paragraph in
+Regulations section 1.721(c)-5(b). See Regulations
+section 1.721(c)-6(b)(3)(v). Use Part VI if additional space
+is needed to describe the transaction.
+
+Part III. Successor Event
+
+A successor event allows for the continued application of
+the gain deferral method for the affected section 721(c)
+property on a property-by-property basis by a successor
+U.S. transferor or a successor section 721(c) partnership.
+However, if the successor doesn’t continue the gain
+deferral method, the event is an acceleration event and
+must be reported in Part I. Successor events are
+applicable on a property-by-property basis. If only a
+portion of an interest in a partnership is transferred in a
+successor event, the rules of Regulations section
+1.704-3(a)(7) are applied to determine the remaining
+built-in gain in the section 721(c) property that is
+attributable to the portion of the interest that is transferred
+and the portion that is retained. Regulations section
+1.721(c)-5(c) identifies the successor events, including
+special rules for transactions involving tiered partnerships.
+If more than one successor event occurs in the tax
+year, provide the required information for each event
+separately in Part IV in chronological date order.
+Column (b). Provide a description of the successor
+event, including the citation to the relevant paragraph in
+Regulations section 1.721(c)-5(c). See Regulations
+section 1.721(c)-6(b)(3)(v). Use Part VI if additional space
+is needed to describe the transaction.
+Column (d). Enter the identifying information of the
+relevant successor, as applicable. In certain successor
+14
+
+events, a domestic corporation becomes the successor
+U.S. transferor. In other successor events, a partnership
+becomes the successor section 721(c) partnership. A
+successor section 721(c) partnership may be a new,
+upper-tier, or lower-tier partnership. The identifying
+information must include the name, address, and U.S.
+taxpayer identification number (TIN), if any, of the
+successor U.S. transferor or successor section 721(c)
+partnership.
+
+Part IV. Taxable Disposition of a Portion of an
+Interest in Partnership Event
+
+Part IV reports the information relating to a fully taxable
+disposition of a portion of an interest in a section 721(c)
+partnership. Complete this Part if a U.S. transferor or a
+partnership in which a U.S. transferor is a direct or indirect
+partner disposes of (directly or indirectly through one or
+more partnerships) a portion of an interest in a section
+721(c) partnership in a transaction in which the gain or
+loss, if any, is recognized. This will not be an acceleration
+event for the portion of the interest transferred. The gain
+deferral method will continue to apply for the section
+721(c) property of the section 721(c) partnership. The
+rules of Regulations section 1.704-3(a)(7) are applied to
+determine the remaining built-in gain in the section 721(c)
+property on a property-by-property basis that is
+attributable to the portion of the interest in the section
+721(c) partnership is retained. See Regulations section
+1.721(c)-5(f).
+Column (a). Provide a description of the disposition of
+the interest in the partnership, including whether the
+interest was a direct or indirect interest (through one or
+more partnerships). If more than one taxable disposition
+event occurs in the tax year, provide the required
+information for each event separately in Part IV in
+chronological date order. If additional space is needed,
+provide the information in Part VI.
+Column (c). Enter the percentage of partnership interest
+that was disposed of in the event to which all gain or loss,
+if any, is recognized.
+Column (d). Enter the percentage of the partnership
+interest (directly or indirectly through one or more
+partnerships) that the U.S. transferor retained immediately
+after the event.
+Column (e). Enter the aggregate amount of the
+remaining built-in gain for all of the section 721(c)
+properties that is attributable to the portion of the interest
+in the section 721(c) partnership that is retained. Attach a
+detailed supporting schedule to Schedule H that
+separately states each remaining section 721(c) property
+and its respective remaining built-in gain allocable to the
+U.S. transferor included in the aggregate amount reported
+in column (e).
+
+Part V. Section 367 Transfer Event
+
+Part V reports the information relating to a transfer
+described in section 367 of section 721(c) property to a
+foreign corporation. See Regulations section
+1.721(c)-5(e). Section 367 events include:
+• Transfer of section 721(c) property by a section 721(c)
+partnership to a foreign corporation, or
+Instructions for Form 8865 (2025)
+
+• Transfer by a U.S. transferor or a partnership in which a
+U.S. transferor is a direct or indirect partner transfers
+(directly or indirectly through one or more partnerships) all
+or a portion of the section 721(c) partnership that owns
+section 721(c) property to a foreign corporation.
+As a result of the section 367 event, the section 721(c)
+property is no longer subject to the gain deferral method.
+The U.S. transferor is treated as transferring the section
+721(c) property to a foreign corporation and is subject to
+taxation on the transfer under section 367. See the section
+367 regulations for rules relating to gain or income
+recognition under section 367.
+Note: A transfer of property to a foreign corporation by a
+U.S. transferor is subject to other reporting requirements
+under sections 367, 351, 368, and 6038B (for example,
+the filing of Form 926), as applicable. See the related
+regulations under these Code sections. Such reporting
+requirements are in addition to the filing of Schedule H.
+After considering the tax consequences under section
+367, the remaining built-in gain, if any, for the section
+721(c) property is recognized by the U.S. transferor to the
+extent that would have been allocated to the U.S.
+transferor had the section 721(c) partnership sold that
+portion of the property immediately before the transfer for
+FMV.
+Column (b). Provide a description of the section 367
+transfer, including whether the transfer was a direct or
+indirect transfer (through one or more partnerships) of
+section 721(c) property to a foreign corporation. If more
+than one section 367 transfer occurs in the tax year,
+provide the required information for each transfer
+separately in Part IV in chronological date order. If
+additional space is needed, provide the information in Part
+VI.
+Column (d). Enter the amount of the remaining portion of
+built-in gain recognized by the U.S. transferor under
+section 721(c). The amount of gain equals the remaining
+portion of the built-in gain that would have been allocated
+to the U.S. transferor if the section 721(c) partnership had
+sold that portion of the section 721(c) property
+immediately before the transfer for FMV. This amount
+should not include any gain or income recognized by the
+U.S. transferor pursuant to section 367 that is reported
+elsewhere on the return. See Regulations section
+1.721(c)-5(e). After the section 367 transfer, the
+transferred section 721(c) property will no longer be
+subject to the gain deferral method.
+
+Information, provide the information on an attachment or
+attachments to Schedule H in the same format as required
+for the row on the Part at issue. If separate supplemental
+schedules are used for any Part of Schedule H for specific
+section 721(c) properties, use the same corresponding
+identification line number from the Part I of Schedule G for
+such property on the supplemental schedule for
+Schedule H.
+Other information. Use the Supplemental Information
+section to provide any additional information required by
+Regulations section 1.721(c)-6 that isn’t reported in Parts I
+through V above.
+
+Schedules K, Partners’ Distributive
+Share Items, and K-1 (Form 8865),
+Partner’s Share of Income,
+Deductions, Credits, etc.
+Schedule K
+
+Form 8865, Schedule K, is a summary schedule of all of
+the partners’ shares of the partnership income, credits,
+deductions, etc. Only Category 1 filers must complete
+Form 8865, Schedule K.
+
+Schedule K-1
+
+Schedule K-1 (Form 8865) is used to report a specific
+partner’s share of the partnership income, deductions,
+credits, etc.
+All Category 1 and 2 filers must complete Schedule K-1
+(Form 8865) for any direct interest they hold in the
+partnership. A Category 1 or 2 filer that doesn’t own a
+direct interest is not required to complete Schedule K-1
+(Form 8865).
+Category 1 filers must also complete Schedule K-1
+(Form 8865) for each U.S. person that directly owns a
+10% or greater direct interest in the partnership.
+Provide the partner’s beginning and year-end
+percentage interests in partnership profits, losses, capital,
+or deductions. These percentages should include any
+interest constructively owned by the filer.
+Complete boxes 1 through 21 for any direct interest that
+the partner owns in the partnership.
+
+Information to be reported. When providing any
+information in the Supplemental Information, indicate the
+Part, Part column, row, and line for which the information is
+provided.
+
+Example. Partner A owns a 45% direct interest in a
+foreign partnership (FPS). Partner A also owns 100% of
+the stock of a domestic corporation (DC), which owns a
+10% direct interest in FPS. Therefore, Partner A is
+considered to own a 55% interest in FPS and is thus a
+Category 1 filer. When Partner A completes Schedule K-1
+(Form 8865) for itself, Partner A must report the
+distributive share of items allocated to Partner A’s direct
+interest of 45% but not any items allocated to DC’s 10%
+interest. When Partner A completes Schedule K-1 (Form
+8865) for DC (which Partner A must do because DC owns
+a direct 10% interest), Partner A must report on DC’s
+Schedule K-1 (Form 8865) only items allocated to DC’s
+direct 10% interest.
+
+Additional Part rows. If additional rows are needed to
+enter information in Parts I through V in the Supplemental
+
+Although the partnership isn’t subject to income tax, the
+partners are liable for tax on their shares of the
+
+Column (e). Enter the identifying information of the
+foreign transferee corporation that received the section
+721(c) property in the section 367 transfer. The identifying
+information includes the name, address, and U.S.TIN, if
+any.
+
+Part VI. Supplemental Information
+
+Instructions for Form 8865 (2025)
+
+15
+
+partnership income, whether or not distributed, and must
+include their shares of such items on their tax returns.
+
+partnership, Section 721(c) property, and Gain deferral
+method, earlier.
+
+Allocations of income, gains, losses, deductions, or
+credits among the partners should generally be made
+according to the partnership agreement. See section 704
+and the regulations thereunder.
+
+Codes. In box 11 and boxes 13 through 21, identify each
+item by entering a code in the column to the left of the
+dollar amount entry space. These codes are identified in
+List of Codes Used for Schedule K-1 (Form 8865), later
+(for Box 11—“Code ZZ. Other,” see “Code ZZ. Other” in
+the Instructions for Form 1065). Information concerning
+each of the boxes and codes is available in the Partner’s
+Instructions for Schedule K-1 (Form 1065).
+
+Schedule K-1 (Form 8865) for related foreign partners. If the gain deferral method is applied and a section
+721(c) partnership doesn’t have a filing obligation under
+section 6031, the U.S. transferor must obtain a
+Schedule K-1 (Form 8865) for each direct or indirect
+partner that is related to the U.S. transferor (within the
+meaning of section 267(b) or 707(b)(1)) and that isn’t a
+U.S. person (related foreign partner). See Regulations
+section 1.721(c)-6(c)(3). The Schedule K-1 (Form 8865)
+for each related foreign partner must be filed and attached
+to the Form 8865 as part of the annual reporting relating to
+the gain deferral method pursuant to Regulations section
+1.721(c)-6(b)(3)(xi). The instructions that apply to
+Schedule K-1 (Form 8865) for all other partners also apply
+to a Schedule K-1 (Form 8865) for a related foreign
+partner. See Gain deferral method, Section 721(c)
+partnership, and U.S. transferor, earlier.
+
+General Reporting Instructions for Schedule K-1
+(Form 8865)
+On each Schedule K-1 (Form 8865), enter the information
+about the partnership and the partner in Parts I and II
+(items A through F). For Schedule K-1 (Form 8865), items
+E and F, see the instructions for the corresponding
+Schedule K-1 (Form 1065), items J and L, in the
+Instructions for Form 1065 under Specific Instructions
+(Schedule K-1 only). In Part III, enter the partner’s
+distributive share of each item of income, deduction, and
+credit and any other information the partner needs to
+prepare the partner’s tax return.
+
+Item A2
+
+Enter the reference ID number used on Form 8865, item
+G2(b). For details, see Item G2(b), earlier.
+Part III—line 1. If the gain deferral method is applied to
+which the section 721(c) partnership adopts the remedial
+allocation method, the amounts reflected on each
+partner’s Schedule K-1 for the allocations of income,
+gains, losses, deductions, or credits allocated to such
+partner must include any allocations of remedial items for
+section 721(c) property. See Regulations section
+1.721(c)-3(c).
+For example, if the partner is the U.S. transferor of
+section 721(c) property, Part III, line 1, would include any
+remedial income allocated to the U.S. transferor from
+Schedule G, Part II, column (c), “Remedial income
+allocated to U.S. transferor,” as applicable. For partners
+other than the transferor, Part III, line 1, would include their
+share of ordinary business income (or loss) after taking
+into account any remedial items to such partner relating to
+section 721(c) property. However, Part III, line 1, would not
+include basis adjustments attributable to section 197(f)(9)
+for related foreign partners. See Regulations sections
+1.704-3(d)(5)(iii) and 1.721(c)-3. See Section 721(c)
+16
+
+Attached statements. When attaching statements to
+Schedule K-1 to report additional information to the
+partner, indicate there is a statement for the following.
+• If an amount can be input on Schedule K-1 but
+additional information is required, enter an asterisk (*)
+after the code in the column to the left of the entry space.
+• For items that can’t be reported as a single dollar
+amount, enter the code and an asterisk (*) in the column
+to the left and enter “STMT” in the right column to indicate
+that the information is provided on an attached statement.
+• If the partnership has more coded items than the
+number of entry boxes (for example, boxes 11 and 13
+through 15, or boxes 17 through 21), don’t enter a code or
+dollar amount in the last entry box. Instead, enter an
+asterisk (*) in the left column and enter “STMT” in the
+entry space to the right.
+More than one attached statement can be placed on
+the same sheet of paper. The information included in the
+statement should be identified in alphanumerical order by
+box number followed by the letter code (if any),
+description, and dollar amount for each item. For example:
+“Box 15, code J—Work opportunity credit—$1,000.” This
+can be followed with any additional information the partner
+needs to determine the proper tax treatment of the item.
+
+Specific Instructions for Schedules K and K-1
+
+For the specific instructions for Form 8865, Schedule K,
+and Schedule K-1 (Form 8865), see the Instructions for
+Form 1065.
+
+If the partnership is a section 721(c) partnership,
+box 20 (code AL—Section 721(c) partnership) of
+Schedule K-1, Part III, must include the amounts relating
+to any remedial items made under the remedial allocation
+method (described in Regulations sections 1.704-3(d) and
+1.704-3(d)(5)(iii)) for section 721(c) property. For the
+specific partner’s information relating to the remedial
+method allocations and gain deferral method, see the
+Instructions for Form 1065, especially the Partner’s
+Instructions for Schedule K-1 (Form 1065).
+Line 16. If the partnership had items of international tax
+relevance, see the Instructions for Schedules K-2 and K-3
+(Form 8865) to determine if you need to check the box
+and attach Schedules K-2 and K-3.
+
+Instructions for Form 8865 (2025)
+
+Schedules K-2 (Form 8865), Partners’
+Distributive Share
+Items—International, and K-3 (Form
+8865), Partner’s Share of Income,
+Deductions, Credits,
+etc.—International
+Schedule K-2
+
+Schedule K-2 (Form 8865) is an extension of Schedule K
+of the Form 8865 and is used to report items of
+international tax relevance from the operation of a
+partnership.
+
+Schedule K-3
+
+Schedule K-3 (Form 8865) is an extension of
+Schedule K-1 (Form 8865) and is generally used to report
+the partner’s share of the items reported on Schedule K-2.
+The information reported on Schedule K-3 is used to
+report information on a partner’s tax or information returns.
+For more information, see the Instructions for
+Schedules K-2 and K-3 (Form 8865).
+
+Schedule L. Balance Sheets per
+Books
+
+The balance sheets should agree with the partnership’s
+books and records. Attach a statement explaining any
+differences.
+Only Category 1 filers are required to complete Form
+8865, Schedule L.
+If you answered “Yes” to item H11 on page 1 of Form
+8865, you don’t have to complete Form 8865, Schedule L.
+
+Schedule L requires balance sheets prepared and
+translated into U.S. dollars in accordance with U.S.
+generally accepted accounting principles (GAAP).
+Exception. Generally, if the partnership or any QBU of
+the partnership uses the dollar approximate separate
+transactions method (DASTM), Form 8865, Schedule L,
+should reflect the tax balance sheets prepared and
+translated into U.S. dollars according to Regulations
+section 1.985-3(d).
+
+Specific Instructions for Schedule L
+
+For the specific instructions for Form 8865, Schedule L,
+see the Instructions for Form 1065.
+
+Schedule M-1. Reconciliation of
+Income (Loss) per Books With
+Income (Loss) per Return
+
+Form 8865 filers aren’t required to complete Schedule M-3
+(Form 1065), Net Income (Loss) Reconciliation for Certain
+Partnerships.
+Only Category 1 filers are required to complete Form
+8865, Schedule M-1. If you answered “Yes” to item H11 on
+page 1 of Form 8865, you don’t have to complete Form
+8865, Schedule M-1.
+Instructions for Form 8865 (2025)
+
+Specific Instructions for Schedule M-1
+
+For the specific instructions for Schedule M-1 (Form
+8865), see the Instructions for Form 1065.
+
+Schedule M-2. Analysis of Partners’
+Capital Accounts
+
+Only Category 1 filers are required to complete Form
+8865, Schedule M-2. If you answered “Yes” to item H11 on
+page 1 of Form 8865, you don’t have to complete Form
+8865, Schedule M-2.
+
+Specific Instructions for Schedule M-2
+
+For the specific instructions for Form 8865, Schedule M-2,
+see the Instructions for Form 1065.
+
+Schedule N. Transactions Between
+Controlled Foreign Partnership and
+Partners or Other Related Entities
+
+All Category 1 filers must complete Schedule N and report
+all transactions of the foreign partnership during the tax
+year of the partnership listed on the top of Form 8865,
+page 1. A Category 1 filer filing a Form 8865 for other
+Category 1 filers under the multiple Category 1 filers
+exception must complete a Schedule N for itself and a
+separate Schedule N for each Category 1 filer not filing
+Form 8865.
+Category 2 filers are required to complete columns (a),
+(b), and (c) of Schedule N. Category 2 filers don’t have to
+complete column (d).
+
+Column (a). Use column (a) to report transactions
+between the foreign partnership and the person filing the
+Form 8865.
+Column (d). Use column (d) to report transactions
+between the foreign partnership and any U.S. person with
+a 10% or more direct interest in the foreign partnership. If
+such person also qualifies under column (b), don’t report
+transactions between the foreign partnership and that
+person under column (d). Report the transactions only
+under column (b).
+Lines 6 and 16. Enter distributions received from other
+partnerships and distributions from the foreign partnership
+for which this form is being completed.
+Lines 20 and 21. Enter the largest outstanding balances
+during the tax year of gross amounts borrowed from, and
+gross amounts lent to, the related parties described in
+columns (a) through (d). Don’t enter aggregate cash flows,
+year-end loan balances, average balances, or net
+balances. Don’t include open account balances resulting
+from sales and purchases reported under other items
+listed on Schedule N that arise and are collected in full in
+the ordinary course of business.
+
+Schedule O (Form 8865). Transfer of
+Property to a Foreign Partnership
+
+Category 3 filers must complete Schedule O.
+
+17
+
+Section 721(c) partnerships. Regulations section
+1.721(c)-2 overrides section 721(a) nonrecognition of gain
+upon a contribution of section 721(c) property to a section
+721(c) partnership occurring on or after August 6, 2015. A
+U.S. transferor must recognize gain unless the gain
+deferral method described in Regulations section
+1.721(c)-3 is applied. To satisfy the reporting requirements
+of the gain deferral method, the U.S. transferor is required
+to report certain information for the year of the contribution
+and for subsequent years. See Regulations section
+1.721(c)-6. See Section 721(c) property, Section 721(c)
+partnership, U.S. transferor, and Gain deferral method,
+earlier.
+Reference ID number. Use the reference ID number
+shown on Form 8865, item G2(b). For details, see Item
+G2(b), earlier.
+
+Part I. Transfers Reportable Under Section
+6038B
+
+Part I is used to report the transfer of property to a foreign
+partnership in accordance with Regulations section
+1.6038B-2(c). The completion of Part l (related property
+transferred to the partnership) is required by Regulations
+section 1.6038B-2(c). Provide the information required in
+columns (a) through (g) for each contribution of property
+to the foreign partnership that must be reported. If you
+contributed property with an FMV greater than its tax
+basis (appreciated property), or intangible property,
+provide the information required in columns (a) through (g)
+separately for each item of property transferred (except to
+the extent you are allowed to aggregate the property
+under Regulations sections 1.704-3(e)(2), (3), and (4)).
+Provide a general description of each item of property
+in the Supplemental Information Required To Be Reported
+section. For all other property contributed, aggregate by
+the categories listed in Part I.
+Column (a). Enter the date of the transfer. If the transfer
+was composed of a series of transactions over multiple
+dates, enter the date the transfer was completed.
+Column (b). Enter the description of the property
+transferred.
+Column (c). Enter the FMV of the property contributed
+(measured as of the date of the transfer).
+Column (d). Enter your adjusted basis in the property
+contributed on the date of the transfer. See sections 1011
+through 1016 for more information on the determination of
+adjusted basis.
+Column (f). If you contributed appreciated property,
+enter the method (traditional, traditional with curative
+allocations, or remedial) used by the partnership to make
+section 704(c) allocations for each item of property. See
+Regulations sections 1.704-3(b), (c), and (d) for more
+information on these allocation methods. If the gain
+deferral method is applied, the remedial method must
+generally be used. See Regulations section 1.721(c)-3(b)
+(1)(i). For an exception for certain property generating
+effectively connected income, see Regulations section
+1.721(c)-3(b)(1)(ii).
+
+Column (g). Enter the amount of gain, if any, recognized
+on the transfer. See sections 721(b) and 904(f)(3), and
+Regulations section 1.721(c)-2.
+Line 3. Enter your capital interests, by percentage, in the
+partnership immediately before and after the transfer. To
+the extent your capital interest in the partnership
+immediately before the transfer differs from any of your
+profit, loss, or deduction interests in the partnership at that
+time, enter in the supplemental information below your
+interests, by percentage, in the profit, loss, and deductions
+at that time. To the extent your capital interest in the
+partnership immediately after the transfer differs from any
+of your profit, loss, or deduction interests in the
+partnership at that time, enter in the supplemental
+information below your interests, by percentage, in the
+profit, loss, and deductions at that time.
+Supplemental information required to be reported.
+Enter any information from Part I that is required to be
+reported in greater detail. Identify the applicable column
+number next to the information entered in this section. In
+addition, if you contributed property to a foreign
+partnership as part of a wider transaction, briefly describe
+the entire transaction.
+Reporting required for the year of contribution to
+which the gain deferral method is applied.
+Additionally, describe any section 721(c) property
+contributed to a section 721(c) partnership and identify
+whether the gain deferral method is applied. A U.S.
+transferor must attach to Form 8865, for the year of
+contribution, Schedule G, containing the information
+described in Regulations section 1.721(c)-6(b)(2)(i). See
+Regulations section 1.721(c)-6(b) for additional
+requirements.
+Additional form and statement requirements. In
+addition to the reporting requirements above, the following
+statements and forms must also be filed to satisfy the
+requirements for the gain deferral method.
+• Schedule H (Form 8865), if certain events have
+occurred.
+• Form 8838-P, Consent To Extend the Time To Assess
+Tax Pursuant to the Gain Deferral Method (Section
+721(c)). See Regulations sections 1.721(c)-6(b)(2)(ii), (b)
+(3)(viii), and (b)(5) for more information.
+• Copy of “Statement of Waiver of Treaty Benefits under
+Section 1.721(c)-6,” if applicable. See Regulations section
+1.721(c)-6(c)(1).
+
+Annual Reporting With Respect to the Gain
+Deferral Method
+A U.S. transferor subject to the gain deferral method must
+annually attach Schedule G (Form 8865), containing the
+information required in Regulations sections 1.721(c)-6(b)
+(3)(i) through (vii) (and (b)(3)(ix), as applicable). See
+Regulations section 1.721(c)-6(b)(3) for further annual
+reporting requirements pursuant to the gain deferral
+method.
+
+Part II. Dispositions Reportable Under Section
+6038B
+
+Use Part II to report certain dispositions by a foreign
+partnership in accordance with Regulations section
+18
+
+Instructions for Form 8865 (2025)
+
+1.6038B-2(d). The completion of Part ll (related property
+transferred to the partnership) is required by Regulations
+section 1.6038B-2(d). If you were required to report a
+transfer of appreciated property to the partnership, and
+the partnership disposes of the property while you are still
+a direct or constructive partner, you must report that
+disposition in Part II. If the partnership disposes of the
+property in a nonrecognition transaction and receives in
+exchange substituted basis property, report the
+subsequent disposition of the substituted basis property in
+the same manner as provided for the contributed property.
+See section 7701(a)(42) for the definition of substituted
+basis property and Regulations section 1.704-3(a)(8) for
+more information.
+A disposition by a partnership may be an acceleration
+event for purposes of applying the gain deferral method.
+The U.S. transferor may be required to recognize gain in
+an amount equal to the remaining built-in gain on the
+section 721(c) property previously contributed to the
+section 721(c) partnership. See Regulations section
+1.721(c)-4. For acceleration event exceptions, see
+Regulations section 1.721(c)-5. Acceleration events and
+exceptions to an acceleration event should be reflected in
+Part II. In addition, Schedules G and H are required to be
+filed.
+Column (a). Provide a brief description of the property
+disposed of by the partnership. If you are reporting the
+disposition of substituted basis property received by the
+partnership in a nonrecognition transaction in exchange
+for appreciated property contributed by you, enter “See
+Attached” and attach a statement providing brief
+descriptions of both the property contributed by you to the
+partnership and the substituted basis property received by
+the partnership in exchange for that property.
+Column (b). Enter the date that you transferred this
+property to the partnership. If you are reporting the
+disposition of substituted basis property received by the
+partnership in a nonrecognition transaction in exchange
+for property previously contributed by you, enter “See
+Attached” and attach a statement showing both the date
+you transferred the appreciated property to the
+partnership and the date the partnership exchanged the
+property for substituted basis property in a nonrecognition
+transaction. See Regulations section 1.6038B-2.
+Column (c). Enter the date that the partnership disposed
+of the property.
+Column (d). Briefly describe how the partnership
+disposed of the property (for example, by sale or
+exchange).
+Column (e). Enter the amount of gain, if any, recognized
+by the partnership on the disposition of property.
+Column (f). Enter the amount of depreciation recapture,
+if any, recognized by the partnership on the disposition of
+property. See Regulations sections 1.1245-1(e) and
+1.1250-1(f).
+Column (g). Enter the amount of gain from column (e)
+allocated to you.
+Column (h). Enter the amount of depreciation recapture
+from column (f) allocated to you. See Regulations sections
+1.1245-1(e) and 1.1250-1(f). If you recognize any section
+Instructions for Form 8865 (2025)
+
+1254 recapture on the partnership’s disposition of natural
+resource recapture property, enter “See Attached” and
+attach a statement figuring the amount of recapture. See
+Regulations section 1.1254-5.
+
+Part III. Gain Recognition Under Section 904(f)
+(3) or (f)(5)(F)
+
+If gain recognition was required for any transfer reported in
+Part I under section 904(f)(3) or (f)(5)(F), attach a
+statement identifying the transfer and the amount of gain
+recognized.
+
+Schedule P (Form 8865).
+Acquisitions, Dispositions, and
+Changes of Interests in a Foreign
+Partnership
+
+Use Schedule P to report the acquisition, disposition, and
+change of interest in a foreign partnership.
+
+Every Category 4 filer must complete Schedule P,
+unless they qualify under the exception for certain
+Category 4 filers, described earlier.
+Reference ID number. Use the reference ID number
+shown on Form 8865, item G2(b). For details, see Item
+G2(b), earlier.
+
+Part I. Acquisitions
+
+Part I is completed by Category 4 filers required to report
+an acquisition of an interest in a foreign partnership. See
+Categories of Filers, earlier, for more details about which
+types of acquisitions must be reported.
+An acquisition of a section 721(c) partnership interest
+may be an acceleration event exception under the gain
+deferral method. In such case, Schedule H is required to
+be filed. See Regulations section 1.721(c)-5. In this case,
+the acquirer may become a successor U.S. transferor and
+may have a reporting requirement under Regulations
+section 1.721(c)-6. As a result, the successor U.S.
+transferor is required to file Schedule G as well as, if
+certain events occur, Schedule H. See Section 721(c)
+partnership, Gain deferral method, and U.S. transferor,
+earlier.
+Column (a). If you acquired the interest in the foreign
+partnership by purchase, gift, or inheritance, or in a
+distribution from a trust, estate, partnership, or
+corporation, enter the name, address, and identifying
+number (if any) of the person from whom you acquired the
+interest.
+Column (b). Enter the date of the acquisition. If the
+acquisition was composed of a series of transactions over
+multiple dates, enter the date the acquisition was
+completed.
+Column (c). Enter the FMV of the interest you acquired
+in the partnership (measured as of the date of acquisition).
+Column (d). Enter your basis in the acquired partnership
+interest (measured as of the date of acquisition). See
+sections 722 and 742.
+Columns (e) and (f). Enter your total direct percentage
+interest in the partnership both before and immediately
+19
+
+after the acquisition. To the extent your direct percentage
+interest in the partnership differs among capital, profits,
+losses, or deductions, enter “See Below” and state the
+different percentages in Part IV.
+
+Part II. Dispositions
+
+This section is completed by U.S. persons who are
+Category 4 filers because they disposed of an interest in a
+foreign partnership. See Categories of Filers, earlier, for
+more details about what types of dispositions must be
+reported. For each disposition reported in Part II, indicate
+in Part IV whether a statement is required by Regulations
+section 1.751-1(a)(3) to be filed for the disposition.
+A disposition of a section 721(c) partnership interest
+may be an acceleration event for purposes of applying the
+gain deferral method. The U.S. transferor may be required
+to recognize gain in an amount equal to the remaining
+built-in gain on the section 721(c) property previously
+contributed to the section 721(c) partnership. In this case,
+Schedule H must also be filed. See Regulations section
+1.721(c)-4. For acceleration event exceptions, see
+Regulations section 1.721(c)-5.
+Column (a). Unless you disposed of the interest by
+withdrawing, in whole or in part, from the partnership,
+enter the name, address, and identifying number (if any)
+of the person to whom you transferred the interest in the
+foreign partnership.
+Column (b). Enter the date of the disposition. If the
+disposition was composed of a series of transactions over
+multiple dates, enter the date the disposition was
+completed.
+Column (c). Enter the FMV of the interest you disposed
+of in the partnership (measured as of the date of
+disposition). If you recognized gain or loss on the
+disposition, state the amount of gain or loss in Part IV. See
+section 741.
+Column (d). Enter your adjusted basis in the partnership
+interest disposed of immediately before the disposition.
+See section 705.
+
+Columns (e) and (f). Enter your total direct percentage
+interest in the partnership both before and immediately
+after the disposition. To the extent your percentage
+interest in the partnership differs among capital, profits,
+losses, or deductions, enter “See Below” and state the
+different percentages in Part IV.
+
+Part III. Change in Proportional Interest
+
+This section is completed by U.S. persons who are
+Category 4 filers because their direct proportional interest
+in the foreign partnership changed. See Categories of
+Filers, earlier, for more details about which changes in
+proportional interest must be reported.
+Column (a). Briefly describe the event that caused your
+interest in the partnership to change (for example, the
+admission of a new partner).
+Column (b). Enter the date of the change. If the change
+resulted from a series of transactions over multiple dates,
+enter the date the change was completed.
+Column (c). Enter the FMV of your interest in the
+partnership immediately before the change.
+Column (d). Enter your basis in your partnership interest
+immediately before the change.
+Columns (e) and (f). Enter your direct percentage
+interest in the partnership both before and immediately
+after the change. To the extent your percentage interest in
+the partnership differs among capital, profits, losses, or
+deductions, enter “See Below” and state the different
+percentages in Part IV.
+
+Part IV. Supplemental Information Required
+To Be Reported
+
+Enter any information asked for in Part I, Part II, or Part III
+that must be reported in detail. Identify the applicable part
+number and column next to the information entered in Part
+IV.
+
+Privacy Act and Paperwork Reduction Act Notice. We ask for you to obtain the information on this form to carry out
+the Internal Revenue laws of the United States. You are required to obtain this information. You are not required to obtain
+the information requested on a form that is subject to the Paperwork Reduction Act unless the form displays a valid OMB
+control number. Books or records relating to a form, or its instructions must be retained as long as their contents may
+become material in the administration of any Internal Revenue law.
+Generally, tax returns and return information are confidential, as required by Internal Revenue Code section 6103.
+However, section 6103 allows or requires the IRS to disclose or give such information to the Department of Justice for
+civil and criminal litigation, and to cities, states, the District of Columbia, and U.S. commonwealths and territories for use
+in administering their tax laws. We may also disclose this information to other countries under a tax treaty, to federal and
+state agencies to enforce federal nontax criminal laws, or to federal law enforcement and intelligence agencies to combat
+terrorism.
+The time needed to complete and file this form will vary depending on individual circumstances. The estimated burden
+for individual filers is approved under OMB control number 1545-0074, tax exempt filers under OMB control number
+1545-0047, business filers is approved under OMB control number 1545-0123, and trust filers is approved under OMB
+control number 1545-0092. For the estimated averages, see the instructions for your income tax return.
+If you have comments concerning the accuracy of these time estimates or suggestions for making this form simpler,
+we would be happy to hear from you. See the instructions for the tax return with which this form is filed.
+
+20
+
+Instructions for Form 8865 (2025)
+
+List of Codes Used for Schedule K-1 (Form 8865)
+Information concerning each of the boxes and codes is available in Part III of the Partner’s Instructions for Schedule K-1 (Form 1065).
+
+Box Number / Item
+1. Ordinary business income (loss)
+2. Net rental real estate income (loss)
+3. Other net rental income (loss)
+4a. Guaranteed payment services
+4b. Guaranteed payment capital
+4c. Guaranteed payment total
+5. Interest income
+6a. Ordinary dividends
+6b. Qualified dividends
+6c. Dividend equivalents
+7. Royalties
+8. Net short-term capital gain (loss)
+9a. Net long-term capital gain (loss)
+9b. Collectibles (28%) gain (loss)
+9c. Unrecaptured section 1250 gain
+10. Net section 1231 gain (loss)
+11. Other income (loss)
+Code A. Other portfolio income (loss)
+Code B. Involuntary conversions
+Code C. Section 1256 contracts & straddles
+Code D. Mining exploration costs recapture
+Code E. Cancellation of debt
+Code F. Section 743(b) positive income adjustments
+Codes G and H. Reserved for future use
+Code I. Gain (loss) from disposition of oil, gas, thermal, or other mineral properties (section 59(e))
+Code J. Recoveries of tax benefit items
+Code K. Gambling gains and losses
+Code L. Any income, gain, or loss to the partnership from a distribution under section 751(b)
+Code M. Gain eligible for section 1045 rollover (replacement stock purchased by partnership)
+Code N. Gain eligible for section 1045 rollover (replacement stock not purchased by partnership)
+Code O. Sale or exchange of QSB stock with section 1202 exclusion
+Code P. Gain or loss on disposition of farm recapture property and other items to which section 1252 applies
+Code Q. Gain or loss on Fannie Mae or Freddie Mac qualified preferred stock
+Code R. Specially allocated ordinary gain (loss)
+Code S. Non-portfolio capital gain (loss)
+Codes T through X. Reserved for future use
+Code ZZ. Other
+12. Section 179 deduction
+13. Other deductions
+Code A. Cash contributions (60%)
+Code B. Cash contributions (30%)
+Code C. Noncash contributions (50%)
+Code D. Noncash contributions (30%)
+Code E. Capital gain property to a 50% organization (30%)
+Code F. Capital gain property (20%)
+Code G. Contributions (100%)
+Code H. Investment interest expense
+
+Instructions for Form 8865 (2025)
+
+21
+
+Box Number / Item
+Code I. Deductions—royalty income
+Code J. Section 59(e)(2) expenditures
+Code K. Excess business interest expense (EBIE)
+Code L. Deductions—portfolio income (other)
+Code M. Amounts paid for medical insurance
+Code N. Educational assistance benefits
+Code O. Dependent care benefits
+Code P. Preproductive period expenses
+Code Q. Reserved for future use
+Code R. Pensions and IRAs
+Code S. Reforestation expense deduction
+Codes T through U. Reserved for future use
+Code V. Section 743(b) negative income adjustments
+Code W. Soil and water conservation
+Code X. Film, television, and theatrical and sound production expenditures
+Code Y. Expenditures for removal of barriers
+Code Z. Itemized deductions
+Code AA. Contributions to a capital construction fund (CCF)
+Code AB. Penalty on early withdrawal of savings
+Code AC. Interest expense allocated to debt-financed distributions
+Code AD. Interest expense on working interest in oil or gas
+Code AE. Deductions—portfolio income
+Codes AF through AJ. Reserved for future use
+Code ZZ. Other
+14. Self-employment earnings (loss)
+Note: If you have a section 179 deduction or any partner-level deductions, see the Partner’s Instructions (Form 1065) before
+completing Schedule SE (Form 1040).
+Code A. Net earnings (loss) from self-employment
+Code B. Gross farming or fishing income
+Code C. Gross non-farm income
+15. Credits
+Code A. Zero-emissions nuclear power production credit
+Code B. Credit for production from advanced nuclear power facilities
+Code C. Low-income housing credit (section 42(j)(5)) from post-2007 buildings
+Code D. Low-income housing credit (other) from post-2007 buildings
+Code E. Qualified rehabilitation expenditures (rental real estate)
+Code F. Other rental real estate credits
+Code G. Other rental credits
+Code H. Undistributed capital gains credit
+Code I. Biofuel producer credit
+Code J. Work opportunity credit
+Code K. Disabled access credit
+Code L. Empowerment zone employment credit
+Code M. Credit for increasing research activities
+Code N. Credit for employer social security and Medicare taxes paid on certain employee tips
+Code O. Backup withholding
+Code P. Unused investment credit from the qualifying advanced coal project credit or qualifying gasification project credit
+allocated from cooperatives
+Code Q. Unused investment credit from the qualifying advanced energy project credit allocated from cooperatives
+Code R. Unused investment credit from the advanced manufacturing investment credit allocated from cooperatives
+
+22
+
+Instructions for Form 8865 (2025)
+
+Box Number / Item
+Code S. Unused investment credit from the clean electricity investment credit allocated from cooperatives
+Code T. Unused investment credit from the energy credit allocated from cooperatives
+Code U. Unused investment credit from the rehabilitation credit allocated from cooperatives
+Code V. Advanced manufacturing production credit
+Code W. Clean electricity production credit
+Code X. Clean fuel production credit
+Code Y. Clean hydrogen production credit
+Code Z. Orphan drug credit
+Code AA. Enhanced oil recovery credit
+Code AB. Renewable electricity production credit
+Code AC. Biodiesel, renewable diesel, or sustainable aviation fuels credit
+Code AD. New markets credit
+Code AE. Small employer pension plan startup costs credit
+Code AF. Small employer auto-enrollment credit
+Code AG. Small employer military spouse participation credit
+Code AH. Credit for employer-provided childcare facilities and services
+Code AI. Low sulfur diesel fuel production credit
+Code AJ. Qualified railroad track maintenance credit
+Code AK. Credit for oil and gas production from marginal wells
+Code AL. Distilled spirits credit
+Code AM. Energy efficient home credit
+Code AN. Reserved for future use
+Code AO. Alternative fuel vehicle refueling property credit
+Code AP. Clean renewable energy bond credit
+Code AQ. New clean renewable energy bond credit
+Code AR. Qualified energy conservation bond credit
+Code AS. Qualified zone academy bond credit
+Code AT. Qualified school construction bond credit
+Code AU. Build America bond credit
+Code AV. Credit for employer differential wage payments
+Code AW. Carbon oxide sequestration credit
+Code AX. Carbon oxide sequestration credit recapture
+Code AY. New clean vehicle credit
+Code AZ. Qualified commercial clean vehicle credit
+Code BA. Credit for small employer health insurance premiums
+Code BB. Employer credit for paid family and medical leave
+Code BC. Eligible credits from transferor(s) under section 6418
+Codes BD through BG. Reserved for future use
+Code ZZ. Other
+17. Alternative minimum tax (AMT) items
+Code A. Post-1986 depreciation adjustment
+Code B. Adjusted gain or loss
+Code C. Depletion (other than oil & gas)
+Code D. Oil, gas, and geothermal—gross income
+Code E. Oil, gas, and geothermal—deductions
+Code F. Other AMT items
+18. Tax-exempt income and nondeductible expenses
+Code A. Tax-exempt interest income
+Code B. Other tax-exempt income
+Code C. Nondeductible expenses
+19. Distributions
+Code A. Cash and marketable securities
+Code B. Distribution subject to section 737
+Code C. Other property
+20. Other information
+
+Instructions for Form 8865 (2025)
+
+23
+
+Box Number / Item
+Code A. Investment income
+Code B. Investment expenses
+Code C. Fuel tax credit information
+Code D. Qualified rehabilitation expenditures (other than rental real estate)
+Code E. Basis of energy property
+Codes F through G. Recapture of low-income housing credit
+Code H. Recapture of investment credit
+Code I. Recapture of other credits
+Code J. Look-back interest—completed long-term contracts
+Code K. Look-back interest—income forecast method
+Code L. Dispositions of property with section 179 deductions
+Code M. Recapture of section 179 deduction
+Code N. Business interest expense (information item)
+Code O. Section 453(I)(3) information
+Code P. Section 453A(c) information
+Code Q. Section 1260(b) information
+Code R. Interest allocable to production expenditures
+Code S. Capital construction fund (CCF) nonqualified withdrawals
+Code T. Depletion information—oil and gas
+Code U. Section 743(b) basis adjustment
+Code V. Unrelated business taxable income
+Code X. Reserved for future use
+Code Y. Net investment income
+Code Z. Section 199A information
+Code AA. Section 704(c) information
+Code AB. Section 751 gain (loss)
+Code AC. Section 1(h)(5) collectibles gain (loss)
+Code AD. Section 1(h)(6) unrecaptured section 1250 gain
+Code AE. Excess taxable income
+Code AF. Excess business interest income
+Code AG. Gross receipts for section 448(c)
+Code AH. Noncash charitable contributions
+Code AI. Interest and tax on deferred compensation to partners
+Code AJ. Excess business loss limitation
+Code AK. Gain from mark-to-market election
+Code AL. Section 721(c) partnership
+Code AM. Section 1061 information
+Code AN. Farming and fishing business
+Code AO. PTP information
+Code AP. Inversion gain
+Code AQ. Conservation reserve program payments
+Code AR. IRA disclosure
+Code AS. Qualifying advanced coal project property and qualifying gasification project property
+Code AT. Qualifying advanced energy project property
+Code AU. Advanced manufacturing investment property
+Code AV. Clean electricity investment property
+Code AW. Reportable transactions
+Code AX. Corporate alternative minimum tax (CAMT)
+Code AY. Foreign partners, Form 8990, Schedule A
+Codes AZ through BD. Reserved for future use
+Code ZZ. Other
+
+24
+
+Instructions for Form 8865 (2025)
+
+Codes for Principal Business Activity
+and Principal Product or Service
+This list of Principal Business Activities and their
+associated codes is designed to classify an
+enterprise by the type of activity in which it is
+engaged to facilitate the administration of the
+Internal Revenue Code. These Principal Business
+Activity Codes are based on the North American
+Industry Classification System.
+
+Agriculture, Forestry, Fishing,
+and Hunting
+Crop Production
+111100 Oilseed & Grain Farming
+111210 Vegetable & Melon Farming
+(including potatoes & yams)
+111300 Fruit & Tree Nut Farming
+111400 Greenhouse, Nursery, &
+Floriculture Production
+111900 Other Crop Farming
+(including tobacco, cotton,
+sugarcane, hay, peanut,
+sugar beet, & all other crop
+farming)
+Animal Production
+112111 Beef Cattle Ranching &
+Farming
+112112 Cattle Feedlots
+112120 Dairy Cattle & Milk Production
+112210 Hog & Pig Farming
+112300 Poultry & Egg Production
+112400 Sheep & Goat Farming
+112510 Aquaculture (including
+shellfish & finfish farms &
+hatcheries)
+112900 Other Animal Production
+Forestry and Logging
+113110 Timber Tract Operations
+113210 Forest Nurseries & Gathering
+of Forest Products
+113310 Logging
+Fishing, Hunting, and Trapping
+114110 Fishing
+114210 Hunting & Trapping
+Support Activities for Agriculture
+and Forestry
+115110 Support Activities for Crop
+Production (including cotton
+ginning, soil preparation,
+planting, & cultivating)
+115210 Support Activities for Animal
+Production (including
+Farriers)
+115310 Support Activities for Forestry
+
+Mining
+211120 Crude Petroleum Extraction
+211130 Natural Gas Extraction
+212110 Coal Mining
+212200 Metal Ore Mining
+212310 Stone Mining & Quarrying
+212320 Sand, Gravel, Clay, &
+Ceramic & Refractory
+Minerals Mining & Quarrying
+212390 Other Nonmetallic Mineral
+Mining & Quarrying
+213110 Support Activities for Mining
+
+Utilities
+221100 Electric Power Generation,
+Transmission, & Distribution
+221210 Natural Gas Distribution
+221300 Water, Sewage, & Other
+Systems
+221500 Combination Gas & Electric
+
+Construction
+Construction of Buildings
+236110 Residential Building
+Construction
+236200 Nonresidential Building
+Construction
+Heavy and Civil Engineering
+Construction
+237100 Utility System Construction
+
+Using the list of activities and codes below,
+determine from which activity the business derives
+the largest percentage of its “total receipts.” Total
+receipts is defined as the sum of gross receipts or
+sales (Schedule B, line 1a); all other income
+reported on Schedule B, lines 4 through 7; income
+reported on Schedule K, lines 3a, 5, 6a, and 7;
+income or net gain reported on Schedule K, lines
+8, 9a, 10, and 11; and income or net gain reported
+on Form 8825, lines 2, 19, and 20a. If the business
+
+237210 Land Subdivision
+237310 Highway, Street, & Bridge
+Construction
+237990 Other Heavy & Civil
+Engineering Construction
+Specialty Trade Contractors
+238100 Foundation, Structure, &
+Building Exterior Contractors
+(including framing carpentry,
+masonry, glass, roofing, &
+siding)
+238210 Electrical Contractors
+238220 Plumbing, Heating, &
+Air-Conditioning Contractors
+238290 Other Building Equipment
+Contractors
+238300 Building Finishing
+Contractors (including
+drywall, insulation, painting,
+wallcovering, flooring, tile, &
+finish carpentry)
+238900 Other Specialty Trade
+Contractors (including site
+preparation)
+
+Manufacturing
+Food Manufacturing
+311110 Animal Food Mfg
+311200 Grain & Oilseed Milling
+311300 Sugar & Confectionery
+Product Mfg
+311400 Fruit & Vegetable Preserving
+& Specialty Food Mfg
+311500 Dairy Product Mfg
+311610 Animal Slaughtering and
+Processing
+311710 Seafood Product Preparation
+& Packaging
+311800 Bakeries, Tortilla & Dry Pasta
+Mfg
+311900 Other Food Mfg (including
+coffee, tea, flavorings, &
+seasonings)
+Beverage and Tobacco Product
+Manufacturing
+312110 Soft Drink & Ice Mfg
+312120 Breweries
+312130 Wineries
+312140 Distilleries
+312200 Tobacco Manufacturing
+Textile Mills and Textile Product
+Mills
+313000 Textile Mills
+314000 Textile Product Mills
+Apparel Manufacturing
+315100 Apparel Knitting Mills
+315210 Cut & Sew Apparel
+Contractors
+315250 Cut & Sew Apparel Mfg
+(except Contractors)
+315990 Apparel Accessories & Other
+Apparel Mfg
+Leather and Allied Product
+Manufacturing
+316110 Leather & Hide Tanning &
+Finishing
+316210 Footwear Mfg (including
+rubber & plastics)
+316990 Other Leather & Allied
+Product Mfg
+Wood Product Manufacturing
+321110 Sawmills & Wood
+Preservation
+321210 Veneer, Plywood, &
+Engineered Wood Product
+Mfg
+321900 Other Wood Product Mfg
+
+purchases raw materials and supplies them to a
+subcontractor to produce the finished product, but
+retains title to the product, the business is
+considered a manufacturer and must use one of
+the manufacturing codes (311110–339900).
+Once the Principal Business Activity is
+determined, enter the six-digit code from the list
+below on page 1, item H7. Also enter a brief
+description of the business activity in item H8.
+
+Paper Manufacturing
+322100 Pulp, Paper, & Paperboard
+Mills
+322200 Converted Paper Product Mfg
+Printing and Related Support
+Activities
+323100 Printing & Related Support
+Activities
+Petroleum and Coal Products
+Manufacturing
+324110 Petroleum Refineries
+(including integrated)
+324120 Asphalt Paving, Roofing, &
+Saturated Materials Mfg
+324190 Other Petroleum & Coal
+Products Mfg
+Chemical Manufacturing
+325100 Basic Chemical Mfg
+325200 Resin, Synthetic Rubber, &
+Artificial & Synthetic Fibers &
+Filaments Mfg
+325300 Pesticide, Fertilizer, & Other
+Agricultural Chemical Mfg
+325410 Pharmaceutical & Medicine
+Mfg
+325500 Paint, Coating, & Adhesive
+Mfg
+325600 Soap, Cleaning Compound, &
+Toilet Preparation Mfg
+325900 Other Chemical Product &
+Preparation Mfg
+Plastics and Rubber Products
+Manufacturing
+326100 Plastics Product Mfg
+326200 Rubber Product Mfg
+Nonmetallic Mineral Product
+Manufacturing
+327100 Clay Product & Refractory
+Mfg
+327210 Glass & Glass Product Mfg
+327300 Cement & Concrete Product
+Mfg
+327400 Lime & Gypsum Product Mfg
+327900 Other Nonmetallic Mineral
+Product Mfg
+Primary Metal Manufacturing
+331110 Iron & Steel Mills & Ferroalloy
+Mfg
+331200 Steel Product Mfg From
+Purchased Steel
+331310 Alumina & Aluminum
+Production & Processing
+331400 Nonferrous Metal (except
+Aluminum) Production &
+Processing
+331500 Foundries
+Fabricated Metal Product
+Manufacturing
+332110 Forging & Stamping
+332210 Cutlery & Handtool Mfg
+332300 Architectural & Structural
+Metals Mfg
+332400 Boiler, Tank, & Shipping
+Container Mfg
+332510 Hardware Mfg
+332610 Spring & Wire Product Mfg
+332700 Machine Shops; Turned
+Product; & Screw, Nut, & Bolt
+Mfg
+332810 Coating, Engraving, Heat
+Treating, & Allied Activities
+332900 Other Fabricated Metal
+Product Mfg
+Machinery Manufacturing
+333100 Agriculture, Construction, &
+Mining Machinery Mfg
+333200 Industrial Machinery Mfg
+
+333310 Commercial & Service
+Industry Machinery Mfg
+333410 Ventilation, Heating,
+Air-Conditioning, &
+Commercial Refrigeration
+Equipment Mfg
+333510 Metalworking Machinery Mfg
+333610 Engine, Turbine & Power
+Transmission Equipment Mfg
+333900 Other General Purpose
+Machinery Mfg
+Computer and Electronic Product
+Manufacturing
+334110 Computer & Peripheral
+Equipment Mfg
+334200 Communications Equipment
+Mfg
+334310 Audio & Video Equipment
+Mfg
+334410 Semiconductor & Other
+Electronic Component Mfg
+334500 Navigational, Measuring,
+Electromedical, & Control
+Instruments Mfg
+334610 Manufacturing & Reproducing
+Magnetic & Optical Media
+Electrical Equipment, Appliance,
+and Component Manufacturing
+335100 Electric Lighting Equipment
+Mfg
+335200 Household Appliance Mfg
+335310 Electrical Equipment Mfg
+335900 Other Electrical Equipment &
+Component Mfg
+Transportation Equipment
+Manufacturing
+336100 Motor Vehicle Mfg
+336210 Motor Vehicle Body & Trailer
+Mfg
+336300 Motor Vehicle Parts Mfg
+336410 Aerospace Product & Parts
+Mfg
+336510 Railroad Rolling Stock Mfg
+336610 Ship & Boat Building
+336990 Other Transportation
+Equipment Mfg
+Furniture and Related Product
+Manufacturing
+337000 Furniture & Related Product
+Manufacturing
+Miscellaneous Manufacturing
+339110 Medical Equipment &
+Supplies Mfg
+339900 Other Miscellaneous
+Manufacturing
+
+Wholesale Trade
+Merchant Wholesalers, Durable
+Goods
+423100 Motor Vehicle & Motor Vehicle
+Parts & Supplies
+423200 Furniture & Home Furnishings
+423300 Lumber & Other Construction
+Materials
+423400 Professional & Commercial
+Equipment & Supplies
+423500 Metal & Mineral (except
+Petroleum)
+423600 Household Appliances &
+Electrical & Electronic Goods
+423700 Hardware, & Plumbing &
+Heating Equipment &
+Supplies
+423800 Machinery, Equipment, &
+Supplies
+423910 Sporting & Recreational
+Goods & Supplies
+
+25
+
+Codes for Principal Business Activity and Principal Product or Service (Continued)
+423920 Toy & Hobby Goods &
+Supplies
+423930 Recyclable Materials
+423940 Jewelry, Watch, Precious
+Stone, & Precious Metals
+423990 Other Miscellaneous Durable
+Goods
+Merchant Wholesalers, Nondurable
+Goods
+424100 Paper & Paper Products
+424210 Drugs & Druggists’ Sundries
+424300 Apparel, Piece Goods, &
+Notions
+424400 Grocery & Related Products
+424500 Farm Product Raw Materials
+424600 Chemical & Allied Products
+424700 Petroleum & Petroleum
+Products
+424800 Beer, Wine, & Distilled
+Alcoholic Beverages
+424910 Farm Supplies
+424920 Book, Periodical, &
+Newspapers
+424930 Flower, Nursery Stock, &
+Florists’ Supplies
+424940 Tobacco Products &
+Electronic Cigarettes
+424950 Paint, Varnish, & Supplies
+424990 Other Miscellaneous
+Nondurable Goods
+Wholesale Trade Agents & Agents
+and Brokers
+425120 Wholesale Trade Agents &
+Brokers
+
+Retail Trade
+Motor Vehicle and Parts Dealers
+441110 New Car Dealers
+441120 Used Car Dealers
+441210 Recreational Vehicle Dealers
+441222 Boat Dealers
+441227 Motorcycle, ATV, & All Other
+Motor Vehicle Dealers
+441300 Automotive Parts,
+Accessories, & Tire Retailers
+Building Material and Garden
+Equipment and Supplies Dealers
+444110 Home Centers
+444120 Paint & Wallpaper Stores
+444140 Hardware Retailers
+444180 Other Building Material
+Dealers
+444200 Lawn & Garden Equipment &
+Supplies Retailers
+Food and Beverage Retailers
+445110 Supermarkets and Other
+Grocery (except
+Convenience) Retailers
+445131 Convenience Retailers
+445132 Vending Machine Operators
+445230 Fruit & Vegetable Retailers
+445240 Meat Retailers
+445250 Fish & Seafood Retailers
+445291 Baked Goods Retailers
+445292 Confectionery & Nut Retailers
+445298 All Other Specialty Food
+Retailers
+445320 Beer, Wine, & Liquor
+Retailers
+Furniture and Home Furnishings
+Retailers
+449110 Furniture Retailers
+449121 Floor Covering Retailers
+449122 Window Treatment Retailers
+449129 All Other Home Furnishings
+Retailers
+Electronics and Appliance Retailers
+449210 Electronics & Appliance
+Retailers (including
+computers)
+General Merchandise Retailers
+455110 Department Stores
+455210 Warehouse Clubs,
+Supercenters, & Other Merch
+Retailers
+
+26
+
+Health and Personal Care Retailers
+456110 Pharmacies & Drug Retailers
+456120 Cosmetics, Beauty Supplies,
+& Perfume Retailers
+456130 Optical Goods Retailers
+446190 Other Health & Personal Care
+Retailers
+Gasoline Stations & Fuel Dealers
+457100 Gasoline Stations (including
+convenience stores with gas)
+457210 Fuel Dealers (including
+Heating Oil & Liquefied
+Petroleum)
+Clothing & Accessories Retailers
+458110 Clothing & Clothing
+Accessories Retailers
+458210 Shoe Retailers
+458310 Jewelry Retailers
+458320 Luggage & Leather Goods
+Retailers
+Sporting, Hobby, Book, Musical
+Instrument, & Miscellaneous
+Retailers
+459110 Sporting Goods Retailers
+459120 Hobby, Toy, & Game Retailers
+459130 Sewing, Needlework, & Piece
+Goods Retailers
+459140 Musical Instrument &
+Supplies Retailers
+459210 Book Retailers & News
+Dealers (including
+newsstands)
+459310 Florists
+459410 Office Supplies & Stationery
+Retailers
+459420 Gift, Novelty, & Souvenir
+Retailers
+459510 Used Merchandise Retailers
+459910 Pet & Pet Supplies Retailers
+459920 Art Dealers
+459930 Manufactured (Mobile) Home
+Dealers
+459990 All Other Miscellaneous
+Retailers (including tobacco,
+candle, & trophy retailers)
+Nonstore Retailers
+Nonstore retailers sell all
+types of merchandise using
+such methods as Internet,
+mail-order catalogs,
+interactive television, or direct
+sales. These types of
+Retailers should select the
+PBA associated with their
+primary line of products sold.
+For example, establishments
+primarily selling prescription
+and non-prescription drugs,
+select PBA code 456110
+Pharmacies & Drug Retailers.
+
+Transportation and
+Warehousing
+Air, Rail, and Water Transportation
+481000 Air Transportation
+482110 Rail Transportation
+483000 Water Transportation
+Truck Transportation
+484110 General Freight Trucking,
+Local
+484120 General Freight Trucking,
+Long-Distance
+484200 Specialized Freight Trucking
+Transit and Ground Passenger
+Transportation
+485110 Urban Transit Systems
+485210 Interurban & Rural Bus
+Transportation
+485310 Taxi Service
+485320 Limousine Service
+485410 School & Employee Bus
+Transportation
+485510 Charter Bus Industry
+485990 Other Transit & Ground
+Passenger Transportation
+Pipeline Transportation
+486000 Pipeline Transportation
+
+Scenic & Sightseeing
+Transportation
+487000 Scenic & Sightseeing
+Transportation
+Support Activities for
+Transportation
+488100 Support Activities for Air
+Transportation
+488210 Support Activities for Rail
+Transportation
+488300 Support Activities for Water
+Transportation
+488410 Motor Vehicle Towing
+488490 Other Support Activities for
+Road Transportation
+488510 Freight Transportation
+Arrangement
+488990 Other Support Activities for
+Transportation
+Couriers and Messengers
+492110 Couriers & Express Delivery
+Services
+492210 Local Messengers & Local
+Delivery
+Warehousing and Storage
+493100 Warehousing & Storage
+(except lessors of
+mini-warehouses &
+self-storage units)
+
+Information
+Motion Picture and Sound
+Recording Industries
+512100 Motion Picture & Video
+Industries (except video
+rental)
+512200 Sound Recording Industries
+Publishing Industries
+513110 Newspaper Publishers
+513120 Periodical Publishers
+513130 Book Publishers
+513140 Directory & Mailing List
+Publishers
+513190 Other Publishers
+513210 Software Publishers
+Broadcasting & Content Providers
+& Telecommunications
+516100 Radio & Television
+Broadcasting Stations
+516210 Media Streaming, Social
+Networks, & Other Content
+Providers
+517000 Telecommunications
+(including Wired, Wireless,
+Satellite, Cable & Other
+Program Distribution,
+Resellers, Agents, Other
+Telecommunications, &
+Internet Service Providers)
+Data Processing, Web Search
+Portals, & Other Information
+Services
+518210 Computing Infrastructure
+Providers, Data Processing,
+Web Hosting, & Related
+Services
+519200 Web Search Portals,
+Libraries, Archives, & Other
+Info. Services
+
+Finance and Insurance
+Depository Credit Intermediation
+522110 Commercial Banking
+522130 Credit Unions
+522180 Savings Institutions & Other
+Depository Credit
+Intermediation
+Nondepository Credit
+Intermediation
+522210 Credit Card Issuing
+522220 Sales Financing
+522291 Consumer Lending
+522292 Real Estate Credit (including
+mortgage bankers &
+originators)
+522299 Intl, Secondary Market, &
+Other Nondepo. Credit
+Intermediation
+
+Activities Related to Credit
+Intermediation
+522300 Activities Related to Credit
+Intermediation (including loan
+brokers, check clearing, &
+money transmitting)
+Securities, Commodity Contracts,
+and Other Financial Investments
+and Related Activities
+523150 Investment Banking &
+Securities Intermediation
+523160 Commodity Contracts
+Intermediation
+523210 Securities & Commodity
+Exchanges
+523900 Other Financial Investment
+Activities (including portfolio
+management & investment
+advice)
+Insurance Carriers and Related
+Activities
+524110 Direct Life, Health, & Medical
+Insurance Carriers
+524120 Direct Insurance (except Life,
+Health, & Medical) Carriers
+524210 Insurance Agencies &
+Brokerages
+524290 Other Insurance Related
+Activities (including
+third-party administration of
+insurance and pension funds)
+Funds, Trusts, and Other Financial
+Vehicles
+525100 Insurance & Employee
+Benefit Funds
+525910 Open-End Investment Funds
+(Form 1120-RIC,)
+525920 Trusts, Estates, & Agency
+Accounts
+525990 Other Financial Vehicles
+(including mortgage REITs
+and closed-end investment
+funds)
+“Offices of Bank Holding Companies”
+and “Offices of Other Holding
+Companies” are located under
+Management of Companies
+(Holding Companies) below.
+
+Real Estate and Rental and
+Leasing
+Real Estate
+531110 Lessors of Residential
+Buildings & Dwellings
+(including equity REITs)
+531120 Lessors of Nonresidential
+Buildings (except
+Mini-Warehouses) (including
+equity REITs)
+531130 Lessors of Mini-Warehouses
+& Self-Storage Units
+(including equity REITs)
+531190 Lessors of Other Real Estate
+Property (including equity
+REITs)
+531210 Offices of Real Estate Agents
+& Brokers
+531310 Real Estate Property
+Managers
+531320 Offices of Real Estate
+Appraisers
+531390 Other Activities Related to
+Real Estate
+Rental and Leasing Services
+532100 Automotive Equipment Rental
+& Leasing
+532210 Consumer Electronics &
+Appliances Rental
+532281 Formal Wear & Costume
+Rental
+532282 Video Tape & Disc Rental
+532283 Home Health Equipment
+Rental
+532284 Recreational Goods Rental
+532289 All Other Consumer Goods
+Rental
+532310 General Rental Centers
+532400 Commercial & Industrial
+Machinery & Equipment
+Rental & Leasing
+
+Codes for Principal Business Activity and Principal Product or Service (Continued)
+Lessors of Nonfinancial Intangible
+Assets (except copyrighted works)
+533110 Lessors of Nonfinancial
+Intangible Assets (except
+copyrighted works)
+
+Professional, Scientific, and
+Technical Services
+Legal Services
+541110 Offices of Lawyers
+541190 Other Legal Services
+Accounting, Tax Preparation,
+Bookkeeping, and Payroll Services
+541211 Offices of Certified Public
+Accountants
+541213 Tax Preparation Services
+541214 Payroll Services
+541219 Other Accounting Services
+Architectural, Engineering, and
+Related Services
+541310 Architectural Services
+541320 Landscape Architecture
+Services
+541330 Engineering Services
+541340 Drafting Services
+541350 Building Inspection Services
+541360 Geophysical Surveying &
+Mapping Services
+541370 Surveying & Mapping (except
+Geophysical) Services
+541380 Testing Laboratories &
+Services
+Specialized Design Services
+541400 Specialized Design Services
+(including interior, industrial,
+graphic, & fashion design)
+Computer Systems Design and
+Related Services
+541511 Custom Computer
+Programming Services
+541512 Computer Systems Design
+Services
+541513 Computer Facilities
+Management Services
+541519 Other Computer Related
+Services
+Other Professional, Scientific, and
+Technical Services
+541600 Management, Scientific, &
+Technical Consulting
+Services
+541700 Scientific Research &
+Development Services
+541800 Advertising & Public
+Relations, & Related Services
+541910 Marketing Research & Public
+Opinion Polling
+541920 Photographic Services
+541930 Translation & Interpretation
+Services
+541940 Veterinary Services
+541990 All Other Professional,
+Scientific, & Technical
+Services
+
+Management of Companies
+(Holding Companies)
+551111 Offices of Bank Holding
+Companies
+551112 Offices of Other Holding
+Companies
+
+Administrative and Support and
+Waste Management and
+Remediation Services
+Administrative and Support
+Services
+561110 Office Administrative
+Services
+
+561210 Facilities Support Services
+561300 Employment Services
+561410 Document Preparation
+Services
+561420 Telephone Call Centers
+561430 Business Service Centers
+(including private mail centers
+& copy shops)
+561440 Collection Agencies
+561450 Credit Bureaus
+561490 Other Business Support
+Services (including
+repossession services, court
+reporting, & stenotype
+services)
+561500 Travel Arrangement &
+Reservation Services
+561600 Investigation & Security
+Services
+561710 Exterminating & Pest Control
+Services
+561720 Janitorial Services
+561730 Landscaping Services
+561740 Carpet & Upholstery Cleaning
+Services
+561790 Other Services to Buildings &
+Dwellings
+561900 Other Support Services
+(including packaging &
+labeling services, &
+convention & trade show
+organizers)
+Waste Management and
+Remediation Services
+562000 Waste Management &
+Remediation Services
+
+Educational Services
+611000 Educational Services
+(including schools, colleges,
+& universities)
+
+Health Care and Social
+Assistance
+Offices of Physicians and Dentists
+621111 Offices of Physicians (except
+mental health specialists)
+621112 Offices of Physicians, Mental
+Health Specialists
+621210 Offices of Dentists
+Offices of Other Health
+Practitioners
+621310 Offices of Chiropractors
+621320 Offices of Optometrists
+621330 Offices of Mental Health
+Practitioners (except
+Physicians)
+621340 Offices of Physical,
+Occupational & Speech
+Therapists, & Audiologists
+621391 Offices of Podiatrists
+621399 Offices of All Other
+Miscellaneous Health
+Practitioners
+Outpatient Care Centers
+621410 Family Planning Centers
+621420 Outpatient Mental Health &
+Substance Abuse Centers
+621491 HMO Medical Centers
+621492 Kidney Dialysis Centers
+621493 Freestanding Ambulatory
+Surgical & Emergency
+Centers
+621498 All Other Outpatient Care
+Centers
+Medical and Diagnostic
+Laboratories
+621510 Medical & Diagnostic
+Laboratories
+
+Home Health Care Services
+621610 Home Health Care Services
+Other Ambulatory Health Care
+Services
+621900 Other Ambulatory Health
+Care Services (including
+ambulance services & blood
+& organ banks)
+Hospitals
+622000 Hospitals
+Nursing and Residential Care
+Facilities
+623000 Nursing & Residential Care
+Facilities
+Social Assistance
+624100 Individual & Family Services
+624200 Community Food & Housing,
+& Emergency & Other Relief
+Services
+624310 Vocational Rehabilitation
+Services
+624410 Childcare Services
+
+Arts, Entertainment, and
+Recreation
+Performing Arts, Spectator Sports,
+and Related Industries
+711100 Performing Arts Companies
+711210 Spectator Sports (including
+sports clubs & racetracks)
+711300 Promoters of Performing Arts,
+Sports, & Similar Events
+711410 Agents & Managers for
+Artists, Athletes, Entertainers,
+& Other Public Figures
+711510 Independent Artists, Writers,
+& Performers
+Museums, Historical Sites, and
+Similar Institutions
+712100 Museums, Historical Sites, &
+Similar Institutions
+Amusement, Gambling, and
+Recreation Industries
+713100 Amusement Parks & Arcades
+713200 Gambling Industries
+713900 Other Amusement &
+Recreation Industries
+(including golf courses, skiing
+facilities, marinas, fitness
+centers, & bowling centers)
+
+Accommodation and Food
+Services
+Accommodation
+721110 Hotels (except Casino Hotels)
+& Motels
+721120 Casino Hotels
+721191 Bed & Breakfast Inns
+721199 All Other Traveler
+Accommodation
+721210 RV (Recreational Vehicle)
+Parks & Recreational Camps
+721310 Rooming & Boarding Houses,
+Dormitories, & Workers’
+Camps
+Food Services and Drinking Places
+722300 Special Food Services
+(including food service
+contractors & caterers)
+722410 Drinking Places (Alcoholic
+Beverages)
+722511 Full Service Restaurants
+722513 Limited Service Restaurants
+722514 Cafeterias, Grill Buffets,
+Buffets
+722515 Snack & Nonalcoholic
+Beverage Bars
+
+Other Services
+Repair and Maintenance
+811110 Automotive Mechanical &
+Electrical Repair &
+Maintenance
+811120 Automotive Body, Paint,
+Interior, & Glass Repair
+811190 Other Automotive Repair &
+Maintenance (including oil
+change & lubrication shops &
+car washes)
+811210 Electronic & Precision
+Equipment Repair &
+Maintenance
+811310 Commercial & Industrial
+Machinery & Equipment
+(except Automotive &
+Electronic) Repair &
+Maintenance
+811410 Home & Garden Equipment &
+Appliance Repair &
+Maintenance
+811420 Reupholstery & Furniture
+Repair
+811430 Footwear & Leather Goods
+Repair
+811490 Other Personal & Household
+Goods Repair & Maintenance
+Personal and Laundry Services
+812111 Barber Shops
+812112 Beauty Salons
+812113 Nail Salons
+812190 Other Personal Care Services
+(including diet & weight
+reducing centers)
+812210 Funeral Homes & Funeral
+Services
+812220 Cemeteries & Crematories
+812310 Coin-Operated Laundries &
+Drycleaners
+812320 Drycleaning & Laundry
+Services (except
+Coin-Operated)
+812330 Linen & Uniform Supply
+812910 Pet Care (except Veterinary)
+Services
+812920 Photofinishing
+812930 Parking Lots & Garages
+812990 All Other Personal Services
+Religious, Grantmaking, Civic,
+Professional, and Similar
+Organizations
+813000 Religious, Grantmaking,
+Civic, Professional, & Similar
+Organizations (including
+condominium and
+homeowners associations)
+
+Other
+999999 Unclassified Establishments
+(unable to classify)
+
+27
+
+Index
+10% interest 5
+50% interest 5
+
+A
+Acquisitions 3
+Analysis of partners’ capital accounts 17
+Attached statements 16
+
+B
+Balance sheets per books 17
+
+C
+Categories of Filers 2
+Category 1 filer 2, 8, 10
+Category 2 filer 2, 8
+Category 3 filer 2, 8, 10
+Category 4 filer 3, 8
+Change in a Proportional Interest 5
+Changes in Proportional Interests 3
+Consolidated Return 7
+Constructive Ownership 5
+Control of a Corporation 5
+Corrections to Form 8865 6
+
+D
+Definitions 5
+Dispositions 3
+
+E
+Exceptions for Filing:
+Category 4 filers 4
+Exceptions to Filing 3
+Constructive owners 3
+Multiple Category 1 filers 3
+
+F
+Foreign Address 7
+
+28
+
+Foreign Partnership 5
+Future Developments 1
+
+G
+General Instructions 1
+General Reporting Instructions for
+Schedule K-1 16
+
+H
+Hyperinflationary Exception 8
+
+I
+Identifying Numbers and Addresses 7
+
+L
+List of Codes Used in Schedule K-1 (Form
+8865) 21
+
+P
+Partnership 5
+Penalties 6
+Purpose of Form 1
+
+R
+Relief for Category 1 and 2 filers 4
+
+S
+Schedule A-1. Certain partners of Foreign
+Partnership 10
+Schedule A-2. Foreign Partners of Section
+721(c) Partnership 10
+Schedule A-3. Affiliation Schedule 11
+Schedule A. Constructive Ownership of
+Partnership Interest 10
+Schedule B. Income Statement–Trade or
+Business Income 11
+Schedule D. Capital Gains and Losses 11
+
+Schedule G (Form 8865). Statement of
+Application of the Gain Deferral Method
+Under Section 721(c) 11
+Schedule H (Form 8865). Acceleration
+Events and Exceptions Reporting
+Relating to Gain Deferral Method Under
+Section 721(c) 13
+Schedule N. Transactions Between
+Controlled Foreign Partnership and
+Partners or Other Related Entities 17
+Schedule O (Form 8865). Transfer of
+Property to a Foreign Partnership 17
+Schedule P (Form 8865). Acquisitions,
+Dispositions, and Changes of Interests
+in a Foreign Partnership 19
+Schedules K-2 (Form 8865), Partners’
+Distributive Share Items—International,
+and K-3 (Form 8865), Partner’s Share of
+Income, Deductions, Credits,
+etc.—International 17
+Schedules K, Partners’ Distributive Share
+Items and K-1 (Form 8865), Partner’s
+Share of Income, Deductions, Credits,
+Etc. 15
+Specific Instructions 6
+
+T
+Tax Year 7
+Treaty-based Return Positions 6
+
+U
+U.S. Person 5
+
+W
+What’s New 1
+When To File 4
+Who Must File 1
+
+

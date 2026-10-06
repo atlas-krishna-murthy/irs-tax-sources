@@ -1,0 +1,79 @@
+{
+  "form": {
+    "id": "form-8283",
+    "form": "Form 8283",
+    "title": "Noncash Charitable Contributions",
+    "kind": "form",
+    "revision": "Rev. December 2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8283--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-pdf/i8283.pdf",
+    "lines": [
+      {
+        "line": "Section A",
+        "caption": "Donated Property of $5,000 or Less and Publicly Traded Securities-List in this section only an item (or a group of similar items) for which you claimed a deduction of $5,000 or less. Also list publicly traded securities and certain other property even if the deduction is more than $5,000. If you need more space, attach a statement. See instructions.",
+        "type": "text"
+      },
+      {
+        "line": "Section B",
+        "caption": "Donated Property Over $5,000 (Except Publicly Traded Securities, Vehicles, Intellectual Property or Inventory Reportable in Section A)",
+        "type": "text"
+      },
+      {
+        "line": "2",
+        "caption": "Check the box that describes the type of property donated. See instructions for definitions.",
+        "type": "code"
+      },
+      {
+        "line": "4a",
+        "caption": "Enter the letter from Section B, Part I that identifies the property for which you gave less than an entire interest",
+        "type": "code"
+      },
+      {
+        "line": "4b",
+        "caption": "Total amount claimed as a deduction for the property listed in Section B, Part I:",
+        "type": "money"
+      },
+      {
+        "line": "4c",
+        "caption": "Name and address of each organization to which any such contribution was made in a prior year (complete only if different from the donee organization in Section B, Part V, below):",
+        "type": "text"
+      },
+      {
+        "line": "4d",
+        "caption": "For tangible property, enter the place where the property is located or kept",
+        "type": "text"
+      },
+      {
+        "line": "4e",
+        "caption": "Name of any person, other than the donee organization, having actual possession of the property",
+        "type": "text"
+      },
+      {
+        "line": "5a",
+        "caption": "Is there a restriction, either temporary or permanent, on the donee\u2019s right to use or dispose of the donated property?",
+        "type": "checkbox"
+      },
+      {
+        "line": "5b",
+        "caption": "Did you give to anyone (other than the donee organization or another organization participating with the donee organization in cooperative fundraising) the right to the income from the donated property or to the possession of the property, including the right to vote donated securities, to acquire the property by purchase or otherwise, or to designate the person having such income, possession, or right to acquire?",
+        "type": "checkbox"
+      },
+      {
+        "line": "5c",
+        "caption": "Is there a restriction limiting the donated property for a particular use?",
+        "type": "checkbox"
+      }
+    ],
+    "notes": "THIS FORM COMPUTES NOTHING AND ROUTES NOTHING, and the form says so itself. Printed above Section A, verbatim: 'Note: Figure the amount of your contribution deduction before completing this form. See your tax return instructions.' The deduction is therefore computed BEFORE and ELSEWHERE, and Form 8283 carries no total line naming a destination. It is SUBSTANTIATION: its own subtitle reads 'Attach one or more Forms 8283 to your tax return if you claimed a total deduction of over $500 for all contributed property.' The figure is entered on Schedule A line 12, whose caption says 'You must attach Form 8283 if over $500', from the taxpayer's own contribution record. Giving this form an outbound route to Schedule A line 12 would double-count against that record, and routing money INTO it strands the figure - there is no line here that can carry it onward. It is declared so that the attachment REQUIREMENT is machine-readable: the Schedule A line 12 route carries the question that names it. CONSEQUENCE FOR THE GRAPH: Form 8283 must never be a route DESTINATION. It currently receives one (`k1-1065.20AH->form-8283.`, from part E, naming no destination line), which raises E10 MONEY DISAPPEARS - correctly, because nothing can leave here. That route's own note already says why it should not land here: 'The deduction itself is in box 13 codes C through G. This code carries the outside-basis limit on it.' A basis LIMIT is not a figure to be placed. It should point at Schedule A line 12 with role 'informs', where the deduction it limits actually lands. Adding an outbound route from this form to Schedule A line 12 would clear E10 and would be false: it would assert that Form 8283 carries a figure onward, which the form denies in its own Note, and it would double-count against the taxpayer's contribution record, which is the real source of the line 12 figure.",
+    "face_not_boxes": [
+      {
+        "slot": "31",
+        "because": "'31 U.S.C. 330(c)' \u2014 a statute cited in the Part IV appraiser declaration, not a line"
+      },
+      {
+        "slot": "36",
+        "because": "'Attachment Sequence No. 36' in the form header, not a line"
+      }
+    ]
+  }
+}

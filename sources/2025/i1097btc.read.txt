@@ -1,0 +1,529 @@
+Instructions for Form
+1097-BTC
+(Rev. April 2025)
+Bond Tax Credit
+Section references are to the Internal Revenue Code unless
+otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to
+Form 1097-BTC and its instructions, such as legislation
+enacted after they were published, go to IRS.gov/
+Form1097BTC.
+You can get the General Instructions for Certain
+Information Returns at IRS.gov/1099GeneralInstructions.
+
+Reminders
+
+In addition to these specific instructions, you should also use
+the current General Instructions for Certain Information
+Returns. Those general instructions include information
+about the following topics.
+• Who must file.
+• When and where to file.
+• Electronic reporting.
+• Corrected and voided returns.
+• Statements to recipients.
+• Taxpayer identification numbers (TINs).
+• Backup withholding.
+• Penalties.
+• Other general topics.
+Continuous use revision. Use these instructions for tax
+year 2025 and subsequent years until a superseding revision
+is issued.
+Online fillable forms. You may fill out the form, found online
+at IRS.gov/Form1097BTC, and send Copy B to the recipient.
+For filing with the IRS, follow the applicable procedures if you
+are required to file electronically, or, for this form only, if you
+are qualified to file on paper, send in the black-and-white
+copy A with Form 1096 that you print from the IRS website.
+
+Specific Instructions
+
+Issuers of certain tax credit bonds (or their agents) and
+recipients of Form 1097-BTC from the bond issuer or agent,
+such as mutual funds or partnerships, who are further
+distributing the credit must file Form 1097-BTC for each tax
+credit distributed from the following tax credit bonds.
+• New clean renewable energy bonds.
+• Qualified energy conservation bonds.
+• Qualified zone academy bonds.
+• Qualified school construction bonds.
+• Clean renewable energy bonds.
+• Build America bonds (Tax Credit).
+Filings of Form 1097-BTC with respect to a bond, by the
+issuer or the issuer's agent, must be made on a separate
+Form 1097-BTC for each bond.
+For tax credit bonds issued with two or more maturities,
+each maturity must be reported separately on the Form
+1097-BTC issued by the bond issuer or its agent.
+Nov 25, 2024
+
+Recipients of Form 1097-BTC from the bond issuer or
+agent, such as brokers, nominees, mutual funds, or
+partnerships, who are further distributing the credit must file
+only one Form 1097-BTC per recipient or account,
+aggregating credit from all applicable bonds.
+Note. Issuers that elected to issue build America bonds
+(Direct Pay) under section 54AA(g) or specified tax credit
+bonds under section 6431(f) to receive a refundable credit
+under section 6431(a) in lieu of tax credits under section 54A
+should not file Form 1097-BTC.
+
+Definitions
+Tax credit bond. Generally, a tax credit bond is an
+obligation issued under sections 54, 54A, 54AA, 1397E, or
+1400N(l) that entitles the taxpayer holding such bond on one
+or more credit allowance dates occurring during any tax year
+to a credit against the federal income tax imposed for that tax
+year.
+Public Law Number 115-97, 131 Stat. 2054 (2017),
+repealed sections 54, 54A-F, and 54AA effective for
+CAUTION bonds issued after December 31, 2017.
+
+!
+
+Qualified tax credit bond. Qualified tax credit bonds under
+section 54A include new clean renewable energy bonds
+under section 54C, qualified energy conservation bonds
+under section 54D, qualified zone academy bonds under
+section 54E, and qualified school construction bonds under
+section 54F.
+New clean renewable energy bond. An obligation issued
+before January 1, 2018, that is part of an issue, 100% of the
+available project proceeds of which are to be used for capital
+expenditures incurred by governmental bodies, public power
+providers, or cooperative electric companies for one or more
+qualified renewable energy facilities, as defined in section
+54C. The annual credit allowed is 70% of the annual credit
+amount determined by applying section 54A(b).
+Qualified energy conservation bond. An obligation issued
+before January 1, 2018, that is part of an issue, 100% of the
+available project proceeds of which are to be used for one or
+more qualified energy conservation purposes, as defined in
+section 54D. The annual credit allowed is 70% of the annual
+credit amount determined by applying section 54A(b).
+Qualified zone academy bond. An obligation issued
+before January 1, 2018, that is part of an issue, 100% of the
+available project proceeds of which are to be used for a
+qualified purpose with respect to a qualified zone academy
+established by an eligible local education agency, as
+provided in section 54E; or an obligation that is part of an
+issue, 95% or more of the proceeds of which are to be so
+used and issued before October 4, 2008, as provided in
+section 1397E.
+
+Instructions for Form 1097BTC (Rev. 4-2025) Catalog Number 54657F
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+Qualified school construction bond. An obligation issued
+before January 1, 2018, that is part of an issue, 100% of the
+available project proceeds of which are to be used for the
+construction, rehabilitation, or repair of a public school facility
+or for the acquisition of land on which such a facility is to be
+constructed with the proceeds, as provided in section 54F.
+Clean renewable energy bond. An obligation issued after
+December 31, 2005, and before January 1, 2010, that is part
+of an issue, 95% or more of the proceeds of which are used
+for capital expenditures incurred by qualified borrowers for
+one or more qualified projects, as defined in section 54.
+Build America bond (Tax Credit). An obligation issued
+after February 17, 2009, and before January 1, 2011, issued
+by a state or local government (excluding private activity
+bonds under section 141) as defined in section 54AA(d).
+
+Who Must Receive Form 1097-BTC
+
+Each person who is allowed a tax credit as a holder, directly
+or indirectly, of a tax credit bond or a stripped credit coupon
+on one or more credit allowance dates during the calendar
+year in an amount of at least $10 must be issued Form
+1097-BTC.
+
+Credit Allowance Dates
+
+The tax credit from tax credit bonds or stripped credit
+coupons is allowed on each credit allowance date for which
+the bond was outstanding or to which the stripped credit
+coupon corresponds. For qualified tax credit bonds and clean
+renewable energy bonds, the credit allowance dates are
+March 15, June 15, September 15, December 15, and the
+last day on which the bond is outstanding. For bonds issued
+during the 3-month period ending on a credit allowance date,
+the amount of the credit is determined ratably based on the
+portion of the 3-month period during which the bond is
+outstanding. The same ratable determination of credit applies
+when a bond is redeemed or matures. For build America
+bonds (Tax Credit), the credit allowance dates are the interest
+payment dates. For qualified zone academy bonds issued
+before October 4, 2008, the credit allowance date is the last
+day of the 1-year period beginning on the issue date of the
+bond and each anniversary of such day thereafter.
+
+Statement to Recipient
+
+If required to file Form 1097-BTC, you must furnish a
+statement to the recipient quarterly for each credit amount
+indicated on or before the 15th day of the 2nd calendar
+month after the close of the calendar quarter in which the
+credit was allowed.
+
+Quarterly Furnishing Dates
+Reporting period:
+
+To recipient (on or before):
+
+1 Quarter: January–March
+
+May 15*
+
+2nd Quarter: April–June
+
+August 15*
+
+3 Quarter: July–September
+
+November 15*
+
+Annual/4 Quarter: October–
+December
+
+February 15*
+
+st
+
+rd
+
+th
+
+*Dates may change due to weekends or holidays.
+
+For the first 3 quarters, report to the recipient only the
+amounts for the months of the applicable quarter. Box 1
+should not be completed and box 6 is optional.
+You are not required to furnish a separate report solely for
+the 4th quarter because the 4th quarter amounts are reported
+with the annual filing. For the annual filing, report the credits
+for each month in boxes 5a–5l; report the total of those
+amounts in box 1; and complete the rest of the form as
+applicable. Furnish the annual filing to the recipient by
+February 15, of the subsequent year.
+If any amounts previously furnished for the first 3 quarters
+need to be corrected, report the correct amounts for the
+annual reporting and explain the correction to the recipient;
+no explanation is required for the IRS filing.
+For the report furnished to the recipient (quarterly or
+annual), you may use Copy B or your own substitute
+statement reporting all the same applicable information (the
+reporting for the first 3 quarters may be furnished
+electronically). See Pub. 1179 for specific rules about
+providing substitute statements to recipients.
+
+The tax credit allowed to holders of any tax credit bonds or
+stripped credit coupons is treated as interest which is
+included in gross income and must be reported as interest
+income on a Form 1099-INT or Form 1099-OID, as
+applicable. For more information on reporting the tax credit
+treated as interest income paid from tax credit bonds, see the
+Instructions for Forms 1099-INT and 1099-OID.
+
+The IRS encourages Form 1097-BTC issuers to provide
+the credit information to the recipient monthly if applicable,
+and as soon after the end of the month in which a credit
+arises as possible.
+
+When To File
+
+Bond issuer. If issuing the Form 1097-BTC as an issuer of
+the bond or its agent, box 2a of the form will always reflect
+code “C” and box 2b must reflect the CUSIP number for the
+bond or stripped coupon, unless a CUSIP number was not
+issued for the bond. See the instructions for boxes 2a and 2b.
+
+For filing due dates, refer to the current General Instructions
+for Certain Information Returns. See Statement to Recipient,
+later, for furnishing statements to recipients.
+
+Penalties for Failure To File or Furnish
+
+There are penalties for failure to file correct information
+returns by the due date and for failure to furnish correct payee
+statements. See part O in the current General Instructions for
+Certain Information Returns for details. Failure to file Forms
+1097-BTC also includes failure to file electronically, when
+required. For more information on penalties for failure to file
+electronically, see part F in the current General Instructions
+for Certain Information Returns.
+
+2
+
+For more information about the requirement to furnish a
+statement to the recipient, see part M in the current General
+Instructions for Certain Information Returns.
+
+Form 1097-BTC Issuer's Name, Address, and
+Telephone Number
+
+Enter the name, street address, city or town, state or
+province, country, ZIP or foreign postal code, and telephone
+number of the entity issuing the Form 1097-BTC.
+Enter the entity's true name (as set forth in the legal
+documents creating it). Enter the address of the entity's
+principal office or place of business. Include the suite, room,
+or other unit number after the street address. If the post office
+Instructions for Form 1097-BTC (Rev. 4-2025)
+
+does not deliver mail to the street address and the entity has
+a P.O. box, show the box number instead.
+Note. Do not use the address of the registered agent for the
+state in which the entity is incorporated. For example, if a
+business is incorporated in Delaware or Nevada and the
+corporation's principal office is located in Little Rock, AR, the
+corporation should enter the Little Rock address.
+If the entity receives its mail in care of a third party (such
+as an accountant or an attorney), enter for the street address
+“C/O” followed by the third party's name and street address
+or P.O. box.
+
+Form 1097-BTC Issuer's TIN
+
+Enter the Form 1097-BTC issuer's TIN, such as an employer
+identification number (EIN). Do not truncate the Form
+1097-BTC issuer's TIN. An issuer that does not have an EIN
+should apply for one. See Form SS-4, Application for
+Employer Identification Number, and its separate
+instructions, available at IRS.gov. Applications can be
+submitted online, by phone, fax, or mail.
+
+Truncating Recipient's TIN on Recipient
+Statements
+
+Pursuant to Regulations section 301.6109-4, all filers of this
+form may truncate a recipient's TIN (social security number
+(SSN), employer identification number (EIN), individual
+taxpayer identification number (ITIN), or adoption taxpayer
+identification number (ATIN)) on recipient statements.
+Truncation is not allowed on any documents the filer files with
+the IRS. A filer's TIN may not be truncated on any form. See
+part J in the current General Instructions for Certain
+Information Returns.
+
+Recipient's TIN
+
+Enter the TIN of the recipient of the distributed (or stripped)
+credit from the tax credit bond. Do not truncate the recipient's
+TIN on the form filed with the IRS. Truncation of the
+recipient's TIN is allowed on the statement to the recipient.
+See the current General Instructions for Certain Information
+Returns.
+
+Recipient's Name
+
+Enter the name of the recipient of the distributed (or stripped)
+credit from the tax credit bond. If not an individual, enter the
+entity's true name (as set forth in the legal documents
+creating it).
+
+Recipient's Street Address (Including Apt. No.)
+
+Enter the street address, city or town, state or province,
+country, and ZIP or foreign postal code of the recipient's
+principal residence, office, or place of business. Include the
+apartment, suite, room, or other unit number after the street
+address. If the post office does not deliver mail to the street
+address and the entity has a P.O. box, show the box number
+instead.
+Note. Do not use the address of the registered agent for the
+state in which the recipient is incorporated.
+If the recipient receives its mail in care of a third party
+(such as an accountant or an attorney), enter for the street
+address “C/O” followed by the third party's name and street
+address or P.O. box.
+Check, as applicable, whether you are the issuer of the
+bond (or its agent) filing the Form 1097-BTC for the bond, or
+Instructions for Form 1097-BTC (Rev. 4-2025)
+
+are an entity or a person that received or should have
+received a Form 1097-BTC for credit(s) that was or should
+have been reported and that is distributing part or all of that
+credit to others.
+
+Box 1. Total
+
+Enter the total amount of credits distributed to the recipient
+with respect to the amounts reported in boxes 5a–5l for the
+calendar year.
+This box should be only filled out when filing Copy A and
+when the annual statement (Copy B of the form) is sent to the
+recipient. See Statement to Recipient, earlier.
+
+Box 2a. Code
+
+Enter the unique identification number code. Enter “C” for
+CUSIP number, “A” for account number, and “O” if the unique
+identification number is not an account number or a CUSIP
+number, such as a self-provided identification number. If you
+checked the first box under Form 1097-BTC issuer, and a
+CUSIP number is assigned to the bond(s), enter “C.” If no
+CUSIP number is assigned to the bond(s), and you checked
+the first box under Form 1097-BTC issuer, use the account
+number as the unique identifier and enter “A” or “O” if you are
+using any other unique identifying number. See Box 2b.
+Unique Identifier next.
+
+Box 2b. Unique Identifier
+
+The unique identification number is assigned by the Form
+1097-BTC issuer and is limited to 39 alphanumeric
+characters. It can be the CUSIP number, account number, or
+any other unique identification number by which you track the
+bond transactions.
+
+For a bond issuer (or its agent) filing Form 1097-BTC for a
+bond, the unique identification number must start with the
+CUSIP number(s), if available, and may be expanded by the
+account number or any other self-provided number(s). If a
+CUSIP number was not issued for the bond, the bond issuer
+may use or devise its own unique identifier, preferably the
+account number or other reference number by which you
+track and account for the bond transaction. A recipient of a
+Form 1097-BTC that issues its own Form 1097-BTC to further
+distribute the credit may use or devise its own unique
+identifier using whatever means it deems best.
+
+Box 3. Bond Type
+
+Enter code “101” for clean renewable energy bonds issued
+under section 54. Enter code “199” for all other bonds.
+Multiple bond types can be entered on one Form
+
+TIP 1097-BTC, other than clean renewable energy
+
+bonds. Credits from clean renewable energy bonds
+must be reported on a separate Form 1097-BTC.
+
+Box 4
+
+Reserved.
+
+Boxes 5a–5l
+
+Enter the amount of credit allowed for each month during the
+calendar year, calculated by using STEPS 1 and 2, following.
+STEP 1. For each recipient, multiply the outstanding face
+amount of the qualified tax credit bond, clean renewable
+energy bond, or qualified zone academy bond issued before
+October 4, 2008, by the applicable credit rate. The
+outstanding face amount of the bond is the face amount of
+3
+
+the bond minus any principal that has been paid. The credit
+rate for the qualified tax credit bond, clean renewable energy
+bond, or qualified zone academy bond issued before October
+4, 2008, is the rate published on the Treasury Direct website
+under “IRS Tax Credit Bond Rates” at TreasuryDirect.gov/
+govt/rates/rates_irstcb.htm for the first day on which there is a
+binding contract, in writing, for the sale or exchange of the
+bond.
+The credit rate for qualified zone academy bonds issued
+before July 1, 1999, is 110% (1.10) of the long-term
+applicable federal rate (AFR), compounded annually, for the
+month and year the bond is issued. The IRS announces the
+long-term AFR monthly in a series of revenue rulings
+published in the Internal Revenue Bulletin.
+For build America bonds (Tax Credit), multiply by 35%
+(0.35) the amount of interest payable with respect to the
+interest payment date for which you are filing Form 1097-BTC
+or sending a statement to the credit recipient. Enter the credit
+amount so determined in boxes 5a–5l for the month in which
+the interest payment date occurred. Thus, if the interest
+payment dates for a build America bond are June 30 and
+December 31, enter the credit amounts in boxes 5f and 5l.
+For qualified zone academy bonds issued before October
+4, 2008, enter the amount so determined in the box 5 that
+corresponds to the credit allowance date. When filing the
+annual Form 1097-BTC with the IRS, enter the same amount
+in box 1.
+STEP 2. For qualified tax credit bonds or clean renewable
+energy bonds only, multiply the credit amount so determined
+in STEP 1 by 25% (0.25) for each credit allowance date you
+hold a qualified tax credit bond or clean renewable energy
+bond during your tax year. Enter the credit amount
+determined in STEP 2 in the box for the month in which the
+credit allowance date occurred.
+Example 1. You issued a qualified energy conservation
+bond on March 15, 2017. For the Form 1097-BTC statement
+for the March 15, 2025, credit allowance date, due to the
+recipient by May 15, 2025, you would enter 25% (0.25) of the
+amount computed in STEP 1 in box 5c. For the Form
+1097-BTC statement for the June 15, 2025, credit allowance
+date, due to the recipient by August 15, 2025, you would
+enter 25% (0.25) of the amount computed in STEP 1 in
+box 5f. For the Form 1097-BTC statement for the September
+15, 2025, credit allowance date, due to the recipient by
+November 17, 2025, you would enter 25% (0.25) of the
+amount computed in STEP 1 in box 5i. For the annual Form
+1097-BTC and December 15, 2025, credit allowance date,
+due to the recipient by February 16, 2026, and to the IRS by
+March 2, 2026 (March 31, 2026, if filed electronically), enter
+25% (0.25) of the credit amount determined in STEP 1 in
+box 5l and 100% (1.0) of the credit amount determined in
+STEP 1 in box 1.
+
+4
+
+However, the 25% will be prorated for any credit allowance
+date if a clean renewable energy bond or qualified tax credit
+bond is issued, redeemed, or matures during the 3-month
+period ending on a credit allowance date with respect to
+which you are reporting the credit. The percentage of credit
+allowed for that credit allowance date is prorated for the
+number of days the bond was outstanding during the 3-month
+period.
+See Caution regarding the repeal of sections 54, 54A, and
+54AA, earlier.
+Example 2. A qualified zone academy bond that you
+issued matures on March 23, 2025. Since the bond was not
+outstanding for the entire 3-month period on June 15, 2025,
+the prorated portion of the 25% is figured by dividing (a) the
+number of days the bond was outstanding beginning on the
+day after the prior (March 15) credit allowance date and
+ending on March 23, 2025, by (b) the number of days
+included in the 3-month period beginning on the day after the
+prior (March 15) credit allowance date and ending on the next
+(June 15) credit allowance date. See Proration Calculation
+below.
+
+Proration Calculation
+8 days (number of days from March
+16 through March 23)
+92 days (number of days from
+March 16 through June 15)
+
+= 0.087 x 0.25 = 2% (0.02)
+
+Thus, for the credit allowance date with respect to the
+3-month period in which the bond matures, you would
+multiply the credit amount determined in STEP 1 by the
+prorated percentage. In Example 2, for the 2nd quarter
+reporting period for 2025, due to the recipient by August 17,
+2026, you would enter the amount determined by multiplying
+2% (0.02) with the credit amount determined in STEP 1 in
+box 5f. You would carry the same percentage to the Total
+annual credit reported in box 1 for the annual/4th quarter
+reporting period filed with the IRS and sent to the recipient.
+Thus, in Example 2, you would enter in box 1 “27%” (0.27) of
+the amount determined in STEP 1.
+Note. For new clean renewable energy bonds issued under
+section 54C and qualified energy conservation bonds issued
+under section 54D, report the credit amount after the 70%
+limit has been applied.
+
+Box 6. Comments
+
+Enter any additional information.
+
+Instructions for Form 1097-BTC (Rev. 4-2025)
+
+

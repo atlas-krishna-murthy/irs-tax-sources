@@ -1,0 +1,2222 @@
+{
+  "document": {
+    "id": "1095-C",
+    "title": "Employer-Provided Health Insurance Offer and Coverage",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form 1095-C (2025), Created 5/21/25",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1095c--2025.pdf",
+    "issued_by": "applicable large employers",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Name of employee (first name, middle initial, last name)",
+        "type": "text"
+      },
+      {
+        "box": "2",
+        "label": "Social security number (SSN)",
+        "type": "tin"
+      },
+      {
+        "box": "17",
+        "label": "ZIP Code",
+        "type": "text"
+      },
+      {
+        "box": "18-30",
+        "label": "Part III Covered Individuals \u2014 name, SSN/TIN, date of birth, covered all 12 months, and months of coverage",
+        "type": "text"
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED",
+        "type": "checkbox",
+        "note": "A corrected form REPLACES the one it corrects for the same account: the two are never both counted. Which copy stands is a person's call, made by reading the two side by side."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "note": "Printed on Copy A (the IRS's copy) only; a recipient's copy carries no VOID box. Declared so a Copy A that reaches the packet is recognised for what it is - a form that reports nothing."
+      },
+      {
+        "box": "3",
+        "label": "Street address (including apartment no.)",
+        "type": "text"
+      },
+      {
+        "box": "4",
+        "label": "City or town",
+        "type": "text"
+      },
+      {
+        "box": "5",
+        "label": "State or province",
+        "type": "text"
+      },
+      {
+        "box": "6",
+        "label": "Country and ZIP or foreign postal code",
+        "type": "text"
+      },
+      {
+        "box": "7",
+        "label": "Name of employer",
+        "type": "text"
+      },
+      {
+        "box": "8",
+        "label": "Employer identification number (EIN)",
+        "type": "tin"
+      },
+      {
+        "box": "9",
+        "label": "Street address (including room or suite no.)",
+        "type": "text"
+      },
+      {
+        "box": "10",
+        "label": "Contact telephone number",
+        "type": "text"
+      },
+      {
+        "box": "11",
+        "label": "City or town",
+        "type": "text"
+      },
+      {
+        "box": "12",
+        "label": "State or province",
+        "type": "text"
+      },
+      {
+        "box": "13",
+        "label": "Country and ZIP or foreign postal code",
+        "type": "text"
+      },
+      {
+        "box": "employee-age-on-january-1",
+        "label": "Employee's Age on January 1",
+        "type": "count"
+      },
+      {
+        "box": "plan-start-month",
+        "label": "Plan Start Month (enter 2-digit number):",
+        "type": "text"
+      },
+      {
+        "box": "14-all-12-months",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The All 12 Months cell: filled instead of the twelve monthly cells when one answer holds for every month.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-all-12-months",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The All 12 Months cell: filled instead of the twelve monthly cells when one answer holds for every month."
+      },
+      {
+        "box": "16-all-12-months",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The All 12 Months cell: filled instead of the twelve monthly cells when one answer holds for every month.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "14-jan",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The Jan cell of the line.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-jan",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The Jan cell of the line."
+      },
+      {
+        "box": "16-jan",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The Jan cell of the line.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "14-feb",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The Feb cell of the line.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-feb",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The Feb cell of the line."
+      },
+      {
+        "box": "16-feb",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The Feb cell of the line.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "14-mar",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The Mar cell of the line.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-mar",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The Mar cell of the line."
+      },
+      {
+        "box": "16-mar",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The Mar cell of the line.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "14-apr",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The Apr cell of the line.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-apr",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The Apr cell of the line."
+      },
+      {
+        "box": "16-apr",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The Apr cell of the line.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "14-may",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The May cell of the line.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-may",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The May cell of the line."
+      },
+      {
+        "box": "16-may",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The May cell of the line.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "14-june",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The June cell of the line.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-june",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The June cell of the line."
+      },
+      {
+        "box": "16-june",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The June cell of the line.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "14-july",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The July cell of the line.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-july",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The July cell of the line."
+      },
+      {
+        "box": "16-july",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The July cell of the line.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "14-aug",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The Aug cell of the line.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-aug",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The Aug cell of the line."
+      },
+      {
+        "box": "16-aug",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The Aug cell of the line.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "14-sept",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The Sept cell of the line.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-sept",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The Sept cell of the line."
+      },
+      {
+        "box": "16-sept",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The Sept cell of the line.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "14-oct",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The Oct cell of the line.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-oct",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The Oct cell of the line."
+      },
+      {
+        "box": "16-oct",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The Oct cell of the line.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "14-nov",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The Nov cell of the line.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-nov",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The Nov cell of the line."
+      },
+      {
+        "box": "16-nov",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The Nov cell of the line.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "14-dec",
+        "label": "Offer of Coverage (enter required code)",
+        "type": "code",
+        "note": "The Dec cell of the line.",
+        "codes": [
+          {
+            "code": "1A",
+            "label": "Minimum essential coverage providing minimum value offered to you with an employee required contribution for self-only coverage equal to or less than 9.5% (as adjusted) of the 48 contiguous states single federal poverty line and minimum essential coverage offered to your spouse and dependent(s)"
+          },
+          {
+            "code": "1B",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage NOT offered to your spouse or dependent(s)."
+          },
+          {
+            "code": "1C",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) but NOT your spouse."
+          },
+          {
+            "code": "1D",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your spouse but NOT your dependent(s)."
+          },
+          {
+            "code": "1E",
+            "label": "Minimum essential coverage providing minimum value offered to you and minimum essential coverage offered to your dependent(s) and spouse."
+          },
+          {
+            "code": "1F",
+            "label": "Minimum essential coverage NOT providing minimum value offered to you, or you and your spouse or dependent(s), or you, your spouse, and dependent(s)."
+          },
+          {
+            "code": "1G",
+            "label": "You were NOT a full-time employee for any month of the calendar year but were enrolled in self-insured employer-sponsored coverage for one or more months of the calendar year."
+          },
+          {
+            "code": "1H",
+            "label": "No offer of coverage (you were NOT offered any health coverage or you were offered coverage that is NOT minimum essential coverage)."
+          },
+          {
+            "code": "1I",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1J",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage NOT offered to your dependent(s)."
+          },
+          {
+            "code": "1K",
+            "label": "Minimum essential coverage providing minimum value offered to you; minimum essential coverage conditionally offered to your spouse; and minimum essential coverage offered to your dependent(s)."
+          },
+          {
+            "code": "1L",
+            "label": "Individual coverage health reimbursement arrangement (HRA) offered to you only with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1M",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1N",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) with affordability determined by using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1O",
+            "label": "Individual coverage HRA offered to you only using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1P",
+            "label": "Individual coverage HRA offered to you and dependent(s) (not spouse) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1Q",
+            "label": "Individual coverage HRA offered to you, spouse, and dependent(s) using the employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1R",
+            "label": "Individual coverage HRA that is NOT affordable offered to you; employee and spouse or dependent(s); or employee, spouse, and dependents."
+          },
+          {
+            "code": "1S",
+            "label": "Individual coverage HRA offered to an individual who was not a full-time employee."
+          },
+          {
+            "code": "1T",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) with affordability determined using employee's primary residence ZIP code."
+          },
+          {
+            "code": "1U",
+            "label": "Individual coverage HRA offered to employee and spouse (no dependents) using employee's primary employment site ZIP code affordability safe harbor."
+          },
+          {
+            "code": "1V",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1W",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1X",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Y",
+            "label": "Reserved for future use."
+          },
+          {
+            "code": "1Z",
+            "label": "Reserved for future use."
+          }
+        ]
+      },
+      {
+        "box": "15-dec",
+        "label": "Employee Required Contribution (see instructions)",
+        "type": "money",
+        "note": "The Dec cell of the line."
+      },
+      {
+        "box": "16-dec",
+        "label": "Section 4980H Safe Harbor and Other Relief (enter code, if applicable)",
+        "type": "code",
+        "note": "The Dec cell of the line.",
+        "codes": [
+          {
+            "code": "2A",
+            "label": "Employee not employed during the month."
+          },
+          {
+            "code": "2B",
+            "label": "Employee not a full-time employee."
+          },
+          {
+            "code": "2C",
+            "label": "Employee enrolled in health coverage offered."
+          },
+          {
+            "code": "2D",
+            "label": "Employee in a section 4980H(b) Limited Non-Assessment Period."
+          },
+          {
+            "code": "2E",
+            "label": "Multiemployer interim rule relief."
+          },
+          {
+            "code": "2F",
+            "label": "Section 4980H affordability Form W-2 safe harbor."
+          },
+          {
+            "code": "2G",
+            "label": "Section 4980H affordability federal poverty line safe harbor."
+          },
+          {
+            "code": "2H",
+            "label": "Section 4980H affordability rate of pay safe harbor."
+          },
+          {
+            "code": "2I",
+            "label": "Reserved for future use."
+          }
+        ]
+      }
+    ],
+    "notes": "Produces NO figure on any federal line. Line 15 (employee required contribution) bears on whether an employer offer was affordable, which in turn bears on eligibility for the premium tax credit on Form 8962 \u2014 but that is an eligibility test, not a routed figure, and no line of Form 8962 reads a box of Form 1095-C. See reportability.form-1095c-is-informational."
+  },
+  "extraction": {
+    "model": null,
+    "note": "Azure ships no prebuilt-tax model for this form; read generically."
+  }
+}

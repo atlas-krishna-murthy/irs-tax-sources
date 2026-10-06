@@ -1,0 +1,48 @@
+{
+  "rule": {
+    "id": "e-ch-04",
+    "title": "A gift of $250 or more needs a contemporaneous written acknowledgment",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-charitable-contribution-records.gifts_by_cash_or_check",
+        "taxpayer-charitable-contribution-records.gifts_other_than_by_cash_or_check"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-a-gift-of-250-or-more-without-a-contemporaneous-written-acknowledgment"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-a-gift-of-250-or-more-without-a-contemporaneous-written-acknowledgment",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this a single gift of $250 or more (separate donations are not combined) for which the taxpayer has no contemporaneous written acknowledgment from the charity?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "Gifts of $250 or more",
+      "revision": "2025",
+      "wording": "You can deduct a gift of $250 or more only if you have a contemporaneous written acknowledgment from the charitable organization showing the information in (1) and (2) next.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "research_ids": [
+      "e-ch-04"
+    ]
+  }
+}

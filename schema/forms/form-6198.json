@@ -1,0 +1,155 @@
+{
+  "form": {
+    "id": "form-6198",
+    "form": "Form 6198",
+    "title": "At-Risk Limitations",
+    "kind": "form",
+    "revision": "Rev. November 2025",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f6198.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i6198",
+    "lines": [
+      {
+        "line": "description",
+        "caption": "Description of activity (see instructions)",
+        "type": "text"
+      },
+      {
+        "line": "1",
+        "caption": "Ordinary income (loss) from the activity (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "2a",
+        "caption": "Gain (loss) from the sale or other disposition of assets used in the activity (or of your interest in the activity) that you are reporting on: Schedule D",
+        "type": "money"
+      },
+      {
+        "line": "2b",
+        "caption": "Gain (loss) from the sale or other disposition of assets used in the activity (or of your interest in the activity) that you are reporting on: Form 4797",
+        "type": "money"
+      },
+      {
+        "line": "2c",
+        "caption": "Gain (loss) from the sale or other disposition of assets used in the activity (or of your interest in the activity) that you are reporting on: Other form or schedule",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Other income and gains from the activity, from Schedule K-1 (Form 1065) or Schedule K-1 (Form 1120-S), that were not included on lines 1 through 2c",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Other deductions and losses from the activity, including investment interest expense allowed from Form 4952, that were not included on lines 1 through 2c",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Current year profit (loss) from the activity. Combine lines 1 through 4. See the instructions before completing the rest of this form",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Adjusted basis (as defined in section 1011) in the activity (or in your interest in the activity) on the first day of the tax year. Do not enter less than zero",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Increases for the tax year (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Add lines 6 and 7",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Decreases for the tax year (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "10a",
+        "caption": "Subtract line 9 from line 8",
+        "type": "money"
+      },
+      {
+        "line": "10b",
+        "caption": "If line 10a is more than zero, enter that amount here and go to line 20 (or complete Part III). Otherwise, enter -0- and see Pub. 925 for information on the recapture rules",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Investment in the activity (or in your interest in the activity) at the effective date. Do not enter less than zero",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Increases at effective date",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Add lines 11 and 12",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Decreases at effective date",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Amount at risk (check box that applies): a At effective date. Subtract line 14 from line 13. Do not enter less than zero. b From your prior year Form 6198, line 19b. Do not enter the amount from line 10b of your prior year form.",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Increases since (check box that applies): a Effective date b The end of your prior year",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Add lines 15 and 16",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "Decreases since (check box that applies): a Effective date b The end of your prior year",
+        "type": "money"
+      },
+      {
+        "line": "19a",
+        "caption": "Subtract line 18 from line 17",
+        "type": "money"
+      },
+      {
+        "line": "19b",
+        "caption": "If line 19a is more than zero, enter that amount here and go to line 20. Otherwise, enter -0- and see Pub. 925 for information on the recapture rules",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Amount at risk. Enter the larger of line 10b or line 19b",
+        "type": "money"
+      },
+      {
+        "line": "21",
+        "caption": "Deductible loss. Enter the smaller of the line 5 loss (treated as a positive number) or line 20. See the instructions to find out how to report any deductible loss and any carryover",
+        "type": "money",
+        "note": "Printed note on the form: \u201cIf the loss is from a passive activity, see the Instructions for Form 8582, Passive Activity Loss Limitations, or the Instructions for Form 8810, Corporate Passive Activity Loss and Credit Limitations, to find out if the loss is allowed under the passive activity rules. If only part of the loss is subject to the passive activity loss rules, report only that part on Form 8582 or Form 8810, whichever applies.\u201d That note is the ordering rule printed on a form: at-risk runs BEFORE passive.",
+        "computed_by_software": true
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "2",
+        "because": "the caption heading lines 2a-2c ('Gain (loss) from the sale or other disposition of assets used in the activity'); the three lines are declared"
+      },
+      {
+        "slot": "31",
+        "because": "'Attachment Sequence No. 31' in the form header"
+      }
+    ]
+  }
+}

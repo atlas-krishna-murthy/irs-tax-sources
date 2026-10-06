@@ -1,0 +1,44 @@
+{
+  "rule": {
+    "id": "v1-new-r6",
+    "title": "Disability benefits for injuries from a terrorist attack are not income, even if the SSA-1099 reports them",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "SSA-1099.5"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "ssdi-for-terrorist-attack-injuries"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "ssdi-for-terrorist-attack-injuries",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Benefits are not disability payments for terrorist-attack injuries unless a preparer says so"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 915",
+      "line": "Disability payments",
+      "revision": "2025",
+      "wording": "If these payments are incorrectly reported as taxable on Form SSA-1099, don't include the nontaxable portion of income on your tax return.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p915--2025.pdf"
+    }
+  }
+}

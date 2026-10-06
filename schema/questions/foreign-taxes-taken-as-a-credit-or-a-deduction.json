@@ -1,0 +1,29 @@
+{
+  "question": {
+    "id": "foreign-taxes-taken-as-a-credit-or-a-deduction",
+    "wording": "Does the taxpayer take this year's qualified foreign taxes as a foreign tax credit or as an itemized deduction?",
+    "scope": "engagement",
+    "options": [
+      {
+        "value": "credit",
+        "label": "Credit — Schedule 3 line 1"
+      },
+      {
+        "value": "deduction",
+        "label": "Deduction — Schedule A line 6"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 514",
+        "line": "Choosing To Take Credit or Deduction",
+        "revision": "2025",
+        "wording": "You can choose whether to take the amount of any qualified foreign taxes paid or accrued during the year as a foreign tax credit or as an itemized deduction.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p514--2025.pdf"
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rule": {
+    "id": "a-r-16",
+    "title": "An HSA funding distribution the taxpayer elects to exclude is not taxable",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-R.2a"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "retirement-distribution-was"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "retirement-distribution-was",
+        "is": "hfd_in_full"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "kept",
+      "because": "A distribution was kept unless a preparer says it was rolled over or was an HSA funding distribution"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1040",
+      "line": "Lines 4a and 4b, Exception 4",
+      "revision": "2025",
+      "wording": "If the total amount distributed is an HFD and you elect to exclude it from income",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "The sentence continues 'enter -0- on line 4b'. An HFD may be made once in a lifetime and is limited to the HSA contribution limit; whether it qualified is the preparer's answer."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "document": {
+    "id": "1099-LS",
+    "title": "Reportable Life Insurance Sale",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-LS (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099ls--2025.pdf",
+    "issued_by": "acquirer of a life insurance contract in a reportable policy sale",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "Marks this statement as correcting one already furnished for the same year."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a filer's mark, never a figure."
+      },
+      {
+        "box": "account-number",
+        "label": "Policy number",
+        "type": "identifier",
+        "notes": "The filer's own account number; identification only."
+      },
+      {
+        "box": "acquirer-tin",
+        "label": "ACQUIRER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "recipient-tin",
+        "label": "PAYMENT RECIPIENT\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "issuer-name",
+        "label": "Issuer\u2019s name",
+        "type": "text"
+      },
+      {
+        "box": "1",
+        "label": "Amount paid to payment recipient",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Date of sale",
+        "type": "date"
+      }
+    ],
+    "notes": "The face prints 'Policy number' where other 1099s print an account number; it is declared as the account-number mark. The gain on the sale is box 1 less the seller's basis, which the issuer reports on Form 1099-SB box 1; the gain's CHARACTER is not stated in any source in the library."
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

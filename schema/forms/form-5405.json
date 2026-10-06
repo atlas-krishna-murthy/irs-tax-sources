@@ -1,0 +1,38 @@
+{
+  "form": {
+    "id": "form-5405",
+    "form": "Form 5405",
+    "title": "Repayment of the First-Time Homebuyer Credit",
+    "kind": "form",
+    "revision": "Rev. November 2024",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f5405.pdf",
+    "instructions_url": null,
+    "lines": [
+      {
+        "line": "5",
+        "caption": "Enter the amount of the credit you repaid with your tax returns for the years 2010 through 2023",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Amount of the credit to be repaid. See instructions",
+        "type": "money"
+      }
+    ],
+    "notes": "TERMINATED FOR 2025. The current revision is Rev. November 2024 and its own line 8 instruction reads \"Enter the amount from line 8 on your 2024 Schedule 2 (Form 1040), line 10.\" On the 2025 Schedule 2, line 10 is \"Reserved for future use\", and irs-prior/f5405--2025.pdf returns 404. The 15-year repayment of the 2008 credit ran with the 2010 through 2024 returns, so TY2024 carried the final installment.",
+    "face_not_boxes": [
+      {
+        "slot": "2",
+        "because": "'your 2024 Schedule 2 (Form 1040), line 10' in Part II's 'Next:' instruction \u2014 a reference, not a line of Form 5405"
+      },
+      {
+        "slot": "3f",
+        "because": "'the box on line 3f (instead of the box on line 3a)' \u2014 a reference to the 2008 Form 5405 in the Part II instructions printed with the form, not a line of this form"
+      },
+      {
+        "slot": "58",
+        "because": "'Attachment Sequence No. 58' in the form header, not a line"
+      }
+    ]
+  }
+}

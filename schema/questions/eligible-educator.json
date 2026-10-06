@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "eligible-educator",
+    "wording": "Was the taxpayer (or spouse) an eligible educator in 2025 \u2014 a K-12 teacher, instructor, counselor, principal or aide who worked in a school for at least 900 hours during a school year?",
+    "scope": "engagement",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes"
+      },
+      {
+        "value": "no",
+        "label": "No"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "yes",
+      "because": "A client who records educator expenses is an eligible educator unless a preparer says otherwise"
+    },
+    "basis": {
+      "citation": {
+        "form": "Schedule 1 (Form 1040)",
+        "line": "11",
+        "revision": "2025",
+        "wording": "An eligible educator is a kindergarten through grade 12 teacher, instructor, counselor, principal, or aide who worked in a school for at least 900 hours during a school year.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "ssdi-for-terrorist-attack-injuries",
+    "wording": "Are the disability benefits on this Form SSA-1099 paid for injuries incurred as a direct result of a terrorist attack directed against the United States or its allies?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 all of them; not income"
+      },
+      {
+        "value": "no",
+        "label": "No"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Benefits are not disability payments for terrorist-attack injuries unless a preparer says so"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 915",
+        "line": "Disability payments",
+        "revision": "2025",
+        "wording": "are generally not included in income if they are for injuries incurred as a direct result of a terrorist attack directed against the United States or its allies.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p915--2025.pdf"
+      }
+    }
+  }
+}

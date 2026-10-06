@@ -1,0 +1,221 @@
+{
+  "scope": [
+    {
+      "id": "farm",
+      "decision": "farm",
+      "decided": "2026-09-30 (spec 076; restated in spec 080 Clarifications)",
+      "because": "Farm is out of scope by decision: Schedule F and Form 4835. A farm figure is shown as a reference row and placed nowhere.",
+      "covers": [
+        "schedule-f",
+        "form-4835"
+      ],
+      "findings": [
+        "F-135",
+        "F-247",
+        "F-298"
+      ]
+    },
+    {
+      "id": "state",
+      "decision": "state",
+      "decided": "2026-10-03 (spec 080 Clarifications)",
+      "because": "State returns are out of scope beyond showing state withholding. A state box is shown as a reference row, never placed on a federal line.",
+      "covers": [],
+      "findings": [
+        "F-014",
+        "F-046",
+        "F-052",
+        "F-147",
+        "F-150"
+      ]
+    },
+    {
+      "id": "nonresident-and-territorial",
+      "decision": "nonresident-and-territorial",
+      "decided": "2026-10-03 (spec 080 Clarifications)",
+      "because": "Nonresident and territorial returns (1040-NR, 1040-PR, 1040-SS, 1040-C) are out of scope.",
+      "covers": [
+        "f1040nr",
+        "f1040pr",
+        "f1040ss",
+        "f1040c",
+        "f4563",
+        "f8898"
+      ],
+      "findings": [
+        "F-475"
+      ]
+    },
+    {
+      "id": "schedule-j-income-averaging",
+      "decision": "schedule-j-income-averaging",
+      "decided": "2026-10-03 (spec 080 Clarifications)",
+      "because": "Schedule J income averaging is out of scope.",
+      "covers": [
+        "f1040sj"
+      ],
+      "findings": [
+        "F-476"
+      ]
+    },
+    {
+      "id": "credit-internals",
+      "decision": "credit-internals",
+      "decided": "2026-10-03 (spec 080 Clarifications)",
+      "because": "The internals of credit and other computation forms are out of scope: the sheet lists a credit's printed inputs and never works the credit form.",
+      "covers": [
+        "f3468",
+        "f4136",
+        "f4255",
+        "f5884",
+        "f5884a",
+        "f6478",
+        "f6765",
+        "f7210",
+        "f7211",
+        "f7213",
+        "f7218",
+        "f8582cr",
+        "f8586",
+        "f8611",
+        "f8820",
+        "f8826",
+        "f8830",
+        "f8834",
+        "f8835",
+        "f8844",
+        "f8845",
+        "f8846",
+        "f8859",
+        "f8864",
+        "f8874",
+        "f8874b",
+        "f8881",
+        "f8882",
+        "f8896",
+        "f8900",
+        "f8904",
+        "f8906",
+        "f8908",
+        "f8923",
+        "f8932",
+        "f8933",
+        "f8941",
+        "f8994"
+      ],
+      "findings": [
+        "F-153",
+        "F-206",
+        "F-423",
+        "F-424",
+        "F-425",
+        "F-428",
+        "F-429",
+        "F-430",
+        "F-431",
+        "F-432",
+        "F-433",
+        "F-434",
+        "F-435",
+        "F-438",
+        "F-439",
+        "F-440",
+        "F-444",
+        "F-445",
+        "F-447",
+        "F-448",
+        "F-449",
+        "F-450",
+        "F-451",
+        "F-452",
+        "F-453",
+        "F-454",
+        "F-456",
+        "F-457",
+        "F-458",
+        "F-459",
+        "F-460",
+        "F-461",
+        "F-462",
+        "F-463",
+        "F-464",
+        "F-465",
+        "F-466",
+        "F-467",
+        "F-468",
+        "F-469",
+        "F-472"
+      ]
+    },
+    {
+      "id": "2439-basis",
+      "decision": null,
+      "decided": "2026-10-03 (spec 080 T052)",
+      "because": "'Add to the basis of your stock the excess of the amount included in income over the amount of the credit for the tax paid' (i1040sd) adjusts the shareholder's basis record for a later sale; no 2025 line carries it, so there is no computation to register \u2014 it is basis bookkeeping outside this return.",
+      "covers": [],
+      "findings": [
+        "F-134"
+      ]
+    },
+    {
+      "id": "f4970",
+      "decision": null,
+      "decided": "2026-10-03 (spec 080 T052)",
+      "because": "Form 4970 taxes an accumulation distribution from a trust using the trust's Schedule J (Form 1041) information, which no declared document carries (Schedule K-1 (Form 1041) has no accumulation-distribution box). Rare; out of this product's intake.",
+      "covers": [
+        "f4970"
+      ],
+      "findings": [
+        "F-426"
+      ]
+    },
+    {
+      "id": "f8621",
+      "decision": null,
+      "decided": "2026-10-03 (spec 080 T052)",
+      "because": "Form 8621 (PFIC/QEF) needs the fund's PFIC Annual Information Statement, which is not a declared document; declaring it would invent boxes. Schedule 2 lines 17p/17q stay unproduced.",
+      "covers": [
+        "f8621"
+      ],
+      "findings": [
+        "F-441"
+      ]
+    },
+    {
+      "id": "f8697",
+      "decision": null,
+      "decided": "2026-10-03 (spec 080 T052)",
+      "because": "Form 8697 look-back interest is figured from contract-level income forecasts the partnership supplies on a statement (K-1 1065 20.J, 1120-S 17.I); not a figure this product prepares.",
+      "covers": [
+        "f8697"
+      ],
+      "findings": [
+        "F-442"
+      ]
+    },
+    {
+      "id": "f8873",
+      "decision": null,
+      "decided": "2026-10-03 (spec 080 T052)",
+      "because": "Form 8873 (extraterritorial income exclusion) is a repealed regime; the library's revision is December 2010. K-1 1041 14.G keeps its reference row.",
+      "covers": [
+        "f8873"
+      ],
+      "findings": [
+        "F-455"
+      ]
+    },
+    {
+      "id": "f965a",
+      "decision": null,
+      "decided": "2026-10-03 (spec 080 T052)",
+      "because": "Form 965-A (section 965 transition-tax installments, Rev. January 2021) is a legacy election schedule fed from earlier returns; no document in this product carries it. Schedule 2 line 20 stays unproduced.",
+      "covers": [
+        "f965a"
+      ],
+      "findings": [
+        "F-474"
+      ]
+    }
+  ]
+}

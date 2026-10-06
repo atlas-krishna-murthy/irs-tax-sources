@@ -1,0 +1,327 @@
+{
+  "layout": {
+    "sections": [
+      "decision",
+      "income",
+      "adjustments",
+      "deductions",
+      "taxes",
+      "credits",
+      "payments",
+      "reference"
+    ],
+    "subsections": {
+      "decision": [],
+      "income": [
+        "wages",
+        "interest",
+        "dividends",
+        "capital_gains",
+        "retirement",
+        "schedule_c",
+        "schedule_e_rentals",
+        "schedule_e_k1",
+        "other_income"
+      ],
+      "adjustments": [],
+      "deductions": [
+        "schedule_a",
+        "qbi_inputs",
+        "schedule_1a_inputs"
+      ],
+      "taxes": [
+        "placed",
+        "inputs"
+      ],
+      "credits": [],
+      "payments": [
+        "federal_withholding",
+        "estimates",
+        "other_payments",
+        "state"
+      ],
+      "reference": [
+        "informational",
+        "not_mapped",
+        "prior_year_input",
+        "held"
+      ]
+    },
+    "rail": [
+      {
+        "key": "wages",
+        "opens": [
+          {
+            "section": "income",
+            "subsection": "wages"
+          }
+        ]
+      },
+      {
+        "key": "interest",
+        "opens": [
+          {
+            "section": "income",
+            "subsection": "interest"
+          }
+        ]
+      },
+      {
+        "key": "dividends",
+        "opens": [
+          {
+            "section": "income",
+            "subsection": "dividends"
+          }
+        ]
+      },
+      {
+        "key": "brokerage",
+        "opens": [
+          {
+            "section": "income",
+            "subsection": "capital_gains"
+          }
+        ]
+      },
+      {
+        "key": "retirement",
+        "opens": [
+          {
+            "section": "income",
+            "subsection": "retirement"
+          }
+        ]
+      },
+      {
+        "key": "schedule_c",
+        "opens": [
+          {
+            "section": "income",
+            "subsection": "schedule_c"
+          }
+        ]
+      },
+      {
+        "key": "schedule_e",
+        "opens": [
+          {
+            "section": "income",
+            "subsection": "schedule_e_rentals"
+          },
+          {
+            "section": "income",
+            "subsection": "schedule_e_k1"
+          }
+        ]
+      },
+      {
+        "key": "itemized",
+        "opens": [
+          {
+            "section": "deductions",
+            "subsection": "schedule_a"
+          }
+        ]
+      },
+      {
+        "key": "other_income",
+        "opens": [
+          {
+            "section": "income",
+            "subsection": "other_income"
+          },
+          {
+            "section": "income",
+            "subsection": ""
+          }
+        ]
+      },
+      {
+        "key": "payments",
+        "opens": [
+          {
+            "section": "payments",
+            "subsection": null
+          },
+          {
+            "section": "taxes",
+            "subsection": null
+          },
+          {
+            "section": "credits",
+            "subsection": null
+          }
+        ]
+      },
+      {
+        "key": "reference",
+        "opens": [
+          {
+            "section": "reference",
+            "subsection": null
+          },
+          {
+            "section": "deductions",
+            "subsection": "qbi_inputs"
+          },
+          {
+            "section": "deductions",
+            "subsection": "schedule_1a_inputs"
+          },
+          {
+            "section": "deductions",
+            "subsection": ""
+          },
+          {
+            "section": "adjustments",
+            "subsection": null
+          }
+        ]
+      }
+    ],
+    "rail_main": 8,
+    "face": [
+      {
+        "pattern": "^1[a-z]$",
+        "section": "income",
+        "subsection": "wages"
+      },
+      {
+        "pattern": "^2[ab]$",
+        "section": "income",
+        "subsection": "interest"
+      },
+      {
+        "pattern": "^3[ab]$",
+        "section": "income",
+        "subsection": "dividends"
+      },
+      {
+        "pattern": "^[456][ab]$",
+        "section": "income",
+        "subsection": "retirement"
+      },
+      {
+        "pattern": "^7a?$",
+        "section": "income",
+        "subsection": "capital_gains"
+      },
+      {
+        "pattern": "^[89]$",
+        "section": "income",
+        "subsection": "other_income"
+      },
+      {
+        "pattern": "^1[01][ab]?$",
+        "section": "adjustments",
+        "subsection": ""
+      },
+      {
+        "pattern": "^12[a-e]?$",
+        "section": "deductions",
+        "subsection": "schedule_a"
+      },
+      {
+        "pattern": "^13a$",
+        "section": "deductions",
+        "subsection": "qbi_inputs"
+      },
+      {
+        "pattern": "^13b$",
+        "section": "deductions",
+        "subsection": "schedule_1a_inputs"
+      },
+      {
+        "pattern": "^1[45]$",
+        "section": "deductions",
+        "subsection": ""
+      },
+      {
+        "pattern": "^(16|17|18|22|23|24)$",
+        "section": "taxes",
+        "subsection": "placed"
+      },
+      {
+        "pattern": "^(19|20|21|27a|28|29|30)$",
+        "section": "credits",
+        "subsection": ""
+      },
+      {
+        "pattern": "^25[a-d]$",
+        "section": "payments",
+        "subsection": "federal_withholding"
+      },
+      {
+        "pattern": "^26$",
+        "section": "payments",
+        "subsection": "estimates"
+      },
+      {
+        "pattern": "^(31|32|33)$",
+        "section": "payments",
+        "subsection": "other_payments"
+      }
+    ],
+    "schedules": {
+      "schedule-a": {
+        "section": "deductions",
+        "subsection": "schedule_a"
+      },
+      "schedule-c": {
+        "section": "income",
+        "subsection": "schedule_c"
+      },
+      "schedule-d": {
+        "section": "income",
+        "subsection": "capital_gains"
+      },
+      "form-8949": {
+        "section": "income",
+        "subsection": "capital_gains"
+      },
+      "form-6781": {
+        "section": "income",
+        "subsection": "capital_gains"
+      },
+      "form-4797": {
+        "section": "income",
+        "subsection": "capital_gains"
+      },
+      "schedule-1a": {
+        "section": "deductions",
+        "subsection": "schedule_1a_inputs"
+      },
+      "schedule-2": {
+        "section": "taxes",
+        "subsection": "placed"
+      }
+    },
+    "by_nature": {
+      "income": {
+        "section": "income",
+        "subsection": "other_income"
+      },
+      "deduction": {
+        "section": "deductions",
+        "subsection": ""
+      },
+      "tax": {
+        "section": "taxes",
+        "subsection": "placed"
+      },
+      "payment": {
+        "section": "payments",
+        "subsection": "other_payments"
+      },
+      "credit": {
+        "section": "credits",
+        "subsection": ""
+      },
+      "informational": {
+        "section": "reference",
+        "subsection": "informational"
+      }
+    }
+  }
+}

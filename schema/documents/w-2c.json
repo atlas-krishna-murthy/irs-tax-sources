@@ -1,0 +1,372 @@
+{
+  "document": {
+    "id": "W-2c",
+    "title": "Corrected Wage and Tax Statement",
+    "kind": "information_return",
+    "revision": "Rev. August 2023",
+    "revision_printed_as": "Form W-2c (Rev. 8-2023)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/fw2c--2023.pdf",
+    "issued_by": "employer",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "a",
+        "label": "Employer\u2019s name, address, and ZIP code",
+        "type": "text"
+      },
+      {
+        "box": "b",
+        "label": "Employer identification number (EIN)",
+        "type": "tin"
+      },
+      {
+        "box": "c",
+        "label": "Tax year/Form corrected",
+        "type": "text",
+        "notes": "The tax year and the form (W-2) this statement corrects."
+      },
+      {
+        "box": "d",
+        "label": "Employee\u2019s correct SSN",
+        "type": "tin"
+      },
+      {
+        "box": "e",
+        "label": "Corrected SSN and/or name.",
+        "type": "checkbox",
+        "notes": "Checked when the SSN or name on the form previously filed was wrong; boxes f and/or g then carry what was previously reported."
+      },
+      {
+        "box": "f",
+        "label": "Employee\u2019s previously reported SSN",
+        "type": "tin"
+      },
+      {
+        "box": "g",
+        "label": "Employee\u2019s previously reported name",
+        "type": "text"
+      },
+      {
+        "box": "h",
+        "label": "Employee\u2019s first name and initial",
+        "type": "text"
+      },
+      {
+        "box": "i",
+        "label": "Employee\u2019s address and ZIP code",
+        "type": "text"
+      },
+      {
+        "box": "1-previously-reported",
+        "label": "Wages, tips, other compensation",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 1."
+      },
+      {
+        "box": "1-correct",
+        "label": "Wages, tips, other compensation",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 1."
+      },
+      {
+        "box": "2-previously-reported",
+        "label": "Federal income tax withheld",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 2."
+      },
+      {
+        "box": "2-correct",
+        "label": "Federal income tax withheld",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 2."
+      },
+      {
+        "box": "3-previously-reported",
+        "label": "Social security wages",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 3."
+      },
+      {
+        "box": "3-correct",
+        "label": "Social security wages",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 3."
+      },
+      {
+        "box": "4-previously-reported",
+        "label": "Social security tax withheld",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 4."
+      },
+      {
+        "box": "4-correct",
+        "label": "Social security tax withheld",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 4."
+      },
+      {
+        "box": "5-previously-reported",
+        "label": "Medicare wages and tips",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 5."
+      },
+      {
+        "box": "5-correct",
+        "label": "Medicare wages and tips",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 5."
+      },
+      {
+        "box": "6-previously-reported",
+        "label": "Medicare tax withheld",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 6."
+      },
+      {
+        "box": "6-correct",
+        "label": "Medicare tax withheld",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 6."
+      },
+      {
+        "box": "7-previously-reported",
+        "label": "Social security tips",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 7."
+      },
+      {
+        "box": "7-correct",
+        "label": "Social security tips",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 7."
+      },
+      {
+        "box": "8-previously-reported",
+        "label": "Allocated tips",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 8."
+      },
+      {
+        "box": "8-correct",
+        "label": "Allocated tips",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 8."
+      },
+      {
+        "box": "10-previously-reported",
+        "label": "Dependent care benefits",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 10."
+      },
+      {
+        "box": "10-correct",
+        "label": "Dependent care benefits",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 10."
+      },
+      {
+        "box": "11-previously-reported",
+        "label": "Nonqualified plans",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 11."
+      },
+      {
+        "box": "11-correct",
+        "label": "Nonqualified plans",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 11."
+      },
+      {
+        "box": "12a-previously-reported",
+        "label": "See instructions for box 12",
+        "type": "code",
+        "notes": "The 'Previously reported' column of box 12a: a code letter and its amount, as on Form W-2 box 12."
+      },
+      {
+        "box": "12a-correct",
+        "label": "See instructions for box 12",
+        "type": "code",
+        "notes": "The 'Correct information' column of box 12a: a code letter and its amount, as on Form W-2 box 12."
+      },
+      {
+        "box": "12b-previously-reported",
+        "label": "See instructions for box 12",
+        "type": "code",
+        "notes": "The 'Previously reported' column of box 12b: a code letter and its amount, as on Form W-2 box 12."
+      },
+      {
+        "box": "12b-correct",
+        "label": "See instructions for box 12",
+        "type": "code",
+        "notes": "The 'Correct information' column of box 12b: a code letter and its amount, as on Form W-2 box 12."
+      },
+      {
+        "box": "12c-previously-reported",
+        "label": "See instructions for box 12",
+        "type": "code",
+        "notes": "The 'Previously reported' column of box 12c: a code letter and its amount, as on Form W-2 box 12."
+      },
+      {
+        "box": "12c-correct",
+        "label": "See instructions for box 12",
+        "type": "code",
+        "notes": "The 'Correct information' column of box 12c: a code letter and its amount, as on Form W-2 box 12."
+      },
+      {
+        "box": "12d-previously-reported",
+        "label": "See instructions for box 12",
+        "type": "code",
+        "notes": "The 'Previously reported' column of box 12d: a code letter and its amount, as on Form W-2 box 12."
+      },
+      {
+        "box": "12d-correct",
+        "label": "See instructions for box 12",
+        "type": "code",
+        "notes": "The 'Correct information' column of box 12d: a code letter and its amount, as on Form W-2 box 12."
+      },
+      {
+        "box": "13-statutory-employee-previously-reported",
+        "label": "Statutory employee",
+        "type": "checkbox",
+        "notes": "The 'Previously reported' column of box 13."
+      },
+      {
+        "box": "13-retirement-plan-previously-reported",
+        "label": "Retirement plan",
+        "type": "checkbox",
+        "notes": "The 'Previously reported' column of box 13."
+      },
+      {
+        "box": "13-third-party-sick-pay-previously-reported",
+        "label": "Third-party sick pay",
+        "type": "checkbox",
+        "notes": "The 'Previously reported' column of box 13."
+      },
+      {
+        "box": "13-statutory-employee-correct",
+        "label": "Statutory employee",
+        "type": "checkbox",
+        "notes": "The 'Correct information' column of box 13."
+      },
+      {
+        "box": "13-retirement-plan-correct",
+        "label": "Retirement plan",
+        "type": "checkbox",
+        "notes": "The 'Correct information' column of box 13."
+      },
+      {
+        "box": "13-third-party-sick-pay-correct",
+        "label": "Third-party sick pay",
+        "type": "checkbox",
+        "notes": "The 'Correct information' column of box 13."
+      },
+      {
+        "box": "14-previously-reported",
+        "label": "Other (see instructions)",
+        "type": "text",
+        "notes": "The 'Previously reported' column of box 14."
+      },
+      {
+        "box": "15-state-previously-reported",
+        "label": "State",
+        "type": "text",
+        "notes": "The 'Previously reported' column of box 15."
+      },
+      {
+        "box": "15-state-id-previously-reported",
+        "label": "Employer\u2019s state ID number",
+        "type": "text",
+        "notes": "The 'Previously reported' column of box 15."
+      },
+      {
+        "box": "16-previously-reported",
+        "label": "State wages, tips, etc.",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 16; the face prints two state and two locality blocks."
+      },
+      {
+        "box": "17-previously-reported",
+        "label": "State income tax",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 17; the face prints two state and two locality blocks."
+      },
+      {
+        "box": "18-previously-reported",
+        "label": "Local wages, tips, etc.",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 18; the face prints two state and two locality blocks."
+      },
+      {
+        "box": "19-previously-reported",
+        "label": "Local income tax",
+        "type": "money",
+        "notes": "The 'Previously reported' column of box 19; the face prints two state and two locality blocks."
+      },
+      {
+        "box": "20-previously-reported",
+        "label": "Locality name",
+        "type": "text",
+        "notes": "The 'Previously reported' column of box 20; the face prints two state and two locality blocks."
+      },
+      {
+        "box": "14-correct",
+        "label": "Other (see instructions)",
+        "type": "text",
+        "notes": "The 'Correct information' column of box 14."
+      },
+      {
+        "box": "15-state-correct",
+        "label": "State",
+        "type": "text",
+        "notes": "The 'Correct information' column of box 15."
+      },
+      {
+        "box": "15-state-id-correct",
+        "label": "Employer\u2019s state ID number",
+        "type": "text",
+        "notes": "The 'Correct information' column of box 15."
+      },
+      {
+        "box": "16-correct",
+        "label": "State wages, tips, etc.",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 16; the face prints two state and two locality blocks."
+      },
+      {
+        "box": "17-correct",
+        "label": "State income tax",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 17; the face prints two state and two locality blocks."
+      },
+      {
+        "box": "18-correct",
+        "label": "Local wages, tips, etc.",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 18; the face prints two state and two locality blocks."
+      },
+      {
+        "box": "19-correct",
+        "label": "Local income tax",
+        "type": "money",
+        "notes": "The 'Correct information' column of box 19; the face prints two state and two locality blocks."
+      },
+      {
+        "box": "20-correct",
+        "label": "Locality name",
+        "type": "text",
+        "notes": "The 'Correct information' column of box 20; the face prints two state and two locality blocks."
+      }
+    ],
+    "notes": "Continuous-use form; the revision in the library is Rev. 8-2023 (manifest: irs-prior, continuous use). Every money box prints TWICE, 'Previously reported' and 'Correct information', and only the boxes being corrected are completed ('Only complete money fields that are being corrected'). A W-2c REPLACES figures of a Form W-2 already in the packet; it adds nothing of its own. Box 9 prints with no caption and no entry. Box c names the tax year corrected, which need not be this return's year.",
+    "face_not_boxes": [
+      {
+        "slot": "9",
+        "because": "Box 9 is printed with no caption and takes no entry (as on Form W-2)."
+      }
+    ]
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

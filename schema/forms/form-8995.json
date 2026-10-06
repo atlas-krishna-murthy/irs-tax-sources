@@ -1,0 +1,117 @@
+{
+  "form": {
+    "id": "form-8995",
+    "form": "Form 8995",
+    "title": "Qualified Business Income Deduction Simplified Computation",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8995--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8995",
+    "lines": [
+      {
+        "line": "note",
+        "caption": "Use this form if your taxable income, before your qualified business income deduction, is at or below $197,300 ($394,600 if married filing jointly), and you aren\u2019t a patron of an agricultural or horticultural cooperative.",
+        "type": "text"
+      },
+      {
+        "line": "1",
+        "caption": "(a) Trade, business, or aggregation name (b) Taxpayer identification number (c) Qualified business income or (loss)",
+        "type": "text",
+        "columns": [
+          "a",
+          "b",
+          "c"
+        ],
+        "note": "Five rows, 1i through 1v, ONE PER BUSINESS: the rows are the instances and columns (a) name, (b) TIN and (c) qualified business income are the fields. As with Schedule E's property columns, an instance is not part of an address: a K-1's QBI reaches line 1 column (c), whichever row its business takes, and line 2 totals column (c) over every business.",
+        "rows_are": "instances"
+      },
+      {
+        "line": "2",
+        "caption": "Total qualified business income or (loss). Combine lines 1i through 1v, column (c)",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Qualified business net (loss) carryforward from the prior year",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Total qualified business income. Combine lines 2 and 3. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Qualified business income component. Multiply line 4 by 20% (0.20)",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Qualified REIT dividends and publicly traded partnership (PTP) income or (loss) (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Qualified REIT dividends and qualified PTP (loss) carryforward from the prior year",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Total qualified REIT dividends and PTP income. Combine lines 6 and 7. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "REIT and PTP component. Multiply line 8 by 20% (0.20)",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Qualified business income deduction before the income limitation. Add lines 5 and 9",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Taxable income before qualified business income deduction (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Enter your net capital gain, if any, increased by any qualified dividends (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Subtract line 12 from line 11. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Income limitation. Multiply line 13 by 20% (0.20)",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Qualified business income deduction. Enter the smaller of line 10 or line 14. Also enter this amount on the applicable line of your return (see instructions)",
+        "type": "money",
+        "note": "The form does NOT name its destination. The 2025 Instructions for Form 8995 do: \u201cEnter this amount on your Form 1040, 1040-SR, or Form 1040-NR, line 13a; Form 1041, line 20; Form 1041-N, line 9; Form 990-T, line 9; and S-corporation portion of an ESBT, line 11.\u201d The 2025 Form 1040 line 13a names Form 8995 back, so the route is doubly evidenced."
+      },
+      {
+        "line": "16",
+        "caption": "Total qualified business (loss) carryforward. Combine lines 2 and 3. If greater than zero, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Total qualified REIT dividends and PTP (loss) carryforward. Combine lines 6 and 7. If greater than zero, enter -0-",
+        "type": "money"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "55",
+        "because": "'Attachment Sequence No. 55' in the form header, not a line"
+      }
+    ]
+  }
+}

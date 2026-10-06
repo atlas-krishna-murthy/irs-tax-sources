@@ -1,0 +1,843 @@
+{
+  "form": {
+    "id": "schedule-c",
+    "form": "Schedule C (Form 1040)",
+    "title": "Profit or Loss From Business (Sole Proprietorship)",
+    "kind": "schedule",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040sc--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1040sc",
+    "face_totals": {
+      "total_income": "7",
+      "total_expenses": "28",
+      "net": "31",
+      "_why": "The CPA (2026-10-04): income at the top, a total income, the expenses, a total expenses, the net at the bottom. Names which of the form's own lines are those totals; the sheet computes none of them."
+    },
+    "lines": [
+      {
+        "line": "A",
+        "caption": "Principal business or profession, including product or service (see instructions)",
+        "type": "text",
+        "identity_item": [
+          {
+            "box": "principal_business",
+            "label": "Principal business or profession, including product or service",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "line": "B",
+        "caption": "Enter code from instructions",
+        "type": "code",
+        "identity_item": [
+          {
+            "box": "business_code",
+            "label": "Enter code from instructions",
+            "type": "code"
+          }
+        ]
+      },
+      {
+        "line": "C",
+        "caption": "Business name. If no separate business name, leave blank.",
+        "type": "text",
+        "identity_item": [
+          {
+            "box": "business_name",
+            "label": "Business name. If no separate business name, leave blank.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "line": "D",
+        "caption": "Employer ID number (EIN) (see instr.)",
+        "type": "tin",
+        "identity_item": [
+          {
+            "box": "ein",
+            "label": "Employer ID number (EIN)",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "line": "E",
+        "caption": "Business address (including suite or room no.)",
+        "type": "text",
+        "identity_item": [
+          {
+            "box": "business_address",
+            "label": "Business address (including suite or room no.)",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "line": "F",
+        "caption": "Accounting method: (1) Cash (2) Accrual (3) Other (specify)",
+        "type": "checkbox",
+        "identity_item": [
+          {
+            "box": "accounting_method",
+            "label": "Accounting method: (1) Cash (2) Accrual (3) Other (specify)",
+            "type": "code",
+            "fact": "accounting_method"
+          }
+        ]
+      },
+      {
+        "line": "G",
+        "caption": "Did you \u201cmaterially participate\u201d in the operation of this business during 2025? If \u201cNo,\u201d see instructions for limit on losses",
+        "type": "checkbox",
+        "identity_item": [
+          {
+            "box": "material_participation",
+            "label": "Did you \u201cmaterially participate\u201d in the operation of this business during 2025?",
+            "type": "checkbox",
+            "fact": "material_participation"
+          }
+        ]
+      },
+      {
+        "line": "H",
+        "caption": "If you started or acquired this business during 2025, check here",
+        "type": "checkbox",
+        "identity_item": [
+          {
+            "box": "started_this_year",
+            "label": "If you started or acquired this business during 2025, check here",
+            "type": "checkbox"
+          }
+        ]
+      },
+      {
+        "line": "I",
+        "caption": "Did you make any payments in 2025 that would require you to file Form(s) 1099? See instructions",
+        "type": "checkbox",
+        "identity_item": [
+          {
+            "box": "payments_requiring_1099",
+            "label": "Did you make any payments in 2025 that would require you to file Form(s) 1099?",
+            "type": "checkbox"
+          }
+        ]
+      },
+      {
+        "line": "J",
+        "caption": "If \u201cYes,\u201d did you or will you file required Form(s) 1099?",
+        "type": "checkbox",
+        "identity_item": [
+          {
+            "box": "filed_required_1099s",
+            "label": "If \u201cYes,\u201d did you or will you file required Form(s) 1099?",
+            "type": "checkbox"
+          }
+        ]
+      },
+      {
+        "line": "1",
+        "caption": "Gross receipts or sales. See instructions for line 1 and check the box if this income was reported to you on Form W-2 and the \u201cStatutory employee\u201d box on that form was checked",
+        "type": "money",
+        "client_item": {
+          "box": "gross_receipts_or_sales"
+        },
+        "sources": {
+          "grain": "activity",
+          "whole": "client_record",
+          "parts_are": "included_in_whole",
+          "check": "parts_le_whole",
+          "tolerance": {
+            "default": "0.00",
+            "whole_dollar_source": "0.99"
+          },
+          "on_check_fail": "hold",
+          "without_whole": "sum_parts",
+          "citation": {
+            "form": "Instructions for Schedule C (Form 1040)",
+            "line": "Line 1",
+            "revision": "2025",
+            "wording": "If you received one or more Forms 1099-NEC, be sure line 1 includes amounts properly shown on your Forms 1099-NEC.",
+            "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+          },
+          "note": "THE INSTRUCTION SAYS IT OUTRIGHT: the 1099s are INSIDE the client's gross receipts, not beside them. Summing the record and the forms states income the business never took. `sum_parts` where there is no record at all, because a business with 1099s and no sheet still has that income and holding it would report nothing rather than something incomplete \u2014 the 1099s are a floor, and the sheet is what a preparer is asked for."
+        },
+        "section": "Income",
+        "net": "+",
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Schedule C (Form 1040)",
+          "line": "Line 1",
+          "revision": "2025",
+          "wording": "Enter gross receipts from your trade or business.",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+        }
+      },
+      {
+        "line": "2",
+        "caption": "Returns and allowances",
+        "type": "money",
+        "client_item": {
+          "box": "returns_and_allowances"
+        },
+        "section": "Income",
+        "net": "-",
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Schedule C (Form 1040)",
+          "line": "Line 2",
+          "revision": "2025",
+          "wording": "Report your sales returns and allowances as a positive number on line 2.",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+        }
+      },
+      {
+        "line": "3",
+        "caption": "Subtract line 2 from line 1",
+        "type": "money",
+        "section": "Income"
+      },
+      {
+        "line": "4",
+        "caption": "Cost of goods sold (from line 42)",
+        "type": "money",
+        "section": "Income"
+      },
+      {
+        "line": "5",
+        "caption": "Gross profit. Subtract line 4 from line 3",
+        "type": "money",
+        "section": "Income"
+      },
+      {
+        "line": "6",
+        "caption": "Other income, including federal and state gasoline or fuel tax credit or refund (see instructions)",
+        "type": "money",
+        "client_item": {
+          "box": "other_business_income"
+        },
+        "section": "Income",
+        "net": "+",
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Schedule C (Form 1040)",
+          "line": "Line 6",
+          "revision": "2025",
+          "wording": "Report on line 6 business income not reported elsewhere in Part I.",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+        }
+      },
+      {
+        "line": "7",
+        "caption": "Gross income. Add lines 5 and 6",
+        "type": "money",
+        "section": "Income"
+      },
+      {
+        "line": "8",
+        "caption": "Advertising",
+        "type": "money",
+        "client_item": {
+          "box": "advertising"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "9",
+        "caption": "Car and truck expenses (see instructions)",
+        "type": "money",
+        "client_item": {
+          "box": "car_and_truck_expenses",
+          "question": "Standard mileage rate or actual expenses? Only one method may be used for a vehicle, and a leased vehicle that used actual expenses must keep doing so.",
+          "distance_box": "vehicle_business_miles"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "10",
+        "caption": "Commissions and fees",
+        "type": "money",
+        "client_item": {
+          "box": "commissions_and_fees"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "11",
+        "caption": "Contract labor (see instructions)",
+        "type": "money",
+        "client_item": {
+          "box": "contract_labor"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "12",
+        "caption": "Depletion",
+        "type": "money",
+        "client_item": {
+          "box": "depletion"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "13",
+        "caption": "Depreciation and section 179 expense deduction (not included in Part III) (see instructions)",
+        "type": "money",
+        "client_item": {
+          "box": "depreciation_and_section_179",
+          "question": "Is this a computed depreciation or section 179 figure (Form 4562), rather than the cost of assets bought this year?"
+        },
+        "section": "Expenses",
+        "net": "-",
+        "identity_item": [
+          {
+            "box": "capital_item_description",
+            "label": "A capital item bought for the business: its description",
+            "type": "text"
+          },
+          {
+            "box": "capital_item_placed_in_service_date",
+            "label": "A capital item bought for the business: month and year placed in service",
+            "type": "date"
+          }
+        ]
+      },
+      {
+        "line": "14",
+        "caption": "Employee benefit programs (other than on line 19)",
+        "type": "money",
+        "client_item": {
+          "box": "employee_benefit_programs"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "15",
+        "caption": "Insurance (other than health)",
+        "type": "money",
+        "client_item": {
+          "box": "insurance_other_than_health"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "16a",
+        "caption": "Interest (see instructions): Mortgage (paid to banks, etc.)",
+        "type": "money",
+        "client_item": {
+          "box": "mortgage_interest"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "16b",
+        "caption": "Interest (see instructions): Other",
+        "type": "money",
+        "client_item": {
+          "box": "other_interest"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "17",
+        "caption": "Legal and professional services",
+        "type": "money",
+        "client_item": {
+          "box": "legal_and_professional_services"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "18",
+        "caption": "Office expense (see instructions)",
+        "type": "money",
+        "client_item": {
+          "box": "office_expense"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "19",
+        "caption": "Pension and profit-sharing plans",
+        "type": "money",
+        "client_item": {
+          "box": "pension_and_profit_sharing_plans"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "20a",
+        "caption": "Rent or lease (see instructions): Vehicles, machinery, and equipment",
+        "type": "money",
+        "client_item": {
+          "box": "rent_or_lease_vehicles_machinery_equipment"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "20b",
+        "caption": "Rent or lease (see instructions): Other business property",
+        "type": "money",
+        "client_item": {
+          "box": "rent_or_lease_other_business_property"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "21",
+        "caption": "Repairs and maintenance",
+        "type": "money",
+        "client_item": {
+          "box": "repairs_and_maintenance"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "22",
+        "caption": "Supplies (not included in Part III)",
+        "type": "money",
+        "client_item": {
+          "box": "supplies"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "23",
+        "caption": "Taxes and licenses",
+        "type": "money",
+        "client_item": {
+          "box": "taxes_and_licenses"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "24a",
+        "caption": "Travel and meals: Travel",
+        "type": "money",
+        "client_item": {
+          "box": "travel"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "24b",
+        "caption": "Travel and meals: Deductible meals (see instructions)",
+        "type": "money",
+        "client_item": {
+          "box": "business_meals",
+          "question": "Has the 50% limit on business meals been applied? Line 24b takes only the deductible portion."
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "25",
+        "caption": "Utilities",
+        "type": "money",
+        "client_item": {
+          "box": "utilities"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "26",
+        "caption": "Wages (less employment credits)",
+        "type": "money",
+        "client_item": {
+          "box": "wages"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "27a",
+        "caption": "Energy efficient commercial bldgs deduction (attach Form 7205)",
+        "type": "money",
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "27b",
+        "caption": "Other expenses (from line 48)",
+        "type": "money",
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "28",
+        "caption": "Total expenses before expenses for business use of home. Add lines 8 through 27b",
+        "type": "money"
+      },
+      {
+        "line": "29",
+        "caption": "Tentative profit or (loss). Subtract line 28 from line 7",
+        "type": "money"
+      },
+      {
+        "line": "30",
+        "caption": "Expenses for business use of your home. Do not report these expenses elsewhere. Attach Form 8829 unless using the simplified method. See instructions. Simplified method filers only: Enter the total square footage of (a) your home: and (b) the part of your home used for business: . Use the Simplified Method Worksheet in the instructions to figure the amount to enter on line 30",
+        "type": "money",
+        "net": "-"
+      },
+      {
+        "line": "31",
+        "caption": "Net profit or (loss). Subtract line 30 from line 29. \u2022 If a profit, enter on both Schedule 1 (Form 1040), line 3, and on Schedule SE, line 2. (If you checked the box on line 1, see instructions.) Estates and trusts, enter on Form 1041, line 3. \u2022 If a loss, you must go to line 32.",
+        "type": "money"
+      },
+      {
+        "line": "32",
+        "caption": "If you have a loss, check the box that describes your investment in this activity. See instructions. \u2022 If you checked 32a, enter the loss on both Schedule 1 (Form 1040), line 3, and on Schedule SE, line 2. (If you checked the box on line 1, see the line 31 instructions.) Estates and trusts, enter on Form 1041, line 3. \u2022 If you checked 32b, you must attach Form 6198. Your loss may be limited.",
+        "type": "checkbox"
+      },
+      {
+        "line": "32a",
+        "caption": "All investment is at risk.",
+        "type": "checkbox"
+      },
+      {
+        "line": "32b",
+        "caption": "Some investment is not at risk.",
+        "type": "checkbox"
+      },
+      {
+        "line": "33",
+        "caption": "Method(s) used to value closing inventory: a Cost b Lower of cost or market c Other (attach explanation)",
+        "type": "checkbox",
+        "section": "Cost of goods sold",
+        "identity_item": [
+          {
+            "box": "inventory_valuation_method",
+            "label": "Method(s) used to value closing inventory: a Cost b Lower of cost or market c Other (attach explanation)",
+            "type": "code"
+          }
+        ]
+      },
+      {
+        "line": "34",
+        "caption": "Was there any change in determining quantities, costs, or valuations between opening and closing inventory? If \u201cYes,\u201d attach explanation",
+        "type": "checkbox",
+        "section": "Cost of goods sold",
+        "identity_item": [
+          {
+            "box": "inventory_method_changed",
+            "label": "Was there any change in determining quantities, costs, or valuations between opening and closing inventory? If \u201cYes,\u201d attach explanation",
+            "type": "checkbox"
+          }
+        ]
+      },
+      {
+        "line": "35",
+        "caption": "Inventory at beginning of year. If different from last year\u2019s closing inventory, attach explanation",
+        "type": "money",
+        "client_item": {
+          "box": "beginning_inventory"
+        },
+        "section": "Cost of goods sold",
+        "net": "-"
+      },
+      {
+        "line": "36",
+        "caption": "Purchases less cost of items withdrawn for personal use",
+        "type": "money",
+        "client_item": {
+          "box": "purchases"
+        },
+        "section": "Cost of goods sold",
+        "net": "-"
+      },
+      {
+        "line": "37",
+        "caption": "Cost of labor. Do not include any amounts paid to yourself",
+        "type": "money",
+        "client_item": {
+          "box": "cost_of_labor"
+        },
+        "section": "Cost of goods sold",
+        "net": "-"
+      },
+      {
+        "line": "38",
+        "caption": "Materials and supplies",
+        "type": "money",
+        "client_item": {
+          "box": "materials_and_supplies"
+        },
+        "section": "Cost of goods sold",
+        "net": "-"
+      },
+      {
+        "line": "39",
+        "caption": "Other costs",
+        "type": "money",
+        "client_item": {
+          "box": "other_costs"
+        },
+        "section": "Cost of goods sold",
+        "net": "-"
+      },
+      {
+        "line": "40",
+        "caption": "Add lines 35 through 39",
+        "type": "money",
+        "section": "Cost of goods sold"
+      },
+      {
+        "line": "41",
+        "caption": "Inventory at end of year",
+        "type": "money",
+        "client_item": {
+          "box": "ending_inventory"
+        },
+        "section": "Cost of goods sold",
+        "net": "+"
+      },
+      {
+        "line": "42",
+        "caption": "Cost of goods sold. Subtract line 41 from line 40. Enter the result here and on line 4",
+        "type": "money",
+        "section": "Cost of goods sold"
+      },
+      {
+        "line": "43",
+        "caption": "When did you place your vehicle in service for business purposes? (month/day/year)",
+        "type": "date",
+        "section": "Information on your vehicle",
+        "notes": "Answered on the business record by box vehicle_placed_in_service_date (T049, F-482). The standard-mileage figure on line 9 is miles x rate, a computation.",
+        "identity_item": [
+          {
+            "box": "vehicle_placed_in_service_date",
+            "label": "Schedule C line 43: When did you place your vehicle in service for business purposes? (month/day/year)",
+            "type": "date"
+          }
+        ]
+      },
+      {
+        "line": "44a",
+        "caption": "Of the total number of miles you drove your vehicle during 2025, enter the number of miles you used your vehicle for: Business",
+        "type": "count",
+        "section": "Information on your vehicle",
+        "notes": "Answered on the business record by box vehicle_business_miles (T049, F-482). The standard-mileage figure on line 9 is miles x rate, a computation.",
+        "identity_item": [
+          {
+            "box": "vehicle_business_miles",
+            "label": "Schedule C line 44a: miles you used your vehicle for Business",
+            "type": "integer"
+          }
+        ]
+      },
+      {
+        "line": "44b",
+        "caption": "Of the total number of miles you drove your vehicle during 2025, enter the number of miles you used your vehicle for: Commuting (see instructions)",
+        "type": "count",
+        "section": "Information on your vehicle",
+        "notes": "Answered on the business record by box vehicle_commuting_miles (T049, F-482). The standard-mileage figure on line 9 is miles x rate, a computation.",
+        "identity_item": [
+          {
+            "box": "vehicle_commuting_miles",
+            "label": "Schedule C line 44b: miles you used your vehicle for Commuting (see instructions)",
+            "type": "integer"
+          }
+        ]
+      },
+      {
+        "line": "44c",
+        "caption": "Of the total number of miles you drove your vehicle during 2025, enter the number of miles you used your vehicle for: Other",
+        "type": "count",
+        "section": "Information on your vehicle",
+        "notes": "Answered on the business record by box vehicle_other_miles (T049, F-482). The standard-mileage figure on line 9 is miles x rate, a computation.",
+        "identity_item": [
+          {
+            "box": "vehicle_other_miles",
+            "label": "Schedule C line 44c: miles you used your vehicle for Other",
+            "type": "integer"
+          }
+        ]
+      },
+      {
+        "line": "45",
+        "caption": "Was your vehicle available for personal use during off-duty hours?",
+        "type": "checkbox",
+        "section": "Information on your vehicle",
+        "identity_item": [
+          {
+            "box": "vehicle_available_off_duty",
+            "label": "Was your vehicle available for personal use during off-duty hours?",
+            "type": "checkbox"
+          }
+        ]
+      },
+      {
+        "line": "46",
+        "caption": "Do you (or your spouse) have another vehicle available for personal use?",
+        "type": "checkbox",
+        "section": "Information on your vehicle",
+        "identity_item": [
+          {
+            "box": "another_vehicle_available",
+            "label": "Do you (or your spouse) have another vehicle available for personal use?",
+            "type": "checkbox"
+          }
+        ]
+      },
+      {
+        "line": "47a",
+        "caption": "Do you have evidence to support your deduction?",
+        "type": "checkbox",
+        "section": "Information on your vehicle",
+        "identity_item": [
+          {
+            "box": "vehicle_evidence",
+            "label": "Do you have evidence to support your deduction?",
+            "type": "checkbox"
+          }
+        ]
+      },
+      {
+        "line": "47b",
+        "caption": "If \u201cYes,\u201d is the evidence written?",
+        "type": "checkbox",
+        "section": "Information on your vehicle",
+        "identity_item": [
+          {
+            "box": "vehicle_evidence_written",
+            "label": "If \u201cYes,\u201d is the evidence written?",
+            "type": "checkbox"
+          }
+        ]
+      },
+      {
+        "line": "48",
+        "caption": "Total other expenses. Enter here and on line 27b",
+        "type": "money",
+        "client_item": {
+          "box": "other_expenses"
+        },
+        "section": "Other expenses",
+        "net": "-"
+      },
+      {
+        "line": "name-of-proprietor",
+        "caption": "Name of proprietor",
+        "type": "text",
+        "identity_item": [
+          {
+            "box": "proprietor_name",
+            "label": "Name of proprietor",
+            "type": "text"
+          }
+        ],
+        "notes": "Header. On a joint return it says whose Schedule C (and Schedule SE) this business is."
+      },
+      {
+        "line": "proprietor-ssn",
+        "caption": "Social security number (SSN)",
+        "type": "tin",
+        "identity_item": [
+          {
+            "box": "proprietor_ssn",
+            "label": "Social security number (SSN)",
+            "type": "identifier"
+          }
+        ]
+      },
+      {
+        "line": "E-city",
+        "caption": "City, town or post office, state, and ZIP code",
+        "type": "text",
+        "identity_item": [
+          {
+            "box": "business_city_state_zip",
+            "label": "City, town or post office, state, and ZIP code",
+            "type": "text"
+          }
+        ],
+        "notes": "Line E's second row."
+      },
+      {
+        "line": "1-statutory-employee",
+        "caption": "check the box if this income was reported to you on Form W-2 and the \u201cStatutory employee\u201d box on that form was checked",
+        "type": "checkbox",
+        "section": "Income",
+        "notes": "The checkbox printed on line 1. The W-2 row's statutory-employee flag answers it."
+      },
+      {
+        "line": "16",
+        "caption": "Interest (see instructions):",
+        "type": "text",
+        "section": "Expenses",
+        "notes": "Caption over 16a and 16b; carries no amount."
+      },
+      {
+        "line": "30a",
+        "caption": "(a) your home:",
+        "type": "count",
+        "notes": "Simplified method square footage of the home. The business record states it as home_total_square_footage (T049, F-347); no identity_item here, which would declare that box twice (E52).",
+        "identity_item": [
+          {
+            "box": "home_total_square_footage",
+            "label": "Schedule C line 30: total square footage of (a) your home",
+            "type": "integer"
+          }
+        ]
+      },
+      {
+        "line": "30b",
+        "caption": "(b) the part of your home used for business:",
+        "type": "count",
+        "notes": "Simplified method square footage used for business. The business record states it as home_business_square_footage (T049, F-347).",
+        "identity_item": [
+          {
+            "box": "home_business_square_footage",
+            "label": "Schedule C line 30: (b) the part of your home used for business",
+            "type": "integer"
+          }
+        ]
+      },
+      {
+        "line": "part-v",
+        "caption": "List below business expenses not included on lines 8-27a, or line 30.",
+        "type": "money",
+        "section": "Other expenses",
+        "columns": [
+          "description",
+          "amount"
+        ],
+        "column_captions": {
+          "description": "description",
+          "amount": "amount"
+        },
+        "rows_are": "instances",
+        "notes": "Part V Other Expenses: nine unnumbered description/amount rows totalled on line 48. The record states the total as other_expenses (line 48's client_item); each row is an instance."
+      }
+    ],
+    "sections_source_url": "https://www.irs.gov/pub/irs-prior/f1040sc--2025.pdf",
+    "face_not_boxes": [
+      {
+        "slot": "09",
+        "because": "the Attachment Sequence No. printed in the form header, not a line"
+      }
+    ],
+    "revision_printed_as": "Schedule C (Form 1040) 2025 Created 4/3/25"
+  }
+}

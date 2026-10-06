@@ -1,0 +1,800 @@
+Taxpayer Compliance Burden
+
+
+
+
+  Publication 5743 (Rev. 4-2023) Catalog Number 93812U Department of the Treasury Internal Revenue Service publish.no.irs.gov
+    Taxpayer Compliance Burden
+    RAAS: John Guyton, Pat Langetieg, Pete Rose, Brenda Schafer, Sherri Edelman
+    W&I Tax Forms and Publications: Andres Garcia, Molly Stasko
+    Date, February 2023
+
+    I. INTRODUCTION
+    The Paperwork Reduction Act of 1980 (PRA)1 was enacted to minimize the public’s paperwork burden resulting
+    from the growing information collection and reporting requirements imposed on it by the federal government.
+    One provision of the Act requires federal agencies to report to Congress the information collection burden
+    they impose. The IRS collects information from taxpayers so that they can fulfil their income reporting
+    requirements and provide sufficient information to claim allowed deductions and credits against their taxable
+    income.
+
+    The Wage & Investment (W&I) Media & Publications coordinates all reporting of official burden estimates
+    through the Department of Treasury to the Office of Management and Budget (OMB). The IRS Office of Chief
+    Counsel considers the impact of the reporting burden associated with implementation of new regulations.
+    The Treasury Office of Tax Analysis (OTA) oversees the methodology used by the IRS to provide burden
+    estimates.
+
+    Taxpayer reporting burden would be much greater for the federal government and the public if there were no
+    tax forms which provide a framework for determining tax liability and claiming tax benefits. Nevertheless, the
+    federal tax system required by the Internal Revenue Code imposes an enormous burden on taxpayers. It is
+    estimated that taxpayer compliance burden is 63% of the annual federal paperwork burden.2 Therefore, reducing
+    taxpayer compliance burden is a key priority of the IRS. However, the IRS must balance its burden reduction
+    efforts with the administrative costs that would otherwise be required to determine a taxpayer’s tax liability.
+
+    This paper provides information about both sides of taxpayer compliance burden – the burden experienced by
+    taxpayers and the administrative costs incurred by the IRS to administer the tax code. It is intended to provide
+    insight into the process of estimating taxpayer compliance burden, and how the IRS is working to improve
+    those estimates and how they are reported to the public.
+
+    II. WHAT IS TAXPAYER COMPLIANCE BURDEN?
+    Taxpayer compliance burden is generally defined as the time and money taxpayers spend to comply with their
+    tax filing responsibilities. Time-related activities include recordkeeping, tax planning, gathering tax materials,
+    learning about the law, and completing and submitting the return. Out-of-pocket costs include expenses such as
+    purchasing tax software, paying a third-party preparer, and printing and postage. Taxpayer compliance burden
+    does not include a taxpayer’s tax liability, economic inefficiencies caused by sub-optimal choices related to tax
+    deductions or credits, or psychological costs.
+
+
+
+
+1
+  Paperwork Reduction Act of 1980, summary available at https://www.congress.gov/bill/96th-congress/house-bill/6410 (last
+accessed 02/02/2023)
+2
+  ROCIS report, All Agency Summary of Current Inventory Report dated January 27, 2023, lists the total government inventory of
+collections as 9,663 which impose a total of 10,365,910,841 burden hours. ROCIS report, Department of Treasury Internal Revenue
+Service (IRS) Detailed Current Inventory Report, lists the total IRS inventory of collections as 462, which impose a total of
+6,548,586,494 burden hours. Therefore, tax compliance imposes 63% of the total government burden on the public
+(6,548,586,494/10,365,910,841=63%).
+                                                                                                                                  1
+Drivers of Taxpayer Compliance Burden
+The drivers of taxpayer compliance burden can be generalized into four primary categories:
+
+1) Volume of Activity
+Volume of activity represents the different types of income and expenses as well as the associated dollar
+amounts and transactions. This activity is observed in a generalized format as the number of forms and
+statements included in a return, the lines that are completed on the forms, and the frequency with which the
+return must be filed. A key assumption for the relationship between burden and volume of activity is that if the
+volume of activity increases, burden is expected to increase but at a decreasing rate.
+
+To provide context, a taxpayer must engage in an activity (e.g., keep records, report income, claim a deduction)
+to incur burden. A taxpayer with a straightforward tax situation (perhaps a single taxpayer who has W-2 income,
+taxable interest, and no dependents) will generally incur far less compliance burden than a taxpayer who files
+Form 1040 with many forms and schedules attached (such as Schedule A, Itemized Deductions, Form 8582
+Passive Losses, and Form 6251, Alternative Minimum Tax). Employers who file quarterly returns incur more
+burden than employers who are only required to file one annual return.
+
+2) Availability of Data Sources
+Burden is impacted by the number and availability of data sources needed to complete a return. Generally,
+information that is readily available from processes unrelated to tax drive less burden than information that is
+not readily available. For taxpayer compliance burden purposes, recordkeeping burden is limited to the books
+and records that are kept solely for tax purposes. For example, a corporation may maintain records using
+Generally Accepted Accounting Principles (GAAP) for legal purposes. Certain adjustments are made to these
+books and records to take into account differences between tax and GAAP rules. Only the time and money
+spent to create and maintain tax-related adjustments are considered part of taxpayer compliance burden.
+
+Third-party information documents, such as Form W-2, significantly reduce the burden individual taxpayers
+face. Information documents provided by payors of income allow taxpayers to keep minimal records for the
+income and other associated information reported on the document. It is important to note that information
+document reporting imposes compliance burden on the entities responsible for issuing them, so the burden not
+imposed on individuals is partially offset by the costs incurred by the information document issuers.
+
+3) Taxpayer Characteristics
+Taxpayer compliance burden is related to several different attributes. Individual taxpayers will experience
+varying levels of burden based on their level of education, the structure of their household, their age, assets,
+income, and their decision to hire a preparer. Entities will experience varying levels of burden based on their
+industry, size, years in business, and their decision to hire a preparer. These variations in attributes can lead to
+different levels of complexity. Complexity also tends to increase as income increases. This makes sense because
+higher-income taxpayers are more likely to have many sources of income and claim numerous tax deductions
+and credits. Businesses may also face additional reporting requirements as they increase in size.
+
+The amount of required recordkeeping is also a significant factor in the amount of burden faced by taxpayers.
+For example, an individual whose sole source of income is from wages typically has less burden than a sole
+proprietor who must keep records of income and retain receipts for deductible expenses.
+
+
+
+
+                                                                                                                       2
+     4) Technology Infrastructure –
+     Technology plays a key role in taxpayer compliance burden. During the early 80s, tax returns were prepared by
+     hand and submitted by mail. Today, 94% percent of individual federal tax returns are prepared using software3
+     and 90% percent of all returns are electronically filed.4 Technology innovation over the last three decades has
+     also introduced recordkeeping solutions for all filers that improve productivity at a significantly reduced price.
+
+     Returns prepared on paper generally take more time to prepare than those that are prepared using software.
+     Assisted tax preparation (whether the taxpayer prepares the return using software or seeks the services of a
+     paid preparer) generally reduces the time to complete a tax return, but there is a tradeoff of incurring out-of-
+     pocket costs (money burden) if the taxpayer purchases the software or uses a paid preparer. The use of
+     software offers other important benefits, such as eliminating the need to spend time obtaining tax forms,
+     automated math calculations, interview prompts, and error checking, to name a few. A variety of free and pay-
+     for tax preparation software packages and tax preparation services are available to most taxpayers.
+
+     As with recordkeeping, the costs associated with computers, software, data storage, etc. that a taxpayer
+     maintains for non-tax purposes are not included in taxpayer compliance burden. Costs associated with new
+     equipment and software that a taxpayer purchases solely for tax reporting purposes is included in taxpayer
+     compliance burden. Initial startup costs to acquire and put in place technology to handle tax reporting-related
+     compliance tasks reduces the ongoing burden that would otherwise be incurred.
+
+     III. ESTIMATING TAX COMPLIANCE BURDEN
+     To better meet the burden reporting requirements of the PRA of 1980, the IRS sponsored a study by Arthur D
+     Little, Inc. (ADL) in 1984. ADL conducted a diary study and several surveys of individuals and businesses to gather
+     data about the time they spent on recordkeeping, learning about the law and/or form, completing the return,
+     and copying, assembling and submitting the return. ADL worked with the IRS to match the survey data to the
+     respondents’ tax returns. Using the matched data allowed ADL to build the first mathematical model (known as
+     the ADL Model) designed to estimate taxpayer compliance burden. The ADL model was a groundbreaking
+     innovation and the first of its kind in the federal government.
+
+     As stated earlier, when the model was being developed, most returns were prepared by hand and filed on
+     paper. No one anticipated the major shift to software preparation. Electronic filing hadn’t yet been introduced.
+     It was assumed that any updates to the model would only require modifying isolated values or changing the
+     activity burden formulas if necessary. Because manual tax preparation on paper requires taxpayers to go
+     through each form they complete, the model was designed to calculate burden for each form separately and
+     assumed taxpayers had to at least consider every line. Because the PRA only required reporting burden hours,
+     the monetary cost of tax compliance was not included in the model.
+
+     Perhaps the most important benefit of the ADL model is that it is quite simple to use. The user inputs the
+     number of lines on the form and the expected number of forms that will be filed for that tax year. The model
+     provides the estimated aggregate burden hours.
+
+     The ADL model is still used to estimate the burden for many IRS forms.
+
+
+
+
+3
+    FY 21 Individual Tax Return data
+4
+    IRS Publication 6292 (rev. 9-2022), Fiscal Year Return Projections for the United States
+                                                                                                                           3
+    A New Look at Taxpayer Compliance Burden Estimation
+    In 1998, the IRS recognized that changes in the economy, tax laws, and characteristics of the taxpayer
+    population were making the survey data that underlie the estimates in the ADL model increasingly out-of-date.
+    In addition, the model can simulate only a narrow range of policy changes because it does not adequately
+    represent the characteristics of the tax law that generate burden.5 IRS Commissioner Charles Rossotti
+    established a task force to study the issue and make recommendations regarding future research. The task
+    forced includes representatives from the IRS, Department of Treasury (Office of Tax Analysis and Assistant
+    Secretary for Management), Office of Management and Budget (OMB), and the General Accounting Office
+    (GAO).
+
+    A 2000 GAO report6 summarizes the ideal capabilities of the new model. It states that the model would be able
+    to:
+
+    •   estimate the burden associated with all prefiling, filing, and post-filing activities undertaken to comply with
+        federal income, estate and gift, employment, and excise tax rules;
+    •   disaggregate total compliance burden by type of tax, taxpayer, and activity;
+    •   disaggregate burden by origin of compliance requirements (tax laws, regulations, and administrative
+        procedures);
+    •   estimate changes in burden associated with potential tax law changes;
+    •   function in an integrated manner, allowing users to see how certain tax changes affect multiple taxpayer
+        groups;
+    •   disaggregate burden by IRS function (e.g., submission processing and customer service) for burdens
+        associated with the requirements of, and taxpayer interactions with, those functions;
+    •   estimate the impact on tax compliance burden of alternative enforcement programs and techniques
+        providing customer service;
+    •   provide different types of estimates for different purposes (e.g., the estimates required for the Information
+        Collection Budget are different from those that IRS would use for performance measurement under
+        Government Performance and Results Act (GPRA));
+    •   estimate burden in terms of dollars as well as time; and
+    •   incorporate new data with sufficient ease so that the model, itself, would not have to be replaced in the
+        near future.
+
+    To mitigate the risks associated with developing the new burden estimation methodology, the IRS implemented
+    a multi-phase strategy. The approach gives the IRS an opportunity to incorporate lessons learned from early
+    phases of the process into later efforts.
+
+    The first phase of the development process focused on implementation of a model to estimate the
+    taxpayer compliance burden of wage and investment taxpayers—those who derive all of their
+    income from wages, pensions, interest, dividends, and capital gains. The IRS contracted with IBM to document
+    the components of taxpayer compliance burden, describe the concept and structure of a microsimulation
+    model to estimate burden, and recommend a strategy for gathering new survey data from a sample of
+    individual taxpayers. The study helped develop an improved methodology for measuring and modeling the
+    burdens imposed by the tax system on individual taxpayers, with the expectation that the methodology would
+    be expanded to other taxpayer segments in the future.
+
+
+
+5
+  Guyton, John L. & O'Hare, John F. & Stavrianos, Michael P. & Toder, Eric J., 2003. "Estimating the Compliance Cost of the U.S.
+Individual Income Tax," National Tax Journal, National Tax Association, vol. 56(3), pages 673-688, September.
+6
+  GAO Report (2000), TAX ADMINISTRATION: IRS Is Working to Improve Its Estimates of Compliance Burden, May 2000 available at
+https://www.gao.gov/products/ggd-00-11. Last accessed 02/02/2023.
+                                                                                                                                   4
+    The improved burden methodology establishes econometric relationships between tax return characteristics
+    from IRS administrative data and the time and out-of-pocket costs reported by those taxpayers via survey data.
+    Most importantly, it takes a taxpayer-centric view of tax compliance burden, considering taxpayers’ actual pre-
+    filing and filing experience. It recognizes the need to survey taxpayers periodically to ensure that the model can
+    be updated to properly represent the current tax compliance experience.
+
+    Taxpayer Burden Surveys
+    As a key step in estimating tax compliance costs, the IRS conducts taxpayer burden surveys. These surveys are
+    designed to gather statistically representative data regarding the time and out-of-pocket costs incurred by
+    taxpayers in response to their tax obligations.
+
+    Individual Taxpayer Burden (ITB) surveys have been conducted for tax years 1984 (original ADL survey), 1999,
+    2000, 2007, and annually since 2010. The tax year 1999 survey only included wage and investment taxpayers;
+    tax year 2000 survey only included self-employed taxpayers, and all surveys from tax year 2007 on have
+    included both wage and investment and self-employed taxpayers.
+
+    Business Taxpayer Burden (BTB) surveys have been conducted for tax year 1984 (original ADL survey), 2004,
+    2009, and 2012 and are scheduled to be fielded every year or three years thereafter. The tax year 2004 survey
+    only included small business taxpayers filing Form 1120, 1120-S, 1065, and 1120 Specials. The tax year 2009
+    survey updated the Small Business Taxpayer Burden Survey of 2004 and added a separate survey instrument for
+    large businesses. This survey included all business taxpayers filing a Form 1120 series or Form 1065 series
+    return. (Note: Previous studies of taxpayer compliance burden for large businesses were conducted in 1993 by
+    Slemrod and Blumenthal (1996)7 and in 2002 by Slemrod and Venkatesh.8 In addition, the 1986 Arthur D. Little
+    study for Tax Year 1984 also covered business taxpayers, as discussed in Contos, et al. (2012).)
+
+    The ITB and BTB surveys are designed to gather statistically representative data on the time and out-of-pocket
+    costs that taxpayers incur. As a result, after accounting for nonresponse and adjusting survey weights to match
+    population control totals, the time and out-of-pocket cost amounts reported on the surveys can be used to
+    estimate the average and aggregate time and out-of-pocket costs for their respective populations. It is
+    important to note that these estimates are representative for the year in which the survey was collected. Any
+    change that occurs before or after the survey fielding must be considered when calculating an estimate for a
+    previous or ensuing year for which survey data are not available.
+
+    Individual Taxpayer Burden Survey
+    Each ITB survey uses a sampling methodology that reflects the primary taxpayer characteristics for the taxpayer
+    segment being surveyed. The sampling methodology for the ITB survey involves a stratified random sample with
+    20 categories (see Table 1). Returns are first distinguished by preparation method (third-party prepared, self-
+    prepared using tax preparation software, self-prepared by hand, and VITA prepared). Returns are further
+    stratified within the preparation categories (excluding VITA) based on five complexity categories: low, medium-
+    low, medium, medium-high, and high.9 The amount of variation observed in the paid professional medium-high
+    and high strata is significant enough to require the creation of three additional substrata for each. Sufficient
+    sample is drawn for each stratum to ensure adequate an adequate response rate for statistical analysis.
+
+
+
+
+7
+  Slemrod, Joel and Marsha Blumenthal, 1996. “The Income Tax Compliance Cost of Big Business.” Public Finance Quarterly, vol. 24,
+4: pp. 411-438.
+8
+  Slemrod, Joel and Varsha Venkatesh. 2002. “The income tax compliance cost of large and mid-size businesses.” Technical report,
+IRS, LMSB Division.
+9
+  Appendix A provides more information on the five complexity categories.
+                                                                                                                                    5
+Table 1: Tax Year 2021 Individual Taxpayer Burden Survey Population Strata
+                                  Strata
+         Preparation Method                      Complexity
+       Used a Paid Professional                     Low
+       Used a Paid Professional                 Medium-Low
+       Used a Paid Professional                   Medium
+       Used a Paid Professional             Medium-High - Simpler
+       Used a Paid Professional            Medium-High - Moderate
+       Used a Paid Professional             Medium-High - Difficult
+       Used a Paid Professional                 High-Simpler
+       Used a Paid Professional                High-Moderate
+       Used a Paid Professional                 High-Difficult
+        Self-Prepared by Hand                       Low
+        Self-Prepared by Hand                   Medium-Low
+        Self-Prepared by Hand                     Medium
+        Self-Prepared by Hand                   Medium-High
+        Self-Prepared by Hand                       High
+      Self-Prepared by Software                     Low
+      Self-Prepared by Software                 Medium-Low
+      Self-Prepared by Software                   Medium
+      Self-Prepared by Software                 Medium-High
+      Self-Prepared by Software                     High
+            VITA Prepared                           ANY
+
+The ITB survey instrument consists of several framing questions, such as asking the taxpayer to think about
+resources they may have used when preparing their return, as well as the key time and out-of-pocket cost
+questions. These topics are broken down into two separate response items: (1) time, including recordkeeping,
+tax planning, gathering materials, and completing and submitting the tax return; and (2) out-of-pocket costs,
+including paid preparer services, tax preparation website or software, fees for early or immediate refund, tax
+books, classes, or seminars, and postage or filing fees.
+
+To reduce recall bias, the surveys are conducted close to when the taxpayers filed their tax returns. The survey is
+sent out in four waves, with the first wave sampled from the earliest filers starting around June.
+
+Business Taxpayer Burden Survey
+As with the ITB surveys, stratified random sampling is used to select the survey respondents for the BTB survey.
+Business entities are grouped by entity type based on the tax return they filed(corporation, S corporation, or
+partnership) and size. (See Table 2)
+
+
+
+
+                                                                                                                      6
+Table 2: Tax Year 2019 Business Taxpayer Burden Survey Population Strata
+                                              Strata
+          Form                Industry                                 Business Size
+       Form 1120                ANY                                No Business Activity
+       Form 1120                ANY                      Assets Under 50k and Turnover Under 20k
+       Form 1120                ANY               Assets From 50k to 175k or Turnover From 20k to 70k
+       Form 1120                ANY              Assets From 175k to 500k or Turnover From 70k to 200k
+       Form 1120                ANY              Assets From 500k to 1.5M or Turnover From 200k to 600k
+       Form 1120                ANY               Assets From 1.5M to 5M or Turnover From 600k to 2M
+       Form 1120                ANY                Assets From 5M to 15M or Turnover From 2M to 6M
+       Form 1120                ANY               Assets From 15M to 50M or Turnover From 6M to 20M
+       Form 1120                ANY             Assets From 50M to 1000M or Turnover From 20M to 400M
+ FoForm 1120-S rm 1120          ANY                       Assets Over 1B or Turnover Over 400M
+      Form 1120-S               ANY                                No Business Activity
+ Form 1120-S                    ANY                      Assets Under 50k and Turnover Under 20k
+ Form 1120-S                    ANY               Assets From 50k to 175k or Turnover From 20k to 70k
+ Form 1120-S                    ANY              Assets From 175k to 500k or Turnover From 70k to 200k
+      Form 1120-S               ANY              Assets From 500k to 1.5M or Turnover From 200k to 600k
+ Form 1120-S                    ANY               Assets From 1.5M to 5M or Turnover From 600k to 2M
+ Form 1120-S                    ANY                Assets From 5M to 15M or Turnover From 2M to 6M
+ Form 1120-S                    ANY               Assets From 15M to 50M or Turnover From 6M to 20M
+ Form 1120-S                    ANY             Assets From 50M to 1000M or Turnover From 20M to 400M
+ Form 1120-S                    ANY                       Assets Over 1B or Turnover Over 400M
+ Form 1065                      ANY                                No Business Activity
+ Form 1065                 Not Real Estate               Assets Under 50k and Turnover Under 20k
+ Form 1065                 Not Real Estate        Assets From 50k to 175k or Turnover From 20k to 70k
+ Form 1065                 Not Real Estate       Assets From 175k to 500k or Turnover From 70k to 200k
+ Form 1065                 Not Real Estate       Assets From 500k to 1.5M or Turnover From 200k to 600k
+ Form 1065                 Not Real Estate        Assets From 1.5M to 5M or Turnover From 600k to 2M
+ Form 1065                 Not Real Estate         Assets From 5M to 15M or Turnover From 2M to 6M
+       Form 1065           Not Real Estate        Assets From 15M to 50M or Turnover From 6M to 20M
+       Form 1065           Not Real Estate      Assets From 50M to 1000M or Turnover From 20M to 400M
+       Form 1065           Not Real Estate                Assets Over 1B or Turnover Over 400M
+ Form 1065                  Real Estate                  Assets Under 50k and Turnover Under 20k
+ Form 1065                  Real Estate           Assets From 50k to 175k or Turnover From 20k to 70k
+ Form 1065                  Real Estate          Assets From 175k to 500k or Turnover From 70k to 200k
+ Form 1065                  Real Estate          Assets From 500k to 1.5M or Turnover From 200k to 600k
+ Form 1065                  Real Estate           Assets From 1.5M to 5M or Turnover From 600k to 2M
+ Form 1065                  Real Estate            Assets From 5M to 15M or Turnover From 2M to 6M
+ Form 1065                  Real Estate           Assets From 15M to 50M or Turnover From 6M to 20M
+ Form 1065                  Real Estate         Assets From 50M to 1000M or Turnover From 20M to 400M
+ Form 1065                  Real Estate                   Assets Over 1B or Turnover Over 400M
+      Form 1120-L               ANY                                       ANY
+    Form 1120-REIT              ANY                                       ANY
+
+      Form 1120-PC             ANY                                       ANY
+       Form 1120-F             ANY                                       ANY
+
+ Also similar to the ITB survey, the BTB survey instrument consists of framing questions to improve recall for the
+ key time and out-of-pocket cost questions. The key time and out-of-pocket costs questions are also similar.
+Time-related questions asked respondents to allocate their time burden across (1) tax compliance activities
+(such as recordkeeping, tax planning, calculating payroll taxes, and completing and submitting the federal
+income tax return) and (2) the type of employee (owners, executives, clerical, and other) performing those
+activities. Cost-related questions include fees paid to external service providers for tax and tax-related services,
+the cost of tax-related software, and the amount spent on other tax-related activities (copies of tax returns,
+postage, etc.). Survey fielding is also conducted close to when the taxpayers filed their tax returns to reduce
+recall bias.
+
+                                                                                                                       7
+     To take into account likely pay rate differences within and across firms, the BTB survey asks respondents to report
+     the weighted average hourly cost for the Form W-2 employees spending their work hours completing the federal
+     income tax requirements. This measure can be used to help determine the monetary costs of the time spent by
+     firms complying with federal income tax requirements.
+
+     Building an Improved Model
+     The IRS Taxpayer Burden Model (TBM) was developed with oversight from the Department of Treasury (Office of
+     Tax Analysis), OMB, and GAO. It was first used to provide the PRA estimate for individual tax compliance burden
+     in 2005. The TBM was updated to its current form in 2010, following the methodology in Contos et al. (2009a)10
+     and Contos et al. (2009b)11, which modeled the compliance burden of small businesses.
+
+     The current TBM uses a log-linear specification in which the logarithm of the burden is linearly related to a set of
+     explanatory variables, described in further detail in Contos, et al. (2010)12. The dependent variable is based on
+     survey responses and is defined as the logarithm of total pre-filing and filing compliance costs — that is, the
+     monetized time and money taxpayers spend to comply with federal tax laws.
+
+     The coefficients for the Individual Taxpayer Burden Model are shown in Table 3.
+
+     The most unique aspect of modeling taxpayer compliance burden is the need to control for the type and volume of
+     activities performed by taxpayers to meet their federal tax obligations. As a proxy for the volume of activities, we
+     use the money amounts reported by each taxpayer for that item. This is based on the assumption that a larger
+     dollar amount reported for a tax item is associated with more activity related to that item.
+
+       Table 3
+       Individual Taxpayer Regression Variables
+        Intercept
+       Ln(Modified Positive Income)
+       Ln(Modified Positive Income) and Paid Prepared Return
+       Low Complexity
+       Medium Complexity
+       High Complexity
+       Ln(Line Count of Self Prepared Return)
+       Ln(Line Count of Software Prepared Return)
+       Ln(Line Count of Paid Prepared Return)
+       Paid Prepared Return
+       Software Prepared return
+
+
+
+
+10
+   Contos, George, Ardeshir Eftekaharzadeh, Brian Erard, John Gutyon, and Scott Stilmar, 2009a. “Econometric Simulation of the
+Income Tax Compliance Process for Small Business.” In Proceedings of the 2009 Winter Simulation Conference, 2902- 2914. Winter
+Simulation Conference. https://www.informs-sim.org/wsc09papers/281.pdf (last accessed 02/02/2023).
+11
+   Contos, George, John Guyton, Patrick Langetieg, and Susan Nelson, 2009b. “Taxpayer Compliance Costs For Small Businesses:
+Evidence From Corporations, Partnerships, and Sole Proprietorships.” In Proceedings of the One Hundred Second Annual Conference
+on Taxation, 50-59. National Tax Association, Washington, DC.
+12
+   Contos, George, John Guyton, Patrick Langetieg, and Melissa Vigil, 2010. “Individual Taxpayer Compliance Burden: The Role of
+Assisted Methods in Taxpayer Response to Increasing Complexity.” In Proceedings of the 2100 IRS Research Conference, 191-220.
+Internal Revenue Service, Washington, DC.
+                                                                                                                              8
+Each tax item from the primary forms and schedules is rated as “Low,” “Medium,” or “High,” assuming that burden
+increases as a function of both the type of tax-related activities completed by the taxpayer as well as the volume
+completed. For example, if an individual completes an additional tax item one year, holding all else constant,
+compliance burden should increase because the taxpayer will have adjusted his recordkeeping, familiarized
+himself with the relevant taxpayer instructions, or perhaps paid higher preparation fees. The Low, Medium, and
+High Complexity coefficients are the logarithms of the sums of all the values on lines categorized as having the
+corresponding complexity. Based on these coefficients, an additional dollar of activity in the high category will
+increase burden more than an additional dollar in medium and low.
+
+Dummy variables are included to measure the effect of preparation method on compliance burden when self-
+preparation is the reference category. The remaining preparation categories represent paid and software
+preparation. The coefficients for the preparation dummies are positive because fixed costs are associated with
+using assisted methods.
+
+The trade-off for additional tax preparation costs is a reduction in the amount of time it would have taken a
+taxpayer to research and complete the tax return unassisted. In addition to preparation of their tax returns,
+taxpayers may also receive tax-planning advice and can be reasonably assured that they receive all of the tax
+benefits to which they are entitled. Taxpayers may also benefit from representation in the event they are
+contacted by the IRS about their tax return.
+
+To control for the efficiency gains associated with hiring a paid professional, we include in the model
+specification an interaction term between the dummy variable for paid preparation and the logarithm of
+modified positive income (MPI.) This interaction term takes into account the lower marginal compliance costs
+associated with using a paid preparer. To control for additional efficiency gains associated with hiring a paid
+professional or using software, we include three line-count variables that reflect the difference in salience of
+inapplicable tax rules conditional on the taxpayer’s preparation method.
+
+The coefficients for the Business Taxpayer Burden Model are shown in Table 4.
+Table 4
+Business Taxpayer Regression Variables
+
+Intercept
+Ln(Total Assets)
+No Assets Indicator
+Ln(Total Receipts)
+No Receipts Indicator
+Low Complexity
+High Complexity
+No Complexity
+Partnership Indicator
+S Corporation Indicator
+Self-Prepared Indicator
+Positive Tax Liability
+Industry Controls
+
+
+                                                                                                                     9
+The dependent variable is the logarithm of total monetized compliance costs. Independent variables include the
+logarithms of total assets, total receipts, and the sum of dollars reported for line items requiring either very little
+or conversely significant tax-specific recordkeeping. Dummy variables for organizational form, industry, and use
+of a paid tax return preparer are also included. Controlling for both assets and total receipts provides a better fit
+across a range of types and sizes of businesses. Dummy variables are used for cases where either assets or
+receipts are not reported.
+
+The methodology used to develop the ITB and BTB regression specifications provides a framework that enables
+the IRS to simulate the impact of changes to the underlying filing requirements that were captured by the
+surveys. This capability enables the IRS to use the TBM parameters in conjunction with administrative data to
+predict the impact of a changing filing requirement environment.
+
+IV. How the Taxpayer Burden Model is Used
+Reporting for the Paperwork Reduction Act
+Under the ADL method, tax compliance burden is estimated for each separate form, regardless of its
+relationship to other forms. Burden estimation calculations for many forms, such as the Form 8995,
+Qualified Business Income Deduction Simplified Computation, are still calculated using the ADL Model.
+Illustration 1 provides an example of burden reporting under the ADL method.
+
+Illustration 1. Example of PRA Reporting For Form 1040 Using the ADL Method – TY 2004 Form 1040
+
+
+
+
+ Source: TY 2004 Form 1040 instructions, page 75, available at https://www.irs.gov/pub/irs-prior/i1040--2004.pdf. Last
+ accessed 02/02/2023
+Under the improved burden estimate methodology, taxpayer compliance burden for individuals is now reported
+by the main form filed (Form 1040 or 1040-SR), with time categories that are more relevant to today’s tax
+return preparation experience (see Illustration 2). In addition, the estimated average monetary cost of taxpayer
+compliance burden is also provided. Because self-employed taxpayers generally incur substantially higher
+burden than other taxpayers, the average burden is broken out by business and non-business taxpayers. An
+example of the updated reporting format is shown in Illustration 2.
+
+
+
+
+                                                                                                                          10
+Illustration 2: Example of PRA Reporting Using the RAAS Taxpayer Burden Model
+
+
+
+
+Source: Tax Year 2022 Form 1040 Instructions, page 107, available at https://www.irs.gov/pub/irs-pdf/i1040gi.pdf
+(last accessed 02/02/2023).
+
+Beyond the Paperwork Reduction Act
+The benefits of estimating taxpayer compliance burden go far beyond being able to meet the requirements of
+the PRA. It helps the IRS support or achieve several important goals:
+
+•   Fulfill its mission to provide top quality service to taxpayers.
+•   Better understand taxpayer time and out-of-pocket cost burden.
+•   Improve the accuracy and comparability of the information collection budget estimates it provides under
+    the Paperwork Reduction Act (44 U.S.C. 3501 et seq.).
+•   Provide data to be used in micro-simulation models to allow estimation of the impact of proposed
+    legislation on tax compliance burden before the legislation is enacted.
+•   Support ongoing analysis of the role of compliance costs in influencing taxpayer behavior and identifying
+    taxpayer needs.
+•   Provide information to IRS executives and Operating Divisions for assessing the impact of programs on
+    taxpayer compliance burden.
+•   Support the IRS executives and Operating Divisions in their efforts to identify and implement burden
+    reduction initiatives.
+•   Support tax analysis in the Treasury Department Offices.
+•   Assist the IRS in evaluating the effectiveness and associated impact on taxpayer costs and behavior of IRS
+    initiatives.
+
+IRS employees who are responsible for implementing programs, policies, and procedures that impact taxpayers
+perform a burden risk evaluation during the initial implementation phase or when changes are being
+considered. This evaluation is used in conjunction with other business metrics to guide decision making. In
+keeping with a balanced measures approach, tax compliance burden reduction is not considered in isolation. It is
+
+
+
+
+                                                                                                                   11
+ viewed as a component of customer service/satisfaction and is balanced with compliance. By weighing these
+ two components and the number of taxpayers impacted, the IRS can ensure that unnecessary tax compliance
+ burden is addressed and that tax compliance is not jeopardized.
+
+ Individual Compliance Costs by Major Segments of the Tax code
+ One might think that the myriad of tax deductions and credits available to individuals would contribute to the
+ bulk of the complexity faced by these taxpayers. However, as shown in Chart 1, the elements of the tax law that
+ deal solely with reporting income (before claiming any deductions or credits) comprise more than half of
+ individual tax compliance burden.
+
+ The pie chart was created by estimating the ITB model before and after removing each reporting item segment.
+ The order in which segments were removed was based on line item dependencies, generally following the reverse
+ order of line items reported on Form 1040.
+
+ The analysis showed that over half of the individual income tax compliance costs are associated with reporting
+ and substantiating income, even for taxpayers with relatively simple sources of income. Taxpayers with simpler
+ sources of income also tend to have fairly simple deductions and credits, or none at all. Note that this analysis
+ only considers the cost to the taxpayer. If one considers the costs of issuing information returns such as Forms
+ W-2 and 1099, the overall share of income tax compliance costs would be even more heavily weighted towards
+ reporting and substantiating income.
+
+
+
+
+The graph data reads as follows. Deductions other than self employment tax deduction: 25%; Credits: 14%; Alternative minimum tax: no data shown; Other taxes: no data shown; Wages: 18%; Self-employment income: 19%; Other income: 18%.
+
+  Note: Tax Year 2010. The cost of reporting the self-employment tax deduction is included in the Other taxes.
+  Source: IRS Office of Research, Analysis, and Statistics, 01/02/2013
+
+ One limitation of the measurement methodology shown in Chart 1 is that it ignores the impact that complexity
+ has on what taxpayers choose not to do because it is too burdensome, such as choosing not to keep records
+ necessary to claim a tax benefit or even not to comply with certain reporting requirements. Also, self-
+ employed taxpayers’ time may be undervalued, given that net self-employment income may not properly
+ reflect the opportunity cost of starting a new business or the complexity associated with deductions that
+ offset the business’s income.
+
+ V. Administrative Burden
+ The Paperwork Reduction Act also requires federal agencies to provide the annualized administrative costs
+ incurred by the federal government to collect information. These costs include personnel work hours,
+ operational expenses (such as equipment, overhead, printing, and support staff), and any other expense that
+ would not have been incurred without this collection of information.
+
+
+                                                                                                                                                                                                                                           12
+IRS work is unique compared to other agencies in that it is driven by the tax laws passed by Congress. The IRS
+develops regulations that define the information collection process and creates the collection instruments (tax
+forms). The tax forms streamline the tax reporting requirements.
+
+The IRS Special Service Section in W&I’s Tax Forms and Publications (TF&P) Division is responsible for service-
+wide PRA compliance. In most agencies, the PRA program is managed at a much higher level organizationally
+thereby providing data access and an enterprise view of efforts across the agency. While Special Services
+Branch performs the same tasks, this sometimes presents special challenges when gathering cost information
+from all the contributing units and processing the requests for information. This coupled with the complexity
+of the calculation and the fact that data is not gathered in this manner across the IRS made an accurate cost
+estimate difficult to develop.
+
+Historically, the IRS did not provide the government cost estimates with its Information Collection Requests (ICRs)
+because the IRS had not developed a model to determine level of effort and cost. Recently, for the taxpayer centric
+ICRs, IRS has begun providing government costs, which includes for the aggregate labor costs for development,
+operation and maintenance expenses, and distribution of tax products that collect information. The costs do not
+include any activities such as taxpayer assistance or enforcement costs. In addition, IRS includes the government cost
+estimates for processing tax returns and performing related functions in the Submission Processing Campus(es)
+includes salaries and benefits only.
+
+Methodology
+To devise a methodology that accurately addresses the requirements of the PRA, the technical staff from TF&P
+responsible for the PRA collaborated with the IRS Central Finance Office (CFO) and the IRS Research, Applied
+Analytics, and Statistics division to develop a sound methodology as outlined below. Government costs were
+separated into three cost areas: Form development, printing and distribution for forms and downstream
+impacts associated with form development.
+
+For form development, the key variables are the job series of the staff performing the work, the percentage of
+time the task was completed, and the source of cost data. This method was repeated for printing and
+distribution costs and in addition we identified the costs for printing and distribution for each form
+
+Downstream costs were identified as aggregated costs of all support functions as allocated to each function
+performing tasks in form development and printing and distribution.
+
+
+
+
+                                                                                                                    13
+Category                        Functions                                *Source
+
+Form Development                TFP: Tax Law Specialists, Reviewers,     Data from CFO, IFS
+                                Technical Leads, Management
+                                Publishing: Composition Specialist,
+                                Webmasters, Management
+                                Chief Counsel: Attorneys (10%)
+Printing and Distribution       Distribution: NDC Staff and HQ           Data from CFO, IFS,
+                                forecasting analysts                     Printing and Distribution
+                                Publishing: Contract information
+Downstream Impacts              Aggregated costs of all support          Data from CFO, IFS
+                                functions as allocated to functions
+                                above
+
+                                    Total Government Cost Estimate
+** CFO will provide aggregate data for developing products beginning to end to be used in our weighted
+                                                model
+
+
+
+
+                                                                                                         14
+Once costs areas were identified, a weighted factor was created to determine a per-product cost. Each product
+was assigned a weighted number. All aggregated costs for allocable costs for form development and
+downstream impacts are applied to each product in the ratio of the products weighted number to the total of all
+products’ weighted number. The results were modified to take into account the amount of work required based
+on whether the document is a publication, form instructions, a tax form, etc.
+The weighted number for a product is determined as follows:
+
+    1. Number of pages in the product multiplied by adjustment factors below.
+    2. Forms’ page count is deemed to be 50 because of the WRNs and other work involved per page of a
+       form; Instructions’ page counts are multiplied by 2; Publications and other products are not adjusted
+       (multiplied by 1).
+    3. Annual and quarterly products are multiplied by 3; Continuous use products are multiplied by 1 since
+       they aren’t revised as often.
+    4. Products with TF&P Signoff level that is at the branch level are multiplied by 1.3; those less complicated
+       products for which the reviewer has the final signoff are multiplied by 1. Those reviewed at the branch
+       level are more complicated thus requiring the extra review.
+    5. Critical products, CIFS and CTB, are multiplied by 1.3 (all others multiplied by 1) due to the extra
+       management and other work required.
+    6. Form 1040 and Instructions weights are doubled due to the extra work involved.
+
+Note: The relative weighted factors for each product were developed based on the metadata available for each
+product and historical knowledge of the impact on workload of each piece of metadata as described above using
+over 20 years of subject matter expertise.
+
+VI. Burden Estimate Transition
+At the request of the OMB Office of Information and Regulatory Affairs, W&I’s TF&P team and RAAS are
+transitioning the tax compliance burden estimation method for all tax forms and regulations to the preferred
+RAAS method. Doing so will allow IRS to consolidate 707 OMB control numbers into as few as nine taxpayer-
+centric segments, including the individual taxpayer and business entity taxpayer segments that have already
+been transitioned. One additional control number may be needed for information collections that don’t fit
+elsewhere.
+
+Forms that are used solely by one type of taxpayer (e.g., Form 1040 is filed only by individual taxpayers) will be
+included in the OMB data collection for that segment. Forms that are used by more than one type of taxpayer
+will be consolidated into the OMB number of the segment whose taxpayers incur most of the annual compliance
+burden. The same process will be used to consolidate the related regulations.
+
+Important: Because the RAAS burden method takes into account the tax compliance burden incurred on the
+returns that are actually filed, it automatically considers all of the forms and schedules used by a given segment
+and all of the underlying regulations that apply, regardless of the OMB number to which a form or regulation is
+assigned.
+
+To complete the burden estimation transition work, RAAS must gather the burden data from the relevant
+taxpayers, analyze that data and the matched administrative data, and develop and test the related modeling
+capability. As each transition occurs, the Federal Register Notice will include information about the transition
+and list the forms, schedules, and regulations that are included in the resulting consolidated segment.
+
+
+
+
+                                                                                                                     15
+Table 5: Taxpayer Segments for Consolidated Reporting
+
+                                       Fiscal Year of   Consolidated
+                Category
+                                         Transition        OMB #
+    Individual Taxpayers                   2005          1545-0074
+    Business Entities                      2014          1545-0123
+    Tax-Exempt Organizations               2018          1545-0047
+    Employer                                TBD          1545-0029
+    Information Return Issuers              TBD          1545-0008
+    Trust and Estate Income Tax             TBD          1545-0092
+    Transfer Taxes (Estate and Gift)        TBD          1545-0015
+    Pension Plans                           TBD          1545-0197
+    Excise Taxes                            TBD          1545-0023
+    Reserved                                TBD             TBD
+
+
+  In addition to transitioning all tax compliance estimates to the RAAS method, the IRS will begin reporting the
+  administrative burden associated with each burden information collection. Doing so will help make the total
+  costof tax compliance transparent to taxpayers and policy makers.
+
+  VII. Summary
+  Unlike other federal information collection burden, taxpayer compliance burden is imposed by legislation
+  created and passed into law by Congress. The IRS is tasked with administering and enforcing the law, taking
+  tradeoffs between burden imposition and revenue protection into consideration. Although the IRS is required to
+  estimate and report taxpayer compliance burden, the benefits of doing so go far beyond complying with the
+  Paperwork Reduction Act.
+
+  Through taxpayer compliance burden research conducted by the IRS Research, Applied Analytics, and Statistics
+  department, with guidance from OMB, TF&P, the Treasury Office of Tax Analysis, and input from other internal
+  and external stakeholders, the IRS is better able to understand the drivers of compliance burden as well as how
+  changes in tax law and IRS administrative processes impact burden.It also allows the IRS to estimate tax
+  compliance burden based on a taxpayer-centric view of the time and money taxpayers spend to comply with
+  their federal income tax filing requirements, amend a return, or resolve an issue with a return. Taxpayer burden
+  surveys ensure that the Taxpayer Burden Model, which is used to produce the tax compliance burden
+  estimates, reflects the impact of changing tax law, administrative practices, technology infrastructure, and
+  choice of return preparation and filing method.
+
+  The transition of all form burden estimation from the legacy A. D. Little method to the preferred taxpayer
+  centric methodology is an important step in improving how taxpayers and the IRS understand taxpayer
+  compliance burden, both in terms of time and monetary costs. By also providing information on related
+  administrative burden, the full picture of the cost of complying with tax law can be reported.
+
+
+         Thank You: The IRS appreciates the taxpayers who are selected to receive a taxpayer burden
+         survey and who take the time to respond. The information they provide makes it possible to
+         create, update, and expand the Taxpayer Burden Model and helps ensure that the model
+         produces estimates that are representative of all taxpayers’ tax compliance burden. We can only
+         survey a small sample of taxpayers each time, so every response counts.
+
+
+
+                                                                                                                     16
+APPENDIX A – Individual Taxpayer Burden Survey Complexity Strata Definitions
+
+       Strata          Definition
+
+       Low             Wage income;
+                       Interest income;
+                       Unemployment income;
+                       Withholding;
+                       Earning income tax credit (with no qualifying children) or advanced EIC;
+                       Does not meet any of the conditions for higher levels of differential burden
+       Low-Medium      Capital gain income (includes capital gains distributions and undistributed
+                       capital gains);
+                       Dividend income;
+                       Earned income tax credit (with qualifying children);
+                       Estimated tax payments;
+                       Retirement income (includes SS benefits, IRA distributions, or pensions and
+                       annuities); Any non-refundable credit (includes child and dependent care
+                       expenses, education credits, child tax credit, elderly or disabled credit);
+                       Household employees;
+                       Non-business adjustments;
+                       Does not meet any of the conditions for higher levels of differential burden
+       Medium          Itemized deductions (includes mortgage interest, interest paid to financial
+                       institution; charitable contributions, and medical expenses); Foreign
+                       income, expense, tax, credit, or payment;
+                       Moving expenses;
+                       Simple Schedule C;
+                       General business credit;
+                       Does not meet any of the conditions for higher levels of differential burden
+       Medium-High     Farm income as reported on Schedule F;
+                       Owns rental property as reported on Schedule E, including farm rental and low-
+                       income housing;
+                       Estate or trust income as reported on Schedule E;
+                       Employee business expense deductions;
+                       Files AMT without AMT preference items;
+                       Prior year alternative minimum tax credit;
+                       Investment interest expense deduction;
+                       Net loss as reported on Schedule C;
+                       Depreciation or amortization as reported on Schedule C;
+                       Expenses for business use of home as reported on Schedule C;
+                       Does not meet any of the conditions for higher levels of differential burden
+       High            Cost of goods sold as reported on Schedule C;
+                       Partnership or S-Corp income as reported on Schedule
+                       E; Files AMT with AMT preference items
+
+
+
+
+                                                                                                        17
+

@@ -1,0 +1,14 @@
+{
+  "form": {
+    "id": "form-3520",
+    "form": "Form 3520",
+    "title": "Annual Return To Report Transactions With Foreign Trusts and Receipt of Certain Foreign Gifts",
+    "kind": "form",
+    "revision": null,
+    "source_url": "https://www.irs.gov/forms-pubs/about-form-3520",
+    "instructions_url": "https://www.irs.gov/instructions/i3520",
+    "lines": [],
+    "question": "Did you receive a distribution from, or were you the grantor of, or a transferor to, a foreign trust during the tax year?",
+    "notes": "PRODUCES NO 1040 LINE. Triggered by a 'Yes' on Schedule B line 8. The Instructions for Schedule B say: 'Don\u2019t attach Form 3520 to Form 1040 or Form 1040-SR. Instead, file it at the address shown in its instructions', and 'If you were treated as the owner of a foreign trust under the grantor trust rules, you are also responsible for ensuring that the foreign trust files Form 3520-A. Form 3520-A is due on March 16, 2026, for a calendar year trust.' No revision was read - this part did not fetch the form."
+  }
+}

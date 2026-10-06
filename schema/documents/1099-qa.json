@@ -1,0 +1,79 @@
+{
+  "document": {
+    "id": "1099-QA",
+    "title": "Distributions From ABLE Accounts",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-QA (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099qa--2025.pdf",
+    "issued_by": "ABLE program (payer)",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "Marks this statement as correcting one already furnished for the same year."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a filer's mark, never a figure."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "The filer's own account number; identification only."
+      },
+      {
+        "box": "payer-tin",
+        "label": "PAYER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "recipient-tin",
+        "label": "RECIPIENT\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "1",
+        "label": "Gross distribution",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Earnings",
+        "type": "money",
+        "notes": "The earnings part of box 1."
+      },
+      {
+        "box": "3",
+        "label": "Basis",
+        "type": "money",
+        "notes": "Basis in the box 1 gross distribution."
+      },
+      {
+        "box": "4",
+        "label": "Program-to-program transfer",
+        "type": "checkbox"
+      },
+      {
+        "box": "5",
+        "label": "Check if ABLE account terminated in the calendar year reported",
+        "type": "checkbox"
+      },
+      {
+        "box": "6",
+        "label": "If this box is checked, the recipient is not the designated beneficiary",
+        "type": "checkbox"
+      }
+    ],
+    "notes": "Box 1 = box 2 + box 3. Only the earnings can be taxable, and only to the extent the distribution was not used for qualified disability expenses or rolled over; the taxable amount is Schedule 1 line 8q. Additional tax is figured on Form 5329."
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

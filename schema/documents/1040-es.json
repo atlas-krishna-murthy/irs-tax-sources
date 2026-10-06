@@ -1,0 +1,160 @@
+{
+  "document": {
+    "id": "1040-ES",
+    "title": "Estimated Tax for Individuals",
+    "kind": "taxpayer_record",
+    "revision": "2025",
+    "revision_printed_as": "Form 1040-ES (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040es--2025.pdf",
+    "issued_by": "the taxpayer (self-prepared payment vouchers)",
+    "container_of": null,
+    "copies_are_distinct": "Four vouchers print per year and each is its own payment, so four of one amount are four payments \u2014 never one figure reported four times (spec 079 FR-005).",
+    "boxes": [
+      {
+        "box": "voucher",
+        "label": "Amount of estimated tax you are paying by check or money order",
+        "type": "money"
+      },
+      {
+        "box": "voucher-number",
+        "label": "Payment Voucher",
+        "type": "code",
+        "note": "Which of the four vouchers (1-4); with the due date it is what tells four payments of one amount apart.",
+        "codes": [
+          {
+            "code": "1",
+            "label": "Voucher 1"
+          },
+          {
+            "code": "2",
+            "label": "Voucher 2"
+          },
+          {
+            "code": "3",
+            "label": "Voucher 3"
+          },
+          {
+            "code": "4",
+            "label": "Voucher 4"
+          }
+        ]
+      },
+      {
+        "box": "due-date",
+        "label": "Calendar year\u2014Due",
+        "type": "date",
+        "note": "The voucher's printed due date (Apr. 15, June 16, Sept. 15 2025, Jan. 15 2026)."
+      },
+      {
+        "box": "tax-year",
+        "label": "2025 Estimated Tax",
+        "type": "text",
+        "note": "The year the payment is for - a voucher for another year is not a 2025 payment."
+      },
+      {
+        "box": "record-date-paid",
+        "label": "(b) Date paid",
+        "type": "date",
+        "note": "Record of Estimated Tax Payments - the taxpayer's own page, one row per payment 1-4."
+      },
+      {
+        "box": "record-confirmation-number",
+        "label": "(c) Check or money order number, or credit or debit card confirmation number",
+        "type": "identifier"
+      },
+      {
+        "box": "record-amount-paid",
+        "label": "(d) Amount paid (do not include any convenience fee)",
+        "type": "money"
+      },
+      {
+        "box": "record-overpayment-credit-applied",
+        "label": "(e) 2024 overpayment credit applied",
+        "type": "money"
+      },
+      {
+        "box": "record-total-amount-paid-and-credited",
+        "label": "(f) Total amount paid and credited (add (d) and (e))",
+        "type": "money"
+      }
+    ],
+    "notes": "There is no information return for estimated payments. The figure is the taxpayer's own record of four vouchers, reconcilable against an IRS account transcript.",
+    "face_not_boxes": [
+      {
+        "slot": "1",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      },
+      {
+        "slot": "2",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      },
+      {
+        "slot": "2a",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      },
+      {
+        "slot": "3",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      },
+      {
+        "slot": "4",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      },
+      {
+        "slot": "5",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      },
+      {
+        "slot": "6",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      },
+      {
+        "slot": "6b",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      },
+      {
+        "slot": "11a",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      },
+      {
+        "slot": "12a",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      },
+      {
+        "slot": "14a",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      },
+      {
+        "slot": "15",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      },
+      {
+        "slot": "19",
+        "because": "A line of the 2025 Estimated Tax Worksheet (or the instructions' numbered text) the taxpayer works through to SIZE a payment; the vouchers and the payment record are what was paid, and a worksheet line is never a figure the sheet reads."
+      }
+    ]
+  },
+  "extraction": {
+    "model": "custom.1040-ES",
+    "note": "Azure ships no prebuilt-tax model for this form, so it reached the generic reader - which emits no field bearing these box names, so every cited route out of this document was dead while looking implemented (spec 075 US1/W42). Read by the declared custom model: a voucher's amount, number, due date and year, and - where the client keeps it - the Record of Estimated Tax Payments page.",
+    "custom": {
+      "reads": "an estimated-tax payment voucher. Four print per year; each voucher is its own document and carries its own due date. Or the taxpayer's Record of Estimated Tax Payments page.",
+      "sections": [
+        {
+          "document": "1040-ES",
+          "boxes": [
+            "voucher",
+            "voucher-number",
+            "due-date",
+            "tax-year",
+            "record-date-paid",
+            "record-confirmation-number",
+            "record-amount-paid",
+            "record-overpayment-credit-applied",
+            "record-total-amount-paid-and-credited"
+          ]
+        }
+      ]
+    }
+  }
+}

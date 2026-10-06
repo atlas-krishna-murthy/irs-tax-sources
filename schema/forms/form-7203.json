@@ -1,0 +1,552 @@
+{
+  "form": {
+    "id": "form-7203",
+    "form": "Form 7203",
+    "title": "S Corporation Shareholder Stock and Debt Basis Limitations",
+    "kind": "form",
+    "revision": "Rev. December 2022",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f7203.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-pdf/i7203.pdf",
+    "lines": [
+      {
+        "line": "C",
+        "caption": "Stock block (see instructions):",
+        "type": "text"
+      },
+      {
+        "line": "D",
+        "caption": "Check applicable box(es) to indicate how stock was acquired: (1) Original shareholder (2) Purchased (3) Inherited (4) Gift (5) Other:",
+        "type": "checkbox"
+      },
+      {
+        "line": "E",
+        "caption": "Check if you have a Regulations section 1.1367-1(g) election in effect during the tax year for this S corporation",
+        "type": "checkbox"
+      },
+      {
+        "line": "1",
+        "caption": "Stock basis at the beginning of the corporation\u2019s tax year",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Basis from any capital contributions made or additional stock acquired during the tax year",
+        "type": "money"
+      },
+      {
+        "line": "3a",
+        "caption": "Ordinary business income (enter losses in Part III)",
+        "type": "money"
+      },
+      {
+        "line": "3b",
+        "caption": "Net rental real estate income (enter losses in Part III)",
+        "type": "money"
+      },
+      {
+        "line": "3c",
+        "caption": "Other net rental income (enter losses in Part III)",
+        "type": "money"
+      },
+      {
+        "line": "3d",
+        "caption": "Interest income",
+        "type": "money"
+      },
+      {
+        "line": "3e",
+        "caption": "Ordinary dividends",
+        "type": "money"
+      },
+      {
+        "line": "3f",
+        "caption": "Royalties",
+        "type": "money"
+      },
+      {
+        "line": "3g",
+        "caption": "Net capital gains (enter losses in Part III)",
+        "type": "money"
+      },
+      {
+        "line": "3h",
+        "caption": "Net section 1231 gain (enter losses in Part III)",
+        "type": "money"
+      },
+      {
+        "line": "3i",
+        "caption": "Other income (enter losses in Part III)",
+        "type": "money"
+      },
+      {
+        "line": "3j",
+        "caption": "Excess depletion adjustment",
+        "type": "money"
+      },
+      {
+        "line": "3k",
+        "caption": "Tax-exempt income",
+        "type": "money"
+      },
+      {
+        "line": "3l",
+        "caption": "Recapture of business credits",
+        "type": "money"
+      },
+      {
+        "line": "3m",
+        "caption": "Other items that increase stock basis",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Add lines 3a through 3m",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Stock basis before distributions. Add lines 1, 2, and 4",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Distributions (excluding dividend distributions)",
+        "type": "money",
+        "note": "Printed note under the line: \u201cIf line 6 is larger than line 5, subtract line 5 from line 6 and report the result as a capital gain on Form 8949 and Schedule D. See instructions.\u201d"
+      },
+      {
+        "line": "7",
+        "caption": "Stock basis after distributions. Subtract line 6 from line 5. If the result is zero or less, enter -0-, skip lines 8 through 14, and enter -0- on line 15",
+        "type": "money"
+      },
+      {
+        "line": "8a",
+        "caption": "Nondeductible expenses",
+        "type": "money"
+      },
+      {
+        "line": "8b",
+        "caption": "Depletion for oil and gas",
+        "type": "money"
+      },
+      {
+        "line": "8c",
+        "caption": "Business credits (sections 50(c)(1) and (5))",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Add lines 8a through 8c",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Stock basis before loss and deduction items. Subtract line 9 from line 7. If the result is zero or less, enter -0-, skip lines 11 through 14, and enter -0- on line 15",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Allowable loss and deduction items. Enter the amount from line 47, column (c)",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Debt basis restoration (see net increase in instructions for line 23)",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Other items that decrease stock basis",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Add lines 11, 12, and 13",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Stock basis at the end of the corporation\u2019s tax year. Subtract line 14 from line 10. If the result is zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Loan balance at the beginning of the corporation\u2019s tax year",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "17",
+        "caption": "Additional loans (see instructions)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "18",
+        "caption": "Loan balance before repayment. Add lines 16 and 17",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "19",
+        "caption": "Principal portion of debt repayment (this line doesn\u2019t include interest)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "20",
+        "caption": "Loan balance at the end of the corporation\u2019s tax year. Subtract line 19 from line 18",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "21",
+        "caption": "Debt basis at the beginning of the corporation\u2019s tax year",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "22",
+        "caption": "Enter the amount, if any, from line 17",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "23",
+        "caption": "Debt basis restoration (see instructions)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "24",
+        "caption": "Debt basis before repayment. Add lines 21, 22, and 23",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "25",
+        "caption": "Divide line 24 by line 18",
+        "type": "percent",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "26",
+        "caption": "Nontaxable debt repayment. Multiply line 25 by line 19",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "27",
+        "caption": "Debt basis before nondeductible expenses and losses. Subtract line 26 from line 24",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "28",
+        "caption": "Nondeductible expenses and oil and gas depletion deductions in excess of stock basis",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "29",
+        "caption": "Debt basis before losses and deductions. Subtract line 28 from line 27. If the result is zero or less, enter -0-",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "30",
+        "caption": "Allowable losses in excess of stock basis. Enter the amount from line 47, column (d)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "31",
+        "caption": "Debt basis at the end of the corporation\u2019s tax year. Subtract line 30 from line 29. If the result is zero or less, enter -0-",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "32",
+        "caption": "Repayment. Enter the amount from line 19",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "33",
+        "caption": "Nontaxable repayments. Enter the amount from line 26",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "line": "34",
+        "caption": "Reportable gain. Subtract line 33 from line 32",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "computed_by_software": true
+      },
+      {
+        "line": "35",
+        "caption": "Ordinary business loss",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "36",
+        "caption": "Net rental real estate loss",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "37",
+        "caption": "Other net rental loss",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "38",
+        "caption": "Net capital loss",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "39",
+        "caption": "Net section 1231 loss",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "40",
+        "caption": "Other loss",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "41",
+        "caption": "Section 179 deductions",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "42",
+        "caption": "Charitable contributions",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "43",
+        "caption": "Investment interest expense",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "44",
+        "caption": "Section 59(e)(2) expenditures",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "45",
+        "caption": "Other deductions",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "46",
+        "caption": "Foreign taxes paid or accrued",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "47",
+        "caption": "Total loss. Add lines 35 through 46 for each column. Enter the total loss in column (c) on line 11 and enter the total loss in column (d) on line 30",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ],
+        "computed_by_software": true
+      },
+      {
+        "line": "A",
+        "caption": "Name of S corporation",
+        "type": "text"
+      },
+      {
+        "line": "B",
+        "caption": "Employer identification number",
+        "type": "tin"
+      }
+    ],
+    "notes": "The stock-and-debt-basis limitation \u2014 the FIRST of the four loss limitations for an S corporation shareholder. Required whenever the shareholder reports a loss, receives a distribution, disposes of stock, or receives a loan repayment; Schedule E line 28 column (e) is the check box that asks."
+  }
+}

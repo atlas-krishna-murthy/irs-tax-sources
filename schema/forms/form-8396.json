@@ -1,0 +1,106 @@
+{
+  "form": {
+    "id": "form-8396",
+    "form": "Form 8396",
+    "title": "Mortgage Interest Credit (For Holders of Qualified Mortgage Credit Certificates Issued by State or Local Governmental Units or Agencies)",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8396--2025.pdf",
+    "instructions_url": "https://www.irs.gov/forms-pubs/about-form-8396",
+    "notes": "refundable: false. Line 9 goes to Schedule 3 Part I line 6g and line 8 limits it to tax liability. Unused credit carries forward three years (Part II). One interaction worth carrying: the form prints 'You must reduce your deduction for home mortgage interest on Schedule A (Form 1040) by the amount on line 3' \u2014 claiming this credit reduces an itemized deduction owned by another part of this map. The credit rate is the certificate credit rate printed on the taxpayer's own Mortgage Credit Certificate, not a statutory figure; where that rate exceeds 20% the credit is capped at $2,000 \u2014 the Form 8396 instructions printed on the form's own page 2 read 'If the certificate credit rate shown on line 2 is more than 20%, multiply line 1 by line 2, but do not enter more than $2,000 on line 3', and a Caution there adds that 'no amount over the $2,000 limit (or your prorated share of the $2,000 if you must allocate the credit) may be carried forward for use in a later year.' NOTE: line 4's printed caption reads 'Enter any 2022 credit carryforward from line 16 of your 2024 Form 8396' \u2014 transcribed verbatim as printed. Printed revision: Form 8396 (2025), Created 8/28/25.",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Interest paid on the certified indebtedness amount. If someone else (other than your spouse if filing jointly) also held an interest in the home, enter only your share of the interest paid",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Enter the certificate credit rate shown on your Mortgage Credit Certificate. Do not enter the interest rate on your home mortgage",
+        "type": "percent"
+      },
+      {
+        "line": "3",
+        "caption": "If line 2 is 20% or less, multiply line 1 by line 2. If line 2 is more than 20%, or you refinanced your mortgage and received a reissued certificate, see the instructions for the amount to enter",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Enter any 2022 credit carryforward from line 16 of your 2024 Form 8396",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Enter any 2023 credit carryforward from line 14 of your 2024 Form 8396",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Enter any 2024 credit carryforward from line 17 of your 2024 Form 8396",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Add lines 3 through 6",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Limitation based on tax liability. Enter the amount from line 3 of the Credit Limit Worksheet in the instructions",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Current-year mortgage interest credit. Enter the smaller of line 7 or line 8. Also include this amount on Schedule 3 (Form 1040), line 6g",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "10",
+        "caption": "Add lines 3 and 4",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Enter the amount from line 7",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Enter the larger of line 9 or line 10",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "13",
+        "caption": "Subtract line 12 from line 11",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "14",
+        "caption": "2024 credit carryforward to 2026. Enter the smaller of line 6 or line 13",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "15",
+        "caption": "Subtract line 14 from line 13",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "16",
+        "caption": "2023 credit carryforward to 2026. Enter the smaller of line 5 or line 15",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "17",
+        "caption": "2025 credit carryforward to 2026. Subtract line 9 from line 3. If zero or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ]
+  }
+}

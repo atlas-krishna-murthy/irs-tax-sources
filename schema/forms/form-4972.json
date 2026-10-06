@@ -1,0 +1,194 @@
+{
+  "form": {
+    "id": "form-4972",
+    "form": "Form 4972",
+    "title": "Tax on Lump-Sum Distributions",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f4972--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/f4972--2025.pdf",
+    "lines": [
+      {
+        "line": "6",
+        "caption": "Capital gain part from Form 1099-R, box 3",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Multiply line 6 by 20% (0.20)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "8",
+        "caption": "If you completed Part II, enter the amount from Form 1099-R, box 2a, minus box 3. If you didn\u2019t complete Part II, enter the amount from box 2a. Multiple recipients (and recipients who elect to include net unrealized appreciation (NUA) in taxable income), see instructions",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Current actuarial value of annuity from Form 1099-R, box 8. If none, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "30",
+        "caption": "Tax on lump-sum distribution. Add lines 7 and 29. Also, include this amount in the total on Form 1040, 1040-SR, or 1040-NR, line 16 (check box 2), or Form 1041, Schedule G, line 1b",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "1",
+        "caption": "Was this a distribution of a plan participant\u2019s entire balance (excluding deductible voluntary employee contributions and certain forfeited amounts) from all of an employer\u2019s qualified plans of one kind (for example, pension, profit-sharing, or stock bonus)? If \u201cNo,\u201d don\u2019t use this form",
+        "type": "checkbox"
+      },
+      {
+        "line": "2",
+        "caption": "Did you roll over any part of the distribution? If \u201cYes,\u201d don\u2019t use this form",
+        "type": "checkbox"
+      },
+      {
+        "line": "3",
+        "caption": "Was this distribution paid to you as a beneficiary of a plan participant who was born before January 2, 1936?",
+        "type": "checkbox"
+      },
+      {
+        "line": "4",
+        "caption": "Were you (a) a plan participant who received this distribution, (b) born before January 2, 1936, and (c) a participant in the plan for at least 5 years before the year of the distribution?",
+        "type": "checkbox"
+      },
+      {
+        "line": "5a",
+        "caption": "Did you use Form 4972 after 1986 for a previous distribution from your own plan? If \u201cYes,\u201d don\u2019t use this form for a 2025 distribution from your own plan",
+        "type": "checkbox"
+      },
+      {
+        "line": "5b",
+        "caption": "If you are receiving this distribution as a beneficiary of a plan participant who died, did you use Form 4972 for a previous distribution received as a beneficiary of that participant after 1986? If \u201cYes,\u201d don\u2019t use this form for this distribution",
+        "type": "checkbox"
+      },
+      {
+        "line": "9",
+        "caption": "Death benefit exclusion for a beneficiary of a plan participant who died before August 21, 1996",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Total taxable amount. Subtract line 9 from line 8",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "12",
+        "caption": "Adjusted total taxable amount. Add lines 10 and 11. If this amount is $70,000 or more, skip lines 13 through 16, enter this amount on line 17, and go to line 18",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "13",
+        "caption": "Multiply line 12 by 50% (0.50), but don\u2019t enter more than $10,000",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "14",
+        "caption": "Subtract $20,000 from line 12. If line 12 is $20,000 or less, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "15",
+        "caption": "Multiply line 14 by 20% (0.20)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "16",
+        "caption": "Minimum distribution allowance. Subtract line 15 from line 13",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "17",
+        "caption": "Subtract line 16 from line 12",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "18",
+        "caption": "Federal estate tax attributable to lump-sum distribution",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "Subtract line 18 from line 17. If line 11 is zero, skip lines 20 through 22 and go to line 23",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "20",
+        "caption": "Divide line 11 by line 12 and enter the result as a decimal (rounded to at least three places)",
+        "type": "number",
+        "computed_by_software": true
+      },
+      {
+        "line": "21",
+        "caption": "Multiply line 16 by the decimal on line 20",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "22",
+        "caption": "Subtract line 21 from line 11",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "23",
+        "caption": "Multiply line 19 by 10% (0.10)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "24",
+        "caption": "Tax on amount on line 23. Use the Tax Rate Schedule in the instructions",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "25",
+        "caption": "Multiply line 24 by 10.0. If line 11 is zero, skip lines 26 through 28, enter this amount on line 29, and go to line 30",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "26",
+        "caption": "Multiply line 22 by 10% (0.10)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "27",
+        "caption": "Tax on amount on line 26. Use the Tax Rate Schedule in the instructions",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "28",
+        "caption": "Multiply line 27 by 10.0",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "29",
+        "caption": "Subtract line 28 from line 25. Multiple recipients, see instructions",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "2a",
+        "because": "'box 2a (Taxable amount) of Form 1099-R' \u2014 a reference in the instructions printed on page 2, not a line (line 2 is declared)"
+      }
+    ]
+  }
+}

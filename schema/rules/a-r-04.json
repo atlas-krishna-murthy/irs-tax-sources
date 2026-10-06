@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "class": "document",
+    "years": [
+      2025
+    ],
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "id": "a-r-04",
+    "title": "Codes 6 and W need not be reported: counted as 0.00 on their row",
+    "acts_on": {
+      "boxes": [
+        "1099-R.1",
+        "1099-R.2a"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "box",
+        "ref": "1099-R.7"
+      }
+    ],
+    "operator": "exclude_when",
+    "params": {
+      "when": {
+        "box": "1099-R.7",
+        "in": [
+          "6",
+          "W"
+        ],
+        "match": "code"
+      }
+    },
+    "citation": {
+      "form": "Form 1099-R",
+      "line": "Box 1",
+      "revision": "2025",
+      "wording": "If a life insurance, annuity, qualified long-term care, or endowment contract was transferred tax free to another trustee or contract issuer, an amount will be shown in this box and code 6 will be shown in box 7. If a charge or payment was made against the cash value of an annuity contract or the cash surrender value of a life insurance contract for the purchase of qualified long-term care insurance, an amount will be shown in this box and code W will be shown in box 7. You need not report these amounts on your tax return.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1099r--2025.pdf"
+    }
+  }
+}

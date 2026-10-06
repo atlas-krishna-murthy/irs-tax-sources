@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-owners-own-retirement-contribution",
+    "wording": "Is this item a retirement plan contribution made on the owner's own behalf as a self-employed person, rather than for employees?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 the owner's own contribution (Schedule 1 line 16), not Schedule C"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 a contribution for employees"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this item a retirement plan contribution made on the owner's own behalf as a self-employed person, rather than for employees?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule C (Form 1040)",
+        "line": "Line 19",
+        "revision": "2025",
+        "wording": "If the plan included you as a self-employed person, enter the contributions made as an employer on your behalf on Schedule 1 (Form 1040), line 16, not on Schedule C.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+      }
+    }
+  }
+}

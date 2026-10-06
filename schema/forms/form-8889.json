@@ -1,0 +1,161 @@
+{
+  "form": {
+    "id": "form-8889",
+    "form": "Form 8889",
+    "title": "Health Savings Accounts (HSAs)",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8889--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8889",
+    "lines": [
+      {
+        "line": "8",
+        "caption": "Add lines 6 and 7",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Employer contributions made to your HSAs for 2025",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Qualified HSA funding distributions",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Add lines 9 and 10",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Subtract line 11 from line 8. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "HSA deduction (see instructions)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "14a",
+        "caption": "Total distributions you received in 2025 from all HSAs (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "14b",
+        "caption": "Distributions included on line 14a that you rolled over to another HSA. Also include any excess contributions (and the earnings on those excess contributions) included on line 14a that were withdrawn by the due date of your return. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "14c",
+        "caption": "Subtract line 14b from line 14a",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Qualified medical expenses paid using HSA distributions (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Taxable HSA distributions. Subtract line 15 from line 14c. If zero or less, enter -0-. Also, include this amount in the total on Schedule 1 (Form 1040), Part I, line 8f",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "1",
+        "caption": "Check the box to indicate your coverage under a high-deductible health plan (HDHP) during 2025. See instructions",
+        "type": "code",
+        "columns": [
+          "self-only",
+          "family"
+        ],
+        "column_captions": {
+          "self-only": "Self-only",
+          "family": "Family"
+        },
+        "notes": "A two-way choice: Self-only OR Family coverage, never both."
+      },
+      {
+        "line": "2",
+        "caption": "HSA contributions you made for 2025 (or those made on your behalf), including those made by the unextended due date of your tax return that were for 2025. Do not include employer contributions, contributions through a cafeteria plan, or rollovers. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "If you were under age 55 at the end of 2025 and, on the first day of every month during 2025, you were, or were considered, an eligible individual with the same coverage, enter $4,300 ($8,550 for family coverage). All others, see the instructions for the amount to enter",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Enter the amount you and your employer contributed to your Archer MSAs for 2025 from Form 8853, lines 1 and 2. If you or your spouse had family coverage under an HDHP at any time during 2025, also include any amount contributed to your spouse's Archer MSAs",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Subtract line 4 from line 3. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Enter the amount from line 5. But if you and your spouse each have separate HSAs and had family coverage under an HDHP at any time during 2025, see the instructions for the amount to enter",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "If you were age 55 or older at the end of 2025, married, and you or your spouse had family coverage under an HDHP at any time during 2025, enter your additional contribution amount. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "17a",
+        "caption": "If any of the distributions included on line 16 meet any of the Exceptions to the Additional 20% Tax (see instructions), check here",
+        "type": "checkbox"
+      },
+      {
+        "line": "17b",
+        "caption": "Additional 20% tax (see instructions). Enter 20% (0.20) of the distributions included on line 16 that are subject to the additional 20% tax. Also, include this amount in the total on Schedule 2 (Form 1040), Part II, line 17c",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "18",
+        "caption": "Last-month rule",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "Qualified HSA funding distribution",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Total income. Add lines 18 and 19. Include this amount on Schedule 1 (Form 1040), Part I, line 8f",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "21",
+        "caption": "Additional tax. Multiply line 20 by 10% (0.10). Include this amount in the total on Schedule 2 (Form 1040), Part II, line 17d",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "beneficiary-ssn",
+        "caption": "Social security number of HSA beneficiary.",
+        "type": "tin",
+        "notes": "\"If both spouses have HSAs, see instructions.\" Each spouse with an HSA files a separate Form 8889; this SSN says whose."
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "52",
+        "because": "the Attachment Sequence No. printed in the form header, not a line"
+      }
+    ],
+    "revision_printed_as": "Form 8889 (2025) Created 3/28/25",
+    "notes": "ONE FORM PER SPOUSE WITH AN HSA: the header SSN is the HSA beneficiary's (\"If both spouses have HSAs, see instructions\"), so on a joint return the form is an instance per beneficiary."
+  }
+}

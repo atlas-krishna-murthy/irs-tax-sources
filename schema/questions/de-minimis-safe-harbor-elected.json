@@ -1,0 +1,29 @@
+{
+  "question": {
+    "id": "de-minimis-safe-harbor-elected",
+    "wording": "Does the taxpayer elect the de minimis safe harbor for tangible property for 2025 (Regulations section 1.263(a)-1(f))?",
+    "scope": "engagement",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 elected; each capitalized cost of $2,500 or less is an other expense"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 not elected; every capitalized cost is depreciated"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule C (Form 1040)",
+        "line": "48",
+        "revision": "2025",
+        "wording": "If you don\u2019t have an applicable financial statement, you may use the de minimis safe harbor to deduct amounts paid for tangible property up to $2,500 per item or invoice.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "form": {
+    "id": "form-4952",
+    "form": "Form 4952",
+    "title": "Investment Interest Expense Deduction",
+    "kind": "form",
+    "revision": "2025",
+    "revision_printed_as": "Form 4952 (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f4952--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/f4952--2025.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Investment interest expense paid or accrued in 2025 (see instructions)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "2",
+        "caption": "Disallowed investment interest expense from 2024 Form 4952, line 7",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "3",
+        "caption": "Total investment interest expense. Add lines 1 and 2",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "4a",
+        "caption": "Gross income from property held for investment (excluding any net gain from the disposition of property held for investment)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "4b",
+        "caption": "Qualified dividends included on line 4a",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "4c",
+        "caption": "Subtract line 4b from line 4a",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "4d",
+        "caption": "Net gain from the disposition of property held for investment",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "4e",
+        "caption": "Enter the smaller of line 4d or your net capital gain from the disposition of property held for investment. See instructions",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "4f",
+        "caption": "Subtract line 4e from line 4d",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "4g",
+        "caption": "Enter the amount from lines 4b and 4e that you elect to include in investment income. See instructions",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "4h",
+        "caption": "Investment income. Add lines 4c, 4f, and 4g",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "5",
+        "caption": "Investment expenses (see instructions)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "6",
+        "caption": "Net investment income. Subtract line 5 from line 4h. If zero or less, enter -0-",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "7",
+        "caption": "Disallowed investment interest expense to be carried forward to 2026. Subtract line 6 from line 3. If zero or less, enter -0-",
+        "type": "money",
+        "part": "III",
+        "computed_by_software": true
+      },
+      {
+        "line": "8",
+        "caption": "Investment interest expense deduction. Enter the smaller of line 3 or line 6. See instructions",
+        "type": "money",
+        "part": "III",
+        "computed_by_software": true
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "51",
+        "because": "'Attachment Sequence No. 51' in the form header"
+      },
+      {
+        "slot": "3a",
+        "because": "'Form 1040, line 3a' \u2014 a reference in the instructions printed with the form (qualified dividends), not a line of Form 4952"
+      },
+      {
+        "slot": "16",
+        "because": "'Form 1040 or 1040-SR, line 16' \u2014 a reference in the instructions printed with the form, not a line of Form 4952"
+      }
+    ],
+    "notes": "Declared for spec 080 T052: the investment interest limitation is a computation (investment-interest-deduction). The sheet places the interest as printed on Schedule A line 9 and lists the Form 4952 inputs beside it; it never applies the line 8 limit. Line 2 needs last year's Form 4952 line 7, which no declared document carries yet (Phase 8)."
+  }
+}

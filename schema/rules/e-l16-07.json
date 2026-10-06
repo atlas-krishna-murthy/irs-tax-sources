@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "id": "e-l16-07",
+    "title": "Unrecovered investment in a pension is deducted only on the annuitant's final return",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "include_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-other-itemized-deduction-records.unrecovered_investment_in_a_pension"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "return-is-the-annuitants-final-return"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "return-is-the-annuitants-final-return",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "This is not the annuitant's final return unless a preparer says so"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 575",
+      "line": "Exclusion limit",
+      "revision": "2025",
+      "wording": "If Bill and his spouse die before 310 payments are made, an itemized deduction will be allowed for the unrecovered cost on the final income tax return of the last to die.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p575--2025.pdf"
+    },
+    "research_ids": [
+      "e-l16-07"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "combat-pay-eic-election",
+    "wording": "Does this employee elect to include nontaxable combat pay (Form W-2 box 12 code Q) in earned income for the earned income credit?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 elect; it goes on line 1i"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 do not elect"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Nontaxable combat pay is not elected into earned income unless a preparer says so"
+    },
+    "basis": {
+      "citation": {
+        "form": "Form 1040",
+        "line": "1i",
+        "revision": "2025",
+        "wording": "If you elect to include your nontaxable combat pay in your earned income when figuring the EIC, enter the amount on line 1i.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+      }
+    }
+  }
+}

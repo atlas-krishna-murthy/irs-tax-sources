@@ -1,0 +1,29 @@
+{
+  "question": {
+    "id": "gambling-is-a-trade-or-business",
+    "wording": "Is the taxpayer in the trade or business of gambling?",
+    "scope": "engagement",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes — winnings are Schedule C receipts"
+      },
+      {
+        "value": "no",
+        "label": "No — winnings are Schedule 1 line 8b"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Schedule 1 (Form 1040)",
+        "line": "8b",
+        "revision": "2025",
+        "wording": "Gambling. Enter gambling winnings not attributable to a trade or business.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+      }
+    }
+  }
+}

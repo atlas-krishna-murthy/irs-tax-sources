@@ -1,0 +1,755 @@
+Instructions for Form 8992
+(Rev. December 2024)
+
+(Use with the December 2022 revisions of Form 8992, Schedule A (Form 8992), and
+Schedule B (Form 8992))
+U.S. Shareholder Calculation of Global Intangible Low-Taxed Income (GILTI)
+Section references are to the Internal Revenue Code unless
+otherwise noted.
+
+year in which it was a CFC. See Regulations sections
+1.958-1(d) and 1.6038-5(a).
+
+Future Developments
+
+Members of a U.S. consolidated group. While each U.S.
+shareholder that is a member of a U.S. consolidated group is
+required to complete a separate Form 8992, these Forms
+8992 should not be filed with the consolidated return.
+Instead, a single consolidated Form 8992 must be completed
+and filed with the U.S. consolidated group’s income tax
+return. See the instructions for Schedule B, later, for
+information regarding the steps necessary to complete
+Schedule B (Form 8992) and Form 8992.
+
+For the latest information about developments related to
+Form 8992 and its instructions, such as legislation enacted
+after they were published, go to IRS.gov/Form8992.
+Additional guidance may be issued subsequent to these
+instructions. Please review any additional information on
+IRS.gov/Form8992 prior to completing Form 8992.
+
+What’s New
+Clarifying information has been added to the following
+instructions.
+• Part I of Schedule B, line 1.
+• Part II of Schedule B, columns (c), (e), (g), (j), and (k).
+
+Reminders
+Form 8993 deduction. If you are eligible for a deduction
+under section 250 for your GILTI inclusion, please see Form
+8993, Section 250 Deduction for Foreign-Derived Intangible
+Income (FDII) and Global Intangible Low-Taxed Income
+(GILTI), and its instructions.
+Domestic partnerships. Domestic partnerships are no
+longer required to complete Form 8992 or Schedule A (Form
+8992). Instead, domestic partnerships must complete
+Schedule K-2 (Form 1065), Part VI, and Schedule K-3 (Form
+1065), Part VI.
+
+General Instructions
+Purpose of Form
+
+Under section 951A, U.S. shareholders who own (within the
+meaning of section 958(a)) stock in a CFC are required to
+include GILTI in gross income. Form 8992 is used by a U.S.
+shareholder to calculate the amount of the GILTI inclusion
+and to report related information. Generally, Schedule A
+(Form 8992) is also completed and attached to Form 8992.
+However, if the U.S. shareholder is a member of a U.S.
+consolidated group, Schedule B (Form 8992) is completed
+and attached to Form 8992 instead.
+
+Who Must File
+
+A person who was a U.S. shareholder (including a partner of
+a domestic partnership) of at least one foreign corporation at
+any time during the foreign corporation’s tax year ending with
+or within the U.S. shareholder’s tax year, and who owned,
+within the meaning of section 958(a), stock in that foreign
+corporation on the last day in the foreign corporation’s tax
+Jan 6, 2025
+
+S corporations that elected entity treatment. An S
+corporation that elected to be treated as owning stock of a
+CFC under Proposed Regulations section 1.958-1(e) and is a
+U.S. shareholder of a CFC must file Form 8992. For
+additional information, see the Instructions for Form 1120-S.
+CFC. A CFC is generally a foreign corporation if more than
+50% of the total combined voting power of all classes of stock
+of the foreign corporation or more than 50% of the total value
+of the stock of the foreign corporation is owned (directly,
+indirectly, or constructively within the meaning of section 958)
+by U.S. shareholders on any day during its taxable year.
+U.S. shareholder. A U.S. shareholder of a foreign
+corporation is a U.S. person (as defined in section 957(c))
+who owns (directly, indirectly, or constructively, within the
+meaning of section 958) 10% or more of the total combined
+voting power of all the classes of voting stock of the foreign
+corporation or 10% or more of the total value of shares of all
+classes of stock of the foreign corporation.
+
+When and Where To File
+
+In general, attach Form 8992 and Schedule A (Form 8992) to
+your income tax return (or exempt organization return, as
+applicable) and file both by the due date (including
+extensions) for that return.
+
+Members of a U.S. consolidated group. Attach
+Schedule B (Form 8992) and one consolidated Form 8992 to
+the U.S. consolidated group’s income tax return and file both
+by the due date (including extensions) for that return. See the
+instructions for Schedule B, later, for information regarding
+the steps necessary to complete Schedule B (Form 8992)
+and Form 8992.
+S corporations that elected entity treatment. An S
+corporation that elected to be treated as owning stock of a
+CFC under Proposed Regulations section 1.958-1(e) and is a
+U.S. shareholder of a CFC must complete Form 8992 and
+Schedule A (Form 8992) and attach them to its Form 1120-S
+by the due date (including extensions) for that return. For
+additional information, see the Instructions for Form 1120-S.
+
+Instructions for Form 8992 (Rev. 12-2024) Catalog Number 71351C
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+Penalties
+
+Penalties under sections 6038(b) and (c) may apply for failure
+to report the information required on this form.
+
+Computer-Generated Form 8992
+
+Generally, all computer-generated forms must receive prior
+approval from the IRS and are subject to an annual review.
+However, see the exception below. Requests for approval
+may be submitted electronically to substituteforms@irs.gov,
+or requests may be mailed to: Internal Revenue Service,
+Attention: Substitute Forms Program,
+C:DC:TS:CAR:MP:P:TP:TP, ATSC, 4800 Buford Highway,
+Mail Stop 061-N, Chamblee, GA 30341.
+Be sure to attach the approval letter to Form 8992.
+However, if the computer-generated form is identical
+CAUTION to the IRS-prescribed form, it does not need to go
+through the approval process, and an attachment is not
+necessary.
+
+!
+
+Every year, the IRS issues a revenue procedure to provide
+guidance for filers of computer-generated forms. In addition,
+every year, the IRS issues Pub. 1167, General Rules and
+Specifications for Substitute Forms and Schedules, which
+reprints the most recent applicable revenue procedure. Pub.
+1167 is available at IRS.gov/Pub1167.
+
+Corrections to Form 8992
+
+Name Change
+
+If the name of the person filing the return changed within the
+past 3 years, include the prior name(s) in parentheses after
+the current name.
+
+Item A. Identifying Number
+
+The identifying number of an individual is the individual’s
+social security number (SSN). The identifying number of all
+others is their EIN. In the case of a U.S. consolidated group,
+list the common parent as the person filing the return and
+enter its EIN in item A.
+
+Item B. Identifying Number
+
+If the name of the U.S. shareholder of the CFC(s) reported on
+this Form 8992 is different from the name of the person filing
+this return, enter the U.S. shareholder’s identifying number. In
+the case of a U.S. consolidated group, leave the name of the
+U.S. shareholder and item B blank.
+
+Part I
+
+If the U.S. shareholder is not a member of a U.S.
+consolidated group, to figure the amounts to enter on lines 1
+and 2, first complete Schedule A (Form 8992), columns (a)
+through (f). See the specific instructions for Schedule A, later.
+Then, follow the applicable instructions on the face of Form
+8992, Part I, lines 1 through 3, to determine the amounts to
+enter on each of those lines.
+
+If you file a Form 8992 that you later determine is incomplete
+or incorrect, file a corrected Form 8992 with an amended tax
+return, using the amended return instructions for the return
+with which you originally filed Form 8992. Write “Corrected”
+at the top of Form 8992 and attach a statement identifying the
+changes.
+
+If the amount on line 3 is greater than zero, complete
+Schedule A (Form 8992), columns (g) through (l). If the
+amount on line 3 is zero or negative, do not complete Part II
+of Form 8992 or Schedule A (Form 8992), columns (g)
+through (l). Include Form 8992 and Schedule A (Form 8992)
+with your return.
+
+Treaty-Based Return Positions
+
+If the U.S. shareholder is a member of a U.S. consolidated
+group, see Steps necessary to complete Schedule B (Form
+8992) and Form 8992, later.
+
+You are generally required to file Form 8833, Treaty-Based
+Return Position Disclosure Under Section 6114 or 7701(b), to
+disclose a return position that any treaty of the United States
+(such as an income tax treaty, an estate and gift tax treaty, or
+a friendship, commerce, and navigation treaty):
+• Overrides or modifies any provision of the Internal
+Revenue Code; and
+• Causes, or potentially causes, a reduction of any tax
+incurred at any time.
+See Form 8833 for exceptions from reporting.
+
+Specific Instructions
+Form 8992
+
+Use Form 8992 to compute the U.S. shareholder’s GILTI
+inclusion amount.
+Complete Form 8992 as follows.
+
+• If the U.S. shareholder is not a member of a U.S.
+
+consolidated group, use Schedule A (Form 8992) to
+determine the amounts to enter on Form 8992.
+• If the U.S. shareholder is a member of a U.S. consolidated
+group, use Schedule B (Form 8992) to determine the
+amounts to enter on Form 8992.
+Important: If completing Schedule B (Form 8992), see
+Steps necessary to complete Schedule B (Form 8992) and
+Form 8992, later.
+2
+
+Part II
+
+For each line on Form 8992, Part II, follow the instructions on
+the face of the form to determine the amount to enter on that
+line.
+For a corporate shareholder, enter the Part II, line 5, result
+on line 17 of Form 1120, Schedule C, or on the comparable
+line of other corporate returns.
+For an individual shareholder, enter the Part II, line 5,
+result on line 8o of Schedule 1 (Form 1040), or on the
+comparable line of other noncorporate tax returns.
+For a shareholder that is an S corporation that elected to
+be treated as an entity under proposed Regulations section
+1.958-1(e), enter the Part II, line 5, result on Form 1120-S,
+Schedule K, line 10 (using code E).
+
+Schedule A
+
+In the case of a U.S. shareholder that is not a member of a
+U.S. consolidated group, the U.S. shareholder files
+Schedule A (Form 8992), to report its pro rata share of
+amounts for each CFC (the tax year of which ends with or
+within the U.S. shareholder’s tax year) from each CFC’s
+Schedule I-1 (Form 5471), Information for Global Intangible
+Low-Taxed Income, to determine the U.S. shareholder’s GILTI
+inclusion amount, if any, and to determine the amount of the
+U.S. shareholder’s GILTI inclusion amount, if any, allocated to
+each of its CFCs. If a U.S. shareholder does not file a
+Instructions for Form 8992 (Rev. 12-2024)
+
+Schedule I-1 (Form 5471) for a CFC that is part of its GILTI
+computation, for instance, due to an exception for multiple
+filers of the same information, the U.S. shareholder will still
+need to provide amounts with respect to each CFC as if the
+U.S. shareholder filed Schedule I-1 (Form 5471) for that CFC.
+Due to space limitations, if you need to list more
+CFCs than fit on one Schedule A (Form 8992), attach
+CAUTION Schedule A—Continuation Sheet(s) to continue
+listing the CFCs and their respective information. Do not
+write “See attached” on Schedule A (Form 8992) and attach
+additional sheets.
+
+!
+
+Column (a), Name of CFC. Enter the name of each CFC. If
+the name of any of the CFCs being reported on Schedule A
+(Form 8992) changed within the past 3 years, include the
+prior name(s) in parentheses after the current name.
+Column (b), EIN or reference ID number of CFC. With
+respect to each CFC reported on Schedule A (Form 8992), if
+the CFC has an EIN, you must enter that EIN in column (b).
+Do not enter “APPLIED FOR” in column (b) in lieu of an EIN.
+If the CFC does not have an EIN, you must enter a reference
+ID number that uniquely identifies the CFC. Do not enter
+“FOREIGNUS” in column (b) in lieu of a reference ID number.
+For more information regarding reference ID numbers, see
+the instructions for Form 5471, item 1b(2), Reference ID
+Number. Note that if a U.S. shareholder is required to file
+Schedule A (Form 8992) or Schedule B (Form 8992) with
+respect to a CFC, the reference ID number on Form 5471 and
+the reference ID number used on Schedule A (Form 8992) or
+Schedule B (Form 8992) for that CFC must be the same.
+Column (c), Tested income. Enter the U.S. dollar amount
+of tested income, if any, from line 6 of Schedule I-1 (Form
+5471) for each CFC listed in column (a).
+Column (d), Tested loss. Enter the U.S. dollar amount of
+tested loss, if any, from line 6 of Schedule I-1 (Form 5471) for
+each CFC listed in column (a).
+Column (e), Pro rata share of tested income. Enter your
+pro rata share (as determined under Regulations section
+1.951A-1(d)(2)) of the tested income listed in column (c).
+Column (f), Pro rata share of tested loss. Enter your pro
+rata share (as determined under Regulations section
+1.951A-1(d)(4)) of the tested loss listed in column (d).
+Important: See the instructions for Form 8992, Part I,
+earlier, to determine if you are required to complete columns
+(g) through (l).
+Column (g), Pro rata share of QBAI. Enter your pro rata
+share (as determined under Regulations section 1.951A-1(d)
+(3)) of the U.S. dollar amount of QBAI from line 8 of
+Schedule I-1 (Form 5471) for each tested income CFC.
+Note. If you have a tested loss for a particular CFC, no entry
+should be made for that CFC in this column. See Regulations
+section 1.951A-3(b).
+Column (h), Pro rata share of tested loss QBAI amount.
+Enter your pro rata share (as determined under Regulations
+section 1.951A-1(d)(3)) of the tested loss QBAI amount of
+any tested loss CFC. The tested loss QBAI amount of a
+tested loss CFC is the amount reported on Schedule I-1
+(Form 5471), line 9c, which is 10% of the amount that would
+be the QBAI of that tested loss CFC if it were instead a tested
+income CFC. See Regulations sections 1.951A-4(b)(1)(i) and
+1.951A-4(b)(1)(iv), and example 5 of Regulations section
+1.951A-4(c)(5).
+Instructions for Form 8992 (Rev. 12-2024)
+
+Column (i), Pro rata share of tested interest income.
+Enter your pro rata share (as determined under Regulations
+section 1.951A-1(d)(6)) of the amount of tested interest
+income from Schedule I-1 (Form 5471), line 10c, for each
+CFC.
+Column (j), Pro rata share of tested interest expense.
+Enter your pro rata share (as determined under Regulations
+section 1.951A-1(d)(5)) of tested interest expense from
+Schedule l-1 (Form 5471), line 9d.
+Column (k), GILTI allocation ratio. Before completing
+column (k), on line 1 of the first page of Schedule A (Form
+8992), enter the totals for columns (c) through (j) for
+Schedule A (Form 8992) and any Schedule A—Continuation
+Sheets using the instructions provided below, and complete
+Form 8992, Parts I and II. Then, for each CFC with an amount
+in column (e), divide that amount by the total on line 1,
+column (e). Enter the result to four decimal places. See
+section 951A(f)(2).
+Column (l), GILTI allocated to tested income CFCs. For
+each CFC with an amount in column (e), multiply the column
+(k) ratio for that CFC by the Form 8992, Part II, line 5, amount
+and enter the result in column (l) in whole dollars only. This
+information is used in completing Schedule J (Form 5471),
+Accumulated Earnings and Profits (E&P) of Controlled
+Foreign Corporation, and Schedule P (Form 5471),
+Previously Taxed Earnings and Profits of U.S. Shareholder of
+Certain Foreign Corporations, for each CFC.
+
+Line 1
+
+On line 1 of the first completed page of Schedule A (Form
+8992), enter the totals for columns (c) through (f) for
+Schedule A (Form 8992) and any Schedule A—Continuation
+Sheets. If the amount on your Form 8992, Part I, line 3, is
+positive, you are required to complete Schedule A (Form
+8992), columns (g) through (l), and should also enter on
+line 1 of the first completed page of Schedule A (Form 8992)
+the totals for columns (g) through (l) for Schedule A (Form
+8992) and any Schedule A—Continuation Sheets.
+
+Schedule B
+Purpose of schedule. Use Schedule B (Form 8992) to
+report amounts used in determining the GILTI inclusion
+amount of each member of a U.S. consolidated group that is
+a U.S. shareholder of any CFC. In doing so, apply the rules of
+section 951A to each member in accordance with
+Regulations section 1.1502-51 as follows.
+Use Part I to report relevant amounts from Schedule I-1
+(Form 5471) for each CFC owned (within the meaning of
+section 958(a)) by any member of the U.S. consolidated
+group as well as the pro rata shares of such amounts for each
+member.
+Use Part II to report the calculations necessary to
+determine the amounts that will be carried over to the Form
+8992 of each member that is a U.S. shareholder in order to
+determine that member’s GILTI inclusion amount. See How to
+complete and file Schedule B (Form 8992) and Form 8992
+below.
+Complete only one Schedule B (Form 8992) for the U.S.
+consolidated group, and provide a copy to each member of
+the U.S. consolidated group.
+Computer-generated Schedule B. A computer-generated
+Schedule B (Form 8992) can be filed if it conforms to the IRS
+version of the schedule. Expand Schedule B (Form 8992) to
+3
+
+properly complete Parts I and II of the schedule if the number
+of CFCs and/or U.S. shareholders exceeds the number of
+lines on Part I or Part II.
+How to complete and file Schedule B (Form 8992) and
+Form 8992. Complete a single Schedule B (Form 8992) for
+all members of the U.S. consolidated group that are U.S.
+shareholders of a CFC. Certain amounts from Schedule B
+(Form 8992) are carried over to the U.S. consolidated group’s
+Form(s) 8992. A separate Form 8992 is completed for each
+member of the U.S. consolidated group that is a U.S.
+shareholder of a CFC. Additionally, a consolidated Form
+8992 is completed for the U.S. consolidated group as a
+whole. The Schedule B (Form 8992) and the consolidated
+Form 8992 are filed with the U.S. consolidated group’s
+income tax return. Schedule B (Form 8992) and Form 8992
+are completed using the following steps.
+Steps necessary to complete Schedule B (Form 8992)
+and Form 8992.
+1. Complete one Schedule B (Form 8992) for all
+members of the U.S. consolidated group that are U.S.
+shareholders of a CFC, as follows.
+a. Complete Part I, columns (a) through (h), using the
+instructions provided below.
+b. Enter the totals for columns (e) through (h) on line 1 of
+those columns. In doing so, please note that the total
+amounts for Part I, columns (e) and (f) should not reflect
+items from any CFC more than once, even if the CFC is listed
+more than once.
+c. If the line 1 total for Part I, column (h), equals or
+exceeds the line 1 total for Part I, column (g), do not complete
+the remainder of Schedule B (Form 8992). Also, do not
+complete the remainder of step 1 or any portion of step 2.
+Proceed to step 3.
+d. If the line 1 total for Part I, column (g), exceeds the
+line 1 total for Part I, column (h), complete Part I, columns (i)
+through (n), using the instructions provided below. Enter the
+totals for columns (i) through (n) on line 1 of those columns.
+In doing so, please note that the total amounts for Part I,
+columns (k) and (m), should not reflect items from any CFC
+more than once, even if the CFC is listed more than once.
+e. Skip Part I, columns (o) and (p), for now. Do not
+complete Part I, columns (o) and (p), unless instructed to do
+so later.
+f. Complete all columns of Schedule B (Form 8992), Part
+II (columns (a) through (m)), using the instructions provided
+below.
+2. Complete a separate Form 8992 for each U.S.
+shareholder listed in Schedule B (Form 8992), Part II, using
+the instructions provided on the face of Form 8992, to
+determine each U.S. shareholder’s GILTI inclusion amount.
+3. Complete a consolidated Form 8992, as follows.
+a. If Schedule B (Form 8992), line 1, total for Part I,
+column (h), equals or exceeds the line 1 total for Part I,
+column (g): Enter the amount from Schedule B (Form 8992),
+Part I, line 1, column (g), on Form 8992, Part I, line 1. Enter
+the amount from Schedule B (Form 8992), Part I, line 1,
+column (h), on Form 8992, Part I, line 2. Combine the
+amounts shown on Form 8992, Part I, lines 1 and 2, and
+enter the result on Form 8992, Part I, line 3. Do not complete
+the remainder of Form 8992. This is the consolidated Form
+8992 that will be filed with the U.S. consolidated group’s
+income tax return. Do not complete the remainder of the
+steps listed below.
+4
+
+b. If Schedule B (Form 8992), line 1, total for Part I,
+column (h), is less than the line 1 total for Part I, column (g):
+For each line of the consolidated Form 8992, aggregate the
+amounts from the corresponding line of all Forms 8992
+completed for each U.S. shareholder from step 2, and enter
+the total on the corresponding line of the consolidated Form
+8992. File the consolidated Form 8992 with the U.S.
+consolidated group’s income tax return.
+4. Complete Schedule B (Form 8992), Part I, columns (o)
+and (p), using the instructions provided below.
+Note. Do not file the Forms 8992 that were completed for
+each U.S. shareholder. Instead, keep them for your records
+so that they are available upon request (for example, in the
+case of an examination).
+
+Part I of Schedule B
+Column (a), Name of CFC. In column (a), list all CFCs, an
+interest in which is owned (within the meaning of section
+958(a)) by any member of the U.S. consolidated group. If
+more than one member of the U.S. consolidated group owns
+(within the meaning of section 958(a)) an interest in the same
+CFC, list the CFC on multiple lines, using a separate line for
+each member that owns an interest in the CFC. Be sure to
+note the name and EIN of the member that is a U.S.
+shareholder of the CFC in columns (c) and (d). On each line,
+enter the name of the CFC in column (a). If the name of any
+of the CFCs being reported on Schedule B (Form 8992)
+changed within the past 3 years, include the prior name(s) in
+parentheses after the current name.
+Column (b), EIN or reference ID number of CFC. With
+respect to each CFC that must be reported on Schedule B
+(Form 8992), Part I, if the CFC has an EIN, you must enter
+that EIN in column (b). Do not enter “APPLIED FOR” in
+column (b) in lieu of an EIN. If the CFC does not have an EIN,
+you must enter a reference ID number that uniquely identifies
+the CFC. Do not enter “FOREIGNUS” in column (b) in lieu of
+a reference ID number. For more information regarding
+reference ID numbers, see the instructions for Form 5471,
+item 1b(2), Reference ID Number. Note that if a U.S.
+shareholder is required to file Schedule A (Form 8992) or
+Schedule B (Form 8992) with respect to a CFC, the reference
+ID number on Form 5471 and the reference ID number used
+on Schedule A (Form 8992) or Schedule B (Form 8992) for
+that CFC must be the same.
+Column (c), Name of U.S. shareholder. For each CFC
+listed in column (a), enter in column (c) the name of each
+U.S. shareholder that owns (within the meaning of section
+958(a)) an interest in that CFC.
+Column (d), EIN of U.S. shareholder. For each U.S.
+shareholder listed in column (c), enter the EIN of the U.S.
+shareholder.
+Column (e), Tested income. For each CFC listed in column
+(a), enter the U.S. dollar amount of tested income, if any, from
+line 6 of Schedule I-1 (Form 5471).
+Note. For each CFC listed in column (a), enter the column
+(e) amount on the corresponding line of the U.S.
+shareholder’s applicable Form 1118, Schedule D, Part I,
+column 6, for that CFC (that is, the Form 1118 that is being
+completed for passive category income or general category
+income, as applicable).
+
+Instructions for Form 8992 (Rev. 12-2024)
+
+Column (f), Tested loss. For each CFC listed in column (a),
+enter the U.S. dollar amount of tested loss, if any, from line 6
+of Schedule I-1 (Form 5471).
+Column (g), Pro rata share of tested income. For each
+CFC listed in column (a) and the U.S. shareholder listed in
+column (c), enter the U.S. shareholder’s pro rata share (as
+determined under Regulations section 1.951A-1(d)(2)) of the
+CFC’s tested income listed in column (e).
+Note. For each CFC listed in column (a), enter the column
+(g) amount on the corresponding line of the U.S.
+shareholder’s applicable Form 1118, Schedule D, Part I,
+column 5, for that CFC (that is, the Form 1118 that is being
+completed for passive category income or general category
+income, as applicable).
+Column (h), Pro rata share of tested loss. For each CFC
+listed in column (a) and the U.S. shareholder listed in column
+(c), enter the U.S. shareholder’s pro rata share (as
+determined under Regulations section 1.951A-1(d)(4)) of the
+CFC’s tested loss listed in column (f).
+Column (i), Pro rata share of QBAI. For each tested
+income CFC listed in column (a) and the U.S. shareholder
+listed in column (c), enter the U.S. shareholder’s pro rata
+share (as determined under Regulations section 1.951A-1(d)
+(3)) of the tested income CFC’s QBAI from line 8 of that
+CFC’s Schedule I-1 (Form 5471).
+Note. If you have a tested loss for a particular CFC, no entry
+should be made for that CFC in Part I, column (i). See
+Regulations section 1.951A-3(b).
+Column (j), Pro rata share of tested loss QBAI amount.
+For each line where there is a U.S. shareholder listed in
+column (c) that owns an interest in a tested loss CFC listed in
+column (a) of that line, enter the U.S. shareholder’s pro rata
+share (as determined under Regulations section 1.951A-1(d)
+(3)) of the tested loss QBAI amount of the CFC. The tested
+loss QBAI amount of a tested loss CFC is the amount
+reported on Schedule I-1 (Form 5471), line 9c, which is 10%
+of the amount that would be the QBAI of that tested loss CFC
+if it were instead a tested income CFC. See Regulations
+sections 1.951A-4(b)(1)(i) and 1.951A-4(b)(1)(iv), and
+example 5 of Regulations section 1.951A-4(c)(5).
+Column (k), Tested interest expense. For each CFC listed
+in column (a), enter the U.S. dollar amount of tested interest
+expense, if any, from Schedule I-1 (Form 5471), line 9d.
+Column (l), Pro rata share of tested interest expense.
+For each CFC listed in column (a) and the U.S. shareholder
+listed in column (c), enter the U.S. shareholder’s pro rata
+share (as determined under Regulations section 1.951A-1(d)
+(5)) of the CFC’s tested interest expense listed in column (k).
+Column (m), Tested interest income. For each CFC listed
+in column (a), enter the U.S. dollar amount of tested interest
+income, if any, from Schedule I-1 (Form 5471), line 10c.
+Column (n), Pro rata share of tested interest income.
+For each CFC listed in column (a) and the U.S. shareholder
+listed in column (c), enter the U.S. shareholder’s pro rata
+share (as determined under Regulations section 1.951A-1(d)
+(6)) of the CFC’s tested interest income listed in column (m).
+Columns (o) and (p). As explained in Steps necessary to
+complete Schedule B (Form 8992) and Form 8992, earlier,
+Schedule B (Form 8992), Part I, columns (o) and (p), are
+completed only after Form 8992 has been completed. Also,
+Instructions for Form 8992 (Rev. 12-2024)
+
+Schedule B (Form 8992), Part I, columns (o) and (p), are
+completed only with respect to tested income CFCs (that is,
+those CFCs with a positive amount in Schedule B (Form
+8992), Part I, column (e)).
+Column (o), GILTI allocation ratio. For each CFC listed
+in Schedule B (Form 8992), Part I, column (a), that has an
+amount in Schedule B (Form 8992), Part I, column (e), and
+the U.S. shareholder listed in column (c), divide the Part I,
+column (g), amount for that U.S. shareholder by the Part II,
+column (c), amount for that U.S. shareholder. Enter the result
+to four decimal places. See section 951A(f)(2).
+Column (p), GILTI allocated to tested income CFCs.
+For each CFC listed in Schedule B (Form 8992), Part I,
+column (a), that has an amount in Schedule B (Form 8992),
+Part I, column (e), and the U.S. shareholder listed in column
+(c), multiply the GILTI allocation ratio for that CFC, listed in
+Part I, column (o), by the amount of the U.S. shareholder’s
+GILTI inclusion amount (that is, the amount shown on that
+U.S. shareholder’s Form 8992, Part II, line 5). Enter the result
+in column (p) in whole dollars only.
+Line 1. Enter on line 1 the totals for Part I, columns (e)
+through (n) and column (p). For any column that is entirely
+blank, or for which the total is zero, enter -0-.
+Note. The total amounts for Part I, columns (e), (f), (k), and
+(m) should not reflect items from a CFC more than once,
+even if the CFC is listed more than once.
+
+Part II of Schedule B
+Column (a), Name of U.S. shareholder. For each U.S.
+shareholder listed in Part I, column (c), enter in Part II,
+column (a), the name of each such U.S. shareholder, using a
+single line for each such U.S. shareholder.
+Column (b), EIN of U.S. shareholder. Enter the EIN of
+each U.S. shareholder listed in Part II, column (a).
+Column (c), Aggregate tested income. For each U.S.
+shareholder listed in Part II, column (a), enter the sum of all
+amounts entered in Part I, column (g), with respect to that
+U.S. shareholder. In other words, in Part II, column (c), sort
+and then sum the pro rata share of tested income amounts
+listed in Part I, column (g), by such U.S. shareholder. If no
+amounts are entered in Part I, column (g), with respect to a
+U.S. shareholder, then for that U.S. shareholder, enter -0-.
+See Regulations section 1.1502-51(e)(1). For Part II, line 2
+(Totals) for column (c), enter the total of the amounts entered
+in column (c) for all U.S. shareholders.
+Note. Each U.S. shareholder listed in Part II, column (a), will
+enter their Part II, column (c), amount on their Form 8992,
+Part I, line 1.
+Column (d), GILTI allocation ratio. For each U.S.
+shareholder listed in Part II, column (a), divide the column (c)
+amount for that U.S. shareholder by the total amount shown
+on Part II, line 2, column (c). See Regulations section
+1.1502-51(e)(10).
+Note. The GILTI allocation ratio computed in Part II, column
+(d), accords with the rules of Regulations section
+1.1502-51(e)(10), and differs from the GILTI allocation ratio
+computed in Part I, column (o), which accords with the rules
+of section 951A(f)(2).
+Column (e), Aggregate tested loss. For each U.S.
+shareholder listed in Part II, column (a), enter the sum of all
+5
+
+amounts entered in Part I, column (h), with respect to that
+U.S. shareholder. In other words, in Part II, column (e), sort
+and then sum the pro rata share of tested loss amounts listed
+in Part I, column (h), by U.S. shareholder. If no amounts are
+entered in Part I, column (h), with respect to a U.S.
+shareholder, then for that U.S. shareholder, enter -0-. See
+Regulations section 1.1502-51(e)(2). For Part II, line 2
+(Totals) for column (e), enter the total of the amounts entered
+in column (e) for all U.S. shareholders.
+Column (f), Allocable share of consolidated tested loss.
+For each U.S. shareholder listed in Part II, column (a),
+multiply the GILTI allocation ratio entered in Part II, column
+(d), with respect to that U.S. shareholder by the total amount
+shown on Part II, line 2, column (e). See Regulations section
+1.1502-51(e)(3)(iii).
+Note. Each U.S. shareholder listed in Part II, column (a), will
+enter their Part II, column (f), amount on their Form 8992, Part
+I, line 2.
+Column (g), Consolidated QBAI. For each U.S.
+shareholder listed in Part II, column (a), enter the sum of all
+amounts entered in Part I, column (i), with respect to that U.S.
+shareholder. In other words, in Part II, column (g), sort and
+then sum the pro rata share of QBAI amounts listed in Part I,
+column (i), by U.S. shareholder. If no amounts are entered in
+Part I, column (i), with respect to a U.S. shareholder, then for
+that U.S. shareholder, enter -0-. For Part II, line 2 (Totals) for
+column (g), enter the total of the amounts entered in column
+(g) for all U.S. shareholders. See Regulations section
+1.1502-51(e)(4).
+Column (h), Allocable share of consolidated QBAI. For
+each U.S. shareholder listed in Part II, column (a), multiply
+the GILTI allocation ratio entered in Part II, column (d), with
+respect to that U.S. shareholder by the total amount shown
+on Part II, line 2, column (g). See Regulations section
+1.1502-51(e)(3)(i).
+Column (i), Deemed tangible income return (DTIR). For
+each U.S. shareholder listed in Part II, column (a), multiply
+the Part II, column (h), amount by 10% (0.10).
+Note. Each U.S. shareholder listed in Part II, column (a), will
+enter their Part II, column (i), amount on their Form 8992, Part
+II, line 2. See Regulations section 1.1502-51(e)(9).
+Column (j), Consolidated tested interest expense. For
+each U.S. shareholder listed in Part II, column (a), enter the
+sum of all amounts entered in Part I, column (l), with respect
+to that U.S. shareholder. In other words, in Part II, column (j),
+sort and then sum the pro rata share of tested interest
+expense amounts listed in Part I, column (l), by U.S.
+shareholder. If no amounts are entered in Part I, column (l),
+with respect to a U.S. shareholder, then for that U.S.
+shareholder, enter -0-. For Part II, line 2 (Totals) for column (j),
+enter the total of the amounts entered in column (j) for all U.S.
+shareholders. See Regulations section 1.1502-51(e)(5)(i).
+
+sum of all amounts entered in Part I, column (n), with respect
+to that U.S. shareholder. In other words, in Part II, column (k),
+sort and then sum the pro rata share of tested interest
+income amounts listed in Part I, column (n), by U.S.
+shareholder. If no amounts are entered in Part I, column (n),
+with respect to a U.S. shareholder, then for that U.S.
+shareholder, enter -0-. For Part II, line 2 (Totals) for column
+(k), enter the total of the amounts entered in column (k) for all
+U.S. shareholders. See Regulations section 1.1502-51(e)(5)
+(ii).
+Column (l), Consolidated specified interest expense.
+For each U.S. shareholder listed in Part II, column (a), leave
+column (l) blank. However, on Part II, line 2 (Totals) for
+column (l), subtract the total amount shown on Part II, line 2,
+column (k), from the total amount shown on Part II, line 2,
+column (j). If zero or less, enter -0-.
+Column (m), Allocable share of consolidated specified
+interest expense. For each U.S. shareholder listed in Part
+II, column (a), multiply the GILTI allocation ratio entered in
+Part II, column (d), with respect to that U.S. shareholder by
+the total amount shown on Part II, line 2, column (l). See
+Regulations section 1.1502-51(e)(3)(ii).
+Note. Each U.S. shareholder listed in Part II, column (a), will
+enter their Part II, column (m), amount on their Form 8992,
+Part II, line 3c.
+Paperwork Reduction Act Notice. We ask for the
+information on this form to carry out the Internal Revenue
+laws of the United States. You are required to give us the
+information. We need it to ensure that you are complying with
+these laws and to allow us to figure and collect the right
+amount of tax.
+You are not required to provide the information requested
+on a form that is subject to the Paperwork Reduction Act
+unless the form displays a valid OMB control number. Books
+or records relating to a form or its instructions must be
+retained as long as their contents may become material in the
+administration of any Internal Revenue law. Generally, tax
+returns and return information are confidential, as required by
+section 6103.
+The time needed to complete and file this form will vary
+depending on individual circumstances. The estimated
+burden for individual and business taxpayers filing this form is
+approved under OMB control number 1545-0123 and is
+included in the estimates shown in the instructions for their
+individual and business income tax returns.
+If you have comments concerning the accuracy of these
+time estimates or suggestions for making this form simpler,
+we would be happy to hear from you. See the instructions for
+the tax return with which this form is filed.
+
+Column (k), Consolidated tested interest income. For
+each U.S. shareholder listed in Part II, column (a), enter the
+
+6
+
+Instructions for Form 8992 (Rev. 12-2024)
+
+

@@ -1,0 +1,484 @@
+{
+  "document": {
+    "id": "1095-A",
+    "title": "Health Insurance Marketplace Statement",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form 1095-A (2025), Created 6/5/25",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1095a--2025.pdf",
+    "issued_by": "the Health Insurance Marketplace",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Marketplace identifier",
+        "type": "text"
+      },
+      {
+        "box": "2",
+        "label": "Marketplace-assigned policy number",
+        "type": "text"
+      },
+      {
+        "box": "3",
+        "label": "Policy issuer's name",
+        "type": "text"
+      },
+      {
+        "box": "4",
+        "label": "Recipient's name",
+        "type": "text"
+      },
+      {
+        "box": "5",
+        "label": "Recipient's SSN",
+        "type": "tin"
+      },
+      {
+        "box": "6",
+        "label": "Recipient's date of birth",
+        "type": "date"
+      },
+      {
+        "box": "7",
+        "label": "Recipient's spouse's name",
+        "type": "text"
+      },
+      {
+        "box": "8",
+        "label": "Recipient's spouse's SSN",
+        "type": "tin"
+      },
+      {
+        "box": "9",
+        "label": "Recipient's spouse's date of birth",
+        "type": "date"
+      },
+      {
+        "box": "10",
+        "label": "Policy start date",
+        "type": "date"
+      },
+      {
+        "box": "11",
+        "label": "Policy termination date",
+        "type": "date"
+      },
+      {
+        "box": "16A",
+        "label": "Covered individual name",
+        "type": "text"
+      },
+      {
+        "box": "16B",
+        "label": "Covered individual SSN",
+        "type": "tin"
+      },
+      {
+        "box": "16C",
+        "label": "Covered individual date of birth",
+        "type": "date"
+      },
+      {
+        "box": "16D",
+        "label": "Coverage start date",
+        "type": "date"
+      },
+      {
+        "box": "16E",
+        "label": "Coverage termination date",
+        "type": "date"
+      },
+      {
+        "box": "17A",
+        "label": "Covered individual name",
+        "type": "text"
+      },
+      {
+        "box": "17B",
+        "label": "Covered individual SSN",
+        "type": "tin"
+      },
+      {
+        "box": "17C",
+        "label": "Covered individual date of birth",
+        "type": "date"
+      },
+      {
+        "box": "17D",
+        "label": "Coverage start date",
+        "type": "date"
+      },
+      {
+        "box": "17E",
+        "label": "Coverage termination date",
+        "type": "date"
+      },
+      {
+        "box": "18A",
+        "label": "Covered individual name",
+        "type": "text"
+      },
+      {
+        "box": "18B",
+        "label": "Covered individual SSN",
+        "type": "tin"
+      },
+      {
+        "box": "18C",
+        "label": "Covered individual date of birth",
+        "type": "date"
+      },
+      {
+        "box": "18D",
+        "label": "Coverage start date",
+        "type": "date"
+      },
+      {
+        "box": "18E",
+        "label": "Coverage termination date",
+        "type": "date"
+      },
+      {
+        "box": "19A",
+        "label": "Covered individual name",
+        "type": "text"
+      },
+      {
+        "box": "19B",
+        "label": "Covered individual SSN",
+        "type": "tin"
+      },
+      {
+        "box": "19C",
+        "label": "Covered individual date of birth",
+        "type": "date"
+      },
+      {
+        "box": "19D",
+        "label": "Coverage start date",
+        "type": "date"
+      },
+      {
+        "box": "19E",
+        "label": "Coverage termination date",
+        "type": "date"
+      },
+      {
+        "box": "20A",
+        "label": "Covered individual name",
+        "type": "text"
+      },
+      {
+        "box": "20B",
+        "label": "Covered individual SSN",
+        "type": "tin"
+      },
+      {
+        "box": "20C",
+        "label": "Covered individual date of birth",
+        "type": "date"
+      },
+      {
+        "box": "20D",
+        "label": "Coverage start date",
+        "type": "date"
+      },
+      {
+        "box": "20E",
+        "label": "Coverage termination date",
+        "type": "date"
+      },
+      {
+        "box": "21A",
+        "label": "January \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "21B",
+        "label": "January \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "21C",
+        "label": "January \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "22A",
+        "label": "February \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "22B",
+        "label": "February \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "22C",
+        "label": "February \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "23A",
+        "label": "March \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "23B",
+        "label": "March \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "23C",
+        "label": "March \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "24A",
+        "label": "April \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "24B",
+        "label": "April \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "24C",
+        "label": "April \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "25A",
+        "label": "May \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "25B",
+        "label": "May \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "25C",
+        "label": "May \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "26A",
+        "label": "June \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "26B",
+        "label": "June \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "26C",
+        "label": "June \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "27A",
+        "label": "July \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "27B",
+        "label": "July \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "27C",
+        "label": "July \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "28A",
+        "label": "August \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "28B",
+        "label": "August \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "28C",
+        "label": "August \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "29A",
+        "label": "September \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "29B",
+        "label": "September \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "29C",
+        "label": "September \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "30A",
+        "label": "October \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "30B",
+        "label": "October \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "30C",
+        "label": "October \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "31A",
+        "label": "November \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "31B",
+        "label": "November \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "31C",
+        "label": "November \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "32A",
+        "label": "December \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "32B",
+        "label": "December \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "32C",
+        "label": "December \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "33A",
+        "label": "Annual Totals \u2014 A. Monthly enrollment premiums",
+        "type": "money"
+      },
+      {
+        "box": "33B",
+        "label": "Annual Totals \u2014 B. Monthly second lowest cost silver plan (SLCSP) premium",
+        "type": "money"
+      },
+      {
+        "box": "33C",
+        "label": "Annual Totals \u2014 C. Monthly advance payment of premium tax credit",
+        "type": "money"
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED",
+        "type": "checkbox",
+        "note": "A corrected form REPLACES the one it corrects for the same account: the two are never both counted. Which copy stands is a person's call, made by reading the two side by side."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "note": "Printed on Copy A (the IRS's copy) only; a recipient's copy carries no VOID box. Declared so a Copy A that reaches the packet is recognised for what it is - a form that reports nothing."
+      },
+      {
+        "box": "12",
+        "label": "Street address (including apartment no.)",
+        "type": "text"
+      },
+      {
+        "box": "13",
+        "label": "City or town",
+        "type": "text"
+      },
+      {
+        "box": "14",
+        "label": "State or province",
+        "type": "text"
+      },
+      {
+        "box": "15",
+        "label": "Country and ZIP or foreign postal code",
+        "type": "text"
+      }
+    ],
+    "notes": "The form's own face reads 'Do not attach to your tax return. Keep for your records.' It is nonetheless the sole input to Form 8962, which IS filed. PART III STATES THE SAME TWELVE MONTHS TWICE: as monthly rows (lines 21-32, January to December) and as an annual total row (line 33), in each of the three columns \u2014 A monthly enrollment premiums, B monthly second lowest cost silver plan (SLCSP) premium, C monthly advance payment of premium tax credit. Routing both the annual row and the monthly rows reports every premium and every advance payment twice, doubling BOTH sides of the reconciliation. Form 8962 line 10 decides which path a given taxpayer uses, and the two are mutually exclusive: every monthly route here carries `when uses_annual_ptc_calculation is false` and every annual route carries `when` it is true. This is deliberately NOT modelled as an aggregate \u2014 an aggregate names THE reportable box of a printed group and here neither row is, because the choice is conditional rather than structural; and it is deliberately not modelled with role:'informs' either, because each figure is ENTERED on a printed entry line of Form 8962 and line 24 SUMS the monthly ones, which only a placing route may do. The assembler for this part asserts the exclusivity over all 39 routes instead of trusting this note.",
+    "face_not_boxes": [
+      {
+        "slot": "20",
+        "because": "Line 20 is a ROW of the Part II covered-individuals table; its cells are declared as 20A-20E, so the bare row number is not a box."
+      },
+      {
+        "slot": "21",
+        "because": "Line 21 is a ROW of the Part III coverage table; its cells are declared as 21A-21C, so the bare row number is not a box."
+      },
+      {
+        "slot": "22",
+        "because": "Line 22 is a ROW of the Part III coverage table; its cells are declared as 22A-22C, so the bare row number is not a box."
+      },
+      {
+        "slot": "23",
+        "because": "Line 23 is a ROW of the Part III coverage table; its cells are declared as 23A-23C, so the bare row number is not a box."
+      },
+      {
+        "slot": "24",
+        "because": "Line 24 is a ROW of the Part III coverage table; its cells are declared as 24A-24C, so the bare row number is not a box."
+      },
+      {
+        "slot": "25",
+        "because": "Line 25 is a ROW of the Part III coverage table; its cells are declared as 25A-25C, so the bare row number is not a box."
+      },
+      {
+        "slot": "26",
+        "because": "Line 26 is a ROW of the Part III coverage table; its cells are declared as 26A-26C, so the bare row number is not a box."
+      },
+      {
+        "slot": "27",
+        "because": "Line 27 is a ROW of the Part III coverage table; its cells are declared as 27A-27C, so the bare row number is not a box."
+      },
+      {
+        "slot": "28",
+        "because": "Line 28 is a ROW of the Part III coverage table; its cells are declared as 28A-28C, so the bare row number is not a box."
+      },
+      {
+        "slot": "29",
+        "because": "Line 29 is a ROW of the Part III coverage table; its cells are declared as 29A-29C, so the bare row number is not a box."
+      },
+      {
+        "slot": "30",
+        "because": "Line 30 is a ROW of the Part III coverage table; its cells are declared as 30A-30C, so the bare row number is not a box."
+      },
+      {
+        "slot": "31",
+        "because": "Line 31 is a ROW of the Part III coverage table; its cells are declared as 31A-31C, so the bare row number is not a box."
+      },
+      {
+        "slot": "32",
+        "because": "Line 32 is a ROW of the Part III coverage table; its cells are declared as 32A-32C, so the bare row number is not a box."
+      },
+      {
+        "slot": "33",
+        "because": "Line 33 is a ROW of the Part III coverage table; its cells are declared as 33A-33C, so the bare row number is not a box."
+      }
+    ]
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1095A",
+    "note": null
+  }
+}

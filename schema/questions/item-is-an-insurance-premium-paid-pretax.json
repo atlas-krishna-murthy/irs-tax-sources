@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-an-insurance-premium-paid-pretax",
+    "wording": "Is this an insurance premium paid by a pretax reduction of the taxpayer's pay (a cafeteria plan), so not included in box 1 of the Form W-2?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 paid pretax"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 paid with after-tax money, or not a premium"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this an insurance premium paid by a pretax reduction of the taxpayer's pay (a cafeteria plan), so not included in box 1 of the Form W-2?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Line 1",
+        "revision": "2025",
+        "wording": "You can\u2019t deduct amounts that have already been excluded from your income, so don\u2019t include on line 1 insurance premiums paid by an employer-sponsored health insurance plan (cafeteria plan) unless the premiums are included in box 1 of your Form(s) W-2.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

@@ -1,0 +1,1401 @@
+Instructions for Form 8082
+(Rev. October 2025)
+
+Notice of Inconsistent Treatment or Administrative Adjustment Request (AAR)
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+Future Developments
+For the latest information about developments related to
+Form 8082 and its instructions, such as legislation
+enacted after they were published, go to IRS.gov/
+Form8082.
+
+What’s New
+Part I, line 1. The checkboxes for “AAR,” “TEFRA AAR,”
+and “ELPs/REMICs” have been removed.
+Part I, line 2. The checkbox for “TEFRA Partnership” has
+been removed.
+Part II. The heading for column (e) has been clarified.
+
+General Instructions
+Unless otherwise noted, references to sections 6221
+through 6241 are to the Internal Revenue Code (the Code)
+as amended by the Bipartisan Budget Act of 2015 (BBA)
+and related regulations which describe processes and
+procedures. They are referred to in these instructions as
+“BBA proceedings.”
+
+Purpose of Form
+Notice of inconsistent treatment. If you’re a partner in
+a BBA partnership, an S corporation shareholder, a
+beneficiary of an estate or trust, an owner of a foreign
+trust, or a residual interest holder in a real estate mortgage
+investment conduit (REMIC), you must generally report
+items consistent with the way they were reported by the
+partnership to the IRS on Schedule K-1, Schedule K-3,
+Form 8986 (issued with a BBA AAR), Schedule Q, and/or
+a foreign trust statement. However, there may be reasons
+why you wish to report these items differently. To do so,
+use Form 8082 and the instructions under Inconsistent
+Treatment, later.
+Note: A partner is bound to finally determined
+adjustments on Form 8986 resulting from a BBA
+partnership audit and may not use Form 8082 to report the
+items differently.
+Use Form 8082 to notify the IRS of any inconsistency
+between your tax treatment of an item and the way the
+pass-through entity treated and reported the same item on
+its return. Also use the form to notify the IRS if you didn’t
+receive Schedule K-1, Schedule Q, and/or a foreign trust
+statement from the foreign trust by the due date for filing
+your return (including extensions). Additionally, based on
+the instructions for Schedule K-2, if the pass-through
+entity was required to provide a Schedule K-3 but didn’t,
+use Form 8082 to notify the IRS of this.
+Nov 21, 2025
+
+AAR under BBA. Use Form 8082 if you’re the
+partnership representative (PR) or designated individual
+(DI) (if the PR is an entity) requesting an administrative
+adjustment on behalf of the BBA partnership to correct a
+previously filed partnership return. Go to IRS.gov/
+BBAAAR for additional information. Also, see the
+Instructions for Form 1065.
+BBA created a new centralized partnership audit
+regime generally effective for partnership tax years
+beginning after 2017, replacing the consolidated audit
+proceedings under sections 6221 through 6234 enacted
+by TEFRA. All partnerships with tax years beginning after
+2017 are subject to the centralized partnership audit
+regime unless they make a valid election under section
+6221(b). See section 6221(b) and the Instructions for
+Form 1065 for information on which partnerships are
+eligible to make this election.
+For instructions on completing Form 8082 for this
+purpose, see BBA AAR under Specific Instructions, later.
+
+Definitions
+AAR partnership. An AAR partnership is a BBA
+partnership that has filed, or is filing, an AAR under
+section 6227.
+Adjustment year. For BBA partnerships, the adjustment
+year is the partnership tax year in which:
+• An adjustment pursuant to the decision of a court in a
+proceeding brought under section 6234, such
+decision becomes final;
+• An AAR is filed under section 6227; or
+• A notice of final partnership adjustment is mailed
+under section 6231 or, if the partnership waives the
+limitations on assessments under section 6232(b), the
+waiver is executed by the IRS.
+Audited partnership. For purposes of these instructions,
+an audited partnership is a BBA partnership that made an
+election under 6226 and issued Forms 8986 to its
+partners. The partners of an audited BBA partnership are
+bound by the adjustments and cannot file a Form 8082 to
+treat the adjustments inconsistent with the results of the
+audit.
+BBA partnership. A partnership subject to the
+centralized partnership audit regime is referred to as a
+“BBA partnership.” All partnerships with tax years
+beginning after 2017 are BBA partnerships unless, under
+section 6221, they make a valid election out of the
+centralized partnership audit regime. A partner in a BBA
+partnership is referred to as a “BBA partner.” REMICs
+subject to the centralized partnership audit regime are
+also considered BBA partnerships for purposes of these
+instructions. An AAR filed by a BBA partnership is referred
+to as a “BBA AAR” and, if one is filed, it must be filed by
+
+Instructions for Form 8082 (Rev. 10-2025) Catalog Number 62051N
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+the PR or the DI if the PR is an entity. Go to IRS.gov/
+BBAAAR for additional information.
+Designated individual (DI). Where the PR is an entity,
+the DI is the sole individual appointed by the partnership
+at the time of the designation of the PR through whom the
+entity PR acts.
+Foreign trust statement. Any of the following annual
+statements furnished by a foreign trust to its owners or
+beneficiaries.
+• Foreign Grantor Trust Owner Statement.
+• Foreign Grantor Trust Beneficiary Statement.
+• Foreign Nongrantor Trust Beneficiary Statement.
+Form 8985, Pass-Through Statement—Transmittal/
+Partnership Adjustment Tracking Report. Form 8985
+is used by a BBA partnership to summarize and transmit
+Forms 8986 (by an audited partnership, a partnership
+filing an AAR, or a pass-through partner) in situations
+where the partners are taking into account the
+adjustments. Form 8985 is also used to report payments
+made and related calculations by a pass-through partner
+of a BBA partnership, if applicable. See the instructions for
+these forms for further information.
+Form 8986, Partner’s Share of Adjustment(s) to Partnership-Related Item(s). Form 8986 was created for
+BBA partnerships and pass-through partners of BBA
+partnerships to show each partner’s share of adjustments
+to a PRI as a result of a BBA audit or BBA AAR for
+situations where the partners are taking into account the
+adjustments.
+Imputed underpayment (IU). An IU is the amount a
+partnership is potentially liable for as a result of an
+adjustment to a partnership-related item (PRI). Whether
+an adjustment results in an IU is determined in
+accordance with the rules under Regulations section
+301.6225-1, with that amount subject to possible
+modification under Regulations section 301.6227-2.
+Non-BBA partnership. Under BBA, certain partnerships
+with 100 or fewer eligible partners for the tax year can
+elect out of the centralized partnership audit regime. For
+additional information, see the Instructions for Form 1065.
+A partnership that elects out of the centralized partnership
+audit regime is referred to as a “non-BBA partnership.”
+Partnership-related item (PRI). For BBA partnerships,
+under section 6241(2)(B), a PRI is any item or amount
+with respect to the partnership that is relevant in
+determining the income tax liability of any person, without
+regard to whether the item or amount appears on the
+partnership’s return. An item or amount is with respect to
+the partnership if it is shown or reflected, or required to be
+shown or reflected, on the partnership return or the forms
+and instructions prescribed by the IRS for the
+partnership’s tax year or is required under the Internal
+Revenue laws to be maintained in the partnership’s books
+or records. This includes an imputed underpayment (IU)
+and an item or amount relating to any transaction with,
+basis in, or liability of the partnership.
+Partnership representative (PR). Under section 6223,
+BBA partnerships must designate a partner or other
+person with a substantial presence in the United States as
+the PR who shall have the sole authority to act on behalf
+2
+
+of the partnership. If the designated PR is an entity, the
+partnership must also appoint a DI to act on behalf of the
+entity PR. The appointed DI must be an individual and
+may not be an entity. The partnership and all partners are
+bound by the actions of the PR in dealings with the IRS
+under BBA. Go to IRS.gov/BBAAAR for additional
+information. A REMIC that’s a BBA partnership (hasn’t
+elected out of BBA) would need to designate a PR.
+Pass-through entity. A partnership, S corporation,
+estate, trust, or REMIC.
+Reporting year. Reporting year is applicable to partners
+of BBA partnerships. It’s the partner’s tax year(s) that
+includes the date the AAR partnership furnished Forms
+8986 to its partners.
+Reviewed year. For BBA partnerships, the reviewed year
+is the partnership’s tax year to which a partnership
+adjustment relates. For example, if the BBA AAR is filed to
+make an adjustment to income for the 2023 tax year, 2023
+is the reviewed year.
+Reviewed year pass-through partner. For purposes of
+these instructions, under BBA, a reviewed year
+pass-through partner is a pass-through entity that held an
+interest in a BBA partnership at any time during the
+reviewed year, which is the partnership tax year to which
+the partnership adjustment relates.
+Schedule K-1. Schedule K-1 is an annual schedule
+reporting the partner’s, shareholder’s, or beneficiary’s
+share of income, deductions, credits, etc., from a
+partnership, S corporation, estate, or domestic trust.
+Schedule K-2. Schedule K-2 is an extension of Form
+1065, Schedule K, used to report items of international tax
+relevance from the operation of a partnership.
+Schedule K-3. Schedule K-3 is an extension of
+Schedule K-1 (Form 1065) generally used to report to
+partners their shares of the items reported on
+Schedule K-2.
+Schedule Q. Schedule Q is a quarterly schedule
+reporting the residual interest holder’s share of taxable
+income or net loss from the REMIC.
+
+Who Must File
+Notice of inconsistent treatment. Generally, file Form
+8082 if any of the following apply.
+• You believe an item wasn’t properly reported on the
+Schedule K-1 or Schedule K-3 you received from the
+partnership, or on a Form 8986 (only issued with
+respect to an AAR), S corporation, estate, or domestic
+trust; the Schedule Q you received from the REMIC; or
+the foreign trust statement you received from the
+foreign trust.
+• You believe an item shown on your schedule or
+statement is incorrect but it isn’t an item that otherwise
+has to be reported on your tax return. For example, if
+you believe that the percentage shown as your
+ownership of capital at the end of the year wasn’t
+properly reported on Schedule K-1, file Form 8082 to
+report this, even though you aren’t otherwise required
+to report that percentage on your tax return. If you
+discover this kind of inconsistency after filing your
+Instructions for Form 8082 (Rev. 10-2025)
+
+original return, file an amended return to report it. In
+the space provided on the amended return for writing
+explanations, enter “See attached Form 8082.” If the
+correction doesn’t affect your tax return, no amounts
+need to be entered on the amended return if the Form
+8082 item is the only reason for filing the amended
+return.
+• The pass-through entity hasn’t filed a tax return or
+given you a Schedule K-1, Schedule Q, or foreign trust
+statement by the time you’re required to file your tax
+return (including extensions) and there are items you
+must include on your return.
+• If the pass-through entity didn’t provide you
+Schedule K-3 and it was required to do so according
+to the instructions for Schedule K-2.
+Caution: If you don’t notify the IRS that you’re reporting
+an item (box (a) of Part I, line 1) inconsistently, any
+deficiency (including any late filing or late payment
+penalties applicable to the deficiency) that results from an
+adjustment to make your amount or other treatment of the
+item consistent with the amount or treatment of the item
+on the pass-through entity’s return may be assessed
+immediately. An inconsistent item can exist on either your
+original or amended return.
+AAR under BBA. File Form 8082 if you’re the PR or DI
+requesting an administrative adjustment on behalf of the
+BBA partnership to correct a previously filed partnership
+return.
+Tip: When a partnership’s federal return is changed for
+any reason, it may affect its state return. For more
+information, contact the state tax agency with which the
+state return is filed.
+
+Who May Not File
+
+Don’t use Form 8082 to file a notice of inconsistent
+treatment or an AAR if any of the following apply.
+• If you’re a REMIC and want to correct items on the
+original REMIC return. Instead, file Form 1065-X.
+• For any amount of loss, deduction, or credit from
+Schedule K-1, Schedule K-3, Schedule Q, Form 8986,
+or the foreign trust statement that you don’t report on
+your return because the amount is otherwise limited
+by law (such as a loss limited by the at-risk or passive
+activity rules).
+• If you’re a partner in a partnership with a tax year
+beginning after 2017 that has an election out of BBA in
+effect pursuant to section 6221(b).
+• If you’re a BBA partnership, you may not file an AAR
+solely for the purpose of changing the PR. See the
+Instructions for Form 8979, Partnership
+Representative Designation or Resignation, for more
+information.
+• You may not file a BBA AAR after the prescribed time
+to do so. If you’re a BBA partnership that has received
+a notice of administrative proceeding, you may not file
+an AAR (see How and When To File, later).
+• If you’re a partner and the BBA partnership in which
+you’re an investor has received a notice of
+administrative proceeding, a Form 8082 with respect
+to inconsistent treatment of partnership items from
+that BBA partnership can’t be filed.
+Instructions for Form 8082 (Rev. 10-2025)
+
+• A partner may not file an AAR on behalf of the BBA
+
+partnership in which it’s a partner unless doing so is in
+its capacity as the PR for that partnership.
+• If you’re a shareholder in an S corporation, except as a
+notice of inconsistent treatment when the
+shareholder’s return isn’t consistent with the return of
+the S corporation. Form 8082 can’t be filed by a
+shareholder to request an administrative adjustment to
+their tax return to correct S corporation items. Instead,
+the shareholder must file an amended income tax
+return.
+• If you’re a beneficiary of an estate or domestic trust, or
+a beneficiary or an owner of a foreign trust, except as
+a notice of inconsistent treatment when the
+beneficiary’s or owner’s return isn’t consistent with the
+return of the estate or trust. Form 8082 can’t be filed
+by a beneficiary or owner to request an administrative
+adjustment to their tax return to correct estate or trust
+items. Instead, the beneficiary or owner must file an
+amended income tax return.
+• If you’re a residual interest holder and your REMIC
+had no more than one residual interest holder at any
+one time during the tax year.
+• If you’re a residual interest holder in a REMIC with a
+tax year beginning after 2017 that has an election out
+of BBA in effect pursuant to section 6221(b).
+
+Interest and Penalties
+
+If you disregard the requirements for filing Form 8082, you
+may be subject to the accuracy-related penalty under
+section 6662 or the fraud penalty under section 6663.
+Either penalty is in addition to any tax that results from a
+computational adjustment to make your amount or
+treatment of the item consistent with the amount or
+treatment of the item on the pass-through entity’s return.
+
+Interest. Generally, interest is charged on taxes not paid
+by the due date, even if an extension of time to file is
+granted. Interest is also charged on penalties imposed for
+negligence, fraud, substantial valuation misstatements,
+substantial understatements of tax, and reportable
+transaction understatements. The interest is charged from
+the due date (including extensions) to the date of
+payment. The interest charge is figured at a rate
+determined under section 6621.
+Late payment penalty. The penalty for not paying the
+tax when due is usually 1/2 of 1% of the unpaid tax for
+each month or part of a month that the tax remains
+unpaid. The penalty can’t exceed 25% of the unpaid tax.
+Other penalties. Penalties can also be imposed for
+negligence, substantial understatements of tax, reportable
+transaction understatements, and fraud. See sections
+6662, 6662A, and 6663.
+Interest and penalties applicable to the IU. Except
+when the partnership elects to have its partners take into
+account the adjustments under section 6227(b)(2), BBA
+partnership interest and penalties are the following.
+• The interest figured for an IU is the interest that would
+be determined under chapter 67 for the period
+beginning on the day after the return due date for the
+reviewed year and ending on the return due date for
+the adjustment year as defined under section 6225(d)
+(2) or, if earlier, the date the IU is paid.
+3
+
+• Any penalty, addition to tax, or additional amount that
+
+is determined at the partnership level is applied as if
+that BBA partnership had been an individual subject to
+tax under chapter 1 for the reviewed year and the IU
+were an actual underpayment (or understatement) for
+that year for purposes of part II of subchapter A of
+chapter 68.
+
+Election to apply the alternative to payment of the IU.
+If the partners must take into account the adjustments
+because the BBA partnership filed an AAR and there are
+adjustments that don’t result in an IU or if a BBA
+partnership elects the alternative to payment of the IU
+under sections 6227(b)(2) and 6226(c), interest shall be
+determined:
+• At the partner level;
+• From the due date of the return for the tax year to
+which the increase is attributable, determined by
+taking into account any increases attributable to a
+change in tax attributes for a tax year under section
+6226(b)(2) until the date of payment; and
+• At the section 6621(a)(2) underpayment rate.
+
+How Many Forms To Complete
+
+You must complete and file a separate form for each
+pass-through entity for which you’re reporting an
+inconsistent or AAR item. If you’re reporting more than
+four inconsistent or AAR monetary items from one
+pass-through entity, use additional Forms 8082 because
+Part II only provides four lines (8 through 11). You don’t
+need to complete lines 8 through 11 if not reporting a
+change to the amount or treatment of a monetary item;
+however, you must include an explanation of the
+change(s) in Part III.
+
+How and When To File
+How to file. Don’t file Form 8082 by itself.
+If you file Form 8082 as a notice of inconsistent
+treatment, complete a single copy of the form, attach it to
+your tax return, and file it when you file your original return.
+Note: If you require more than the four lines provided in
+Part II to report the inconsistent or AAR items, attach
+additional Forms 8082 as necessary.
+When to file. Generally, a pass-through entity may file an
+AAR to change items on its return:
+• Within 3 years after the later of:
+1. The date on which the pass-through entity return
+for that year is filed, or
+2. The last day for filing the pass-through entity
+return for that year (excluding extensions); or
+• Before a notice of an administrative proceeding for the
+tax year is mailed under section 6231.
+Special rules. A partnership return or a REMIC return is
+generally due by the 15th day of the 3rd month following
+the close of the partnership’s or REMIC’s tax year. The tax
+year of a REMIC always ends on December 31.
+Special rules apply if the period of limitations has been
+extended by agreement. See section 6235 and
+Regulations section 301.6235-1 for details.
+4
+
+What To Attach
+
+If applicable, attach the following items to Form 8082.
+• If the corrected amount involves an item that must be
+supported with a schedule, statement, or form, attach
+the appropriate schedule, statement, or form. Include
+the entity’s name and employer identification number
+(EIN) on any attachments. See the Instructions for
+Form 1065 for a list of forms that may be required.
+Note: If the attachments needed to support the
+corrected amount include copies of forms or
+schedules from previously filed tax returns, enter at
+the top of each previously filed form or schedule,
+“Copy Only—Don’t Process.”
+• A BBA partnership must attach a schedule to Form
+8082 that supports the position(s) reported. If the
+partnership doesn’t make an election under section
+6227(b)(2) to have the adjustments taken into account
+by the reviewed year partners and would like to modify
+per section 6227(b)(1), it must attach a Form 8980,
+Partnership Request for Modification of Imputed
+Underpayments Under IRC Section 6225(c), that
+supports any modifications made to the IU as
+described in sections 6225(b) and 6225(c) and as
+applied to a BBA AAR under section 6227(b)(1). See
+Modifications to an Imputed Underpayment Included
+in an Administrative Adjustment Request in Pub. 5346,
+Instructions for Form 8980.
+• Attach Forms 8985 and 8986, as applicable. Form
+8986 is used by BBA partnerships to furnish and
+transmit each partner’s share of adjustments to PRIs.
+See the instructions for Forms 8985 and 8986 for
+more information.
+• If the AAR is a request for an electronically deposited
+refund of $1 million or more, attach Form 8302,
+Electronic Deposit of Tax Refund of $1 Million or More.
+
+Specific Instructions
+Specific instructions for most of the lines have been
+provided. Lines that aren’t explained are self-explanatory.
+Note: If the pass-through entity didn’t file a return or give
+you a Schedule K-1, Schedule K-3 (and the pass-through
+entity was required to provide one to you according to the
+instructions for Schedule K-2), Schedule Q, and/or foreign
+trust statement by the time you’re required to file your
+return, complete Parts I and II to the best of your
+knowledge.
+
+Inconsistent Treatment
+Name and Identifying Number
+
+Enter the legal name of the entity and identifying number
+on the appropriate lines.
+
+Part I—General Information
+Line 1
+Check box (a) if you believe an item wasn’t properly
+reported on Schedule K-1, Schedule K-3, Schedule Q,
+Form 8986 (only issued with respect to an AAR), and/or
+foreign trust statement you received, or if you haven’t
+received a Schedule K-1, Schedule K-3 (that the
+Instructions for Form 8082 (Rev. 10-2025)
+
+pass-through entity was required to provide according to
+the instructions for Schedule K-2), Schedule Q, or foreign
+trust statement by the time you’re required to file your tax
+return (including extensions). Go to line 2.
+
+Lines 2 Through 6
+Generally, the information for these lines can be found on
+Schedule K-1, Form 8986, Schedule Q, or the foreign trust
+statement.
+Line 6. Tax year of pass-through entity. If you’re a
+partner filing a notice of inconsistent treatment from a
+Form 8986 received as a result of a BBA partnership AAR,
+enter the pass-through entity tax year that includes the
+date contained in box D of Form 8986, Part II.
+
+Part II—Inconsistent or Administrative
+Adjustment Request (AAR) Items
+Partner filing a notice of inconsistent treatment for a
+Schedule K-1 or Schedule K-3 received from a BBA
+partnership. When a partner receives a Schedule K-1 or
+Schedule K-3 from a BBA partnership, it must generally
+file consistently with that Schedule K-1 or Schedule K-3.
+However, a partner may file inconsistently if it provides
+valid notice to the IRS of inconsistent treatment.
+Notice of inconsistent treatment filed with return. If
+a pass-through partner doesn’t receive a Schedule K-1 or
+Schedule K-3 (and the pass-through entity was required to
+provide one according to the instructions for
+Schedule K-2) from a BBA partnership or does receive a
+Schedule K-1 or Schedule K-3 but disagrees with some or
+all of the reported treatment or amounts, it may file a
+notice of inconsistent treatment with its return (original or
+amended/AAR). To do so, as a pass-through partner,
+you’ll include Form 8082 with your return (for example,
+Form 1065, Form 1120-S), prepare your return using the
+treatment or amounts you determine are correct, and do
+the following.
+1. On Form 8082, check box (a) under Part I, line 1 (and
+box (b), if applicable).
+2. See Lines 8 Through 11—Inconsistent Treatment,
+later, for how to complete columns (a) through (e) of
+Part II.
+3. File Form 8082 along with the applicable return and
+attach any other supporting documents required.
+Other than pass-through partner filing a notice of inconsistent treatment from a BBA partnership. If
+you’re a partner (other than a pass-through partner) filing
+inconsistently from a BBA partnership (that is,
+inconsistently from a Schedule K-1, Schedule K-3, and/or
+Form 8986 you received as a result of a BBA partnership
+filling an AAR, and not as a result of an audit), complete
+Form 8082 and attach it to your original or amended
+return. If filing inconsistently from a Form 8986 (received
+as a result of a BBA partnership filing an AAR and not as a
+result of an audit), attach Form 8082 to your reporting year
+return that corresponds to the Form 8986 received. Attach
+a copy of the Form 8986 received from which you’re filing
+inconsistently. See Reporting year, earlier. See Lines 8
+Instructions for Form 8082 (Rev. 10-2025)
+
+Through 11—Inconsistent Treatment below for how to
+complete Part II, columns (a) through (e).
+
+Lines 8 Through 11—Inconsistent Treatment
+Note: Lines 8 through 11 are only required if reporting a
+change to the amount or treatment of a monetary number.
+Column (a). If you received a Schedule K-1,
+Schedule K-3, Schedule Q, Form 8986 (as a result of a
+BBA AAR and not as a result of an audit), and/or foreign
+trust statement, enter the line number and description
+shown on the form. For example, if you’re a BBA partner
+providing notice of inconsistent treatment for a Form 8986
+received (as a result of a BBA AAR and not as a result of
+an audit), enter the information from the first three
+columns of Form 8986, Part V, that you’re treating
+inconsistently. Otherwise, enter a complete description of
+the item.
+If you didn’t receive a Schedule K-1, Schedule K-3,
+Schedule Q, and/or foreign trust statement but are still
+reporting estimated amounts on your original filing, enter a
+complete description of the item and where you’re
+reporting the estimated amount on your original return.
+Column (b). If you believe that the amount of any item
+shown on Schedule K-1, Schedule K-3, Schedule Q, Form
+8986 (as a result of a BBA AAR and not as a result of an
+audit), and/or a foreign trust statement wasn’t properly
+reported, check the box under “Amount of item.”
+If you believe that treatment of any item (other than the
+amount of the item) wasn’t properly reported (such as a
+long-term capital loss that a partner thinks should be an
+ordinary loss), check the box under “Treatment of item.”
+Check both parts of column (b) if either (1) or (2) below
+applies.
+1. You believe that both the amount and another
+treatment (besides the amount) of the item shown on
+Schedule K-1, Schedule K-3, Schedule Q, Form 8986
+(as a result of a BBA AAR and not as a result of an
+audit), and/or a foreign trust statement weren’t
+properly reported, or you believe an item was omitted
+from the form.
+2. The pass-through entity didn’t file a return or give you
+a Schedule K-1, Schedule K-3 (and the pass-through
+entity was required to provide one to you according to
+the instructions for Schedule K-2), Schedule Q,
+and/or foreign trust statement.
+Note: If you check only “Treatment of item,” you don’t
+need to complete columns (d) and (e).
+Column (c). If you attach Form 8082 to your return, to
+make a notice of inconsistent treatment, enter the amount
+as shown on the Schedule K-1, Schedule K-3,
+Schedule Q, Form 8986 (as a result of a BBA AAR and
+not as a result of an audit), and/or foreign trust statement
+you received.
+If the pass-through entity didn’t file a return, or if you
+didn’t receive a schedule or statement, or if you’re
+reporting items that you believe were omitted, enter zero
+in column (c).
+
+5
+
+Forms 8985 and 8986. BBA partnerships filing an AAR
+must furnish a Form 8986 to each reviewed year partner if:
+• It makes an election under section 6227(b) to have the
+adjustments taken into account by the reviewed year
+partners,
+• The adjustments result in an IU of zero or less than
+zero, or
+• The adjustments don’t result in an IU.
+Caution: Use Form 8986 to notify partners of their
+allocable shares of adjustments, don’t use an amended
+Schedule K-1.
+Form 8986 reflects a partner’s share of an adjustment
+to a PRI. Form 8985 summarizes the information reported
+on the Forms 8986. Forms 8985 and 8986 are required to
+be filed with the AAR.
+Inconsistent treatment of Form 8986. If you receive
+Form 8986 as a result of a BBA AAR (and not as a result
+of an audit), attach Form 8082 to the copy of the return (or
+amended return) you file. Report the following inconsistent
+amounts from the applicable “Corrected” column of Form
+8986 in column (c) of Form 8082, Part II.
+• Liabilities or capital items in Form 8986, Part IV.
+• Item of income, gain, loss, deduction, or credits in
+Form 8986, Part V.
+• Any other items in Form 8986, Part VI.
+Column (d). Enter the amount you’re reporting as the
+correct amount in column (d).
+Column (e). Enter the net increase or decrease for each
+line being changed in column (e). Enter as a positive the
+amount by which column (d) exceeds column (c) or enter
+as a negative the amount by which column (c) exceeds
+column (d). Use parentheses around all amounts that are
+negative. Explain the reason for the change (increase or
+decrease) in Part III.
+
+Part III—Explanations
+
+Explain in detail the reasons you’re reporting an
+inconsistent or corrected amount or item as follows.
+• If you believe that the amount or other type of
+treatment of any item shown on Schedule K-1,
+Schedule K-3, Schedule Q, Form 8986 (as a result of
+a BBA AAR and not as a result of an audit), and/or a
+foreign trust statement wasn’t properly reported, state
+how you think the item should be treated and why.
+• If the pass-through entity hasn’t filed a tax return by
+the time you’re required to file your tax return, enter as
+the explanation, “Partnership (S corporation, Estate,
+Trust, or REMIC) return not filed.”
+• If the pass-through entity didn’t give you a
+Schedule K-1, Schedule K-3 (and the pass-through
+entity was required to provide one to you according to
+the instructions for Schedule K-2), Schedule Q, and/or
+foreign trust statement by the time you’re required to
+file your tax return, enter as the explanation,
+“Schedule K-1 (Schedule K-3, Schedule Q, and/or
+foreign trust statement) not received.”
+
+6
+
+BBA AAR
+Name and Identifying Number
+
+Enter the legal name of the entity and identifying number
+on the appropriate lines.
+
+Part I—General Information
+Line 1
+Check box (b) if you’re filing an AAR on which you’re
+requesting a change in the amount or treatment of any
+item from the way you reported it on your return as
+originally filed or as you later amended it. Subject to the
+particular filing rules, an AAR can be filed by partnerships
+subject to BBA proceedings (BBA AAR). An AAR can also
+be filed by the partnership-partners in a BBA partnership
+(but only for the purpose of providing notice of
+inconsistent treatment with the AAR). See Regulations
+section 301.6227-1(a) referring to Regulations section
+301.6222-1.
+
+For Partnership Tax Years Beginning After 2017
+BBA AAR. All partnerships with tax years beginning after
+2017 are subject to the centralized partnership audit
+regime unless an eligible partnership makes a valid
+election under section 6221(b) to elect out of the
+centralized partnership audit regime.
+Partnerships that are subject to the centralized
+partnership audit procedures of sections 6221 through
+6241 are referred to as “BBA partnerships.” A partnership
+with a tax year beginning after 2017 that isn’t subject to
+BBA proceedings because it has made a valid election
+under section 6221(b) is referred to as a “non-BBA
+partnership.” An AAR filed by a BBA partnership is a BBA
+AAR.
+Caution: If a BBA partnership files an AAR and it needs
+to make its partners aware of their allocable shares of
+adjustments, it will furnish to each partner for the reviewed
+year a Form 8986 reflecting the partner’s share of the
+adjustments (and shouldn’t provide amended Schedules
+K-1 or K-3). The partnership is also required to file with the
+AAR any Forms 8986 required to be furnished to partners
+along with Form 8985. See the instructions for these forms
+for further information.
+The partnership will need to furnish Forms 8986 to
+make its partners aware of their allocable shares of
+adjustments when (a) the adjustments in the BBA AAR
+result in an IU of zero or less than zero, or the adjustments
+don’t result in an IU; or (b) the adjustments in the BBA
+AAR do result in an IU greater than zero but (as an
+alternative to payment) the BBA partnership makes a valid
+election under section 6227(b)(2) to have each reviewed
+year partner take its share of adjustments into account.
+See items B, C1, C2, and D that follow.
+Item A. If “Yes” is checked, complete Form 8979 and
+attach it to the AAR. See the Instructions for Form 8979.
+Item B. BBA partnerships filing an AAR will need to
+determine if the partnership adjustments result in an IU.
+See Figuring the IU, later, for information on how to figure
+the IU. The BBA partnership should consider all available
+Instructions for Form 8082 (Rev. 10-2025)
+
+guidance issued by the IRS in making a determination of
+whether or not the AAR results in an IU. Also, see IU
+Under the Centralized Partnership Audit Regime, later, for
+discussion of the IU.
+Note: An IU calculation must always be made and
+presented on the AAR. This even applies when the IU is
+zero or less than zero, or the adjustments don’t result in an
+IU. See Figuring the IU, later, under Part III for more
+information.
+Item C1. If the adjustments contained in the BBA AAR
+result in an IU, the partnership must pay the IU at the
+same time the AAR is filed. However, under section
+6227(b)(2), the partnership can elect to have its reviewed
+year partners take the adjustments into account. This is an
+election to push out the adjustments to the partners as an
+alternative to payment of the IU. See section 6226(a)(2)
+for details. If this valid election is made, the partnership is
+no longer liable for the IU.
+Caution: If the partnership’s election under 6227(b)(2) to
+push out the adjustments to the partners is determined to
+be invalid, the partnership will still remain liable for the IU.
+Item C2. The partnership will need to furnish a Form
+8986 to each reviewed year partner reflecting the partner’s
+share of adjustments for when the adjustments don’t
+result in an IU (for example, the adjustments in the BBA
+AAR result in an IU of zero or less than zero; or there is a
+net negative adjustment).
+The partnership is also required to file with the AAR all
+Forms 8986 furnished to partners and Form 8985. See the
+instructions for these forms for further information.
+Note: The BBA partnership doesn’t furnish Schedules
+K-1 to its partners when filing a BBA AAR. Instead, it will
+provide Forms 8986.
+Note: A partnership that makes an election under section
+6227(b)(2) to push out adjustments to its partners must
+nevertheless pay any taxes, penalties, additions to tax,
+additional amounts, or the amount of any adjustments to
+any IU previously reported by the partnership (for
+example, when correcting an IU previously reported on an
+AAR) for which the partnership is liable under chapter 1 of
+the Code or the BBA (subchapter C of chapter 63) at the
+time the partnership furnishes statements to its partners.
+Any adjustments to such items aren’t included in the
+statements the partnership furnishes to its partners and
+files with the IRS. These items aren’t allocable to partners;
+rather, they are entity-level liabilities of the partnership and
+should not be pushed out to partners but paid by the
+partnership.
+Item D. Each reviewed year partner is required to take
+into account its share of adjustments requested in a BBA
+AAR if the partnership adjustments result in a positive IU
+and the partnership makes the alternative to payment
+election discussed under Item C1, earlier. Additionally,
+each reviewed year partner is required to take into
+account its share of any adjustments requested in a BBA
+AAR resulting in an IU of zero or less than zero, or that
+don’t result in an IU. The determination of whether or not
+an adjustment results in an IU amount is discussed earlier
+under Item B.
+Instructions for Form 8082 (Rev. 10-2025)
+
+The partnership is required to furnish each reviewed
+year partner with a Form 8986 reporting its share of the
+BBA AAR adjustments. The PR (or DI if the PR is an
+entity) must attest to the partnership’s compliance with
+this requirement. The PR will manually sign Form 8082
+under item D to declare under penalties of perjury that all
+statements have been provided to the reviewed year
+partners as required by these instructions. Form 8082
+should be attached as a PDF to Form 1065.
+Item E. Under section 6227(b)(1), the partnership may
+modify the IU resulting from adjustments reported in a
+BBA AAR in accordance with the provisions under section
+6225(c), disregarding the provisions under paragraphs
+(2), (7), and (9). Any modification made to the IU under
+section 6227(b)(1) must be disclosed and fully explained
+on Form 8980 included with the AAR.
+Note: If the partnership makes a valid election to push out
+the adjustments to the partners as alternative to payment
+of the IU, any modifications applied to the IU are
+disregarded.
+Caution: If the partnership makes an election to push out
+the adjustments rather than pay an IU but the election is
+determined to be invalid, the partnership remains liable for
+the IU and such IU may potentially be assessed. In such a
+case where the partnership filed Form 8980 to request
+permitted modifications be applied to the IU calculation,
+those modifications will be considered in determining the
+IU.
+
+Part II—Inconsistent or Administrative
+Adjustment Request (AAR) Items
+
+If a BBA partnership is filing an AAR to change items that
+were reported on its original return, do the following.
+1. Determine the required changes to be made.
+2. Complete Form 8082 to identify the changes being
+made.
+a. On Form 8082, check box (b) under Part I,
+line 1.
+b. See Lines 8 Through 11—BBA AAR, later, for
+how to complete columns (a) through (e) of Part II.
+3. Figure an IU and determine if there are any
+adjustments that don’t result in an IU. If there are
+adjustments that don't result in an IU, complete Forms
+8985 and 8986.
+4. Determine if it will pay the IU or push out the
+adjustments to the partners.
+a. If any modifications are applied to the IU,
+include a completed Form 8980 with the filing of
+the AAR.
+b. If pushing out the adjustments to the reviewed
+year partners, complete Form 1065 (see
+Administrative Adjustment Request (AAR) in the
+Instructions for Form 1065). Also complete Forms
+8985 and 8986.
+Caution: Schedules K-1 shouldn't be included
+with the AAR. Any information required to be
+reported is done so on Form 8986 instead of
+being reported on Schedules K-1.
+7
+
+Note: See Caution, earlier.
+5. File Form 8082 along with Form 1065, and attach any
+other supporting documents required, including
+copies of Forms 8985 and 8986 (if applicable).
+6. If applicable, distribute the Forms 8986 to reviewed
+year partners according to the Form 8986
+instructions.
+Subject to the particular filing rules, an AAR can be filed
+by partnerships subject to BBA proceedings (BBA AAR).
+
+Lines 8 Through 11—BBA AAR
+Note: Lines 8 through 11 are only required if reporting a
+change to the amount or treatment of a monetary number.
+Column (a). Enter the line number and description from
+the form for which you’re making the change. For example,
+if you’re changing the amount reported on Schedule K,
+line 1, enter “Schedule K, line 1.”
+Column (b). Check the box under “Amount of item” if
+you’re changing the amount from what was previously
+filed. Check the box under “Treatment of item” if you’re
+reporting the amount unchanged but are changing
+another treatment of the item. Check both boxes if you’re
+changing the amount and another treatment besides the
+amount.
+Column (c). Report the amount you previously reported
+for the item listed in column (a).
+Column (d). Enter the amount you’re reporting as the
+correct amount in column (d).
+Column (e). Enter the net increase or decrease for each
+line being changed in column (e). Enter as a positive the
+amount by which column (d) exceeds column (c), or enter
+as a negative the amount by which column (c) exceeds
+column (d). Use parentheses around all amounts that are
+negative. Explain the reason for the change (increase or
+decrease) in Part III.
+
+Part III—Explanations
+
+Explain in detail the reasons you’re reporting an
+inconsistent or corrected amount or item as follows.
+• If the pass-through entity hasn’t filed a tax return by
+the time you’re required to file your tax return, enter as
+the explanation, “Partnership (S corporation, Estate,
+Trust, or REMIC) return not filed.”
+• If the pass-through entity didn’t give you a
+Schedule K-1, Schedule K-3 (and the pass-through
+entity was required to provide one to you according to
+the instructions for Schedule K-2), Schedule Q, and/or
+foreign trust statement by the time you’re required to
+file your tax return, enter as the explanation,
+“Schedule K-1 (Schedule K-3, Schedule Q, and/or
+foreign trust statement) not received.”
+
+IU Under the Centralized Partnership Audit
+Regime
+
+BBA AARs must always include a computation of the IU
+(even when the IU is zero or less than zero, or the
+adjustments don’t result in an IU), as determined under
+section 6225(b). See Figuring the IU, later, for information
+on how to figure the IU. Also, go to IRS.gov/Businesses/
+8
+
+Partnerships/How-To-Figure-an-Imputed-Underpayment.
+Documentation should be included with the AAR that
+supports the computation of the IU amount. The BBA
+partnership should consider all available guidance issued
+by the IRS when figuring the IU amount for an AAR. If the
+calculated IU amount results in an amount greater than
+zero and the partnership doesn’t elect under section
+6227(b)(2) to have its reviewed year partners take the
+adjustments into account, the partnership must report and
+pay the IU and any interest and penalty associated with
+the IU at the time the AAR is submitted. See Interest and
+penalties applicable to the IU, earlier.
+If the adjustments requested in the AAR result in an IU,
+generally the partnership must pay the IU. Adjustments
+requested in the AAR that don’t result in an IU must be
+taken into account by each reviewed year partner as if the
+partnership had made an election under section 6227(b)
+(2) but only with regard to those adjustments that don’t
+result in an IU. In this instance, see Forms 8985 and 8986
+and the related instructions for reporting amounts not
+included in the IU.
+The partnership may elect under section 6227(b)(2) to
+have the reviewed year partners take into account
+adjustments resulting in an IU. If the partnership makes
+the election, the partnership isn’t liable for, nor required to
+pay, the IU related to the adjustments. Additionally, if the
+IU calculation results in an amount that is zero or less than
+zero, or the adjustments don’t result in an IU, then all
+adjustments are taken into account by the reviewed year
+partners. However, the partnership may have withholding
+and reporting obligations under chapter 3 or 4 with
+respect to the adjustments taken into account by the
+reviewed year foreign partners. See Forms 8985 and 8986
+and their related instructions for how to report these
+adjustments to reviewed year partners.
+Note: A partnership that makes an election under
+6227(b)(2) to have the reviewed year partners take into
+account adjustments resulting in an IU won’t push out any
+taxes, penalties, additions to tax, additional amounts, or
+the amount of any adjustments to any IU previously
+reported by the partnership (for example, when correcting
+an IU previously reported on an AAR) for which the
+partnership is liable under chapter 1 of the Code or the
+BBA (subchapter C of chapter 63). Instead, the
+partnership must pay any of these amounts for which the
+partnership is liable at the time the partnership furnishes
+statements to its partners.
+If the partnership validly elects under section 6227(b)
+(2) to have its reviewed year partners take all the
+adjustments into account, any modifications applied to the
+IU submitted on Form 8980 will be disregarded.
+Under section 6227(b)(1), the partnership may modify
+the IU in accordance with the provisions under section
+6225(c), disregarding the provisions under sections
+6225(c)(2), (7), and (9). If modifications are applied to the
+IU, complete and attach Form 8980 and report the
+modified IU amount on Form 1065, page 1, line 26.
+Note: Regarding modifications, see Item E under Part I,
+earlier.
+Instructions for Form 8082 (Rev. 10-2025)
+
+Caution: If the partnership makes an election to push out
+the adjustments rather than pay an IU but the election is
+determined to be invalid, the partnership remains liable for
+the IU and such IU may potentially be assessed. In such a
+case where the partnership filed Form 8980 to request
+permitted modifications be applied to the IU calculation,
+those modifications will be considered in determining the
+IU.
+The applicability of interest and penalties is discussed
+under Interest and penalties applicable to the IU, earlier.
+The BBA AAR may include a prepayment for interest and
+penalties. If making prepayments, the AAR should include
+documentation that supports the calculations. A schedule
+must be attached to Form 1065 that details the portions of
+the prepayment that are for the IU, the prepaid estimated
+interest, and the prepaid estimated penalties. The total of
+all three should be reflected on Form 1065, page 1,
+line 26.
+Details of the IU Reported on Form 1065, Page 1, Line 26
+Description
+Amount
+1. IU amount . . . . . . . . . . . . . . . . . . . . . .
+2. Estimated interest
+
+. . . . . . . . . . . . . . . . .
+
+3. Estimated penalties* . . . . . . . . . . . . . . . .
+4. Total payment (sum of lines 1 through 3)
+
+. . .
+
+* Include an explanation of the penalties associated with the estimated
+payment.
+
+Under section 6232(a)(2), partnerships filing a BBA
+AAR that have adjustments resulting in an IU, and that
+don’t elect the alternative to payment of the IU, must pay
+the IU at the time of filing the AAR. The IU should be
+shown on Form 1065, page 1, line 26. When paying by
+check, include the name of the partnership, “Form 1065,”
+the taxpayer identification number of the partnership, the
+tax year, and “BBA AAR Imputed Underpayment.” Checks
+must be made payable to “United States Treasury” and
+included with the BBA AAR. If making an electronic
+payment, choose the payment description “BBA AAR
+Imputed Underpayment” from the list of payment types.
+
+Figuring the IU
+Definitions
+Adjustments not resulting in an IU. After grouping,
+subgrouping, and netting the adjustments, the result of
+netting with respect to any grouping or subgrouping that
+includes a particular partnership adjustment is a net
+negative adjustment or the IU calculation results in an
+amount that is zero or less than zero. Any adjustments that
+don’t result in an IU are taken into account by the reviewed
+year partners in accordance with Regulations section
+301.6227-3.
+Credit grouping. Any adjustment to a PRI that is
+reported or could be reported by a partnership as a credit
+on the partnership’s return, including a reallocation
+adjustment to such PRI, is placed in the credit grouping.
+Creditable expenditure grouping. Any adjustment to a
+PRI where any person could take the item that is adjusted
+(or item as adjusted if the item wasn’t originally reported
+Instructions for Form 8082 (Rev. 10-2025)
+
+by the partnership) as a credit, including a reallocation
+adjustment to a creditable expenditure, is placed in the
+creditable expenditure grouping.
+Negative adjustment. A negative adjustment is any
+adjustment that is a decrease in an item of gain or income;
+an increase in an item of loss or deduction; an increase in
+an item of credit or creditable expenditure; a decrease in
+an item of tax, penalty, addition to tax, or additional
+amount for which the partnership is liable under chapter 1;
+or a decrease to an IU calculated by the partnership for
+the tax year.
+Net negative adjustment. Any amount which results
+from netting adjustments within a grouping or subgrouping
+that isn’t a net positive adjustment. A net negative
+adjustment includes a negative adjustment that wasn’t
+netted with any other adjustment.
+Net positive adjustment. An amount that is greater than
+zero which results from netting adjustments within a
+grouping or subgrouping. A net positive adjustment
+includes a positive adjustment that wasn’t netted with any
+other adjustment. A net positive adjustment includes a net
+decrease in an item of credit (or creditable expenditure).
+Positive adjustment. A positive adjustment is any
+adjustment that isn’t a negative adjustment.
+Reallocation grouping. In general, any adjustment that
+allocates or reallocates a PRI to and from a partner or
+partners is a reallocation adjustment, except for an
+adjustment to a credit or to a creditable expenditure. Each
+reallocation adjustment generally results in at least two
+separate adjustments, each of which becomes a separate
+subgrouping.
+Residual grouping. Any adjustment to a PRI that
+doesn’t belong in the reallocation, credit, or creditable
+expenditure grouping is placed in the residual grouping.
+This grouping also includes any adjustment to a PRI that
+derives from an item that wouldn’t have been required to
+be allocated by the partnership to a partner under section
+704(b), such as an adjustment to a liability amount on the
+balance sheet.
+Subgrouping. Each adjustment is subgrouped
+according to how the adjustment would be required to be
+taken into account separately under section 702(a). In
+general, a subgrouping follows Schedules K, K-1, K-2,
+and K-3 line items, including any alpha codes related to a
+Schedule K-1, K-2, or K-3 line item.
+Total netted partnership adjustments (TNPA). The
+sum of all net positive adjustments in the reallocation
+grouping and the residual grouping.
+
+Formula for Figuring the IU
+Figuring the IU
+TNPA x rate* =
++ Sum of net positive adjustments
+to creditable expenditure and
+credit groupings:
+= Total IU
+* Highest rate in effect for the reviewed year under section 1 or 11.
+
+9
+
+The process of taking the adjustments shown on the
+AAR and inputting them into the formula shown in the
+previous table requires an understanding of the concepts
+of grouping, subgrouping, and netting. There are seven
+steps necessary in figuring an IU. The first three steps
+focus on grouping, subgrouping, and netting.
+
+Steps in Figuring the IU
+Step 1—Grouping
+Place each adjustment into one of the following four
+groupings: reallocation, credit, creditable expenditure, or
+residual grouping.
+Note: Under Regulations section 301.6225-1(b)(4), solely
+for purposes of calculating any IU, a partnership that files
+an AAR may treat a positive adjustment as zero if the
+positive adjustment is related to, or results from, a positive
+adjustment to another item. The IRS may determine that
+the adjustment should not have been treated as zero by
+the partnership in its calculation of the IU. Go to IRS.gov/
+Businesses/Partnerships/How-To-Figure-an-ImputedUnderpayment.
+Reallocation grouping. A reallocation adjustment
+generally consists of at least two adjustments, one
+positive and one negative, with each in a separate
+subgrouping.
+• One part of the reallocation adjustment reverses the
+effect of the improper allocation of a PRI.
+• The other part of the adjustment makes the proper
+allocation of the PRI.
+• Under Regulations section 301.6227-2(d), if one of the
+reallocation adjustments is negative, such negative
+adjustments must be pushed out to the proper
+partner(s).
+Caution: Don’t net reallocation adjustments. As each part
+of a reallocation adjustment is placed in a separate
+subgrouping within the reallocation grouping, those
+adjustments can’t be netted in accordance with the netting
+rules.
+Example. $100 of ordinary income is being
+reallocated from Partner A to Partner B. For purposes of
+figuring the IU, there will be two adjustments, each in a
+separate subgrouping: a negative adjustment of $100
+(reversing improper allocation to Partner A) and a positive
+adjustment of $100 (making proper allocation to Partner
+B). These two adjustments can’t be netted. As a result, the
+total net positive adjustment in the reallocation grouping is
+$100 and will be included in the TNPA. The net negative
+adjustment of $100 is an adjustment that doesn’t result in
+an IU and will be pushed out to the proper partner(s).
+Credit grouping.
+• Generally, a decrease in credits is treated as a positive
+adjustment, and an increase in credits is treated as a
+negative adjustment.
+• A reallocation adjustment relating to the credit
+grouping is placed into two separate subgroupings
+and won’t be netted together nor will they be netted
+with other credit adjustments.
+10
+
+Note: A change made to a previously reported IU (for
+example, an IU reported on a prior AAR by the
+partnership) is placed in the credit grouping and isn’t
+permitted to be pushed out to the partners, as it is a
+liability of the partnership.
+Creditable expenditure grouping.
+• Generally, a decrease in creditable expenditures is
+treated as a positive adjustment, and an increase in
+creditable expenditures is treated as a negative
+adjustment.
+• A reallocation adjustment relating to a creditable
+expenditure grouping is placed into two separate
+subgroupings and won’t be netted together.
+• A creditable expenditure is treated in this manner even
+if the partners claimed a deduction in lieu of a credit.
+• Each adjustment to a creditable expenditure is
+subgrouped based upon the separate category of
+income to which the creditable expenditure relates
+and to account for any different allocation of the
+creditable expenditure between partners. Two or more
+adjustments to creditable expenditures are included
+within the same subgrouping only if each adjustment
+relates to creditable expenditures in the same
+separate category, and each adjusted PRI would be
+allocated to the partners in the same ratio had those
+items been properly reflected on the originally filed
+partnership return.
+Residual grouping. The residual grouping contains all
+adjustments that don’t fit into one of the other groups.
+Recharacterization adjustments. A recharacterization
+adjustment may result in two separate adjustments within
+the residual grouping.
+• One adjustment reverses the improper
+characterization of the PRI.
+• The other adjustment makes the proper
+characterization of the PRI.
+• The adjustments that result from a recharacterization
+are placed into separate subgroupings.
+
+Step 2—Subgrouping
+Determine if any adjustment, within one of the four
+groupings, needs to be subgrouped. Subgrouping is
+generally required within a grouping if there’s a negative
+partnership adjustment within that grouping. Each
+adjustment is subgrouped according to how the
+adjustment would be required to be taken into account
+separately under section 702(a). If any adjustment could
+be subject to any preference, limitation, or restriction
+under the Code (or not allowed, in whole or in part,
+against ordinary income) if taken into account by any
+person, the adjustment is placed in a separate
+subgrouping from all other adjustments within the
+grouping.
+Generally, each separate line item of Schedules K, K-1,
+K-2, and K-3 or return schedule (that is, Schedule L, etc.)
+represents a separate and distinct subgrouping.
+Example. Adjustments to ordinary income must be
+placed in a different subgrouping than capital gain income
+
+Instructions for Form 8082 (Rev. 10-2025)
+
+or interest income because each of those items is
+required to be separately stated under section 702(a).
+• Subgroupings generally reflect a line item from
+Schedules K, K-1, K-2, and K-3 including any
+subcategories of those lines (for example, alpha
+codes per the Schedule K-1 instructions or activities
+broken out via attached statements). If any line item
+on Schedules K or K-1 or other schedules consists of
+multiple items and the components are required to be
+taken into account separately under the Code,
+regulations, forms, instructions, or other IRS guidance,
+then such line item must be further subgrouped.
+Example. Box 13, code A (cash contributions
+60%); and box 13, code B (cash contributions 30%),
+of 2019 Schedule K-1 are two separate subgroupings.
+• The ordinary income (loss) amount reported on
+Schedule K, line 1, and in box 1 of Schedule K-1 is
+sourced from Form 1065, page 1, and is a net amount
+consisting of various page 1 line items of income and
+expenses. Although those separate page 1 line items
+are distinct items of income and expense, if they are
+appropriately netted and included on Schedule K,
+line 1, and in box 1 of Schedule K-1, the net amount
+will be considered a single subgrouping, except when
+such amount is required to be separately allocated,
+such as when the partnership has more than one
+trade or business. If the partnership has more than
+one trade or business activity, the net income (loss)
+from each separate activity must be reported on
+Schedule K-1. Each separate activity will constitute a
+separate subgrouping and it must be determined
+which activity an adjustment to the page 1 item of
+income and expense relates to for subgrouping
+purposes.
+• If you have a negative adjustment along with a positive
+adjustment in the same line item of Schedules K and
+K-1, you must consider whether they may be properly
+netted at the partnership level and whether they are
+required to be taken into account separately by any
+partner. They may be subject to a limitation or
+preference under the Code before you can place them
+in the same subgrouping (for example, passive and
+nonpassive activities).
+• A negative adjustment that isn’t otherwise required to
+be placed in its own subgrouping must be placed in
+the same subgrouping as another adjustment if the
+negative adjustment and the other adjustment would
+have been properly netted at the partnership level and
+such netted amount would have been required to be
+allocated to the partners of the partnership as a single
+item for purposes of section 702(a) or other provision
+of the Code and regulations.
+
+Step 3—Netting
+Net all adjustments within each of the groupings and
+subgroupings.
+• Positive adjustments may be netted with other positive
+adjustments only if they are in the same grouping.
+• Negative adjustments may be netted with other
+negative adjustments only if they are in the same
+subgrouping.
+Instructions for Form 8082 (Rev. 10-2025)
+
+• Positive and negative adjustments may only be netted
+
+against each other if they are in the same
+subgrouping.
+• An adjustment in one grouping or subgrouping may
+not be netted against an adjustment in any other
+grouping or subgrouping.
+• All adjustments within a subgrouping are netted to
+determine whether there is a net positive adjustment
+or net negative adjustment for that subgrouping.
+• Net positive adjustments from subgroupings or
+positive adjustments within a grouping (if
+subgroupings are unnecessary) are netted to
+determine the net positive adjustment for that
+grouping. Net negative adjustments from
+subgroupings within a grouping are netted to
+determine the net negative adjustment for that
+grouping.
+
+Step 4—Figure the Total Netted Partnership
+Adjustments (TNPA)
+
+• Each net positive adjustment with respect to a
+
+particular grouping or subgrouping in the residual or
+reallocation grouping that results after netting the
+adjustments is included in the calculation of the TNPA.
+• Each net negative adjustment with respect to a
+residual or reallocation grouping or subgrouping that
+results after netting the adjustments is excluded from
+the calculation of the TNPA because those
+adjustments don’t result in an IU.
+Note: Under Regulations section 301.6225-1(b)(4), a
+partnership that files an AAR may treat a positive
+adjustment as zero (solely for purposes of calculating any
+IU) if the positive adjustment is related to, or results from,
+a positive adjustment to another item. The IRS may later
+determine that the adjustment should not have been
+treated as zero by the partnership in its calculation of the
+IU. Go to IRS.gov/Businesses/Partnerships/How-ToFigure-an-Imputed-Underpayment.
+
+Step 5—Determine the Highest Tax Rate in Effect
+Under Section 1 or 11 in the Reviewed Year
+Step 6—Determine the Sum of Net Positive
+Adjustments to Creditable Expenditures and
+Credit Groupings That Will Increase the Product of
+the TNPA Multiplied by the Highest Rate in Effect
+
+• A net decrease to creditable expenditures is treated
+
+as a net positive adjustment and increases the
+product of the TNPA multiplied by the highest tax rate
+in effect. A net increase to creditable expenditures is
+treated as a net negative adjustment (including net
+negative adjustments resulting from a creditable
+expenditures reallocation adjustment) that’s excluded
+from the calculation of the TNPA and is an adjustment
+that doesn’t result in an IU.
+• For the credit grouping, a net positive adjustment will
+increase the product of the TNPA multiplied by the
+highest tax rate in effect. A net negative adjustment,
+including net negative adjustments resulting from a
+11
+
+credit reallocation adjustment, will be treated as an
+adjustment that doesn’t result in an IU.
+
+Step 7—Figure the IU Based on the Results of
+Steps 4 Through 6 and Insert Those Results Into
+the IU Formula
+Figuring the IU
+TNPA x rate* =
++ Sum of net positive adjustments
+to creditable expenditure and
+credit groupings:
+= Total IU
+* Highest rate in effect for the reviewed year under section 1 or 11.
+
+Paperwork Reduction Act Notice. We ask for the
+information on this form to carry out the Internal Revenue
+laws of the United States. You’re required to give us the
+information. We need it to ensure that you’re complying
+with these laws and to allow us to figure and collect the
+right amount of tax.
+You aren’t required to provide the information requested
+on a form that is subject to the Paperwork Reduction Act
+
+12
+
+unless the form displays a valid OMB control number.
+Books or records relating to a form or its instructions must
+be retained as long as their contents may become
+material in the administration of any Internal Revenue law.
+Generally, tax returns and return information are
+confidential, as required by section 6103. The time
+needed to complete and file this form will vary depending
+on individual circumstances. The estimated burden for
+individual taxpayers filing this form is approved under
+OMB control number 1545-0074 and is included in the
+estimates shown in the instructions for their individual
+income tax return.
+Comments and suggestions. If you have suggestions
+for making Form 8082 and/or these instructions simpler,
+we would be happy to hear from you. You can send us
+comments through IRS.gov/FormComments. Or you can
+write to the Internal Revenue Service, Tax Forms and
+Publications Division, 1111 Constitution Ave. NW,
+IR-6526, Washington, DC 20224. Don’t send Form 8082
+to this address. Instead, see How and When To File,
+earlier.
+
+Instructions for Form 8082 (Rev. 10-2025)
+
+

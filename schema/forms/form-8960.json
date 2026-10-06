@@ -1,0 +1,200 @@
+{
+  "form": {
+    "id": "form-8960",
+    "form": "Form 8960",
+    "title": "Net Investment Income Tax\u2014Individuals, Estates, and Trusts",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8960--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8960",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Taxable interest (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Ordinary dividends (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Annuities (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "4a",
+        "caption": "Rental real estate, royalties, partnerships, S corporations, trusts, trades or businesses, etc. (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "4b",
+        "caption": "Adjustment for net income or loss derived in the ordinary course of a non-section 1411 trade or business (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "4c",
+        "caption": "Combine lines 4a and 4b",
+        "type": "money"
+      },
+      {
+        "line": "5a",
+        "caption": "Net gain or loss from disposition of property (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "5b",
+        "caption": "Net gain or loss from disposition of property that is not subject to net investment income tax (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "5c",
+        "caption": "Adjustment from disposition of partnership interest or S corporation stock (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "5d",
+        "caption": "Combine lines 5a through 5c",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Adjustments to investment income for certain CFCs and PFICs (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Other modifications to investment income (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Total investment income. Combine lines 1, 2, 3, 4c, 5d, 6, and 7",
+        "type": "money"
+      },
+      {
+        "line": "9a",
+        "caption": "Investment interest expenses (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "9b",
+        "caption": "State, local, and foreign income tax (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "9c",
+        "caption": "Miscellaneous investment expenses (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "9d",
+        "caption": "Add lines 9a, 9b, and 9c",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Additional modifications (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Total deductions and modifications. Add lines 9d and 10",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Net investment income. Subtract Part II, line 11, from Part I, line 8. Individuals, complete lines 13\u201317. Estates and trusts, complete lines 18a\u201321. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Modified adjusted gross income (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Threshold based on filing status (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Subtract line 14 from line 13. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Enter the smaller of line 12 or line 15",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Net investment income tax for individuals. Multiply line 16 by 3.8% (0.038). Enter here and include on your tax return (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "18a",
+        "caption": "Net investment income (line 12 above)",
+        "type": "money"
+      },
+      {
+        "line": "18b",
+        "caption": "Deductions for distributions of net investment income and charitable deductions (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "18c",
+        "caption": "Undistributed net investment income. Subtract line 18b from line 18a (see instructions). If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "19a",
+        "caption": "Adjusted gross income (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "19b",
+        "caption": "Highest tax bracket for estates and trusts for the year (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "19c",
+        "caption": "Subtract line 19b from line 19a. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Enter the smaller of line 18c or line 19c",
+        "type": "money"
+      },
+      {
+        "line": "21",
+        "caption": "Net investment income tax for estates and trusts. Multiply line 20 by 3.8% (0.038). Enter here and include on your tax return (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "election-6013g",
+        "caption": "Section 6013(g) election (see instructions)",
+        "type": "checkbox"
+      },
+      {
+        "line": "election-6013h",
+        "caption": "Section 6013(h) election (see instructions)",
+        "type": "checkbox"
+      },
+      {
+        "line": "election-1.1411-10g",
+        "caption": "Regulations section 1.1411-10(g) election (see instructions)",
+        "type": "checkbox"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "72",
+        "because": "the Attachment Sequence No. printed in the form header, not a line"
+      }
+    ],
+    "revision_printed_as": "Form 8960 (2025) Created 8/19/25"
+  }
+}

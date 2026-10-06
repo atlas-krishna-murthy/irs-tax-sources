@@ -1,0 +1,226 @@
+{
+  "form": {
+    "id": "form-1116",
+    "form": "Form 1116",
+    "title": "Foreign Tax Credit (Individual, Estate, or Trust)",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1116--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1116",
+    "notes": "refundable: false. Line 35 goes to Schedule 3 Part I line 1, inside the tax computation. THE DE MINIMIS ELECTION: a taxpayer may claim the credit on Schedule 3 line 1 WITHOUT filing this form at all, if all four conditions hold \u2014 all foreign source gross income was passive category income; all the income and any foreign taxes paid on it were reported on a qualified payee statement (Form 1099-DIV, 1099-INT, Schedule K-1 or similar); total creditable foreign taxes are not more than $300 ($600 if married filing a joint return); and the taxpayer is not an estate or trust. Under the election the figure entered on Schedule 3 line 1 is the smaller of total foreign tax or regular tax. Schedule 3 line 1 says so on its own face: 'Attach Form 1116 IF REQUIRED.' That is why routes.foreign-tax.de-minimis-election->schedule3.1 exists as a separate route with its own condition. Only Part IV is transcribed in full below plus the Part III lines that produce the credit; Parts I and II are the per-category income and taxes worked out for each separate category of income and are transcribed to the extent they carry the limitation arithmetic. Printed revision: Form 1116 (2025), Created 9/16/25.",
+    "lines": [
+      {
+        "line": "12",
+        "caption": "Reduction in foreign taxes (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Taxes reclassified under high tax kickout (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Combine lines 11, 12, and 13. This is the total amount of foreign taxes available for credit",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Enter the amount from line 7. This is your taxable income or (loss) from sources outside the United States (before adjustments) for the category of income checked above Part I. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Adjustments to line 15 (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Combine the amounts on lines 15 and 16. This is your net foreign source taxable income. (If the result is zero or less, skip line 18 and enter -0- on line 19.)",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "Individuals: Enter the sum of (i) Form 1040, 1040-SR, or 1040-NR, line 11b, minus Form 1040, 1040-SR, or 1040-NR, line 14, and (ii) Schedule 1-A (Form 1040), line 37. Estates and trusts: Enter your taxable income without the deduction for your exemption",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "Divide line 17 by line 18. If line 17 is more than line 18, enter \u201c1\u201d",
+        "type": "percent"
+      },
+      {
+        "line": "20",
+        "caption": "Individuals: Enter the total of Form 1040, 1040-SR, or 1040-NR, line 16, and Schedule 2 (Form 1040), line 1z. Estates and trusts: See instructions",
+        "type": "money"
+      },
+      {
+        "line": "21",
+        "caption": "Multiply line 20 by line 19 (maximum amount of credit)",
+        "type": "money"
+      },
+      {
+        "line": "22",
+        "caption": "Increase in limitation (section 960(c)) (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "23",
+        "caption": "Add lines 21 and 22",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Enter the smaller of line 14 or line 23. Enter here and on the appropriate line of Part IV. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Credit for taxes on section 951A category income",
+        "type": "money"
+      },
+      {
+        "line": "26",
+        "caption": "Credit for taxes on foreign branch category income",
+        "type": "money"
+      },
+      {
+        "line": "27",
+        "caption": "Credit for taxes on passive category income",
+        "type": "money"
+      },
+      {
+        "line": "28",
+        "caption": "Credit for taxes on general category income",
+        "type": "money"
+      },
+      {
+        "line": "29",
+        "caption": "Credit for taxes on section 901(j) income",
+        "type": "money"
+      },
+      {
+        "line": "30",
+        "caption": "Credit for taxes on certain income re-sourced by treaty",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Credit for taxes on lump-sum distributions",
+        "type": "money"
+      },
+      {
+        "line": "32",
+        "caption": "Add lines 25 through 31",
+        "type": "money"
+      },
+      {
+        "line": "33",
+        "caption": "Enter the smaller of line 20 or line 32",
+        "type": "money"
+      },
+      {
+        "line": "34",
+        "caption": "Reduction of credit for international boycott operations. See instructions for line 12",
+        "type": "money"
+      },
+      {
+        "line": "35",
+        "caption": "Subtract line 34 from line 33. This is your foreign tax credit. Enter here and on Schedule 3 (Form 1040), line 1; Form 1041, Schedule G, line 2a; or Form 990-T, Part III, line 1a",
+        "type": "money"
+      },
+      {
+        "line": "1a",
+        "caption": "Gross income from sources within country shown above and of the type checked above (see instructions):",
+        "type": "money"
+      },
+      {
+        "line": "1b",
+        "caption": "Check if line 1a is compensation for personal services as an employee, your total compensation from all sources is $250,000 or more, and you used an alternative basis to determine its source.",
+        "type": "checkbox"
+      },
+      {
+        "line": "2",
+        "caption": "Expenses definitely related to the income on line 1a (attach statement)",
+        "type": "money"
+      },
+      {
+        "line": "3a",
+        "caption": "Certain itemized deductions or standard deduction (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "3b",
+        "caption": "Other deductions (attach statement)",
+        "type": "money"
+      },
+      {
+        "line": "3c",
+        "caption": "Add lines 3a and 3b",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "3d",
+        "caption": "Gross foreign source income (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "3e",
+        "caption": "Gross income from all sources (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "3f",
+        "caption": "Divide line 3d by line 3e (see instructions)",
+        "type": "number",
+        "computed_by_software": true
+      },
+      {
+        "line": "3g",
+        "caption": "Multiply line 3c by line 3f",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "4a",
+        "caption": "Home mortgage interest (use the Worksheet for Home Mortgage Interest in the instructions)",
+        "type": "money"
+      },
+      {
+        "line": "4b",
+        "caption": "Other interest expense",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Losses from foreign sources",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Add lines 2, 3g, 4a, 4b, and 5",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "7",
+        "caption": "Subtract line 6 from line 1a. Enter the result here and on line 15, page 2",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "8",
+        "caption": "Add lines A through C, column (u). Enter the total here and on line 9, page 2",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "3",
+        "because": "the heading 'Pro rata share of other deductions not definitely related:' over lines 3a-3g, each declared; also 'Schedule 3 (Form 1040)' in line 35's caption, a reference"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "form": {
+    "id": "form-4137",
+    "form": "Form 4137",
+    "title": "Social Security and Medicare Tax on Unreported Tip Income",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f4137--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/f4137--2025.pdf",
+    "lines": [
+      {
+        "line": "1c",
+        "caption": "Total cash and charge tips you received (including unreported tips)",
+        "type": "money"
+      },
+      {
+        "line": "1d",
+        "caption": "Total cash and charge tips you reported to your employer",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Total cash and charge tips you received in 2025. Add the amounts from line 1, column (c), only",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Total cash and charge tips you reported to your employer(s) in 2025. Add the amounts from line 1, column (d)",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Subtract line 3 from line 2. Include as income on Form 1040, 1040-SR, or 1040-NR, line 1c. (See Allocated tips in the instructions.)",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Cash and charge tips you received but didn't report to your employer because the total was less than $20 in a calendar month (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Unreported tips subject to Medicare tax. Subtract line 5 from line 4",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Maximum amount of wages (including tips) subject to social security tax",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Total social security wages and social security tips (total of your Form(s) W-2, boxes 3 and 7) and railroad retirement (RRTA) compensation (subject to 6.2% rate) (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Subtract line 8 from line 7. If line 8 is more than line 7, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Unreported tips subject to social security tax. Enter the smaller of line 6 or line 9. If you received tips as a federal, state, or local government employee, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Multiply line 10 by 0.062 (social security tax rate)",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Multiply line 6 by 0.0145 (Medicare tax rate)",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Add lines 11 and 12. Include as tax on Schedule 2 (Form 1040), line 5, or Form 1040-SS, Part I, line 6a. (See instructions there.)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "1",
+        "caption": "Name of employer to whom you were required to, but didn't, report your tips; (a) name of employer; (b) employer identification number; (c) total cash and charge tips you received; (d) total cash and charge tips you reported to your employer",
+        "type": "money"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "24",
+        "because": "'Attachment Sequence No. 24' in the form header, not a line"
+      }
+    ]
+  }
+}

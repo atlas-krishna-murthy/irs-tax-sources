@@ -1,0 +1,521 @@
+Form     1118
+(Rev. December 2025)
+                                                                                                Foreign Tax Credit—Corporations
+                                                                                                  Attach to the corporation’s tax return.
+                                                                                                                                                                                                                                          OMB No. 1545-0123
+
+                                                                                  Go to www.irs.gov/Form1118 for instructions and the latest information.                                                                                 Attachment
+Department of the Treasury
+                                      For calendar year 20                   , or other tax year beginning                                        , 20             , and ending                                     , 20                  Sequence No. 118
+Internal Revenue Service
+Name of corporation                                                                                                                                                                                                        Employer identification number
+
+
+Use a separate Form 1118 for each applicable category of income (see instructions).
+ a Separate Category (Enter code—see instructions.) . . . . . . . . . . . . . . . . . . . .                                                                                 .   .   .    .   .   .    .     .   .    .     .   .   .
+ b If code 901j is entered on line a, enter the country code for the sanctioned country (see instructions) . . .                                                            .   .   .    .   .   .    .     .   .    .     .   .   .
+ c If one of the RBT codes is entered on line a, enter the country code for the treaty country (see instructions) .                                                         .   .   .    .   .   .    .     .   .    .     .   .   .
+    Schedule A                Income or (Loss) Before Adjustments (Report all amounts in U.S. dollars. See Specific Instructions.)
+                 1(a). EIN or Reference ID Number                       1(b). Code*       2. Foreign Country or                                  Gross Income or (Loss) From Sources Outside the United States
+                          (see instructions)                                                  U.S. Territory
+                                                                                                                             3. Inclusions Under Sections 951(a)(1) and 951A                             4. Dividends                          5. Interest
+                                                                                        (enter two-letter code—
+                                                                                                                                             (see instructions)                                        (see instructions)
+                                                                                         use a separate line for
+                                                                                         each) (see instructions)         (a) Exclude Gross-Up              (b) Gross-Up (section 78)
+ A
+ B
+ C
+Totals (add lines A through C)           .   .   .   .   .      .   .    .    .     .   .   .    .   .     .   .
+         6. Gross Rents, Royalties,                  7. Sales                        8. Gross Income From                    9. Currency Gain                10. Currency Gain Code                         11. Other                          12. Total
+             and License Fees                                                       Performance of Services                                                      (see instructions)                    (attach schedule)                   (add columns 3(a)
+                                                                                                                                                                                                                                           through 9 and 11)
+ A
+ B
+ C
+Totals
+
+                                                                                                                        13. Allocable Deductions
+              (a) Dividends              (b) Deduction Allowed Under               (c) Deduction Allowed Under                      Rental, Royalty, and Licensing Expenses                          (f) Expenses Allocable              (g) Expenses Allocable
+           Received Deduction            Section 250(a)(1)(A)—Foreign               Section 250(a)(1)(B)—Global        (d) Depreciation, Depletion,                (e) Other Allocable                   to Sales Income                 to Gross Income From
+            (see instructions)             Derived Intangible Income              Intangible Low-Taxed Income               and Amortization                            Expenses                                                        Performance of Services
+ A
+ B
+ C
+Totals
+
+                                             13. Allocable Deductions (continued)                                                       14. Apportioned Share             15. Net Operating               16. Total Deductions         17. Total Income or (Loss)
+                                                                                                                                              of Deductions                Loss Deduction                  (add columns 13(k)             Before Adjustments
+          (h) Currency Loss           (i) Currency Loss Code             (j) Other Allocable                (k) Total Allocable               (enter amount                                                    through 15)                (subtract column 16
+                                          (see instructions)                 Deductions                         Deductions                   from applicable                                                                                from column 12)
+                                                                          (attach schedule)                (add columns 13(a)             line of Schedule H,
+                                                                          (see instructions)             through 13(h) and 13(j))          Part I, column (b);
+                                                                                                                                        Part II, column (f); and
+                                                                                                                                          Part III, column (g))
+ A
+ B
+ C
+Totals
+
+* For section 863(b) income, NOLs, income from RICs, high-taxed income, section 951A, and reattribution of income by reason of disregarded payments, use a single line and enter the applicable code
+in column 1(b) (see instructions). Also, for reporting branches that are QBUs, use a separate line for each such branch.
+For Paperwork Reduction Act Notice, see separate instructions.                                                                              Cat. No. 10900F                                                          Form 1118 (Rev. 12-2025) Created 11/25/25
+Form 1118 (Rev. 12-2025)                                                                                                                                                                                                          Page 2
+ Schedule B      Foreign Tax Credit (Report all foreign tax amounts in U.S. dollars.)
+Part I—Foreign Taxes Paid, Accrued, and Deemed Paid (see instructions)
+         1. Credit Is Claimed for Taxes                                      2. Foreign Taxes Paid or Accrued (attach schedule showing amounts in foreign currency and conversion rate(s) used)
+                  (check one):
+                                                                                                                            Tax Withheld at Source on:
+             Paid            Accrued
+                                              (a) Dividends          (b)(1) Distributions of      (b)(2) PTEP Group           (c) Branch Remittances          (d) Interest           (e) Rents, Royalties,            (f) Other
+                                                                       Previously Taxed            (see instructions)                                                                 and License Fees
+          Date Paid      Date Accrued                                 Earnings and Profits
+ A
+ B
+ C
+Totals (add lines A through C)
+                                 2. Foreign Taxes Paid or Accrued (attach schedule showing amounts in foreign currency and conversion rate(s) used) (continued)                                         3. Tax Deemed Paid
+                                                                                                                                                                                                          (see instructions)
+                                                    Other Foreign Taxes Paid or Accrued on:                                                     (j) Total Foreign Taxes Paid or Accrued
+                                                                                                                                                     (add columns 2(a) through 2(i))
+                         (g) Sales                            (h) Services Income                               (i) Other
+
+ A
+ B
+ C
+Totals
+
+Part II—Separate Foreign Tax Credit (Complete a separate Part II for each applicable category of income.)
+  1a Total foreign taxes paid or accrued (total from Part I, column 2(j)) . . . . . . . . . . . . . . . . .                             1a
+    b Foreign taxes paid or accrued by the corporation during prior tax years that were suspended due to the rules of
+      section 909 and for which the related income is taken into account by the corporation during the current tax year
+      (see instructions) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                              1b
+  2   Total taxes deemed paid (total from Part I, column 3) . . . . . . . . . . . . . . . . . . . . .                                    2
+  3   Reductions of taxes paid, accrued, or deemed paid (enter total from Schedule G, Part I) . . . . . . . . . .                        3 (             )
+  4   Taxes reclassified under high-tax kickout . . . . . . . . . . . . . . . . . . . . . . . . .                                        4
+  5   Enter the sum of any carryover of foreign taxes (from Schedule K, line 3, column (xiv), and from Schedule I, Part III,
+      line 3) plus any carrybacks to the current tax year . . . . . . . . . . . . . . . . . . . . . .                                    5
+  6   Total foreign taxes (combine lines 1a through 5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                                   6
+  7   Enter the amount from the applicable column of Schedule J, Part I, line 11 (see instructions). If Schedule J is not required to be completed,
+      enter the result from the “Totals” line of column 17 of the applicable Schedule A . . . . . . . . . . . . . . . . . . . . .                                                                        7
+  8a Total taxable income from all sources (enter taxable income from the corporation’s tax return) . . . . . . . .                     8a
+    b Adjustments to line 8a (see instructions) . . . . . . . . . . . . . . . . . . . . . . . . . .                                     8b
+    c Subtract line 8b from line 8a     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                                     8c
+  9   Divide line 7 by line 8c. Enter the resulting fraction as a decimal (see instructions). If line 7 is greater than line 8c, enter 1 . . . . . . . .                                                 9
+ 10   Total U.S. income tax against which credit is allowed (regular tax liability (see section 26(b)) minus any American Samoa economic development
+      credit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                                               10
+ 11   Multiply line 9 by line 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                                        11
+ 12   Increase in limitation (section 960(c)) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                                   12
+ 13   Credit limitation (add lines 11 and 12) (see instructions) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                            13
+ 14   Separate foreign tax credit (enter the smaller of line 6 or line 13). Enter here and on the appropriate line of Part III . . . . . . . . . .                                                      14
+                                                                                                                                                                                                             Form 1118 (Rev. 12-2025)
+Form 1118 (Rev. 12-2025)                                                                                                                                       Page 3
+ Schedule B      Foreign Tax Credit (Report all foreign tax amounts in U.S. dollars.) (continued)
+Part III—Summary of Separate Credits (Enter amounts from Part II, line 14, for each applicable category of income. Do not include taxes paid to sanctioned countries.)
+  1     Credit for taxes on section 951A category income . . . . . . . . . . . . . . . . . . . . . .                                 1
+  2     Credit for taxes on foreign branch category income . . . . . . . . . . . . . . . . . . . . . .                               2
+  3     Credit for taxes on passive category income . . . . . . . . . . . . . . . . . . . . . . . .                                  3
+  4     Credit for taxes on general category income . . . . . . . . . . . . . . . . . . . . . . . .                                  4
+  5     Credit for taxes on section 901(j) category income (combine all such credits on this line) . . . . . . . . . .               5
+  6     Credit for taxes on income re-sourced by treaty (combine all such credits on this line) . . . . . . . . . .                  6
+  7     Total (add lines 1 through 6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                                 .   .   .   .   .   .    .      7
+  8     Enter the smaller of Schedule B, Part II, line 10, or Schedule B, Part III, line 7 . . . . . . . . . . . . . . .                                                              .   .   .   .   .   .    .      8
+  9     Reduction in credit for international boycott operations (see instructions) . . . . . . . . . . . . . . . . .                                                                 .   .   .   .   .   .    .      9
+ 10     Total foreign tax credit (subtract line 9 from line 8). Enter here and on the appropriate line of the corporation’s tax return                                                .   .   .   .   .   .    .     10
+  Schedule C               Tax Deemed Paid With Respect to Section 951(a)(1) Inclusions by Domestic Corporation Filing Return (Section 960(a))
+                           Use this schedule to report the tax deemed paid by the corporation with respect to section 951(a)(1) inclusions of earnings from foreign corporations under
+                           section 960(a). For each line in Schedule C, include the column 10 amount in column 3 of the line in Schedule B, Part I, that corresponds with the identifying
+                           number specified in column 1 of Schedule A and that also corresponds with the identifying number entered in column 1b of this Schedule C (see instructions).
+                           1a. Name of Foreign Corporation                                         1b. EIN or Reference ID Number of the Foreign Corporation                              1c. Tested Unit Reference ID (if applicable)
+                                                                                                                        (see instructions)
+
+
+
+
+           2. Tax Year End             3. Country of Incorporation       4. Functional Currency                                                                    5. Subpart F Income Group
+            (Year/Month)                  (enter country code—           of Foreign Corporation                 (a) Reg. sec.                      (b) Reg. sec.                                              (c) Unit
+          (see instructions)                 see instructions)                (enter code—                   1.960-1(d)(2)(ii)(B)(2)            1.904-4(c)(3)(i)-(iv)
+                                                                             see instructions)                   (enter code)                       (enter code)
+
+
+
+
+       6. Total Net Income in           7. Total Eligible Current Year Taxes       8. Section 951(a)(1) Inclusion Attributable to Subpart F Income Group                      9. Divide Column 8(a)                      10. Tax Deemed Paid
+      Subpart F Income Group                in Subpart F Income Group                                                                                                             by Column 6                             (multiply column 7
+       (in functional currency                     (in U.S. dollars)                                                                                                                                                         by column 9)
+                                                                                       (a) Functional Currency                         (b) U.S. Dollars
+       of foreign corporation)
+
+
+
+
+Total (add amounts in column 10) .              .   .   .    .   .   .   .     .   .   .   .   .     .   .   .   .   .   .    .   .    .   .   .   .      .   .   .   .   .   .   .   .   .   .   .   .
+                                                                                                                                                                                                                          Form 1118 (Rev. 12-2025)
+Form 1118 (Rev. 12-2025)                                                                                                                                                                                                   Page 4
+  Schedule D               Tax Deemed Paid With Respect to Section 951A Income by Domestic Corporation Filing the Return (Section 960(d))
+                           Use this schedule to figure the tax deemed paid by the corporation with respect to section 951A inclusions of earnings from foreign corporations under
+                           section 960(d).
+Part I—Foreign Corporation’s Tested Income and Foreign Taxes
+                            1a. Name of Foreign Corporation                                          1b. EIN or Reference ID Number                               2. Tax Year End             3. Country of       4. Functional
+                                                                                                        of the Foreign Corporation                                 (Year/Month)              Incorporation        Currency of
+                                                                                                             (see instructions)                                  (see instructions)          (enter country          Foreign
+                                                                                                                                                                                               code—see           Corporation
+                                                                                                                                                                                              instructions)       (enter code)
+
+
+
+
+ 5. Pro Rata Share of CFC’s Tested Income             6. CFC’s Tested Income                       7. Divide Column 5                   8. CFC’s Tested Foreign Income Taxes          9. Pro Rata Share of Tested Foreign Income
+    From Applicable Form 8992 Schedule          From Applicable Form 8992 Schedule                    by Column 6                           From Schedule Q (Form 5471)                      Taxes Paid or Accrued by CFC
+              (see instructions)                          (see instructions)                                                                      (see instructions)                        (multiply column 7 by column 8)
+
+
+
+
+                                            Total (add amounts in column 5)
+                                                                                                                                       Total (add amounts in column 9)
+Part II—Foreign Income Tax Deemed Paid
+        1. Global Intangible Low-Taxed Income                        2. Inclusion Percentage.                           3. Multiply Part I, Column 9 Total, by                               4. Tax Deemed Paid
+               (section 951A inclusion)                             Divide Part II, Column 1, by                            Part II, Column 2 Percentage                         (Multiply Part II, column 3, by 80% (0.80).
+                                                                       Part I, Column 5 Total                                                                                  Enter the result here and include on the line of
+                                                                                                                                                                             Schedule B, Part I, column 3, that corresponds with
+                                                                                                                                                                              the line with “951A” in column 2 of Schedule A.)
+
+
+
+
+                                                                                                                                                                                                       Form 1118 (Rev. 12-2025)
+Form 1118 (Rev. 12-2025)                                                                                                                                                                                                                     Page 5
+    Schedule E   Taxes Paid, Accrued, or Deemed Paid With Respect to Previously Taxed Earnings and Profits (PTEP) by Domestic Corporation Filing
+                 the Return (Sections 901 and 960(b))
+Part I—Taxes Paid, Accrued, and Deemed Paid by Domestic Corporation
+Use this part to report the tax paid or accrued under section 901, and tax deemed paid under section 960(b), by the domestic corporation with respect to distributions of PTEP
+from first-tier foreign corporations. For each line in Schedule E, Part I, include the column 11 amount in column 3 of the line in Schedule B, Part I, that corresponds with the
+identifying number specified in column 1 of Schedule A and that also corresponds with the identifying number specified in column 1b of this Schedule E, Part I. Also include the
+column 12 and 13 amounts in lines F and H of Schedule G, respectively (see instructions). For each line in Schedule E, Part I, include the column 14 amount in column 2(b)(1) of the
+line in Schedule B, Part I, that corresponds with the identifying number specified in column 1(a) of Schedule A and that also corresponds with the identifying number specified in
+column 1b of this Schedule E, Part I. Also include the column 15 and 16 amounts in lines F and H of Schedule G, respectively (see instructions).
+             1a. Name of Distributing Foreign Corporation                             1b. EIN or Reference ID Number                              2. Tax Year End          3. Country of       4. Functional Currency     5. PTEP        6. Annual
+                                                                                         of the Foreign Corporation                                (Year/Month)           Incorporation           of the Distributing      Group       PTEP Account
+                                                                                              (see instructions)                                 (see instructions)       (enter country        Foreign Corporation     (enter code)    (enter year)
+                                                                                                                                                                            code—see
+                                                                                                                                                                           instructions)
+
+
+
+
+ 7. Total Amount of PTEP in the PTEP Group          8. Total Amount of the PTEP Group                  9. Distribution From the PTEP Group                          10. Divide Column 9                           11. Foreign Income Taxes
+       Within an Annual PTEP Account                Taxes With Respect to PTEP Group                      Within an Annual PTEP Account                                 by Column 7                      Properly Attributable to PTEP Under Section
+                                                      Within an Annual PTEP Account                                                                                                                       960(b)(1) and Not Previously Deemed Paid
+                                                                                                                                                                                                              (multiply column 8 by column 10)
+                                                                                                                                                                                                                       (see instructions)
+
+
+
+
+         12. Amount Disallowed under Section           13. Amount Disallowed under                 14. Section 901 Taxes Paid or Accrued            15. Amount Disallowed under Section 965(g) 16. Amount Disallowed under Section 960(d)
+         965(g) with respect to taxes deemed          Section 960(d)(4) with respect to                       (see instructions)                        with respect to taxes paid or accrued        (4) with respect to taxes paid or
+              paid under section 960(b)(1)                  taxes deemed paid                                                                                    under section 901                      accrued under section 901
+                                                          under section 960(b)(1)
+
+
+
+
+Totals
+
+Total (add amounts in each of columns 11 through 16) .                        .   .    .   .   .   .     .   .   .   .   .   .   .   .   .   .     .   .    .   .     .   .   .   .   .    .     .   .
+                                                                                                                                                                                                                         Form 1118 (Rev. 12-2025)
+Form 1118 (Rev. 12-2025)                                                                                                                                                                                        Page 6
+  Schedule E    Taxes Paid, Accrued, or Deemed Paid With Respect to Previously Taxed Earnings and Profits (PTEP) by Domestic Corporation Filing
+                the Return (Sections 901 and 960(b)) (continued)
+Part II—Tax Deemed Paid by First- and Lower-Tier Foreign Corporations
+Use this part to report the tax deemed paid by a foreign corporation with respect to distributions of PTEP from lower-tier foreign corporations under section 960(b) that relate to
+distributions reported in Part I (see instructions).
+                              1a. Name of Distributing Foreign Corporation                             1b. EIN or Reference ID Number of the Foreign Corporation               2. Tax Year End           3. Country of
+                                                                                                                            (see instructions)                                  (Year/Month)            Incorporation
+                                                                                                                                                                              (see instructions)        (enter country
+                                                                                                                                                                                                          code—see
+                                                                                                                                                                                                         instructions)
+
+
+
+
+                              4a. Name of Recipient Foreign Corporation                                4b. EIN or Reference ID Number of the Foreign Corporation               5. Tax Year End           6. Country of
+                                                                                                                            (see instructions)                                  (Year/Month)            Incorporation
+                                                                                                                                                                              (see instructions)        (enter country
+                                                                                                                                                                                                          code—see
+                                                                                                                                                                                                         instructions)
+
+
+
+
+     7. Functional Currency         8. PTEP Group          9. Annual PTEP      10. Total Amount of       11. Total Amount of        12. PTEP Distributed           13. Divide Column 12       14. Foreign Income Taxes
+        of the Distributing          (enter code)               Account      PTEP in the PTEP Group    the PTEP Group Taxes                                            by Column 10              Properly Attributable
+      Foreign Corporation                                     (enter year)      Within an Annual          With Respect to                                                                      to PTEP Under Section
+                                                                                 PTEP Account            PTEP Group Within                                                                        960(b)(2) and Not
+                                                                                                      an Annual PTEP Account                                                                   Previously Deemed Paid
+                                                                                                                                                                                                 (multiply column 11
+                                                                                                                                                                                                    by column 13)
+
+
+
+
+                                                                                                                                                                                             Form 1118 (Rev. 12-2025)
+Form 1118 (Rev. 12-2025)                                                                                                                                                                                                    Page 7
+  Schedule F               Reserved
+ Schedule G      Reductions of Taxes Paid, Accrued, or Deemed Paid
+Part I—Reduction Amounts
+  A    Reduction of taxes under section 901(e)—Attach separate schedule .                  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .       A
+
+  B    Reduction of foreign oil and gas taxes—Enter amount from Schedule I, Part II, line 4                    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .       B
+
+  C    Reduction of taxes due to international boycott provisions—Enter appropriate portion from Schedule C (Form 5713) (see instructions).
+       Important: Enter only “specifically attributable taxes” here . . . . . . . . . . . . . . . . . . . . . . . . . .                                                            .       C
+
+  D    Reduction of taxes for section 6038(c) penalty—Attach separate schedule                     .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .       D
+
+  E    Taxes suspended under section 909 .         .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .       E
+
+  F    Reduction for disallowed taxes under section 965(g) .           .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .       F
+
+  G    Reduction for disallowed taxes under section 245A           .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .       G
+
+  H    Reduction for disallowed taxes under section 960(d)(4) .            .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .       H
+
+  I    Other reductions in taxes (attach schedule—see instructions) .              .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .       I
+
+Total (add lines A through I). Enter here and on Schedule B, Part II, line 3 .             .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .
+Part II—Other Information
+  J    Check this box if, during the tax year, the corporation paid or accrued any foreign tax that was disqualified for credit under section 901(m)                                   .   .   .   .    .   .   .   .   .   .
+
+  K    Check this box if, during the tax year, the corporation paid or accrued any foreign tax that was disqualified for credit under section 901(j), (k), or (l) .                                .    .   .   .   .   .   .
+                                                                                                                                                                                                       Form 1118 (Rev. 12-2025)
+Form 1118 (Rev. 12-2025)                                                                                                                                                              Page 8
+ Schedule H     Apportionment of Certain Deductions (Complete only once for all categories of income.)
+Part I—Research and Experimental Deductions
+                                                                                                          (a) Gross Receipts Method                                             (b) Total
+                                                                                                                                                                           R&E Deductions
+                                                                                                                                                                         (enter the sum of all
+                                                                        Product Line #1 (SIC Code:              )            Product Line #2 (SIC Code:             )    amounts entered in
+                                                                                                                                                                          all applicable “R&E
+                                                                   (i) Gross Intangible    (ii) Gross    (iii) R&E     (iv) Gross Intangible    (v) Gross    (vi) R&E         Deductions”
+                                                                          Income           Receipts     Deductions            Income            Receipts    Deductions         columns).
+  1   Total (see instructions) . . . . . . . . . . .
+  2   Exclusive apportionment (50%) to either:
+    a U.S. source gross intangible income, or . . . . . .
+    b Foreign source gross intangible income . . . . . .
+  3   Remaining R&E deductions to be apportioned (line 1
+      minus line 2a or line 2b) . . . . . . . . . . .
+  4   U.S. source gross intangible income/related gross
+      receipts/allocated and apportioned R&E deductions
+    a Gross intangible income/Taxpayer’s gross receipts . .
+    b Gross intangible income/Controlled parties’ gross receipts
+    c Gross intangible income/Uncontrolled parties’ gross
+      receipts . . . . . . . . . . . . . . . .
+    d Total line 4   . . . . . . . . . . . . . . .
+  5   Total foreign source gross intangible income/related
+      gross receipts/allocated and apportioned R&E
+      deductions
+    a Gross intangible income/Taxpayer’s gross receipts . .
+    b Gross intangible income/Controlled parties’ gross receipts
+    c Gross intangible income/Uncontrolled parties’ gross
+      receipts . . . . . . . . . . . . . . . .
+    d Total line 5 . . . . . . . . . . . . . . .
+Important: See Computer-Generated Schedule H in the instructions.
+                                                                                                                                                                   Form 1118 (Rev. 12-2025)
+Form 1118 (Rev. 12-2025)                                                                                                                                                              Page 9
+ Schedule H     Apportionment of Certain Deductions (Complete only once for all categories of income.) (continued)
+Part I—Research and Experimental Deductions (continued)
+                                                                                                          (a) Gross Receipts Method                                             (b) Total
+                                                                                                                                                                           R&E Deductions
+                                                                                                                                                                         (enter the sum of all
+                                                                        Product Line #1 (SIC Code:              )            Product Line #2 (SIC Code:             )    amounts entered in
+                                                                                                                                                                          all applicable “R&E
+                                                                   (i) Gross Intangible    (ii) Gross    (iii) R&E     (iv) Gross Intangible    (v) Gross    (vi) R&E         Deductions”
+                                                                          Income           Receipts     Deductions            Income            Receipts    Deductions         columns).
+
+  6   Foreign source gross intangible income/related gross
+      receipts/allocated and apportioned R&E deductions
+    a Enter code
+      (1) Gross intangible income/Taxpayer’s gross receipts
+      (2) Gross intangible income/Controlled parties’ gross
+          receipts . . . . . . . . . . . . . . .
+      (3) Gross intangible income/Uncontrolled parties’ gross
+          receipts . . . . . . . . . . . . . . .
+      (4) Add lines 6a(1), 6a(2), and 6a(3) . . . . . . .
+      (5) Amount of line 3 R&E deductions apportioned to this
+          separate category . . . . . . . . . . . .
+      (6) Amount of line 2b R&E deductions apportioned to this
+          separate category . . . . . . . . . . . .
+      (7) Total R&E deductions for this separate category. Add
+          lines 6a(5) and 6a(6) . . . . . . . . . . .
+    b Enter code
+      (1) Gross intangible income/Taxpayer’s gross receipts .
+      (2) Gross intangible income/Controlled parties’ gross
+          receipts . . . . . . . . . . . . . . .
+      (3) Gross intangible income/Uncontrolled parties’ gross
+          receipts . . . . . . . . . . . . . . .
+      (4) Add lines 6b(1), 6b(2), and 6b(3) . . . . . . .
+      (5) Amount of line 3 R&E deductions apportioned to this
+          separate category . . . . . . . . . . . .
+      (6) Amount of line 2b R&E deductions apportioned to this
+          separate category . . . . . . . . . . . .
+      (7) Total R&E deductions for this separate category. Add
+          lines 6b(5) and 6b(6) . . . . . . . . . . .
+Note: Include the amount from column (b) of line 6a(7) in column 14 of the Schedule A that corresponds with the code entered on line 6a. If applicable, you should likewise include
+the amount from column (b) of line 6b(7) in column 14 of the Schedule A that corresponds with the code entered on line 6b. On page 10, you should likewise include the amount(s)
+from column (b) of lines 6c(7), 6d(7), and 6e(7) in column 14 of the Schedule A that corresponds with the code entered on lines 6c, 6d, and 6e, respectively.
+Important: See Computer-Generated Schedule H in the instructions.
+                                                                                                                                                                   Form 1118 (Rev. 12-2025)
+Form 1118 (Rev. 12-2025)                                                                                                                                                                  Page 10
+ Schedule H     Apportionment of Certain Deductions (Complete only once for all categories of income.) (continued)
+Part I—Research and Experimental Deductions (continued)
+                                                                                                                (a) Gross Receipts Method                                             (b) Total
+                                                                                                                                                                                 R&E Deductions
+                                                                                                                                                                               (enter the sum of all
+                                                                              Product Line #1 (SIC Code:              )            Product Line #2 (SIC Code:             )    amounts entered in
+                                                                                                                                                                                all applicable “R&E
+                                                                         (i) Gross Intangible    (ii) Gross    (iii) R&E     (iv) Gross Intangible    (v) Gross    (vi) R&E         Deductions”
+                                                                                Income           Receipts     Deductions            Income            Receipts    Deductions         columns).
+    c Enter code
+      (1) Gross intangible income/Taxpayer’s gross receipts .
+      (2) Gross intangible income/Controlled parties’ gross receipts
+      (3) Gross intangible income/Uncontrolled parties’ gross receipts
+      (4) Add lines 6c(1), 6c(2), and 6c(3) . . . . . . .
+      (5) Amount of line 3 R&E deductions apportioned to this
+          separate category . . . . . . . . . . . .
+      (6) Amount of line 2b R&E deductions apportioned to this
+          separate category . . . . . . . . . . . .
+      (7) Total R&E deductions for this separate category. Add
+          lines 6c(5) and 6c(6) . . . . . . . . . . .
+    d Enter code
+      (1) Gross intangible income/Taxpayer’s gross receipts .
+      (2) Gross intangible income/Controlled parties’ gross receipts
+      (3) Gross intangible income/Uncontrolled parties’ gross receipts
+      (4) Add lines 6d(1), 6d(2), and 6d(3) . . . . . . .
+      (5) Amount of line 3 R&E deductions apportioned to this
+          separate category . . . . . . . . . . . .
+      (6) Amount of line 2b R&E deductions apportioned to this
+          separate category . . . . . . . . . . . .
+      (7) Total R&E deductions for this separate category. Add
+          lines 6d(5) and 6d(6) . . . . . . . . . . .
+    e Enter code
+      (1) Gross intangible income/Taxpayer’s gross receipts .
+      (2) Gross intangible income/Controlled parties’ gross receipts
+      (3) Gross intangible income/Uncontrolled parties’ gross receipts
+      (4) Add lines 6e(1), 6e(2), and 6e(3) . . . . . . .
+      (5) Amount of line 3 R&E deductions apportioned to this
+          separate category . . . . . . . . . . . .
+      (6) Amount of line 2b R&E deductions apportioned to this
+          separate category . . . . . . . . . . . .
+      (7) Total R&E deductions for this separate category. Add
+          lines 6e(5) and 6e(6) . . . . . . . . . . .
+  7   Total foreign-source apportioned R&E deductions (add
+      lines 6a(7), 6b(7), 6c(7), 6d(7), and 6e(7)). This should
+      equal the amount entered on line 5d of this column . .
+Important: See Computer-Generated Schedule H in the instructions.
+                                                                                                                                                                         Form 1118 (Rev. 12-2025)
+Form 1118 (Rev. 12-2025)                                                                                                                                                                              Page 11
+ Schedule H      Apportionment of Certain Deductions (Complete only once for all categories of income.) (continued)
+Part II—Deductions Allocated and Apportioned Based on Assets
+                                         (a) Average Value of Assets—                        (b) Interest                (c) Stewardship       (d) Certain            (e) Other                (f) Totals
+                                              Check Method Used:                             Deductions                    Deductions      Industrial/Investor      Deductions           (add the amounts
+                                              Tax book value                                                                                    Damages          (attach schedule)     from columns (b)(iii),
+                                              Alternative tax book value                                                                    (see instructions)   (see instructions)   (b)(iv), (c), (d), and (e))
+                                     (i) Nonfinancial        (ii) Financial   (iii) Nonfinancial        (iv) Financial
+                                                                                                                                                                                         Additional note:
+                                      Corporations           Corporations       Corporations            Corporations
+                                                                                                                                                                                      With respect to each
+  1a Totals (see instructions) .                                                                                                                                                       applicable statutory
+    b Amounts specifically allocable                                                                                                                                                  grouping, include the
+      under Temporary Regulations                                                                                                                                                     amount in column (f)
+                                                                                                                                                                                        of line 3a(2), 3b(2),
+      section 1.861-10T(e) . . .                                                                                                                                                       3c(2), 3d(2), or 3e(2)
+    c Other specific allocations                                                                                                                                                       below in column 14
+      under Temporary Regulations                                                                                                                                                     of the corresponding
+      section 1.861-10T       . . .                                                                                                                                                         Schedule A.
+    d Assets excluded from
+      apportionment formula .
+  2   Total to be apportioned
+      (subtract the sum of lines
+      1b, 1c, and 1d from line 1a)
+  3   Apportionment among statutory
+      groupings and residual
+      grouping (see instructions):
+    a Enter code
+      (1) Section 245A dividend
+      (2) Other . . . . . .
+      (3) Total line a . . . .
+    b Enter code
+      (1) Section 245A dividend
+      (2) Other . . . . . .
+      (3) Total line b . . . .
+    c Enter code
+      (1) Section 245A dividend
+      (2) Other . . . . . .
+      (3) Total line c . . . .
+    d Enter code
+      (1) Section 245A dividend
+      (2) Other . . . . . .
+      (3) Total line d . . . .
+    e Enter code
+      (1) Section 245A dividend
+      (2) Other . . . . . .
+      (3) Total line e . . . .
+    f U.S. source
+      (1) Section 245A dividend
+      (2) Other . . . . . .
+      (3) Total line f . . . .
+  4   Expenses Allocated and Apportioned to Section 245A Dividends. Enter the sum of amounts in column (f) of lines 3a(1), 3b(1), 3c(1), 3d(1), 3e(1),
+      and 3f(1). Include this line 4 result as a negative amount on Schedule B, Part II, line 8b . . . . . . . . . . . . . . . . . . . .                                         4
+                                                                                                                                                                                Form 1118 (Rev. 12-2025)
+Form 1118 (Rev. 12-2025)                                                                                                                                                                  Page 12
+ Schedule H      Apportionment of Certain Deductions (Complete only once for all categories of income.) (continued)
+Part III—Other Deductions
+                                                          (a) Officers’   (b) Amortization   (c) Depletion   (d) Product Liability    (e) Other       (f) Total Deductions         (g) Totals
+                                                         Compensation       Deductions        Deductions          Damages            Deductions            Allocated and      (add the amounts
+                                                            Expense                                           (see instructions)                          Apportioned to       from columns (a)
+                                                                                                                                                           Section 245A           through (e)).
+                                                                                                                                                              Dividend
+                                                                                                                                                        (add the amounts        Additional note:
+                                                                                                                                                         from columns (a)    With respect to each
+                                                                                                                                                            through (e))      applicable statutory
+                                                                                                                                                                             grouping, include the
+                                                                                                                                                                             amount in column (g)
+                                                                                                                                                                               of line 2a(2), 2b(2),
+                                                                                                                                                                              2c(2), 2d(2), or 2e(2)
+                                                                                                                                                                              below in column 14
+                                                                                                                                                                             of the corresponding
+                                                                                                                                                                                   Schedule A.
+  1     Total to be apportioned (see instructions)   .
+  2   Apportionment among statutory groupings
+      and residual grouping (see instructions):
+    a Enter code
+      (1) Section 245A dividend . . . . . .
+      (2) Other . . . . . . . . . . . .
+      (3) Total line a . . . . . . . . . .
+    b Enter code
+      (1) Section 245A dividend . . . . . .
+      (2) Other . . . . . . . . . . . .
+      (3) Total line b . . . . . . . . . .
+    c Enter code
+      (1) Section 245A dividend . . . . . .
+      (2) Other . . . . . . . . . . . .
+      (3) Total line c . . . . . . . . . .
+    d Enter code
+      (1) Section 245A dividend . . . . . .
+      (2) Other . . . . . . . . . . . .
+      (3) Total line d . . . . . . . . . .
+    e Enter code
+      (1) Section 245A dividend . . . . . .
+      (2) Other . . . . . . . . . . . .
+      (3) Total line e . . . . . . . . . .
+    f U.S. source
+      (1) Section 245A dividend . . . . . .
+      (2) Other . . . . . . . . . . . .
+      (3) Total line f . . . . . . . . . .
+  3   Expenses Allocated and Apportioned to Section 245A Dividends. Add the amounts in column (f) and include this line 3 result as
+      a negative amount on Schedule B, Part II, line 8b . . . . . . . . . . . . . . . . . . . . . . . . . .                                       3
+Important: See Computer-Generated Schedule H in the instructions.
+                                                                                                                                                                      Form 1118 (Rev. 12-2025)
+

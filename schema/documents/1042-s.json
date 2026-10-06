@@ -1,0 +1,398 @@
+{
+  "document": {
+    "id": "1042-S",
+    "title": "Foreign Person's U.S. Source Income Subject to Withholding",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form 1042-S (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1042s--2025.pdf",
+    "issued_by": "withholding agent",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "7a",
+        "label": "Federal tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "7b",
+        "label": "Check if federal tax withheld was not deposited with the IRS because escrow procedures were applied",
+        "type": "checkbox"
+      },
+      {
+        "box": "8",
+        "label": "Tax withheld by other agents",
+        "type": "money"
+      },
+      {
+        "box": "9",
+        "label": "Overwithheld tax repaid to recipient pursuant to adjustment procedures (see instructions)",
+        "type": "money",
+        "note": "Printed in parentheses: a NEGATIVE component of box 10 (the instructions' example: 7a $600 + 8 $120 + 9 ($50) = 10 $670)."
+      },
+      {
+        "box": "10",
+        "label": "Total withholding credit (combine boxes 7a, 8, and 9)",
+        "type": "money"
+      },
+      {
+        "box": "amended",
+        "label": "AMENDED",
+        "type": "checkbox",
+        "note": "An amended 1042-S replaces the one it amends; the two are never both counted."
+      },
+      {
+        "box": "amendment-no",
+        "label": "AMENDMENT NO.",
+        "type": "identifier"
+      },
+      {
+        "box": "unique-form-identifier",
+        "label": "UNIQUE FORM IDENTIFIER",
+        "type": "identifier",
+        "note": "What tells one withholding agent's forms apart, and what an amendment points back at."
+      },
+      {
+        "box": "1",
+        "label": "Income code",
+        "type": "code"
+      },
+      {
+        "box": "2",
+        "label": "Gross income",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Chapter indicator. Enter \"3\" or \"4\"",
+        "type": "code"
+      },
+      {
+        "box": "3a",
+        "label": "Exemption code",
+        "type": "code"
+      },
+      {
+        "box": "3b",
+        "label": "Tax rate",
+        "type": "percent"
+      },
+      {
+        "box": "4a",
+        "label": "Exemption code",
+        "type": "code"
+      },
+      {
+        "box": "4b",
+        "label": "Tax rate",
+        "type": "percent"
+      },
+      {
+        "box": "5",
+        "label": "Withholding allowance",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "Net income",
+        "type": "money"
+      },
+      {
+        "box": "7c",
+        "label": "Check if withholding occurred in subsequent year with respect to a partnership interest",
+        "type": "checkbox"
+      },
+      {
+        "box": "7d",
+        "label": "Check if you are a qualified intermediary, withholding foreign partnership, or withholding foreign trust revising its reporting on Form 1042-S to report to a specific recipient",
+        "type": "checkbox"
+      },
+      {
+        "box": "11",
+        "label": "Tax paid by withholding agent (amounts not withheld) (see instructions)",
+        "type": "money"
+      },
+      {
+        "box": "12a",
+        "label": "Withholding agent's EIN",
+        "type": "tin"
+      },
+      {
+        "box": "12b",
+        "label": "Ch. 3 status code",
+        "type": "code"
+      },
+      {
+        "box": "12c",
+        "label": "Ch. 4 status code",
+        "type": "code"
+      },
+      {
+        "box": "12d",
+        "label": "Withholding agent's name",
+        "type": "text"
+      },
+      {
+        "box": "12e",
+        "label": "Withholding agent's global intermediary identification number (GIIN)",
+        "type": "identifier"
+      },
+      {
+        "box": "12f",
+        "label": "Country code",
+        "type": "text"
+      },
+      {
+        "box": "12g",
+        "label": "Foreign tax identification number, if any",
+        "type": "identifier"
+      },
+      {
+        "box": "12h",
+        "label": "Address (number and street)",
+        "type": "text"
+      },
+      {
+        "box": "12i",
+        "label": "City or town, state or province, country, ZIP or foreign postal code",
+        "type": "text"
+      },
+      {
+        "box": "13a",
+        "label": "Recipient's name",
+        "type": "text"
+      },
+      {
+        "box": "13b",
+        "label": "Recipient's country code",
+        "type": "text"
+      },
+      {
+        "box": "13c",
+        "label": "Address (number and street)",
+        "type": "text"
+      },
+      {
+        "box": "13d",
+        "label": "City or town, state or province, country, ZIP or foreign postal code",
+        "type": "text"
+      },
+      {
+        "box": "13e",
+        "label": "Recipient's U.S. TIN, if any",
+        "type": "tin"
+      },
+      {
+        "box": "13f",
+        "label": "Ch. 3 status code",
+        "type": "code"
+      },
+      {
+        "box": "13g",
+        "label": "Ch. 4 status code",
+        "type": "code"
+      },
+      {
+        "box": "13h",
+        "label": "Recipient's GIIN",
+        "type": "identifier"
+      },
+      {
+        "box": "13i",
+        "label": "Recipient's foreign tax identification number, if any",
+        "type": "identifier"
+      },
+      {
+        "box": "13j",
+        "label": "LOB code",
+        "type": "code"
+      },
+      {
+        "box": "13k-account-number",
+        "label": "Recipient's account number",
+        "type": "identifier"
+      },
+      {
+        "box": "13l",
+        "label": "Recipient's date of birth (YYYYMMDD)",
+        "type": "date"
+      },
+      {
+        "box": "14a",
+        "label": "Primary withholding agent's name (if applicable)",
+        "type": "text"
+      },
+      {
+        "box": "14b",
+        "label": "Primary withholding agent's EIN",
+        "type": "tin"
+      },
+      {
+        "box": "15",
+        "label": "Check if pro-rata basis reporting",
+        "type": "checkbox"
+      },
+      {
+        "box": "15a",
+        "label": "Intermediary or flow-through entity's EIN, if any",
+        "type": "tin"
+      },
+      {
+        "box": "15b",
+        "label": "Ch. 3 status code",
+        "type": "code"
+      },
+      {
+        "box": "15c",
+        "label": "Ch. 4 status code",
+        "type": "code"
+      },
+      {
+        "box": "15d",
+        "label": "Intermediary or flow-through entity's name",
+        "type": "text"
+      },
+      {
+        "box": "15e",
+        "label": "Intermediary or flow-through entity's GIIN",
+        "type": "identifier"
+      },
+      {
+        "box": "15f",
+        "label": "Country code",
+        "type": "text"
+      },
+      {
+        "box": "15g",
+        "label": "Foreign tax identification number, if any",
+        "type": "identifier"
+      },
+      {
+        "box": "15h",
+        "label": "Address (number and street)",
+        "type": "text"
+      },
+      {
+        "box": "15i",
+        "label": "City or town, state or province, country, ZIP or foreign postal code",
+        "type": "text"
+      },
+      {
+        "box": "16a",
+        "label": "Payer's name",
+        "type": "text"
+      },
+      {
+        "box": "16b",
+        "label": "Payer's TIN",
+        "type": "tin"
+      },
+      {
+        "box": "16c",
+        "label": "Payer's GIIN",
+        "type": "identifier"
+      },
+      {
+        "box": "16d",
+        "label": "Ch. 3 status code",
+        "type": "code"
+      },
+      {
+        "box": "16e",
+        "label": "Ch. 4 status code",
+        "type": "code"
+      },
+      {
+        "box": "17a",
+        "label": "State income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "17b",
+        "label": "Payer's state tax no.",
+        "type": "identifier"
+      },
+      {
+        "box": "17c",
+        "label": "Name of state",
+        "type": "text"
+      }
+    ],
+    "notes": "The routable figure is BOX 10, the total withholding credit -- not box 7a. Boxes 7a, 8 and 9 are components of box 10; routing them as well double-counts."
+  },
+  "extraction": {
+    "model": "custom.1042-S",
+    "note": "Azure ships no prebuilt-tax model for this form, so it reached the generic reader - which emits no field bearing these box names, so every cited route out of this document was dead while looking implemented (spec 075 US1/W42). Read by the declared custom model over every box the 2025 face prints (spec 080 T047).",
+    "custom": {
+      "reads": "a Form 1042-S, Foreign Person's U.S. Source Income Subject to Withholding.",
+      "sections": [
+        {
+          "document": "1042-S",
+          "boxes": [
+            "amended",
+            "amendment-no",
+            "unique-form-identifier",
+            "1",
+            "2",
+            "3",
+            "3a",
+            "3b",
+            "4a",
+            "4b",
+            "5",
+            "6",
+            "7a",
+            "7b",
+            "7c",
+            "7d",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12a",
+            "12b",
+            "12c",
+            "12d",
+            "12e",
+            "12f",
+            "12g",
+            "12h",
+            "12i",
+            "13a",
+            "13b",
+            "13c",
+            "13d",
+            "13e",
+            "13f",
+            "13g",
+            "13h",
+            "13i",
+            "13j",
+            "13k-account-number",
+            "13l",
+            "14a",
+            "14b",
+            "15",
+            "15a",
+            "15b",
+            "15c",
+            "15d",
+            "15e",
+            "15f",
+            "15g",
+            "15h",
+            "15i",
+            "16a",
+            "16b",
+            "16c",
+            "16d",
+            "16e",
+            "17a",
+            "17b",
+            "17c"
+          ]
+        }
+      ]
+    }
+  }
+}

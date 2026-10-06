@@ -1,0 +1,46 @@
+{
+  "rule": {
+    "class": "document",
+    "years": [
+      2025
+    ],
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "id": "v1-new-r9",
+    "title": "1099-Q code 3: the earnings were taxable in the prior year",
+    "acts_on": {
+      "boxes": [
+        "1099-Q.2"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "box",
+        "ref": "1099-Q.7-code"
+      }
+    ],
+    "operator": "exclude_when",
+    "params": {
+      "when": {
+        "box": "1099-Q.7-code",
+        "in": [
+          "3"
+        ],
+        "match": "code"
+      }
+    },
+    "citation": {
+      "form": "Form 1099-Q",
+      "line": "Distribution codes",
+      "revision": "2025",
+      "wording": "3—Excess contributions plus earnings taxable in the prior calendar year",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1099q--2025.pdf"
+    },
+    "open_point": "The other half of this finding — a CESA's year-end FMV in box 7 replacing the box 2/3 split — is the Pub. 970 worksheet, a computation; it is not applied."
+  }
+}

@@ -1,0 +1,107 @@
+Form   7213
+(Rev. December 2024)
+                                                      Nuclear Power Production Credit                                                                                    OMB No. 1545-0123
+
+                                                             Attach to your tax return.                                                                                  Attachment
+Department of the Treasury
+Internal Revenue Service                Go to www.irs.gov/Form7213 for instructions and the latest information.                                                          Sequence No. 213
+Name(s) shown on return                                                                                                                             Identifying number
+
+
+ Part I        Credit for Production From Advanced Nuclear Power Facilities, Section 45J
+ Section 1: Information on Advanced Nuclear Power Facility
+  1a     Name or description of nuclear facility:
+
+
+      b If different than filer, enter (i) owner’s name
+        and (ii) owner’s TIN                                               .
+
+  2a     Address of facility (if applicable):
+
+
+      b Coordinates.         (i) Latitude:                        .                                         (ii) Longitude:                              .
+                                             Enter a “+” (plus) or “-” (minus) sign in the first box.                         Enter a “+” (plus) or “-” (minus) sign in the first box.
+
+
+  3      Construction start date (MM/DD/YYYY):         /                               /
+  4      Date facility was placed in service (MM/DD/YYYY):                                  /           /
+  5      Facility nameplate capacity:
+  6      Facility nameplate capacity allocated to you:
+
+  7      Date of acceptance letter from the IRS under Notice 2023-24, section 6.05 (MM/DD/YYYY):                                                         /           /                   (attach
+         copy of letter)
+
+  8      Check one:            Owner of facility        Eligible project partner under section 45J(e)(2)(B) (eligible project partners attach
+                                                        section 45J(e) Election Statement)
+  9      Is the facility owned through an organization that has made a valid section 761(a) election?        Yes         No
+
+ Section 2: Production From Advanced Nuclear Power Facilities Credit Calculation
+  1   Portion of the National Megawatt Capacity Limitation (NMCL) allocated
+      to you . . . . . . . . . . . . . . . . . . . . . .                       1                  MW
+  2   Facility nameplate capacity . . . . . . . . . . . . . . .                2                  MW
+  3   Divide line 1 by line 2 . . . . . . . . . . . . . . . . .                3                    %
+  4   Kilowatt hours of electricity produced and sold to unrelated persons
+      during tax year . . . . . . . . . . . . . . . . . . .                    4                  kWh
+  5   Tentative credit:
+    a Qualifying electricity production. Multiply line 3 by line 4 . . . . .  5a                  kWh
+    b Multiply kWh on line 5a by $0.018 . . . . . . . . . . . . .             5b
+  6   Annual limitation for credit:
+    a Divide line 1 by 1,000 . . . . . . . . . . . . . . . . .                6a                  MW
+    b Multiply line 6a by $125,000,000 . . . . . . . . . . . . .              6b
+  7   Smaller of line 5b or 6b . . . . . . . . . . . . . . . . . . . . . . . . .                                                                              7
+  8   Credit for production from advanced nuclear power facilities from partnerships, S corporations,
+      estates, and trusts . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                               8
+  9      Total of lines 7 and 8. Estates and trusts, go to line 10. Partnerships and S corporations, stop here
+         and report this amount on Schedule K. All others, stop here and enter this amount on Form 3800,
+         Part III, line 1cc . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                           9
+ 10      Amount allocated to beneficiaries of the estate or trust . . . . . . . . . . . . . . .                                                              10
+ 11      Estates and trusts, subtract line 10 from line 9. Report this amount on Form 3800, Part III, line 1cc                                               11
+For Paperwork Reduction Act Notice, see the separate instructions.                                                 Cat. No. 56407R                                 Form 7213 (Rev. 12-2024)
+Form 7213 (Rev. 12-2024)                                                                                                                                                           Page 2
+ Part II      Zero-Emission Nuclear Power Production Credit, Section 45U
+              Complete Part II only if the facility was placed in service prior to August 16, 2022.
+ Section 1: Information on Qualified Nuclear Power Facility
+  1      If making an elective payment election or transfer election, enter the IRS-issued registration number
+         of the facility:
+  2a     Name or description of qualified nuclear power facility:
+
+
+    b If different than filer, enter (i) owner’s name
+      and (ii) owner’s TIN                                               .
+
+  3a     Address of facility (if applicable):
+
+
+      b Coordinates.       (i) Latitude:                        .                                     (ii) Longitude:                               .
+                                           Enter a “+” (plus) or “-” (minus) sign in the first box.                     Enter a “+” (plus) or “-” (minus) sign in the first box.
+
+
+  4      Active construction permit or license number from the Nuclear Regulatory Commission
+
+ Section 2: Zero-Emission Nuclear Power Production Credit Calculation
+  1      Kilowatt hours of electricity produced and sold at facility during tax year 1                                                         kWh
+  2      Rate . . . . . . . . . . . . . . . . . . . . . .                            2                                                 $0.003
+  3      Multiply line 1 by line 2 . . . . . . . . . . . . . . . . . .                                            .     .   .    .    . . .             3
+  4      Gross receipts from electricity produced and sold by the facility to
+         unrelated persons during the tax year, including amounts received with
+         respect to the facility from a zero-emission credit (ZEC) program . .       4
+  5      Amount of payments from ZEC program (if any) included on line 4 . .         5
+  6      If the full amount of the zero-emission nuclear power production credit
+         is used to reduce the ZEC program payments reported on line 5,
+         subtract line 5 from line 4. Otherwise, enter the amount from line 4 . .    6
+  7      Multiply line 1 by $0.025 . . . . . . . . . . . . . . . .                   7
+  8      Subtract line 7 from line 6. If zero or less, enter -0- . . . . . . .       8
+  9      Enter the smaller of line 3 or 16% (0.16) of line 8 . . . . . . . . . .                                  .     .   .    .    .    .    .        9
+ 10      Subtract line 9 from line 3 . . . . . . . . . . . . . . . . .                                            .     .   .    .    .    .    .       10
+ 11      Increased credit amount for qualified nuclear power facilities. If you meet the prevailing wage
+         requirements, multiply the amount on line 10 by 5.0. Otherwise, enter the amount from
+         line 10. See instructions . . . . . . . . . . . . . . . . . . . . . . . . .                                                                    11
+ 12      Credit for production from zero-emission nuclear power facilities from partnerships, S corporations,
+         estates, and trusts . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                      12
+ 13      Total of lines 11 and 12. Estates and trusts, go to line 14. Partnerships and S corporations, stop
+         here and report this amount on Schedule K. All others, stop here and report this amount on Form
+         3800, Part III, line 1u . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                    13
+ 14      Amount allocated to beneficiaries of the estate or trust . . . . . . . . . . . . . . .                                                         14
+ 15      Estates and trusts, subtract line 14 from line 13. Report this amount on Form 3800, Part III, line 1u                                          15
+                                                                                                                                                             Form 7213 (Rev. 12-2024)
+

@@ -1,0 +1,45 @@
+{
+  "rule": {
+    "id": "v4-r-doc-final",
+    "title": "Box 11 code A counts only in the final year of the estate or trust (item E)",
+    "class": "document",
+    "years": [
+      2025
+    ],
+    "acts_on": {
+      "boxes": [
+        "k-1-1041.11.A"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "box",
+        "ref": "k-1-1041.E"
+      }
+    ],
+    "operator": "include_when",
+    "params": {
+      "when": {
+        "box": "k-1-1041.E",
+        "is": true
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule K-1 (Form 1041)",
+      "line": "Box 11, Code A",
+      "revision": "2025",
+      "wording": "If this is the final return of the estate or trust, and there are excess deductions on termination that are section 67(e) expenses reported to you as a beneficiary, you may deduct the excess deductions shown in box 11, code A, as an adjustment to income.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1041sk1--2025.pdf"
+    },
+    "research_ids": [
+      "V4:R-DOC-FINAL"
+    ]
+  }
+}

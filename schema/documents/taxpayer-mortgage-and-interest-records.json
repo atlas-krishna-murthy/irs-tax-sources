@@ -1,0 +1,78 @@
+{
+  "document": {
+    "id": "taxpayer-mortgage-and-interest-records",
+    "kind": "taxpayer_record",
+    "title": "The taxpayer's own record of deductible interest not reported on a Form 1098",
+    "revision": "n/a",
+    "revision_printed_as": null,
+    "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf",
+    "issued_by": "nobody - the taxpayer's own records and settlement statement",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "home_mortgage_interest_not_reported_on_1098",
+        "label": "Home mortgage interest paid that no Form 1098 reports, including a seller-financed mortgage",
+        "type": "money"
+      },
+      {
+        "box": "points_not_reported_on_1098",
+        "label": "Points paid that no Form 1098 reports",
+        "type": "money"
+      },
+      {
+        "box": "investment_interest_paid",
+        "label": "Interest paid on money borrowed to buy property held for investment",
+        "type": "money"
+      },
+      {
+        "box": "seller_financed_recipient_name",
+        "label": "Seller-financed mortgage: name of the person the home was bought from and the interest paid to",
+        "type": "text",
+        "notes": "Schedule A line 8b, seller financed mortgage. The i1040sca text reads: 'write that person's name, identifying number, and address on the dotted lines next to line 8b.' (https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf)."
+      },
+      {
+        "box": "seller_financed_recipient_identifying_number",
+        "label": "Seller-financed mortgage: that person's identifying number (SSN if an individual, otherwise EIN)",
+        "type": "tin",
+        "notes": "Schedule A line 8b. The i1040sca text reads: 'write that person's name, identifying number, and address on the dotted lines next to line 8b.' (https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf)."
+      },
+      {
+        "box": "seller_financed_recipient_address",
+        "label": "Seller-financed mortgage: that person's address",
+        "type": "text",
+        "notes": "Schedule A line 8b. The i1040sca text reads: 'write that person's name, identifying number, and address on the dotted lines next to line 8b.' (https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf)."
+      },
+      {
+        "box": "points_loan_used_to_buy_or_build_main_home",
+        "label": "The points were paid on a loan used to buy or build the main home",
+        "type": "checkbox",
+        "notes": "Pub. 936's test for deducting points in the year paid. The p936 text reads: 'You use your loan to buy or build your main home.' (https://www.irs.gov/pub/irs-prior/p936--2025.pdf)."
+      }
+    ],
+    "notes": "Interest paid to the person the taxpayer bought the home from is reported here, and Schedule A line 8b requires that person's name, identifying number and address alongside it. Investment interest needs Form 4952 and is limited to net investment income."
+  },
+  "extraction": {
+    "model": "custom.taxpayer-mortgage-and-interest-records",
+    "note": "A taxpayer's own record. No prescribed layout, so no structured model and no boxes to read: it prints ITEMS in the client's own words, and which declared box each belongs in is a JUDGEMENT a person confirms (spec 075 group D, clarification Q1). Read by the declared custom model in TRANSCRIBE mode - the same reader, a second template - which copies every line verbatim and names no destination. A separate, cheap proposal call then suggests a box per item; **only a box a person confirms places anything**, so an engagement with nineteen rental sheets shows an empty Schedule E until somebody has looked. That is the decision, not a defect.",
+    "custom": {
+      "reads": "a client's own record of mortgage and other interest paid",
+      "sections": [
+        {
+          "document": "taxpayer-mortgage-and-interest-records",
+          "boxes": [
+            "home_mortgage_interest_not_reported_on_1098",
+            "points_not_reported_on_1098",
+            "investment_interest_paid",
+            "seller_financed_recipient_identifying_number"
+          ]
+        }
+      ],
+      "transcribe": true,
+      "identity": [
+        "seller_financed_recipient_name",
+        "seller_financed_recipient_address",
+        "points_loan_used_to_buy_or_build_main_home"
+      ]
+    }
+  }
+}

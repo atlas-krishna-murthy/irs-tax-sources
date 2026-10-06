@@ -1,0 +1,49 @@
+{
+  "rule": {
+    "id": "a-med-reimbursed",
+    "title": "Expenses reimbursed or paid by others are not medical expenses",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-medical-expense-records.medical_and_dental_expenses_paid",
+        "taxpayer-medical-expense-records.qualified_long_term_care_insurance_premiums"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-was-reimbursed-or-paid-by-others"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-was-reimbursed-or-paid-by-others",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Was this expense reimbursed, or paid by insurance, an HSA or MSA distribution, or anyone else?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Schedule A (Form 1040)",
+      "line": "Line 1",
+      "revision": "2025",
+      "wording": "Caution: Do not include expenses reimbursed or paid by others.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1040sa--2025.pdf"
+    },
+    "research_ids": [
+      "a-med-reimbursed"
+    ],
+    "open_point": "A PARTIAL reimbursement reduces the item by the amount reimbursed; no operator reduces a figure by an answered amount, so the record should carry the unreimbursed part as the item and this rule answers only the wholly reimbursed case."
+  }
+}

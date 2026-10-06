@@ -1,0 +1,35 @@
+{
+  "question": {
+    "id": "loan-proceeds-used-to-buy-build-or-improve-the-home",
+    "wording": "How much of this loan's proceeds was used to buy, build, or substantially improve the home securing it?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "all",
+        "label": "All of it"
+      },
+      {
+        "value": "part",
+        "label": "Part of it"
+      },
+      {
+        "value": "none",
+        "label": "None of it"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "all",
+      "because": "A mortgage on a home bought, built or improved it unless a preparer says the proceeds went elsewhere"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Line 8",
+        "revision": "2025",
+        "wording": "Interest paid on home mortgage proceeds used for other purposes isn\u2019t deductible on lines 8a or 8b.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

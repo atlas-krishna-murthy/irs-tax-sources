@@ -1,0 +1,562 @@
+2025
+Instructions for Form 2106
+Employee Business Expenses
+Section references are to the Internal Revenue Code                                                                                                 section 168(k) additional first-year depreciation deduction
+unless otherwise noted.                                                                                                                             applies is $12,200 for the 1st tax year, $19,600 for the 2nd
+                                                                                                                                                    tax year, $11,800 for the 3rd tax year, and $7,060 for each
+Future Developments                                                                                                                                 succeeding year. (See Rev. Proc. 2025-16.)
+See https://www.irs.gov/form2106 for the latest
+developments related to Form 2106 and its instructions.                                                                                             Note: The section 168(k) additional first-year
+                                                                                                                                                    depreciation deduction is sometimes called special
+What’s New                                                                                                                                          depreciation allowance.
+Standard mileage rate. The 2025 per mile rate for
+business use of your vehicle is 70 cents (0.70). (See                                                                                               General Instructions
+Notice 2025-05.)
+                                                                                                                                                    Purpose of Form
+Depreciation limits on vehicles. The depreciation limits
+apply under section 179 and section 280F.                                                                                                           Use Form 2106 if you were an Armed Forces reservist, a
+                                                                                                                                                    qualified performing artist, a fee-basis state or local
+  Under section 179. For tax years beginning in 2025,
+                                                                                                                                                    government official, or an employee with
+the aggregate cost of any section 179 property that a
+                                                                                                                                                    impairment-related work expenses. Employees who do
+taxpayer elects to treat as an expense cannot exceed
+                                                                                                                                                    not fit into one of the listed categories may not use the
+$2,500,000. The $2,500,000 limitation is reduced (but not
+                                                                                                                                                    Form 2106 due to the termination of miscellaneous
+below zero) by the amount by which the cost of section
+                                                                                                                                                    itemized deductions subject to the 2% floor under section
+179 property placed in service during the 2025 tax year
+                                                                                                                                                    67(a). Section 67(h) eliminated miscellaneous itemized
+exceeds $4,000,000. The cost of any sport utility vehicle
+                                                                                                                                                    deductions for tax years beginning after 2017. See the
+(SUV) that may be taken into account under section 179
+                                                                                                                                                    flowchart in these instructions to find out if you must file
+cannot exceed $31,300. (See Rev. Proc. 2024-40.)
+                                                                                                                                                    this form.
+  Under section 280F. The depreciation limitations for
+passenger automobiles acquired after September 27,                                                                                                  Excess reimbursements. If you are not a member of
+2017, and placed in service during calendar year 2025, for                                                                                          the Armed Forces reserves, a qualified performing artist, a
+which the section 168(k) additional first-year depreciation                                                                                         fee-basis state or local government official, or an
+deduction applies, is $20,200 for the 1st tax year, $19,600                                                                                         employee with impairment-related work expenses, and
+for the 2nd tax year, $11,800 for the 3rd tax year, and                                                                                             receive reimbursements in excess of your expenses from
+$7,060 for each succeeding year.                                                                                                                    your employer’s nonaccountable plan, the excess
+   The depreciation limitations for passenger automobiles                                                                                           reimbursements should be included as wages on your
+placed in service during calendar year 2025 for which no                                                                                            Form W-2 and your income tax return.
+
+
+
+Who Must File Form 2106
+ A Were you employed during the tax year as an Armed
+   Forces reservist, a qualified performing artist, a fee-basis
+   state or local government official, or an individual with a     No
+                                                                             Don’t file Form 2106 (see Notes below).
+   disability claiming impairment-related work expenses?
+   See the line 10 instructions for definitions.
+
+            Yes
+                                                            No
+ B Did you have job-related business expenses?                          Don’t file Form 2106.
+
+            Yes
+
+ C Were you reimbursed for any of your business                   No      D Are you claiming job-related vehicle,                 Yes
+   expenses (count only reimbursements your employer                        travel, transportation, meals, or
+   didn’t include in box 1 of your Form W-2)?                               entertainment expenses?
+                                                                                                                             File Form 2106 (see
+                                                                                                  No                         Notes below).
+            Yes
+
+ E Did you use a vehicle in your job during the        No                            Don’t file Form 2106.
+   tax year that you also used for business in a
+   prior year?
+
+
+                                       F Are your deductible expenses more than your
+                                         reimbursements (count only reimbursements your                  No
+                                         employer didn’t include in box 1 of your Form W-2)?
+                                         For rules covering employer reporting of reimbursed
+                                         expenses, see the instructions for line 7.                           Don’t file Form 2106.
+            Yes
+
+
+ G Is either (1) or (2) true?                               No                          Notes
+                                                                         Yes
+      1. You owned this vehicle and used the actual                                     • Armed Forces reservists, qualified performing artists,
+   expense method in the first year you used the                                        fee-basis state or local government officials, and
+   vehicle for business.                                          File Form 2106.       individuals with disabilities should see the instructions
+      2. You used a depreciation method other than                                      for line 10 to find out where to deduct employee
+   straight line for this vehicle in a prior year.                                      expenses.
+                                                                                        • Form 2106 may be used only by Armed Forces
+            Yes
+                                                                                        reservists, qualified performing artists, fee-basis
+          File Form 2106.                                                               state or local government officials, and employees
+                                                                                        with impairment-related work expenses because of
+                                                                                        the elimination of miscellaneous itemized deductions
+                                                                                        subject to the 2% floor under section 67(a) by
+                                                                                        section 67(h).
+
+
+
+
+                                                                            Instructions for Form 2106 (2025) Catalog Number 64188V
+Nov 20, 2025                                                             Department of the Treasury Internal Revenue Service www.irs.gov
+Recordkeeping                                                 you maintain your family home. If you don’t have a regular
+                                                              or main place of business because of the nature of your
+You can’t deduct expenses for travel (including meals         work, then your tax home may be the place where you
+unless you used the standard meal allowance), gifts, or       regularly live. If you don’t have a regular or a main place of
+use of a car or other listed property unless you keep         business or post of duty and there is no place where you
+records to prove the time, place, business purpose,           regularly live, you are considered an itinerant (a transient)
+business relationship (for gifts), and amounts of these       and your tax home is wherever you work. As an itinerant,
+expenses. Generally, you must also have receipts for all      you are never away from home and can’t claim a travel
+lodging expenses (regardless of the amount) and any           expense deduction. For more details on the definition of a
+other expense of $75 or more. See section 274(d) and          tax home, see Pub. 463.
+Regulations sections 1.274-5 and 1.274-5T.
+                                                                 Generally, you can’t deduct any expenses for travel
+Additional Information                                        away from your tax home for any period of temporary
+For more details about employee business expenses, see        employment of more than 1 year. However, this 1-year rule
+the following.                                                doesn’t apply for a temporary period in which you were a
+• Pub. 463, Travel, Gift, and Car Expenses.                   federal employee certified by the Attorney General (or
+• Pub. 529, Miscellaneous Deductions.                         designee) as traveling in temporary duty status for the
+• Pub. 587, Business Use of Your Home.                        U.S. Government to investigate or prosecute a federal
+• Pub. 946, How To Depreciate Property.                       crime (or to provide support services for the investigation
+                                                              or prosecution of a federal crime).
+                                                                Incidental expenses. The term “incidental expenses”
+Specific Instructions                                         means fees and tips given to porters, baggage carriers,
+                                                              hotel staff, and staff on ships.
+Part I—Employee Business Expenses                                You can use an optional method (instead of actual cost)
+and Reimbursements                                            for deducting incidental expenses only. The amount of the
+Fill in all of Part I if you were reimbursed for employee     deduction is $5 a day. You can use this method only if you
+business expenses. If you weren’t reimbursed for your         didn’t pay or incur any meal expenses. You can’t use this
+expenses, complete steps 1 and 3 only.                        method on any day you use the standard meal allowance
+                                                              (defined later in the instructions for line 5).
+Step 1—Enter Your Expenses                                    Line 4. Enter other job-related expenses not listed on any
+Line 1. If you were a rural mail carrier, you can treat the   other line of this form. Include expenses for business gifts,
+amount of qualified reimbursement you received as the         education (tuition, fees, and books), trade publications,
+amount of your allowable expense. Because the qualified       etc. For details, including limits, see Pub. 463 and Pub.
+reimbursement is treated as paid under an accountable         529.
+plan, your employer shouldn’t include the amount of              See Form 4562, Depreciation and Amortization, to
+reimbursement in your income.                                 figure any depreciation and section 179 deduction to
+   You were a rural mail carrier if you were an employee of   include here.
+the United States Postal Service (USPS) who performed            Don’t include on line 4 any educator expenses you
+services involving the collection and delivery of mail on a   deducted on Schedule 1 (Form 1040), line 11.
+rural route.
+   Qualified reimbursements. These are the amounts                    You may be able to take a credit for your
+paid by the USPS as an equipment maintenance                   TIP educational expenses instead of a deduction. See
+allowance under a collective bargaining agreement                     Form 8863, Education Credits, for details.
+between the USPS and the National Rural Letter Carriers’         Don’t include expenses for meals, taxes, or interest on
+Association, but only if such amounts don’t exceed the        line 4. See Schedule A (Form 1040), Itemized Deductions,
+amount that would have been paid under the 1991               and Schedule 1-A (Form 1040), Additional Deductions, to
+collective bargaining agreement (adjusted for changes in      see whether you can deduct taxes or interest paid or
+the Consumer Price Index since 1991 as detailed in            accrued during the year.
+section 162(o)(3)).
+        If you were a rural mail carrier, do not use Form     Note: If line 4 is your only entry, don’t complete Form
+        2106. Your employer should not include the            2106 unless you are claiming:
+    !
+CAUTION amount of reimbursement in your income.
+                                                              • Performing-arts-related business expenses as a
+                                                              qualified performing artist,
+Line 2. The expenses of commuting to and from work            • Expenses for performing your job as a fee-basis state or
+aren’t deductible. See the line 15 instructions for the       local government official, or
+definition of commuting.                                      • Impairment-related work expenses as an individual with
+                                                              a disability.
+Line 3. Enter lodging and transportation expenses
+connected with overnight travel away from your tax home       Note: No deduction is allowed for certain entertainment
+(defined next). Don’t include expenses for meals. For         expenses, membership dues, and facilities used in
+more details, including limits, see Pub. 463.                 connection with these activities for amounts paid or
+  Tax home. Generally, your tax home is your regular or       incurred after 2017. (See section 274.)
+main place of business or post of duty regardless of where
+
+2                                                                                        Instructions for Form 2106 (2025)
+Line 5. Enter your allowable meals expense. Include            • Your employer reimbursed you for vehicle expenses at
+meals while away from your tax home overnight and other        the standard mileage rate or according to a flat rate or
+business meals.                                                stated schedule, and you verified the date of each trip,
+   Standard meal allowance. Instead of actual cost, you        mileage, and business purpose of the vehicle use.
+may be able to claim the standard meal allowance for your         See Pub. 463 for more details.
+daily meals and incidental expenses (M&IE) while away            Allocating your reimbursement. If your employer
+from your tax home overnight. Under this method, instead       paid you a single amount that covers meals as well as
+of keeping records of your actual meal expenses, you           other business expenses, you must allocate the
+deduct a specified amount, depending on where you              reimbursement so that you know how much to enter in
+travel. However, you must still keep records to prove the      column A and column B of line 7. Use the following
+time, place, and business purpose of your travel.              worksheet to figure this allocation.
+   The standard meal allowance is the federal M&IE rate.
+You can find the rates that applied during 2025 on the                   Reimbursement Allocation Worksheet
+Internet at GSA.gov/perdiem. At the Per Diem Overview                           (keep for your records)
+page, select “2025” for the rates in effect for the period
+                                                                 1. Enter the total amount of reimbursements
+January 1, 2025–September 30, 2025, select “Fiscal Year
+                                                                    your employer gave you that weren’t
+2026” for the period October 1, 2025–December 31, 2025.             reported to you
+However, you can apply the rates in effect before October           in Form W-2, box 1 . . . . . . . . . . . . . . .
+1, 2025, for expenses of all travel within the United States
+for 2025 instead of the updated rates. For the period            2. Enter the total amount of your expenses for
+October 1, 2025–December 31, 2025, you must                         the periods covered by this
+                                                                    reimbursement . . . . . . . . . . . . . . . . . .
+consistently use either the rates for the first 9 months of
+2025 or the updated rates.                                       3. Enter the part of the amount on line 2 that
+   The Department of Defense sets rates for Alaska,                 was your total expense for meals . . . . . .
+Hawaii, and U.S. associated territories. See travel.dod.mil/     4. Divide line 3 by line 2.
+Travel-Transportation-Rates/Per-Diem/Per-Diem-Rate-                 Enter the result as a decimal (rounded to
+Lookup/.                                                            three places) . . . . . . . . . . . . . . . . . . .   .
+
+   The State Department sets foreign rates. See                  5. Multiply line 1 by line 4. Enter the result here
+aoprals.state.gov/web920/per_diem.asp.                              and
+   See Pub. 463 for details on how to figure your                   in column B, line 7 . . . . . . . . . . . . . . .
+deduction using the standard meal allowance, including           6. Subtract line 5 from line 1. Enter the result
+special rules for partial days of travel and transportation         here and
+workers.                                                            in column A, line 7 . . . . . . . . . . . . . . .
+
+Step 2—Enter Reimbursements Received From                      Step 3—Figure Expenses To Deduct
+Your Employer for Expenses Listed in Step 1
+                                                               Line 9. Generally, you can deduct only 50% of your
+Line 7. Enter reimbursements received from your                business meal expenses, including meals incurred while
+employer (or third party) for expenses shown in Step 1;        away from home on business. Meals that are not
+include reimbursements reported in Form W-2, Box 12,           separately stated from entertainment are generally
+code L. Do not include amounts reported in Form W-2,           nondeductible.
+Box 1.
+                                                               Line 10. If you are one of the individuals discussed
+   Generally, when your employer pays for your expenses,       below, special rules apply to deducting your employee
+the payments shouldn’t be included in box 1 of your Form       business expenses.
+W-2 if, within a reasonable period of time, you:                  Armed Forces reservist (member of a reserve
+• Accounted to your employer for the expenses; and             component). You are a member of a reserve component
+• Were required to return, and did return, any payment         of the Armed Forces of the United States if you are in the
+not spent (or considered not spent) for business               Army, Navy, Marine Corps, Air Force, or Coast Guard
+expenses.                                                      Reserve; the Army National Guard of the United States;
+   If these payments were incorrectly included in box 1,       the Air National Guard of the United States; or the
+ask your employer for a corrected Form W-2.                    Reserve Corps of the Public Health Service.
+  Accounting to your employer. This means that you                If you qualify, complete Form 2106 and include the part
+gave your employer documentary evidence in the form of         of the line 10 amount attributable to the expenses for
+a statement of expense, account book, diary, log,              travel more than 100 miles away from home in connection
+statement of expenses, trip sheets, or similar statement to    with your performance of services as a member of the
+verify the amount, time, place, and business purpose of        reserves on Schedule 1 (Form 1040), line 12, and attach
+each expense. You are also treated as having accounted         Form 2106 to your return. The amount of expenses you
+for your expenses if either of the following applies.          can deduct on Schedule 1 (Form 1040), line 12, is limited
+• Your employer gave you a fixed travel allowance that is      to the regular federal per diem rate (for lodging, meals,
+similar in form to the per diem allowance specified by the     and incidental expenses) and the standard mileage rate
+federal government and you verified the time, place, and       (for car expenses), plus any parking fees, ferry fees, and
+business purpose of the travel for that day.
+
+Instructions for Form 2106 (2025)                                                                                             3
+tolls. These reserve-related travel expenses are                  You can’t use actual expenses for a leased vehicle if
+deductible whether or not you itemize deductions. See           you previously used the standard mileage rate for that
+Pub. 463 for additional details on how to report these          vehicle.
+expenses.
+  Fee-basis state or local government official. You                If you have the option of using either the standard
+are a qualifying fee-basis official if you are employed by a    mileage rate or actual expense method, you should figure
+state or political subdivision of a state and are               your expenses both ways to find the method most
+compensated, in whole or in part, on a fee basis.               beneficial to you. But, when completing Form 2106, fill in
+                                                                only the sections that apply to the method you choose.
+    If you qualify, include the part of the line 10 amount
+attributable to the expenses you paid or incurred for              If you were a rural mail carrier and received an
+services performed in that job in the total on Schedule 1       equipment maintenance allowance, see the line 1
+(Form 1040), line 12, and attach Form 2106 to your return.      instructions.
+These employee business expenses are deductible
+whether or not you itemize deductions.                            For more information on the standard mileage rate and
+  Qualified performing artist. You are a qualified              actual expenses, see Pub. 463.
+performing artist if you:                                       Section A—General Information
+    1. Performed services in the performing arts as an          If you used two vehicles for business during the year, use
+employee for at least two employers during the tax year,        a separate column in Sections A, C, and D for each
+    2. Received from at least two of those employers            vehicle. If you used more than two vehicles, complete and
+wages of $200 or more per employer,                             attach a second Form 2106, page 2.
+    3. Had allowable business expenses attributable to the      Line 11. Date placed in service is generally the date you
+performing arts of more than 10% of gross income from           first start using your vehicle. However, if you first start
+the performing arts, and                                        using your vehicle for personal use and later convert it to
+    4. Had adjusted gross income of $16,000 or less             business use, the vehicle is treated as placed in service
+before deducting expenses as a performing artist.               on the date you start using it for business.
+In addition, if you are married, you must file a joint return   Line 12. Enter the total number of miles you drove each
+unless you lived apart from your spouse for all of 2025. If     vehicle during 2025.
+you file a joint return, you must figure requirements (1),        Change from personal to business use. If you
+(2), and (3) separately for both you and your spouse.           converted your vehicle during the year from personal to
+However, requirement (4) applies to the combined                business use (or vice versa) and you don’t have mileage
+adjusted gross income of both you and your spouse.              records for the time before the change to business use,
+   If you meet all the requirements for a qualified             enter the total number of miles driven after the change to
+performing artist, include the part of the line 10 amount       business use.
+attributable to performing-arts-related expenses in the         Line 13. Don’t include commuting miles on this line;
+total on Schedule 1 (Form 1040), line 12, and attach Form       commuting miles aren’t considered business miles. See
+2106 to your return. Your performing-arts-related business      the line 15 instructions for the definition of commuting.
+expenses are deductible whether or not you itemize
+deductions.                                                     Line 14. Divide line 13 by line 12 to figure your business
+                                                                use percentage.
+   Disabled employee with impairment-related work
+expenses. Impairment-related work expenses are the                 Change from personal to business use. If you
+allowable expenses of an individual with physical or            entered on line 12 the total number of miles driven after
+mental disabilities for attendant care at their place of        the change to business use, multiply the percentage you
+employment. They also include other expenses in                 figured by the number of months you drove the vehicle for
+connection with the place of employment that enable the         business and divide the result by 12.
+employee to work. See Pub. 463 for more details.                Line 15. Enter your average daily round-trip commuting
+   If you qualify, enter the part of the line 10 amount         distance. If you went to more than one work location,
+attributable to impairment-related work expenses on             figure the average.
+Schedule A (Form 1040), line 16 (or Schedule A (Form               Commuting. Generally, commuting is travel between
+1040-NR), line 7).                                              your home and a work location. However, travel that meets
+                                                                any of the following conditions isn’t commuting.
+Part II—Vehicle Expenses                                        • You have at least one regular work location away from
+There are two methods for figuring vehicle expenses—the         your home and the travel is to a temporary work location in
+standard mileage rate and the actual expense method.            the same trade or business, regardless of the distance.
+You can use the standard mileage rate for 2025 only if:         Generally, a temporary work location is one where your
+• You owned the vehicle and used the standard mileage           employment is expected to last 1 year or less. See Pub.
+rate for the first year you placed the vehicle in service, or   463 for more details.
+• You leased the vehicle and are using the standard             • The travel is to a temporary work location outside the
+mileage rate for the entire lease period (except the period,    metropolitan area where you live and normally work.
+if any, before 1998).                                           • Your home is your principal place of business under
+                                                                section 280A(c)(1)(A) (for purposes of deducting
+                                                                expenses for business use of your home) and the travel is
+
+4                                                                                         Instructions for Form 2106 (2025)
+to another work location in the same trade or business,       renting. Also, include on this line any temporary rentals,
+regardless of whether that location is regular or temporary   such as when your car was being repaired, except for
+and regardless of distance.                                   amounts included on line 3.
+Line 16. If you don’t know the total actual miles you used    Line 24b. If you leased a vehicle for a term of 30 days or
+your vehicle for commuting during the year, figure the        more, you may have to reduce your deduction for vehicle
+amount to enter on line 16 by multiplying the number of       lease payments by an amount called the inclusion
+days during the year that you used each vehicle for           amount. You may have an inclusion amount for a
+commuting by the average daily round-trip commuting           passenger automobile if:
+distance in miles. However, if you converted your vehicle     Passenger Automobiles (Including Trucks and Vans)
+during the year from personal to business use (or vice
+versa), enter your commuting miles only for the period you                                          And the vehicle’s fair market
+drove your vehicle for business.                                                                    value on the first day of the
+                                                              The lease term began in:              lease exceeded:
+Section B—Standard Mileage Rate
+                                                              2025 . . . . . . . . . . . . . . .   $ 62,000 (See Rev. Proc. 2025-16)
+You may be able to use the standard mileage rate instead
+                                                              2024 . . . . . . . . . . . . . . .   $ 62,000 (See Rev.Proc. 2024-13)
+of actual expenses to figure the deductible costs of
+operating a passenger vehicle, including a van, an SUV, a     2023 . . . . . . . . . . . . . . .   $ 60,000 (See Rev. Proc. 2023-14)
+pickup, or a panel truck.                                     2022 . . . . . . . . . . . . . . .   $ 56,000 (See Rev. Proc. 2022-17)
+                                                              2021 . . . . . . . . . . . . . . .   $ 51,000 (See Rev. Proc. 2021-31)
+  If you want to use the standard mileage rate for a
+                                                              See Pub. 463 for leases beginning before 2021.
+vehicle you own, you must do so in the first year you place
+your vehicle in service. In later years, you can deduct
+                                                                See Pub. 463 to figure the inclusion amount.
+actual expenses instead, but you must use straight line
+depreciation.                                                 Line 25. If during 2025 your employer provided a vehicle
+                                                              for your business use and included 100% of its annual
+   If you lease your vehicle, you can use the standard        lease value in Form W-2, box 1, enter this amount on
+mileage rate, but only if you use the rate for the entire     line 25. If less than 100% of the annual lease value was
+lease period (except for the period, if any, before January   included in Form W-2, box 1, skip line 25.
+1, 1998).
+                                                              Line 28. If you completed Section D, enter the amount
+   If you use more than two vehicles, complete and attach     from line 38. If you used Form 4562 to figure your
+a second Form 2106, page 2, providing the information         depreciation deduction, enter the total of the following
+requested in lines 11 through 22. Be sure to include the      amounts.
+amount from line 22 of both pages in the total on Form        • Depreciation allocable to your vehicle(s) (from Form
+2106, line 1. You may not use the standard mileage rate to    4562, line 28).
+compute the deductible expenses of five or more vehicles      • Any section 179 deduction allocable to your vehicle(s)
+you own or lease simultaneously (such as in fleet             (from Form 4562, line 29).
+operations).
+   You may be able to deduct state and local personal         Section D—Depreciation of Vehicles
+property taxes you paid or accrued during the year. Enter     Depreciation is an amount you can deduct to recover the
+these taxes on Schedule A (Form 1040), line 5c.               cost or other basis of your vehicle over a certain number
+                                                              of years. In some cases, you can claim a special
+   If you are claiming the standard mileage rate for          depreciation allowance or elect to expense part of the cost
+mileage driven in more than one business activity, you        of your vehicle in the year of purchase. For details, see
+must figure the deduction for each business on a separate     Pub. 463.
+form or schedule (for example, Form 2106; Schedule C
+(Form 1040), Profit or Loss From Business; Schedule E         Line 30. Enter the vehicle’s actual cost or other basis.
+(Form 1040), Supplemental Income and Loss; or                 Don’t reduce your basis by any prior year’s depreciation.
+Schedule F (Form 1040), Profit or Loss From Farming).         However, you must reduce your basis by any deductible
+                                                              casualty loss, deduction for clean-fuel vehicle, gas guzzler
+Section C—Actual Expenses                                     tax, alternative motor vehicle credit, or qualified plug-in
+                                                              electric vehicle credit you claimed. Increase your basis by
+Line 23. Enter your total annual expenses for gasoline,
+                                                              any sales tax paid (unless you deducted sales taxes in the
+oil, repairs, insurance, tires, license plates, and similar
+                                                              year you purchased your vehicle) and any substantial
+items. Don't include state and local personal property
+                                                              improvements to your vehicle.
+taxes or vehicle loan interest you paid on Line 23. You may
+be able to deduct state and local personal property taxes        If you converted the vehicle from personal use to
+you paid or accrued during the year. See Schedule A           business use, your basis for depreciation is the smaller of
+(Form 1040) to see whether you can deduct these taxes.        the vehicle’s adjusted basis or its fair market value on the
+Additionally, you may be able to deduct qualified             date of conversion.
+passenger vehicle loan interest you paid or accrued           Line 31. Enter the amount of any section 179 deduction
+during the year. See Schedule 1-A (Form 1040) to see          and, if applicable, any special depreciation allowance
+whether you can deduct this interest.                         claimed for this year.
+Line 24a. If, during 2025, you rented or leased a vehicle       Section 179 deduction. If 2025 is the first year your
+instead of using your own vehicle, enter the cost of          vehicle was placed in service and the percentage on
+
+Instructions for Form 2106 (2025)                                                                                                      5
+line 14 is more than 50%, you can elect to deduct as an                          Note: A vehicle subject to section 280F(a) is not
+expense a portion of the cost (subject to a yearly limit).                       considered an SUV under section 179. (See section 179.)
+This cost is sometimes referred to as the “Section 179                              Special depreciation allowance. The special
+basis.” To figure this section 179 deduction, multiply the                       depreciation allowance applies only for the first year a
+part of the cost of the vehicle that you choose to expense                       vehicle is placed in service. See section 168(k) and Rev.
+by the percentage on line 14. The total of your                                  Proc. 2025 -16. For 2025, your total section 179
+depreciation and section 179 deduction generally can’t be                        deduction, special depreciation allowance, and regular
+more than the percentage on line 14 multiplied by the                            depreciation deduction can’t be more than $20,200 for
+applicable limit explained in the line 36 instructions. Your                     passenger automobiles, multiplied by your business use
+section 179 deduction for the year can’t be more than the                        percentage on line 14. See the line 36 instructions for
+income from your job and any other active trade or                               depreciation limits. You can’t recover the amount by which
+business on your Form 1040 or 1040-SR.                                           your depreciation deduction exceeds the depreciation
+                                                                                 limits for the year placed in service until after the end of
+Note: A deduction allowed under section 179 may be                               the recovery period for your vehicle.
+subject to the limitations of section 280F. (See section
+280F.)                                                                             Use the following worksheet to figure the amount of the
+         If you are claiming a section 179 deduction on                          special depreciation allowance.
+    !    other property, or you placed more than
+CAUTION $4,000,000 of section 179 property in service
+                                                                                  Worksheet for the Special Depreciation Allowance
+during the year, use Form 4562 to figure your section 179                                       (keep for your records)
+deduction. Enter the amount of the section 179 deduction
+                                                                                    1. Enter the total amount from Form 2106,
+allocable to your vehicle from Form 4562, line 12, on Form                             line 30 . . . . . . . . . . . . . . . . . . . . . . . .
+2106, line 31.
+                                                                                    2. Multiply line 1 by the percentage on Form
+Example.                                                                               2106, line 14, and enter the result . . . . . .
+Section 179 basis . . . . . . . . . . . . . . . . . . . . . . .       $25,000       3. Enter any section 179 deduction            . . . . . . .
+Limit on depreciation and section 179                                               4. Subtract line 3 from line 2 . . . . . . . . . . . .
+deduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   $20,200*
+                                                                                    5. Multiply the applicable limit explained in the
+Smaller of:                                                                            line 36 instructions by the percentage on
+                                                                                       Form 2106, line 14, and enter the result . .
+Section 179 basis, or limit on
+depreciation . . . . . . . . . . . . . . . . . . . . . . . . . . .    $20,200       6. Subtract line 3 from line 5 . . . . . . . . . . . .
+
+Percentage on line 14 . . . . . . . . . . . . . . . . . . .             × 0.75      7. Enter the smaller of line 4 or line 6. Add the
+                                                                                       result to any section 179 deduction (line 3
+Section 179 deduction . . . . . . . . . . . . . . . . . . .           $15,150          above) and enter the total on Form 2106,
+* $12,200 if electing out of special depreciation allowance or not                     line 31 . . . . . . . . . . . . . . . . . . . . . . . .
+qualified property.
+
+                                                                                 Note: For certain qualified property acquired after
+  Limit for sport utility and certain other vehicles.                            September 27, 2017, and before January 20, 2025, that is
+For sport utility and certain other vehicles placed in                           placed in service during calendar year 2025, the special
+service in 2025, the portion of the vehicle’s cost taken into                    depreciation allowance is 40% (60% for certain property
+account in figuring your section 179 deduction is limited to                     with a long production period and certain aircraft). For
+$31,300. This rule applies to any 4-wheeled vehicle                              certain qualified property acquired after January 19, 2025,
+primarily designed or used to carry passengers over                              the special depreciation allowance is 100%. See Pub. 946
+public streets, roads, or highways that isn’t subject to any                     for prior years.
+of the passenger automobile limits explained in the line 36                         Election out. You can elect not to claim the special
+instructions and is rated at no more than 14,000 pounds                          depreciation allowance for your vehicle. If you make this
+gross vehicle weight. However, the $31,300 limit doesn’t                         election, it applies to all property in the same class placed
+apply to any vehicle:                                                            in service during the year.
+• Designed to have a seating capacity of more than nine                              To make the election, attach a statement to your timely
+persons behind the driver’s seat;                                                filed return (including extensions) indicating that you are
+• Equipped with a cargo area of at least 6 feet in interior                      electing not to claim the special depreciation allowance
+length that is an open area or is designed for use as an                         and the class of property for which you are making the
+open area but is enclosed by a cap and isn’t readily                             election.
+accessible directly from the passenger compartment; or                           Line 32. To figure the basis for depreciation, multiply
+• That has an integral enclosure, fully enclosing the driver                     line 30 by the percentage on line 14. From that result,
+compartment and load carrying device, doesn’t have                               subtract the total amount of any section 179 deduction
+seating rearward of the driver’s seat, and has no body                           and special depreciation allowance claimed this year (see
+section protruding more than 30 inches ahead of the                              line 31) or any section 179 deduction and special
+leading edge of the windshield.                                                  depreciation allowance claimed in any previous year for
+                                                                                 this vehicle.
+
+6                                                                                                                    Instructions for Form 2106 (2025)
+Depreciation Method and Percentage Chart—Line 33
+
+        Date Placed in Service                               (a)1                                 (b)1                               (c)
+Oct. 1 – Dec. 31, 2025                                200 DB        5.0%                   150 DB        3.75%                  SL         2.5%
+Jan. 1 – Sept. 30, 2025                               200 DB     20.0                      150 DB     15.0                      SL     10.0
+Oct. 1 – Dec. 31, 2024                                200 DB     38.0                      150 DB     28.88                     SL     20.0
+Jan. 1 – Sept. 30, 2024                               200 DB     32.0                      150 DB     25.5                      SL     20.0
+Oct. 1 – Dec. 31, 2023                                200 DB     22.8                      150 DB     20.21                     SL     20.0
+Jan. 1 – Sept. 30, 2023                               200 DB     19.2                      150 DB     17.85                     SL     20.0
+Oct. 1 – Dec. 31, 2022                                200 DB     13.68                     150 DB     16.4                      SL     20.0
+Jan. 1 – Sept. 30, 2022                               200 DB     11.52                     150 DB     16.66                     SL     20.0
+Oct. 1 – Dec. 31, 2021                                200 DB     10.94                     150 DB     16.41                     SL     20.0
+Jan. 1 – Sept. 30, 2021                               200 DB     11.52                     150 DB     16.66                     SL     20.0
+Oct. 1 – Dec. 31, 2020                                200 DB        9.58                   150 DB     14.35                     SL     17.5
+Jan. 1 – Sept. 30, 2020                               200 DB        5.76                   150 DB        8.33                   SL     10.0
+Prior to 20202
+1
+ You can use this column only if the business use of your car is more than 50%.
+2
+ If your car was subject to the maximum limits for depreciation and you have unrecovered basis in the car, you can continue to claim depreciation.
+See Pub. 463 for more information.
+
+
+
+Line 33. If you used the standard mileage rate in the first                 line method over 5 years. The use of this column is
+year the vehicle was placed in service and now elect to                     optional for these vehicles if the business use percentage
+use the actual expense method, you must use the straight                    on line 14 is more than 50%.
+line method of depreciation for the vehicle’s estimated
+                                                                            Note: If your vehicle was used more than 50% for
+useful life. Otherwise, use the Depreciation Method and
+                                                                            business in the year it was placed in service and used
+Percentage Chart, later, to find the depreciation method
+                                                                            50% or less in a later year, part of the depreciation,
+and percentage to enter on line 33.
+                                                                            section 179 deduction, and special depreciation
+   To use the chart, first find the date you placed the                     allowance previously claimed may have to be added back
+vehicle in service (line 11). Then, select the depreciation                 to your income in the later year. Figure the amount to be
+method and percentage from column (a), (b), or (c). For                     included in income in Form 4797, Part IV.
+example, if you placed a car in service on July 1, 2025 and                    More information. For more information on
+you use the method in column (a), enter “200 DB 20%” on                     depreciating your vehicle, see Pub. 463.
+line 33.
+                                                                                    If you placed other business property in service in
+   For vehicles placed in service before 2025, use the
+                                                                               !    the same year you placed your vehicle in service
+same method you used on last year’s return unless a
+                                                                            CAUTION or you used your vehicle mainly within an Indian
+decline in your business use requires a change to the
+                                                                            reservation, you may not be able to use the chart. See
+straight line method. For vehicles placed in service during
+                                                                            Pub. 946 to figure your depreciation.
+2025, select the depreciation method and percentage
+after reading the explanation for each column.                              Line 34. If you sold or exchanged your vehicle during the
+   Column (a)—200% declining balance method. You                            year, use the following instructions to figure the amount to
+can use column (a) only if the business use percentage on                   enter on line 34.
+line 14 is more than 50%. Of the three depreciation
+methods, the 200% declining balance method may give                            If your vehicle was placed in service:
+you the largest depreciation deduction for the first 3 years                   1. Before 2020, enter the result of multiplying line 32
+(after considering the depreciation limit for your vehicle).                by the percentage on line 33;
+See the depreciation limit tables, later.                                      2. After 2019, from January 1 through September 30,
+   Column (b)—150% declining balance method. You                            enter the amount figured by multiplying the result in (1) by
+can use column (b) only if the business use percentage on                   50%; or
+line 14 is more than 50%. The 150% declining balance                           3. After 2019, from October 1 through December 31,
+method may give you a smaller depreciation deduction                        enter the amount figured by multiplying the result in (1) by
+than in column (a) for the first 3 years.                                   the percentage shown below for the month you disposed
+   Column (c)—straight line method. You must use                            of the vehicle.
+column (c) if the business use percentage on line 14 is
+50% or less. The method for these vehicles is the straight
+
+
+Instructions for Form 2106 (2025)                                                                                                                    7
+Month of Disposal                                        Percentage    Rev. Proc. 2025-16 Table 2: Depreciation
+                                                                       Limitations for Passenger Automobiles Placed in
+Jan., Feb., March . . . . . . . . . . . . . . .              12.5%
+                                                                       Service During Calendar Year 2025 for Which No
+April, May, June . . . . . . . . . . . . . . . .             37.5%     Section 168(k) Additional First-Year Depreciation
+July, Aug., Sept. . . . . . . . . . . . . . . . .            62.5%     Deduction Applies
+Oct., Nov., Dec.       . . . . . . . . . . . . . . . .       87.5%
+                                                                       Tax Year                                                    Amount
+                                                                       1st Tax Year . . . . . . . . . . . . . .                    $ 12,200
+Line 36. See the tables shown here to determine the                    2nd Tax Year . . . . . . . . . . . . . .                    $ 19,600
+depreciation limitation for passenger automobiles placed               3rd Tax Year . . . . . . . . . . . . . .                    $ 11,800
+in service in 2025. See the tables in Pub. 463 to determine
+the depreciation limitation for passenger automobiles                  Each Succeeding Year        . . . . . . .                    $ 7,060
+placed in service before 2025.
+• A passenger automobile is a 4-wheeled vehicle                        Paperwork Reduction Act Notice. For the Paperwork
+manufactured primarily for use on public roads that is                 Reduction Act Notice, see your tax return instructions.
+rated at 6,000 pounds unloaded gross vehicle weight or
+less. Certain vehicles, such as ambulances, hearses, and
+taxicabs, aren’t considered passenger automobiles and
+aren’t subject to the line 36 limits. See Pub. 463 for more
+details.
+• A truck or van is a passenger automobile that is
+classified by the manufacturer as a truck or van, and that
+is rated at 6,000 pounds gross vehicle weight or less.
+    If your vehicle isn’t subject to any of the line 36 limits,
+skip lines 36 and 37, and enter the amount from line 35 on
+line 38.
+
+Rev. Proc. 2025-16 Table 1: Depreciation
+Limitations for Passenger Automobiles Acquired
+After September 27, 2017, and Placed in Service
+During Calendar Year 2025, for Which the Section
+168(k) Additional First-Year Depreciation
+Deduction Applies
+
+Tax Year                                                    Amount
+1st Tax Year . . . . . . . . . . . . . .                    $ 20,200
+2nd Tax Year . . . . . . . . . . . . . .                    $ 19,600
+3rd Tax Year . . . . . . . . . . . . . .                    $ 11,800
+Each Succeeding Year         . . . . . . .                   $ 7,060
+
+
+
+
+8                                                                                                         Instructions for Form 2106 (2025)
+

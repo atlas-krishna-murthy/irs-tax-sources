@@ -1,0 +1,29 @@
+{
+  "question": {
+    "id": "disability-pension-before-minimum-retirement-age",
+    "wording": "Was this employer-plan disability pension (Form 1099-R box 7 code 3) received before the taxpayer reached the minimum retirement age the employer set?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes — before the minimum retirement age; it is wages on line 1h"
+      },
+      {
+        "value": "no",
+        "label": "No — at or after it; it is a pension on lines 5a and 5b"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Form 1040",
+        "line": "1h",
+        "revision": "2025",
+        "wording": "Disability pensions shown on Form 1099-R if you haven't reached the minimum retirement age set by your employer.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+      }
+    }
+  }
+}

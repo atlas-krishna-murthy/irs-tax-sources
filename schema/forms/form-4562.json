@@ -1,0 +1,788 @@
+{
+  "form": {
+    "id": "form-4562",
+    "form": "Form 4562",
+    "title": "Depreciation and Amortization (Including Information on Listed Property)",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f4562--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i4562",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Maximum amount (see instructions)",
+        "type": "money",
+        "note": "For 2025 the maximum section 179 expense deduction is $2,500,000 for section 179 property (including qualified section 179 real property) placed in service during the tax year beginning in 2025."
+      },
+      {
+        "line": "2",
+        "caption": "Total cost of section 179 property placed in service (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Threshold cost of section 179 property before reduction in limitation (see instructions)",
+        "type": "money",
+        "note": "For 2025 the line 1 amount is reduced if the cost of all section 179 property placed in service in 2025 is more than $4,000,000."
+      },
+      {
+        "line": "4",
+        "caption": "Reduction in limitation. Subtract line 3 from line 2. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Dollar limitation for tax year. Subtract line 4 from line 1. If zero or less, enter -0-. If married filing separately, see instructions",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "(a) Description of property (b) Cost (business use only) (c) Elected cost",
+        "type": "text",
+        "columns": [
+          "a",
+          "b",
+          "c"
+        ]
+      },
+      {
+        "line": "7",
+        "caption": "Listed property. Enter the amount from line 29",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Total elected cost of section 179 property. Add amounts in column (c), lines 6 and 7",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Tentative deduction. Enter the smaller of line 5 or line 8",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Carryover of disallowed deduction from line 13 of your 2024 Form 4562",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Business income limitation. Enter the smaller of business income (not less than zero) or line 5. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Section 179 expense deduction. Add lines 9 and 10, but don\u2019t enter more than line 11",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Carryover of disallowed deduction to 2026. Add lines 9 and 10, less line 12",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Special depreciation allowance for qualified property (other than listed property) placed in service during the tax year. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Property subject to section 168(f)(1) election",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Other depreciation (including ACRS)",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "MACRS deductions for assets placed in service in tax years beginning before 2025",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "If you are electing to group any assets placed in service during the tax year into one or more general asset accounts, check here",
+        "type": "checkbox"
+      },
+      {
+        "line": "21",
+        "caption": "Listed property. Enter amount from line 28",
+        "type": "money"
+      },
+      {
+        "line": "22",
+        "caption": "Total. Add amounts from line 12, lines 14 through 17, lines 19 and 20 in column (g), and line 21. Enter here and on the appropriate lines of your return. Partnerships and S corporations\u2014see instructions",
+        "type": "money",
+        "note": "The form does NOT name a single destination. Depreciation reaches Schedule C line 13, Schedule E line 18, Schedule F line 14, or Form 4835 line 12, depending on the activity the form relates to - the header field \"Business or activity to which this form relates\" is what decides it.",
+        "computed_by_software": true
+      },
+      {
+        "line": "23a",
+        "caption": "For assets shown in Part III that are placed in service during the current tax year, and have costs capitalized under section 263A, enter the amount of the basis attributable to interest costs capitalized under section 263A(f)",
+        "type": "money"
+      },
+      {
+        "line": "23b",
+        "caption": "For assets shown in Part III that are placed in service during the current tax year, and have costs capitalized under section 263A, enter the amount of the basis attributable to costs capitalized under section 263A other than interest costs capitalized under section 263A(f)",
+        "type": "money"
+      },
+      {
+        "line": "28",
+        "caption": "Add amounts in column (h), lines 25 through 27. Enter here and on line 21",
+        "type": "money"
+      },
+      {
+        "line": "29",
+        "caption": "Add amounts in column (i), line 26. Enter here and on line 7",
+        "type": "money"
+      },
+      {
+        "line": "44",
+        "caption": "Total. Add amounts in column (f). See the instructions for where to report",
+        "type": "money"
+      },
+      {
+        "line": "business-or-activity",
+        "caption": "Business or activity to which this form relates",
+        "type": "text",
+        "notes": "Header. Decides whether line 22 reaches Schedule C line 13 or Schedule E line 18 \u2014 one Form 4562 per business or activity."
+      },
+      {
+        "line": "19a",
+        "caption": "3-year property",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section B\u2014Assets Placed in Service During 2025 Tax Year Using the General Depreciation System. Column (g) is the deduction; (b) a date, (d)-(f) codes."
+      },
+      {
+        "line": "19b",
+        "caption": "5-year property",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section B\u2014Assets Placed in Service During 2025 Tax Year Using the General Depreciation System. Column (g) is the deduction; (b) a date, (d)-(f) codes."
+      },
+      {
+        "line": "19c",
+        "caption": "7-year property",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section B\u2014Assets Placed in Service During 2025 Tax Year Using the General Depreciation System. Column (g) is the deduction; (b) a date, (d)-(f) codes."
+      },
+      {
+        "line": "19d",
+        "caption": "10-year property",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section B\u2014Assets Placed in Service During 2025 Tax Year Using the General Depreciation System. Column (g) is the deduction; (b) a date, (d)-(f) codes."
+      },
+      {
+        "line": "19e",
+        "caption": "15-year property",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section B\u2014Assets Placed in Service During 2025 Tax Year Using the General Depreciation System. Column (g) is the deduction; (b) a date, (d)-(f) codes."
+      },
+      {
+        "line": "19f",
+        "caption": "20-year property",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section B\u2014Assets Placed in Service During 2025 Tax Year Using the General Depreciation System. Column (g) is the deduction; (b) a date, (d)-(f) codes."
+      },
+      {
+        "line": "19g",
+        "caption": "25-year property",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section B\u2014Assets Placed in Service During 2025 Tax Year Using the General Depreciation System. Column (g) is the deduction; (b) a date, (d)-(f) codes."
+      },
+      {
+        "line": "19h",
+        "caption": "50-year property",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section B\u2014Assets Placed in Service During 2025 Tax Year Using the General Depreciation System. Column (g) is the deduction; (b) a date, (d)-(f) codes."
+      },
+      {
+        "line": "19i",
+        "caption": "Residential rental",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Printed across two rows (\"Residential rental / property\"), each a row of the grid. Section B\u2014Assets Placed in Service During 2025 Tax Year Using the General Depreciation System. Column (g) is the deduction; (b) a date, (d)-(f) codes."
+      },
+      {
+        "line": "19j",
+        "caption": "Nonresidential real",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Printed across two rows (\"Nonresidential real / property\"), each a row of the grid. Section B\u2014Assets Placed in Service During 2025 Tax Year Using the General Depreciation System. Column (g) is the deduction; (b) a date, (d)-(f) codes."
+      },
+      {
+        "line": "20a",
+        "caption": "Class life",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section C\u2014Assets Placed in Service During 2025 Tax Year Using the Alternative Depreciation System. Column (g) is the deduction."
+      },
+      {
+        "line": "20b",
+        "caption": "12-year",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section C\u2014Assets Placed in Service During 2025 Tax Year Using the Alternative Depreciation System. Column (g) is the deduction."
+      },
+      {
+        "line": "20c",
+        "caption": "30-year",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section C\u2014Assets Placed in Service During 2025 Tax Year Using the Alternative Depreciation System. Column (g) is the deduction."
+      },
+      {
+        "line": "20d",
+        "caption": "40-year",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section C\u2014Assets Placed in Service During 2025 Tax Year Using the Alternative Depreciation System. Column (g) is the deduction."
+      },
+      {
+        "line": "20e",
+        "caption": "50-year",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g"
+        ],
+        "column_captions": {
+          "a": "(a) Classification of property",
+          "b": "(b) Month and year placed in service",
+          "c": "(c) Basis for depreciation (business/investment use only\u2014see instructions)",
+          "d": "(d) Recovery period",
+          "e": "(e) Convention",
+          "f": "(f) Method",
+          "g": "(g) Depreciation deduction"
+        },
+        "notes": "Section C\u2014Assets Placed in Service During 2025 Tax Year Using the Alternative Depreciation System. Column (g) is the deduction."
+      },
+      {
+        "line": "24a",
+        "caption": "Do you have evidence to support the business/investment use claimed?",
+        "type": "checkbox",
+        "columns": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "line": "24b",
+        "caption": "If \u201cYes,\u201d is the evidence written?",
+        "type": "checkbox",
+        "columns": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "line": "24c",
+        "caption": "Do you own, lease, or charter an aircraft? Check all that apply. See instructions",
+        "type": "checkbox",
+        "columns": [
+          "own",
+          "lease",
+          "charter"
+        ]
+      },
+      {
+        "line": "25",
+        "caption": "Special depreciation allowance for qualified listed property placed in service during the tax year and used more than 50% in a qualified business use. See instructions",
+        "type": "money",
+        "columns": [
+          "h"
+        ]
+      },
+      {
+        "line": "26",
+        "caption": "Property used more than 50% in a qualified business use:",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i"
+        ],
+        "column_captions": {
+          "a": "(a) Type of property (list vehicles first)",
+          "b": "(b) Date placed in service",
+          "c": "(c) Business/investment use percentage",
+          "d": "(d) Cost or other basis",
+          "e": "(e) Basis for depreciation (business/investment use only)",
+          "f": "(f) Recovery period",
+          "g": "(g) Method/Convention",
+          "h": "(h) Depreciation deduction",
+          "i": "(i) Elected section 179 cost"
+        },
+        "rows_are": "instances"
+      },
+      {
+        "line": "27",
+        "caption": "Property used 50% or less in a qualified business use:",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i"
+        ],
+        "column_captions": {
+          "a": "(a) Type of property (list vehicles first)",
+          "b": "(b) Date placed in service",
+          "c": "(c) Business/investment use percentage",
+          "d": "(d) Cost or other basis",
+          "e": "(e) Basis for depreciation (business/investment use only)",
+          "f": "(f) Recovery period",
+          "g": "(g) Method/Convention",
+          "h": "(h) Depreciation deduction",
+          "i": "(i) Elected section 179 cost"
+        },
+        "rows_are": "instances"
+      },
+      {
+        "line": "30",
+        "caption": "Total business/investment miles driven during the year (don\u2019t include commuting miles)",
+        "type": "count",
+        "notes": "Section B\u2014Information on Use of Vehicles; columns (a)-(f) are Vehicles 1-6 (instances).",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "columns_are": "instances"
+      },
+      {
+        "line": "31",
+        "caption": "Total commuting miles driven during the year",
+        "type": "count",
+        "notes": "Section B\u2014Information on Use of Vehicles; columns (a)-(f) are Vehicles 1-6 (instances).",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "columns_are": "instances"
+      },
+      {
+        "line": "32",
+        "caption": "Total other personal (noncommuting) miles driven",
+        "type": "count",
+        "notes": "Section B\u2014Information on Use of Vehicles; columns (a)-(f) are Vehicles 1-6 (instances).",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "columns_are": "instances"
+      },
+      {
+        "line": "33",
+        "caption": "Total miles driven during the year. Add lines 30 through 32",
+        "type": "count",
+        "notes": "Section B\u2014Information on Use of Vehicles; columns (a)-(f) are Vehicles 1-6 (instances).",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "columns_are": "instances"
+      },
+      {
+        "line": "34",
+        "caption": "Was the vehicle available for personal use during off-duty hours?",
+        "type": "checkbox",
+        "notes": "Section B\u2014Information on Use of Vehicles; columns (a)-(f) are Vehicles 1-6 (instances).",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "columns_are": "instances"
+      },
+      {
+        "line": "35",
+        "caption": "Was the vehicle used primarily by a more than 5% owner or related person?",
+        "type": "checkbox",
+        "notes": "Section B\u2014Information on Use of Vehicles; columns (a)-(f) are Vehicles 1-6 (instances).",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "columns_are": "instances"
+      },
+      {
+        "line": "36",
+        "caption": "Is another vehicle available for personal use?",
+        "type": "checkbox",
+        "notes": "Section B\u2014Information on Use of Vehicles; columns (a)-(f) are Vehicles 1-6 (instances).",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "columns_are": "instances"
+      },
+      {
+        "line": "37",
+        "caption": "Do you maintain a written policy statement that prohibits all personal use of vehicles, including commuting, by your employees?",
+        "type": "checkbox",
+        "columns": [
+          "yes",
+          "no"
+        ],
+        "notes": "Section C\u2014Questions for Employers Who Provide Vehicles for Use by Their Employees."
+      },
+      {
+        "line": "38",
+        "caption": "Do you maintain a written policy statement that prohibits personal use of vehicles, except commuting, by your employees? See the instructions for vehicles used by corporate officers, directors, or 1% or more owners",
+        "type": "checkbox",
+        "columns": [
+          "yes",
+          "no"
+        ],
+        "notes": "Section C\u2014Questions for Employers Who Provide Vehicles for Use by Their Employees."
+      },
+      {
+        "line": "39",
+        "caption": "Do you treat all use of vehicles by employees as personal use?",
+        "type": "checkbox",
+        "columns": [
+          "yes",
+          "no"
+        ],
+        "notes": "Section C\u2014Questions for Employers Who Provide Vehicles for Use by Their Employees."
+      },
+      {
+        "line": "40",
+        "caption": "Do you provide more than five vehicles to your employees, obtain information from your employees about the use of the vehicles, and retain the information received?",
+        "type": "checkbox",
+        "columns": [
+          "yes",
+          "no"
+        ],
+        "notes": "Section C\u2014Questions for Employers Who Provide Vehicles for Use by Their Employees."
+      },
+      {
+        "line": "41",
+        "caption": "Do you meet the requirements concerning qualified automobile demonstration use? See instructions",
+        "type": "checkbox",
+        "columns": [
+          "yes",
+          "no"
+        ],
+        "notes": "Section C\u2014Questions for Employers Who Provide Vehicles for Use by Their Employees."
+      },
+      {
+        "line": "42",
+        "caption": "Amortization of costs that begins during your 2025 tax year (see instructions):",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "rows_are": "instances",
+        "column_captions": {
+          "a": "(a) Description of costs",
+          "b": "(b) Date amortization begins",
+          "c": "(c) Amortizable amount",
+          "d": "(d) Code section",
+          "e": "(e) Amortization period or percentage",
+          "f": "(f) Amortization for this year"
+        }
+      },
+      {
+        "line": "43",
+        "caption": "Amortization of costs that began before your 2025 tax year",
+        "type": "money"
+      }
+    ],
+    "revision_printed_as": "Form 4562 (2025) Created 10/9/25"
+  }
+}

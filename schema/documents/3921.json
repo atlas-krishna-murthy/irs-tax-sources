@@ -1,0 +1,77 @@
+{
+  "document": {
+    "id": "3921",
+    "title": "Exercise of an Incentive Stock Option Under Section 422(b)",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 3921 (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f3921--2025.pdf",
+    "issued_by": "employer (or transfer agent) whose stock was transferred on exercise of an ISO",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "Marks this statement as correcting one already furnished for the same year."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a filer's mark, never a figure."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "The filer's own account number; identification only."
+      },
+      {
+        "box": "transferor-tin",
+        "label": "TRANSFEROR\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "employee-tin",
+        "label": "EMPLOYEE\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "1",
+        "label": "Date option granted",
+        "type": "date"
+      },
+      {
+        "box": "2",
+        "label": "Date option exercised",
+        "type": "date"
+      },
+      {
+        "box": "3",
+        "label": "Exercise price per share",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Fair market value per share on exercise date",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "No. of shares transferred",
+        "type": "count"
+      },
+      {
+        "box": "6",
+        "label": "If other than TRANSFEROR, name, address, and TIN of corporation whose stock is being transferred",
+        "type": "text"
+      }
+    ],
+    "notes": "Basis information, not income: an ISO exercise is not regular income in the year of exercise; gain or loss is reported in the year the stock is sold. The spread (box 4 less box 3, times box 5) may be an AMT adjustment on Form 6251 line 2i \u2014 a computation."
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

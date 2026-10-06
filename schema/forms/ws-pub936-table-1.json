@@ -1,0 +1,102 @@
+{
+  "form": {
+    "id": "ws-pub936-table-1",
+    "form": "Publication 936, Table 1",
+    "title": "Table 1. Worksheet To Figure Your Qualified Loan Limit and Deductible Home Mortgage Interest for the Current Year",
+    "kind": "worksheet",
+    "revision": "2025",
+    "revision_printed_as": "Publication 936 (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/p936--2025.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Enter the average balance of all your grandfathered debt. See the line 1 instructions",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Enter the average balance of all your home acquisition debt incurred after October 13, 1987, and prior to December 16, 2017. See the line 2 instructions",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Enter $1,000,000 ($500,000 if married filing separately)",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Enter the larger of the amount on line 1 or the amount on line 3",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "5",
+        "caption": "Add the amounts on lines 1 and 2. Enter the total here",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "6",
+        "caption": "Enter the smaller of the amount on line 4 or the amount on line 5",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "7",
+        "caption": "Enter the average balance of all your home acquisition debt incurred after December 15, 2017. See the line 7 instructions",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Enter $750,000 ($375,000 if married filing separately)",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Enter the larger of the amount on line 6 or the amount on line 8",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "10",
+        "caption": "Add the amounts on lines 6 and 7. Enter the total here",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "11",
+        "caption": "Enter the smaller of line 9 or line 10. This is your qualified loan limit",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "12",
+        "caption": "Enter the total of the average balances of all mortgages from lines 1, 2, and 7 on all qualified homes. See the line 12 instructions",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Enter the total amount of interest that you paid on the loans from line 12. See the line 13 instructions",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Divide the amount on line 11 by the amount on line 12. Enter the result as a decimal amount (rounded to three places)",
+        "type": "number",
+        "computed_by_software": true
+      },
+      {
+        "line": "15",
+        "caption": "Multiply the amount on line 13 by the decimal amount on line 14. Enter the result. This is your deductible home mortgage interest. Enter this amount on Schedule A (Form 1040)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "16",
+        "caption": "Subtract the amount on line 15 from the amount on line 13. Enter the result. This isn't home mortgage interest. See the line 16 instructions",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ]
+  }
+}

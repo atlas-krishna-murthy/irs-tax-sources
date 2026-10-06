@@ -1,0 +1,389 @@
+Form  4626                             Alternative Minimum Tax—Corporations                                                     OMB No. 1545-0123
+
+Department of the Treasury
+Internal Revenue Service
+                                                         Attach to your tax return.
+                                    Go to www.irs.gov/Form4626 for instructions and the latest information.                      2025
+Name of corporation                                                                                              Employer identification number (EIN)
+
+
+  A     Is the corporation filing this form a member of a controlled group treated as a single employer under sections 59
+        (k)(1)(D) and 52? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                 Yes           No
+        If “Yes,” the corporation must complete Part V listing the names, EINs, and separate company financial statement
+        income or loss for each member of the controlled group treated as a single employer taken into account in the
+        determination of “applicable corporation” under section 59(k)(1)(D).
+  B     Is the corporation filing this form a member of a foreign-parented multinational group (FPMG) within the meaning
+        of section 59(k)(2)(B)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                               Yes           No
+        If “Yes,” the corporation must complete Part V listing the names, EINs, and separate company financial statement
+        income or loss for each member of the FPMG under section 59(k)(2)(B).
+  C     Has the corporation filing this form already determined it is an applicable corporation in current or prior years for
+        purposes of the corporate alternative minimum tax (CAMT)? . . . . . . . . . . . . . . . . .                                     Yes           No
+        If “Yes,” skip Part I and continue to Part II. If “No,” complete Part I.
+ Part I        Applicable Corporation Determination (Report all amounts in U.S. dollars.)
+                                                                                                 (a)                 (b)                    (c)
+                                                                                          First Preceding    Second Preceding        Third Preceding
+                                                                                            Year Ended          Year Ended             Year Ended
+                                                                                              /       /          /         /            /         /
+  1   Net income or loss per applicable financial statement(s) (AFS) (see
+      instructions):
+    a Consolidated net income or loss per the AFS of the corporation .             1a
+    b Include AFS net income or loss of other includible entities (add
+      net income and subtract net loss) . . . . . . . . . . .                      1b
+    c Exclude AFS net income or loss of excludible entities (add net
+      loss and subtract net income) . . . . . . . . . . . .                        1c
+    d Adjustment for certain consolidating entries (see instructions)        .     1d
+    e Specified additional net income or loss item B. Reserved for future use      1e
+    f AFS net income or loss of all entities in the test group before
+      adjustments. Combine lines 1a through 1d . . . . . . . .                     1f
+  2   Adjustments (see instructions):
+    a Financial statements covering different tax years . . . . . .                2a
+    b Corporations that are not included on the taxpayer’s consolidated
+      return . . . . . . . . . . . . . . . . . . . .                               2b
+    c Aggregate pro-rata share of adjusted net income from controlled
+      foreign corporations (CFCs) for which the corporation is a U.S.
+      shareholder. If zero or less, enter -0- (attach Schedule A (Form 4626))
+      (see instructions for special rules if completing this form for an FPMG)     2c
+    d Amounts that are not effectively connected to a U.S. trade or business
+      (see instructions for special rules if completing this form for an FPMG)     2d (                     )(                  )(                      )
+    e Certain taxes      . . . . . . . . . . . . . . . . .                         2e
+    f Patronage dividends and per-unit retain allocations (cooperatives only)       2f
+    g Alaska native corporations . . . . . . . . . . . . .                         2g
+    h Certain credits . . . . . . . . . . . . . . . . .                            2h
+    i Mortgage servicing income . . . . . . . . . . . . .                           2i
+    j Tax-exempt entities (organizations subject to tax under section 511)          2j
+    k Depreciation . . . . . . . . . . . . . . . . . .                             2k
+    l Qualified wireless spectrum . . . . . . . . . . . . .                         2l
+    m Covered transactions . . . . . . . . . . . . . . .                           2m
+    n Adjustments related to bankruptcy and insolvency . . . . .                   2n
+    o Certain insurance company adjustments . . . . . . . .                        2o
+    p Adjustment P—Reserved for future use . . . . . . . . .                       2p
+    q Adjustment Q—Reserved for future use . . . . . . . . .                       2q
+    r Adjustment R—Reserved for future use . . . . . . . . .                       2r
+    s Adjustment S—Reserved for future use . . . . . . . . .                       2s
+    z Other . . . . . . . . . . . . . . . . . . . .                                2z
+  3   Specified adjustment. Reserved for future use . . . . . . .                   3
+  4   Total adjustments. Combine lines 2a through 2z . . . . . .                    4
+  5   AFSI. Combine lines 1f and 4 . . . . . . . . . . . .                          5
+For Paperwork Reduction Act Notice, see separate instructions.                      Cat. No. 12955I                  Form 4626 (2025) Created 3/27/25
+Form 4626 (2025)                                                                                                                                  Page 2
+ Part I       Applicable Corporation Determination (Report all amounts in U.S. dollars.) (continued)
+  6     AFSI of first, second, and third preceding tax years. Combine columns (a), (b), and (c) of line 5 .   .    .        6
+  7     3-year average annual AFSI (see instructions) . . . . . . . . . . . . . . . . .                       .    .        7
+  8     Is line 7 more than $1 billion?
+             Yes. Continue to line 9.
+             No. STOP here and attach to your tax return.
+  9     Is the corporation a member of an FPMG within the meaning of section 59(k)(2)(B)?
+             Yes. Continue to line 10.
+             No. Continue to Part II.
+                                                                                             (a)                  (b)                   (c)
+                                                                                      First Preceding   Second Preceding         Third Preceding
+                                                                                        Year Ended         Year Ended              Year Ended
+                                                                                      /     /            /              /           /         /
+ 10   AFSI for purposes of the $100 million test before adjustments:
+   a  AFSI from line 5 . . . . . . . . . . . . . . . . .                   10a
+   b  Aggregation differences (see instructions) . . . . . . . .           10b
+   c  Total AFSI for purposes of the $100 million test before adjustments.
+      Combine lines 10a and 10b . . . . . . . . . . . . .                  10c
+ 11   Adjustments:
+    a Income not effectively connected to a U.S. trade or business . .     11a
+    b Aggregate pro-rata share of adjusted net income from CFCs for
+      which the corporation is a U.S. shareholder. If zero or less, enter
+      -0- (attach Schedule A (Form 4626)) (see instructions) . . . .       11b
+    c Reserved for future use—Other adjustments 1         . . . . . .      11c
+    d Reserved for future use—Other adjustments 2         . . . . . .      11d
+ 12   Total adjustments. Combine lines 11a and 11b . . . . . .              12
+ 13   Total AFSI for purposes of the $100 million test. Combine lines
+      10c and 12 . . . . . . . . . . . . . . . . . .                        13
+ 14   AFSI of first, second, and third preceding tax years. Combine columns (a), (b), and (c) of line 13 .         .        14
+ 15   3-year average annual AFSI for purposes of the $100 million test . . . . . . . . . . .                       .        15
+ 16   Is line 15 $100 million or more?
+           Yes. Continue to Part II.
+           No. STOP here. Attach to your tax return.
+                                                                                                                                 Form 4626 (2025)
+Form 4626 (2025)                                                                                                                           Page 3
+ Part II      Corporate Alternative Minimum Tax (CAMT)
+  1   Net income or loss per AFS (see instructions):
+    a Consolidated net income or loss per the AFS of the corporation . . . . . . . . . . . . .                              1a
+    b Include AFS net income or loss of other includible entities (add net income and subtract net loss) . .                1b
+    c Exclude AFS net income or loss of excludible entities (add net loss and subtract net income) . . .                    1c
+    d Adjustment for certain consolidating entries (see instructions)    . . . . . . . . . . . . .                          1d
+    e Specified additional net income or loss item D. Reserved for future use . . . . . . . . . .                           1e
+    f AFS net income or loss before adjustments. Combine lines 1a through 1d . . . . . . . . .                              1f
+  2   Adjustments (see instructions):
+    a Financial statements covering different tax years . . . . . . . . . . . . . . . . . .                                 2a
+    b Reserved for future use—Adjustment 2b           . . . . . . . . . . . . . . . . . . . .                               2b
+    c Corporations that are not included on the taxpayer’s consolidated return (see instructions) . . . .                   2c
+    d The corporation’s distributive share of adjusted financial statement income of partnerships . . . .                   2d
+    e Aggregate pro-rata share of adjusted net income from CFCs for which the corporation is a U.S.
+      shareholder. Enter the amount from Part VI, Section II, line 3 . . . . . . . . . . . . . .                            2e
+    f Amounts that are not effectively connected to a U.S. trade or business . . . . . . . . . .                             2f
+    g Certain taxes. Enter the amount from Part III, line 7 . . . . . . . . . . . . . . . . .                               2g
+    h Patronage dividends and per-unit retain allocations (cooperatives only) . . . . . . . . . .                           2h
+    i Alaska native corporations . . . . . . . . . . . . . . . . . . . . . . . . .                                           2i
+    j Certain credits . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                              2j
+    k Mortgage servicing income . . . . . . . . . . . . . . . . . . . . . . . . .                                           2k
+    l Covered benefit plans described in section 56A(c)(11)(B) . . . . . . . . . . . . . . .                                 2l
+    m Tax-exempt entities (organizations subject to tax under section 511) . . . . . . . . . . .                            2m
+    n Depreciation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                              2n
+    o Qualified wireless spectrum . . . . . . . . . . . . . . . . . . . . . . . . .                                         2o
+    p Covered transactions . . . . . . . . . . . . . . . . . . . . . . . . . . .                                            2p
+    q Adjustments related to bankruptcy and insolvency . . . . . . . . . . . . . . . . .                                    2q
+    r Certain insurance company adjustments . . . . . . . . . . . . . . . . . . . .                                         2r
+    s AFSI adjustment S—Reserved for future use . . . . . . . . . . . . . . . . . . .                                       2s
+    t AFSI adjustment T—Reserved for future use . . . . . . . . . . . . . . . . . . .                                       2t
+    u AFSI adjustment U—Reserved for future use . . . . . . . . . . . . . . . . . . .                                       2u
+    z Other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                 2z
+  3   Total adjustments. Combine lines 2a through 2z . . . . . . . . . . . . . . . . . .                                     3
+  4   AFSI before financial statement net operating loss carryover. Combine lines 1f and 3 . . . . . .                       4
+  5   Financial statement net operating loss (FSNOL) (see instructions) . . . . . . . . . . . .                              5
+  6   AFSI. Subtract line 5 from line 4. If zero or less, enter -0- . . . . . . . . . . . . . . .                            6
+  7   Multiply line 6 by 15% (0.15) . . . . . . . . . . . . . . . . . . . . . . . .                                          7
+  8   Corporate alternative minimum tax foreign tax credit (CAMT FTC). Enter amount from Part IV, Section
+      I, line 6 (see instructions) . . . . . . . . . . . . . . . . . . . . . . . . . .                                       8
+  9   Tentative minimum tax. Subtract line 8 from line 7. If zero or less, enter -0- . . . . . . . . .                       9
+ 10   Regular tax liability (see instructions) . . . . . . . . . . . . . . . . . . . . . .                                  10
+ 11   Base erosion minimum tax (see instructions) . . . . . . . . . . . . . . . . . . .                                     11
+ 12   Combine lines 10 and 11 . . . . . . . . . . . . . . . . . . . . . . . . . .                                           12
+ 13   Alternative minimum tax. Subtract line 12 from line 9. If zero or less, enter -0-. Enter here and on
+      Form 1120, Schedule J, line 3, or the appropriate line of the corporation’s income tax return . . .                   13
+Part III      Adjustment for Certain Taxes Under Section 56A(c)(5)
+  1     Current income tax provision—Foreign . . . . . . . . . .                .   .   .   .   .   .   .   .   .   .   .    1
+  2     Current income tax provision—Federal . . . . . . . . . .                .   .   .   .   .   .   .   .   .   .   .    2
+  3     Deferred income tax provision—Foreign . . . . . . . . . .               .   .   .   .   .   .   .   .   .   .   .    3
+  4     Deferred income tax provision—Federal . . . . . . . . . .               .   .   .   .   .   .   .   .   .   .   .    4
+  5     Income taxes included in equity method investment income . . .          .   .   .   .   .   .   .   .   .   .   .    5
+  6a    Adjustment A—Reserved for future use . . . . . . . . . .                .   .   .   .   .   .   .   .   .   .   .   6a
+    b   Adjustment B—Reserved for future use . . . . . . . . . .                .   .   .   .   .   .   .   .   .   .   .   6b
+    c   Adjustment C—Reserved for future use . . . . . . . . . .                .   .   .   .   .   .   .   .   .   .   .   6c
+    d   Adjustment D—Reserved for future use . . . . . . . . . .                .   .   .   .   .   .   .   .   .   .   .   6d
+    e   Adjustment E—Reserved for future use . . . . . . . . . .                .   .   .   .   .   .   .   .   .   .   .   6e
+    f   Adjustment F—Reserved for future use . . . . . . . . . .                .   .   .   .   .   .   .   .   .   .   .   6f
+    g   Adjustment G—Reserved for future use . . . . . . . . . .                .   .   .   .   .   .   .   .   .   .   .   6g
+    h   Adjustment H—Reserved for future use . . . . . . . . . .                .   .   .   .   .   .   .   .   .   .   .   6h
+    z   Income taxes in other places . . . . . . . . . . . . .                  .   .   .   .   .   .   .   .   .   .   .   6z
+  7     Total. Combine lines 1 through 6z. Enter here and on Part II, line 2g   .   .   .   .   .   .   .   .   .   .   .    7
+                                                                                                                                  Form 4626 (2025)
+Form 4626 (2025)                                                                                                                Page 4
+Part IV   Corporate Alternative Minimum Tax—Foreign Tax Credit
+Section I—CAMT Foreign Tax Credit
+  1     Domestic corporation CAMT foreign income taxes:
+    a   Total foreign taxes paid or accrued as reported on Form 1118, Schedule B,
+        Part I, column 2(j) . . . . . . . . . . . . . . . . . . . .                         1a
+    b   Adjustment                                                                          1b
+    c   Adjustment                                                                          1c
+    d   Adjustment                                                                          1d
+    e   Adjustment                                                                          1e
+    f   Adjustment                                                                          1f
+    g   Adjustment                                                                          1g
+  2     Total domestic corporation CAMT foreign income taxes. Combine lines 1a through 1g . . .           .   .   2
+  3     Allowable CFC CAMT foreign income taxes:
+    a   Pro-rata share of CFC CAMT foreign income taxes from Part IV, Section II, line
+        11, column (n) . . . . . . . . . . . . . . . . . . . . .                            3a
+    b   Other . . . . . . . . . . . . . . . . . . . . . . . .                               3b
+    c   Carryover of excess foreign taxes (from Part IV, Section III, line 4, column (vii)) 3c
+    d   Total CFC CAMT foreign income taxes. Add lines 3a, 3b, and 3c          . . . . . . . . . .        .    .  3d
+    e   Percentage specified in section 55(b)(2)(A)(i) . . . . . . . . . . .                3e                15%
+    f   Aggregate pro-rata share of adjusted net income from CFCs for which the
+        corporation is a U.S. shareholder. Enter the amount from Part VI, Section II,
+        line 3 (see instructions) . . . . . . . . . . . . . . . . . .                       3f
+    g   CFC CAMT FTC limitation (multiply line 3e by line 3f) . . . . . . . . . . . . . .                 .   .   3g
+    h   Allowable CFC CAMT foreign income taxes (lesser of line 3d or line 3g) . . . . . . . .            .   .   3h
+  4     CAMT FTC Line 4—Reserved for future use . . . . . . . . . . . . . . . . .                         .   .    4
+  5     CAMT FTC Line 5—Reserved for future use . . . . . . . . . . . . . . . . .                         .   .    5
+  6     Total CAMT foreign income taxes. Combine lines 2 and 3h. Enter this amount on Part II, line 8 .   .   .    6
+                                                                                                                       Form 4626 (2025)
+Form 4626 (2025)                                                                                                                                                                Page 5
+Part IV    Corporate Alternative Minimum Tax—Foreign Tax Credit (continued)
+Section II—Allowable CFC CAMT Foreign Income Taxes
+                                     (a)                                                        (b)                (c)               (d)               (e)               (f)
+                                 Name of CFC                                                  EIN or           CFC income      Foreign taxes       Adjustment        Adjustment
+                                                                                           reference ID                       for which credit
+                                                                                             number                              is allowed
+                                                                                              of CFC
+
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+
+ 11     Total. Combine lines 1 through 10 .    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .
+                   (g)                (h)                          (i)                         (j)                 (k)               (l)                (m)                (n)
+               Adjustment         Adjustment                   Adjustment                  Adjustment          Adjustment          Total           Reserved for    Pro-rata share of
+                                                                                                                            (combine columns (d)    future use    CFC CAMT foreign
+                                                                                                                                through (k))                         income taxes
+                                                                                                                                                                   (see instructions)
+
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+
+ 11
+                                                                                                                                                                      Form 4626 (2025)
+Form 4626 (2025)                                                                                                                                                                             Page 6
+Part IV    Corporate Alternative Minimum Tax—Foreign Tax Credit (continued)
+Section III—CAMT Foreign Tax Credit Carryover for CFCs (Report all amounts in U.S. dollars.)
+                                                                 (i)                  (ii)                (iii)                (iv)                  (v)             (vi)                (vii)
+         Foreign Tax Carryover Reconciliation              5th Preceding        4th Preceding        3rd Preceding        2nd Preceding        1st Preceding        Current             Total
+                                                             Tax Year             Tax Year             Tax Year             Tax Year             Tax Year          Tax Year       (add columns (i)
+                                                                                                                                                                                    through (vi))
+
+  1     Foreign tax carryover from the prior tax year
+        (enter amounts from the appropriate columns
+        of line 8 of the prior year Form 4626, Part IV,
+        Section III (see instructions)) . . . . . .
+  2     Adjustments to line 1 (enter description—see
+        instructions):
+    a
+    b
+    c
+    d
+    e
+    f
+    g
+  3     Total. Combine lines 2a through 2g     .   .   .
+  4     Adjusted foreign tax carryover from prior tax
+        year (combine lines 1 and 3). If zero or less,
+        enter -0- . . . . . . . . . . . .
+  5     Foreign tax carryover used in current tax
+        year (see instructions) . . . . . . . . (                          )(                   )(                   )(                   )(                   )              (                      )
+  6     Foreign tax carryover expired and unused in
+        current tax year (see instructions) . . . . (                      )                                                                                                  (                      )
+  7     Foreign tax carryover generated in current
+        tax year (see instructions) . . . . . .
+  8     Foreign tax carryover to the following tax
+        year. Combine lines 4 through 7. If zero or
+        less, enter -0- . . . . . . . . . .
+                                                                                                                                                                                  Form 4626 (2025)
+Form 4626 (2025)                                                                                                                                                    Page 7
+ Part V       Members of a Controlled Group Treated as a Single Employer and FPMG Members Taken Into Account in “Applicable Corporation”
+              Determination
+                                 (a)                                (b)               (c)                 (d)                      (e)                      (f)
+                           Name of member                     EIN of member   Check if the entity Check if the entity       EIN/FTIN of the             Member’s
+                                                                              is a member of a    is a member of a         U.S. return (if any)    financial statement
+                                                                               59(k)(1)(D) group   59(k)(2)(B) group    on which the majority of      income/(loss)
+                                                                                                                         the member’s income
+                                                                                                                              is reported
+
+  1
+
+  2
+
+  3
+
+  4
+
+  5
+
+  6
+
+  7
+
+  8
+
+  9
+
+ 10
+
+ 11
+
+ 12
+
+ 13
+
+ 14
+
+ 15
+
+ 16
+
+ 17
+
+ 18
+
+ 19
+
+ 20
+
+ 21
+
+ 22
+
+ 23
+
+ 24
+                                                                                                                                                         Form 4626 (2025)
+Form 4626 (2025)                                                                                                                                                  Page 8
+Part VI   Aggregate Pro-Rata Share of Adjusted Net Income or Loss of CFCs Described in Section 56A(c)(3)
+Section I—Pro-Rata Share of Adjusted Net Income or Loss of CFCs Described in Section 56A(c)(3)
+                                           (a)                                                     (b)                          (c)                       (d)
+                                       Name of CFC                                         EIN or reference ID       Country of incorporation Pro-rata share of adjusted
+                                                                                           number of the CFC          (enter country code)       net income or (loss)
+                                                                                                                                                of the CFC described
+                                                                                                                                                 in section 56A(c)(3)
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42     Total      .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .     .   .   .   .   .   .   .   .   .   .   .   42
+Section II—Section 56A(c)(3)(B) Negative Adjustment
+  1     Aggregate pro-rata share of CFCs’ adjusted net income or (loss) from the total
+        of Part VI, Section I    . . . . . . . . . . . . . . . . . . .                         1
+  2     Available section 56A(c)(3)(B) negative adjustment from preceding year . .             2
+  3     Aggregate pro-rata share of adjusted net income from CFCs for which the corporation is a U.S.
+        shareholder, taking available section 56A(c)(3)(B) negative adjustment into account. Combine line 1
+        and line 2. If more than zero, enter here and on Part II, line 2e, and Part IV, Section I, line 3f. If zero or
+        less, enter -0- and go to line 4 . . . . . . . . . . . . . . . . . . . . . . . .                                                         3
+  4     Section 56A(c)(3)(B) negative adjustment to carry over to succeeding year. Combine line 1 and line 2.
+        If less than zero, enter the combined total as a negative number. If zero or more, enter -0- . . . .                                     4
+                                                                                                                                                        Form 4626 (2025)
+

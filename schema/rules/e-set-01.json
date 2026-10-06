@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "id": "e-set-01",
+    "title": "Only selling expenses reduce the amount realized",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "settlement-statement.seller credits and charges"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-not-a-selling-expense"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-not-a-selling-expense",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "yes",
+      "because": "An escrow or settlement charge is not counted against the gain unless a preparer says it was a cost of selling (the CPA, 2026-10-04: escrow figures do not reach capital gains by default)."
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 523",
+      "line": "Worksheet 2, line 2",
+      "revision": "2025",
+      "wording": "Determine your selling expenses. These are the costs directly associated with selling your home.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p523--2025.pdf"
+    },
+    "research_ids": [
+      "e-set-01"
+    ]
+  }
+}

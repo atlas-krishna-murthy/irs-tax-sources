@@ -1,0 +1,1705 @@
+2025
+
+Instructions for Form 943
+Employer’s Annual Federal Tax Return for Agricultural Employees
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+IRS.gov/BusinessTranscript. To access your IRS business
+tax account, go to IRS.gov/BusinessAccount.
+
+Future Developments
+
+Electronic filing of Form 943-X. You can now file Form
+943-X, Adjusted Employer’s Annual Federal Tax Return for
+Agricultural Employees or Claim for Refund, electronically
+using Modernized e-File (MeF). For more information on
+electronic filing, go to IRS.gov/EmploymentEfile.
+
+For the latest information about developments related to
+Form 943 and its instructions, such as legislation enacted
+after they were published, go to IRS.gov/Form943.
+
+What’s New
+Social security and Medicare taxes for 2025. The
+social security tax rate is 6.2% each for the employee and
+employer. The social security wage base limit is $176,100.
+The Medicare tax rate is 1.45% each for the employee
+and employer, unchanged from 2024. There is no wage
+base limit for Medicare tax.
+Aggregate return filers must identify themselves.
+Aggregate return filers must use the new Aggregate
+Return Filers Only section on Form 943 to identify whether
+they’re filing an aggregate return as a section 3504 agent,
+certified professional employer organization (CPEO), or
+other third party. For more information about these types
+of aggregate return filers, see Certification program for
+professional employer organizations (PEOs) and
+Aggregate Form 943 filers, later. For more information
+about completing this new section on Form 943, see
+Aggregate Return Filers Only, later.
+Direct deposit of Form 943 refund is now available.
+Executive Order (EO) 14247, Modernizing Payments To
+and From America’s Bank Account, issued on March 25,
+2025, promotes operational efficiency by mandating the
+transition to electronic payments for all federal
+disbursements. Accordingly, the IRS will now issue Form
+943 tax refunds by direct deposit. Direct deposit is a fast,
+simple, safe, and secure way to have your refund
+deposited automatically to your checking or savings
+account. Instead of a direct deposit refund, you can still
+choose to have your Form 943 overpayment applied to
+your next return by checking the appropriate box on
+line 16b. For more information, see the instructions for
+line 16b and Direct Deposit, later.
+Make balance due payments electronically. EO 14247
+also promotes operational efficiency by mandating the
+transition to electronic payments for all payments made to
+the federal government. Therefore, pay your balance due
+on Form 943 electronically. There are several easy, safe,
+and secure ways to pay your balance due electronically.
+For more information, see the instructions for line 15, later.
+Form 943 return transcripts are now available electronically. You can now access your Form 943 return
+transcript for tax years 2023 and later using your IRS
+business tax account. For more information, go to
+
+Dec 1, 2025
+
+Withholding on qualified overtime compensation.
+For tax years beginning after 2024, and ending before
+2029, P.L. 119-21, commonly known as the One Big
+Beautiful Bill Act, allows individuals (employees and other
+workers not treated as employees) to deduct up to
+$12,500 ($25,000 if married filing jointly) of qualified
+overtime compensation on their income tax returns.
+Qualified overtime is compensation that exceeds the
+regular rate of pay (such as the “half” portion of
+time-and-a-half compensation) that is required to be paid
+to an individual under section 7 of the Fair Labor
+Standards Act (FLSA) of 1938. The FLSA provides that
+employers must generally pay covered, nonexempt
+employees at least one-and-a-half times their regular rate
+of pay for hours worked over 40 hours per week. For more
+information about overtime compensation, go to dol.gov/
+agencies/whd/fact-sheets/12-agricultural-employmentflsa. Employers must use an employee’s updated Form
+W-4, Employee’s Withholding Certificate, if one is
+submitted by the employee, and the federal income tax
+withholding procedures in Pub. 15-T, Federal Income Tax
+Withholding Methods, to allow the employee to account
+for their expected deduction and receive more money in
+each paycheck instead of waiting until filing their income
+tax return to receive the full benefit of this deduction.
+Overtime compensation is still generally subject to both
+the employer share and employee share of social security
+tax and Medicare tax.
+Employers and other payers must file information
+returns (for example, Forms W-2, 1099-MISC, and
+1099-NEC) with the Social Security Administration (SSA)
+or IRS, as applicable, and furnish statements to overtime
+recipients showing qualified overtime compensation paid
+during the year. However, the IRS has provided transition
+relief to employers and payers for the tax year 2025
+reporting requirements. For more information, see Notice
+2025-62, 2025-48 I.R.B. 740, available at IRS.gov/irb/
+2025-48_IRB#NOT-2025-62.
+
+Reminders
+References applicable to other forms. Unless
+otherwise noted, references throughout these instructions
+to Form W-2 include Forms W-2AS, W-2CM, W-2GU,
+W-2VI, and 499R-2/W-2PR; references to Form W-2c
+include Form 499R-2c/W-2cPR; references to Form W-3
+
+Instructions for Form 943 (2025) Catalog Number 25976L
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+include Form W-3SS and Form W-3 (PR); and references
+to Form W-3c include Form W-3C (PR).
+The COVID-19 related credit for qualified sick and
+family leave wages is limited to leave taken after
+March 31, 2020, and before October 1, 2021, and may
+no longer be claimed on Form 943. Generally, the
+credit for qualified sick and family leave wages, as
+enacted under the Families First Coronavirus Response
+Act (FFCRA) and amended and extended by the
+COVID-related Tax Relief Act of 2020, for leave taken after
+March 31, 2020, and before April 1, 2021, and the credit
+for qualified sick and family leave wages under sections
+3131, 3132, and 3133 of the Internal Revenue Code, as
+enacted under the American Rescue Plan Act of 2021 (the
+ARP), for leave taken after March 31, 2021, and before
+October 1, 2021, have expired. However, employers that
+pay qualified sick and family leave wages in 2025 for leave
+taken after March 31, 2020, and before October 1, 2021,
+are eligible to claim a credit for qualified sick and family
+leave wages in 2025. Effective for tax years beginning
+after 2023, the lines used to claim the credit for qualified
+sick and family leave wages have been removed from
+Form 943 because it would be extremely rare for an
+employer to pay wages after 2023 for qualified sick and
+family leave taken after March 31, 2020, and before
+October 1, 2021. Instead, if you’re eligible to claim the
+credit for qualified sick and family leave wages because
+you paid the wages in 2025 for an earlier applicable leave
+period, file Form 943-X after filing Form 943, to claim the
+credit for qualified sick and family leave wages paid in
+2025. Filing a Form 943-X before filing a Form 943 for the
+year may result in errors or delays in processing your Form
+943-X.
+Qualified small business payroll tax credit for increasing research activities. For tax years beginning
+before 2023, a qualified small business may elect to claim
+up to $250,000 of its credit for increasing research
+activities as a payroll tax credit. The Inflation Reduction
+Act of 2022 (the IRA) increases the election amount to
+$500,000 for tax years beginning after 2022. The payroll
+tax credit election must be made on or before the due date
+of the originally filed income tax return (including
+extensions). The portion of the credit used against payroll
+taxes is allowed in the first calendar quarter beginning
+after the date that the qualified small business filed its
+income tax return. The election and determination of the
+credit amount that will be used against the employer’s
+payroll taxes are made on Form 6765, Credit for
+Increasing Research Activities. The amount from Form
+6765 must then be reported on Form 8974, Qualified
+Small Business Payroll Tax Credit for Increasing Research
+Activities.
+Starting in the first quarter of 2023, the payroll tax credit
+is first used to reduce the employer share of social
+security tax up to $250,000 per quarter and any remaining
+credit reduces the employer share of Medicare tax for the
+quarter. Any remaining credit, after reducing the employer
+share of social security tax and the employer share of
+Medicare tax, is then carried forward to the next quarter.
+Form 8974 is used to determine the amount of the credit
+that can be used in the current quarter. The amount from
+Form 8974, line 12 or, if applicable, line 17, is reported on
+2
+
+Form 943, line 12. For more information about the payroll
+tax credit, see the Instructions for Form 8974 and go to
+IRS.gov/ResearchPayrollTC. Also, see Adjusting tax
+liability for the qualified small business payroll tax credit for
+increasing research activities (line 12), later.
+Pub. 51 discontinued after 2023. Pub. 51, Agricultural
+Employer’s Tax Guide, was discontinued for tax years
+beginning after 2023. Instead, information specific to
+agricultural employers is included in Pub. 15, Employer’s
+Tax Guide. If you prefer Pub. 15 in Spanish, see Pub. 15
+(sp).
+Forms in Spanish. Many forms and instructions
+discussed in these instructions have Spanish-language
+versions available for employers and employees. Some
+examples include Form 943 (sp), Form 944 (sp), Form
+SS-4 (sp), and Form W-4 (sp). Although these instructions
+don’t reference Spanish-language forms and instructions
+in each instance that one is available, you can see Pub. 15
+(sp) and go to IRS.gov/SpanishForms to determine if a
+Spanish-language version is available.
+Certification program for professional employer organizations (PEOs). The Stephen Beck Jr., Achieving a
+Better Life Experience (ABLE) Act of 2014 required the
+IRS to establish a voluntary certification program for
+PEOs. PEOs handle various payroll administration and tax
+reporting responsibilities for their business clients and are
+typically paid a fee based on payroll costs. To become and
+remain certified under the certification program, CPEOs
+must meet various requirements described in sections
+3511 and 7705 and related published guidance.
+Certification as a CPEO may affect the employment tax
+liabilities of both the CPEO and its customers. A CPEO is
+generally treated for employment tax purposes as the
+employer of any individual who performs services for a
+customer of the CPEO and is covered by a contract
+described in section 7705(e)(2) between the CPEO and
+the customer (CPEO contract), but only for wages and
+other compensation paid to the individual by the CPEO. To
+become a CPEO, the organization must apply through the
+IRS Online Registration System. For more information or
+to apply to become a CPEO, go to IRS.gov/CPEO.
+CPEOs must generally file Form 943 and Schedule R
+(Form 943), Allocation Schedule for Aggregate Form 943
+Filers, electronically. For more information about a CPEO’s
+requirement to file electronically, see Rev. Proc. 2023-18,
+2023-13 I.R.B. 605, available at IRS.gov/irb/
+2023-13_IRB#REV-PROC-2023-18.
+Outsourcing payroll duties. Generally, as an employer,
+you’re responsible to ensure that tax returns are filed and
+deposits and payments are made, even if you contract
+with a third party to perform these acts. You remain
+responsible if the third party fails to perform any required
+action. Before you choose to outsource any of your payroll
+and related tax duties (that is, withholding, reporting, and
+paying over social security, Medicare, FUTA, and income
+taxes) to a third-party payer, such as a payroll service
+provider or reporting agent, go to IRS.gov/
+OutsourcingPayrollDuties for helpful information on this
+topic. If a CPEO pays wages and other compensation to
+an individual performing services for you, and the services
+are covered by a CPEO contract, then the CPEO is
+Instructions for Form 943 (2025)
+
+generally treated for employment tax purposes as the
+employer, but only for wages and other compensation
+paid to the individual by the CPEO. However, with respect
+to certain employees covered by a CPEO contract, you
+may also be treated as an employer of the employees
+and, consequently, may also be liable for federal
+employment taxes imposed on wages and other
+compensation paid by the CPEO to such employees. For
+more information on the different types of third-party payer
+arrangements, see section 16 of Pub. 15.
+Aggregate Form 943 filers. Approved section 3504
+agents and CPEOs must complete and file Schedule R
+(Form 943) when filing an aggregate Form 943. Aggregate
+Forms 943 are filed by agents approved by the IRS under
+section 3504. To request approval to act as an agent for
+an employer, the agent files Form 2678 with the IRS
+unless you’re a state or local government agency acting
+as an agent under the special procedures provided in Rev.
+Proc. 2013-39, 2013-52 I.R.B. 830, available at
+IRS.gov/irb/2013-52_IRB#RP-2013-39.
+Aggregate Forms 943 are also filed by CPEOs
+approved by the IRS under section 7705. To become a
+CPEO, the organization must apply through the IRS
+Online Registration System at IRS.gov/CPEO. CPEOs file
+Form 8973, Certified Professional Employer Organization/
+Customer Reporting Agreement, to notify the IRS that they
+started or ended a service contract with a customer.
+CPEOs must generally file Form 943 and Schedule R
+(Form 943) electronically. For more information about a
+CPEO’s requirement to file electronically, see Rev. Proc.
+2023-18.
+Other third-party payers that file aggregate Forms 943,
+such as non-certified PEOs, must complete and file
+Schedule R (Form 943) if they have clients that are
+claiming the qualified small business payroll tax credit for
+increasing research activities.
+If you’re filing an aggregate Form 943, you must identify
+yourself on Form 943. For more information, see
+Aggregate Return Filers Only, later.
+Tip: If both an employer and a section 3504 authorized
+agent (or CPEO or other third-party payer) paid wages to
+an employee during the year, both the employer and the
+section 3504 authorized agent (or CPEO or other
+third-party payer, if applicable) should file Form 943
+reporting the wages each entity paid to the employee
+during the year and issue Forms W-2 reporting the wages
+each entity paid to the employee during the year.
+Work opportunity tax credit for qualified tax-exempt
+organizations hiring qualified veterans. Qualified
+tax-exempt organizations that hire eligible unemployed
+veterans may be able to claim the work opportunity tax
+credit against their payroll tax liability using Form 5884-C.
+For more information, go to IRS.gov/WOTC.
+Correcting a previously filed Form 943. If you discover
+an error on a previously filed Form 943, or if you otherwise
+need to amend a previously filed Form 943, make the
+correction using Form 943-X. Form 943-X is filed
+separately from Form 943. For more information, see the
+Instructions for Form 943-X, section 13 of Pub. 15, or go to
+IRS.gov/CorrectingEmploymentTaxes.
+Instructions for Form 943 (2025)
+
+If you change your business name, business address, or responsible party. Notify the IRS immediately
+if you change your business name, business address, or
+responsible party.
+• Write to the IRS office where you file your returns (using
+the Without a payment address under Where Should You
+File, later) to notify the IRS of any business name change.
+See Pub. 1635 to see if you need to apply for a new
+employer identification number (EIN).
+• Complete and mail Form 8822-B to notify the IRS of a
+business address or responsible party change. Don’t mail
+Form 8822-B with your Form 943. For a definition of
+“responsible party,” see the Instructions for Form SS-4.
+Federal tax deposits must be made by electronic
+funds transfer (EFT). You must use EFT to make all
+federal tax deposits. An EFT can be made using the
+Electronic Federal Tax Payment System (EFTPS), IRS
+Direct Pay, or your IRS business tax account. If you don’t
+want to use one of these methods, you can arrange for
+your tax professional, financial institution, payroll service,
+or other trusted third party to make electronic deposits on
+your behalf. Also, you may arrange for your financial
+institution to initiate a same-day wire payment on your
+behalf. EFTPS is a free service provided by the
+Department of the Treasury. Payments made using IRS
+Direct Pay or through your IRS business tax account are
+also free. Services provided by your tax professional,
+financial institution, payroll service, or other third party
+may have a fee.
+For more information on making federal tax deposits,
+see section 11 of Pub. 15.
+For more information about IRS Direct Pay, go to
+IRS.gov/DirectPay. For more information about making a
+payment through your IRS business tax account, go to
+IRS.gov/BusinessAccount. To get more information about
+EFTPS or to enroll in EFTPS, go to EFTPS.gov or call one
+of the following numbers.
+• 800-555-4477
+• 800-244-4829 (Spanish)
+• 303-967-5916 (toll call)
+To contact EFTPS using Telecommunications Relay
+Services (TRS) for people who are deaf, hard of hearing,
+or have a speech disability, dial 711 and then provide the
+TRS assistant the 800-555-4477 number above or
+800-733-4829. Additional information about EFTPS is also
+available in Pub. 966.
+Caution: EFTPS accepts same day payments of $1
+million or less if the payment is submitted before 3:00 p.m.
+Eastern time on a business day. If your payment is more
+than $1 million, you must submit the deposit by 8:00 p.m.
+Eastern time the day before the date the deposit is due.
+Same-day wire payment option. If you fail to submit a
+timely deposit transaction on EFTPS, you can still make
+your deposit on time by using the Federal Tax Collection
+Service (FTCS) to make a same-day wire payment. To use
+the same-day wire payment method, you will need to
+make arrangements with your financial institution ahead of
+time. Check with your financial institution regarding
+availability, deadlines, and costs. Your financial institution
+may charge you a fee for payments made this way. To
+learn more about the information you will need to give your
+3
+
+financial institution to make a same-day wire payment, go
+to IRS.gov/SameDayWire.
+Timeliness of federal tax deposits. If a deposit is
+required to be made on a day that isn’t a business day, the
+deposit is considered timely if it is made by the close of
+the next business day. A business day is any day other
+than a Saturday, Sunday, or legal holiday. The term “legal
+holiday” for deposit purposes includes only those legal
+holidays in the District of Columbia. Legal holidays in the
+District of Columbia are provided in Pub. 15.
+Electronic filing and payment. Businesses can enjoy
+the benefits of filing tax returns and paying their federal
+taxes electronically. Whether you rely on a tax
+professional or handle your own taxes, the IRS offers you
+convenient and secure programs to make filing and paying
+easier. Spend less time worrying about taxes and more
+time running your business. Use e-file and electronic
+payment options to your benefit.
+• For e-file, go to IRS.gov/EmploymentEfile for additional
+information. A fee may be charged to file electronically.
+• For electronic payment options see the instructions for
+line 15, later, and, go to IRS.gov/Pay.
+• For electronic filing of Forms W-2, Wage and Tax
+Statement, go to SSA.gov/employer. You may be required
+to file Forms W-2 electronically. For details, see the
+General Instructions for Forms W-2 and W-3. The SSA’s
+Business Services Online (BSO) is an independent
+program from the Government of Puerto Rico electronic
+filing system. Employers in Puerto Rico must go to
+Hacienda.pr.gov for additional information.
+Caution: If you’re filing your tax return or paying your
+federal taxes electronically, a valid EIN is required at the
+time the return is filed or the payment is made. If a valid
+EIN isn’t provided, the return or payment won’t be
+processed. This may result in penalties. See How Should
+You Complete Form 943, later, for more information about
+applying for an EIN.
+Electronic funds withdrawal (EFW). If you file Form
+943 electronically, you can e-file and use EFW to pay the
+balance due in a single step using tax preparation
+software or through a tax professional. However, don’t use
+EFW to make federal tax deposits. For more information
+on paying your taxes using EFW, go to IRS.gov/EFW.
+Credit or debit card payments. You can pay the
+balance due shown on Form 943 by credit or debit card.
+Your payment will be processed by a payment processor
+who will charge a processing fee. Don’t use a credit or
+debit card to make federal tax deposits. For more
+information on paying your taxes with a credit or debit
+card, go to IRS.gov/PayByCard.
+Online payment agreement. You may be eligible to
+apply for an installment agreement online if you can’t pay
+the full amount of tax you owe when you file your return.
+For more information, see What if you can’t pay in full,
+later.
+Paid preparers. If you use a paid preparer to complete
+Form 943, the paid preparer must complete and sign the
+paid preparer’s section of the form.
+Disregarded entities and qualified subchapter S subsidiaries (QSubs). Eligible single-owner disregarded
+4
+
+entities and QSubs are treated as separate entities for
+employment tax purposes. Eligible single-member entities
+that haven’t elected to be taxed as corporations must
+report and pay employment taxes on wages paid to their
+employees using the entities’ own names and EINs. See
+Regulations sections 1.1361-4(a)(7) and 301.7701-2(c)(2)
+(iv).
+Where can you get telephone help? For answers to
+your questions about completing Form 943 or tax deposit
+rules, call the IRS at 800-829-4933 or 800-829-4059
+(TDD/TTY for persons who are deaf, hard of hearing, or
+have a speech disability), Monday–Friday from 7:00 a.m.
+to 7:00 p.m. local time (Alaska and Hawaii follow Pacific
+time).
+Photographs of missing children. The IRS is a proud
+partner with the National Center for Missing & Exploited
+Children® (NCMEC). Photographs of missing children
+selected by the Center may appear in instructions on
+pages that would otherwise be blank. You can help bring
+these children home by looking at the photographs and
+calling 1-800-THE-LOST (1-800-843-5678) if you
+recognize a child.
+
+General Instructions
+Purpose of Form 943
+These instructions give you some background information
+about Form 943. They tell you who must file Form 943,
+how to complete it line by line, and when and where to file
+it.
+If you want more in-depth information about payroll tax
+topics relating to Form 943, see Pub. 15 or go to IRS.gov/
+EmploymentTaxes. For tax information relevant to
+agricultural employers, go to IRS.gov/
+AgricultureTaxCenter.
+Caution: References to federal income tax withholding
+don’t apply to employers in Puerto Rico unless you have
+employees who are subject to U.S. income tax
+withholding. Contact your local tax department for
+information about income tax withholding.
+Federal law requires you, as an employer, to withhold
+certain taxes from your employees’ pay. Each time you
+pay wages, you must withhold—or take out of your
+employees’ pay—certain amounts for federal income tax,
+social security tax, and Medicare tax. You must also
+withhold Additional Medicare Tax from wages you pay to
+an employee in excess of $200,000 in a calendar year.
+Under the withholding system, taxes withheld from your
+employees are credited to your employees in payment of
+their tax liabilities.
+Federal law also requires you to pay any liability for the
+employer share of social security tax and Medicare tax.
+This share of social security and Medicare taxes isn’t
+withheld from employees.
+If you have household employees working in your
+private home on your farm operated for a profit, they aren’t
+considered to be farm employees. To report social security
+tax, Medicare tax, Additional Medicare Tax, and federal
+Instructions for Form 943 (2025)
+
+income tax withholding on the wages of household
+employees, you may either:
+
+• File Schedule H (Form 1040) with your income tax
+return, or
+• Include the wages with your farm employees’ wages on
+Form 943.
+If you paid wages to other nonfarm workers, don’t
+report these on Form 943. Taxes on wages paid to
+nonfarm workers are reported on Form 941, Employer’s
+QUARTERLY Federal Tax Return; or Form 944,
+Employer’s ANNUAL Federal Tax Return. See Pub. 926 for
+more information about household employees.
+
+Who Must File Form 943?
+File Form 943 if you paid wages to one or more
+farmworkers and the wages were subject to federal
+income tax withholding or social security and Medicare
+taxes under the tests discussed next. For more
+information on farmworkers and wages, see Pub. 15.
+After you file your first Form 943, you must file a return
+for each year, even if you have no taxes to report, until you
+file a final return. You’re encouraged to file Form 943
+electronically. Go to IRS.gov/EmploymentEfile for more
+information on electronic filing.
+
+The $150 Test or the $2,500 Test
+
+All cash wages that you pay to farmworkers are subject to
+federal income tax withholding and social security and
+Medicare taxes for any calendar year for which you meet
+either of the tests listed next.
+
+• You pay an employee cash wages of $150 or more in a
+year for farmwork (count all wages paid on a time,
+piecework, or other basis). The $150 test applies
+separately to each farmworker that you employ. If you
+employ a family of workers, each member is treated
+separately. Don’t count wages paid by other employers.
+• The total (cash and noncash) wages that you pay to all
+farmworkers is $2,500 or more.
+If the $2,500-or-more test for the group isn’t met, the
+$150-or-more test for an individual still applies. Similarly, if
+the $150-or-more test is not met for any individual, the
+$2,500-or-more test for the group still applies.
+Exceptions. Special rules apply to certain
+hand-harvest laborers who receive less than $150 in
+annual cash wages. For more information, see section 9 of
+Pub. 15.
+
+Final Return
+
+If you stop paying wages during the year and don’t expect
+to pay wages again, file a final return for 2025. Be sure to
+check the box above line 1 on the form indicating that you
+don’t have to file returns in the future. If you later restart
+paying wages, then resume filing Form 943.
+
+Attach a statement to your final return showing the
+name of the person keeping the payroll records and the
+address where these records will be kept. If the business
+has been sold or transferred to another person, the
+statement should include the name and address of such
+person and the date on which the sale or transfer took
+Instructions for Form 943 (2025)
+
+place. If no sale or transfer occurred, or you don’t know
+the name of the person to whom the business was sold or
+transferred, that fact should be included in the statement.
+
+Aggregate Return Filers Only
+
+If you’re filing an aggregate Form 943, check the
+appropriate box to identify yourself. An aggregate Form
+943 is a return that combines amounts from multiple
+clients or customers onto a single Form 943.
+Section 3504 Agent. Check this box if you’re a section
+3504 agent filing an aggregate Form 943. You must attach
+Schedule R (Form 943) to your aggregate Form 943. For
+more information about section 3504 agents, see
+Aggregate Form 943 filers, earlier, and section 16 of Pub.
+15.
+Certified Professional Employer Organization
+(CPEO). Check this box if you’re a CPEO filing an
+aggregate Form 943 on behalf of your customers. You
+must attach Schedule R (Form 943) to your aggregate
+Form 943. For more information about CPEOs, see
+Certification program for professional employer
+organizations (PEOs), earlier, and section 16 of Pub.15
+Other Third Party. If you’re filing an aggregate Form 943
+but you’re not a section 3504 agent or a CPEO, you must
+check this box. For example, a noncertified PEO filing an
+aggregate Form 943 must check this box.
+
+When Must You File?
+For 2025, file Form 943 by February 2, 2026. However, if
+you made deposits on time in full payment of the taxes
+due for the year, you may file the return by February 10,
+2026.
+File Form 943 only once for each calendar year. If you
+filed Form 943 electronically, don’t file a paper Form 943.
+For more information about filing Form 943 electronically,
+see Electronic filing and payment, earlier.
+If we receive Form 943 after the due date, we will treat
+Form 943 as filed on time if the envelope containing Form
+943 is properly addressed, contains sufficient postage,
+and is postmarked by the U.S. Postal Service (USPS) on
+or before the due date, or sent by an IRS-designated
+private delivery service (PDS) on or before the due date. If
+you don’t follow these guidelines, we will generally
+consider Form 943 filed when it is actually received. For
+more information about PDSs, see Where Should You
+File, later.
+
+Forms W-2 and W-3
+
+By February 2, 2026, give Form W-2 to each employee
+who was working for you at the end of 2025. If an
+employee stops working for you before the end of the year,
+give the employee Form W-2 any time after employment
+ends but no later than February 2, 2026. If the employee
+asks you for Form W-2, give the employee the completed
+form within 30 days of the request or the last wage
+payment, whichever is later.
+File Copy A of all Forms W-2 with Form W-3,
+Transmittal of Wage and Tax Statements, with the SSA by
+February 2, 2026. For electronic filing of Forms W-2, go to
+SSA.gov/employer. You may be required to file Forms W-2
+5
+
+electronically. For details, see the General Instructions for
+Forms W-2 and W-3.
+
+“Jamie’s Farm”on the Trade name line. Leave the Trade
+name line blank if it is the same as your Name line.
+
+Compensation paid to H-2A visa holders. Report
+compensation of $600 or more paid to foreign agricultural
+workers who entered the country on H-2A visas in box 1 of
+Form W-2. Compensation paid to H-2A workers for
+agricultural labor performed in connection with H-2A visas
+isn’t subject to social security and Medicare taxes and
+therefore shouldn’t be reported as wages subject to social
+security tax (line 2), Medicare tax (line 4), or Additional
+Medicare Tax withholding (line 6) on Form 943, and
+shouldn’t be reported as social security wages (box 3) or
+Medicare wages (box 5) on Form W-2 (boxes 20 and 22,
+respectively, of Form 499R-2/W-2PR).
+An employer isn’t required to withhold federal income
+tax from compensation paid to an H-2A worker for
+agricultural labor performed in connection with this visa
+unless the worker asks for withholding and the employer
+agrees. In this case, the worker must give the employer a
+completed Form W-4. Federal income tax withheld is
+reported on Form 943, line 8, and in box 2 of Form W-2.
+These reporting rules apply when the H-2A worker
+provides their taxpayer identification number (TIN) to the
+employer. For the rules relating to backup withholding and
+reporting when the H-2A worker doesn’t provide a TIN,
+see the Instructions for Forms 1099-MISC and 1099-NEC
+and the Instructions for Form 945. For more information on
+foreign agricultural workers on H-2A visas, go to IRS.gov/
+H2A.
+
+If you use a tax preparer to complete Form 943, make
+sure the preparer uses your correct business name and
+EIN.
+
+Note: References to federal income tax withholding don’t
+apply to employers in U.S. territories, unless you have
+employees who are subject to U.S. income tax
+withholding.
+
+Forms 1099-MISC and 1099-NEC
+
+Both paper and electronically filed Form 1099-MISC,
+Miscellaneous Information, and Form 1099-NEC,
+Nonemployee Compensation, must be filed with the IRS
+by February 2, 2026. Form 1099-MISC is used to report
+rents paid in your farming business, and Form 1099-NEC
+is generally used to report payments to an individual who
+isn’t your employee. Payments made to corporations for
+medical and health care payments, including payments
+made to veterinarians, must generally be reported on
+Form 1099-MISC. Compensation of $600 or more paid in
+a calendar year to an H-2A visa agricultural worker who
+didn’t give you a valid TIN is also reported on Form
+1099-MISC; you must withhold federal income tax from
+these payments under the backup withholding rules. For
+more information about filing Forms 1099-MISC and
+1099-NEC, see the Instructions for Forms 1099-MISC and
+1099-NEC.
+
+How Should You Complete Form 943?
+Enter your EIN, name, and address in the spaces
+provided. Don’t use your social security number (SSN) or
+individual taxpayer identification number (ITIN). Generally,
+enter the business (legal) name you used when you
+applied for your EIN. For example, if you’re a sole
+proprietor, enter “Jamie Smith” on the Name line and
+
+6
+
+If you don’t have an EIN, you may apply for one online
+by going to IRS.gov/EIN. You may also apply for an EIN by
+faxing or mailing Form SS-4 to the IRS. If the principal
+business was created or organized outside of the United
+States or U.S. territories, you may also apply for an EIN by
+calling 267-941-1099 (toll call). If you have applied for an
+EIN but don’t have your EIN by the time a return is due, file
+a paper return and write “Applied For” and the date you
+applied in the space shown for the number.
+Caution: If you’re filing your tax return electronically, a
+valid EIN is required at the time the return is filed. If a valid
+EIN isn’t provided, the return won’t be accepted. This may
+result in penalties.
+Always be sure the EIN on the form you file exactly
+matches the EIN the IRS assigned to your business. Don’t
+use your SSN or ITIN on forms that ask for an EIN. If you
+used an EIN (including a prior owner’s EIN) on Form 943
+that is different from the EIN reported on Form W-3, see
+Box h—Other EIN used this year in the General
+Instructions for Forms W-2 and W-3 (if different from what
+was reported on Form W-3 (PR), see Box f: Other EIN
+used this year in the General Instructions for Forms W-3
+(PR) and W-3C (PR)). Filing a Form 943 with an incorrect
+EIN or using another business’s EIN may result in
+penalties and delays in processing your return.
+
+Completing Form 943
+
+Make entries on Form 943 as follows to enable accurate
+processing.
+• Don’t enter dollar signs and decimal points. Commas
+are optional. Report dollars to the left of the preprinted
+decimal point and cents to the right of it. Don’t round
+entries to whole dollars. Always show an amount for cents,
+even if it is zero.
+• Enter negative amounts using a minus sign (if possible).
+Otherwise, use parentheses.
+• Enter your name and EIN on all pages.
+• Staple multiple sheets in the upper-left corner when
+filing.
+
+Reconciliation of Form 943 to Forms W-2 and
+W-3
+
+Certain amounts reported on Form 943 for 2025 should
+agree with the Form W-2 totals reported on the 2025 Form
+W-3. The amounts from Form 943 that should agree with
+the related boxes on Form W-3 are federal income tax
+withheld (line 8 and box 2), social security wages (line 2
+and box 3), and Medicare wages (line 4 and box 5). If the
+amounts don’t agree, you may be contacted by the IRS or
+the SSA. For more information, see section 12 of Pub. 15.
+Keep all records that show why the totals don’t match.
+Note: If filing Form 499R-2/W-2PR, make sure the
+amounts reported on Form 943 agree with the Form
+499R-2/W-2PR totals reported on the 2025 Form W-3
+(PR). The amounts from Form 943 that should agree with
+the related boxes on Form W-3 (PR) are social security
+Instructions for Form 943 (2025)
+
+wages (line 2 and box 10) and Medicare wages (line 4 and
+box 12a).
+
+Where Should You File?
+You’re encouraged to file Form 943 electronically. Go to
+IRS.gov/EmploymentEfile for more information on
+electronic filing. If you file a paper return, where you file
+depends on whether you include a payment with Form
+943. Mail your return to the address listed for your location
+in the table that follows.
+
+PDSs can’t deliver to P.O. boxes. You must use the
+USPS to mail an item to a P.O. box address. Go to
+IRS.gov/PDS for the current list of PDSs. For the IRS
+mailing address to use if you’re using a PDS, go to
+IRS.gov/PDSstreetAddresses. Select the mailing address
+listed on the webpage that is in the same state as the
+address to which you would mail returns filed without a
+payment, as shown next.
+
+Mailing Addresses for Form 943
+If you’re in...
+
+Without a payment...
+
+With a payment...
+
+Connecticut, Delaware, District of Columbia, Georgia, Illinois, Indiana,
+Kentucky, Maine, Maryland, Massachusetts, Michigan, New Hampshire,
+New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode
+Island, South Carolina, Tennessee, Vermont, Virginia, West Virginia,
+Wisconsin
+
+Department of the Treasury
+Internal Revenue Service
+Kansas City, MO 64999-0008
+
+Internal Revenue Service
+P.O. Box 932200
+Louisville, KY 40293-2200
+
+Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida,
+Hawaii, Idaho, Iowa, Kansas, Louisiana, Minnesota, Mississippi,
+Missouri, Montana, Nebraska, Nevada, New Mexico, North Dakota,
+Oklahoma, Oregon, South Dakota, Texas, Utah, Washington, Wyoming
+
+Department of the Treasury
+Internal Revenue Service
+Ogden, UT 84201-0008
+
+Internal Revenue Service
+P.O. Box 932200
+Louisville, KY 40293-2200
+
+No legal residence or principal place of business in any state, including
+employers in Puerto Rico
+
+Internal Revenue Service
+P.O. Box 409101
+Ogden, UT 84409
+
+Internal Revenue Service
+P.O. Box 932200
+Louisville, KY 40293-2200
+
+Special filing address for exempt organizations; federal, state, and
+local governmental entities; and Indian tribal governmental entities,
+regardless of location
+
+Department of the Treasury
+Internal Revenue Service
+Ogden, UT 84201-0008
+
+Internal Revenue Service
+P.O. Box 932200
+Louisville, KY 40293-2200
+
+Caution: Your filing address may have changed from that
+used to file your employment tax return in prior years.
+Don’t send Form 943 or any payments to the SSA.
+
+Depositing Your Taxes
+Caution: You must deposit all depository taxes
+electronically by EFT. For more information, see Federal
+tax deposits must be made by electronic funds transfer
+(EFT) under Reminders, earlier.
+
+Must You Deposit Your Taxes?
+
+You may have to deposit the federal income taxes you
+withheld and both the employer and employee social
+security taxes and Medicare taxes.
+
+• If your total taxes after adjustments and
+
+nonrefundable credits (line 13) are less than $2,500
+for the year, you can pay the tax due with your return
+if you file on time. You don’t have to make a deposit. To
+avoid a penalty, you must pay any amount due in full with a
+timely filed return or you must deposit any amount you
+owe by the due date of the return. For more information on
+paying with a timely filed return, see the instructions for
+line 15, later.
+• If your total taxes after adjustments and
+nonrefundable credits (line 13) are $2,500 or more
+for the year. You must make deposits by EFT throughout
+the year in accordance with your deposit schedule. There
+are two deposit schedules—monthly or semiweekly—for
+determining when you must deposit. Before the beginning
+of each calendar year, you must determine which of the
+two deposit schedules you must use. See section 11 of
+Instructions for Form 943 (2025)
+
+Pub. 15 for information and rules concerning federal tax
+deposits and to determine your status as a monthly or
+semiweekly schedule depositor.
+Caution: If you’re a monthly schedule depositor and
+accumulate a $100,000 tax liability on any day during the
+deposit period, you become a semiweekly schedule
+depositor on the next day and remain so for at least the
+rest of the calendar year and for the following calendar
+year. See $100,000 Next-Day Deposit Rule in section 11
+of Pub. 15 for more information. The $100,000 tax liability
+threshold requiring a next-day deposit is determined
+before you consider any reduction of your liability for
+nonrefundable credits.
+
+What About Penalties and Interest?
+Avoiding Penalties and Interest
+
+You can avoid paying penalties and interest if you do all of
+the following.
+• Deposit or pay your taxes when they are due.
+• File your fully completed Form 943 on time.
+• Report your tax liability accurately.
+• Submit valid tax payments.
+• Furnish accurate Forms W-2 to employees.
+• File Form W-3 and Copy A of Forms W-2 with the SSA
+on time and accurately.
+• File Form 1099-MISC and Form 1099-NEC and furnish
+payee statements on time and accurately.
+Penalties and interest are charged on taxes paid late
+and returns filed late at a rate set by law. See sections 11
+and 12 of Pub. 15 for details.
+7
+
+Use Form 843 to request abatement of assessed
+penalties or interest. Don’t request abatement of
+assessed penalties or interest on any other form.
+If you receive a notice about a penalty after you file your
+return, reply to the notice with an explanation and we will
+determine if you meet reasonable-cause criteria. Don’t
+attach an explanation when you file your return.
+Caution: If federal income, social security, and Medicare
+taxes that must be withheld (that is, trust fund taxes) aren’t
+withheld or aren’t deposited or paid to the United States
+Treasury, the trust fund recovery penalty may apply. The
+penalty is 100% of the unpaid trust fund tax. If these
+unpaid taxes can’t be immediately collected from the
+employer or business, the trust fund recovery penalty may
+be imposed on all persons who are determined by the IRS
+to be responsible for collecting, accounting for, or paying
+over these taxes, and who acted willfully in not doing so.
+For more information, see section 11 of Pub. 15. The trust
+fund recovery penalty won’t apply to any amount of trust
+fund taxes an employer holds back in anticipation of any
+credits they are entitled to.
+
+Specific Instructions
+Line 1. Number of Agricultural
+Employees
+Enter the number of agricultural employees on your payroll
+during the pay period that included March 12, 2025. Don’t
+include:
+• Household employees,
+• Employees in nonpay status for the pay period,
+• Pensioners, or
+• Active members of the U.S. Armed Forces.
+
+Line 2. Wages Subject to Social
+Security Tax
+
+Enter the total cash wages, sick pay, and taxable fringe
+benefits subject to social security taxes you paid to your
+employees for farmwork during the calendar year. For this
+purpose, sick pay includes payments made by an
+insurance company to your employees for which you
+received timely notice from the insurance company. See
+section 6 of Pub. 15-A for more information about
+reporting sick pay. See the instructions for line 10 for an
+adjustment that you may need to make on Form 943 for
+sick pay.
+
+Enter the amount before payroll deductions. Cash
+wages include checks, money orders, etc. Don’t include
+the value of noncash items, such as food or lodging, or
+pay for services other than farmwork. See section 5 of
+Pub. 15 for information on cash and noncash wages. See
+Purpose of Form 943, earlier, for household employee
+information.
+For 2025, the rate of social security tax on taxable
+wages is 6.2% (0.062) each for the employer and
+employee. Stop paying social security tax on and entering
+an employee’s wages on line 2 when the employee’s
+taxable wages reach $176,100 for the year. However,
+continue to withhold income and Medicare taxes for the
+whole year on all wages, even when the social security
+8
+
+wage base limit of $176,100 has been reached. If you, as
+a qualifying employer, receive an approved Form 4029,
+Application for Exemption From Social Security and
+Medicare Taxes and Waiver of Benefits, from one or more
+of your employees, enter “Form 4029” on the dotted line
+next to the entry space.
+
+Line 3. Social Security Tax
+
+Multiply line 2 by 12.4% (0.124) and enter the result on
+line 3.
+
+Line 4. Wages Subject to Medicare
+Tax
+
+Enter the total cash wages, sick pay, and taxable fringe
+benefits that are subject to Medicare tax that you paid to
+your employees for farmwork during the calendar year.
+Enter the amount before deductions. Don’t include the
+value of noncash items, such as food or lodging, or pay for
+services other than farmwork. Unlike social security
+wages, there is no limit on the amount of wages subject to
+Medicare tax. If you, as a qualifying employer, receive an
+approved Form 4029 from one or more of your employees,
+enter “Form 4029” on the dotted line next to the entry
+space.
+
+Line 5. Medicare Tax
+
+Multiply line 4 by 2.9% (0.029) and enter the result on
+line 5.
+
+Line 6. Wages Subject to Additional
+Medicare Tax Withholding
+
+Enter all wages, sick pay, and taxable fringe benefits that
+are subject to Additional Medicare Tax withholding. You’re
+required to begin withholding Additional Medicare Tax in
+the pay period in which you pay wages in excess of
+$200,000 to an employee and continue to withhold it each
+pay period until the end of the calendar year. Additional
+Medicare Tax is only imposed on the employee. There is
+no employer share of Additional Medicare Tax. All wages
+that are subject to Medicare tax are subject to Additional
+Medicare Tax withholding if paid in excess of the $200,000
+withholding threshold.
+For more information on what wages are subject to
+Medicare tax, see the chart, Special Rules for Various
+Types of Services and Payments, in section 15 of Pub. 15.
+For more information on Additional Medicare Tax, go to
+IRS.gov/ADMTfaqs.
+
+Line 7. Additional Medicare Tax
+Withholding
+
+Multiply line 6 by 0.9% (0.009) and enter the result on
+line 7.
+
+Line 8. Federal Income Tax Withheld
+Caution: References to federal income tax withholding
+don’t apply to employers in U.S. territories, unless you
+have employees who are subject to U.S. income tax
+withholding. Contact your local tax department for
+information about income tax withholding.
+Enter the federal income tax you withheld from your
+employees on this year’s wages. Generally, you must
+Instructions for Form 943 (2025)
+
+withhold federal income tax from employees from whom
+you withhold social security and Medicare taxes. See
+section 9 of Pub. 15 for more information on withholding
+rules.
+
+Line 9. Total Taxes Before
+Adjustments
+
+Add the total social security tax (line 3), Medicare tax
+(line 5), Additional Medicare Tax withholding (line 7), and
+federal income tax withheld (line 8). Enter the result on
+line 9.
+
+Line 10. Current Year’s Adjustments
+Use line 10 to:
+• Adjust for rounding of fractions of cents, or
+• Adjust for the uncollected employee share of social
+security and Medicare taxes on third-party sick pay or
+group-term life insurance premiums paid for former
+employees. See section 13 of Pub. 15.
+
+Use a minus sign (if possible) to show an adjustment
+that decreases the total taxes shown on line 9. Otherwise,
+use parentheses.
+Adjustment for fractions of cents. If there is a small
+difference between total taxes after adjustments and
+nonrefundable credits (line 13) and total deposits (line 14),
+it may be caused by rounding to the nearest cent each
+time you figured payroll. This rounding occurs when you
+figure the amount of social security and Medicare taxes to
+be withheld from each employee’s wages. If the
+fractions-of-cents adjustment is the only entry on line 10,
+enter “Fractions Only” on the dotted line to the left of the
+entry space for line 10. This adjustment may be a positive
+or a negative adjustment.
+Adjustment for sick pay. If your third-party payer of sick
+pay that isn’t your agent (for example, an insurance
+company) transfers the liability for the employer share of
+the social security and Medicare taxes to you, enter a
+negative adjustment on line 10 for the employee share of
+social security and Medicare taxes that were withheld and
+deposited by your third-party sick pay payer on the sick
+pay. If you’re the third-party sick pay payer and you
+transferred the liability for the employer share of the social
+security and Medicare taxes to the employer, enter a
+negative adjustment on line 10 for any employer share of
+these taxes required to be paid by the employer. The sick
+pay should be included on line 2, line 4, and, if the
+withholding threshold is met, line 6.
+No adjustment is reported on line 10 for sick pay that is
+paid through a third party as an employer’s agent. An
+employer’s agent bears no insurance risk and is
+reimbursed on a cost-plus-fee basis for payment of sick
+pay and similar amounts. If an employer uses an agent to
+pay sick pay, the employer reports the wages on line 2,
+line 4, and, if the withholding threshold is met, line 6,
+unless the employer has an agency agreement with the
+third-party payer that requires the third-party payer to do
+the collecting, reporting, and/or paying or depositing
+employment taxes on the sick pay. See section 6 of Pub.
+15-A for more information about reporting sick pay.
+
+Line 11. Total Taxes After
+Adjustments
+
+Combine the amounts shown on lines 9 and 10 and enter
+the result on line 11.
+
+Line 12. Qualified Small Business
+Payroll Tax Credit for Increasing
+Research Activities
+
+Enter the amount of the credit from Form 8974, line 12 or,
+if applicable, line 17. If you enter an amount on line 12,
+you must attach Form 8974.
+
+Line 13. Total Taxes After
+Adjustments and Nonrefundable
+Credits
+
+Subtract line 12 from line 11 and enter the result on
+line 13. The amount entered on line 13 can’t be less than
+zero.
+
+Line 14. Total Deposits
+
+Enter your deposits for this year, including any
+overpayment that you applied from filing Form 943-X, in
+the current year. Also, include in the amount shown any
+overpayment from a previous period that you applied to
+this return.
+
+Line 15. Balance Due
+
+If line 13 is more than line 14, enter the difference on
+line 15. Otherwise, see the instructions for line 16a, later.
+Never make an entry on both lines 15 and 16a.
+You don’t have to pay if line 15 is less than $1.
+Generally, you should have a balance due only if your total
+taxes after adjustments and nonrefundable credits
+(line 13) are less than $2,500, and you didn’t incur a
+$100,000 next-day deposit obligation during the year.
+However, see section 11 of Pub. 15 for information about
+payments made under the accuracy of deposits rule.
+If you were required to make federal tax deposits, pay
+the amount shown on line 15 by EFT. If you weren’t
+required to make federal tax deposits or you’re a monthly
+schedule depositor making a payment under the accuracy
+of deposits rule (see section 11 of Pub. 15), pay the
+amount shown on line 15 by EFT, credit card, debit card,
+check, money order, or EFW. For more information on
+electronic payment options, go to IRS.gov/Pay.
+If you pay by EFT, credit card, or debit card, file your
+return using the Without a payment address under Where
+Should You File, earlier, and don’t file Form 943-V,
+Payment Voucher.
+If you pay by check or money order, make it payable to
+“United States Treasury.” Enter your EIN, “Form 943,” and
+the tax year on your check or money order. Complete
+Form 943-V and enclose it with Form 943.
+Caution: If you’re required to make deposits and instead
+pay the taxes with Form 943, you may be subject to a
+penalty.
+What if you can’t pay in full? If you can’t pay the full
+amount of tax you owe, you can apply for an installment
+
+Instructions for Form 943 (2025)
+
+9
+
+agreement online. You can apply for an installment
+agreement online if:
+• You can’t pay the full amount shown on line 15,
+• The total amount you owe is $25,000 or less, and
+• You can pay the liability in full in 24 months.
+To apply using the Online Payment Agreement
+Application, go to IRS.gov/OPA.
+Under an installment agreement, you can pay what you
+owe in monthly installments. There are certain conditions
+you must meet to enter into and maintain an installment
+agreement, such as paying the liability within 24 months,
+and making all required deposits and timely filing tax
+returns during the length of the agreement.
+If your installment agreement is accepted, you will be
+charged a fee and you will be subject to penalties and
+interest on the amount of tax not paid by the due date of
+the return.
+
+Line 16a. Overpayment
+
+If line 14 is more than line 13, enter the difference on
+line 16a. Never make an entry on both lines 15 and
+16a.
+Line 16b. Choose to have your overpayment applied
+to your next return or refunded. If you deposited more
+than the correct amount for the year, you can choose to
+have the IRS either refund the overpayment or apply it to
+your next return. Check the appropriate box on line 16b to
+tell us which option you select. Check only one box on
+line 16b. If you don’t check either box or if you check both
+boxes, we will generally apply the overpayment to your
+next return. Regardless of any box you check or don’t
+check, we may apply your overpayment to any past due
+tax account that is shown in our records under your EIN. If
+you check the box to have your overpayment refunded but
+you don’t complete lines 16c–16e for direct deposit, your
+refund may be delayed.
+If line 16a is less than $1, we will send you a refund or
+apply it to your next return only if you ask us in writing.
+
+Direct Deposit
+
+The benefits of a direct deposit include a faster refund, the
+added security of a paperless payment, and the savings of
+tax dollars associated with the reduced processing costs.
+To have your refund direct deposited, you must complete
+lines 16c–16e.
+Line 16c. Routing number. The routing number must be
+nine digits. The first two digits must be 01–12 or 21–32.
+Verify that your financial institution will accept a direct
+deposit.
+Ask your financial institution for the correct routing
+number to enter on line 16c if:
+• The routing number on a deposit slip is different from
+the routing number on your checks,
+• Your deposit is to a savings account that doesn’t allow
+you to write checks, or
+• Your checks state they’re payable through a financial
+institution different from the one at which you have your
+checking account.
+Line 16d. Type of account. Check the appropriate box
+for the type of account. Don’t check more than one box.
+10
+
+You must check the correct box to ensure your deposit is
+accepted. If you’re unsure which box to check for the
+account you wish the deposit to be applied to, consult
+your financial institution.
+Line 16e. Account number. The account number can
+be up to 17 characters (both numbers and letters). Include
+hyphens but omit spaces and special symbols. Enter the
+number from left to right and leave any unused boxes
+blank.
+If the direct deposit to your account is different from the
+amount you expected, you’ll receive an explanation in the
+mail about 2 weeks after your refund is deposited.
+
+Reasons Your Direct Deposit Request Will Be
+Rejected
+
+If any of the following apply, your direct deposit request
+will be rejected and a check will be sent instead.
+• The name on your account doesn’t match the name on
+the refund, and your financial institution won’t allow a
+refund to be deposited unless the name on the refund
+matches the name on the account.
+• Your business is a corporation and the receiving
+financial institution is a foreign bank or a foreign branch of
+a U.S. bank.
+• Any numbers or letters on lines 16c–16e are crossed
+out or whited out.
+Caution: The IRS isn’t responsible for a lost refund if you
+enter the wrong account information. Check with your
+financial institution to get the correct routing and account
+numbers and to make sure your direct deposit will be
+accepted.
+
+Line 17. Monthly Summary of Federal
+Tax Liability
+This is a summary of your monthly tax liability, not a
+summary of deposits made. If line 13 is less than $2,500,
+don’t complete line 17 or Form 943-A.
+
+Complete line 17 only if you were a monthly schedule
+depositor for the entire year and line 13 is $2,500 or
+more. The amount entered on line 17m must equal the
+amount reported on line 13. If it doesn’t, your tax deposits
+and payments may not be counted as timely. Don’t
+change your current year tax liability reported on line 13 by
+adjustments reported on any Forms 943-X. See section
+11 of Pub. 15 for details on the deposit rules. You’re a
+monthly schedule depositor for the calendar year if the
+amount of your total taxes after adjustments and
+nonrefundable credits (line 13) reported for the lookback
+period is $50,000 or less. The lookback period is the
+second calendar year preceding the current calendar
+year. For example, the lookback period for 2026 is 2024.
+Caution: If you were a semiweekly schedule depositor
+during any part of the year, don’t complete line 17.
+Instead, complete Form 943-A.
+Reporting adjustments from line 10 on line 17. If your
+net adjustment during a month is negative and it exceeds
+your total liability for the month, don’t enter a negative
+amount for the month. Instead, enter “-0-” for the month
+and carry over the unused portion of the adjustment to the
+next month.
+Instructions for Form 943 (2025)
+
+Adjusting tax liability for the qualified small business
+payroll tax credit for increasing research activities
+(line 12). Monthly schedule depositors and semiweekly
+schedule depositors must account for the qualified small
+business payroll tax credit for increasing research
+activities (line 12) when reporting their tax liabilities on
+line 17 or Form 943-A. The total tax liability for the year
+must equal the amount reported on line 13. Failure to
+account for the qualified small business payroll tax credit
+for increasing research activities on line 17 or Form 943-A
+may cause line 17 or Form 943-A to report more than the
+total tax liability reported on line 13. Don’t reduce your
+monthly tax liability reported on lines 17a–17l or your daily
+tax liability reported on Form 943-A below zero.
+Beginning with the first quarter of 2023, the qualified
+small business payroll tax credit for increasing research
+activities is first used to reduce the employer share of
+social security tax (up to $250,000) for the quarter and any
+remaining credit is then used to reduce the employer
+share of Medicare tax for the quarter until it reaches zero.
+In completing line 17 or Form 943-A, you take into account
+the payroll tax credit against the liability for the employer
+share of social security tax starting with the first payroll
+payment of the quarter that includes payments of wages
+subject to social security tax to your employees until you
+use up to $250,000 of credit against the employer share of
+social security tax and you then take into account any
+remaining payroll tax credit against the liability for the
+employer share of Medicare tax starting with the first
+payroll payment of the quarter that includes payments of
+wages subject to Medicare tax to employees. Consistent
+with the entries on line 17 or Form 943-A, the payroll tax
+credit should be taken into account in making deposits of
+employment tax. If any payroll tax credit is remaining at
+the end of the quarter that hasn’t been used completely
+because it exceeds $250,000 of the employer share of
+social security tax and the employer share of Medicare tax
+for the quarter, the excess credit may be carried forward to
+the succeeding quarter and allowed as a payroll tax credit
+for the succeeding quarter. The payroll tax credit may not
+be taken as a credit against income tax withholding, the
+employee share of social security tax, or the employee
+share of Medicare tax.
+Also, the remaining payroll tax credit may not be carried
+back and taken as a credit against wages paid from
+preceding quarters that are reported on the same Form
+943 or on Forms 943 for preceding years. If an amount of
+payroll tax credit is unused at the end of the calendar year
+because it is in excess of the applicable employer share of
+social security tax and employer share of Medicare tax on
+wages paid during the applicable quarters in the calendar
+year, the remaining payroll tax credit may be carried
+forward to the first quarter of the succeeding calendar
+year as a payroll tax credit against the applicable
+employer share of social security tax and employer share
+of Medicare tax on wages paid in that quarter.
+Example. Rose Co. is an employer with a calendar tax
+year that filed its timely 2024 income tax return on April
+15, 2025. Rose Co. elected to take the qualified small
+business payroll tax credit for increasing research
+activities on Form 6765. The third quarter of 2025 is the
+first quarter that begins after Rose Co. filed the income tax
+Instructions for Form 943 (2025)
+
+return making the payroll tax credit election. Therefore, the
+payroll tax credit applies against Rose Co.’s share of
+social security tax (up to $250,000) and Medicare tax on
+wages paid to employees in the third quarter of 2025.
+Rose Co. is a semiweekly schedule depositor. Rose Co.
+completes Form 943-A by reducing the amount of liability
+entered for the first payroll payment in the third quarter of
+2025 that includes wages subject to social security tax by
+the lesser of (1) its share of social security tax (up to
+$250,000) on the wages, or (2) the available payroll tax
+credit. If the payroll tax credit elected is more than Rose
+Co.’s share of social security tax on the first payroll
+payment of the quarter, the excess payroll tax credit would
+be carried forward to succeeding payroll payments in the
+third quarter until it is used against up to $250,000 of Rose
+Co.’s share of social security tax for the quarter. If the
+amount of the payroll tax credit exceeds Rose Co.’s share
+of social security tax (up to $250,000) on wages paid to its
+employees in the third quarter, any remaining credit is
+used against Rose Co.’s share of Medicare tax on the first
+payroll payment of the quarter and then the excess payroll
+tax credit would be carried forward to succeeding payroll
+payments in the third quarter until it is used against Rose
+Co.’s share of Medicare tax for the quarter. If Rose Co. still
+has credit remaining after reducing its share of social
+security tax (up to $250,000) and Medicare tax for the
+third quarter, the remainder would be treated as a payroll
+tax credit against its share of social security tax (up to
+$250,000) and Medicare tax on wages paid in the fourth
+quarter. If the amount of the payroll tax credit remaining
+exceeded Rose Co.’s share of social security tax (up to
+$250,000) and Medicare tax on wages paid in the fourth
+quarter, it could be carried forward and treated as a payroll
+tax credit for the first quarter of 2026.
+
+Third-Party Designee
+
+If you want to allow an employee, a paid tax preparer, or
+another person to discuss your Form 943 with the IRS,
+check the “Yes” box in the Third-Party Designee section.
+Enter the name, phone number, and five-digit personal
+identification number (PIN) of the specific person to speak
+with—not the name of the firm that prepared your tax
+return. The designee may choose any five numbers as
+their PIN.
+By checking “Yes,” you authorize the IRS to talk to the
+person you named (your designee) about any questions
+we may have while we process your return. You also
+authorize your designee to do all of the following.
+• Give us any information that is missing from your return.
+• Call us for information about processing your return.
+• Respond to certain IRS notices that you’ve shared with
+your designee about math errors and return preparation.
+The IRS won’t send notices to your designee.
+You’re not authorizing your designee to bind you to
+anything (including additional tax liability) or to otherwise
+represent you before the IRS. If you want to expand your
+designee’s authorization, see Pub. 947.
+The authorization will automatically expire 1 year from
+the due date (without regard to extensions) for filing your
+Form 943. If you or your designee wants to terminate the
+authorization, write to the IRS office for your location using
+the Without a payment address under Where Should You
+File, earlier.
+11
+
+Who Must Sign (Approved Roles)
+
+Complete all information and sign Form 943. The following
+persons are authorized to sign the return for each type of
+business entity.
+• Sole proprietorship—The individual who owns the
+business.
+• Corporation (including a limited liability company
+(LLC) treated as a corporation)—The president, the
+vice president, or another principal officer duly authorized
+to sign.
+• Partnership (including an LLC treated as a
+partnership) or unincorporated organization—A
+responsible and duly authorized partner, member, or
+officer having knowledge of its affairs.
+• Single-member LLC treated as a disregarded entity
+for federal income tax purposes—The owner of the
+LLC or a principal officer duly authorized to sign.
+• Trust or estate—The fiduciary.
+Form 943 may also be signed by a duly authorized
+agent of the taxpayer if a valid power of attorney has been
+filed.
+Alternative signature method. Corporate officers or
+duly authorized agents may sign Form 943 by rubber
+stamp, mechanical device, or computer software program.
+For details and required documentation, see Rev. Proc.
+2005-39, 2005-28 I.R.B. 82, available at
+IRS.gov/irb/2005-28_IRB#RP-2005-39.
+
+Paid Preparer Use Only
+
+preparer was paid to prepare Form 943 and isn’t an
+employee of the filing entity. Paid preparers must sign
+paper returns with a manual signature. The preparer must
+give you a copy of the return in addition to the copy to be
+filed with the IRS.
+If you’re a paid preparer, enter your preparer tax
+identification number (PTIN) in the space provided.
+Include your complete address. If you work for a firm,
+enter the firm’s name and the EIN of the firm. You can
+apply for a PTIN online or by filing Form W-12. For more
+information about applying for a PTIN online, go to
+IRS.gov/PTIN. You can’t use your PTIN in place of the EIN
+of the tax preparation firm.
+Generally, don’t complete this section if you’re filing the
+return as a reporting agent and have a valid Form 8655 on
+file with the IRS. However, a reporting agent must
+complete this section if the reporting agent offered legal
+advice, for example, advising the client on determining
+whether its workers are employees or independent
+contractors for federal tax purposes.
+
+How To Get Forms, Instructions, and
+Publications
+
+You can view, download, or print most of the forms,
+instructions, and publications you may need at IRS.gov/
+Forms. Otherwise, you can go to IRS.gov/OrderForms to
+place an order and have forms mailed to you.
+
+A paid preparer must sign Form 943 and provide the
+information in the Paid Preparer Use Only section if the
+
+Privacy Act and Paperwork Reduction Act Notice. We ask for the information on these forms to carry out the
+Internal Revenue laws of the United States. You’re required to give us the information. We need it to ensure that you’re
+complying with these laws and to allow us to figure and collect the right amount of tax. Section 6011 requires you to
+provide the requested information if the tax is applicable to you. Section 6109 requires you to provide your identification
+number. You’re not required to provide the information requested on a form that is subject to the Paperwork Reduction
+Act unless the form displays a valid OMB control number. Books or records relating to a form or its instructions must be
+retained as long as their contents may become material in the administration of any Internal Revenue law. Generally, tax
+returns and return information are confidential, as required by section 6103. However, section 6103 allows or requires the
+IRS to disclose or give the information shown on your tax return to others as described in the Code. For example, we may
+disclose your tax information to the Department of Justice for civil and criminal litigation, and to cities, states, the District
+of Columbia, and U.S. commonwealths and territories for use in administering their tax laws. We may also disclose this
+information to other countries under a tax treaty, to federal and state agencies to enforce federal nontax criminal laws, or
+to federal law enforcement and intelligence agencies to combat terrorism.
+Estimates of taxpayer burden. These estimates include forms in the Form 943 series, including attachments; Forms
+SS-8, W-2, W-3, 940, 945, 2032, 2678, 8453-EMP, 8850, 8879-EMP, 8922, 8952, and 8974, and their schedules; and all
+the forms employers attach to employment-related tax returns and related wage statements to employees.
+The following tables show burden estimates based on current statutory requirements as of October 1, 2025, for
+employers filing employment tax reporting forms and wage statement forms. Time spent and out-of-pocket costs are
+presented separately. Time burden is the time spent to comply with employer reporting responsibilities, including
+recordkeeping, preparing and submitting forms, and preparing and providing wage statements to employees.
+Out-of-pocket costs include any expenses incurred to comply with employer reporting responsibilities. The amount of
+taxes paid isn’t included in reporting burden.
+The time and money burdens reported below include all associated forms and schedules, across all tax return
+preparation methods and employer reporting. They are national averages and don’t necessarily reflect a “typical”
+employer’s reporting burden. Most employers experience lower than average burden, with burden varying considerably
+by the number of Forms W-2 that an employer files. For instance, the estimated average burden for an employer who
+issues four Forms W-2 is 63.6 hours (15.9 hours x 4) and $2,480 ($620 x 4). The estimated average burden for a large
+employer who issues 2,000 Forms W-2 is 800 hours (2,000 x 0.4) and $40,000 (2,000 x $20).
+12
+
+Instructions for Form 943 (2025)
+
+Annual Average Burden
+Type of filer
+
+Total time (hours)
+
+Recordkeeping time
+(hours)
+
+Time spent on W-2
+activities (hours)
+
+All other time
+(hours)
+
+Out-of-pocket costs
+
+Total monetized
+burden*
+
+Filers with Form 941
+
+62
+
+18
+
+4
+
+40
+
+$2,760
+
+$4,890
+
+Filers with Form 943
+
+54
+
+15
+
+6
+
+33
+
+$970
+
+$2,030
+
+Filers with Form 944
+
+24
+
+4
+
+3
+
+18
+
+$420
+
+$710
+
+* Total monetized burden = monetized hours + out-of-pocket costs.
+
+Annual Average Burden per Employee by Number of Forms W-2 Filed
+Number of Forms W-2 filed
+
+Total time (hours)
+
+Out-of-pocket costs
+
+All employers
+
+11
+
+$440
+
+Total monetized burden*
+$760
+
+1 to 5
+
+15.9
+
+$620
+
+$1,070
+
+6 to 10
+
+5.9
+
+$280
+
+$480
+
+11 to 25
+
+4.4
+
+$200
+
+$350
+
+26 to 50
+
+3.5
+
+$130
+
+$250
+
+51 to 100
+
+2.6
+
+$100
+
+$190
+
+101 to 250
+
+1.8
+
+$90
+
+$160
+
+251 to 500
+
+1.2
+
+$70
+
+$120
+
+501 to 1,000
+
+0.7
+
+$50
+
+$80
+
+Over 1,000
+
+0.4
+
+$20
+
+$30
+
+* Total monetized burden = monetized hours + out-of-pocket costs.
+
+Annual Average Burden per Employee by Primary Form Filed
+Primary form filed
+
+Total time (hours)
+
+Out-of-pocket costs
+
+Total monetized burden*
+
+Form 941
+
+10.9
+
+$440
+
+$770
+
+Form 943
+
+19.1
+
+$300
+
+$630
+
+Form 944
+
+11.4
+
+$220
+
+$360
+
+* Total monetized burden = monetized hours + out-of-pocket costs.
+
+Comments. If you have comments concerning the accuracy of these time estimates or suggestions for making Form
+943 simpler, we would be happy to hear from you. You can send us comments from IRS.gov/FormComments. Or you can
+send your comments to Internal Revenue Service, Tax Forms and Publications Division, 1111 Constitution Ave. NW,
+IR-6526, Washington, DC 20224. Don’t send Form 943 to this address. Instead, see Where Should You File, earlier.
+
+Instructions for Form 943 (2025)
+
+13
+
+

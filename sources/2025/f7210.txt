@@ -1,0 +1,64 @@
+Form   7210                                          Clean Hydrogen Production Credit                                                                                   OMB No. 1545-0123
+
+
+                                                                                                                                                                             2025
+                                                             Attach to your tax return.
+Department of the Treasury                                                                                                                                       Attachment
+Internal Revenue Service                Go to www.irs.gov/Form7210 for instructions and the latest information.                                                  Sequence No. 210
+Name(s) shown on return                                                                                                                          Identifying number
+
+
+Caution: You cannot take the section 45V credit with respect to any qualified clean hydrogen produced at a facility that includes
+carbon capture equipment for which the section 45Q credit is allowed to any taxpayer for the tax year or any prior tax year. Production
+and sale or use of clean hydrogen must be verified by an unrelated party. Attach a copy of the verification report to the tax return.
+
+  A       (i) Enter the facility’s emissions value or rate for each hydrogen production process
+          and (ii) the Department of Energy (DOE) control number, if applicable (see instructions)                                                                                           .
+ Part I        Information on Qualified Clean Hydrogen Production Facility
+  1       If making an elective payment election or transfer election, enter the IRS-issued registration number
+          of the facility:
+  2       If different than filer, enter (i) owner’s name
+          and (ii) owner’s TIN                                             .
+      a   Address and description of the facility:
+
+
+      b Coordinates.         (i) Latitude:                        .                                     (ii) Longitude:                               .
+                                             Enter a “+” (plus) or “-” (minus) sign in the first box.                     Enter a “+” (plus) or “-” (minus) sign in the first box.
+
+  3       Date construction began (MM/DD/YYYY):
+  4       Date placed in service (MM/DD/YYYY):
+  5       Check this box if the facility is eligible for the increased credit amount. See instructions .                                .    .    .       .    .   .     .   .   .   .   .
+ Part II       Clean Hydrogen Production
+                                                                                                                         (a)                     (b)                             (c)
+          Emissions (kg CO2e per kg of qualified clean hydrogen)                                              Kilograms of qualified          Applicable               Column (a) x Column (b)
+          (see instructions)                                                                                clean hydrogen produced            amount
+                                                                                                                 (see instructions)
+  6a      Less than 0.45 . . . . . . . . . . . . . . . .              6a                       $0.637
+   b      0.45 to less than 1.5 . . . . . . . . . . . . . .           6b                       $0.213
+    c     1.5 to less than 2.5 . . . . . . . . . . . . . . .          6c                       $0.159
+   d      2.5 to not greater than 4.0 . . . . . . . . . . . .         6d                       $0.127
+  7       Credit before reduction. Add column (c) of lines 6a through 6d and enter the amount. See
+          instructions . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      7
+Part III       Credit Reduction for Tax-Exempt Bonds
+If you used proceeds of tax-exempt bonds to finance your facility, continue to line 8a; otherwise, enter
+the amount from line 7 on line 9.
+  8a      Divide.    Sum, for the tax year and all prior tax years, of all proceeds of
+                     tax-exempt bonds (within the meaning of section 103) used to
+                     finance the qualified facility, as of the close of the tax year
+                                                                                                                 =    .   .   .    .    .    .    .           8a
+                 Aggregate amount of additions to the capital account for the
+                 qualified facility, for the tax year and all prior tax years, as of
+                 the close of the tax year
+    b Multiply line 7 by line 8a . . . . . . . . . . . . . . . . .                                                .   .   .   .    .    .    .    .           8b
+    c Multiply line 7 by 15% (0.15) . . . . . . . . . . . . . . .                                                 .   .   .   .    .    .    .    .           8c
+    d Enter the smaller of line 8b or 8c . . . . . . . . . . . . . .                                              .   .   .   .    .    .    .    .           8d
+  9   Subtract line 8d from line 7 . . . . . . . . . . . . . . . .                                                .   .   .   .    .    .    .    .            9
+Part IV        Clean Hydrogen Production Credit
+ 10       Increased credit amount for qualified clean hydrogen production facilities. If you checked the box
+          on line 5, multiply the amount on line 9 by 5.0. Otherwise, enter the amount from line 9 here . .                                                   10
+ 11       Clean hydrogen credit from partnerships and S corporations . . . . . . . . . . . . .                                                                11
+ 12       Add lines 10 and 11. Partnerships and S corporations, stop here and report this amount on
+          Schedule K. All others, stop here and report this amount on Form 3800, Part III, line 1g. See
+          instructions . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                              12
+For Paperwork Reduction Act Notice, see the separate instructions.                                         Cat. No. 56404K                            Form 7210 (2025) Created 7/22/25
+

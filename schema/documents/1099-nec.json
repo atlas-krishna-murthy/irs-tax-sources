@@ -1,0 +1,82 @@
+{
+  "document": {
+    "id": "1099-NEC",
+    "title": "Nonemployee Compensation",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-NEC (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099nec--2025.pdf",
+    "issued_by": "the payer",
+    "recipient": {
+      "name": "Recipient.Name",
+      "tin": "Recipient.TIN",
+      "note": "The extractor's own field names, measured on stored reads (engagement 16, 2026-10-02). Read by `Owner.of` to say whose figure this is (spec 079 FR-035); the TIN's last four only."
+    },
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Nonemployee compensation",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Payer made direct sales totaling $5,000 or more of consumer products to recipient for resale",
+        "type": "checkbox"
+      },
+      {
+        "box": "3",
+        "label": "Excess golden parachute payments",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Federal income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "State tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "State/Payer's state no.",
+        "type": "text"
+      },
+      {
+        "box": "7",
+        "label": "State income",
+        "type": "money"
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed above the issuer's block on every copy. A corrected form replaces one furnished earlier; its figures are the ones to use, never counted beside the earlier form's."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed on Copy A (the issuer's filing copy) and the state copy; the recipient's Copy B does not print it."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "FR-016 mark. An account or other unique number the issuer assigned; identification only, never a figure."
+      }
+    ],
+    "notes": "THE BOX NUMBER IS 1, NOT 1a. The revision in force for tax year 2025 is Rev. April 2025, whose face prints '1 Nonemployee compensation'. The renaming of box 1 to box 1a belongs to the Rev. December 2026 revision, which https://www.irs.gov/pub/irs-pdf/f1099nec.pdf serves today because continuous-use forms are published up to a year ahead. That 2026 form states the rule on its own first page: 'we issued an April 2025 revision of Form 1099-NEC, Nonemployee Compensation, to use first to report amounts for calendar year 2025.' Box 3 'Excess golden parachute payments' is present on the April 2025 revision (it was Reserved on earlier ones)."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099NEC",
+    "note": null,
+    "fields": {
+      "IsCorrected": {
+        "box": "corrected"
+      }
+    }
+  }
+}

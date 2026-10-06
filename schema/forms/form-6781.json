@@ -1,0 +1,136 @@
+{
+  "form": {
+    "id": "form-6781",
+    "form": "Form 6781",
+    "title": "Gains and Losses From Section 1256 Contracts and Straddles",
+    "kind": "form",
+    "revision": "2025",
+    "revision_printed_as": "Form 6781 (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f6781--2025.pdf",
+    "instructions_url": null,
+    "lines": [
+      {
+        "line": "check boxes",
+        "caption": "Check all applicable boxes. See instructions. A Mixed straddle election. B Straddle-by-straddle identification election. C Mixed straddle account election. D Net section 1256 contracts loss election.",
+        "type": "checkbox"
+      },
+      {
+        "line": "1",
+        "caption": "Section 1256 Contracts Marked to Market: (a) Identification of account, (b) (Loss), (c) Gain",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c"
+        ]
+      },
+      {
+        "line": "2",
+        "caption": "Add the amounts on line 1 in columns (b) and (c)",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Net gain or (loss). Combine line 2, columns (b) and (c)",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Form 1099-B adjustments. See instructions and attach statement",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Combine lines 3 and 4. Note: If line 5 shows a net gain, skip line 6 and enter the gain on line 7. Partnerships and S corporations, see instructions.",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "If you have a net section 1256 contracts loss and checked box D above, enter the amount of loss to be carried back. Enter the loss as a positive number. If you didn\u2019t check box D, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Combine lines 5 and 6",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Short-term capital gain or (loss). Multiply line 7 by 40% (0.40). Enter here and include on line 4 of Schedule D or on Form 8949. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Long-term capital gain or (loss). Multiply line 7 by 60% (0.60). Enter here and include on line 11 of Schedule D or on Form 8949. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Gains and Losses From Straddles, Section A\u2014Losses From Straddles: (a) description of property, (b) date entered into or acquired, (c) date closed out or sold, (d) gross sales price, (e) cost or other basis plus expense of sale, (f) loss, (g) unrecognized gain on offsetting positions, (h) recognized loss",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "line": "11a",
+        "caption": "Enter the short-term portion of losses from line 10, column (h), here and include on line 4 of Schedule D or on Form 8949. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "11b",
+        "caption": "Enter the long-term portion of losses from line 10, column (h), here and include on line 11 of Schedule D or on Form 8949. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Section B\u2014Gains From Straddles: (a) description of property, (b) date entered into or acquired, (c) date closed out or sold, (d) gross sales price, (e) cost or other basis plus expense of sale, (f) gain",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "13a",
+        "caption": "Enter the short-term portion of gains from line 12, column (f), here and include on line 4 of Schedule D or on Form 8949. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "13b",
+        "caption": "Enter the long-term portion of gains from line 12, column (f), here and include on line 11 of Schedule D or on Form 8949. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Unrecognized Gains From Positions Held on Last Day of Tax Year. Memo entry only (see instructions): (a) description of property, (b) date acquired, (c) fair market value on last business day of tax year, (d) cost or other basis as adjusted, (e) unrecognized gain",
+        "type": "money",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      }
+    ],
+    "notes": "THE 60/40 SPLIT. Section 1256 contracts are marked to market and the resulting net is split 40% short-term (line 8 \u2192 Schedule D line 4) and 60% long-term (line 9 \u2192 Schedule D line 11) REGARDLESS OF HOW LONG THEY WERE HELD. Form 1099-B box 11 is what enters on line 1: the form's own line 1 instruction reads 'If you received a Form 1099-B, Proceeds From Broker and Barter Exchange Transactions, or substitute statement, include on line 1 the amount from box 11 of each form.' Boxes 8, 9 and 10 of that 1099-B are components of box 11 and must not be entered as well. The form's own instructions are printed on the form PDF; there is no separate i6781.",
+    "face_not_boxes": [
+      {
+        "slot": "82",
+        "because": "'Attachment Sequence No. 82' in the form header, not a line"
+      }
+    ]
+  }
+}

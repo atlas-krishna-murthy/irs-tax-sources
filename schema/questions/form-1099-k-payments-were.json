@@ -1,0 +1,41 @@
+{
+  "question": {
+    "id": "form-1099-k-payments-were",
+    "wording": "What were the payments this Form 1099-K reports in box 1a?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "business",
+        "label": "Receipts of a business — Schedule C line 1"
+      },
+      {
+        "value": "rental",
+        "label": "Rents from real property — Schedule E line 3"
+      },
+      {
+        "value": "personal_items_sold_at_a_gain",
+        "label": "Personal items sold at a gain — Form 8949 / Schedule D (line 7a)"
+      },
+      {
+        "value": "not_for_profit_activity",
+        "label": "An activity not engaged in for profit — Schedule 1 line 8j"
+      },
+      {
+        "value": "in_error_or_personal_loss",
+        "label": "All of it in error (gifts, reimbursements) or personal items sold at a loss — not income"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Schedule 1 (Form 1040)",
+        "line": "Form(s) 1099-K",
+        "revision": "2025",
+        "wording": "The remaining amounts reported to you on Form(s) 1099-K should be reported elsewhere on your return depending on the nature of the transactions.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+      }
+    }
+  }
+}

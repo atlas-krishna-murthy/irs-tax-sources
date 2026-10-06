@@ -1,0 +1,39 @@
+{
+  "question": {
+    "id": "recovery-period-class",
+    "wording": "Which MACRS recovery period does this capitalized cost take?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "27_5_year",
+        "label": "27.5 years — residential rental building, a structural component (furnace, water pipes, venting) or an addition or improvement such as a new roof"
+      },
+      {
+        "value": "15_year",
+        "label": "15 years — roads, shrubbery, fences"
+      },
+      {
+        "value": "7_year",
+        "label": "7 years — office furniture and equipment, or property with no other class"
+      },
+      {
+        "value": "5_year",
+        "label": "5 years — computers, office machinery, automobiles, light trucks, appliances, carpets, furniture used in the rental"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "27_5_year",
+      "because": "A cost capitalized on a rental is taken as part of the building (a structural component or an improvement) unless a preparer picks another class from Pub. 527 Table 2-1."
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 527",
+        "line": "Table 2-1",
+        "revision": "2025",
+        "wording": "Residential rental property (buildings or structures) and structural components such as furnaces, waterpipes, venting, etc.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p527--2025.pdf"
+      }
+    }
+  }
+}

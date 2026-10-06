@@ -1,0 +1,174 @@
+{
+  "form": {
+    "id": "form-8912",
+    "form": "Form 8912",
+    "title": "Credit to Holders of Tax Credit Bonds",
+    "kind": "form",
+    "revision": "(Rev. December 2024)",
+    "revision_printed_as": "Form 8912 (Rev. 12-2024)",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f8912.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-pdf/i8912.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Bond credit(s) from Part III. Enter the amount from line 14. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "2",
+        "caption": "Bond credit(s) from Part IV. Enter the amount from line 20. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "3",
+        "caption": "Carryforward of credits for qualified tax credit bonds and build America bonds to 2021 (see instructions)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "4",
+        "caption": "Total credit. Add lines 1 through 3. Estates and trusts figuring the credit for a clean renewable energy bond, go to line 5; partnerships and S corporations, report this amount on Schedule K. (You must also issue Form(s) 1097-BTC. See Form 1097-BTC and its instructions.) All others, go to Part II",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "5",
+        "caption": "Amount allocated to the beneficiaries of the estate or trust. (You must also issue Form(s) 1097-BTC. See Form 1097-BTC and its instructions.) See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6",
+        "caption": "Estates and trusts. Subtract line 5 from line 4. Use this amount to complete Part II",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "7",
+        "caption": "Regular tax before credits:",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "8",
+        "caption": "Alternative minimum tax:",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "9",
+        "caption": "Add line 7 and line 8",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "10a",
+        "caption": "Foreign tax credit",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "10b",
+        "caption": "Certain allowable credits (see instructions)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "10c",
+        "caption": "General business credit (see instructions)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "10d",
+        "caption": "Credit for prior year minimum tax (Form 8801 or Form 8827)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "10e",
+        "caption": "Add lines 10a through 10d",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "11",
+        "caption": "Net income tax. Subtract line 10e from line 9",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "12",
+        "caption": "Credit to holders of tax credit bonds allowed for the current year. Enter the smallest of line 4, line 11, or the amount as limited by the formula in the instructions for line 12. (If line 12 is smaller than line 4, see instructions.) Estates and trusts, enter the smallest of line 6, line 11, or the amount as limited by the formula in the instructions for line 12. (If line 12 is smaller than line 6, see instructions.) Report this amount on Schedule 3 (Form 1040), line 6k; Form 1120, Schedule J, line 5e; Form 1041, Schedule G, line 2d; or the applicable line of your return",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      },
+      {
+        "line": "13",
+        "caption": "(c) Amount reported on Form(s) 1097-BTC (see instructions)",
+        "type": "money",
+        "part": "III",
+        "rows_are": "instances"
+      },
+      {
+        "line": "14",
+        "caption": "Total. Combine the amounts in column (c). Enter here and on line 1",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "15a",
+        "caption": "Bond Issuer\u2019s name, city or town, and state:",
+        "type": "text",
+        "part": "IV"
+      },
+      {
+        "line": "15b",
+        "caption": "Bond Issuer\u2019s employer identification number:",
+        "type": "text",
+        "part": "IV"
+      },
+      {
+        "line": "16a",
+        "caption": "Date bond issued:",
+        "type": "date",
+        "part": "IV"
+      },
+      {
+        "line": "16b",
+        "caption": "Date bond matures:",
+        "type": "date",
+        "part": "IV"
+      },
+      {
+        "line": "17",
+        "caption": "Date bond disposed of (if applicable):",
+        "type": "date",
+        "part": "IV"
+      },
+      {
+        "line": "18",
+        "caption": "(f) Multiply (d) x (e)",
+        "type": "money",
+        "part": "IV",
+        "rows_are": "instances"
+      },
+      {
+        "line": "19",
+        "caption": "Add the amounts on line 18, column (f)",
+        "type": "money",
+        "part": "IV"
+      },
+      {
+        "line": "20",
+        "caption": "For a new clean renewable energy bond or a qualified energy conservation bond, multiply the amount on line 19 by 70% (0.70) and enter the result here. For a clean renewable energy bond, qualified zone academy bond, qualified school construction bond, or build America bond, enter the amount from line 19 here. Enter the line 20 amount on line 2. See the instructions for how to report as interest income",
+        "type": "money",
+        "part": "IV"
+      }
+    ],
+    "notes": "Declared for spec 080 T052. The credit allowed (line 12) is limited by the regular tax and AMT less other credits \u2014 a computation. Form 1097-BTC box 1 and the K-1 bond-credit codes are its inputs (Part III); the same credit amount is ALSO interest income on a Form 1099-INT or 1099-OID, which is placed as printed."
+  }
+}

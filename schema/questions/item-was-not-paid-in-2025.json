@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-was-not-paid-in-2025",
+    "wording": "Was this NOT paid (or charged to a credit card) in 2025, or is it a payment for care to be received in a later year?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 not paid in 2025, or for future care"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 paid in 2025 for care already received"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Was this NOT paid (or charged to a credit card) in 2025, or is it a payment for care to be received in a later year?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 502",
+        "line": "What Expenses Can You Include This Year?",
+        "revision": "2025",
+        "wording": "You can include only the medical and dental expenses you paid this year but generally not payments for medical or dental care you will receive in a future year.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p502--2025.pdf"
+      }
+    }
+  }
+}

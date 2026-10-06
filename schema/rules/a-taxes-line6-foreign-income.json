@@ -1,0 +1,67 @@
+{
+  "rule": {
+    "id": "a-taxes-line6-foreign-income",
+    "title": "One choice, credit or deduction, for every qualified foreign tax of the year",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "route_among",
+    "acts_on": {
+      "boxes": [
+        "1099-INT.6",
+        "1099-DIV.7",
+        "k-1-1041.14.B",
+        "K-3-1065.part-iii-section-4-line-1-total"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "foreign-taxes-taken-as-a-credit-or-a-deduction"
+      }
+    ],
+    "params": {
+      "cases": [
+        {
+          "when": {
+            "answer": "foreign-taxes-taken-as-a-credit-or-a-deduction",
+            "is": "credit"
+          },
+          "to": {
+            "form": "form-1040",
+            "line": "20"
+          }
+        },
+        {
+          "when": {
+            "answer": "foreign-taxes-taken-as-a-credit-or-a-deduction",
+            "is": "deduction"
+          },
+          "to": {
+            "form": "schedule-a",
+            "line": "6"
+          }
+        }
+      ]
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 514",
+      "line": "Choosing To Take Credit or Deduction",
+      "revision": "2025",
+      "wording": "If you choose to take a credit for any qualified foreign taxes in a year, you must take the credit for all qualified foreign taxes paid or accrued in that year.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p514--2025.pdf"
+    },
+    "research_ids": [
+      "a-taxes-line6-foreign-income"
+    ],
+    "open_point": "The client's own taxpayer-tax-payment-records.other_deductible_taxes_paid is not routed by this answer: that box holds generation-skipping tax too, which is deduction-only, so its pick stays per item."
+  }
+}

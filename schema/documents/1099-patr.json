@@ -1,0 +1,110 @@
+{
+  "document": {
+    "id": "1099-PATR",
+    "title": "Taxable Distributions Received From Cooperatives",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-PATR (Rev. April 2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099ptr--2025.pdf",
+    "issued_by": "cooperative",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Patronage dividends",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Nonpatronage distributions",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Per-unit retain allocations",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Federal income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Redeemed nonqualified notices",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "Section 199A(g) deduction",
+        "type": "money",
+        "notes": "Declared from the Rev. April 2025 Copy B face (spec 080 T046)."
+      },
+      {
+        "box": "7",
+        "label": "Qualified payments (Section 199A(b)(7))",
+        "type": "money",
+        "notes": "Declared from the Rev. April 2025 Copy B face (spec 080 T046)."
+      },
+      {
+        "box": "8",
+        "label": "Section 199A(a) qual. items",
+        "type": "money",
+        "notes": "Declared from the Rev. April 2025 Copy B face (spec 080 T046)."
+      },
+      {
+        "box": "9",
+        "label": "Section 199A(a) SSTB items",
+        "type": "money",
+        "notes": "Declared from the Rev. April 2025 Copy B face (spec 080 T046)."
+      },
+      {
+        "box": "10",
+        "label": "Investment credit",
+        "type": "money",
+        "notes": "Declared from the Rev. April 2025 Copy B face (spec 080 T046)."
+      },
+      {
+        "box": "11",
+        "label": "Work opportunity credit",
+        "type": "money",
+        "notes": "Declared from the Rev. April 2025 Copy B face (spec 080 T046)."
+      },
+      {
+        "box": "12",
+        "label": "Other credits and deductions",
+        "type": "money",
+        "notes": "Declared from the Rev. April 2025 Copy B face (spec 080 T046)."
+      },
+      {
+        "box": "13",
+        "label": "Specified Coop",
+        "type": "checkbox",
+        "notes": "Declared from the Rev. April 2025 Copy B face (spec 080 T046)."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed above the issuer's block on every copy. A corrected form replaces one furnished earlier; its figures are the ones to use, never counted beside the earlier form's."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed on Copy A (the issuer's filing copy) and the state copy; the recipient's Copy B does not print it."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "FR-016 mark. An account or other unique number the issuer assigned; identification only, never a figure."
+      }
+    ],
+    "notes": ""
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099PATR",
+    "note": "The note that stood here \u2014 \"Azure ships no prebuilt-tax model for this form\" \u2014 was STALE, and re-verified as stale twice (2026-09-24 and 2026-09-29) against Azure-Samples `schema/2024-11-30-ga/us-tax/`. v4.0 (2024-11-30 GA) publishes this model. Only box 4 is declared here today, and it answers as `Box4`; the patronage dividend (box 1) and the rest of 1-13 still need declaring from the 2025 face, each with its printed caption. Boxes 1, 2, 3 and 5 declared by spec 079 from the Rev. April 2025 face, each with its printed caption."
+  }
+}

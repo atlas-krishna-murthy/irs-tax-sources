@@ -1,0 +1,233 @@
+{
+  "document": {
+    "id": "4852",
+    "title": "Substitute for Form W-2, Wage and Tax Statement, or Form 1099-R, Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc.",
+    "kind": "taxpayer_record",
+    "revision": "Rev. September 2020",
+    "revision_printed_as": "Form 4852 (Rev. 9-2020)",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f4852.pdf",
+    "issued_by": "the taxpayer (a substitute the taxpayer prepares when the employer or payer did not furnish the real form)",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "4",
+        "label": "Enter year in space provided and check one box. For the tax year ending December 31,",
+        "type": "text"
+      },
+      {
+        "box": "5",
+        "label": "Employer's or payer's name, address, and ZIP code",
+        "type": "text"
+      },
+      {
+        "box": "6",
+        "label": "Employer\u2019s or payer\u2019s TIN (if known)",
+        "type": "tin"
+      },
+      {
+        "box": "7a",
+        "label": "Wages, tips, and other compensation",
+        "type": "money"
+      },
+      {
+        "box": "7b",
+        "label": "Social security wages",
+        "type": "money"
+      },
+      {
+        "box": "7c",
+        "label": "Medicare wages and tips",
+        "type": "money"
+      },
+      {
+        "box": "7d",
+        "label": "Social security tips",
+        "type": "money"
+      },
+      {
+        "box": "7e",
+        "label": "Federal income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "7f",
+        "label": "State income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "7g",
+        "label": "Local income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "7h",
+        "label": "Social security tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "7i",
+        "label": "Medicare tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "8a",
+        "label": "Gross distribution",
+        "type": "money"
+      },
+      {
+        "box": "8b",
+        "label": "Taxable amount",
+        "type": "money"
+      },
+      {
+        "box": "8c",
+        "label": "Taxable amount not determined",
+        "type": "checkbox"
+      },
+      {
+        "box": "8d",
+        "label": "Total distribution",
+        "type": "checkbox"
+      },
+      {
+        "box": "8e",
+        "label": "Capital gain (included on line 8b)",
+        "type": "money"
+      },
+      {
+        "box": "8f",
+        "label": "Federal income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "8g",
+        "label": "State income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "8h",
+        "label": "Local income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "8i",
+        "label": "Employee contributions",
+        "type": "money"
+      },
+      {
+        "box": "8j",
+        "label": "Distribution codes",
+        "type": "code"
+      },
+      {
+        "box": "9",
+        "label": "How did you determine the amounts on lines 7 and 8 above?",
+        "type": "text"
+      },
+      {
+        "box": "10",
+        "label": "Explain your efforts to obtain Form W-2, Form 1099-R (original or corrected), or Form W-2c, Corrected Wage and Tax Statement.",
+        "type": "text"
+      },
+      {
+        "box": "1",
+        "label": "Name(s) shown on return",
+        "type": "text"
+      },
+      {
+        "box": "2",
+        "label": "Your social security number",
+        "type": "tin"
+      },
+      {
+        "box": "3",
+        "label": "Address",
+        "type": "text"
+      },
+      {
+        "box": "4-form-w-2",
+        "label": "Form W-2",
+        "type": "checkbox"
+      },
+      {
+        "box": "4-form-1099-r",
+        "label": "Form 1099-R",
+        "type": "checkbox"
+      },
+      {
+        "box": "7f-name-of-state",
+        "label": "(Name of state)",
+        "type": "text"
+      },
+      {
+        "box": "7g-name-of-locality",
+        "label": "(Name of locality)",
+        "type": "text"
+      },
+      {
+        "box": "8g-name-of-state",
+        "label": "(Name of state)",
+        "type": "text"
+      },
+      {
+        "box": "8h-name-of-locality",
+        "label": "(Name of locality)",
+        "type": "text"
+      }
+    ],
+    "notes": "Form 4852 STANDS IN FOR a missing or incorrect Form W-2 or Form 1099-R. Its line 7 boxes mirror W-2 boxes 1-6 and its line 8 boxes mirror 1099-R boxes 1, 2a, 2b, 3, 4, 5 and 7, so a figure on Form 4852 routes exactly as the same figure on the document it replaces. The revision in force for tax year 2025 is Rev. September 2020 - irs-prior/f4852--2025.pdf does not exist, because no newer revision has been issued.",
+    "face_not_boxes": [
+      {
+        "slot": "04",
+        "because": "'Attachment Sequence No. 04' in the header, not a line."
+      }
+    ]
+  },
+  "extraction": {
+    "model": "custom.4852",
+    "note": "Azure ships no prebuilt-tax model for this form, so it reached the generic reader \u2014 which emits no field bearing these box names, so every cited route out of this document was dead while looking implemented (spec 075 US1/W42). Read by the declared custom model over the boxes this document declares. Both printed blocks are declared; which one carries figures follows from what the form says it replaces, and that is a fact about the document rather than a reading decision.",
+    "custom": {
+      "reads": "a Form 4852, Substitute for Form W-2 or Form 1099-R. It carries two blocks of figures, and only one of them is filled in on any given form \u2014 read whichever the page actually prints.",
+      "sections": [
+        {
+          "document": "4852",
+          "boxes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "4-form-w-2",
+            "4-form-1099-r",
+            "5",
+            "6",
+            "7a",
+            "7b",
+            "7c",
+            "7d",
+            "7e",
+            "7f",
+            "7f-name-of-state",
+            "7g",
+            "7g-name-of-locality",
+            "7h",
+            "7i",
+            "8a",
+            "8b",
+            "8c",
+            "8d",
+            "8e",
+            "8f",
+            "8g",
+            "8g-name-of-state",
+            "8h",
+            "8h-name-of-locality",
+            "8i",
+            "8j",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    }
+  }
+}

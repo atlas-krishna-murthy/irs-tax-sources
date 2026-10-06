@@ -1,0 +1,18 @@
+{
+  "document": {
+    "id": "CA-K-1-541",
+    "title": "Schedule K-1 (541), Beneficiary's Share of Income, Deductions, Credits, etc. (California) - five columns, (b) California adjustments",
+    "kind": "information_return",
+    "jurisdiction": "US-CA",
+    "revision": "2025",
+    "revision_printed_as": "Schedule K-1 (541) 2025",
+    "issued_by": "California estate or trust (Franchise Tax Board form)",
+    "container_of": null,
+    "boxes": [],
+    "notes": "The California counterpart of Schedule K-1 (Form 1041), usually printed with the federal form in the same packet. **Its column (b) is the CALIFORNIA ADJUSTMENT, not a federal figure** - it is the difference California makes to the federal amount, so reading column (b) onto a federal line reports an adjustment as income. Column (a) restates the federal amount and column (c) is the California total; none of the three is a federal figure this map may place. The federal consequence arrives on k-1-1041, which the taxpayer also receives. Declared so the page can be NAMED rather than falling to `unknown` - which is what happened to CA-593 three times before it was declared, and to these forms in both packets spec 075 was measured against (4 pages and ~16 pages, in no vocabulary at all)."
+  },
+  "extraction": {
+    "model": null,
+    "note": "Out of this map's jurisdiction (US-CA). Classifiable so it can be named and held; deliberately not extracted federally. E19 refuses a federal route out of it, and W20 counts it as named-and-nothing-else, which is correct here rather than a gap."
+  }
+}

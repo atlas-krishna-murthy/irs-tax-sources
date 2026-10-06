@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "estimated-payment-is-for-2025",
+    "wording": "Was this federal estimated tax payment made for tax year 2025?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 a 2025 estimated payment"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 it was for another year (for example the 2024 fourth installment paid in January 2025)"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "yes",
+      "because": "An estimated payment on the 2025 record is for 2025 unless a preparer says otherwise"
+    },
+    "basis": {
+      "citation": {
+        "form": "Form 1040",
+        "line": "26",
+        "revision": "2025",
+        "wording": "Enter any estimated federal income tax payments you made for 2025.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+      }
+    }
+  }
+}

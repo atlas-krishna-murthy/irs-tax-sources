@@ -1,0 +1,49 @@
+{
+  "rule": {
+    "id": "e-int-04",
+    "title": "Line 8c holds only the points deductible this year",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-mortgage-and-interest-records.points_not_reported_on_1098",
+        "settlement-statement.points paid by the buyer"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-points-not-deductible-in-full-this-year"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-points-not-deductible-in-full-this-year",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Are these points ones that are not deductible in full this year \u2014 points on a refinance or other loan that are deducted over the life of the loan, or points paid for the lender's services rather than only to borrow money?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "Line 8c",
+      "revision": "2025",
+      "wording": "Points you paid only to borrow money are generally deductible over the life of the loan.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "research_ids": [
+      "e-int-04"
+    ],
+    "open_point": "The year's share of points deducted over the life of the loan is Pub. 936's figure; a record carrying only that share is answered 'no' and counts."
+  }
+}

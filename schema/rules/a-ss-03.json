@@ -1,0 +1,45 @@
+{
+  "rule": {
+    "id": "a-ss-03",
+    "title": "Social security benefits are the income of the person with the legal right to them",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "SSA-1099.5"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "social-security-benefits-belong-to-the-taxpayer"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "social-security-benefits-belong-to-the-taxpayer",
+        "is": "no"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "yes",
+      "because": "Benefits on a statement in the taxpayer's name are theirs unless a preparer says otherwise"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 915",
+      "line": "Who is taxed",
+      "revision": "2025",
+      "wording": "Benefits are included in the taxable income (to the extent they are taxable) of the person who has the legal right to receive the benefits.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p915--2025.pdf"
+    },
+    "open_point": "When a check covers both the taxpayer and a child, only the taxpayer's part is used \u2014 an amount the form does not print; only an answer covering the whole box is applied."
+  }
+}

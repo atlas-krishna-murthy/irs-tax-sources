@@ -1,0 +1,45 @@
+{
+  "rule": {
+    "id": "a-med-floor",
+    "title": "Medical and dental expenses count only above 7.5% of AGI",
+    "class": "agi",
+    "years": [
+      2025
+    ],
+    "acts_on": {
+      "lines": [
+        "schedule-a.1"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "engagement",
+        "ref": "agi"
+      }
+    ],
+    "operator": "floor_pct_agi",
+    "params": {},
+    "amounts": {
+      "all": {
+        "pct": 0.075
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "1",
+      "revision": "2025",
+      "wording": "You can deduct only the part of your medical and dental expenses that exceeds 7.5% of the amount of your adjusted gross income on Form 1040 or 1040-SR, line 11b.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "research_ids": [
+      "A-med-floor"
+    ]
+  }
+}

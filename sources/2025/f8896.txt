@@ -1,0 +1,130 @@
+Form   8896
+(Rev. December 2019)
+                                      Low Sulfur Diesel Fuel Production Credit
+                                                          ▶ Attach to your tax return.
+                                                                                                                             OMB No. 1545-1914
+
+                                                                                                                             Attachment
+Department of the Treasury
+Internal Revenue Service                   ▶ Go to www.irs.gov/Form8896 for the latest information.                          Sequence No. 142
+Name(s) shown on return                                                                                           Identifying number
+
+
+  1      Low sulfur diesel fuel produced (in gallons) . . . . . . . . . . . . . . . . . . . .                            1
+  2      Multiply line 1 by $0.05 . . . . . . . . . . . . . . . . . . . . . . . . . .                                    2
+  3      Qualified costs limitation (see instructions) . . . . . . . . . . . . . . . . . . . .                           3
+  4      Total low sulfur diesel fuel production credits allowed for all prior tax years (see instructions) . . .        4
+  5      Subtract line 4 from line 3 . . . . . . . . . . . . . . . . . . . . . . . . .                                   5
+  6      Enter the smaller of line 5 or line 2 . . . . . . . . . . . . . . . . . . . . . . .                             6
+  7      Low sulfur diesel fuel production credit from partnerships, S corporations, and cooperatives (see
+         instructions) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                       7
+  8      Add lines 6 and 7. Cooperatives, go to line 9. Partnerships and S corporations, stop here and report
+         this amount on Schedule K. All others, stop here and report this amount on Form 3800, Part III,
+         line 1m     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                       8
+  9      Amount allocated to patrons of the cooperative (see instructions) . . . . . . . . . . . .                       9
+ 10      Cooperatives, subtract line 9 from line 8. Report this amount on Form 3800, Part III, line 1m . . .            10
+
+General Instructions                                                      Qualified Costs
+Section references are to the Internal Revenue Code unless                For each facility, qualified costs are costs paid or incurred to
+otherwise noted.                                                          comply with the highway diesel fuel sulfur control requirements
+                                                                          of the Environmental Protection Agency (EPA) during the period
+Future Developments                                                       beginning January 1, 2003, and ending on the earlier of:
+For the latest information about developments related to Form             • The date 1 year after the date on which the refiner must
+8896 and its instructions, such as legislation enacted after they         comply with these EPA requirements with respect to such
+were published, go to www.irs.gov/Form8896.                               facility; or
+                                                                          • December 31, 2009.
+Purpose of Form
+                                                                             Qualified costs include costs for the construction of new
+Use Form 8896 to claim the low sulfur diesel fuel production              process operation units or the dismantling and reconstruction
+credit.                                                                   of existing process units to be used in the production of low
+   The credit generally is 5 cents for every gallon of low sulfur         sulfur diesel fuel, associated adjacent or offsite equipment
+diesel fuel produced by a qualified small business refiner during         (including tankage, catalyst, and power supply), engineering,
+the tax year. However, the total credits allowed for all tax years        construction period interest, and site work.
+cannot be more than the refiner’s qualified costs limitation on              In addition, the small business refiner must obtain certification
+line 3. This credit is part of the general business credit.               from the IRS (which will consult with the EPA) that the
+  Partnerships, S corporations, and cooperatives must file this           taxpayer’s qualified costs will result in compliance with the
+form to claim the credit. All other taxpayers are not                     applicable EPA regulations. This certification must be obtained
+required to complete or file this form if their only source for this      not later than June 29, 2008, or, if later, the date that is 30
+credit is a partnership, S corporation, or cooperative.                   months after the first day of the first tax year in which the credit
+Instead, they can report this credit directly on line 1m in Part III      is determined. For details, see Rev. Proc. 2007-69, 2007-49
+of Form 3800, General Business Credit.                                    I.R.B. 1137, available at
+                                                                          www.irs.gov/irb/2007-49_IRB#RP-2007-69.
+Definitions                                                                              Unless you elect not to take this credit, your
+                                                                                         deductions will be reduced by the amount of your
+Low Sulfur Diesel Fuel                                                       TIP         credit. For details, see section 280C(d).
+This is diesel fuel with a sulfur content of 15 parts per million or
+less.                                                                     Additional Information
+Small Business Refiner                                                    For more information, see section 45H.
+A small business refiner generally is a refiner of crude oil with an
+average daily domestic refinery run or average retained
+production for all facilities that did not exceed 205,000 barrels
+                                                                          Specific Instructions
+for the 1-year period ending on December 31, 2002. To figure              Use lines 1 through 6 to figure any low sulfur diesel fuel
+the average daily domestic refinery run or retained production,           production credit from your own trade or business.
+only include refineries that were refineries of the refiner or a
+related person (within the meaning of section 613A(d)(3)) on              Line 1
+April 1, 2003. However, a refiner is not a small business refiner         Enter the number of gallons of diesel fuel produced with a sulfur
+for a tax year if more than 1,500 individuals are engaged in the          content of 15 parts per million or less.
+refinery operations of the business on any day during the tax
+year.
+
+
+
+
+For Paperwork Reduction Act Notice, see instructions.                           Cat. No. 37704F                         Form 8896 (Rev. 12-2019)
+Form 8896 (Rev. 12-2019)                                                                                                                      Page 2
+
+
+Line 3                                                                   The cooperative is deemed to have made the election by
+                                                                       completing line 9. However, the election is not effective unless:
+Enter 25% of the qualified costs (defined earlier) for the facility
+that produced the fuel reported on line 1 if your average daily        • It is made on a timely filed return (including extensions), and
+domestic refinery runs were not more than 155,000 barrels for          • The cooperative designates the apportionment in a written
+the 1-year period ending on December 31, 2002. If your average         notice or on Form 1099-PATR mailed to its patrons during the
+daily domestic refinery runs were more than 155,000 barrels, the       payment period described in section 1382(d).
+25% is reduced (but not below zero) by multiplying it by 1 minus
+your excess over 155,000 barrels divided by 50,000 barrels.              If you timely file your return without making an election, you
+                                                                       can still make the election by filing an amended return within 6
+  Example. Your average daily domestic refinery runs were              months of the due date of the return (excluding extensions).
+165,000 barrels for the 1-year period ending on December 31,           Write “Filed pursuant to section 301.9100-2” on the amended
+2002. First divide 10,000 (your excess over 155,000 barrels) by        return.
+50,000 to get 0.2. Next subtract 0.2 from 1.0 to get 0.8. Then
+multiply 25% (0.25) by 0.8 to get 20% (0.20). On line 3, enter           Once made, the election cannot be revoked.
+20% of the qualified costs for the facility that produced the fuel
+reported on line 1.                                                    Paperwork Reduction Act Notice. We ask for the information
+                                                                       on this form to carry out the Internal Revenue laws of the United
+Line 4                                                                 States. You are required to give us the information. We need it
+Enter the total low sulfur diesel fuel production credits allowed      to ensure that you are complying with these laws and to allow
+for all prior tax years (as determined for line 6).                    us to figure and collect the right amount of tax.
+                                                                          You are not required to provide the information requested on
+Line 7                                                                 a form that is subject to the Paperwork Reduction Act unless
+Enter total low sulfur diesel fuel production credits from:            the form displays a valid OMB control number. Books or
+• Schedule K-1 (Form 1065), Partner’s Share of Income,                 records relating to a form or its instructions must be retained as
+Deductions, Credits, etc., box 15 (code P);                            long as their contents may become material in the
+                                                                       administration of any Internal Revenue law. Generally, tax
+• Schedule K-1 (Form 1120-S), Shareholder’s Share of Income,           returns and return information are confidential, as required by
+Deductions, Credits, etc., box 13 (code P); and                        section 6103.
+• Form 1099-PATR, Taxable Distributions Received From                    The time needed to complete and file this form will vary
+Cooperatives, box 12 (box 11 for 2019; box 10 before 2019), or         depending on individual circumstances. The estimated burden
+other notice of credit allocation.                                     for individual and business taxpayers filing this form is approved
+  Partnerships, S corporations, and cooperatives report the            under OMB control number 1545-0074 and 1545-0123 and is
+above credits on line 7. All other filers figuring a separate credit   included in the estimates shown in the instructions for their
+on earlier lines also report the above credits on line 7. All others   individual and business income tax return. The estimated
+not using earlier lines to figure a separate credit can report the     burden for all other taxpayers who file this form is shown below.
+above credits directly on Form 3800, Part III, line 1m.                Recordkeeping       .   .   .   .   .   .   .   .   .   .   . 2 hr., 52 min.
+Line 9                                                                 Learning about the law or the form .            .   .   .   .   .   . 30 min.
+Cooperative election to allocate credit to patrons. A                  Preparing and sending the form to the IRS .                 .   .   . 34 min.
+cooperative described in section 1381(a) can elect to allocate           If you have comments concerning the accuracy of these time
+any part of the low sulfur diesel fuel production credit to patrons    estimates or suggestions for making this form simpler, we would
+of the cooperative. The credit is allocated among the patrons          be happy to hear from you. See the instructions for the tax
+eligible to share in patronage dividends on the basis of the           return with which this form is filed.
+quantity or value of business done with or for the patrons for the
+tax year.
+   If the cooperative is subject to the passive activity rules,
+include on line 7 any Form 8896 credits from passive activities
+disallowed for prior years and carried forward to this year.
+Complete Form 8810, Corporate Passive Activity Loss and
+Credit Limitations, to determine the allowed credits that can be
+allocated to patrons. For details, see the Instructions for Form
+8810.
+

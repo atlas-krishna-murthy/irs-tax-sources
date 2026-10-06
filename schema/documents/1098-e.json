@@ -1,0 +1,62 @@
+{
+  "document": {
+    "id": "1098-E",
+    "title": "Student Loan Interest Statement",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form 1098-E (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1098e--2025.pdf",
+    "issued_by": "the lender / recipient of the student loan interest",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Student loan interest received by lender",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "If checked, box 1 does not include loan origination fees and/or capitalized interest for loans made before September 1, 2004",
+        "type": "checkbox"
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "note": "A corrected form REPLACES the one it corrects for the same account: the two are never both counted. Which copy stands is a person's call, made by reading the two side by side."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "note": "Printed on Copy A (the IRS's copy) only; a recipient's copy carries no VOID box. Declared so a Copy A that reaches the packet is recognised for what it is - a form that reports nothing."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "note": "May show an account or other unique number the lender assigned to distinguish the borrower's account - what tells two of one lender's forms apart."
+      },
+      {
+        "box": "borrower-name",
+        "label": "BORROWER'S name",
+        "type": "text"
+      },
+      {
+        "box": "borrower-tin",
+        "label": "BORROWER'S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "recipient-tin",
+        "label": "RECIPIENT'S TIN",
+        "type": "tin"
+      }
+    ],
+    "notes": "Where box 2 is checked the borrower may have MORE deductible interest than box 1 reports, because loan origination fees and capitalized interest on pre-September-1-2004 loans are deductible but are not in box 1. Box 1 is therefore a floor, not a ceiling, in that case."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1098E",
+    "note": null
+  }
+}

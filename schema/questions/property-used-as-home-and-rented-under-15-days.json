@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "property-used-as-home-and-rented-under-15-days",
+    "wording": "Did the taxpayer use this property as a home in 2025 (personal use of more than the greater of 14 days or 10% of the days rented at fair rental value) AND rent it out for fewer than 15 days?",
+    "scope": "activity",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 used as a home and rented under 15 days: nothing reported on Schedule E"
+      },
+      {
+        "value": "no",
+        "label": "No"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "A rental is rented 15 days or more unless a preparer says otherwise"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule E (Form 1040)",
+        "line": "Line 2",
+        "revision": "2025",
+        "wording": "If you did use the unit as a home and rented the unit out for fewer than 15 days in 2025, do not report the rental income and do not deduct any rental expenses.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040se--2025.pdf"
+      }
+    }
+  }
+}

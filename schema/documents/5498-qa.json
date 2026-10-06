@@ -1,0 +1,84 @@
+{
+  "document": {
+    "id": "5498-QA",
+    "title": "ABLE Account Contribution Information",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form 5498-QA (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f5498qa--2025.pdf",
+    "issued_by": "ABLE program (issuer)",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "Marks this statement as correcting one already furnished for the same year."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a filer's mark, never a figure."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "The filer's own account number; identification only."
+      },
+      {
+        "box": "issuer-tin",
+        "label": "ISSUER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "beneficiary-tin",
+        "label": "BENEFICIARY\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "1",
+        "label": "ABLE contributions",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "ABLE to ABLE Rollovers",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Cumulative contributions",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Fair market value",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "If checked, account was opened in 2025",
+        "type": "checkbox"
+      },
+      {
+        "box": "6",
+        "label": "Basis of eligibility",
+        "type": "code",
+        "notes": "A, B or C \u2014 the basis for ABLE eligibility."
+      },
+      {
+        "box": "7",
+        "label": "Code",
+        "type": "code",
+        "notes": "1-7 \u2014 the type of disability."
+      }
+    ],
+    "notes": "Like every 5498, this document verifies rather than places: 'Do not deduct these amounts on your income tax return.'"
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "document": {
+    "id": "4868",
+    "title": "Application for Automatic Extension of Time To File U.S. Individual Income Tax Return",
+    "kind": "taxpayer_record",
+    "revision": "2025",
+    "revision_printed_as": "Form 4868 (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f4868--2025.pdf",
+    "issued_by": "the taxpayer",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "7",
+        "label": "Amount you're paying (see instructions)",
+        "type": "money"
+      },
+      {
+        "box": "tax-year",
+        "label": "For calendar year 2025, or other tax year beginning",
+        "type": "text"
+      },
+      {
+        "box": "1",
+        "label": "Your name(s) (see instructions)",
+        "type": "text"
+      },
+      {
+        "box": "2",
+        "label": "Your social security number",
+        "type": "tin"
+      },
+      {
+        "box": "3",
+        "label": "Spouse's social security number",
+        "type": "tin"
+      },
+      {
+        "box": "4",
+        "label": "Estimate of total tax liability for 2025",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Total 2025 payments",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "Balance due. Subtract line 5 from line 4.",
+        "type": "money"
+      },
+      {
+        "box": "8",
+        "label": "Check here if you're \"out of the country\" and a U.S. citizen or resident.",
+        "type": "checkbox"
+      },
+      {
+        "box": "9",
+        "label": "Check here if you file Form 1040-NR and didn't receive wages as an employee subject to U.S. income tax withholding",
+        "type": "checkbox"
+      }
+    ],
+    "notes": "The amount paid with the extension request routes to Schedule 3 line 10."
+  },
+  "extraction": {
+    "model": "custom.4868",
+    "note": "Azure ships no prebuilt-tax model for this form, so it reached the generic reader - which emits no field bearing these box names, so every cited route out of this document was dead while looking implemented (spec 075 US1/W42). Read by the declared custom model over every line the 2025 face prints; only line 7 is a payment.",
+    "custom": {
+      "reads": "a Form 4868, Application for Automatic Extension of Time To File. Only the amount actually paid with it is a figure on the return.",
+      "sections": [
+        {
+          "document": "4868",
+          "boxes": [
+            "tax-year",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+          ]
+        }
+      ]
+    }
+  }
+}

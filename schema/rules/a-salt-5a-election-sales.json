@@ -1,0 +1,45 @@
+{
+  "rule": {
+    "id": "a-salt-5a-election-sales",
+    "title": "Without the election, general sales taxes stay off Schedule A line 5a",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-tax-payment-records.state_and_local_general_sales_taxes_paid"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "salt-5a-elects-general-sales-taxes"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "salt-5a-elects-general-sales-taxes",
+        "is": "income_taxes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "income_taxes",
+      "because": "Schedule A line 5a takes state and local income taxes unless the taxpayer elects general sales taxes; no election has been recorded."
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Schedule A (Form 1040)",
+      "line": "5a",
+      "revision": "2025",
+      "wording": "If you don't elect to deduct general sales taxes, include on line 5a the state and local income taxes listed next.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "open_point": "The optional sales tax table amount needs the table's income figure (a computation); only the client's own record of general sales taxes is a figure here."
+  }
+}

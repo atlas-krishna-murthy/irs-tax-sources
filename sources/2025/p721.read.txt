@@ -1,0 +1,3519 @@
+Contents
+Future Developments . . . . . . . . . . . . . . . . . . . . . . . 1
+
+Publication 721
+
+What’s New . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+Tax Guide to
+U.S. Civil
+Service
+Retirement
+Benefits
+
+Reminders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Part I General Information . . . . . . . . . . . . . . . . . . . 3
+Part II Rules for Retirees . . . . . . . . . . . . . . . . . . . . 5
+Part III Rules for Disability Retirement and
+Credit for the Elderly or the Disabled . . . . . . . 19
+Part IV Rules for Survivors of Federal
+Employees . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Part V Rules for Survivors of Federal Retirees . . . 26
+Worksheets A and B . . . . . . . . . . . . . . . . . . . . . . . 29
+How To Get Tax Help . . . . . . . . . . . . . . . . . . . . . . . 30
+
+For use in preparing
+
+2025 Returns
+
+Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+Future Developments
+For the latest information about developments related to
+Pub. 721, such as legislation enacted after it was
+published, go to IRS.gov/Pub721.
+
+What’s New
+Additional deductions for seniors. Beginning in 2025,
+seniors age 65 or older may claim an additional deduction
+of $6,000 (or $12,000 for married couples where both
+spouses qualify).
+
+• The deduction is an addition to the standard or itemized deduction.
+
+• It phases out for taxpayers with modified adjusted
+gross income (MAGI) over $75,000 (single) or
+$150,000 (married filing jointly).
+
+Repeal of the windfall elimination provision (WEP)
+and government pension offset (GPO). Recent legislation repealed the WEP and GPO with respect to social
+security benefits payable after 2023. For more information,
+see Social Security Fairness Act: Windfall Elimination
+Provision (WEP) and Government Pension Offset (GPO)
+update | SSA.
+
+Reminders
+Get forms and other information faster and easier at:
+
+• IRS.gov (English)
+• IRS.gov/Korean (한국어)
+• IRS.gov/Spanish (Español) • IRS.gov/Russian (Pусский)
+• IRS.gov/Chinese (中文)
+• IRS.gov/Vietnamese (Tiếng Việt)
+
+Feb 11, 2026
+
+Phased retirement. The phased retirement program was
+signed into law by the Moving Ahead for Progress in the
+21st Century Act. This program allows eligible employees
+to begin receiving annuity payments while working part
+time. For more information about phased retirement, go to
+
+Publication 721 (2025) Catalog Number 46713C
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+OPM Retirement Center – Phased Retirement. For information on how the tax-free portion (recovery of investment
+in the contract) of your phased retirement benefits is figured, see Notice 2016-39, available at IRS.gov/irb/
+2016-26_IRB#NOT-2016-39.
+For additional guidance, see the Benefits Administration Letter 19-102, dated May 20, 2019, available at
+OPM.gov/retirement-services/publications-forms/benefitsadministration-letters/2019/19-102.pdf.
+Roth Thrift Savings Plan (TSP) balance. You may be
+able to contribute to a designated Roth account through
+the TSP known as the Roth TSP. Roth TSP contributions
+are after-tax contributions, subject to the same contribution limits as the traditional TSP. Qualified distributions
+from a Roth TSP aren’t included in your income. See Thrift
+Savings Plan under Part II, later, for more information.
+Rollovers. You can roll over certain amounts from the
+CSRS, FERS, or TSP to a qualified retirement plan or an
+IRA. See Rollover Rules under Part II, later.
+Rollovers by surviving spouse. You may be able to roll
+over a distribution you receive as the surviving spouse of a
+deceased employee or retiree into a qualified retirement
+plan or an IRA. See Rollover Rules under Part II, later.
+TSP beneficiary participant accounts. If you are the
+spouse beneficiary of a decedent’s TSP account, you
+have the option of leaving the death benefit payment in a
+TSP account in your own name (a beneficiary participant
+account). The amounts in the beneficiary participant account are neither taxable nor reportable until you choose
+to make a withdrawal, or otherwise receive a distribution
+from the account.
+Benefits for public safety officer’s survivors. A survivor annuity received by the spouse, former spouse, or
+child of a public safety officer killed in the line of duty will
+generally be excluded from the recipient’s income. For
+more information, see Dependents of public safety officers
+under Part II, later.
+Uniformed services TSP accounts. If you have a uniformed services TSP account, it may include contributions
+from combat pay. This pay is tax exempt and contributions
+attributable to that pay are tax exempt when they are distributed from the uniformed services TSP account. However, any earnings on those contributions are subject to
+tax when they are distributed. See Roth TSP balance,
+later, to get more information about Roth contributions.
+The statement you receive from the TSP will separately
+state the total amount of your distribution and the amount
+of your taxable distribution for the year. If you have both a
+civilian and a uniformed services TSP account, you should
+apply the rules discussed in this publication separately to
+each account. You can get more information from the TSP
+website, TSP.gov, or the TSP Service Office.
+Photographs of missing children. The IRS is a proud
+partner with the National Center for Missing & Exploited
+Children® (NCMEC). Photographs of missing children selected by the Center may appear in this publication on pages that would otherwise be blank. You can help bring
+these children home by looking at the photographs and
+calling 1-800-THE-LOST (1-800-843-5678) if you
+recognize a child.
+2
+
+Introduction
+This publication explains how the federal income tax rules
+apply to civil service retirement benefits received by retired federal employees (including those disabled) or their
+survivors. These benefits are paid primarily under the Civil
+Service Retirement System (CSRS) or the Federal Employees Retirement System (FERS).
+Tax rules for annuity benefits. Part of the annuity benefits you receive is a tax-free recovery of your contributions
+to the CSRS or FERS. The rest of your annuity benefits
+are taxable. How you figure the tax-free recovery of the
+cost of your CSRS or FERS annuity depends on your annuity starting date. If your annuity starting date is after November 18, 1996, you must use the Simplified Method to
+figure the taxable and tax-free parts. See Rules for Retirees under Part II, later.
+Thrift Savings Plan (TSP). The TSP provides federal
+employees with the same savings and tax benefits that
+many private employers offer their employees. This plan is
+similar to 401(k) plans offered by the private sector. You
+can defer tax on part of your pay by having it contributed
+to your traditional balance in the plan. The contributions
+and earnings on them aren’t taxed until they are distributed to you. Also, the TSP offers a Roth TSP option. Contributions to this type of balance are after tax, and qualified distributions from the account are tax free. See Thrift
+Savings Plan under Part II, later.
+Comments and suggestions. We welcome your comments about this publication and suggestions for future
+editions.
+You can send us comments through IRS.gov/
+FormComments. Or, you can write to the Internal Revenue
+Service, Tax Forms and Publications, 1111 Constitution
+Ave. NW, IR-6526, Washington, DC 20224.
+Although we can’t respond individually to each comment received, we do appreciate your feedback and will
+consider your comments and suggestions as we revise
+our tax forms, instructions, and publications. Don’t send
+tax questions, tax returns, or payments to the above address.
+Getting answers to your tax questions. If you have
+a tax question not answered by this publication or the How
+To Get Tax Help section at the end of this publication, go
+to the IRS Interactive Tax Assistant page at IRS.gov/
+Help/ITA where you can find topics by using the search
+feature or viewing the categories listed.
+Getting tax forms, instructions, and publications.
+Go to IRS.gov/Forms to download current and prior-year
+forms, instructions, and publications.
+Ordering tax forms, instructions, and publications.
+Go to IRS.gov/OrderForms to order current forms, instructions, and publications; call 800-829-3676 to order
+prior-year forms and instructions. The IRS will process
+your order for forms and publications as soon as possible.
+
+Publication 721 (2025)
+
+Don’t resubmit requests you’ve already sent us. You can
+get forms and publications faster online.
+
+Useful Items
+
+You may want to see:
+Publication
+575 Pension and Annuity Income
+575
+
+590-A Contributions to Individual Retirement
+Arrangements (IRAs)
+590-A
+
+590-B Distributions from Individual Retirement
+Arrangements (IRAs)
+590-B
+
+939 General Rule for Pensions and Annuities
+939
+
+Form (and Instructions)
+CSA 1099-R Statement of Annuity Paid
+CSA 1099-R
+
+CSF 1099-R Statement of Survivor Annuity Paid
+CSF 1099-R
+
+W-4P Withholding Certificate for Periodic Pension or
+Annuity Payments
+W-4P
+
+W-4R Withholding Certificate for Nonperiodic
+Payments and Eligible Rollover Distributions
+W-4R
+
+1099-R Distributions From Pensions, Annuities,
+Retirement or Profit-Sharing Plans, IRAs,
+Insurance Contracts, etc.
+1099-R
+
+5329 Additional Taxes on Qualified Plans (Including
+IRAs) and Other Tax-Favored Accounts
+
+Interest isn’t paid on contributions to the CSRS for
+
+TIP service after 1956 unless your service was for
+
+more than 1 year but not more than 5 years.
+Therefore, many employees who withdraw their contributions under the CSRS don’t get interest and don’t owe any
+tax on their refund.
+
+If you don’t roll over interest included in your refund, it
+may qualify as a lump-sum distribution eligible for capital
+gain treatment or the 10-year tax option if the plan participant was born before January 2, 1936. If you separate
+from service before the calendar year in which you reach
+age 55 (or before the earlier of age 50 or completing 25
+years of service under the plan if you are a qualified public
+safety employee), it may be subject to the 10% additional
+tax on early distributions. For more information, see
+Lump-Sum Distributions and Tax on Early Distributions in
+Pub. 575.
+
+Tax Withholding and Estimated Tax
+The CSRS or FERS annuity you receive is subject to federal income tax withholding, unless you choose not to
+have tax withheld. OPM will tell you how to make the
+choice. The choice for no withholding remains in effect until you change it. These withholding rules also apply to a
+disability annuity, whether received before or after minimum retirement age.
+If you choose not to have tax withheld, or if you don’t
+have enough tax withheld, you may have to make estimated tax payments.
+
+5329
+
+Part I
+General Information
+This part of the publication contains information that can
+apply to most recipients of civil service retirement benefits.
+
+Refund of Contributions
+If you leave federal government service or transfer to a job
+not under the CSRS or FERS and you aren’t eligible for an
+immediate annuity, you can choose to receive a refund of
+the money in your CSRS or FERS retirement account. The
+refund will include both regular and voluntary contributions
+you made to the fund, plus any interest payable.
+If the refund includes only your contributions, none of
+the refund is taxable. If it includes any interest, the interest
+is taxable unless you roll it over directly into another qualified plan or a traditional individual retirement arrangement
+(IRA) or traditional SIMPLE IRA. If you don’t have the Office of Personnel Management (OPM) transfer the interest
+to an IRA or other plan in a direct rollover, tax will be withheld at a 20% rate. See Rollover Rules under Part II, later,
+for information on how to make a rollover.
+Publication 721 (2025)
+
+You may owe a penalty if the total of your withheld
+tax and estimated tax doesn’t cover most of the
+CAUTION tax shown on your return. Generally, you will owe
+the penalty for 2026 if the additional tax you must pay with
+your return is $1,000 or more and more than 10% of the
+tax to be shown on your 2026 return. For more information, including exceptions to the penalty, see Pub. 505, Tax
+Withholding and Estimated Tax.
+
+!
+
+Form CSA 1099-R. Form CSA 1099-R is mailed to you
+by OPM each year. It will show any tax you had withheld.
+Attach a copy of Form CSA 1099-R to your tax return if
+any federal income tax was withheld.
+You can also view and download your Form CSA
+1099-R by visiting the OPM website at
+servicesonline.opm.gov. To log in, you will need your retirement CSA claim number, your social security number
+(SSN), and your password.
+Choosing no withholding on payments outside the
+United States. The choice for no withholding generally
+can’t be made for annuity payments to be delivered outside the United States and its territories.
+To choose no withholding if you are a U.S. citizen or
+resident alien, you must provide OPM with your home address in the United States or its territories. Otherwise,
+OPM has to withhold tax. For example, OPM must withhold if you provide aU.S. address for a nominee, trustee,
+or agent (such as a bank) to whom the benefits are to be
+3
+
+delivered, but you don’t provide your own U.S. home address. Also, even if you provide a U.S. home address, any
+election of no withholding is not valid if your payment instructions provide that the payment is to be made to a financial institution or other person located outside the United States or its territories.
+If you don’t provide a home address in the United
+States or its territories, you can choose not to have tax
+withheld only if you certify to OPM that you aren’t a U.S.
+citizen, a U.S. resident alien, or someone who left the United States to avoid tax. But if you so certify, you may be
+subject to the 30% flat (or lower treaty) rate withholding
+that applies to nonresident aliens. For details, see Pub.
+519, U.S. Tax Guide for Aliens.
+Withholding certificate. If you give OPM a Form W-4P
+for withholding on periodic pension or annuity payments,
+or Form W-4R for withholding on nonperiodic payments,
+you can choose not to have tax withheld or you can
+choose to have tax withheld. You can’t choose to have no
+tax withheld from eligible rollover distributions. The
+amount of federal income tax withheld depends on which
+form you need to complete. See the instructions for each
+form for more information. If you don’t complete Form
+W-4P, then for a payee who received a first periodic payment in 2025, OPM must withhold as if you were a single
+filer who made no entries in Step 2, Step 3, and Step 4 of
+Form W-4P. For the default 2025 withholding for a payee
+who first received a periodic payment before 2025, see
+Payee fails to furnish Form W-4P or provides an incorrect
+SSN on Form W-4P in Pub. 15-T. If you don’t complete
+Form W-4R, then for a nonperiodic payment, OPM must
+withhold federal income tax at 10%. For an eligible rollover
+distribution, the default withholding rate is 20%.
+To change the amount of withholding or stop withholding, go to the OPM website at servicesonline.opm.gov.
+You will need your retirement CSA or CSF claim number
+and password. If you do not have a password, call or write
+OPM’s Retirement Information Office.
+You can also change the amount of tax withholding or
+stop withholding by calling OPM’s Retirement Information
+Office at 1-888-767-6738. No special form is needed. You
+will need your retirement CSA or CSF claim number and
+your SSN when you call. If you have TTY/TDD equipment,
+call 711.
+Withholding from certain lump-sum payments. If you
+leave the federal government before becoming eligible to
+retire and you apply for a refund of your CSRS or FERS
+contributions, or you die without leaving a survivor eligible
+for an annuity, you or your beneficiary will receive a distribution of your contributions to the retirement plan plus any
+interest payable. Tax will be withheld at a 20% rate on the
+interest distributed. However, tax will not be withheld if you
+have OPM transfer (roll over) the interest directly to your
+traditional IRA or other qualified plan. If you have OPM
+transfer (roll over) the interest directly to a Roth IRA, the
+entire amount will be taxed in the current year. Because
+no income tax will be withheld at the time of the transfer,
+you may want to increase your withholding or pay estima4
+
+ted taxes. See Rollover Rules under Part II, later. If you receive only your contributions, no tax will be withheld.
+Withholding from TSP payments. Generally, a distribution that you receive from the TSP is subject to federal income tax withholding. The amount withheld is:
+
+• 20% if the distribution is an eligible rollover distribution;
+
+• 10% if it is a nonperiodic distribution other than an eligible rollover distribution; or
+
+• Determined using the instructions and tables provided
+in Pub. 15-T, based on information you provide on
+Form W-4P, if it is a periodic distribution.
+
+However, you can usually choose not to have tax withheld
+from TSP payments other than eligible rollover distributions. By January 31 after the end of the year in which you
+receive a distribution, the TSP will issue Form 1099-R
+showing the total distributions you received in the prior
+year and the amount of tax withheld.
+For a detailed discussion of withholding on distributions
+from the TSP, see the TSP publications Tax Rules about
+TSP Payments, and Distributions. Both these publications
+are available on the TSP website at TSP.gov/forms.
+Estimated tax. Generally, you must make estimated tax
+payments for 2026 if you expect to owe at least $1,000 in
+tax for 2026 (after subtracting your withholding and credits) and you expect your withholding and your credits to be
+less than the smaller of:
+
+• 90% of the tax to be shown on your income tax return
+for 2026, or
+
+• 100% of the tax shown on your 2025 income tax return
+
+(110% of that amount if the adjusted gross income
+shown on the return was more than $150,000
+($75,000 if your filing status for 2026 will be married filing separately)). The return must cover all 12 months.
+
+You don’t have to pay estimated tax for 2026 if you were
+a U.S. citizen or resident alien for all of 2025 and you had
+no tax liability for the full 12-month 2025 tax year.
+Pub. 505 and Form 1040-ES contain information that
+you can use to help you figure your estimated tax payments.
+
+Filing Requirements
+If your gross income, including the taxable part of your annuity, is less than a certain amount, you generally don’t
+have to file a federal income tax return for that year. The
+gross income filing requirements for the tax year are in the
+Instructions for Form 1040.
+Children. If you are the surviving spouse of a federal employee or retiree and your monthly annuity check includes
+a survivor annuity for one or more children, each child’s
+annuity counts as their own income (not yours) for federal
+income tax purposes.
+If your child can be claimed as a dependent, treat the
+taxable part of their annuity as unearned income when applying the filing requirements for dependents.
+Publication 721 (2025)
+
+Form CSF 1099-R. Form CSF 1099-R will be mailed
+by January 31 after the end of each tax year. It will show
+the total amount of the annuity you received in the past
+year. It should also show, separately, the survivor annuity
+for a child or children. Only the part that is each individual’s survivor annuity should be shown on that individual’s
+Form 1040 or 1040-SR.
+If your Form CSF 1099-R doesn’t separately show the
+amount paid to you for a child or children, attach a statement to your return, along with a copy of Form CSF
+1099-R, explaining why the amount shown on the tax return differs from the amount shown on Form CSF 1099-R.
+You can also view and download your Form CSF
+1099-R by visiting the OPM website at
+servicesonline.opm.gov. To log in, you will need your retirement CSF claim number and password.
+You may request a Summary of Payments, showing the
+amounts paid to you for your child(ren), from OPM by calling
+OPM’s
+Retirement
+Information
+Office
+at
+1-888-767-6738. You will need your CSF claim number
+and your SSN when you call.
+Taxable part of annuity. To find the taxable part of a retiree’s annuity when applying the filing requirements, see
+the discussion under Rules for Retirees in Part II; or Rules
+for Disability Retirement and Credit for the Elderly or the
+Disabled in Part III, whichever applies. To find the taxable
+part of each survivor annuity when applying the filing requirements, see the discussion under Rules for Survivors
+of Federal Employees in Part IV; or Rules for Survivors of
+Federal Retirees in Part V, whichever applies.
+
+Part II
+Rules for Retirees
+This part of the publication is for retirees who retired on
+nondisability retirement.
+If you retired on disability before you reached your
+
+TIP minimum retirement age, see Rules for Disability
+
+Retirement and Credit for the Elderly or the Disabled under Part III, later. However, on the day after you
+reach your minimum retirement age, use the rules in this
+section to report your disability retirement and begin recovering your cost.
+Annuity statement. The statement you received from
+OPM when your CSRS or FERS annuity was approved
+shows the commencing date (the annuity starting date),
+the gross monthly rate of your annuity benefit, and your total contributions to the retirement plan (your cost). You will
+use this information to figure the tax-free recovery of your
+cost.
+Annuity starting date. If you retire from federal government service on a regular annuity, your annuity starting
+date is the commencing date on your annuity statement
+from OPM. If something delays payment of your annuity,
+such as a late application for retirement, it doesn’t affect
+Publication 721 (2025)
+
+the date your annuity begins to accrue or your annuity
+starting date.
+Gross monthly rate. This is the amount you were to
+get after any adjustment for electing a survivor’s annuity or
+for electing the lump-sum payment under the alternative
+annuity option (if either applies) but before any deduction
+for income tax withholding, insurance premiums, etc.
+Your cost. Your monthly annuity payment contains an
+amount on which you have previously paid income tax.
+This amount represents part of your contributions to the
+retirement plan. Even though you didn’t receive the money
+that was contributed to the plan, it was included in your
+gross income for federal income tax purposes in the years
+it was taken out of your pay.
+The cost of your annuity is the total of your contributions to the retirement plan, as shown on your annuity
+statement from OPM. If you elected the alternative annuity
+option, it includes any deemed deposits and any deemed
+redeposits that were added to your lump-sum credit. (See
+Lump-sum credit under Alternative Annuity Option, later.)
+If you repaid contributions that you had withdrawn from
+the retirement plan earlier, or if you paid into the plan to receive full credit for service not subject to retirement deductions, the entire repayment, including any interest, is a part
+of your cost. You can’t claim an interest deduction for any
+interest payments. You can’t treat these payments as voluntary contributions; they are considered regular employee contributions.
+Recovering your cost tax free. How you figure the
+tax-free recovery of the cost of your CSRS or FERS annuity depends on your annuity starting date.
+
+• If your annuity starting date is before July 2, 1986, either the 3-Year Rule or the General Rule (both discussed later) applies to your annuity.
+
+• If your annuity starting date is after July 1, 1986, and
+
+before November 19, 1996, you could have chosen to
+use either the General Rule or the Simplified Method
+(discussed later).
+
+• If your annuity starting date is after November 18,
+1996, you must use the Simplified Method.
+
+Under both the General Rule and the Simplified
+Method, each of your monthly annuity payments is made
+up of two parts: the tax-free part that is a return of your
+cost, and the taxable part that is the amount of each payment that is more than the part that represents your cost
+(unless such payment is used for purposes discussed under Distributions Used To Pay Insurance Premiums for
+Public Safety Officers, later). The tax-free part is a fixed
+dollar amount. It remains the same, even if your annuity is
+increased. However, if your annuity starting date is after
+1986, a limit applies to the total amount of annuity income
+that you (or the survivor annuitant) can exclude over the
+years. See Exclusion limit, later.
+Choosing a survivor annuity after retirement. If
+you retired without a survivor annuity and report your annuity under the Simplified Method, don’t change your
+
+5
+
+tax-free monthly amount even if you later choose a survivor annuity.
+If you retired without a survivor annuity and report your
+annuity under the General Rule, you must figure the
+tax-free part of your annuity using a new exclusion percentage if you later choose a survivor annuity and take reduced annuity payments. To figure the new exclusion percentage, reduce your cost by the amount you previously
+recovered tax free. Figure the expected return as of the
+date the reduced annuity begins. For details on the General Rule, see Pub. 939.
+For more information about choosing or canceling a
+survivor annuity after retirement, contact OPM’s Retirement Information Office at 1-888-767-6738.
+Exclusion limit. Your annuity starting date determines
+the total amount of annuity payments that you can exclude
+from income over the years.
+Annuity starting date after 1986. If your annuity
+starting date is after 1986, the total amount of annuity income that you (or the survivor annuitant) can exclude over
+the years as a return of your cost can’t exceed your total
+cost. Annuity payments you or your survivors receive after
+the total cost in the plan has been recovered are generally
+fully taxable.
+Example. Your annuity starting date is after 1986 and
+you exclude $100 a month under the Simplified Method. If
+your cost is $12,000, the exclusion ends after 10 years
+(120 months). Thereafter, your entire annuity is generally
+fully taxable.
+Annuity starting date before 1987. If your annuity
+starting date is before 1987, you can continue to take your
+monthly exclusion figured under the General Rule or the
+Simplified Method for as long as you receive your annuity.
+If you chose a joint and survivor annuity, your survivor can
+continue to take that same exclusion. The total exclusion
+may be more than your cost.
+Deduction of unrecovered cost. If your annuity starting
+date is after July 1, 1986, and the cost of your annuity
+hasn’t been fully recovered at your (or the survivor annuitant’s) death, a deduction is allowed for the unrecovered
+cost. The deduction is claimed on your (or your survivor’s)
+final tax return as an “Other Itemized Deduction.” If your
+annuity starting date is before July 2, 1986, no tax benefit
+is allowed for any unrecovered cost at death.
+
+Simplified Method
+If your annuity starting date is after November 18, 1996,
+you must use the Simplified Method to figure the tax-free
+part of your CSRS or FERS annuity. (OPM has figured the
+taxable amount of your annuity shown on your Form CSA
+1099-R using the Simplified Method.) You could have
+chosen to use either the Simplified Method or the General
+Rule if your annuity starting date is after July 1, 1986, but
+before November 19, 1996. The Simplified Method
+doesn’t apply if your annuity starting date is before July 2,
+1986.
+6
+
+Under the Simplified Method, you figure the tax-free
+part of each full monthly payment by dividing your cost by
+a number of months based on your age. This number will
+differ depending on whether your annuity starting date is
+before November 19, 1996, or after November 18, 1996. If
+your annuity starting date is after 1997 and your annuity
+includes a survivor benefit for your spouse, this number is
+based on your combined ages.
+Worksheet A. Use Worksheet A (near the end of this
+publication) to figure your taxable annuity. Be sure to keep
+the completed worksheet. It will help you figure your taxable amounts for later years.
+Instead of Worksheet A, you can generally use
+
+TIP the Simplified Method Worksheet in the Instruc-
+
+tions for Form 1040 to figure your taxable annuity.
+However, you must use Worksheet A and Worksheet B in
+this publication if you chose the alternative annuity option,
+discussed later.
+Line 2. See Your cost, earlier, for an explanation of
+your cost in the plan. If your annuity starting date is after
+November 18, 1996, and you chose the alternative annuity
+option (explained later), you must reduce your cost by the
+tax-free part of the lump-sum payment you received.
+Line 3. The number you enter on line 3 is the appropriate number from Table 1 or 2 representing approximate
+life expectancies in months. If your annuity starting date is
+after 1997, use:
+
+• Table 1 for an annuity without a survivor benefit, or
+• Table 2 for an annuity with a survivor benefit.
+If your annuity starting date is before 1998, use Table 1.
+Line 6. If you received contributions tax free before
+2025, the amount previously recovered tax free that you
+must enter on line 6 is the total amount from line 10 of last
+year’s worksheet. If your annuity starting date is before
+November 19, 1996, and you chose the alternative annuity
+option, this amount includes the tax-free part of the
+lump-sum payment you received.
+Example. Bill Smith retired from the federal government on March 31, 2025, under an annuity that will provide a survivor benefit for his wife, Kathy. His annuity starting date is April 1, 2025, the annuity is paid in arrears, and
+he received his first monthly annuity payment on May 1,
+2025. He must use the Simplified Method to figure the
+tax-free part of his annuity benefits.
+Bill’s monthly annuity benefit is $1,000. He had contributed $31,000 to his retirement plan and had received no
+distributions before his annuity starting date. At his annuity
+starting date, he was age 65 and Kathy was age 57.
+Bill’s completed Worksheet A is shown later. To complete line 3, he used Table 2 at the bottom of the worksheet and found that 310 is the number in the second column opposite the age range that includes 122 (his and
+Kathy’s combined ages). Bill keeps a copy of the completed worksheet for his records. It will help him (and Kathy, if
+she survives him) figure the taxable amount of the annuity
+in later years.
+Publication 721 (2025)
+
+Bill’s tax-free monthly amount is $100. (See line 4 of the
+worksheet.) If he lives to collect more than 310 monthly
+payments, he will generally have to include in his gross income the full amount of any annuity payments received after 310 payments have been made.
+If Bill doesn’t live to collect 310 monthly payments and
+his wife begins to receive monthly payments, she will also
+exclude $100 from each monthly payment until 310 payments (Bill’s and hers) have been collected. If she dies before 310 payments have been made, an “Other Itemized
+Deduction” will be allowed for the unrecovered cost on her
+final income tax return.
+
+General Rule
+If your annuity starting date is after November 18, 1996,
+you can’t use the General Rule to figure the tax-free part
+of your CSRS or FERS annuity. If your annuity starting
+date is after July 1, 1986, but before November 19, 1996,
+you could have chosen to use either the General Rule or
+the Simplified Method. If your annuity starting date is before July 2, 1986, you could have chosen to use the General Rule only if you couldn’t use the 3-Year Rule.
+Under the General Rule, you figure the tax-free part of
+each full monthly payment by multiplying the initial gross
+monthly rate of your annuity by an exclusion percentage.
+Figuring this percentage is complex and requires the use
+of actuarial tables. For these tables and other information
+about using the General Rule, see Pub. 939.
+
+3-Year Rule
+If your annuity starting date was before July 2, 1986, you
+probably had to report your annuity using the 3-Year Rule.
+Under this rule, you excluded all the annuity payments
+from income until you fully recovered your cost. After your
+cost was recovered, all payments became fully taxable.
+You can’t use another rule to again exclude amounts from
+income.
+The 3-Year Rule was repealed for retirees whose annuity starting date is after July 1, 1986.
+
+Publication 721 (2025)
+
+7
+
+Worksheet A. Simplified Method for Bill Smith
+See the instructions under Simplified Method in Part II of this publication.
+1. Enter the total pension or annuity payments received this year. Also, add this amount to the total for Form 1040,
+1040-SR, or 1040-NR, line 5a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. Enter your cost in the plan at the annuity starting date, plus any death benefit exclusion.* See Your cost under
+Rules for Retirees in Part II, earlier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Note: If your annuity starting date was before this year and you completed this worksheet last year, skip line 3
+and enter the amount from line 4 of last year’s worksheet on line 4 below (even if the amount of your pension or
+annuity has changed). Otherwise, go to line 3.
+3. Enter the appropriate number from Table 1 below. But if your annuity starting date was after 1997 and the
+payments are for your life and that of your beneficiary, enter the appropriate number from Table 2 below . . . . .
+4. Divide line 2 by the number on line 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5. Multiply line 4 by the number of months for which this year’s payments were made. If your annuity starting date
+was before 1987, enter this amount on line 8 below and skip lines 6, 7, 10, and 11. Otherwise, go
+to line 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6. Enter any amounts previously recovered tax free in years after 1986. This is the amount shown on line 10 of
+your worksheet for last year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7. Subtract line 6 from line 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8. Enter the smaller of line 5 or line 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9. Taxable amount for year. Subtract line 8 from line 1. Enter the result, but not less than zero. Also, add this
+amount to the total for Form 1040 or 1040-SR, line 5b. If you are a nonresident alien, enter this amount on line 1
+of Worksheet C. If your Form CSA 1099-R or Form CSF 1099-R shows a larger amount, use the amount figured
+on this line instead. If you are a retired public safety officer, see Distributions Used To Pay Insurance Premiums
+for Public Safety Officers under Part II before entering an amount on your tax return or Worksheet
+C, line 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10. Was your annuity starting date before 1987?
+Yes.
+
+STOP
+
+1.
+
+$
+
+8,000
+
+2.
+
+31,000
+
+3.
+
+310
+
+4.
+
+100
+
+5.
+
+800
+0
+
+6.
+
+31,000
+
+7.
+
+800
+
+8.
+
+9.
+
+$
+
+7,200
+
+Don’t complete the rest of this worksheet.
+
+⻫ No. Add lines 6 and 8. This is the amount you have recovered tax free through 2025. You will need this
+number if you need to fill out this worksheet next year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11. Balance of cost to be recovered. Subtract line 10 from line 2. If zero, you will not have to complete this
+worksheet next year. The payments you receive next year will generally be fully taxable . . . . . . . . . . . . . . . . . .
+
+10.
+
+800
+
+11.
+
+$ 30,200
+
+Table 1 for Line 3 Above
+AND your annuity starting date was—
+IF your age on your
+annuity starting date was...
+55 or under
+56–60
+61–65
+66–70
+71 or over
+
+before November 19, 1996,
+THEN enter on line 3...
+300
+260
+240
+170
+120
+
+after November 18, 1996,
+THEN enter on line 3...
+360
+310
+260
+210
+160
+
+Table 2 for Line 3 Above
+IF the annuitants’ combined
+ages on your annuity starting
+date were...
+110 or under
+111–120
+121–130
+131–140
+141 or over
+
+THEN enter on line 3...
+410
+360
+310
+260
+210
+
+* A death benefit exclusion of up to $5,000 applies to certain benefits received by survivors of employees who died
+before August 21, 1996.
+
+8
+
+Publication 721 (2025)
+
+Alternative Annuity Option
+If you are eligible, you may choose an alternative form of
+annuity. If you make this choice, you will receive a
+lump-sum payment equal to your contributions to the plan
+and a reduced monthly annuity. You are eligible to make
+this choice if you meet all of the following requirements.
+
+• You are retiring, but not on disability.
+• You have a life-threatening illness or other critical
+medical condition.
+
+• You don’t have a former spouse entitled to court-ordered benefits based on your service.
+
+If you aren’t eligible or don’t choose this alternative annuity, you can skip the following discussion and go to Federal Gift Tax, later.
+
+Lump-Sum Payment
+The lump-sum payment you receive under the alternative
+annuity option generally has a tax-free part and a taxable
+part. The tax-free part represents part of your cost. The
+taxable part represents part of the earnings on your annuity contract. Your lump-sum credit (discussed later) may
+include a deemed deposit or redeposit that is treated as
+being included in your lump-sum payment even though
+you don’t actually receive such amounts. Deemed deposits and redeposits, which are described later under
+Lump-sum credit, are taxable to you in the year of retirement. Your taxable amount may therefore be more than
+the lump-sum payment you receive.
+You must include the taxable part of the lump-sum payment in your income for the year you receive the payment
+unless you roll it over into another qualified plan or an IRA.
+If you don’t have OPM transfer the taxable amount to an
+IRA or other plan in a direct rollover, tax will be withheld at
+a 20% rate. See Rollover Rules, later, for information on
+how to make a rollover.
+OPM can make a direct rollover only up to the
+amount of the lump-sum payment. Therefore, to
+CAUTION defer tax on the full taxable amount if it is more
+than the payment, you must add funds from another
+source.
+
+!
+
+The taxable part of the lump-sum payment doesn’t
+qualify as a lump-sum distribution eligible for capital gain
+treatment or the 10-year tax option. It may also be subject
+to the 10% additional tax on early distributions if you separate from service before the calendar year in which you
+reach age 55, even if you reach age 55 in the year you receive the lump-sum payment. For more information, see
+Lump-Sum Distributions and Tax on Early Distributions in
+Pub. 575.
+
+To complete the worksheet, you will need to know the
+amount of your lump-sum credit and the present value of
+your annuity contract.
+Lump-sum credit. Generally, this is the same amount
+as the lump-sum payment you receive (the total of your
+contributions to the retirement system). However, for purposes of the alternative annuity option, your lump-sum
+credit may also include deemed deposits and redeposits
+that OPM advanced to your retirement account so that you
+are given credit for the service they represent. Deemed
+deposits (including interest) are for federal employment
+during which no retirement contributions were taken out of
+your pay. Deemed redeposits (including interest) are for
+any refunds of retirement contributions that you received
+and didn’t repay. You are treated as if you had received a
+lump-sum payment equal to the amount of your lump-sum
+credit and then had made a repayment to OPM of the advanced amounts.
+Present value of your annuity contract. The
+present value of your annuity contract is figured using actuarial tables provided by the IRS.
+If you are receiving a lump-sum payment under the alternative annuity option, you can write to the address below to find out the present value of your annuity contract.
+Internal Revenue Service
+Attn: Actuarial Group 2
+TE/GE SE:T:EP:RA:T:A2
+NCA-629
+1111 Constitution Ave. NW
+Washington, DC 20224-0002
+Example. David Brown retired from the federal government in 2025, 1 month after his 55th birthday. He had contributed $31,000 to his retirement plan and chose to receive a lump-sum payment of that amount under the
+alternative annuity option. The present value of his annuity
+contract is $155,000.
+The tax-free part and the taxable part of the lump-sum
+payment are figured using Worksheet B, as shown in the
+completed worksheet. The taxable part ($24,800) is also
+his net cost in the plan, which is used to figure the taxable
+part of his reduced annuity payments. See Reduced Annuity, later.
+Lump-sum payment in installments. If you choose the
+alternative annuity option, you will usually receive the
+lump-sum payment in one installment. The overall tax
+treatment is explained at the beginning of this discussion.
+How to report. Add any actual or deemed payment of
+your lump-sum credit (defined earlier) to the total for Form
+1040, 1040-SR, or 1040-NR, line 5a. Add the taxable
+amount to the total for Form 1040, 1040-SR, or 1040-NR,
+line 5b, unless you roll over the taxable part to your traditional IRA or a qualified retirement plan.
+
+Worksheet B. Use Worksheet B (near the end of this
+publication) to figure the taxable part of your lump-sum
+payment. Be sure to keep the completed worksheet for
+your records.
+Publication 721 (2025)
+
+9
+
+Worksheet B. Lump-Sum Payment for David Brown
+See the instructions under Alternative Annuity Option in Part II of this publication.
+$
+
+31,000
+
+1. Enter your lump-sum credit (your cost in the plan at the annuity starting date) . . . . . . . . . . . . . . . . .
+2. Enter the present value of your annuity contract . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.
+2.
+
+155,000
+
+3. Divide line 1 by line 2
+
+3.
+
+0.20
+
+............................................................
+
+4. Tax-free amount. Multiply line 1 by line 3. (Caution: Don’t include this amount on line 6 of
+Worksheet A in this publication.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.
+5. Taxable amount (net cost in the plan). Subtract line 4 from line 1. Include this amount in the total
+on Form 1040, 1040-SR, or 1040-NR, line 5b. Also, enter this amount on line 2 of Worksheet A in this
+publication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.
+
+Reduced Annuity
+If you have chosen to receive a lump-sum payment under
+the alternative annuity option, you will also receive reduced monthly annuity payments. These annuity payments each will have a tax-free and a taxable part. To figure the tax-free part of each annuity payment, you must
+use the Simplified Method (Worksheet A). For instructions
+on how to complete the worksheet, see Worksheet A under Simplified Method, earlier.
+To complete Worksheet A, line 2, you must reduce your
+cost in the plan by the tax-free part of the lump-sum payment you received. Enter as your net cost on line 2 the
+amount from Worksheet B, line 5. Don’t include the
+tax-free part of the lump-sum payment with other amounts
+recovered tax free (Worksheet A, line 6) when limiting your
+total exclusion to your total cost.
+Example. The facts are the same as in the example for
+David Brown in the preceding discussion. In addition, David received 10 annuity payments in 2025 of $1,200 each.
+Using Worksheet A, he figures the taxable part of his annuity payments. He completes line 2 by reducing his
+$31,000 cost by the $6,200 tax-free part of his lump-sum
+payment. His entry on line 2 is his $24,800 net cost in the
+plan (the amount from Worksheet B, line 5). He doesn’t include the tax-free part of his lump-sum payment on Worksheet A, line 6. An example of David’s filled-in Worksheet
+A is shown in this publication.
+Reemployment after choosing the alternative
+annuity option. If you chose this option when
+CAUTION you retired and then you were reemployed by the
+federal government before retiring again, your Form CSA
+1099-R may show only the amount of your contributions to
+your retirement plan during your reemployment. If the
+amount on the form doesn’t include all your contributions,
+disregard it and use your total contributions to figure the
+taxable part of your annuity payments.
+
+!
+
+Annuity starting date before November 19, 1996. If
+your annuity starting date is before November 19, 1996,
+and you chose the alternative annuity option, the taxable
+and tax-free parts of your lump-sum payment and your annuity payments are figured using different rules. Under
+those rules, you don’t reduce your cost in the plan (Worksheet A, line 2) by the tax-free part of the lump-sum payment. However, you must include that tax-free amount
+10
+
+$
+
+6,200
+
+$
+
+24,800
+
+with other amounts previously recovered tax free (Worksheet A, line 6) when limiting your total exclusion to your
+total cost.
+
+Federal Gift Tax
+If, through the exercise or nonexercise of an election or
+option, you provide an annuity for your beneficiary at or after your death, you have made a gift. The gift may be taxable for gift tax purposes. The value of the gift is equal to
+the value of the annuity.
+Joint and survivor annuity. If the gift is an interest in a
+joint and survivor annuity where only you and your spouse
+can receive payments before the death of the last spouse
+to die, the gift will generally qualify for the unlimited marital
+deduction. This will eliminate any gift tax liability with regard to that gift.
+If you provide survivor annuity benefits for someone
+other than your current spouse, such as your former
+spouse, the unlimited marital deduction will not apply. This
+may result in a taxable gift.
+More information. For information about the gift tax,
+see Form 709, United States Gift (and Generation-Skipping Transfer) Tax Return, and its instructions.
+
+Retirement During the Past Year
+If you have recently retired, the following discussions covering annual leave, voluntary contributions, and community property may apply to you.
+Annual leave. A payment for accrued annual leave received on retirement is a salary payment. It is taxable as
+wages in the tax year you receive it.
+Voluntary contributions. Voluntary contributions to the
+retirement fund are those made in addition to the regular
+contributions that were deducted from your salary. They
+also include the regular contributions withheld from your
+salary after you have the years of service necessary for
+the maximum annuity allowed by law. Voluntary contributions aren’t the same as employee contributions to the
+TSP. See Thrift Savings Plan, later.
+Additional annuity benefit. If you choose to receive
+an additional annuity benefit from your voluntary contributions, it is treated separately from the annuity benefit that
+Publication 721 (2025)
+
+Worksheet A. Simplified Method for David Brown
+See the instructions under Simplified Method in Part II of this publication.
+1. Enter the total pension or annuity payments received this year. Also, add this amount to the total for Form 1040,
+1040-SR, or 1040-NR, line 5a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. Enter your cost in the plan at the annuity starting date, plus any death benefit exclusion.* See Your cost under
+Rules for Retirees in Part II, earlier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Note: If your annuity starting date was before this year and you completed this worksheet last year, skip line 3
+and enter the amount from line 4 of last year’s worksheet on line 4 below (even if the amount of your pension or
+annuity has changed). Otherwise, go to line 3.
+3. Enter the appropriate number from Table 1 below. But if your annuity starting date was after 1997 and the
+payments are for your life and that of your beneficiary, enter the appropriate number from Table 2 below . . . . .
+4. Divide line 2 by the number on line 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5. Multiply line 4 by the number of months for which this year’s payments were made. If your annuity starting date
+was before 1987, enter this amount on line 8 below and skip lines 6, 7, 10, and 11. Otherwise, go
+to line 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6. Enter any amounts previously recovered tax free in years after 1986. This is the amount shown on line 10 of
+your worksheet for last year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7. Subtract line 6 from line 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8. Enter the smaller of line 5 or line 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9. Taxable amount for year. Subtract line 8 from line 1. Enter the result, but not less than zero. Also, add this
+amount to the total for Form 1040 or 1040-SR, line 5b. If you are a nonresident alien, enter this amount on line 1
+of Worksheet C. If your Form CSA 1099-R or Form CSF 1099-R shows a larger amount, use the amount figured
+on this line instead. If you are a retired public safety officer, see Distributions Used To Pay Insurance Premiums
+for Public Safety Officers under Part II before entering an amount on your tax return or Worksheet
+C, line 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10. Was your annuity starting date before 1987?
+Yes.
+
+STOP
+
+1.
+
+$
+
+12,000
+
+2.
+
+24,800
+
+3.
+
+360
+
+4.
+
+68.89
+
+5.
+
+688.90
+0
+
+6.
+
+24,800
+
+7.
+
+688.90
+
+8.
+
+9.
+
+$
+
+11,311.10
+
+Don’t complete the rest of this worksheet.
+
+⻫ No. Add lines 6 and 8. This is the amount you have recovered tax free through 2025. You will need this
+number if you need to fill out this worksheet next year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11. Balance of cost to be recovered. Subtract line 10 from line 2. If zero, you will not have to complete this
+worksheet next year. The payments you receive next year will generally be fully taxable . . . . . . . . . . . . . . . . . .
+
+688.90
+
+10.
+11.
+
+$
+
+24,111.10
+
+Table 1 for Line 3 Above
+AND your annuity starting date was—
+IF your age on your
+annuity starting date was...
+55 or under
+56–60
+61–65
+66–70
+71 or over
+
+before November 19, 1996,
+THEN enter on line 3...
+300
+260
+240
+170
+120
+
+after November 18, 1996,
+THEN enter on line 3...
+360
+310
+260
+210
+160
+
+Table 2 for Line 3 Above
+IF the annuitants’ combined
+ages on your annuity starting
+date were...
+110 or under
+111–120
+121–130
+131–140
+141 or over
+
+THEN enter on line 3...
+410
+360
+310
+260
+210
+
+* A death benefit exclusion of up to $5,000 applies to certain benefits received by survivors of employees who died before
+August 21, 1996.
+
+Publication 721 (2025)
+
+11
+
+comes from the regular contributions deducted from your
+salary. This separate treatment applies for figuring the
+amounts to be excluded from, and included in, gross income. It doesn’t matter that you receive only one monthly
+check covering both benefits. Each year, you will receive a
+Form CSA 1099-R that will show how much of your total
+annuity received in the past year was from each type of
+benefit.
+Figure the taxable and tax-free parts of your additional
+monthly benefits from voluntary contributions using the
+rules that apply to regular CSRS and FERS annuities, as
+explained earlier.
+Refund of voluntary contributions. If you choose to
+receive a refund of your voluntary contributions plus accrued interest, the interest is taxable to you in the tax year
+it is distributed unless you roll it over to a traditional IRA or
+another qualified retirement plan. If you don’t have OPM
+transfer the interest to a traditional IRA or other qualified
+retirement plan in a direct rollover, tax will be withheld at a
+20% rate. See Rollover Rules, later. The interest doesn’t
+qualify as a lump-sum distribution eligible for capital gain
+treatment or the 10-year tax option. It may also be subject
+to the 10% additional tax on early distributions if you separate from service before the calendar year in which you
+reach age 55 (or before the earlier of age 50 or completing
+25 years of service under the plan if you are a qualified
+public safety employee). For more information, see
+Lump-Sum Distributions and Tax on Early Distributions in
+Pub. 575.
+Community property laws. State community property
+laws apply to your annuity. These laws will affect your income tax only if you file a return separately from your
+spouse.
+Generally, the determination of whether your annuity is
+separate income (taxable to you) or community income
+(taxable to both you and your spouse) is based on your
+marital status and domicile when you were working. Regardless of whether you are now living in a community
+property state or a noncommunity property state, your current annuity may be community income if it is based on
+services you performed while married and domiciled in a
+community property state.
+At any time, you have only one domicile even though
+you may have more than one home. Your domicile is your
+fixed and permanent legal home that you intend to use for
+an indefinite or unlimited period, and to which, when absent, you intend to return. The question of your domicile is
+mainly a matter of your intentions as indicated by your actions.
+If your annuity is a mixture of community income and
+separate income, you must divide it between the two kinds
+of income. The division is based on your periods of service and domicile in community and noncommunity property states while you were married.
+For more information, see Pub. 555, Community Property.
+
+12
+
+Reemployment After Retirement
+If you retired from federal service and are later rehired by
+the federal government as an employee, you can continue
+to receive your annuity during reemployment. The employing agency will usually pay you the difference between
+your salary for your period of reemployment and your annuity. This amount is taxable as wages. Your annuity will
+continue to be taxed just as it was before. If you are still recovering your cost, you continue to do so. If you have recovered your cost, the annuity you receive while you are
+reemployed is generally fully taxable.
+
+Nonresident Aliens
+The following special rules apply to nonresident alien federal employees performing services outside the United
+States and to nonresident alien retirees and beneficiaries.
+A nonresident alien is an individual who isn’t a citizen or a
+resident alien of the United States.
+Special rule for figuring your total contributions. Your
+contributions to the retirement plan (your cost) also include the government’s contributions to the plan to a certain extent. You include government contributions that
+wouldn’t have been taxable to you at the time they were
+contributed if they had been paid directly to you. For example, government contributions wouldn’t have been taxable to you if, at the time made, your services were performed outside the United States. Thus, your cost is
+increased by these government contributions, and the
+benefits that you, or your beneficiary, must include in income are reduced.
+This method of figuring your total contributions doesn’t
+apply to any contributions the government made on your
+behalf after you became a citizen or a resident alien of the
+United States.
+Limit on taxable amount. There is a limit on the taxable
+amount of payments received from the CSRS, the FERS,
+or the TSP by a nonresident alien retiree or nonresident
+alien beneficiary. Figure this limited taxable amount by
+multiplying the otherwise taxable amount by a fraction.
+The numerator of the fraction is the retiree’s total U.S.
+Government basic pay, other than tax-exempt pay for
+services performed outside the United States. The denominator is the retiree’s total U.S. Government basic pay
+for all services.
+Basic pay includes regular pay plus any standby differential. It doesn’t include bonuses, overtime pay, certain
+retroactive pay, uniform or other allowances, or lump-sum
+leave payments.
+To figure the limited taxable amount of your CSRS or
+FERS annuity or your TSP distributions, use Worksheet C.
+(For an annuity, first complete Worksheet A in this publication.)
+
+Publication 721 (2025)
+
+Worksheet C. Limited Taxable Amount for
+Nonresident Alien
+
+The taxable amount of your annuity figured using Worksheet A in this publication is $1,980. You are a nonresident alien, so you figure the limited taxable amount of your
+annuity using Worksheet C as follows.
+
+1. Enter the otherwise taxable amount of
+the CSRS or FERS annuity (from line 9
+of Worksheet A or from Form CSA
+1099-R or CSF 1099-R) or TSP
+distributions (from Form 1099-R) . . . . . 1.
+2. Enter the total U.S. Government basic
+pay other than tax-exempt pay for
+services performed outside the United
+States . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.
+3. Enter the total U.S. Government basic
+pay for all services . . . . . . . . . . . . . . . . . 3.
+4. Divide line 2 by line 3 . . . . . . . . . . . . . . . 4.
+
+Worksheet C. Limited Taxable Amount for
+Nonresident Alien—Example 2
+
+5. Limited taxable amount. Multiply
+line 1 by line 4. Enter this amount on
+Form 1040-NR, line 5b . . . . . . . . . . . . . . 5.
+
+Example 1. You are a nonresident alien who performed all services for the U.S. Government abroad as a
+nonresident alien. You retired and began to receive a
+monthly annuity of $200. Your total basic pay for all services for the U.S. Government was $100,000. All of your
+basic pay was tax exempt because it wasn’t U.S. source
+income.
+The taxable amount of your annuity using Worksheet A
+in this publication is $720. You are a nonresident alien, so
+you figure the limited taxable amount of your annuity using
+Worksheet C as follows.
+
+Worksheet C. Limited Taxable Amount for
+Nonresident Alien—Example 1
+1. Enter the otherwise taxable amount of
+the CSRS or FERS annuity (from line 9
+of Worksheet A or from Form CSA
+1099-R or CSF 1099-R) or TSP
+distributions (from Form 1099-R) . . . . . 1.
+2. Enter the total U.S. Government basic
+pay other than tax-exempt pay for
+services performed outside the United
+States . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.
+3. Enter the total U.S. Government basic
+pay for all services . . . . . . . . . . . . . . . . . 3.
+4. Divide line 2 by line 3 . . . . . . . . . . . . . . . 4.
+5. Limited taxable amount. Multiply
+line 1 by line 4. Enter this amount on
+Form 1040-NR, line 5b . . . . . . . . . . . . . . 5.
+
+$
+
+720
+
+0
+100,000
+0
+0
+
+Example 2. You are a nonresident alien who performed services for the U.S. Government as a nonresident
+alien both within the United States and abroad. You retired
+and began to receive a monthly annuity of $240.
+Your total basic pay for your services for the U.S. Government was $120,000; $40,000 was for work done in the
+United States and $80,000 was for your work done in a
+foreign country. The part of your total basic pay for your
+work done in a foreign country was tax exempt because it
+wasn’t U.S. source income.
+Publication 721 (2025)
+
+1. Enter the otherwise taxable amount of
+the CSRS or FERS annuity (from line 9
+of Worksheet A or from Form CSA
+1099-R or CSF 1099-R) or TSP
+distributions (from Form 1099-R) . . . . . 1.
+2. Enter the total U.S. Government basic
+pay other than tax-exempt pay for
+services performed outside the United
+States . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.
+3. Enter the total U.S. Government basic
+pay for all services . . . . . . . . . . . . . . . . . 3.
+4. Divide line 2 by line 3 . . . . . . . . . . . . . . . 4.
+5. Limited taxable amount. Multiply
+line 1 by line 4. Enter this amount on
+Form 1040-NR, line 5b . . . . . . . . . . . . . . 5.
+
+$
+
+1,980
+
+40,000
+120,000
+0.333
+659
+
+Thrift Savings Plan (TSP)
+Generally, all of the money in your TSP account is taxed
+as ordinary income when you receive it. (However, see
+Roth TSP balance and Uniformed services TSP accounts
+next.) This is because neither the contributions to your traditional TSP balance nor its earnings have been included
+previously in your taxable income. The way that you withdraw your account balance determines when you must
+pay the tax.
+Roth TSP balance. The TSP also offers a Roth TSP option, which allows you to make after-tax contributions into
+your TSP account. This means Roth TSP contributions are
+included in your income. The contribution limits are the
+same as the traditional TSP. You can elect to have part or
+all of your TSP contributions designated as a Roth TSP.
+Agency contributions will be part of your traditional TSP
+balance. Also, you can’t roll over any portion of your traditional TSP into your Roth TSP.
+Qualified distributions from your Roth TSP aren’t included in income. This applies to both your contributions to
+the account and income earned on that account. A qualified distribution is generally a distribution that is:
+
+• Made after a 5-tax-year period of participation; and
+• Made on or after the date you reach age 591/2, made
+to a beneficiary or your estate on or after your death,
+or attributable to your being disabled.
+
+For more information, go to the TSP website, TSP.gov,
+or the TSP Service Office. See Pub. 575 for more information about designated Roth accounts.
+Uniformed services TSP accounts. If you have a uniformed services TSP account that includes contributions
+from combat pay, the distributions attributable to those
+13
+
+contributions are tax exempt. However, any earnings on
+those contributions to a traditional TSP balance are subject to tax when they are distributed. See Roth TSP balance, earlier, to get more information about Roth contributions. The statement you receive from the TSP will
+separately state the total amount of your distribution and
+the amount of your taxable distribution for the year. You
+can get more information from the TSP website, TSP.gov,
+or the TSP Service Office.
+Direct rollover by the TSP. If you ask the TSP to transfer
+any part of the money in your account, from traditional
+contributions and earnings, to a traditional IRA or other
+qualified retirement plan, the tax on that part is deferred
+until you receive payments from the traditional IRA or
+other plan. However, see the following Note for a discussion on direct rollovers by the TSP of Roth contributions
+and earnings. Also, see Rollover Rules, later.
+Direct rollover by the TSP to a Roth IRA. If you ask the
+TSP to transfer any part of the money in your account,
+from traditional contributions and earnings, to a Roth IRA,
+the amount transferred will be taxed in the current year.
+However, see the following Note for a discussion on direct
+rollovers by the TSP of Roth contributions and earnings.
+Also, see Rollovers to Roth IRAs, later, for more information.
+Note: A direct rollover of your Roth contributions and
+earnings in your TSP account if certain conditions are met
+(see Roth TSP balance, earlier) to a Roth 401(k), Roth
+403(b), Roth 457(b), or Roth IRA aren’t subject to tax
+when they are transferred or when you receive payments
+from those accounts at a later date. This is because you
+already paid tax on those contributions. You can’t roll over
+Roth contributions and earnings in your TSP account to a
+traditional IRA or traditional SIMPLE IRA.
+TSP annuity. If you ask the TSP to buy an annuity with
+the money in your account from traditional contributions
+and earnings, the annuity payments are taxed when you
+receive them. The payments aren’t subject to the 10% additional tax on early distributions, even if you are under
+age 55 when they begin. However, there is no tax on the
+annuity payments if the annuity is purchased using the
+money in your account from Roth contributions and earnings if certain conditions are met. See Roth TSP balance,
+earlier. This is because you already paid tax on those contributions.
+Cash withdrawals. If you withdraw any of the money in
+your TSP account from traditional contributions and earnings, it is generally taxed as ordinary income when you receive it unless you roll it over into a traditional IRA or other
+qualified plan. (See Rollover Rules, later.) If you receive
+your entire TSP account balance in a single tax year, you
+may be able to use the 10-year tax option to figure your
+tax if the plan participant was born before January 2,
+1936. See Lump-Sum Distributions in Pub. 575 for details.
+However, there is no tax if you withdraw money in your
+TSP account from Roth contributions and earnings if certain conditions are met. See Roth TSP balance, earlier.
+14
+
+If you receive a single payment or you choose to receive your account balance in monthly payments over a
+period of less than 10 years, the TSP must generally withhold 20% for federal income tax. If you choose to receive
+your account balance in monthly payments over a period
+of 10 or more years or a period based on your life expectancy, withholding is determined using the instructions and
+tables provided in Pub. 15-T, based on information you
+provide on Form W-4P. If you don’t submit Form W-4P
+then for a payee who received a first periodic payment in
+2025, the TSP must withhold as if you were a single filer
+who made no entries in Step 2, Step 3, and Step 4 of
+Form W-4P. For the default 2025 withholding for a payee
+who first received a periodic payment before 2025, see
+Payee fails to furnish Form W-4P or provides an incorrect
+SSN on Form W-4P in Pub. 15-T. See also Withholding
+from Thrift Savings Plan payments, earlier, under Tax
+Withholding and Estimated Tax in Part I. However, there is
+no withholding requirement for amounts withdrawn from
+your TSP account that is from Roth contributions and
+earnings if certain conditions are met. See Roth TSP balance, earlier, for a discussion of those conditions.
+Tax on early distributions. Any money included in
+gross income from your TSP account before you reach
+age 591/2 may be subject to the 10% additional tax on
+early distributions. However, this additional tax doesn’t apply in certain situations, including any of the following.
+
+• You receive the distribution and separate from govern-
+
+ment service during or after the calendar year in which
+you reach age 55.
+
+• You are a qualified public safety employee before the
+
+earlier of age 50 or completing 25 years of service under the plan if you are a qualified public safety employee.
+
+• You receive a qualified disaster distribution. See Form
+8915-F, Qualified Disaster Retirement Plan Distributions and Repayments, and its instructions.
+
+• You choose to receive your account balance in sub-
+
+stantially equal payments (not less than yearly) based
+on your life expectancy.
+
+• You are totally and permanently disabled.
+• You receive amounts from your Roth contributions that
+
+either represent a return of your cost (after-tax money)
+or you receive a qualified distribution from your Roth
+IRA. See Roth TSP balance, earlier. The earnings may
+be subject to the 10% additional tax depending on
+whether you met certain conditions.
+
+Note: Changes to the initial distribution method or
+amount under the substantially equal payment exception
+may result in a recapture tax.
+For more information and other exceptions to the 10%
+additional tax on early distributions, see Tax on Early Distributions in Pub. 575.
+Outstanding loan. If the TSP declares a distribution from
+your account because money you borrowed hasn't been
+repaid when you separate from government service, a
+Publication 721 (2025)
+
+plan loan offset will occur. A plan loan offset is the amount
+your account balance is reduced, or offset, to repay the
+loan from the plan (your unpaid loan balance and any unpaid interest). The distribution may also be subject to the
+10% additional tax on early distributions. However, the tax
+will be deferred if you make a rollover contribution to a traditional IRA or other qualified plan equal to the declared
+distribution amount. See Rollover Rules, later.
+If you withdraw any money from your TSP account in
+that same year, the TSP must withhold income tax of 20%
+of the total of the declared distribution and the amount
+withdrawn. However, no withholding is required for portions of the distribution that is from Roth contributions and
+earnings if certain conditions are met. See Roth TSP balance, earlier.
+More information. For more information about the TSP,
+see Summary of the Thrift Savings Plan. Also, see Tax
+Rules about TSP Payments and Distributions. These publications are available on the TSP website at TSP.gov/
+forms. You may also call the TSP at 1-877-968-3778. For
+participants who are deaf, hard of hearing, or have a
+speech disability, dial 711 from any telephone.
+
+Rollover Rules
+If you withdraw cash or other assets from a qualified retirement plan in an eligible rollover distribution, you can generally defer tax on the distribution by rolling it over to another qualified retirement plan, a traditional IRA, or, after 2
+years of participation in a SIMPLE IRA sponsored by your
+employer, a traditional SIMPLE IRA under that plan. You
+don’t include the amount rolled over in your income, and
+you can’t take a deduction for it. The amount rolled over is
+taxed later as the new program pays that amount to you. If
+you roll over amounts into a traditional IRA or traditional
+SIMPLE IRA, later distributions of these amounts from the
+traditional IRA or traditional SIMPLE IRA don’t qualify for
+capital gain treatment or the 10-year tax option. However,
+capital gain treatment or the 10-year tax option will be restored if the traditional IRA or traditional SIMPLE IRA contains only amounts rolled over from a qualified plan and
+these amounts are rolled over from the traditional IRA or
+traditional SIMPLE IRA into a qualified retirement plan. To
+qualify for capital gain treatment or the 10-year tax option,
+the plan participant must have been born before January
+2, 1936.
+You can also roll over a distribution from a qualified retirement plan into a Roth IRA or, after 2 years of participation in a SIMPLE IRA sponsored by your employer, a Roth
+SIMPLE IRA under that plan. Although the transfer of a
+distribution into a Roth IRA or Roth SIMPLE IRA is considered a rollover for Roth IRA purposes, it isn’t a tax-free
+transfer unless you are rolling over amounts from Roth
+contributions and earnings. See Rollovers to Roth IRAs,
+later, for more information.
+Rollovers to SIMPLE IRAs. You can roll over amounts
+from a qualified retirement plan or an IRA into a SIMPLE
+IRA as follows.
+Publication 721 (2025)
+
+1. During the first 2 years of participation in a SIMPLE
+IRA, you may roll over amounts from one SIMPLE IRA
+into another SIMPLE IRA.
+2. After the first 2 years of participation in a SIMPLE IRA,
+you may roll over amounts from a SIMPLE IRA, a
+qualified retirement plan, or an IRA into a SIMPLE
+IRA.
+Qualified retirement plan. For this purpose, a qualified
+retirement plan is generally:
+
+• A qualified employee plan,
+• A qualified employee annuity,
+• A tax-sheltered annuity plan (403(b) plan), or
+• An eligible state or local government section 457 deferred compensation plan.
+
+The CSRS, FERS, and TSP are considered qualified retirement plans.
+Distributions eligible for rollover treatment. If you receive a refund of your CSRS or FERS contributions when
+you leave government service, you can roll over any interest you receive on the contributions. You can’t roll over any
+part of your CSRS or FERS annuity payments.
+You can roll over a distribution of any part of your TSP
+account balance except:
+1. A distribution of your account balance that you
+choose to receive in (typically monthly, but not less
+frequently than annually) payments over:
+a. Your life expectancy,
+b. The joint life expectancies of you and your beneficiary, or
+c. A period of 10 years or more;
+2. A required minimum distribution generally beginning
+at age 73;
+3. A deemed distribution because of an unrepaid loan, if
+you haven’t separated from government service (see
+Outstanding loan under Thrift Savings Plan, earlier);
+or
+4. A hardship distribution.
+In addition, a distribution to your beneficiary isn’t generally treated as an eligible rollover distribution. However,
+see Qualified domestic relations order (QDRO), Rollovers
+by surviving spouse, and Rollovers by nonspouse beneficiary, later.
+Direct rollover option. You can choose to have OPM or
+the TSP transfer any part of an eligible rollover distribution
+directly to another qualified retirement plan that accepts
+rollover distributions or to a traditional IRA, SIMPLE IRA,
+or Roth IRA.
+There is an automatic rollover requirement for mandatory distributions. A mandatory distribution is a distribution
+made:
+
+• Without your consent; and
+15
+
+• Before you reach age 62 or normal retirement age,
+whichever is later.
+
+The automatic rollover requirement applies if the distribution is more than $1,000 and is an eligible rollover distribution. You can choose to have the distribution paid directly
+to you or rolled over directly to your traditional, SIMPLE, or
+Roth IRA or another qualified retirement plan. If you don’t
+make this choice, OPM will automatically roll over the distribution into an IRA of a designated trustee or issuer.
+No tax withheld. If you choose the direct rollover option or have an automatic rollover, no tax will be withheld
+from any part of the distribution that is directly paid to the
+trustee of the other plan. However, if the rollover is to a
+Roth IRA, you may want to choose to have tax withheld
+because any amount rolled over is generally included in
+income. Any part of the eligible rollover distribution paid to
+you is subject to withholding at a 20% rate. Direct rollover
+amounts from Roth contributions and earnings don’t have
+tax withheld because you already paid tax on those
+amounts.
+Payment to you option. If an eligible rollover distribution
+is paid to you, OPM or the TSP must withhold 20% for income tax even if you plan to roll over the distribution to another qualified retirement plan, or traditional, SIMPLE, or
+Roth IRA. However, the full amount is treated as distributed to you even though you actually receive only 80%.
+You must generally include in income any part (including
+the part withheld) that you don’t roll over within 60 days to
+another qualified retirement plan or to a traditional IRA or
+traditional SIMPLE IRA. Rollovers to Roth IRAs are generally included in income. Eligible rollover distributions that
+are from Roth contributions don’t have tax withheld because you already paid tax on those amounts.
+If you leave government service before the calendar
+year in which you reach age 55 and are under age 591/2
+when a distribution is paid to you, you may have to pay the
+10% additional tax on any part, including any tax withheld,
+that you don’t roll over. If you separate from service before
+the calendar year in which you reach age 55 (or before the
+earlier of age 50 or completing 25 years of service under
+the plan if you are a qualified public safety employee), it
+may be subject to an additional 10% tax on early distributions. See Roth TSP balance, earlier. Also, see Tax on
+Early Distributions in Pub. 575.
+Exception to withholding. Withholding from an eligible rollover distribution paid to you isn’t required if the distributions for your tax year total less than $200.
+Partial rollovers. A lump-sum distribution may qualify
+for capital gain treatment or the 10-year tax option if the
+plan participant was born before January 2, 1936. See
+Lump-Sum Distributions in Pub. 575. However, if you roll
+over any part of the distribution, the part you keep doesn’t
+qualify for this special tax treatment.
+Rolling over more than amount received. If you
+want to roll over more of an eligible rollover distribution
+than the amount you received after income tax was withheld, you will have to add funds from some other source
+(such as your savings or borrowed amounts).
+16
+
+Example. You left government service at age 53. On
+February 3, 2025, you receive an eligible rollover distribution of $10,000 from your TSP account, which is from traditional contributions and earnings. The TSP withholds
+$2,000, so you actually receive $8,000. If you want to roll
+over the entire $10,000 to postpone including that amount
+in your income, you will have to get $2,000 from some
+other source and add it to the $8,000 you actually received.
+If you roll over only $8,000, you must include in your income the $2,000 not rolled over. Also, you may be subject
+to the 10% additional tax on the $2,000.
+Time for making rollover. You must generally complete
+the rollover of an eligible rollover distribution paid to you by
+the 60th day following the day on which you receive the
+distribution.
+The IRS may waive the 60-day requirement where the
+failure to do so would be against equity or good conscience, such as in the event of a casualty, disaster, or
+other event beyond your reasonable control. There are
+three ways to obtain a waiver of the 60-day requirement.
+
+• You qualify for an automatic waiver.
+• You self-certify that you met the requirements of a
+waiver.
+
+• You request and receive a letter ruling under the ap-
+
+propriate IRS Revenue Procedure. This Revenue Procedure is generally published in the first Internal Revenue Bulletin of the year.
+
+For more information about requesting a waiver of the
+60-day rollover requirement, rollovers permitted between
+the various types of retirement plans (including IRAs), and
+other topics regarding rollovers, see Rollovers in Pub.
+590-A. For information about the extended rollover period
+for a qualified plan loan offset, see Plan loan offset under
+Time for making rollover in Pub. 575.
+A letter ruling isn’t required if a financial institution receives the rollover funds during the 60-day rollover period,
+you follow all procedures required by the financial institution, and, solely due to an error on the part of the financial
+institution, the funds aren’t deposited into an eligible retirement account within the 60-day rollover period.
+Frozen deposits. If an amount distributed to you becomes a frozen deposit in a financial institution during the
+60-day period after you receive it, the rollover period is extended. An amount is a frozen deposit if you can’t withdraw it because of either:
+
+• The bankruptcy or insolvency of the financial institution, or
+
+• Any requirement imposed by the state in which the in-
+
+stitution is located because of the bankruptcy or insolvency (or threat of it) of one or more financial institutions in the state.
+
+The 60-day rollover period is extended by the period for
+which the amount is a frozen deposit and doesn’t end earlier than 10 days after the amount is no longer a frozen deposit.
+Publication 721 (2025)
+
+Qualified domestic relations order (QDRO). You may
+be able to roll over tax free all or part of a distribution you
+receive from the CSRS, the FERS, or the TSP under a
+court order in a divorce or similar proceeding. You must
+receive the distribution as the government employee’s
+spouse or former spouse (not as a nonspousal beneficiary). The rollover rules apply to you as if you were the
+employee. You can roll over the distribution if it is an eligible rollover distribution (described earlier) and it is made
+under a QDRO or, for the TSP, a qualifying order.
+A QDRO or qualifying order is a judgment, decree, or
+order relating to payment of child support, alimony, or marital property rights. The payments must be made to a
+spouse, former spouse, child, or other dependent of a participant in the plan.
+The order must contain certain information, including
+the amount or percentage of the participant’s benefits to
+be paid to each payee. It can’t require the plan to pay benefits in a form not offered by the plan, nor can it require the
+plan to pay increased benefits.
+A distribution that is paid to a child or dependent under
+a QDRO or a qualifying order is taxed to the plan participant.
+Rollovers by surviving spouse. You may be able to roll
+over tax free all or part of the CSRS, FERS, or TSP distribution you receive as the surviving spouse of a deceased
+employee or retiree. The rollover rules apply to you as if
+you were the employee or retiree. You can generally roll
+over the distribution into a qualified retirement plan or an
+IRA. An amount rolled over to a Roth IRA isn’t tax free unless you are rolling over amounts from Roth contributions
+and earnings. See Rollovers to Roth IRAs, later.
+A distribution paid to a beneficiary other than the employee’s surviving spouse is generally not an eligible rollover distribution. However, see Rollovers by nonspouse
+beneficiary next.
+Rollovers by nonspouse beneficiary. You may be able
+to roll over tax free all or a portion of a distribution you receive from the CSRS, FERS, or TSP of a deceased employee or retiree if you are a designated beneficiary (other
+than a surviving spouse) of the employee or retiree. The
+distribution must be a direct trustee-to-trustee transfer to
+your IRA that was set up to receive the distribution. The
+transfer will be treated as an eligible rollover distribution
+and the IRA will be treated as an inherited IRA. An amount
+rolled over to a Roth IRA isn’t tax free. See Rollovers to
+Roth IRAs, later. For information on inherited IRAs, see
+Pub. 590-A.
+How to report. On your Form 1040, 1040-SR, or
+1040-NR, report the total distributions from the CSRS,
+FERS, or TSP on line 5a. Report the taxable amount of the
+distributions (total distribution less the amount rolled over)
+on line 5b. Also, check box 1 for “Rollover” on line 5c.
+If the rollover was made to a Roth IRA, see Rollovers to
+Roth IRAs, later, for reporting the rollover on your return.
+Written explanation to recipients. The TSP or OPM
+must provide a written explanation to you within a reason-
+
+Publication 721 (2025)
+
+able period of time before making an eligible rollover distribution to you. It must tell you about all of the following.
+
+• Your right to have the distribution paid tax free directly
+to another qualified retirement plan or to a traditional
+IRA or traditional SIMPLE IRA.
+
+• The requirement to withhold tax from the distribution,
+
+unless it is from your Roth contributions and earnings,
+if it isn’t directly rolled over.
+
+• The nontaxability of any part of the distribution that
+
+you roll over within 60 days after you receive the distribution.
+
+• Other qualified retirement plan rules that apply, includ-
+
+ing those for lump-sum distributions, alternate payees,
+and cash or deferred arrangements.
+
+• How the distribution rules of the plan to which you roll
+
+over the distribution may differ in their restrictions and
+tax consequences from the rules that apply to the plan
+making the distribution.
+
+Note: Rollovers to Roth IRAs aren’t tax free and are included in income unless it is from your Roth contributions
+and earnings. See Rollovers to Roth IRAs, later.
+Reasonable period of time. The TSP or OPM must
+provide you with a written explanation no earlier than 90
+days and no later than 30 days before the distribution is
+made. However, you can choose to have the TSP or OPM
+make a distribution less than 30 days after the explanation
+is provided, as long as the following two requirements are
+met.
+
+• You have the opportunity, for at least 30 days after the
+explanation is provided, to consider whether or not
+you want to make a direct rollover.
+
+• The information you receive clearly states that you
+have the right to have 30 days to make a decision.
+
+Contact the TSP or OPM if you have any questions about
+this information.
+
+Rollovers to Roth IRAs
+You can roll over distributions directly from the CSRS,
+FERS, and TSP to a Roth IRA.
+You must include in your gross income distributions
+from the CSRS, FERS, and TSP that you would have had
+to include in income if you hadn’t rolled them over into a
+Roth IRA. You don’t include in gross income any part of a
+distribution that is a return of contributions that were taxable to you when paid. In addition, the 10% additional tax
+on early distributions doesn’t apply.
+Any amount, which is from traditional TSP contributions
+and earnings, rolled over to a Roth IRA or Roth SIMPLE
+IRA is subject to the same rules for converting a traditional
+IRA into a Roth IRA. For more information, see Converting
+From Any Traditional IRA Into a Roth IRA in chapter 1 of
+Pub. 590-A.
+
+17
+
+How to report. A rollover to a Roth IRA isn’t a tax-free
+distribution unless you are rolling over after-tax contributions you made such as your Roth contributions and earnings. Report a rollover from a qualified retirement plan to a
+Roth IRA on Form 1040, 1040-SR, or 1040-NR, lines 5a
+and 5b.
+Enter the total amount of the distribution before income
+tax or deductions were withheld on Form 1040, 1040-SR,
+or 1040-NR, line 5a. This amount is shown in box 1 of
+Form 1099-R. From this amount, subtract any contributions (usually shown in box 5 of Form 1099-R) that were
+taxable to you when made. From that result, subtract the
+amount of any qualified rollover from a designated Roth
+account. Enter the remaining amount, even if zero, on
+Form 1040, 1040-SR, or 1040-NR, line 5b.
+If you must include any amount in your income,
+you may have to increase your withholding or
+CAUTION make estimated tax payments. See Pub. 505.
+
+!
+
+Choosing the right option. Table 1 may help you decide
+which distribution option to choose. Carefully compare the
+effects of each option.
+
+Table 1. Comparison of Payment to You
+Versus Direct Rollover
+Affected
+item
+
+Result of a payment to
+you
+
+Result of a direct
+rollover
+
+Withholding The payer must withhold
+20% of the taxable part.
+
+There is no
+withholding.
+However, you may
+want to choose
+withholding on a
+rollover from your
+traditional
+contributions and
+earnings to a Roth
+IRA.
+
+When to
+report as
+income
+
+Any taxable part
+isn’t income to you
+until later
+distributed to you
+from the new plan
+or IRA. However,
+see Rollovers to
+Roth IRAs, earlier,
+for an exception.
+
+Additional
+Tax
+
+Any taxable part (including
+the taxable part of any
+amount withheld) not rolled
+over is income to you in the
+year paid.
+
+If you are under age 591/2,
+a 10% additional tax may
+apply to the taxable part
+(including an amount equal
+to the tax withheld) that
+isn’t rolled over.
+
+There is no 10%
+additional tax. See
+Tax on early
+distributions,
+earlier.
+
+Distributions Used To Pay Insurance
+Premiums for Public Safety Officers
+
+rescue squad or ambulance crew who is retired because
+of disability or because you reached normal retirement
+age), you can elect to exclude from income distributions
+made from your eligible retirement plan that are used to
+pay the premiums for coverage by an accident or health
+plan or a long-term care insurance contract. The premiums can be for coverage for you, your spouse, or your dependent(s). The distribution must be from the plan maintained by the employer from which you retired as a public
+safety officer. The distribution can be made directly from
+the plan to the provider of the accident or health plan or
+long-term care insurance contract, or the distribution can
+be made to you to pay to the provider of the accident or
+health plan or long-term care insurance contract. You can
+exclude from income the smaller of the amount of the premiums paid or $3,000. You can make this election only for
+amounts that would otherwise be included in your income.
+The amount excluded from your income can’t be used to
+claim a medical expense deduction.
+For this purpose, an eligible retirement plan is a governmental plan that is:
+
+• A qualified trust,
+• A section 403(a) plan,
+• A section 403(b) annuity, or
+• A section 457(b) plan.
+The CSRS and FERS are considered eligible retirement
+plans.
+You can exclude from income only the smaller of
+the amount of the premiums paid or $3,000. This
+CAUTION is true if the distribution was made directly from
+the plan to the provider of the accident or health plan or
+long-term care insurance contract or if the distribution was
+made to you and you paid the provider of the accident or
+health plan or long-term care insurance contract. If you received a distribution from your eligible retirement plan, and
+you used part of that distribution to pay premiums for an
+accident or health plan or long-term care insurance contract, you can still exclude from income only the smaller of
+the amount of the premiums paid or $3,000. The rest of
+the distribution is taxable to you and should be reported
+as described next.
+
+!
+
+How to report. If you make this election, reduce the otherwise taxable amount of your annuity by the amount excluded. The taxable annuity shown on Form CSA 1099-R
+doesn’t reflect this exclusion. Report your total distributions on Form 1040, 1040-SR, or 1040-NR, line 5a. Report the taxable amount on Form 1040, 1040-SR, or
+1040-NR, line 5b. Also, check box 2 for “PSO” on line 5c.
+If you are retired on disability and reporting your disability pension on line 1h of Form 1040, 1040-SR, or
+1040-NR, include only the taxable amount on that line and
+enter “PSO” and the amount excluded on the dotted line
+next to the applicable line.
+
+If you are an eligible retired public safety officer (law enforcement officer, firefighter, chaplain, or member of a
+18
+
+Publication 721 (2025)
+
+How To Report Benefits
+If you received annuity benefits that aren’t fully taxable, report the total received for the year on Form 1040,
+1040-SR, or 1040-NR, line 5a. Also, include on that line
+the total of any other pension plan payments (even if fully
+taxable, such as those from the TSP) that you received
+during the year in addition to the annuity. Report the taxable amount of these total benefits on Form 1040,
+1040-SR, or 1040-NR, line 5b. However, if you use Form
+4972, Tax on Lump-Sum Distributions, to report the tax on
+any amount, don’t include that amount on line 5a or 5b. Instead, follow the Form 4972 instructions.
+If you received only fully taxable payments from your retirement, the TSP, or other pension plan, report on Form
+1040, 1040-SR, or 1040-NR, line 5b, the total received for
+the year (except for any amount reported on Form 4972).
+No entry is required on Form 1040, 1040-SR, or 1040-NR,
+line 5a.
+
+Part III
+Rules for Disability Retirement
+and Credit for the Elderly or
+the Disabled
+This part of the publication is for federal employees and
+retirees who receive disability benefits under the CSRS,
+the FERS, or other federal programs. It also explains the
+tax credit available to certain taxpayers because of age or
+disability.
+
+Disability Annuity
+If you retired on disability, the disability annuity you receive
+from the CSRS or FERS is taxable as wages until you
+reach minimum retirement age, as explained in this section. However, beginning on the day after you reach minimum retirement age, your payments are treated as a retirement annuity and you can begin to recover the cost of
+your annuity under the rules discussed earlier under Part
+II, Rules for Retirees.
+If you find that you could have started your recovery in
+an earlier year for which you have already filed a return,
+you can still start your recovery of contributions in that earlier year. To do so, file an amended return for that year and
+each succeeding year for which you have already filed a
+return. Generally, an amended return for any year must be
+filed within 3 years after the due date for filing your original
+return for that year.
+Minimum retirement age. This is the age at which you
+could first receive an annuity were you not disabled. This
+is generally based on your age and length of service.
+
+Retirement under the CSRS. In most cases, under
+the CSRS, the minimum combinations of age and service
+for retirement are:
+
+• Age 55 with 30 years of service;
+• Age 60 with 20 years of service;
+• Age 62 with 5 years of service; or
+• For service as a law enforcement officer, firefighter,
+
+nuclear materials courier, or air traffic controller, age
+50 with 20 years of covered service.
+
+Retirement under the FERS. In most cases, the minimum age for retirement under the FERS is between ages
+55 and 57 with at least 10 years of service. With at least 5
+years of service, your minimum retirement age is age 62.
+Your minimum retirement age with at least 10 years of
+service is shown in Table 2.
+
+Table 2. FERS Minimum Retirement Age
+(MRA) With 10 Years of Service
+IF you were born in...
+
+THEN your MRA is...
+
+1947 or earlier . . . . . . . . . . . . 55 years.
+1948 . . . . . . . . . . . . . . . . . . . 55 years, 2 months.
+1949 . . . . . . . . . . . . . . . . . . . 55 years, 4 months.
+1950 . . . . . . . . . . . . . . . . . . . 55 years, 6 months.
+1951 . . . . . . . . . . . . . . . . . . . 55 years, 8 months.
+1952 . . . . . . . . . . . . . . . . . . . 55 years, 10 months.
+1953 to 1964 . . . . . . . . . . . . . 56 years.
+1965 . . . . . . . . . . . . . . . . . . . 56 years, 2 months.
+1966 . . . . . . . . . . . . . . . . . . . 56 years, 4 months.
+1967 . . . . . . . . . . . . . . . . . . . 56 years, 6 months.
+1968 . . . . . . . . . . . . . . . . . . . 56 years, 8 months.
+1969 . . . . . . . . . . . . . . . . . . . 56 years, 10 months.
+1970 or later . . . . . . . . . . . . . . 57 years.
+
+For service as a law enforcement officer, member of the
+Capitol or Supreme Court Police, firefighter, nuclear materials courier, or air traffic controller, the minimum retirement age is age 50 with 20 years of covered service or
+any age with 25 years of covered service.
+How to report. You must report all your disability annuity
+payments received before minimum retirement age on
+Form 1040, 1040-SR, or 1040-NR, line 1h. Disability annuity payments received after you reach that age are reported as discussed earlier under How To Report Benefits
+in Part II.
+Withholding. For income tax withholding purposes, a
+disability annuity is treated the same as a nondisability annuity. This treatment also applies to disability payments received before minimum retirement age even though these
+payments are shown as wages on your return. See Tax
+Withholding and Estimated Tax, earlier, under Part II.
+
+Other Benefits
+The tax treatment of certain other benefits is explained in
+this section.
+
+Publication 721 (2025)
+
+19
+
+Federal Employees’ Compensation Act (FECA).
+FECA payments you receive for personal injuries or sickness resulting from the performance of your duties are like
+workers’ compensation. They are tax exempt and aren’t
+treated as disability income or annuities. However, payments you receive while your claim is being processed, including pay while on sick leave and continuation of pay for
+up to 45 days, are taxable.
+Sick pay or disability payments repaid. If you repay
+sick leave or disability annuity payments you received and
+included in income in an earlier year to be eligible for nontaxable FECA benefits for that period, you can’t deduct the
+amount you repay.
+If you repay sick leave or disability annuity payments in
+the same year you receive them, the repayment reduces
+your taxable sick leave pay or disability annuity.
+Terrorist attack. Disability payments for injuries incurred
+as a direct result of a terrorist attack directed against the
+United States (or its allies) aren’t included in income. For
+more information about payments to survivors of terrorist
+attacks, see Pub. 3920, Tax Relief for Victims of Terrorist
+Attacks.
+Military actions. Disability payments for injuries incurred
+as a direct result of a military action involving the Armed
+Forces of the United States and resulting from actual or
+threatened violence or aggression against the United
+States or any of its allies aren’t included in income.
+Disability resulting from military service injuries. If
+you received tax-exempt benefits from the Department of
+Veterans Affairs for personal injuries resulting from active
+service in the United States Armed Forces and later receive a CSRS or FERS disability annuity for disability arising from the same injuries, you can’t treat the disability annuity payments as tax-exempt income. They are subject to
+the rules described earlier under Disability Annuity.
+Payment for unused annual leave. If you retire on disability, any payment for your unused annual leave is taxed
+as wages in the tax year you receive the payment.
+
+Credit for the Elderly or the Disabled
+You can take the credit for the elderly or the disabled if:
+
+• You are a qualified individual, and
+• Your income isn’t more than certain limits.
+You are a qualified individual for this credit if you are a
+U.S. citizen or resident alien and, at the end of the tax
+year, you are:
+1. Age 65 or older; or
+2. Under age 65, retired on permanent and total disability, and:
+
+You are retired on permanent and total disability if:
+
+• You were permanently and totally disabled when you
+retired, and
+
+• You retired on disability before the close of the tax
+year.
+
+Even if you don’t retire formally, you may be considered
+retired on disability when you have stopped working because of your disability.
+Permanently and totally disabled. You are permanently and totally disabled if you can’t engage in any substantial gainful activity because of your physical or mental
+condition. A physician must certify that the condition has
+lasted or can be expected to last continuously for 12
+months or more, or that the condition can be expected to
+result in death. See Physician's statement next. Substantial gainful activity is the performance of significant duties
+over a reasonable period of time while working for pay or
+profit, or in work generally done for pay or profit.
+Physician’s statement. If you are under age 65, you
+must have your physician complete a statement certifying
+that you were permanently and totally disabled on the
+date you retired. You must keep this statement for your tax
+records. For this purpose, you can use the Physician’s
+Statement in the Instructions for Schedule R (Form 1040).
+Mandatory retirement age. This is the age set by your
+employer at which you would have had to retire if you
+hadn’t become disabled. There is no mandatory retirement age for most federal employees. However, there is a
+mandatory retirement age for the following federal employees.
+
+• Air traffic controllers appointed after May 15, 1972, by
+
+the Department of Transportation or the Department of
+Defense must generally retire by the last day of the
+month when they reach age 56.
+
+• Federal firefighters, law enforcement officers, nuclear
+materials couriers, or members of the Capitol or Supreme Court Police who are otherwise eligible for immediate retirement must generally retire by the last
+day of the month they reach age 57 or, if later, complete 20 years of service.
+
+Figuring the credit. If you figure the credit yourself, first
+fill out the front of Schedule R (Form 1040). Next, fill out
+Part III of the schedule.
+If you want the IRS to figure your tax and credits, including the credit for the elderly or the disabled, see the Instructions for Schedule R (Form 1040).
+More information. For detailed information about this
+credit, see the Instructions for Schedule R (Form 1040).
+
+a. Received taxable disability income, and
+b. Didn’t reach mandatory retirement age (defined
+later) before the tax year.
+20
+
+Publication 721 (2025)
+
+Part IV
+Rules for Survivors of Federal
+Employees
+This part of the publication is for survivors of federal employees. It explains how to treat amounts you receive because of the employee’s death. If you are the survivor of a
+federal retiree, see Part V, later.
+Employee earnings. Salary or wages earned by a federal employee but paid to the employee’s survivor or beneficiary after the employee’s death are income in respect
+of the decedent. This income is taxable to the survivor or
+beneficiary. This treatment also applies to payments for
+accrued annual leave.
+Dependents of public safety officers. The Public
+Safety Officers’ Benefits program, administered through
+the Bureau of Justice Assistance (BJA), provides a
+tax-free death benefit to eligible survivors of public safety
+officers whose death is the direct and proximate result of a
+traumatic injury sustained in the line of duty. The death
+benefit isn’t includible in the decedent’s gross estate for
+federal estate tax purposes or the survivor’s gross income
+for federal income tax purposes.
+A public safety officer is a law enforcement officer, firefighter, or member of a public rescue squad or ambulance
+crew. In certain circumstances, a chaplain killed in the line
+of duty is also a public safety officer. The chaplain must
+have been responding to a fire, rescue, or police emergency as a member or employee of a fire or police department.
+This program can pay survivors an emergency interim
+benefit of up to $3,000 if it finds that the death of the public safety officer is one for which a final benefit will probably be paid. If there is no final payment, the recipient of the
+interim benefit is liable for repayment. However, the BJA
+may not require all or part of the repayment if it will cause
+a hardship. If that happens, that amount is tax free.
+Additional information about this program is available
+on the BJA website at
+BJA.OJP.gov.
+For more information on this program, you may also
+contact the BJA by calling 1-888-744-6513.
+
+FERS Death Benefit
+You may be entitled to a special FERS death benefit if you
+were the spouse of an active FERS employee who died
+after at least 18 months of federal service. At your option,
+you can take the benefit in the form of a single payment or
+in the form of a special annuity payable over a 3-year period.
+The tax treatment of the special death benefit depends
+on the option you choose and whether a FERS survivor
+annuity is also paid.
+Publication 721 (2025)
+
+If you choose the single payment option, use the following rules.
+
+• If a FERS survivor annuity isn’t paid, at least part of
+
+the special death benefit is tax free. The tax-free part
+is an amount equal to the employee’s FERS contributions.
+
+• If a FERS survivor annuity is also paid, all of the spe-
+
+cial death benefit is taxable. You can’t allocate any of
+the employee’s FERS contributions to the special
+death benefit.
+
+If you choose the 3-year annuity option, at least part of
+each monthly payment is tax free. Use the following rules.
+
+• If a FERS survivor annuity isn’t paid, the tax-free part
+of each monthly payment is an amount equal to the
+employee’s FERS contributions divided by 36.
+
+• If a FERS survivor annuity is also paid, allocate the
+
+employee’s FERS contributions between the 3-year
+annuity and the survivor annuity. Make the allocation
+in the same proportion that the expected return from
+each annuity bears to the total expected return from
+both annuities. Divide the amount allocated to the
+3-year annuity by 36. The result is the tax-free part of
+each monthly payment of the 3-year annuity.
+
+CSRS or FERS Survivor Annuity
+If you receive a CSRS or FERS survivor annuity, you can
+recover the employee’s cost tax free. The employee’s cost
+is the total of the retirement plan contributions that were
+taken out of their pay.
+How you figure the tax-free recovery of the cost depends on your annuity starting date. This is the day after
+the date of the employee’s death. The methods to use are
+the same as those described under Recovering your cost
+tax free near the beginning of Part II, earlier.
+The following discussions cover only the Simplified
+Method. You can use this method if your annuity starting
+date is after July 1, 1986. You must use this method if your
+annuity starting date is after November 18, 1996. Under
+the Simplified Method, each of your monthly annuity payments is made up of two parts: the tax-free part that is a
+return of the employee’s cost and the taxable part that is
+the amount of each payment that is more than the part
+that represents the employee’s cost. The tax-free part remains the same, even if your annuity is increased. However, see Exclusion limit, later.
+Surviving spouse with no children receiving annuities. Under the Simplified Method, you figure the tax-free
+part of each full monthly annuity payment by dividing the
+employee’s cost by a number of months based on your
+age. This number will differ depending on whether your
+annuity starting date is before November 19, 1996, or after
+November 18, 1996. To use the Simplified Method, complete Worksheet A. Specific instructions for Worksheet A
+are given under Simplified Method in Part II, earlier.
+Example. Diane Green, age 48, began receiving a
+$1,500 monthly CSRS annuity in March 2025 upon the
+21
+
+death of her husband. Her husband was a federal employee when he died. She received 10 payments in 2025.
+Her husband had contributed $36,000 to the retirement
+plan.
+Diane must use the Simplified Method. Her completed
+Worksheet A is shown later. To complete line 3, she used
+Table 1 at the bottom of the worksheet and found that 360
+is the number in the last column opposite the age range
+that includes her age. Diane keeps a copy of the completed worksheet for her records. It will help her figure her
+taxable annuity in later years.
+Diane’s tax-free monthly amount is $100 (line 4 of her
+worksheet). If she lives to collect more than 360 payments, the payments after the 360th will be fully taxable. If
+she dies before 360 payments have been made, an “Other
+Itemized Deduction” will be allowed for the unrecovered
+cost on her final income tax return.
+Surviving spouse with child. If the survivor benefits include both a life annuity for the surviving spouse and one
+or more temporary annuities for the employee’s children,
+an additional step is needed under the Simplified Method
+to allocate the monthly exclusion among the beneficiaries
+correctly.
+Figure the total monthly exclusion for all beneficiaries
+by completing lines 2 through 4 of Worksheet A as if only
+the surviving spouse received an annuity. Then, to figure
+the monthly exclusion for each beneficiary, multiply line 4
+of the worksheet by a fraction. For any beneficiary, the numerator of the fraction is that beneficiary’s monthly annuity, and the denominator is the total of the monthly annuity
+payments to all the beneficiaries.
+The temporary annuity is payable to the child until the
+child reaches a specified age in the plan, which can’t be
+older than 25. The ending of a child’s temporary annuity
+doesn’t affect the total monthly exclusion figured under the
+Simplified Method. The total exclusion merely needs to be
+reallocated at that time among the remaining beneficiaries. If only the surviving spouse is left drawing an annuity,
+the surviving spouse is entitled to the entire monthly exclusion as figured in the worksheet.
+Example. The facts are the same as in the example for
+Diane Green in the preceding discussion, except that the
+Greens had a son, Robert, who was age 15 at the time of
+his father’s death. Robert is entitled to a $500-per-month
+temporary annuity until he reaches age 18 (age 22, if he
+remains a full-time student and doesn’t marry), as specified by the plan.
+In completing Worksheet A (not shown), Diane fills out
+the entries through line 4 exactly as shown in the filled-in
+worksheet for the earlier example. That is, she includes on
+line 1 only the amount of the annuity she herself received
+and she uses on line 3 the 360 factor for her age. After arriving at the $100 monthly exclusion on line 4, however,
+Diane allocates it between her own annuity and that of her
+son.
+To find how much of the monthly exclusion to allocate to
+her own annuity, Diane multiplies the $100 monthly exclusion by the fraction $1,500 (her monthly annuity) over
+$2,000 (the total of her $1,500 and Robert’s $500 annuities). She enters the result, $75, just below the entry
+22
+
+space for line 4. She completes the worksheet by entering
+$750 on lines 5 and 8, and $14,250 on line 9.
+A second Worksheet A (not shown) is completed for
+Robert’s annuity. On line 1, he enters $5,000 as the total
+annuity received. Lines 2, 3, and 4 are the same as those
+on his mother’s worksheet. In allocating the $100 monthly
+exclusion on line 4 to his annuity, Robert multiplies it by
+the fraction $500 over $2,000. His resulting monthly exclusion is $25. His exclusion for the year (line 8) is $250, and
+his taxable annuity for the year (line 9) is $4,750.
+Diane and Robert only need to complete lines 10 and
+11 on a single worksheet to keep track of their unrecovered cost for next year. These lines are exactly as shown
+in the filled-in Worksheet A for the earlier example.
+When Robert’s temporary annuity ends, the computation of the total monthly exclusion will not change. The
+only difference will be that Diane will then claim the full exclusion against her annuity alone.
+Surviving child only. A method similar to the Simplified
+Method can also be used to figure the taxable and nontaxable parts of a temporary annuity for a surviving child
+when there is no surviving spouse annuity. To use this
+method, divide the deceased employee’s cost by the number of months from the child’s annuity starting date until
+the date the child will reach age 22. The result is the
+monthly exclusion. (However, the monthly exclusion can’t
+be more than the monthly annuity payment. You can carry
+over unused exclusion amounts to apply against future annuity payments.)
+More than one child. If there is more than one child
+entitled to a temporary annuity (and no surviving spouse
+annuity), divide the cost by the number of months of payments until the date the youngest child will reach age 22.
+This monthly exclusion must then be allocated among the
+children in proportion to their monthly annuity payments,
+like the exclusion shown in the previous example.
+Disabled child. If a child otherwise entitled to a temporary annuity was permanently disabled at the annuity
+starting date (and there is no surviving spouse annuity),
+that child is treated for tax purposes as receiving a lifetime
+annuity, like a surviving spouse. The child must complete
+line 3 of Worksheet A using a number in Table 1 at the bottom of the worksheet corresponding to the child’s age at
+the annuity starting date. If more than one child is entitled
+to a temporary annuity, an allocation like the one shown
+under Surviving spouse with child, earlier, must be made
+to determine each child’s share of the exclusion.
+Exclusion limit. If your annuity starting date is after
+1986, the most that can be recovered tax free is the cost
+of the annuity. Once the total of your exclusions equals the
+cost, your entire annuity is taxable. If your annuity starting
+date is before 1987, the tax-free part of each whole
+monthly payment remains the same each year you receive
+payments—even if you outlive the number of months used
+on line 3 of the Simplified Method Worksheet. The total
+exclusion may be more than the cost of the annuity.
+Deduction of unrecovered cost. If the annuity starting
+date is after July 1, 1986, and the annuitant’s death occurs
+Publication 721 (2025)
+
+Worksheet A. Simplified Method for Diane Green
+See the instructions under Simplified Method in Part II of this publication.
+1. Enter the total pension or annuity payments received this year. Also, add this amount to the total for Form 1040,
+1040-SR, or 1040-NR, line 5a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. Enter your cost in the plan at the annuity starting date, plus any death benefit exclusion.* See Your cost under
+Rules for Retirees in Part II, earlier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Note: If your annuity starting date was before this year and you completed this worksheet last year, skip line 3
+and enter the amount from line 4 of last year’s worksheet on line 4 below (even if the amount of your pension or
+annuity has changed). Otherwise, go to line 3.
+3. Enter the appropriate number from Table 1 below. But if your annuity starting date was after 1997 and the
+payments are for your life and that of your beneficiary, enter the appropriate number from Table 2 below . . . . .
+4. Divide line 2 by the number on line 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5. Multiply line 4 by the number of months for which this year’s payments were made. If your annuity starting date
+was before 1987, enter this amount on line 8 below and skip lines 6, 7, 10, and 11. Otherwise, go
+to line 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6. Enter any amounts previously recovered tax free in years after 1986. This is the amount shown on line 10 of
+your worksheet for last year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7. Subtract line 6 from line 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8. Enter the smaller of line 5 or line 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9. Taxable amount for year. Subtract line 8 from line 1. Enter the result, but not less than zero. Also, add this
+amount to the total for Form 1040 or 1040-SR, line 5b. If you are a nonresident alien, enter this amount on line 1
+of Worksheet C. If your Form CSA 1099-R or Form CSF 1099-R shows a larger amount, use the amount figured
+on this line instead. If you are a retired public safety officer, see Distributions Used To Pay Insurance Premiums
+for Public Safety Officers under Part II before entering an amount on your tax return or Worksheet
+C, line 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10. Was your annuity starting date before 1987?
+Yes.
+
+STOP
+
+1.
+
+$
+
+15,000
+
+2.
+
+36,000
+
+3.
+
+360
+
+4.
+
+100
+
+5.
+
+1,000
+0
+
+6.
+
+36,000
+
+7.
+
+1,000
+
+8.
+
+9.
+
+$
+
+14,000
+
+Don’t complete the rest of this worksheet.
+
+⻫ No. Add lines 6 and 8. This is the amount you have recovered tax free through 2025. You will need this
+number if you need to fill out this worksheet next year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11. Balance of cost to be recovered. Subtract line 10 from line 2. If zero, you will not have to complete this
+worksheet next year. The payments you receive next year will generally be fully taxable . . . . . . . . . . . . . . . . . .
+
+10.
+
+1,000
+
+11.
+
+$ 35,000
+
+Table 1 for Line 3 Above
+AND your annuity starting date was—
+IF your age on your
+annuity starting date was...
+55 or under
+56–60
+61–65
+66–70
+71 or over
+
+before November 19, 1996,
+THEN enter on line 3...
+300
+260
+240
+170
+120
+
+after November 18, 1996,
+THEN enter on line 3...
+360
+310
+260
+210
+160
+
+Table 2 for Line 3 Above
+IF the annuitants’ combined
+ages on your annuity starting
+date were...
+110 or under
+111–120
+121–130
+131–140
+141 or over
+
+THEN enter on line 3...
+410
+360
+310
+260
+210
+
+* A death benefit exclusion of up to $5,000 applies to certain benefits received by survivors of employees who died
+before August 21, 1996.
+
+Publication 721 (2025)
+
+23
+
+before all the cost is recovered tax free, the unrecovered
+cost can be claimed as an “Other Itemized Deduction” for
+the annuitant’s last tax year.
+
+Survivors of Slain Public Safety Officers
+Generally, if you receive survivor annuity payments as the
+spouse, former spouse, or child of a public safety officer
+killed in the line of duty, you can exclude the payments
+from your income. The annuity is excludable to the extent
+that it is due to the officer’s service as a public safety officer. Public safety officers include law enforcement officers, firefighters, chaplains, ambulance crew members,
+and rescue squad members. The provision applies to a
+chaplain killed in the line of duty after September 10,
+2001. The chaplain must have been responding to a fire,
+rescue, or police emergency as a member or employee of
+a fire or police department.
+The exclusion doesn’t apply if your actions were a substantial contributing factor to the death of the officer. It also
+doesn’t apply if:
+
+• The death was caused by the intentional misconduct
+
+of the officer or by the officer’s intention to cause their
+own death,
+
+• The officer was voluntarily intoxicated at the time of
+death, or
+
+• The officer was performing their duties in a grossly
+negligent manner at the time of death.
+
+The special death benefit paid to the spouse of a
+FERS employee (see FERS Death Benefit, earCAUTION lier) isn’t eligible for this exclusion.
+
+!
+
+Lump-Sum CSRS or FERS Payment
+If a federal employee dies before retiring and leaves no
+one eligible for a survivor annuity, the estate or other beneficiary will receive a lump-sum payment from the CSRS
+or FERS. This single payment is made up of the regular
+contributions to the retirement fund plus accrued interest,
+if any, to the extent not already paid to the employee.
+The beneficiary is taxed, in the year the lump sum is
+distributed or made available, only on the amount of any
+accrued interest. The taxable amount, if any, generally
+can’t be rolled over into an IRA or other plan and is subject
+to federal income tax withholding at a 10% rate. However,
+a nonspousal beneficiary making a transfer described under Rollovers by nonspouse beneficiary under Rollover
+Rules in Part II, earlier, can roll over any taxable amount.
+In addition, the payment may qualify as a lump-sum distribution eligible for capital gain treatment or the 10-year tax
+option if the plan participant was born before January 2,
+1936. If the beneficiary also receives a lump-sum payment
+of unrecovered voluntary contributions plus interest, this
+treatment applies only if the payment is received within the
+same tax year. For more information, see Lump-Sum Distributions in Pub. 575.
+24
+
+Lump-sum payment at end of survivor annuity. If an
+annuity is paid to the federal employee’s survivor and the
+survivor annuity ends before an amount equal to the deceased employee’s contributions plus any interest has
+been paid out, the rest of the contributions plus any interest will be paid in a lump sum to the employee’s estate or
+other beneficiary. Generally, this beneficiary will not have
+to include any of the lump sum in gross income because,
+when it is added to the amount of the annuity previously
+received that was excludable, it will still be less than the
+employee’s total contributions.
+Any unrecovered cost is allowed as an “Other Itemized
+Deduction” on the final return of the annuitant.
+To figure the taxable amount, if any, use Worksheet D.
+
+Worksheet D. Lump-Sum Payment
+at End of Survivor Annuity
+1. Enter the lump-sum payment . . . . . . 1.
+2. Enter the amount of annuity previously
+received tax free . . . . . . . . . . . . . . . . . 2.
+3. Add lines 1 and 2 . . . . . . . . . . . . . . . . 3.
+4. Enter the employee’s total cost . . . . . 4.
+5. Taxable amount. Subtract line 4 from
+line 3. Enter the result, but not less
+than zero . . . . . . . . . . . . . . . . . . . . . . . 5.
+
+The taxable amount, if any, generally can’t be rolled
+over into an IRA or other plan and is subject to federal income tax withholding at a 10% rate. However, a nonspousal beneficiary making a transfer described under
+Rollovers by nonspouse beneficiary under Rollover Rules
+in Part II, earlier, can roll over any taxable amount. In addition, the payment may qualify as a lump-sum distribution
+eligible for capital gain treatment or the 10-year tax option
+if the plan participant was born before January 2, 1936. If
+the beneficiary also receives a lump-sum payment of unrecovered voluntary contributions plus interest, this treatment applies only if the payment is received within the
+same tax year. For more information, see Lump-Sum Distributions in Pub. 575.
+Example. At the time of your brother’s death in December 2024, he was employed by the federal government and had contributed $45,000 to the CSRS. His surviving spouse received $6,600 in survivor annuity
+payments before she died in 2025. She had used the Simplified Method for reporting her annuity and properly excluded $1,000 from gross income.
+Only $6,600 of the guaranteed amount of $45,000
+(your brother’s contributions) was paid as an annuity, so
+the balance of $38,400 was paid to you in a lump sum as
+your brother’s sole beneficiary. You figure the taxable
+amount of this payment as follows.
+
+Publication 721 (2025)
+
+Worksheet D. Lump-Sum Payment
+at End of Survivor
+Annuity—Example
+1. Enter the lump-sum payment . . . . . . 1.
+2. Enter the amount of annuity previously
+received tax free . . . . . . . . . . . . . . . . . 2.
+3. Add lines 1 and 2 . . . . . . . . . . . . . . . . 3.
+4. Enter the employee’s total cost . . . . . 4.
+5. Taxable amount. Subtract line 4 from
+line 3. Enter the result, but not less
+than zero . . . . . . . . . . . . . . . . . . . . . . . 5.
+
+$
+
+38,400
+1,000
+39,400
+45,000
+0
+
+Voluntary contributions. If a CSRS employee dies before retiring from government service, voluntary contributions to the retirement fund can’t be used to provide an additional annuity to the survivors. Instead, the voluntary
+contributions plus any accrued interest will be paid in a
+lump sum to the estate or other beneficiary. The beneficiary must generally include any interest received in income for the year distributed or made available. However,
+if the beneficiary is the employee’s surviving spouse (or
+someone other than the employee’s spouse making a
+transfer described under Rollovers by nonspouse beneficiary under Rollover Rules in Part II, earlier), the interest
+can be rolled over. See also Rollovers by surviving spouse
+under Rollover Rules in Part II, earlier.
+The interest, if not rolled over, is generally subject to
+federal income tax withholding at a 20% rate (or 10% rate
+if the beneficiary isn’t the employee’s surviving spouse). It
+may qualify as a lump-sum distribution eligible for capital
+gain treatment or the 10-year tax option if:
+
+• The plan participant was born before January 2, 1936;
+• Regular annuity benefits can’t be paid under the retirement system; and
+
+• The beneficiary also receives a lump-sum payment of
+the regular contributions plus interest within the same
+tax year as the voluntary contributions.
+
+For more information, see Lump-Sum Distributions in
+Pub. 575.
+
+Thrift Savings Plan (TSP)
+The payment you receive as the beneficiary of a decedent’s TSP account is fully taxable except for the portion
+that is from Roth contributions and earnings if certain conditions are met. See Roth TSP balance, earlier. However,
+if you are the decedent’s surviving spouse (or someone
+other than the employee’s spouse making a transfer described under Rollovers by nonspouse beneficiary under
+Rollover Rules in Part II, earlier), you can generally roll
+over the payment tax free. If you don’t choose a direct rollover of the decedent’s TSP account, mandatory 20% income tax withholding will apply unless it is from Roth contributions. See Roth TSP balance, earlier. For more
+information, see Rollover Rules in Part II, earlier. If you are
+neither the surviving spouse nor someone other than the
+employee’s spouse making a transfer described above,
+Publication 721 (2025)
+
+the payment isn’t eligible for rollover treatment. The TSP
+will withhold 10% of the payment for federal income tax,
+unless you gave the TSP a Form W-4R to choose not to
+have tax withheld.
+If the entire TSP account balance is paid to the beneficiaries in the same calendar year, it may qualify as a
+lump-sum distribution eligible for the 10-year tax option if
+the plan participant was born before January 2, 1936. See
+Lump-Sum Distributions in Pub. 575 for details. Also, see
+the TSP publication Tax Rules about TSP payments, available on the TSP website at TSP.gov/forms.
+Beneficiary participant account. A beneficiary participant account will be established for a spouse beneficiary.
+The money in the account isn’t subject to federal income
+tax until it is withdrawn. However, the portion that is from
+Roth contributions and earnings, if certain conditions are
+met, will not be subject to tax. See Roth TSP balance, earlier, for a discussion of the conditions. For more information on beneficiary participant accounts, see the TSP publication Your TSP Account: A Guide for Beneficiary
+Participants, available on the TSP website at TSP.gov/
+forms.
+If you receive a payment from a uniformed services TSP account that includes contributions from
+CAUTION combat pay, see Uniformed services TSP accounts under Reminders near the beginning of this publication.
+
+!
+
+Federal Estate Tax
+Form 706, United States Estate (and Generation-Skipping
+Transfer) Tax Return, must be filed for the estate of a citizen or resident alien of the United States who died in 2025
+if the gross estate is more than $13,990,000. Included in
+this $13,990,000 are any adjusted taxable gifts made by
+the decedent after 1976 and the specific exemption allowed for gifts by the decedent after September 8, 1976,
+and before 1977.
+The gross estate generally includes the value of all
+property beneficially owned by the decedent at the time of
+death. Examples of property included in the gross estate
+are salary or annuity payments that had accrued to an employee or retiree, but which weren’t paid before death, and
+the balance in the decedent’s TSP account.
+The gross estate also usually includes the value of the
+death and survivor benefits payable under the CSRS or
+the FERS. If the federal employee died leaving no one eligible to receive a survivor annuity, the lump sum (representing the employee’s contribution to the retirement system plus any accrued interest) payable to the estate or
+other beneficiary is included in the employee’s gross estate.
+Marital deduction. The estate tax marital deduction is a
+deduction from the gross estate of the value of property
+that is included in the gross estate but that passes, or has
+passed, to the surviving spouse. Generally, there is no
+limit on the amount of the marital deduction. Community
+25
+
+property passing to the surviving spouse qualifies for the
+marital deduction.
+More information. For more information, see Pub. 559,
+Survivors, Executors, and Administrators.
+
+Part V
+Rules for Survivors of Federal
+Retirees
+This part of the publication is for survivors of federal retirees. It explains how to treat amounts you receive because
+of the retiree’s death. If you are the survivor of a federal
+employee, see Part IV, earlier.
+Decedent’s retirement benefits. Retirement benefits
+accrued and payable to a CSRS or FERS retiree before
+death, but paid to you as a survivor, are taxable in the
+same manner and to the same extent these benefits
+would have been taxable had the retiree lived to receive
+them.
+
+CSRS or FERS Survivor Annuity
+CSRS or FERS annuity payments you receive as the survivor of a federal retiree are fully or partly taxable under either the General Rule or the Simplified Method.
+Cost recovered. If the retiree reported the annuity under
+the 3-Year Rule and recovered all of the cost tax free, your
+survivor annuity payments are fully taxable. This is also
+true if the retiree had an annuity starting date after 1986,
+reported the annuity under the General Rule or the Simplified Method, and had fully recovered the cost tax free.
+General Rule. If the retiree was reporting the annuity under the General Rule, figure the tax-free part of the annuity
+using the same exclusion percentage that the retiree
+used. Apply the exclusion percentage to the amount
+specified as your survivor annuity at the retiree’s annuity
+starting date. Don’t apply the exclusion percentage to any
+cost-of-living increases made after that date. Those increases are fully taxable. For more information about the
+General Rule, see Pub. 939.
+Simplified Method. If the retiree was reporting the annuity under the Simplified Method, your tax-free monthly
+amount is the same as the retiree’s monthly exclusion
+(Worksheet A, line 4). This amount remains fixed even if
+the monthly payment is increased or decreased. A
+cost-of-living increase in your survivor annuity payments
+doesn’t change the amount you can exclude from gross
+income.
+Exclusion limit. If the retiree’s annuity starting date was
+before 1987, you can exclude the tax-free amount from all
+the annuity payments you receive. This includes any payments received after you recover the cost tax free.
+
+26
+
+If the retiree’s annuity starting date is after 1986, you
+can exclude the tax-free amount only until you recover the
+cost tax free. The annuity payments you receive after you
+recover the annuity cost tax free are fully taxable.
+Deduction of unrecovered cost. If the annuity starting
+date is after July 1, 1986, and the survivor annuitant’s
+death occurs before all the cost is recovered tax free, the
+unrecovered cost can be claimed as an “Other Itemized
+Deduction” for the annuitant’s last tax year.
+Surviving spouse with child. If the survivor benefits include both a life annuity for the surviving spouse and one
+or more temporary annuities for the retiree’s children, the
+tax-free monthly amount that would otherwise apply to the
+life annuity must be allocated among the beneficiaries. To
+figure the tax-free monthly amount for each beneficiary,
+multiply it by a fraction. The numerator of the fraction is the
+beneficiary’s monthly annuity, and the denominator of the
+fraction is the total of the monthly annuity payments to all
+the beneficiaries.
+Example. John retired in 2023 and began receiving a
+$1,147 per month CSRS retirement annuity with a survivor
+annuity payable to his wife, Kate, upon his death. He reported his annuity using the Simplified Method. Under that
+method, $150 of each payment he received was a tax-free
+recovery of his $45,000 cost. John received a total of 22
+monthly payments and recovered $3,300 of his cost tax
+free before his death in 2025. At John’s death, Kate began
+receiving an annuity of $840 per month and their children,
+Sam and Lou, began receiving temporary annuities of
+$330 each per month. Kate must allocate the $150
+tax-free monthly amount among the three annuities.
+To find how much of the monthly exclusion to allocate to
+her own annuity, Kate multiplies the $150 tax-free monthly
+amount by the fraction $840 (her monthly annuity) over
+$1,500 (the total of her $840, Sam’s $330, and Lou’s $330
+monthly annuities). Her resulting monthly exclusion is $84.
+In allocating the $150 monthly exclusion to each child’s
+annuity, the $150 is multiplied by the fraction $330 (each
+child’s monthly annuity) over $1,500. Each child’s resulting
+monthly exclusion is $33.
+Beginning with the month in which either child is no longer eligible for an annuity, as specified in the plan, Kate
+will reallocate the $150 monthly exclusion to her own annuity by multiplying the $150 by the fraction $840 over
+$1,170 (the total of her $840 and her other child’s $330
+monthly annuities). Her resulting monthly exclusion is
+$108. In reallocating the $150 monthly exclusion to the
+other child’s annuity, the $150 is multiplied by the fraction
+$330 over $1,170. The other child’s resulting monthly exclusion is $42.
+Surviving child only. If the survivor benefits include only
+a temporary annuity for the retiree’s child, allocate the unrecovered cost over the number of months from the date
+the annuity started until the child reaches age 22. If more
+than one temporary annuity is paid, allocate the cost over
+the number of months until the youngest child reaches
+age 22, and allocate the tax-free monthly amount among
+
+Publication 721 (2025)
+
+the annuities in proportion to the monthly annuity payments.
+
+ply to regular lump-sum CSRS or FERS payments, as explained earlier under Lump-Sum CSRS or FERS Payment.
+
+Lump-Sum CSRS or FERS Payment
+
+Thrift Savings Plan (TSP)
+
+If a deceased retiree has no beneficiary eligible to receive
+a survivor annuity, and the deceased retiree’s annuity
+ends before an amount equal to the deceased retiree’s
+contributions plus any interest has been paid out, the rest
+of the contributions plus any interest will be paid in a lump
+sum to the estate or other beneficiary. The estate or other
+beneficiary will rarely have to include any part of the lump
+sum in gross income. The taxable amount is figured by using Worksheet E.
+
+If you receive a payment from the TSP account of a deceased federal retiree, the payment is fully taxable except
+for the portion that is from Roth contributions and earnings
+if certain conditions are met. See Roth TSP balance, earlier. However, if you are the retiree’s surviving spouse (or
+someone other than the retiree’s spouse making a transfer
+described under Rollovers by nonspouse beneficiary under Rollover Rules in Part II, earlier), you can generally roll
+over the otherwise taxable payment tax free. If you don’t
+choose a direct rollover of the TSP account, mandatory
+20% federal income tax withholding will apply unless it is
+from Roth contributions. See Roth TSP balance, earlier.
+For more information, see Rollover Rules under Part II,
+earlier. If you are neither the surviving spouse nor someone other than the retiree’s spouse making a transfer described above, the payment isn’t eligible for rollover treatment. The TSP will withhold 10% of the payment for
+federal income tax, unless you gave the TSP a Form
+W-4R to choose not to have tax withheld.
+
+Worksheet E. Lump-Sum Payment at End of
+Retiree’s Annuity (With No
+Survivor Annuity)
+1. Enter the lump-sum payment . . . . . .
+
+1.
+
+2. Enter the amount of annuity received
+tax free by the retiree . . . . . . . . . . . . .
+3. Add lines 1 and 2 . . . . . . . . . . . . . . . .
+
+2.
+3.
+
+4. Enter the total cost . . . . . . . . . . . . . . .
+
+4.
+5. Taxable amount. Subtract line 4 from
+line 3. Enter the result, but not less
+than zero . . . . . . . . . . . . . . . . . . . . . . . 5.
+
+The taxable amount, if any, generally can’t be rolled
+over into an IRA or other plan and is subject to federal income tax withholding at a 10% rate. However, a nonspousal beneficiary making a transfer described under
+Rollovers by nonspouse beneficiary under Rollover Rules
+in Part II, earlier, can roll over any taxable amount. In addition, the payment may qualify as a lump-sum distribution
+eligible for capital gain treatment or the 10-year tax option
+if the plan participant was born before January 2, 1936. If
+the beneficiary also receives a lump-sum payment of unrecovered voluntary contributions plus interest, this treatment applies only if the payment is received within the
+same tax year. For more information, see Lump-Sum Distributions in Pub. 575.
+
+Voluntary Contributions
+If you receive an additional survivor annuity benefit from
+voluntary contributions to the CSRS, treat it separately
+from the annuity that comes from regular contributions.
+Each year, you will receive a Form CSF 1099-R that will
+show how much of your total annuity received in the past
+year was from each type of benefit.
+Figure the taxable and tax-free parts of your additional
+survivor annuity benefit from voluntary contributions using
+the same rules that apply to regular CSRS and FERS survivor annuities, as explained earlier under CSRS or FERS
+Survivor Annuity.
+
+If the retiree chose to receive their account balance as
+an annuity, the payments you receive as the retiree’s survivor are fully taxable when you receive them, whether they
+are received as annuity payments or as a cash refund of
+the remaining value of the amount used to purchase the
+annuity. However, the portion that is from Roth contributions and earnings, if certain conditions are met, will not
+be subject to tax. See Roth TSP balance, earlier.
+Beneficiary participant account. A beneficiary participant account will be established for a spouse beneficiary.
+The money in the account isn’t subject to federal income
+tax until it is withdrawn. The portion withdrawn that is from
+Roth contributions and earnings, if certain conditions are
+met, will not be subject to tax. See Roth TSP balance, earlier, for a discussion of the conditions. For more information on beneficiary participant accounts, see the TSP publication Your TSP Account: A Guide for Beneficiary
+Participants, available on the TSP website at TSP.gov/
+forms.
+If you receive a payment from a uniformed services TSP account that includes contributions from
+CAUTION combat pay, see Uniformed services TSP accounts under Reminders near the beginning of this publication.
+
+!
+
+Federal Estate Tax
+A federal estate tax return may have to be filed for the estate of the retired employee. See Federal Estate Tax under
+Part IV, earlier.
+
+Lump-sum payment. Figure the taxable amount, if any,
+of a lump-sum payment of the retiree’s unrecovered voluntary contributions plus any interest using the rules that apPublication 721 (2025)
+
+27
+
+Income Tax Deduction for Estate Tax
+Paid
+Any income that a decedent had a right to receive and
+could have received had death not occurred and that
+wasn’t properly includible in the decedent’s final income
+tax return is treated as income in respect of a decedent.
+This includes retirement benefits accrued and payable to
+a retiree before death, but paid to you as a survivor.
+If the federal estate tax was paid on the decedent’s estate and you are required to include income in respect of a
+
+28
+
+decedent in your gross income for any tax year, you can
+deduct the portion of the federal estate tax that is from the
+inclusion in the estate of the right to receive that amount.
+For this purpose, if the decedent died after the annuity
+starting date, the taxable portion of a survivor annuity you
+receive (other than a temporary annuity for a child) is considered income in respect of a decedent.
+For more information, see Income in Respect of a Decedent in Pub. 559.
+
+Publication 721 (2025)
+
+Worksheets A and B
+This section contains blank Worksheets A and B for you to
+use for your own calculations.
+
+Worksheet A. Simplified Method
+See the instructions under Simplified Method in Part II of this publication.
+1. Enter the total pension or annuity payments received this year. Also, add this amount to the total for Form 1040,
+1040-SR, or 1040-NR, line 5a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. Enter your cost in the plan at the annuity starting date, plus any death benefit exclusion.* See Your cost under Rules for
+Retirees in Part II, earlier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Note: If your annuity starting date was before this year and you completed this worksheet last year, skip line 3 and
+enter the amount from line 4 of last year’s worksheet on line 4 below (even if the amount of your pension or annuity has
+changed). Otherwise, go to line 3.
+3. Enter the appropriate number from Table 1 below. But if your annuity starting date was after 1997 and the payments are
+for your life and that of your beneficiary, enter the appropriate number from Table 2 below . . . . . . . . . . . . . . . . . . . . .
+4. Divide line 2 by the number on line 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5. Multiply line 4 by the number of months for which this year’s payments were made. If your annuity starting date was
+before 1987, enter this amount on line 8 below and skip lines 6, 7, 10, and 11. Otherwise, go to line 6 . . . . . . . . . . . .
+6. Enter any amounts previously recovered tax free in years after 1986. This is the amount shown on line 10 of your
+worksheet for last year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7. Subtract line 6 from line 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8. Enter the smaller of line 5 or line 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9. Taxable amount for year. Subtract line 8 from line 1. Enter the result, but not less than zero. Also, add this amount to
+the total for Form 1040 or 1040-SR, line 5b. If you are a nonresident alien, enter this amount on line 1 of Worksheet C. If
+your Form CSA 1099-R or Form CSF 1099-R shows a larger amount, use the amount figured on this line instead. If you
+are a retired public safety officer, see Distributions Used To Pay Insurance Premiums for Public Safety Officers under
+Part II before entering an amount on your tax return or Worksheet C, line 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10. Was your annuity starting date before 1987?
+Yes.
+
+STOP
+
+1.
+2.
+
+3.
+4.
+5.
+6.
+7.
+8.
+
+9.
+
+Don’t complete the rest of this worksheet.
+
+No. Add lines 6 and 8. This is the amount you have recovered tax free through 2025. You will need this number if
+you need to fill out this worksheet next year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11. Balance of cost to be recovered. Subtract line 10 from line 2. If zero, you will not have to complete this worksheet
+next year. The payments you receive next year will generally be fully taxable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+10.
+11.
+
+Table 1 for Line 3 Above
+AND your annuity starting date was—
+IF your age on your annuity
+starting date was...
+55 or under
+56–60
+61–65
+66–70
+71 or over
+
+before November 19, 1996,
+THEN enter on line 3...
+300
+260
+240
+170
+120
+
+after November 18, 1996,
+THEN enter on line 3...
+360
+310
+260
+210
+160
+
+Table 2 for Line 3 Above
+IF the annuitants’ combined ages
+on your annuity starting date
+were...
+110 or under
+111–120
+121–130
+131–140
+141 or over
+
+THEN enter on line 3...
+410
+360
+310
+260
+210
+
+* A death benefit exclusion of up to $5,000 applies to certain benefits received by survivors of employees who died before
+August 21, 1996.
+
+Publication 721 (2025)
+
+29
+
+Worksheet B. Lump-Sum Payment
+See the instructions under Alternative Annuity Option in Part II of this publication.
+1. Enter your lump-sum credit (your cost in the plan at the annuity starting date) . . . . . . . . . . . . . . . . . . . . .
+
+1.
+
+2. Enter the present value of your annuity contract . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.
+
+3. Divide line 1 by line 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3.
+
+4. Tax-free amount. Multiply line 1 by line 3. (Caution: Don’t include this amount on line 6 of Worksheet A in
+this publication.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4.
+
+5. Taxable amount (net cost in the plan). Subtract line 4 from line 1. Include this amount in the total on
+Form 1040, 1040-SR, or 1040-NR, line 5b. Also, enter this amount on line 2 of Worksheet A in this
+publication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5.
+
+• TCE. The Tax Counseling for the Elderly (TCE) pro-
+
+How To Get Tax Help
+If you have questions about a tax issue; need help preparing your tax return; or want to download free publications,
+forms, or instructions, go to IRS.gov to find resources that
+can help you right away.
+Tax reform. Tax reform legislation impacting federal
+taxes, credits, and deductions was enacted in P.L. 119-21,
+commonly known as the One Big Beautiful Bill Act, on July
+4, 2025. Go to IRS.gov/OBBB for more information and
+updates on how this legislation affects your taxes.
+Preparing and filing your tax return. After receiving all
+your wage and earnings statements (Forms W-2, W-2G,
+1099-R, 1099-MISC, 1099-NEC, etc.); unemployment
+compensation statements (by mail or in a digital format) or
+other government payment statements (Form 1099-G);
+and interest, dividend, and retirement statements from
+banks and investment firms (Forms 1099), you have several options to choose from to prepare and file your tax return. You can prepare the tax return yourself, see if you
+qualify for free tax preparation, or hire a tax professional to
+prepare your return.
+Free options for tax preparation. Your options for preparing and filing your return online or in your local community, if you qualify, include the following.
+
+• Free File. This program lets you prepare and file your
+
+federal individual income tax return for free using software or Free File Fillable Forms. However, state tax
+preparation may not be available through Free File. Go
+to IRS.gov/FreeFile to see if you qualify for free online
+federal tax preparation, e-filing, and direct deposit or
+payment options.
+
+• VITA. The Volunteer Income Tax Assistance (VITA)
+
+program offers free tax help to people with
+low-to-moderate incomes, persons with disabilities,
+and limited-English-speaking taxpayers who need
+help preparing their own tax returns. Go to IRS.gov/
+VITA, download the free IRS2Go app, or call
+800-906-9887 for information on free tax return preparation.
+
+30
+
+gram offers free tax help for all taxpayers, particularly
+those who are 60 years of age and older. TCE volunteers specialize in answering questions about pensions and retirement-related issues unique to seniors.
+Go to IRS.gov/TCE or download the free IRS2Go app
+for information on free tax return preparation.
+
+• MilTax. Members of the U.S. Armed Forces and quali-
+
+fied veterans may use MilTax, a free tax service offered by the Department of Defense through Military
+OneSource. For more information, go to
+MilitaryOneSource (MilitaryOneSource.mil/MilTax).
+Also, the IRS offers Free Fillable Forms, which can
+be completed online and then e-filed regardless of income.
+
+Using online tools to help prepare your return. Go to
+IRS.gov/Tools for the following.
+
+• The Earned Income Tax Credit Assistant (IRS.gov/
+EITCAssistant) determines if you’re eligible for the
+earned income credit (EITC).
+
+• The Online EIN Application (IRS.gov/EIN) helps you
+get an employer identification number (EIN) at no
+cost.
+
+• The Tax Withholding Estimator (IRS.gov/W4App)
+
+makes it easier for you to estimate the federal income
+tax you want your employer to withhold from your paycheck. This is tax withholding. See how your withholding affects your refund, take-home pay, or tax due.
+
+• The Sales Tax Deduction Calculator (IRS.gov/
+
+SalesTax) figures the amount you can claim if you
+itemize deductions on Schedule A (Form 1040).
+Getting answers to your tax questions. On
+IRS.gov, you can get up-to-date information on
+current events and changes in tax law.
+
+• IRS.gov/Help: A variety of tools to help you get answers to some of the most common tax questions.
+
+• IRS.gov/ITA: The Interactive Tax Assistant, a tool that
+will ask you questions and, based on your input, provide answers on a number of tax topics.
+
+• IRS.gov/Forms: Find forms, instructions, and publications. You will find details on the most recent tax
+
+Publication 721 (2025)
+
+changes and interactive links to help you find answers
+to your questions.
+
+• You may also be able to access tax information in your
+e-filing software.
+
+Need someone to prepare your tax return? There are
+various types of tax return preparers, including enrolled
+agents, certified public accountants (CPAs), accountants,
+and many others who don’t have professional credentials.
+If you choose to have someone prepare your tax return,
+choose that preparer wisely. A paid tax preparer is:
+
+• Primarily responsible for the overall substantive accuracy of your return,
+
+• Required to sign the return, and
+• Required to include their preparer tax identification
+number (PTIN).
+
+Although the tax preparer always signs the return,
+you’re ultimately responsible for providing all the
+CAUTION information required for the preparer to accurately
+prepare your return and for the accuracy of every item reported on the return. Anyone paid to prepare tax returns
+for others should have a thorough understanding of tax
+matters. For more information on how to choose a tax preparer, go to Tips for Choosing a Tax Preparer on IRS.gov.
+
+!
+
+tance Centers (TACs), most IRS offices, and every
+VITA/TCE tax return site. This service is available in Spanish, Mandarin, Cantonese, Korean, Vietnamese, Russian,
+and Haitian Creole.
+Accessibility Helpline available for taxpayers with
+disabilities. Taxpayers who need information about accessibility services can call 833-690-0598. The Accessibility Helpline can answer questions related to current and
+future accessibility products and services available in alternative media formats (for example, braille-ready, large
+print, audio, etc.). The Accessibility Helpline does not
+have access to your IRS account. For help with tax law, refunds, or account-related issues, go to IRS.gov/
+LetUsHelp.
+Alternative media preference. Form 9000, Alternative
+Media Preference, or Form 9000(SP) allows you to elect to
+receive certain types of written correspondence in the following formats.
+
+• Standard Print.
+• Large Print.
+• Braille.
+• Audio (MP3).
+• Plain Text File (TXT).
+• Braille-Ready File (BRF).
+
+Employers can register to use Business Services Online. The Social Security Administration (SSA) offers online service at SSA.gov/employer for fast, free, and secure
+W-2 filing options to CPAs, accountants, enrolled agents,
+and individuals who process Form W-2, Wage and Tax
+Statement; and Form W-2c, Corrected Wage and Tax
+Statement.
+
+Getting tax forms and publications. Go to IRS.gov/
+Forms to view, download, or print all the forms, instructions, and publications you may need. Or you can go to
+IRS.gov/OrderForms to place an order.
+
+Business tax account. If you are a sole proprietor, a
+partnership, an S corporation, a C corporation, or a single-member limited liability company (LLC), you can view
+your tax information on record with the IRS and do more
+with a business tax account. Go to IRS.gov/
+BusinessAccount for more information.
+
+Mobile-friendly forms. You’ll need an IRS Online Account (OLA) to complete mobile-friendly forms that require
+signatures. You’ll have the option to submit your form(s)
+online or download a copy for mailing. You’ll need scans of
+your documents to support your submission. Go to
+IRS.gov/MobileFriendlyForms for more information.
+
+IRS social media. Go to IRS.gov/SocialMedia to see the
+various social media tools the IRS uses to share the latest
+information on tax changes, scam alerts, initiatives, products, and services. At the IRS, privacy and security are our
+highest priority. We use these tools to share public information with you. Don’t post your social security number
+(SSN) or other confidential information on social media
+sites. Always protect your identity when using any social
+networking site.
+The following IRS YouTube channels provide short, informative videos on various tax-related topics in English
+and ASL.
+
+Getting tax publications and instructions in eBook
+format. Download and view most tax publications and instructions (including the Instructions for Form 1040) on
+mobile devices as eBooks at IRS.gov/eBooks.
+IRS eBooks have been tested using Apple’s iBooks for
+iPad. Our eBooks haven’t been tested on other dedicated
+eBook readers, and eBook functionality may not operate
+as intended.
+
+• Youtube.com/irsvideos.
+• Youtube.com/irsvideosASL.
+Over-the-Phone Interpreter (OPI) Service. The IRS offers the OPI Service to taxpayers needing language interpretation. The OPI Service is available at Taxpayer AssisPublication 721 (2025)
+
+Disasters. Go to IRS.gov/DisasterRelief to review the
+available disaster tax relief.
+
+Access your online account (individual taxpayers
+only). Go to IRS.gov/Account to securely access information about your federal tax account.
+
+• View the amount you owe and a breakdown by tax
+year.
+
+• See payment plan details or apply for a new payment
+plan.
+
+31
+
+• Make a payment or view 5 years of payment history
+and any pending or scheduled payments.
+
+• Access your tax records, including key data from your
+most recent tax return, and transcripts.
+
+• View digital copies of select notices from the IRS.
+• Approve or reject authorization requests from tax professionals.
+
+Get a transcript of your return. With an online account,
+you can access a variety of information to help you during
+the filing season. You can get a transcript, review your
+most recently filed tax return, and get your adjusted gross
+income. Create or access your online account at IRS.gov/
+Account.
+Tax Pro Account. This tool lets your tax professional
+submit an authorization request to access your individual
+taxpayer IRS OLA. For more information, go to IRS.gov/
+TaxProAccount.
+Using direct deposit. The safest and easiest way to receive a tax refund is to e-file and choose direct deposit,
+which securely and electronically transfers your refund directly into your financial account. Direct deposit also
+avoids the possibility that your check could be lost, stolen,
+destroyed, or returned undeliverable to the IRS. Eight in
+10 taxpayers use direct deposit to receive their refunds. If
+you don’t have a bank account, go to IRS.gov/
+DirectDeposit for more information on where to find a bank
+or credit union that can open an account online.
+Reporting and resolving your tax-related identity
+theft issues.
+
+• Tax-related identity theft happens when someone
+
+steals your personal information to commit tax fraud.
+Your taxes can be affected if your SSN is used to file a
+fraudulent return or to claim a refund or credit.
+
+• The IRS doesn’t initiate contact with taxpayers by
+
+email, text messages (including shortened links), telephone calls, or social media channels to request or
+verify personal or financial information. This includes
+requests for personal identification numbers (PINs),
+passwords, or similar information for credit cards,
+banks, or other financial accounts.
+
+• Go to IRS.gov/IdentityTheft, the IRS Identity Theft
+
+Central webpage, for information on identity theft and
+data security protection for taxpayers, tax professionals, and businesses. If your SSN has been lost or
+stolen or you suspect you’re a victim of tax-related
+identity theft, you can learn what steps you should
+take.
+
+• Get an Identity Protection PIN (IP PIN). IP PINs are
+
+six-digit numbers assigned to taxpayers to help prevent the misuse of their SSNs on fraudulent federal income tax returns. When you have an IP PIN, it prevents someone else from filing a tax return with your
+SSN. To learn more, go to IRS.gov/IPPIN.
+
+32
+
+Ways to check on the status of your refund.
+
+• Go to IRS.gov/Refunds.
+• Download the official IRS2Go app to your mobile device to check your refund status.
+
+• Call the automated refund hotline at 800-829-1954.
+The IRS can’t issue refunds before mid-February
+for returns that claimed the EITC or the additional
+CAUTION child tax credit (ACTC). This applies to the entire
+refund, not just the portion associated with these credits.
+
+!
+
+Making a tax payment. The IRS recommends paying
+electronically whenever possible. Options to pay electronically are included in the list below. Payments of U.S. tax
+must be remitted to the IRS in U.S. dollars. Digital assets
+are not accepted. Go to IRS.gov/Payments for information
+on how to make a payment using any of the following options.
+
+• IRS Direct Pay: Pay taxes from your bank account. It’s
+
+free and secure, and no sign-in is required. You can
+change or cancel within 2 days of scheduled payment.
+
+• Debit Card, Credit Card, or Digital Wallet: Choose an
+approved payment processor to pay online or by
+phone.
+
+• Electronic Funds Withdrawal: Schedule a payment
+
+when filing your federal taxes using tax return preparation software or through a tax professional.
+
+• Electronic Federal Tax Payment System: This is the
+best option for businesses. Enrollment is required.
+
+• Check or Money Order: Mail your payment to the address listed on the notice or instructions.
+
+• Cash: You may be able to pay your taxes with cash at
+a participating retail store.
+
+• Same-Day Wire: You may be able to do same-day
+
+wire from your financial institution. Contact your financial institution for availability, cost, and time frames.
+
+Note: The IRS uses the latest encryption technology to
+ensure that the electronic payments you make online, by
+phone, or from a mobile device using the IRS2Go app are
+safe and secure. Paying electronically is quick and easy.
+What if I can’t pay now? Go to IRS.gov/Payments for
+more information about your options.
+
+• Apply for an online payment agreement (IRS.gov/
+
+OPA) to meet your tax obligation in monthly installments if you can’t pay your taxes in full today. Once
+you complete the online process, you will receive immediate notification of whether your agreement has
+been approved.
+
+• Use the Offer in Compromise Pre-Qualifier to see if
+
+you can settle your tax debt for less than the full
+amount you owe. For more information on the Offer in
+Compromise program, go to IRS.gov/OIC.
+
+Filing an amended return. Go to IRS.gov/1040X for information and updates.
+Publication 721 (2025)
+
+Checking the status of your amended return. Go to
+IRS.gov/WMAR to track the status of Form 1040-X amended returns.
+It can take up to 3 weeks from the date you filed
+your amended return for it to show up in our sysCAUTION tem, and processing it can take up to 16 weeks.
+
+!
+
+Understanding an IRS notice or letter you’ve received. Go to IRS.gov/Notices to find additional information about responding to an IRS notice or letter.
+IRS Document Upload Tool. You may be able to use
+the Document Upload Tool to respond digitally to eligible
+IRS notices and letters by securely uploading required
+documents online through IRS.gov. For more information,
+go to IRS.gov/DUT.
+Schedule LEP. You can use Schedule LEP (Form 1040),
+Request for Change in Language Preference, to state a
+preference to receive notices, letters, or other written communications from the IRS in an alternative language. You
+may not immediately receive written communications in
+the requested language. The IRS’s commitment to LEP
+taxpayers is part of a multi-year timeline that began providing translations in 2023. You will continue to receive
+communications, including notices and letters, in English
+until they are translated to your preferred language.
+Contacting your local TAC. Keep in mind, many questions can be answered on IRS.gov without visiting a TAC.
+Go to IRS.gov/LetUsHelp for the topics people ask about
+most. If you still need help, TACs provide tax help when a
+tax issue can’t be handled online or by phone. All TACs
+now provide service by appointment, so you’ll know in advance that you can get the service you need without long
+wait times. Before you visit, go to IRS.gov/TAC to find the
+nearest TAC and to check hours, available services, and
+appointment options. Or, on the IRS2Go app, under the
+Stay Connected tab, choose the Contact Us option and
+click on “Local Offices.”
+————————————————————————
+Below is a message to you from the Taxpayer Advocate
+Service, an independent organization established by Congress.
+
+The Taxpayer Advocate Service (TAS)
+Is Here To Help You
+What Is the Taxpayer Advocate Service?
+The Taxpayer Advocate Service (TAS) is an independent
+organization within the Internal Revenue Service (IRS).
+
+Publication 721 (2025)
+
+TAS helps taxpayers resolve problems with the IRS,
+makes administrative and legislative recommendations to
+prevent or correct the problems, and protects taxpayer
+rights. We work to ensure that every taxpayer is treated
+fairly and that you know and understand your rights under
+the Taxpayer Bill of Rights. We are Your Voice at the IRS.
+
+How Can TAS Help Me?
+TAS can help you resolve problems that you haven’t been
+able to resolve with the IRS on your own. Always try to resolve your problem with the IRS first, but if you can’t, then
+come to TAS. Our services are free.
+
+• TAS helps all taxpayers (and their representatives), including individuals, businesses, and exempt organizations. You may be eligible for TAS help if your IRS
+problem is causing financial difficulty, if you’ve tried
+and been unable to resolve your issue with the IRS, or
+if you believe an IRS system, process, or procedure
+just isn’t working as it should.
+
+• To get help any time with general tax topics, visit
+
+www.TaxpayerAdvocate.IRS.gov. The site can help
+you with common tax issues and situations, such as
+what to do if you make a mistake on your return or if
+you get a notice from the IRS.
+
+• TAS works to resolve large-scale (systemic) problems
+
+that affect many taxpayers. You can report systemic issues at www.IRS.gov/SAMS. (Be sure not to include
+any personal identifiable information.)
+
+How Do I Contact TAS?
+TAS has offices in every state, the District of Columbia,
+and Puerto Rico. To find your local advocate’s number:
+
+• Go to www.TaxpayerAdvocate.IRS.gov/Contact-Us,
+• Check your local directory, or
+• Call TAS toll free at 877-777-4778.
+What Are My Rights as a Taxpayer?
+The Taxpayer Bill of Rights describes ten basic rights that
+all taxpayers have when dealing with the IRS. Go to
+www.TaxpayerAdvocate.IRS.gov/Taxpayer-Rights
+for
+more information about the rights, what they mean to you,
+and how they apply to specific situations you may encounter with the IRS. TAS strives to protect taxpayer rights and
+ensure the IRS is administering the tax law in a fair and
+equitable way.
+
+33
+
+Index
+
+To help us develop a more useful index, please let us know if you have ideas for index entries.
+See “Comments and Suggestions” in the “Introduction” for the ways you can reach us.
+CSF 1099-R 5
+W-4P 4
+W-4R 4
+
+A
+
+Alternative annuity option:
+Lump-sum payment 9
+Annual leave 10
+Annuity:
+Starting date 5
+Statement 5
+With survivor benefit 21
+Without survivor benefit 5
+Assistance (See Tax help)
+
+B
+
+Benefits, how to report 19
+
+C
+
+Child’s temporary annuity 22
+Community property laws 12
+Contributions, refund of 3
+Cost (contributions to retirement
+plan) 5
+Credit for the elderly or the
+disabled 20
+
+D
+
+Death benefit 21
+Deduction for estate tax 28
+Disability retirement 19
+Disabled child 22
+Distributions:
+Qualified domestic relations order
+(QDRO) 17
+Withholding from TSP payments 4
+
+G
+
+General Rule 7, 26
+Gift tax 10
+
+I
+
+Income in respect of a decedent 28
+Income tax withholding 3, 19
+
+L
+
+Lump-sum CSRS or FERS
+payment 24, 27
+Lump-sum payment:
+Alternative annuity option 9
+Installments 9
+Withholding 4
+
+M
+
+Mandatory retirement age 20
+Marital deduction 25
+Minimum retirement age 19
+
+T
+
+Tax help 30
+Thrift Savings Plan 2, 13
+Roth option 13
+
+U
+
+Nonresident alien retiree 12
+
+P
+
+V
+
+F
+
+Q
+
+34
+
+SIMPLE IRAs 15
+Simplified Method 6, 26
+Substantial gainful activity 20
+Survivor annuity 5, 21, 26
+Survivors of federal employees 21
+Survivors of federal retirees 26
+
+Uniformed services Thrift Savings
+Plan 2
+Unused annual leave 20
+
+Estate tax 25, 28
+Estimated tax 3, 4
+Federal Employees’ Compensation
+Act (FECA) 20
+Filing requirements 4
+Form:
+1099-R 4
+CSA 1099-R 3
+
+S
+
+N
+
+Permanently and totally
+disabled 20
+Physician’s statement 20
+Public safety officers:
+Dependents 21
+Insurance premiums 18
+Survivors 24
+Publications (See Tax help)
+
+E
+
+Refund of contributions 3
+Retirees, rules for 5
+Retirement during the past year 10
+Rollovers:
+Nonspouse beneficiary 17
+Rollover rules 15
+SIMPLE IRAs 15
+To Roth IRAs 17
+Roth Thrift Savings Plan 13
+
+Qualified domestic relations order
+(QDRO) 17
+
+R
+
+Voluntary contributions 10, 25, 27
+
+W
+
+Withholding certificate 4
+Withholding of income tax 3, 19
+Worksheets:
+Lump-sum payment at end of
+survivor annuity 24
+Lump-sum payment to the estate or
+other beneficiary 27
+Lump-sum payment under
+alternative annuity option 30
+Nonresident alien retiree 12
+Simplified Method 29
+
+Reemployment after retirement 12
+
+Publication 721 (2025)
+
+

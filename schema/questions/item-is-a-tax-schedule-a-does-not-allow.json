@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-a-tax-schedule-a-does-not-allow",
+    "wording": "Is this a tax Schedule A does not allow \u2014 federal income or excise tax, social security or Medicare tax, customs duties, federal estate or gift tax, tax on gasoline, car inspection fees, assessments for sidewalks or other improvements, tax paid for someone else, license fees, or foreign personal or real property tax?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 not deductible"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 a deductible state, local or foreign income or property tax"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this a tax Schedule A does not allow \u2014 federal income or excise tax, social security or Medicare tax, customs duties, federal estate or gift tax, tax on gasoline, car inspection fees, assessments for sidewalks or other improvements, tax paid for someone else, license fees, or foreign personal or real property tax?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Taxes You Can't Deduct",
+        "revision": "2025",
+        "wording": "Customs duties.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

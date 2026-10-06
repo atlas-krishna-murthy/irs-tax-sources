@@ -1,0 +1,50 @@
+{
+  "rule": {
+    "id": "e-brk-05",
+    "title": "Interest received as a nominee for another person is subtracted",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-INT.1",
+        "1099-INT.3"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "interest-received-entirely-as-a-nominee"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "interest-received-entirely-as-a-nominee",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Interest on the recipient's own form is theirs unless a preparer says they received it as a nominee"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 550",
+      "line": "Nominee distributions",
+      "revision": "2025",
+      "wording": "Subtract that amount from the interest income subtotal.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p550--2025.pdf"
+    },
+    "research_ids": [
+      "e-brk-05"
+    ],
+    "open_point": "Only the whole form is answered: a PART received as a nominee is an amount a person states, and no operator reduces a figure by an answered amount.",
+    "quiet": true
+  }
+}

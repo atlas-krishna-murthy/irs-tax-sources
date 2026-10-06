@@ -1,0 +1,1310 @@
+Instructions for Form 8697
+(Rev. December 2025)
+
+Interest Computation Under the Look-Back Method for Completed Long-Term
+Contracts
+Section references are to the Internal Revenue Code unless
+otherwise noted.
+
+General Instructions
+Future Developments
+
+For the latest information about developments related to
+Form 8697 and its instructions, such as legislation enacted
+after they were published, go to IRS.gov/Form8697.
+
+What’s New
+Electronic payments. If you have access to U.S. banking
+services or electronic payment systems, you should use
+direct deposit for any refunds and pay electronically for any
+payments, whenever possible.
+Direct deposit. Direct deposit fields have been added to
+the form on Part I, lines 9b, 9c, and 9d; and Part II, lines 10b,
+10c, and 10d. If there is net interest to be refunded to you on
+Part l, line 9a, or Part ll, line 10a, enter your direct deposit
+information on Part l, lines 9b through 9d; or Part ll, lines 10b
+through 10d. See the instructions for line 9a, later, for more
+information.
+
+Purpose of Form
+
+Use Form 8697 to figure the interest due or to be refunded
+under the look-back method of section 460(b)(2) on certain
+long-term contracts that are accounted for under either the
+percentage of completion method or the percentage of
+completion-capitalized cost method. For guidance
+concerning these methods, see Regulations section 1.460-4.
+For details and computational examples illustrating the use of
+the look-back method, see Regulations section 1.460-6.
+
+Who Must File
+General Rule
+
+You must file Form 8697 for each tax year in which you
+completed a long-term contract entered into after February
+28, 1986, that you accounted for using either the percentage
+of completion method or the percentage of
+completion-capitalized cost method for federal income tax
+purposes. You also must file Form 8697 for any tax year,
+subsequent to the year of completion, in which the contract
+price or contract costs are adjusted for one or more of these
+long-term contracts from a prior year.
+
+Pass-Through Entities
+
+A pass-through entity (partnership, S corporation, or trust)
+that is not closely held must apply the look-back method at
+the entity level to any contract for which at least 95% of the
+gross income is from U.S. sources. A pass-through entity is
+considered closely held if, at any time during any tax year for
+which there is income under the contract, 50% or more (by
+value) of the beneficial interests in the entity is held (directly
+or indirectly) by or for five or fewer persons. For this purpose,
+rules similar to the constructive ownership rules of section
+Feb 9, 2026
+
+1563(e) apply. For a mid-contract change in taxpayer
+resulting in the conversion of a C corporation into an S
+corporation, the look-back method is applied at the entity
+level with respect to contracts entered into prior to the
+conversion regardless of whether the S corporation is
+considered closely held. See Mid-Contract Change in
+Taxpayer, later.
+If you are an owner of an interest in a pass-through entity
+in which a long-term contract was being accounted for under
+the percentage of completion method or the percentage of
+completion capitalized cost method and the pass-through
+entity is not subject to the look-back method at the entity
+level, you must file this form for your tax year that ends with or
+includes the end of the entity’s tax year in which the contract
+was completed or adjusted in a post-completion tax year. The
+pass-through entity will provide on Schedule K-1 the
+information you need to complete this form.
+
+Mid-Contract Change in Taxpayer
+
+If prior to the completion of a long-term contract accounted
+for using the percentage of completion method or the
+percentage of completion capitalized cost method, there is a
+transaction that makes another taxpayer responsible for
+accounting for income from the same contract, the taxpayer
+responsible for computing look-back interest depends on
+whether the ownership change is due to a constructive
+completion transaction or a step-in-the shoes transaction. For
+guidance regarding these transactions, see Regulations
+section 1.460-4(g). In the case of constructive completion
+transactions, the old taxpayer treats the contract as
+completed in the transaction year and applies the look-back
+method to the pre-transaction years. The new taxpayer is
+treated as entering into a new contract and applies the
+look-back method to the post-transaction years upon the
+contract’s completion. In the case of step-in-the-shoes
+transactions, the new taxpayer applies the look-back method
+to both the pre- and post- transaction years. See Regulations
+section 1.460-6(g) for additional guidance.
+
+Exception for Certain Construction Contracts
+
+The look-back method does not apply to the regular taxable
+income from:
+• Any home construction contract (as defined in section
+460(e)(5)(A) for tax years beginning before July 5, 2025. For
+tax years beginning after July 4, 2025, as defined in section
+460(e)(4)(A) after redesignation by section 70340(a) of P.L.
+119–21, commonly known as the One Big Beautiful Bill Act);
+or
+• Any other construction contract entered into by a taxpayer
+(a) who estimates the contract will be completed within 2
+years from the date the contract begins, and (b) whose
+average annual gross receipts for the 3 tax years preceding
+the tax year in which the contract is entered into do not
+exceed $31 million (adjusted for inflation) for contracts
+entered into in tax years beginning in 2025. See section
+460(e).
+
+Instructions for Form 8697 (Rev. 12-2025) Catalog Number 10703K
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+Note: The average annual gross receipts test threshold
+amount may be adjusted for inflation. The Instructions for
+Form 8697 may not be revised to reflect this amount. For tax
+years beginning after 2025, see the instructions for your
+applicable income tax return for the average annual gross
+receipts test threshold amount for the current tax year. The
+average annual gross receipts test threshold amount is also
+available at IRS.gov/InflationAdjustment. Select the
+applicable tax year news release, then click the “Revenue
+Procedure” link to see the threshold amount under Limitation
+on Use of Cash Method of Accounting.
+However, the look-back method does apply to the
+alternative minimum taxable income (AMTI) from any such
+contract that is not a home construction contract and,
+therefore, must be accounted for using the percentage of
+completion method for alternative minimum tax (AMT)
+purposes. See section 56(a)(3) for details.
+Note: For long-term contracts entered into after July 4, 2025,
+the look-back method does not apply to regular taxable
+income from residential contracts, which includes home
+construction contracts. Additionally, the small contractor
+exception referenced in bullet two is expanded into
+construction contracts that are estimated to be completed
+within 2 years from the date the contract begins.
+
+Small Contract Exception
+
+The look-back method does not apply to any contract
+completed within 2 years of the contract start date if the gross
+price of the contract (as of contract completion) does not
+exceed the smaller of:
+• $1 million, or
+• 1% of the taxpayer’s average annual gross receipts for the
+3 tax years before the tax year of contract completion.
+See section 460(b)(3)(B) for details.
+Note: For long-term contracts entered into after July 4, 2025,
+the look back method does not apply to any contract
+completed within 3 years of the contract start date.
+
+De Minimis Exception
+
+You may elect not to apply the look-back method in certain de
+minimis cases for completed contracts. The look-back
+method does not apply in the following cases if the election is
+made.
+1. In the completion year if, for each prior contract year,
+the cumulative taxable income (or loss) actually reported
+under the contract is within 10% of the cumulative look-back
+income (or loss). Cumulative look-back income (or loss) is
+the amount of taxable income (or loss) that you would have
+reported if you had used actual contract price and costs
+instead of estimated contract price and costs.
+2. In a post-completion year if, as of the close of the
+post-completion year, the cumulative taxable income (or loss)
+under the contract is within 10% of the cumulative look-back
+income (or loss) under the contract as of the close of the
+most recent year in which the look-back method was applied
+to the contract (or would have been applied if the election
+had not been made).
+For purposes of item 2, discounting under section
+460(b)(2) does not apply.
+
+first tax year of the election. Write at the top of the statement
+“NOTIFICATION OF ELECTION UNDER SECTION
+460(b)(6).” Include on the statement your name, your
+identifying number, and the effective date of the election.
+Also, identify the trades or businesses that involve long-term
+contracts. Once made, the election applies to all contracts
+completed during the election year and all later tax years,
+and may not be revoked without IRS consent. See
+Regulations section 1.460-6(j) for more details. If you timely
+filed your return without making the election, you may make
+the election on an amended return filed no later than 6
+months after the due date of your tax return (excluding
+extensions). Write “Filed pursuant to section 301.9100” at the
+top of the amended return.
+
+Filing Instructions
+If You Owe Interest (or No Interest Is To Be
+Refunded to You)
+
+Attach Form 8697 to your income tax return. The signature
+section of Form 8697 does not have to be completed by you
+or the paid preparer.
+Individuals. For individuals, include any interest due on the
+appropriate line of Schedule 2 (Form 1040), Part ll (for
+example, 2025 Schedule 2 (Form 1040), Part ll, line 17n).
+Partnerships. For partnerships (that are not closely held),
+include any interest due on Form 1065, line 24. If paying by
+check, make it payable to “United States Treasury.” Write the
+partnership’s employer identification number (EIN), daytime
+phone number, and “Form 8697 Interest” on the check or
+money order. See the Instructions for Form 1065 for
+electronic payment options.
+S corporations. For S corporations that are not closely
+held, include any interest due in the amount to be entered for
+additional taxes (for example, 2025 Form 1120-S, line 23c).
+Write on the dotted line to the left of the entry space “From
+Form 8697” and the amount of interest due. A closely held S
+corporation would also follow these procedures following a
+conversion from a C corporation for the contracts entered into
+prior to the conversion. See the rules related to Mid-Contract
+Change in Taxpayer, earlier.
+For closely held pass-through entities, look-back interest
+is applied at the owner level and not the entity level.
+C Corporations. For corporations, include the amount of
+interest due on the appropriate line of Form 1120,
+Schedule J, Part I (for example, 2025 Form 1120, Schedule J,
+line 9c).
+Look-back interest owed is not subject to the estimated
+tax penalty. See Regulations section 1.460-6(f)(2).
+
+If Interest Is To Be Refunded to You
+
+Do not attach Form 8697 to your income tax return. Instead,
+file Form 8697 separately with the IRS at the applicable
+address listed below.
+• Individuals:
+Department of Treasury
+Internal Revenue Service
+Philadelphia, PA 19255-0001
+
+To make the election, attach a statement to your timely
+filed income tax return (determined with extensions) for the
+2
+
+Instructions for Form 8697 (Rev. 12-2025)
+
+• All others:
+Department of Treasury
+Internal Revenue Service
+Cincinnati, OH 45999-0001
+Complete the signature section of Form 8697 following the
+instructions for the signature section of your income tax
+return. If you file a joint return, the signature of both spouses
+is required on Form 8697. If additional Forms 8697 are
+needed to show more than 2 redetermination years, sign only
+the first Form 8697.
+File Form 8697 by the date you are required to file your
+income tax return (including extensions). Keep a copy of
+Form 8697 and any attached schedules for your records.
+
+Filing a Corrected Form 8697
+
+You must file a corrected Form 8697 only if the amount
+shown on Part I, line 6, or Part II, line 7, for any prior year
+changes as a result of an error you made, an income tax
+examination, or the filing of an amended tax return.
+When completing Part I, line 1, of the corrected Form
+8697, follow the instructions on the form but do not enter the
+adjusted taxable income from Part I, line 3, of the original
+Form 8697. When completing Part I, line 5 (or Part II, line 6),
+of the corrected Form 8697, do not include the interest due, if
+any, from Part I, line 10 (or Part II, line 11), of the original
+Form 8697 that was included in your total tax when Form
+8697 was filed with your tax return.
+• If both the original and corrected Forms 8697 show an
+amount on the line for interest you owe, file an amended
+income tax return.
+• If both the original and corrected Forms 8697 show an
+amount on the line for interest to be refunded to you, write
+“Amended” in the top margin of the corrected Form 8697, and
+file it separately.
+• If your original Form 8697 shows an amount on the line for
+interest you owe and the corrected Form 8697 shows an
+amount on the line for interest to be refunded to you, you
+must:
+1. File an amended income tax return showing $0 interest
+from Form 8697, and
+2. File the corrected Form 8697 separately (but do not
+write “Amended” at the top of the form because this is the first
+Form 8697 that you will file separately).
+• If the original Form 8697 shows an amount on the line for
+interest to be refunded to you and the corrected Form 8697
+shows an amount on the line for interest you owe, you must:
+1. File the corrected Form 8697 separately (with
+“Amended” written at the top) showing $0 interest to be
+refunded, and
+2. File an amended income tax return and attach a copy
+of the corrected Form 8697.
+
+Attachments
+
+If you need more space, attach separate sheets to the back
+of Form 8697. Put your name and identifying number on each
+sheet.
+
+Applying the Look-Back Method
+Under Special Situations
+10% Method
+
+For purposes of the percentage of completion method, a
+taxpayer may elect to postpone recognition of income and
+Instructions for Form 8697 (Rev. 12-2025)
+
+expense under a long-term contract entered into after July
+10, 1989, until the first tax year as of the end of which at least
+10% of the estimated total contract costs have been incurred.
+For purposes of the look-back method, the recognition of
+income and expense must be postponed for such contracts
+until the first tax year as of the end of which at least 10% of
+the actual total contract costs have been incurred. Therefore,
+income and expense will be allocated to a different tax year if
+the first tax year that the 10% threshold is exceeded based
+on actual costs differs from the first tax year that the 10%
+threshold is exceeded based on estimated costs. The
+election to use the 10% method applies to all long-term
+contracts entered into during the tax year for which the
+election is made and all later years. See section 460(b)(5) for
+more details.
+
+Change Orders
+
+A change order for a contract is not treated as a separate
+contract for purposes of applying the look-back method
+unless the change order would be treated as a separate
+contract under the rules for severing and aggregating
+contracts provided in Regulations section 1.460-1(e).
+Therefore, if a change order is not treated as a separate
+contract, that portion of the actual contract price and contract
+costs attributable to the change order must be taken into
+account in allocating contract income to all tax years of the
+contract, including tax years before the change order was
+agreed to.
+
+Post-Completion Adjustments
+General Rule
+If the contract price or costs are revised to reflect amounts
+properly taken into account after the contract completion date
+for any reason, you must apply the look-back method in the
+year such amounts are properly taken into account, even if no
+other contract is completed in that year. Generally, the
+amount of each such post-completion adjustment to total
+contract price or contract costs is discounted, solely for
+look-back purposes, from its value at the time the amount is
+taken into account in computing taxable income to its value at
+the time the contract was completed. The discount rate for
+this purpose is the federal midterm rate under section
+1274(d) in effect at the time the amount is properly taken into
+account.
+However, you may elect not to discount post-completion
+adjustments for any contract. The election not to discount is
+made on a contract-by-contract basis and is binding with
+respect to all post-completion adjustments that arise with
+respect to that contract. To make this election, attach a
+statement to your timely filed income tax return (determined
+with extensions) for the first tax year after completion in which
+you take into account any adjustment to the contract price or
+contract costs. Indicate on the statement that you are making
+an election not to discount post-completion adjustments
+under Regulations section 1.460-6(c)(1)(ii)(C)(2) and identify
+the contracts to which the election applies.
+
+Delayed Reapplication Method
+For purposes of reapplying the look-back method after the
+year of contract completion, you may elect the delayed
+reapplication method to minimize the number of required
+reapplications of the look-back method. Under this method,
+3
+
+the look-back method is reapplied after the contract
+completion year (or after a later reapplication of the look-back
+method) only when one of the following conditions is met for
+that contract:
+1. The net undiscounted value of increases or decreases
+in the contract price occurring from the time of the last
+application of the look-back method exceeds the smaller of
+$1 million or 10% of the total contract price at that time,
+2. The net undiscounted value of increases or decreases
+in contract costs occurring from the time of the last
+application of the look-back method exceeds the smaller of
+$1 million or 10% of the total actual contract costs at that
+time,
+3. The taxpayer goes out of existence,
+4. The taxpayer reasonably believes the contract is finally
+settled and closed, or
+5. None of the above conditions (1-4) are met by the end
+of the 5th tax year that begins after the last previous
+application of the look-back method.
+To elect the delayed reapplication method, attach a
+statement to your timely filed income tax return (determined
+with extensions) for the first tax year of the election. Indicate
+on the statement that you are making an election under
+Regulations section 1.460-6(e) to use the delayed
+reapplication method. Once made, the election is binding for
+all long-term contracts for which you would reapply the
+look-back method in the absence of the election in the year of
+the election and all later years, unless the IRS consents to a
+revocation of the election. See Regulations section
+1.460-6(e) for more details.
+
+Specific Instructions
+All filers must complete the information at the top of the form
+above Part I according to the following instructions. Then,
+complete either Part I or Part II as appropriate. Also, sign the
+form at the bottom of page 2 if interest is to be refunded to
+you. A signature is not required if you are filing the form with
+your tax return.
+
+Filing Year
+
+Fill in the filing year line at the top of the form to show the tax
+year in which the contracts for which this form is being filed
+were completed or adjusted in a post-completion year. If you
+were an owner of an interest in a pass-through entity that has
+completed or adjusted one or more contracts, enter your tax
+year that ends with or includes the end of the entity’s tax year
+in which the contracts were completed or adjusted.
+
+Name
+
+Enter the name shown on your federal income tax return for
+the filing year. If you are an individual filing a joint return, also
+enter your spouse’s name as shown on Form 1040.
+
+Address
+
+Enter your address only if you are filing this form separately.
+Include the apartment, suite, room, or other unit number after
+the street address. If the post office does not deliver mail to
+the street address and you have a P.O. box, show the box
+number instead.
+
+Item A—Identifying Number
+
+If you are an individual, enter your social security number.
+Other filers must use their EIN.
+4
+
+Part I—Regular Method
+
+Use Part I only if you are not electing, do not have an election
+in effect, or are not required to use the simplified marginal
+impact method (SMIM) as described in the instructions for
+Part II, later.
+
+“Filing year” column
+
+Enter the filing year listed at the top of this form.
+
+Columns (a) and (b)
+
+Enter at the top of each column the ending month and year
+for:
+• Each prior tax year in which you were required to report
+income from the completed long-term contract(s), and
+• Any other tax year affected by such years.
+Note: If there were more than 2 prior years, attach additional
+Forms 8697 as needed. On the additional Forms 8697, enter
+your name, identifying number, and tax year. Complete lines
+1 through 8 (as applicable), but do not enter totals in column
+(c). Enter totals only in column (c) of the first Form 8697.
+
+Line 1
+
+Do not reduce taxable income or increase a loss on line 1 by
+any carryback of a net operating loss, capital loss, or net
+section 1256 contracts loss, except to the extent that
+carrybacks must be taken into account to properly compute
+interest under section 460.
+Note: The 2-year carryback rule does not apply to net
+operating losses arising in tax years ending after 2017. An
+exception applies to farmers and non-life insurance
+companies. See section 172(b) as amended by P.L. 115-97,
+section 13302.
+
+Line 2
+
+In each column, show a net increase to income as a positive
+amount and a net decrease to income as a negative amount.
+In figuring the net adjustment to be entered in each
+column on line 2, be sure to take into account any other
+income and expense adjustments that may result from the
+increase (or decrease) to income from long-term contracts
+(for example, a change to adjusted gross income affecting
+medical expenses under section 213). If there are no
+adjustments besides the look-back adjustments, the sum of
+all line 2 amounts should be zero and reflected in column
+2(c). If there are additional adjustments that result from the
+application of the look-back, leave column 2(c) blank and
+reflect the amounts in the schedule below as described in
+item 3.
+Include the following on an attached schedule.
+1. Identify each completed long-term contract by contract
+number, job name, or any other reasonable method used in
+your records to identify each contract.
+2. For each contract, report in columns for each prior
+year: (a) the amount of income previously reported based on
+estimated contract price and costs, and (b) the amount of
+income allocable to each prior year based on actual contract
+price and costs. Total the columns for each prior year and
+show the net adjustment to income from long-term contracts.
+3. Identify any other adjustments that result from a
+change in income from long-term contracts and show the
+amounts in the columns for the affected years so that the net
+Instructions for Form 8697 (Rev. 12-2025)
+
+adjustment shown in each column on the attached schedule
+agrees with the amounts shown on line 2.
+An owner of an interest in a pass-through entity is not
+required to provide the detail listed in 1 and 2 above with
+respect to prior years. The entity should provide the line 2
+amounts with Schedule K-1 or on a separate statement for its
+tax year in which the contracts are completed or adjusted.
+Note: Taxpayers reporting line 2 amounts from more than
+one Schedule K-1 (or a similar statement) must attach a
+schedule detailing by entity the net change to income from
+long-term contracts.
+
+Line 3
+
+If line 3 results in a negative amount, it represents a
+look-back net operating loss (NOL). The adjustment in line 2
+either created, increased, or decreased the net operating
+loss. The change in the amount of the net operating loss
+would be carried back or forward to the appropriate tax year
+and the hypothetical tax would be recomputed in the
+carryback/forward year. See Regulations section 1.460-6(c)
+(3)(v). However, the computation period for computing
+interest on NOLs is different. See the exceptions listed on
+lines 7 and 8 below.
+Note: The 2-year carryback rule does not apply to net
+operating losses arising in tax years ending after 2017. An
+exception applies to farmers and non-life insurance
+companies. See section 172(b) as amended by P.L. 115-97,
+section 13302.
+
+Lines 4 and 5
+
+Reduce the tax liability to be entered on lines 4 and 5 by
+allowable credits (other than refundable credits, for example,
+the credit for taxes withheld on wages, the earned income
+credit, the credit for federal tax on fuels, etc.), but do not take
+into account any credit carrybacks to the prior year in
+computing the amount to enter on lines 4 and 5 (other than
+carrybacks that resulted from or were adjusted by the
+redetermination of your income from a long-term contract for
+look-back purposes). Include on lines 4 and 5 any taxes
+(such as AMT) required to be taken into account in the
+computation of your tax liability (as originally reported or as
+redetermined).
+
+Lines 7 and 8
+
+For the increase or decrease in tax for each prior year,
+interest due or to be refunded must be computed at the
+applicable interest rate and compounded on a daily basis,
+generally from the due date (not including extensions) of the
+return for the prior year until the earlier of:
+• The due date (not including extensions) of the return for
+the filing year, or
+• The date the return for the filing year is filed and any
+income tax due for that year has been fully paid.
+Exceptions.
+• The time period for determining interest may be different in
+cases involving loss or credit carrybacks or carryovers in
+order to properly reflect the time period during which the
+taxpayer or IRS had use of the hypothetical underpayment or
+overpayment. See Regulations section 1.460-6(c)(4)(ii) and
+(iii) for additional information.
+• If a net operating loss, capital loss, net section 1256
+contracts loss, or credit carryback is being increased or
+decreased as a result of the adjustment made to net income
+Instructions for Form 8697 (Rev. 12-2025)
+
+from long-term contracts, the interest due or to be refunded
+must be computed on the increase or decrease in tax
+attributable to the change to the carryback only from the due
+date (not including extensions) of the return for the prior year
+that generated the carryback and not from the due date of the
+return for the year in which the carryback was absorbed. See
+section 6611(f).
+• In the case of a decrease in tax on line 6, if a refund has
+been allowed for any part of the income tax liability shown on
+line 5 for any year as a result of a net operating loss, capital
+loss, net section 1256 contracts loss, or credit carryback to
+such year, and the amount of the refund exceeds the amount
+on line 4, interest is allowed on the amount of such excess
+only until the due date (not including extensions) of the return
+for the year in which the carryback arose.
+Note: If a different method of interest computation must be
+used to produce the correct result in your case, use that
+method and attach an explanation of how the interest was
+computed.
+
+Applicable Interest Rates
+The overpayment rate designated under section 6621 is used
+to calculate the interest for both hypothetical overpayments
+and underpayments. The applicable interest rates are
+published quarterly in revenue rulings in the Internal Revenue
+Bulletin available at IRS.gov.
+However, for contracts completed in tax years ending after
+August 5, 1997, an interest rate is determined for each
+interest accrual period. The interest accrual period starts on
+the day after the return due date (not including extensions)
+for each prior tax year and ends on the return due date for the
+following tax year. The interest rate in effect for the entire
+interest accrual period is the overpayment rate determined
+under section 6621(a)(1) applicable on the first day of the
+interest accrual period.
+Even though the interest rates change quarterly, for
+look-back purposes the interest rate stays the same for the
+accrual period which is generally one year. The applicable
+interest rates for non-corporate taxpayers are shown in
+Table 1 (for interest accrual periods beginning after January
+1, 2015).
+The applicable interest rates for corporate taxpayers for
+the first $10,000 are shown in Table 2. The applicable interest
+rates for corporate taxpayers for amounts in excess of
+$10,000 are shown in Table 3.
+Following the conversion of a C corporation into an S
+corporation, the look-back method is applied at the entity
+level (1120-S) with respect to contracts entered into prior to
+the conversion. See Regulations section 1.460-6(g)(3)(iv).
+For the C corporation years, the taxpayer would apply the
+rates reflected in Table 2 for the first $10,000 and apply the
+rates in Table 3 for the amounts in excess of $10,000.
+
+Line 9a
+
+See If Interest Is To Be Refunded to You, earlier, for where to
+file Form 8697. Additional interest to be refunded for periods
+after the filing date of Form 8697, if any, will be computed by
+the IRS and included in your refund. Report the amount on
+line 9a (or the amount refunded by the IRS if different) as
+interest income on your income tax return for the tax year in
+which it is received or accrued.
+5
+
+Direct deposit. If you have access to U.S. banking services,
+you should use direct deposit for any refunds, whenever
+possible. The benefits of a direct deposit include a faster
+refund, the added security of a paperless payment, and the
+savings of tax dollars associated with the reduced processing
+costs.
+If you want your refund directly deposited into your
+checking or savings account at any U.S. bank or other
+financial institution, complete lines 9b through 9d. See the
+instructions for lines 9b, 9c, and 9d, later.
+You are not eligible to request a direct deposit if:
+• The receiving financial institution is a foreign bank or a
+foreign branch of a U.S. bank, or
+• You have a applied for an EIN but are filing your tax return
+before receiving one.
+
+Line 9b. Routing Number
+
+The routing number must be nine digits. The first two digits
+must be 01 through 12 or 21 through 32. Ask your financial
+institution for the correct routing number to enter on line 9b if:
+• The routing number on a deposit slip is different from the
+routing number on your checks,
+• Your deposit is to a savings account that does not allow
+you to write checks, or
+• Your checks state they’re payable through a financial
+institution different from the one at which you have your
+checking account.
+
+Line 9c. Type of Account
+
+Check the appropriate box for the type of account. Do not
+check more than one box. You must check the correct box to
+ensure your deposit is accepted. If you are unsure which box
+to check for the account you wish the deposit to be applied
+to, consult your financial institution.
+
+Line 9d. Account Number
+
+The account number can be up to 17 characters (both
+numbers and letters). Include hyphens but omit spaces and
+special symbols. Enter the number from left to right and leave
+any unused boxes blank. If the direct deposit to your account
+is different from the amount you expected, you’ll receive an
+explanation in the mail about 2 weeks after your refund is
+deposited.
+
+Conditions Resulting in a Refund by Check
+
+If the IRS is unable to process the request for a direct
+deposit, a refund by check will be generated instead.
+Reasons for not processing a request include the following.
+• The name on the tax return does not match the name on
+the account.
+• The financial institution rejects the direct deposit because
+of an incorrect routing or account number.
+• You fail to indicate the type of account the deposit is to be
+made to (that is, checking or savings).
+Note: The IRS is not responsible for a lost refund if you enter
+the wrong account information. Check with your financial
+institution to get the correct routing and account numbers and
+to make sure the direct deposit will be accepted.
+
+Line 10
+
+See If You Owe Interest under Filing Instructions, earlier, for
+how to report this amount on your tax return. Corporations
+(other than S corporations) may deduct this amount (or the
+amount computed by the IRS, if different) as interest expense
+6
+
+for the tax year in which it is paid or incurred. For individuals
+and other taxpayers, this interest is not deductible.
+
+Estimated Tax Penalty
+Look-back interest owed is not subject to the estimated tax
+penalty. See Regulations section 1.460–6(f)(2)(i). See the
+instructions for the 2025 Form 2210, line 2, for individuals.
+For corporations, see the 2025 Form 2220, line 2b.
+
+Part II—Simplified Marginal Impact
+Method (SMIM)
+
+Part II is used only by pass-through entities required to apply
+the look-back method at the entity level (see Who Must File,
+earlier) and taxpayers electing (or with an election in effect) to
+use the SMIM. Under the simplified method, prior year
+hypothetical underpayments or overpayments in tax are
+figured using an assumed marginal tax rate, which is
+generally the highest statutory rate in effect for the prior year
+under section 1 (for an individual) or section 11 (for a
+corporation). This method eliminates the need to refigure
+your tax liability based on actual contract price and actual
+contract costs each time the look-back method is applied.
+To elect the SMIM, attach a statement to your timely filed
+income tax return (determined with extensions) for the first
+tax year of the election. Indicate on the statement that you
+are making an election under Regulations section 1.460-6(d)
+to use the SMIM. Once made, the election applies to all
+applications of the look-back method in the year of the
+election and all later years, unless the IRS consents to a
+revocation of the election.
+
+Columns (a), (b), and (c)
+
+Enter at the top of each column the ending month and year
+for each prior tax year in which you were required to report
+income from the completed long-term contract.
+Note: If there were more than 3 prior tax years, attach
+additional Forms 8697 as needed. On the additional Forms
+8697, enter your name, identifying number, and tax year.
+Complete lines 1 through 9 (as applicable), but do not enter
+totals in column (d). Enter totals only in column (d) of the first
+Form 8697.
+
+Line 1
+
+In each column, show a net increase to income as a positive
+amount and a net decrease to income as a negative amount.
+On an attached schedule:
+
+• Identify each completed long-term contract by contract
+
+number, job name, or any other reasonable method used in
+your records to identify each contract; and
+• For each contract, report in columns for each prior year: (a)
+the amount of income previously reported based on
+estimated contract price and costs and (b) the amount of
+income allocable to each prior year based on actual contract
+price and costs. Total the columns for each prior year and
+show the net adjustment to income from long-term contracts.
+An owner of an interest in a pass-through entity is not
+required to provide the detailed schedule listed above for
+prior years. The entity should provide the line 1 amounts with
+Schedule K-1 or on a separate statement for its tax year in
+which the contracts are completed or adjusted.
+Note: Taxpayers reporting line 1 amounts from more than
+one Schedule K-1 (or a similar statement) must attach a
+Instructions for Form 8697 (Rev. 12-2025)
+
+schedule detailing by entity the net change to income from
+long-term contracts.
+
+Line 2
+
+Multiply the amount on line 1 by the applicable regular tax
+rate for each prior year shown in column (a), (b), or (c). The
+applicable regular tax rate is as follows.
+1. Individuals and pass-through entities in which, at all times
+during the year, more than 50% of the interests in the entity
+are held by individuals directly or through other pass-through
+entities:
+a. Tax years beginning before 1987 . . . . . .
+b. Tax years beginning in 1987 . . . . . . . . .
+c. Tax years beginning in 1988, 1989, or
+1990 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+d. Tax years beginning in 1991 or 1992 . . .
+e. Tax years beginning in 1993 through
+2000 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+f. Tax years beginning in 2001 . . . . . . . . .
+g. Tax years beginning in 2002 . . . . . . . . .
+h. Tax years beginning in 2003 through
+2012 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+i. Tax years beginning in 2013 through
+2017 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+j. Tax years beginning in 2018 or later . . . .
+
+50%
+38.5%
+28%
+31%
+39.6%
+39.1%
+38.6%
+35%
+39.6%
+37%
+
+2. Corporations (other than S corporations) and
+pass-through entities not included in 1 above:
+a. Tax years ending before July 1, 1987 . . . . . . .
+b. For tax years beginning before July 1, 1987, that
+include July 1, 1987, the rate is 34% plus the
+following.
+
+Number of days in tax year before 7/1/87
+Number of days in tax year
+
+Number of days in tax year after 12/31/92
+Number of days in tax year
+
+Multiply the amount on line 3 by the applicable AMT rate,
+which is as follows:
+
+1. Individuals and pass-through entities in which, at all times
+during the year, more than 50% of the interests in the entity
+are held by individuals directly or through other pass-through
+entities:
+a. Tax years beginning in 1987 through
+1990 . . . . . . . . . . . . . . . . . . . . . . . . . .
+b. Tax years beginning in 1991 or 1992 . .
+c. Tax years beginning in 1993 or later . . .
+
+21%
+24%
+28%
+
+2. Corporations (other than S corporations) and
+pass-through entities not included in 1 above:
+a. Tax years ending before 2018 . . . . . . . . .
+b. Tax years beginning after 2017 . . . . . . . .
+
+20%
+0%
+
+Line 5
+
+If both lines 2 and 4 are negative, enter whichever amount is
+greater. Treat both numbers as positive when making this
+comparison, but enter the amount as a negative number. (If
+the amount on one line is negative, but the amount on the
+other line is positive, enter the positive amount.)
+
+Lines 8 and 9
+
+46%
+
+⫻ 12%
+
+c. Tax years beginning after June 30, 1987, and
+ending before 1993 . . . . . . . . . . . . . . . . . . .
+d. For tax years beginning before 1993 that
+include January 1, 1993, the rate is 34% plus the
+following.
+
+Line 4
+
+For the increase (or decrease) in tax for each prior year,
+interest due or to be refunded must be computed at the
+applicable interest rate and compounded on a daily basis
+from the due date (not including extensions) of the return for
+the prior year until the earlier of:
+• The due date (not including extensions) of the return for
+the filing year, or
+• The date the return for the filing year is filed and any
+income tax due for that year has been fully paid.
+See Applicable Interest Rates in the instructions for Part I,
+lines 7 and 8, earlier.
+
+34%
+
+Line 10a
+
+See the instructions for Part I, line 9a, earlier.
+
+Lines 10b Through 10d
+
+See the instructions for Part l, lines 9b through 9d, earlier.
+
+Line 11
+
+⫻
+
+See the instructions for Part I, line 10, earlier.
+
+1%
+
+e. Tax years beginning after 1992, and ending
+before 2018 . . . . . . . . . . . . . . . . . . . . . . . .
+f. Tax years beginning after 2017 . . . . . . . . .
+
+35%
+21%
+
+Line 3
+
+See the instructions for Part II, line 1, earlier, and complete
+line 3 in the same manner, using only income and deductions
+allowed for AMT purposes.
+
+Instructions for Form 8697 (Rev. 12-2025)
+
+7
+
+Table 1
+Interest Rates for Non-corporate Taxpayers
+From
+1/1/15
+1/1/16
+4/1/16
+1/1/17
+4/1/18
+1/1/19
+7/1/19
+1/1/20
+7/1/20
+1/1/21
+7/1/22
+10/1/22
+1/1/23
+10/1/23
+1/1/24
+1/1/25
+
+Through
+12/31/15
+3/31/16
+12/31/16
+3/31/18
+12/31/18
+6/30/19
+12/31/19
+6/30/20
+12/31/20
+3/31/22
+9/30/22
+12/31/22
+9/30/23
+12/31/23
+12/31/24
+3/31/26
+
+Rate
+3%
+3%
+4%
+4%
+5%
+5%
+5%
+5%
+3%
+3%
+5%
+6%
+7%
+8%
+8%
+7%
+
+Table
+11
+59
+61
+13
+15
+15
+15
+63
+59
+11
+15
+17
+19
+21
+21
+19
+
+Page
+565
+613
+615
+567
+569
+571
+569
+565
+565
+567
+569
+571
+573
+575
+575
+573
+
+Table 2
+Interest Rates for Corporate
+Increases or Decreases in Tax
+of $10,000 or Less
+From
+1/1/15
+1/1/16
+4/1/16
+1/1/17
+4/1/18
+1/1/19
+7/1/19
+1/1/20
+7/1/20
+1/1/21
+4/1/22
+7/1/22
+10/1/22
+1/1/23
+10/1/23
+1/1/24
+1/1/25
+
+Through
+12/31/15
+3/31/16
+12/31/16
+3/31/18
+12/31/18
+6/30/19
+12/31/19
+6/30/20
+12/31/20
+3/31/22
+6/30/22
+9/30/22
+12/31/22
+9/30/23
+12/31/23
+12/31/24
+3/31/26
+
+Rate
+2%
+2%
+3%
+3%
+4%
+5%
+4%
+4%
+2%
+2%
+3%
+4%
+5%
+6%
+7%
+7%
+6%
+
+Table
+9
+57
+59
+11
+13
+15
+13
+61
+57
+9
+11
+13
+15
+17
+19
+67
+17
+
+Page
+563
+611
+613
+565
+567
+569
+567
+615
+611
+563
+565
+567
+569
+571
+573
+621
+571
+
+Table 3
+Interest Rates for Corporate
+Increases or Decreases in Tax
+Exceeding $10,000
+From
+1/1/15
+4/1/16
+1/1/17
+4/1/18
+1/1/19
+7/1/19
+7/1/20
+4/1/22
+7/1/22
+10/1/22
+1/1/23
+10/1/23
+1/1/24
+1/1/25
+
+Through
+3/31/16
+12/31/16
+3/31/18
+12/31/18
+6/30/19
+12/31/19
+3/31/22
+6/30/22
+9/30/22
+12/31/22
+9/30/23
+12/31/23
+12/31/24
+3/31/26
+
+Rate
+.5%
+1.5%
+1.5%
+2.5%
+3.5%
+2.5%
+.5%
+1.5%
+2.5%
+3.5%
+4.5%
+5.5%
+5.5%
+4.5%
+
+Table
+–
+56
+8
+10
+12
+10
+—
+8
+10
+12
+14
+16
+64
+14
+
+Page
+–
+610
+562
+564
+566
+564
+—
+562
+564
+566
+568
+570
+618
+568
+
+Example of Applicable Interest Rates for Look-back Interest.
+A C corporation taxpayer completed contracts subject to
+look-back interest during the 2024 calendar year. The
+contracts were started in 2022, so 2022 and 2023 are
+redetermination years. The corporate tax return due date,
+without extensions, for all years is April 15.
+8
+
+For computing look-back interest, the interest rates and
+accrual period for the 2022 redetermination year would be:
+• 4/16/2023 – 4/15/2024: 6% for the 1st $10,000 (4.5% for
+any amount exceeding $10,000).
+• 4/16/2024 – 4/15/2025. 7% for the 1st $10,000 (5.5% for
+any amount exceeding $10,000).
+The interest rate and accrual period for the 2023
+redetermination year would be:
+• 4/16/2024 – 4/15/2025: 7% for the 1st $10,000 (5.5% for
+any amount exceeding $10,000).
+Privacy Act and Paperwork Reduction Act Notice. We
+ask for the information on this form to carry out the Internal
+Revenue laws of the United States. We need this information
+to ensure that you are complying with these laws and to
+figure and collect or refund the correct amount of interest.
+Section 460 provides special rules for computing interest
+under the look-back method for completed long-term
+contracts. Section 6001 and its regulations require you to file
+a return or statement with us for any tax you are liable for.
+Section 6109 and its regulations require you to put your
+identifying number on what you file. If you do not provide the
+information we ask for, or provide fraudulent information, you
+may forfeit any refund of interest otherwise owed to you
+and/or be subject to penalties.
+You are not required to provide the information requested
+on a form that is subject to the Paperwork Reduction Act
+unless the form displays a valid OMB control number. Books
+or records relating to a form or its instructions must be
+retained as long as their contents may become material in the
+administration of any Internal Revenue law. Generally, tax
+returns and return information are confidential, as required by
+section 6103.
+We may give this information to the Department of Justice
+for civil or criminal litigation, and to other federal agencies as
+authorized by law. We may give it to cities, states, the District
+of Columbia, and U.S. commonwealths or possessions to
+carry out their tax laws. We may give it to foreign
+governments because of tax treaties they have with the
+United States. We also may disclose this information to
+federal and state agencies to enforce federal nontax criminal
+laws and to combat terrorism.
+The time needed to complete and file this form will vary
+depending on individual circumstances. The estimated
+burden for individual taxpayers filing this form is approved
+under OMB control number 1545-0074 and is included in the
+estimates shown in the instructions for their individual income
+tax return. The estimated burden for all other taxpayers who
+file this form is shown below.
+Recordkeeping
+Part I . . . . . . . . . . . . . . . . . . . . . .
+Part II . . . . . . . . . . . . . . . . . . . . . .
+
+8 hr., 36 min.
+9 hr., 19 min.
+
+Learning about the law or the form
+Part I . . . . . . . . . . . . . . . . . . . . . .
+Part II . . . . . . . . . . . . . . . . . . . . . .
+
+2 hr., 22 min.
+2 hr., 5 min.
+
+Preparing, copying, assembling,
+and sending the form to the IRS
+Part I . . . . . . . . . . . . . . . . . . . . . .
+Part II . . . . . . . . . . . . . . . . . . . . . .
+
+2 hr., 37 min.
+2 hr., 19 min.
+
+Instructions for Form 8697 (Rev. 12-2025)
+
+If you have comments concerning the accuracy of these
+time estimates or suggestions for making this form simpler,
+we would be happy to hear from you. You can send us
+comments through IRS.gov/FormComments. Or you can
+send your comments to Internal Revenue Service, Tax Forms
+
+Instructions for Form 8697 (Rev. 12-2025)
+
+and Publications, 1111 Constitution Ave. NW, IR-6526,
+Washington, DC 20224. Don’t send the tax form to this office.
+Instead, see Filing Instructions, earlier.
+
+9
+
+

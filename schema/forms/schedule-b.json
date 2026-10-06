@@ -1,0 +1,72 @@
+{
+  "form": {
+    "id": "schedule-b",
+    "form": "Schedule B (Form 1040)",
+    "title": "Interest and Ordinary Dividends",
+    "kind": "schedule",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040sb--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1040sb",
+    "attachment_sequence_no": "08",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "List name of payer. If any interest is from a seller-financed mortgage and the buyer used the property as a personal residence, see the instructions and list this interest first. Also, show that buyer\u2019s social security number and address:",
+        "type": "money",
+        "notes": "The side caption reads '(See instructions and the Instructions for Form 1040, line 2b.)' and 'Note: If you received a Form 1099-INT, Form 1099-OID, or substitute statement from a brokerage firm, list the firm\u2019s name as the payer and enter the total interest shown on that form.' Four named SUBTRACTIONS are entered under a subtotal on this line rather than on a line of their own: 'Nominee Distribution', 'Accrued Interest', 'OID Adjustment' and 'ABP Adjustment'."
+      },
+      {
+        "line": "2",
+        "caption": "Add the amounts on line 1",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Excludable interest on series EE and I U.S. savings bonds issued after 1989. Attach Form 8815",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Subtract line 3 from line 2. Enter the result here and on Form 1040 or 1040-SR, line 2b",
+        "type": "money",
+        "notes": "Followed on the form by 'Note: If line 4 is over $1,500, you must complete Part III.'"
+      },
+      {
+        "line": "5",
+        "caption": "List name of payer:",
+        "type": "money",
+        "notes": "The side caption reads '(See instructions and the Instructions for Form 1040, line 3b.)' and 'Note: If you received a Form 1099-DIV or substitute statement from a brokerage firm, list the firm\u2019s name as the payer and enter the ordinary dividends shown on that form.' The 'Nominee Distribution' subtraction is entered under a subtotal on this line."
+      },
+      {
+        "line": "6",
+        "caption": "Add the amounts on line 5. Enter the total here and on Form 1040 or 1040-SR, line 3b",
+        "type": "money",
+        "notes": "Followed on the form by 'Note: If line 6 is over $1,500, you must complete Part III.'"
+      },
+      {
+        "line": "7a",
+        "caption": "At any time during 2025, did you have a financial interest in or signature authority over a financial account (such as a bank account, securities account, or brokerage account) located in a foreign country? See instructions",
+        "type": "checkbox",
+        "notes": "Line 7a carries TWO questions. Question 2, printed immediately beneath: 'If \u201cYes,\u201d are you required to file FinCEN Form 114, Report of Foreign Bank and Financial Accounts (FBAR), to report that financial interest or signature authority? See FinCEN Form 114 and its instructions for filing requirements and exceptions to those requirements'. The margin carries: 'Caution: If required, failure to file FinCEN Form 114 may result in substantial penalties. Additionally, you may be required to file Form 8938, Statement of Specified Foreign Financial Assets. See instructions.'"
+      },
+      {
+        "line": "7b",
+        "caption": "If you are required to file FinCEN Form 114, list the name(s) of the foreign country(-ies) where the financial account(s) is (are) located:",
+        "type": "text"
+      },
+      {
+        "line": "8",
+        "caption": "During 2025, did you receive a distribution from, or were you the grantor of, or transferor to, a foreign trust? If \u201cYes,\u201d you may have to file Form 3520. See instructions",
+        "type": "checkbox"
+      }
+    ],
+    "notes": "PART III HEADING, verbatim: 'You must complete this part if you (a) had over $1,500 of taxable interest or ordinary dividends; (b) had a foreign account; or (c) received a distribution from, or were a grantor of, or a transferor to, a foreign trust.' Part III is therefore reachable with Parts I and II empty: a taxpayer with $40 of bank interest and one foreign account files Schedule B for line 7a alone. FILING THRESHOLD: the Instructions for Schedule B list eight conditions, any one of which requires the schedule - over $1,500 of taxable interest OR ordinary dividends; seller-financed mortgage interest on the buyer's personal residence; accrued interest from a bond; reporting OID less than the amount on Form 1099-OID; reporting interest less than the amount on a Form 1099 due to amortizable bond premium; claiming the series EE/I savings bond exclusion; receiving interest or ordinary dividends as a nominee; a foreign account or foreign trust.",
+    "face_not_boxes": [
+      {
+        "slot": "08",
+        "because": "the Attachment Sequence No. printed in the form header, not a line"
+      }
+    ],
+    "revision_printed_as": "Schedule B (Form 1040) 2025 Created 4/23/25"
+  }
+}

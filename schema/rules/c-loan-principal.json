@@ -1,0 +1,51 @@
+{
+  "rule": {
+    "id": "c-loan-principal",
+    "title": "Loan principal is not interest: only the interest is deducted",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-rental-income-and-expense-records.mortgage_interest",
+        "taxpayer-rental-income-and-expense-records.other_interest",
+        "taxpayer-business-income-and-expense-records.mortgage_interest",
+        "taxpayer-business-income-and-expense-records.other_interest"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-loan-principal"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-loan-principal",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this item a repayment of loan principal (rather than interest)?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Publication 527",
+      "line": "Depreciation",
+      "revision": "2025",
+      "wording": "You can\u2019t simply deduct your mortgage or principal payments, or the cost of furniture, fixtures, and equipment, as an expense.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p527--2025.pdf"
+    },
+    "open_point": "The cited sentence is Publication 527's, about rental property. For Schedule C the same rule is Publication 535 (2022 revision, the in-force continuous-use copy): \"the payments are applied, in general, first to interest and any remainder to principal. You can deduct only the interest.\" An item mixing principal and interest is not split here; the preparer enters the interest part.",
+    "research_ids": [
+      "c-loan-principal"
+    ]
+  }
+}

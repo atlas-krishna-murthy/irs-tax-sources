@@ -1,0 +1,164 @@
+{
+  "form": {
+    "id": "schedule-h",
+    "form": "Schedule H (Form 1040)",
+    "title": "Household Employment Taxes",
+    "kind": "schedule",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040sh--2025.pdf",
+    "instructions_url": null,
+    "lines": [
+      {
+        "line": "8",
+        "caption": "Total social security, Medicare, and federal income taxes. Add lines 2, 4, 6, and 7",
+        "type": "money"
+      },
+      {
+        "line": "26",
+        "caption": "Add line 16 (or line 24) and line 25",
+        "type": "money"
+      },
+      {
+        "line": "1",
+        "caption": "Total cash wages subject to social security tax",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Social security tax. Multiply line 1 by 12.4% (0.124)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "3",
+        "caption": "Total cash wages subject to Medicare tax",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Medicare tax. Multiply line 3 by 2.9% (0.029)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "5",
+        "caption": "Total cash wages subject to Additional Medicare Tax withholding",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Additional Medicare Tax withholding. Multiply line 5 by 0.9% (0.009)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "7",
+        "caption": "Federal income tax withheld, if any",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Did you pay total cash wages of $1,000 or more in any calendar quarter of 2024 or 2025 to all household employees?",
+        "type": "checkbox"
+      },
+      {
+        "line": "10",
+        "caption": "Did you pay unemployment contributions to only one state? If you paid contributions to a credit reduction state, see instructions and check \u201cNo\u201d",
+        "type": "checkbox"
+      },
+      {
+        "line": "11",
+        "caption": "Did you pay all state unemployment contributions for 2025 by April 15, 2026? Fiscal year filers, see instructions",
+        "type": "checkbox"
+      },
+      {
+        "line": "12",
+        "caption": "Were all wages that are taxable for FUTA tax also taxable for your state\u2019s unemployment tax?",
+        "type": "checkbox"
+      },
+      {
+        "line": "13",
+        "caption": "Name of the state where you paid unemployment contributions",
+        "type": "text"
+      },
+      {
+        "line": "14",
+        "caption": "Contributions paid to your state unemployment fund",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Total cash wages subject to FUTA tax",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "FUTA tax. Multiply line 15 by 0.6% (0.006). Enter the result here, skip Section B, and go to line 25",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "17",
+        "caption": "Complete all columns below that apply (if you need more space, see instructions):",
+        "type": "text"
+      },
+      {
+        "line": "18",
+        "caption": "Totals",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "Add columns (g) and (h) of line 18",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "20",
+        "caption": "Total cash wages subject to FUTA tax (see the line 15 instructions)",
+        "type": "money"
+      },
+      {
+        "line": "21",
+        "caption": "Multiply line 20 by 6.0% (0.06)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "22",
+        "caption": "Multiply line 20 by 5.4% (0.054)",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "23",
+        "caption": "Enter the smaller of line 19 or line 22.",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "24",
+        "caption": "FUTA tax. Subtract line 23 from line 21. Enter the result here and go to line 25",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "25",
+        "caption": "Enter the amount from line 8. If you checked the \u201cYes\u201d box on line C of page 1, enter -0-",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "27",
+        "caption": "Are you required to file Form 1040?",
+        "type": "checkbox"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "44",
+        "because": "'Attachment Sequence No. 44' in the form header, not a line"
+      }
+    ]
+  }
+}

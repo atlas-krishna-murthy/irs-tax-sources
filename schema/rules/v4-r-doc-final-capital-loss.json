@@ -1,0 +1,46 @@
+{
+  "rule": {
+    "id": "v4-r-doc-final-capital-loss",
+    "title": "Box 11 codes C and D count only on termination of the estate or trust (item E)",
+    "class": "document",
+    "years": [
+      2025
+    ],
+    "acts_on": {
+      "boxes": [
+        "k-1-1041.11.C",
+        "k-1-1041.11.D"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "box",
+        "ref": "k-1-1041.E"
+      }
+    ],
+    "operator": "include_when",
+    "params": {
+      "when": {
+        "box": "k-1-1041.E",
+        "is": true
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule K-1 (Form 1041)",
+      "line": "Box 11, Codes C and D",
+      "revision": "2025",
+      "wording": "Upon termination of the trust or decedent's estate, the beneficiary succeeding to the property is allowed to deduct any unused capital loss carryover under section 1212.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1041sk1--2025.pdf"
+    },
+    "research_ids": [
+      "V4:R-DOC-FINAL"
+    ]
+  }
+}

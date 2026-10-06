@@ -1,0 +1,242 @@
+Form   8933                                        Carbon Oxide Sequestration Credit                                                                                  OMB No. 1545-0123
+
+(Rev. December 2025)
+                                                             Attach to your tax return.
+                                                                                                                                                                      Attachment
+Department of the Treasury              Go to www.irs.gov/Form8933 for instructions and the latest information.                                                       Sequence No. 165
+Internal Revenue Service
+Name(s) shown on return                                                                                                                           Identifying number
+
+
+ Part I   Information About Facility, Carbon Capture Equipment, DAC Facility, Carbon Oxide Sequestration
+          Types, Credit Calculation, and Your Elections
+Section 1—Facility Information
+  1      If making an elective payment election or transfer election, enter the IRS-issued registration number for the facility:
+
+
+  2      Facility’s EPA e-GGRT ID number(s), if available:
+
+  3      Facility type. Enter GEO, EOR, and/or UTZ (see instructions):
+
+  4a     If different than filer, enter (i) owner’s name:                                                                          and (ii) owner’s TIN:
+
+      b Address of the facility (if applicable):
+
+
+
+    c    Coordinates.        (i) Latitude:                        .                                          (ii) Longitude:                              .
+                                             Enter a “+” (plus) or “-” (minus) sign in the first box.                          Enter a “+” (plus) or “-” (minus) sign in the first box.
+
+  5      Date construction began (MM/DD/YYYY):
+
+  6      Date placed in service (MM/DD/YYYY):
+
+  7      Total metric tons of carbon oxide captured during the tax year:
+Section 2—Industrial Facility Information
+                                                                                                                                                                                     Yes No
+  8      Reserved for future use.
+  9      Is the facility an electricity-generating facility? . . . . . . . . . . . . . . . . . . . . . . .
+ 10      Is the facility a direct air capture (DAC) facility? If “Yes,” skip to line 16 . . . . . . . . . . . . . .
+ 11      If the facility isn’t an electricity-generating or DAC facility, state the nature of the facility (for example, ethanol
+         production, cement manufacturing, etc.):
+ 12      Does the facility described above process carbon dioxide or any other gas from underground deposits? . . .
+    a    If you answered “Yes” to line 12, was any gas obtained from a carbon dioxide production well at natural carbon
+         dioxide-bearing formations or at a naturally occurring subsurface spring, which means a well that contains 90% or
+         greater carbon dioxide by volume? . . . . . . . . . . . . . . . . . . . . . . . . . .
+    b If you answered “Yes” to line 12a, you can’t treat the facility as a qualified industrial facility to the extent that it
+      processed gas described on line 12a during the tax year. See line 12c.
+    c If you answered “Yes” to line 12a, do you attest that you meet the exception for a deposit that contains a product,
+      other than carbon oxide, that’s commercially viable to extract and sell without taking into account the availability
+      of a commercial market for the carbon oxide that’s extracted or any carbon oxide sequestration credit (credit) that
+      might be available? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    d If you answered “Yes” to line 12c, have you attached an attestment letter from an independent registered
+      engineer? Don’t treat the facility as a qualified industrial facility unless you answered “Yes” to both lines 12c and
+      12d. See instructions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 13   What were the emissions of carbon oxide during the tax year (amount released to the atmosphere plus amount
+      captured)?
+    a Of the amount listed on line 13, what amount was carbon dioxide?
+    b Of the amount listed on line 13, what amount was carbon monoxide?
+ 14   Were first-year carbon oxide emissions annualized for this tax year? . . . . . . . . . . . . . . .
+    a If you answered “Yes” to line 14, state the annualized carbon oxide emissions and attach a statement that shows
+      how you determined the annualized carbon oxide emissions:
+ 15   Was aggregation of multiple facilities required to achieve the requisite carbon capture thresholds? . . . . .
+    a If you answered “Yes” to line 15, attach a statement that lists the facilities and describes the appropriateness of
+      their aggregation.
+For Paperwork Reduction Act Notice, see separate instructions.                                          Cat. No. 37748H                   Form 8933 (Rev. 12-2025) Created 12/22/25
+Form 8933 (Rev. 12-2025)                                                                                                                   Page 2
+Section 3—Carbon Capture Equipment and DAC Facility Information
+                                                                                                                                       Yes No
+ 16   Is carbon captured by a DAC facility? . . . . . . . . . . . . . . . . . . . . . . . . .
+ 17   Reserved for future use.
+ 18   Was any carbon capture equipment placed in service on or after February 9, 2018, and before 2023? See instructions
+ 19   Reserved for future use.
+ 20   Are you the owner of the carbon capture equipment described in Section 1?        . . . . . . . . . . . .
+    a If you answered “No” to line 20, state your authority for claiming the credit:
+ 21   Reserved for future use.
+ 22   For the carbon capture equipment described in Section 1, what was the carbon capture capacity on or after
+      February 9, 2018?
+ 23   Was additional equipment installed on or after February 9, 2018? . . . . . . . . . . . . . . . .
+    a Reserved for future use.
+    b Reserved for future use.
+    c Is the placed-in-service date of the carbon capture equipment described on line 23 determined pursuant to the
+      80/20 rule? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    d If you answered “Yes” to line 23c, state your investment in:
+      (i) New carbon capture equipment . . . . . . . . . . . . . . . .
+      (ii) The fair market value of pre-existing carbon capture equipment . . . . . .
+   e If the placed-in-service date of the carbon capture equipment was determined pursuant to the 80/20 rule, did you
+      include its investment in a transportation pipeline as new carbon capture equipment? . . . . . . . . .
+    f If you answered “Yes” to line 23e, state your investment in a transportation pipeline:
+ 24   What was the total amount of carbon oxide captured during the tax year (in metric tons)?
+    a Of the amount listed on line 24, what amount was carbon dioxide?
+    b Of the amount listed on line 24, what amount was carbon monoxide?
+ 25   Were first-year carbon oxide emissions annualized for this tax year? . . . . . . . . . . . . . . .
+    a If you answered “Yes” to line 25, state the annualized carbon oxide emissions:
+Section 4—Information About Carbon Oxide Sequestration Credit and Your Elections
+                                                                                                                                       Yes No
+ 26       During the tax year, are other parties contractually ensuring disposal, injection, or utilization of qualified carbon
+          oxide captured at this facility? . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 27       For this tax year, do you elect to allow any of the parties described on line 26 to claim some or all of the credit? .
+ 28       Do you elect under section 45Q(b)(3) to apply the $10 and $20 rates (adjusted for inflation) instead of the
+          applicable dollar amounts? . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      a   If you answered “Yes” to line 28, determine the credit using $28.43 on Part III, line 1g; and $14.21 on Part III, line
+          2g or 3i, for tax years beginning in 2025. See instructions for the inflation-adjusted rates applicable in later tax
+          years.
+      b If you answered “No” to line 28 and your carbon capture facility and equipment were placed in service before
+        2023, determine the credit using $46.96 on Part III, line 1g; and $32.54 on Part III, line 2g or 3i, for tax years
+        beginning in 2025. See Notice 2018-93 for the applicable dollar amounts in later tax years.
+      c   If you answered “No” to line 28 and your carbon capture equipment was placed in service after 2022, and before
+          July 5, 2025, determine the credit using $17 on Part III, line 1g; and $12 on Part III, line 2g or 3i. After July 4, 2025,
+          determine the credit using $17 on Part III, line 1g; and Part III, line 2g or 3i. For a DAC facility, after 2022,
+          determine the credit using $36 on Part III, line 1g; and $26 on Part III, line 2g or 3i.
+ 29       Is the facility described in Section 1 an applicable facility and are you making the election under section 45Q(f)(6)?
+          If you answered “Yes” to line 29, determine the credit using the same rates listed on line 28b. See instructions .
+ 30       Does the facility capture qualified carbon oxide and dispose of it in secure geological storage? . . . . . .
+          If you answered “Yes” to line 30, use Part III, line 1, to figure your credit amounts for disposal.
+ 31       Does the facility capture qualified carbon oxide, use it as a tertiary injectant in a qualified enhanced oil or natural
+          gas recovery project, and dispose of it in secure geological storage? . . . . . . . . . . . . . . .
+          If you answered “Yes” to line 31, use Part III, line 2, to figure your credit amounts for injection.
+ 32       Does the facility capture qualified carbon oxide and utilize it as described in section 45Q(f)(5)? . . . . . . .
+          If you answered “Yes” to line 32, use Part III, line 3, to figure your credit amounts for utilization.
+ 33       Does the facility meet the prevailing wage and apprenticeship (PWA) requirement? . . . . . . . . . .
+          If you answered “Yes” to line 33, you may qualify for an increased credit amount. See instructions for Part III, lines
+          1i, 2i, and 3k.
+                                                                                                                          Form 8933 (Rev. 12-2025)
+Form 8933 (Rev. 12-2025)                                                                                                            Page 3
+ Part II      Information About You
+Check the applicable box(es).
+  1   You have obtained an analysis of lifecycle greenhouse gas emissions (LCA) approved by the IRS . . . . . . . . .
+  2   You physically or contractually ensured the capture of qualified carbon oxide during the tax year . . . . . . . . .
+  3   You physically or contractually ensured the disposal, usage as a tertiary injectant in a qualified enhanced oil or natural gas
+     recovery project, or utilization of captured qualified carbon oxide during the tax year . . . . . . . . . . . . .
+  4   You elected to allow another taxpayer to claim the carbon oxide sequestration credit that you would’ve otherwise been
+      entitled to . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  5   Another taxpayer elected to allow you to claim the carbon oxide sequestration credit that they would’ve otherwise been
+      entitled to . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  6   You’re making the election under section 45Q(b)(3) . . . . . . . . . . . . . . . . . . . . . . . .
+  7   You’re making the election under section 45Q(f)(6) . . . . . . . . . . . . . . . . . . . . . . . .
+  8   You’re making the election under section 45Q(f)(9) . . . . . . . . . . . . . . . . . . . . . . . .
+Part III      Credit Calculations
+Caution: See instructions to determine your qualification for the increased credit amounts by meeting certain requirements.
+Note: Enter the applicable inflation-adjusted credit rate or applicable dollar amount on line 1g, 2g, or 3i (see instructions).
+  1   Qualified carbon oxide captured using carbon capture equipment or DAC
+      facility, disposed of in secure geological storage, and not used as a
+      tertiary injectant in a qualified enhanced oil or natural gas recovery
+      project, nor utilized as described in section 45Q(f)(5).
+    a Metric tons captured and measured at the point of disposal . . . . . .           1a
+    b Metric tons captured and securely stored (physically
+      disposed) by you . . . . . . . . . . . .                   1b
+    c Metric tons captured and securely stored (physically
+      disposed) by another person . . . . . . . .                1c
+    d Add lines 1b and 1c . . . . . . . . . . . . . . . . . . .                        1d
+    e Metric tons captured and securely stored (physically
+      disposed) by another person and for which you allow
+      that person to claim the resulting carbon oxide
+      sequestration credit. See instructions for attaching
+      Schedule E (Form 8933) for each disposal site . . .        1e
+    f Subtract line 1e from line 1d     . . . . . . . . . . . . . . . .                1f
+    g Credit rate or applicable dollar amount (see instructions) . . . . . . .         1g
+    h Multiply line 1f by line 1g . . . . . . . . . . . . . . . . . . . . . . . . . .                              1h
+    i Increased credit amount for qualified facility and equipment. If you answered “Yes” to Part I, line 33,
+      multiply the amount on line 1h by 5.0. Otherwise, enter the amount from line 1h. See instructions for
+      attaching Schedule A (Form 8933) and Schedule B (Form 8933) . . . . . . . . . . . . .                         1i
+  2   Qualified carbon oxide captured using carbon capture equipment or DAC
+      facility, used as a tertiary injectant in a qualified enhanced oil or natural
+      gas recovery project, and disposed of in secure geological storage.
+    a Metric tons captured and measured at the point of injection . . . . . .          2a
+    b Metric tons captured and injected by you . . . .           2b
+    c Metric tons captured and injected by another person        2c
+    d Add lines 2b and 2c . . . . . . . . . . . . . . . . . . .                        2d
+    e Metric tons captured and injected by another person
+      and for which you allow that person to claim the
+      resulting carbon oxide sequestration credit. See
+      instructions for attaching Schedule E (Form 8933) for
+      each recovery project . . . . . . . . . . .                2e
+    f Subtract line 2e from line 2d     . . . . . . . . . . . . . . . .                2f
+    g Credit rate or applicable dollar amount (see instructions) . . . . . . .         2g
+    h Multiply line 2f by line 2g . . . . . . . . . . . . . . . . . . . . . . . . . .                              2h
+    i Increased credit amount for qualified facility and equipment. If you answered “Yes” to Part I, line 33,
+      multiply the amount on line 2h by 5.0. Otherwise, enter the amount from line 2h. See instructions for
+      attaching Schedule A (Form 8933) and Schedule C (Form 8933) . . . . . . . . . . . . .                         2i
+                                                                                                                   Form 8933 (Rev. 12-2025)
+Form 8933 (Rev. 12-2025)                                                                                                                                        Page 4
+Part III      Credit Calculations (continued)
+  3     Qualified carbon oxide captured using carbon capture equipment or DAC
+       facility, and utilized as described in section 45Q(f)(5).
+     a Metric tons captured and measured at the point of utilization . . . . . .         3a
+     b Metric tons captured and physically utilized by you .       3b
+     c Metric tons captured and physically utilized by another
+        person . . . . . . . . . . . . . . . .                     3c
+     d Add lines 3b and 3c . . . . . . . . . . . . . . . . . . .                         3d
+     e Metric tons captured and physically utilized by another
+        person and for which you allow that person to claim
+       the resulting carbon oxide sequestration credit
+       (expressed as carbon dioxide equivalents that were
+       determined pursuant to an approved LCA). See
+       instructions for attaching Schedule E (Form 8933) for
+       each utilization facility . . . . . . . . . . .             3e
+     f Subtract line 3e from line 3d     . . . . . . . . . . . . . . . .                 3f
+     g Enter the displacement factor approved by the Department of Energy, based
+        on your LCA as shown on the attachment to your LCA acceptance letter. See
+        instructions . . . . . . . . . . . . . . . . . . . . . .                         3g          .
+     h Multiply line 3f by line 3g . . . . . . . . . . . . . . . . . . . . . . . . . .                                                         3h
+     i Credit rate or applicable dollar amount (see instructions) . . . . . . .          3i
+     j Multiply line 3h by line 3i . . . . . . . . . . . . . . . . . . . . . . . . . .                                                         3j
+     k Increased credit amount for qualified facility and equipment. If you answered “Yes” to Part I, line 33,
+        multiply the amount on line 3j by 5.0. Otherwise, enter the amount from line 3j. See instructions for
+        attaching Schedule F (Form 8933) . . . . . . . . . . . . . . . . . . . . . . .                                                         3k
+   4    Credit before reduction. Add lines 1i, 2i, and 3k . . . . . . . . . . . . . . . . . .                                                   4
+Credit reduction for tax-exempt bonds
+If you used proceeds of tax-exempt bonds to finance your facility, continue to line 5a; otherwise, enter the
+amount from line 4 on line 6.
+   5a Divide.
+            Sum, for the tax year and all prior tax years, of all proceeds of tax-exempt bonds (within the
+            meaning of section 103), used to finance the qualified facility, as of the close of the tax year
+                                                                                                                           = .     .   .   .   5a
+            Aggregate amount of additions to the capital account for the qualified facility, for the tax
+            year and all prior tax years, as of the close of the tax year
+    b Multiply line 4 by line 5a . . . . .              .   .   .   .   .   .   .     .   .   .   .   .    .   .   .   .   .   .   .   .   .   5b
+    c Multiply line 4 by 15% (0.15) . . .               .   .   .   .   .   .   .     .   .   .   .   .    .   .   .   .   .   .   .   .   .   5c
+    d Enter the smaller of line 5b or line 5c .         .   .   .   .   .   .   .     .   .   .   .   .    .   .   .   .   .   .   .   .   .   5d
+  6   Subtract line 5d from line 4 . . . .              .   .   .   .   .   .   .     .   .   .   .   .    .   .   .   .   .   .   .   .   .    6
+  7     Carbon oxide sequestration credit that another taxpayer elected under
+        section 45Q(f)(3)(B) to allow you to claim. See instructions for attaching
+        Schedule A (Form 8933), Schedule E (Form 8933), and Schedule F (Form
+        8933). Provide basic information for the three largest elections (in dollars)
+        on lines 7a, 7b, and 7c; report all others on line 7e.
+              (i) EIN of          (ii) Metric tons          (iii) Credit            (iv) Credit elected.
+               electing                elected                  rates               Multiply column (ii)
+              taxpayer                                                                 by column (iii).
+    a
+    b
+    c
+    d Add lines 7a, 7b, and 7c in column (iv) . . . . . . . . . . . . .                7d
+    e Report all other carbon oxide sequestration credit that another taxpayer
+      elected under section 45Q(f)(3)(B) to allow you to claim. See instructions . .   7e
+    f Add lines 7d and 7e . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                7f
+  8   Carbon oxide sequestration credit from partnerships and S corporations (see instructions) . . . .                                        8
+  9   Add lines 6, 7f, and 8. Partnerships and S corporations, report this amount on Schedule K. All others,
+      report this amount on Form 3800, Part III, line 1x . . . . . . . . . . . . . . . . . .                                                   9
+ 10   Carbon oxide sequestration credit recaptured. See instructions for attaching Schedule D (Form 8933)
+      and for reporting this amount in Form 4255, Part I, line 2a, column (h) . . . . . . . . . . .                                            10
+                                                                                                                                               Form 8933 (Rev. 12-2025)
+

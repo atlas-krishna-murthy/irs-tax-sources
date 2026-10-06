@@ -1,0 +1,43 @@
+{
+  "rule": {
+    "class": "document",
+    "years": [
+      2025
+    ],
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "id": "a-rrbr-02",
+    "title": "RRB-1099-R box 4 is fully taxable when box 3 is blank",
+    "acts_on": {
+      "boxes": [
+        "RRB-1099-R.4"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "box",
+        "ref": "RRB-1099-R.3"
+      }
+    ],
+    "operator": "include_when",
+    "params": {
+      "when": {
+        "box": "RRB-1099-R.3",
+        "absent": true
+      }
+    },
+    "citation": {
+      "form": "Form RRB-1099-R",
+      "line": "Box 3",
+      "revision": "2025",
+      "wording": "If this box is blank, it means that the amount of your NSSEB and tier 2 payments shown in box 4 is fully taxable.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p575--2025.pdf"
+    },
+    "open_point": "Where box 3 prints employee contributions, box 4 is partly tax free and the Simplified Method (computation pension-taxable-not-determined) works the taxable part, so box 4 is counted 0.00 here. The CPA's 1099-R default (count the gross, assumed taxable) would count it in full instead — for the CPA to confirm."
+  }
+}

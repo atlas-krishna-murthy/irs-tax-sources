@@ -1,0 +1,29 @@
+{
+  "question": {
+    "id": "barter-income-is-from-a-trade-or-business",
+    "wording": "Is the bartering income on this Form 1099-B (box 13) from the taxpayer's trade or business?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes — Schedule C"
+      },
+      {
+        "value": "no",
+        "label": "No — other income, Schedule 1 line 8z"
+      }
+    ],
+    "default": {
+      "behaviour": "pending"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 525",
+        "line": "Bartering",
+        "revision": "2025",
+        "wording": "Generally, you report this income on Schedule C (Form 1040).",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p525--2025.pdf"
+      }
+    }
+  }
+}

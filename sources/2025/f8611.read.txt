@@ -1,0 +1,831 @@
+8611
+
+Form
+(Rev. December 2021)
+Department of the Treasury
+Internal Revenue Service
+
+Recapture of Low-Income Housing Credit
+
+OMB No. 1545-1035
+
+▶ Attach to your return.
+▶ Go to www.irs.gov/Form8611 for instructions and the latest information.
+
+Attachment
+Sequence No. 90
+
+Note: Complete a separate Form 8611 for each building to which recapture applies.
+
+A
+
+Name(s) shown on return
+
+B Identifying number
+
+C
+
+Address of building (as shown on Form 8609)
+
+F
+
+If building is financed in whole or part with tax-exempt bonds, see instructions and furnish:
+
+D Building identification
+number (BIN)
+
+E Date placed in service (from
+Form 8609)
+
+(2) Date of issue
+
+(1) Issuer’s name
+(3) Name of issue
+
+(4) CUSIP number
+
+Note: Skip lines 1–7 and go to line 8 if recapture is passed through from a flow-through entity (partnership, S corporation, estate, or
+trust). However, section 42(j)(5) partnerships must complete lines 1 through 7.
+1
+
+Enter total credits reported on Form 8586 in prior years for this building
+
+2
+
+Credits included on line 1 attributable to additions to qualified basis (see instructions)
+
+3
+
+Credits subject to recapture. Subtract line 2 from line 1 .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+4
+
+Credit recapture percentage (see instructions) .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+5
+6
+7
+
+.
+
+.
+
+.
+
+.
+
+1
+
+.
+
+.
+
+.
+
+.
+
+2
+
+.
+
+.
+
+.
+
+.
+
+.
+
+3
+
+.
+
+.
+
+.
+
+.
+
+.
+
+4
+
+Accelerated portion of credit. Multiply line 3 by line 4 . . . . . . . . . . . . . . .
+Percentage decrease in qualified basis. Express as a decimal amount carried out to at least 3
+places (see instructions) . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+6
+
+Amount of accelerated portion recaptured (see instructions if prior recapture on building). Multiply
+line 5 by line 6. Section 42(j)(5) partnerships, go to line 16. All other flow-through entities enter the
+result here and enter each recipient’s share in the appropriate box of Schedule K-1. Generally,
+flow-through entities will stop here. (Note: An estate or trust enters on line 8 only its share of
+recapture amount attributable to the credit amount reported on its Form 8586.) . . . . . . .
+
+7
+
+8
+
+Enter recapture amount from flow-through entity (see Note above) .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+8
+
+9
+
+Enter the unused portion of the accelerated amount from line 7 (see instructions) .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+9
+
+10
+
+Net recapture. Subtract line 9 from line 7 or line 8. If less than zero, enter -0-
+
+11
+
+Enter interest on the line 10 recapture amount (see instructions) .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+10
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+11
+
+12
+13
+
+Total amount subject to recapture. Add lines 10 and 11
+. . . . . . . . . . . . . .
+Unused credits attributable to this building reduced by the accelerated portion included on line 9
+(see instructions) . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12
+
+14
+
+Recapture tax. Subtract line 13 from line 12. If zero or less, enter -0-. Enter the result here and on
+the appropriate line of your tax return (see instructions). If more than one Form 8611 is filed, add
+the line 14 amounts from all forms and enter the total on the appropriate line of your return . . .
+Carryforward of the low-income housing credit attributable to this building. Subtract line 12
+from line 13. If zero or less, enter -0- (see instructions) . . . . . . . . . . . . . . .
+
+15
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+13
+
+14
+15
+
+Only Section 42(j)(5) partnerships need to complete lines 16 and 17.
+16
+
+Enter interest on the line 7 recapture amount (see instructions)
+
+.
+
+.
+
+17
+
+Total recapture. Add lines 7 and 16 (see instructions)
+
+.
+
+.
+
+For Paperwork Reduction Act Notice, see instructions.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+16
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+17
+
+Cat. No. 63983Q
+
+Form 8611 (Rev. 12-2021)
+
+Page 2
+
+Form 8611 (Rev. 12-2021)
+
+General Instructions
+Section references are to the Internal
+Revenue Code.
+
+Future Developments
+For the latest information about
+developments related to Form 8611 and
+its instructions, such as legislation
+enacted after they were published, go to
+www.irs.gov/Form8611.
+
+Purpose of Form
+Use this form if you must recapture part
+of the low-income housing credit you
+claimed in previous years because the
+qualified basis decreased from one year
+to the next or you disposed of a building,
+or your interest therein, and you did not
+follow the procedures that would have
+prevented recapture of the credit.
+Decrease in qualified basis. The
+decrease may result from a change in
+the eligible basis or the applicable
+fraction. For example, a decrease in
+qualified basis may exist when units are
+not occupied by income-qualified
+tenants under section 42(i)(3)(A)(ii), units
+are not rent restricted under section
+42(g)(2), units are not suitable for
+occupancy as described in section 42(i)
+(3)(B)(ii), or the project no longer meets
+the minimum set-aside requirements of
+section 42(g)(1).
+Building dispositions. Disposing of a
+building or an interest therein will
+generate a credit recapture, unless it is
+reasonably expected that the building will
+continue to be operated as a qualified
+low-income building for the remainder of
+the building’s compliance period.
+See section 42(j) for more information.
+
+Note: If the decrease in qualified basis is
+because of a change in the amount for
+which you are financially at risk on the
+building, then you must first recalculate
+the amount of credit taken in prior years
+under section 42(k) before you calculate
+the recapture amount on this form.
+To complete this form you will need
+copies of the following forms that you
+have filed.
+• Form 8586, Low-Income Housing
+Credit (and Form 3800, General
+Business Credit, if applicable);
+• Form 8609, Low-Income Housing
+Credit Allocation and Certification (or
+predecessor, Form 8609, Low-Income
+Housing Credit Allocation Certification);
+• Form 8609-A, Annual Statement for
+Low-Income Housing Credit (or
+predecessor, Schedule A (Form 8609),
+Annual Statement); and
+• Form 8611.
+Note: Flow-through entities must give
+partners, shareholders, and beneficiaries
+the information that is reported in items
+C, D, E, and F of Form 8611.
+Recapture does not apply if:
+• You disposed of the building or an
+ownership interest in it and you satisfy the
+requirements for avoiding recapture as
+outlined earlier under Building dispositions;
+• You disposed of an ownership interest
+in a building you held through a
+partnership to which section 42(j)(5)
+applies;
+• The decrease in qualified basis does
+not exceed the additions to qualified
+basis for which credits were allowable in
+years after the first year of the credit
+period; or
+
+• The qualified basis is reduced because
+of a casualty loss, provided the property
+is restored or replaced within a
+reasonable period.
+
+Recordkeeping
+In order to verify changes in qualified
+basis from year to year, keep a copy of
+all Forms 8586, 8609, 8609-A (or
+predecessor, Schedule A (Form 8609)),
+8611, and 8693 for 3 years after the
+15-year compliance period ends.
+
+Specific Instructions
+Note: If recapture is passed through
+from a flow-through entity (partnership,
+S corporation, estate, or trust), skip lines
+1–7 and go to line 8. However, section
+42(j)(5) partnerships must complete lines
+1 through 7.
+Item F. If the building is financed with
+tax-exempt bonds, furnish the following
+information: (1) name of the entity that
+issued the bond (not the name of the
+entity receiving the benefit of the
+financing); (2) date of issue, generally the
+first date there is a physical exchange of
+the bonds for the purchase price;
+(3) name of the issue, or if not named,
+other identification of the issue; and
+(4) CUSIP number of the bond with the
+latest maturity date. If the issue does not
+have a CUSIP number, enter “None.”
+Line 1. Enter the total credits claimed on
+the building for all prior years from all
+Forms 8586 (before reduction due to the
+tax liability limit) you have filed. Prior to
+the December 2006 revision of Form
+8586, the credits (before reduction due
+to the tax liability limit) were reported in
+Part I. Do not include credits taken by a
+previous owner.
+
+Line 2 Worksheet (* Line reference is to Form 8609-A (or predecessor, Schedule A (Form 8609)).)
+a
+b
+c
+d
+e
+
+Enter the amount from line 10* . . . . . . . . . . . . . . . . . . . . . . . . .
+Multiply a by 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Enter the amount from line 11* . . . . . . . . . . . . . . . . . . . . . . . . .
+Subtract c from b . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Enter decimal amount figured in step 1 of the instructions for line 14*. If line 14* does not apply to you,
+enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+f Multiply d by e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+g Subtract f from d . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+h Divide line 16* by line 15*. Enter the result here
+. . . . . . . . . . . . . . . . . . .
+i Multiply g by h. Enter this amount on line 2. (If more than one worksheet is completed, add the amounts
+on i from all worksheets and enter the total on line 2.) . . . . . . . . . . . . . . . . .
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+
+Page 3
+
+Form 8611 (Rev. 12-2021)
+
+Line 2. Determine the amount to enter
+on this line by completing a separate
+Line 2 Worksheet for each prior year for
+which line 7 of Form 8609-A (or
+predecessor, Schedule A (Form 8609))
+was completed.
+Line 4. Enter the credit recapture
+percentage, expressed as a decimal
+carried to at least 3 places, from the
+table below.
+IF the recapture
+event occurs
+in . . .
+
+Step 3. Multiplying the result of step 2
+by the decimal amount on line 4.
+Step 4. Multiplying the result of step 3
+by the decimal amount on line 6.
+Step 5. Enter the result of step 4 on
+line 9.
+* Generally, this is the amount of credit reported on
+line 1 of this Form 8611 reduced by the total lowincome housing credits allowed on Form 8586 or
+Form 3800 for each year.
+
+THEN
+enter on
+line 4 . . .
+
+Years 2 through 11 .
+
+.
+
+.
+
+.
+
+.
+
+.333
+
+Year 12 .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.267
+
+Year 13 .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.200
+
+Year 14 .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.133
+
+Year 15 .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.067
+
+Line 6. Enter the percentage decrease in
+qualified basis during the current year.
+For this purpose, figure qualified basis
+without regard to any additions to
+qualified basis after the first year of the
+credit period. Compare any decrease in
+qualified basis first to additions to
+qualified basis. Recapture applies only if
+the decrease in qualified basis exceeds
+additions to qualified basis after the first
+year of the credit period.
+If you disposed of the building or an
+ownership interest in it and did not
+satisfy the requirements for avoiding
+recapture as outlined earlier under
+Building dispositions, you must
+recapture all of the accelerated portion
+shown on line 5. Enter 1.000 on line 6.
+Note: If the decrease causes the qualified
+basis to fall below the minimum set-aside
+requirements of section 42(g)(1) (the
+20-50 test, the 40-60 test, or the average
+income test), then 100% of the amount
+shown on line 5 must be recaptured.
+Enter 1.000 on line 6. If you elected the
+40-60 test for this building and the
+decrease causes you to fall below 40%,
+you cannot switch to the 20-50 test or
+the average income test to meet the setaside requirements. You must recapture
+the entire amount shown on line 5.
+Line 7. If there was a prior recapture of
+accelerated credits on the building, do not
+recapture that amount again as the result
+of the current reduction in qualified basis.
+Line 9. Figure the unused portion of the
+accelerated amount on line 7 by:
+Step 1. Totaling the credits
+attributable to the building that you
+could not use in prior years.*
+Step 2. Reducing the result of step 1
+by any unused credits attributable to
+additions to qualified basis.
+
+Line 11. Figure the interest separately
+for each prior tax year for which a credit
+is being recaptured. Interest must be
+figured at the overpayment rate
+determined under section 6621(a)(1) and
+compounded on a daily basis from the
+due date (not including extensions) of the
+return for the prior year until the earlier of
+(a) the due date (not including
+extensions) of the return for the recapture
+year, or (b) the date the return for the
+recapture year is filed and any income
+tax due for that year has been fully paid.
+Tables of interest factors to figure daily
+compound interest were published in
+Rev. Proc. 95-17, 1995-1 C.B. 556. The
+interest rate in effect through December
+31, 2019, is shown in Rev. Rul. 2019-21,
+2019-38 I.R.B. 708. For periods after
+December 31, 2019, use the overpayment
+rate under section 6621(a)(1) in the
+revenue rulings published quarterly in the
+Internal Revenue Bulletin.
+Note: If the line 8 recapture amount is
+from a section 42(j)(5) partnership, the
+partnership will figure the interest and
+include it in the recapture amount
+reported to you. Enter “-0-” on line 11
+and write “Section 42(j)(5)” to the left of
+the entry space for line 11.
+Line 13. Subtract the amount on line 9
+from the total of all prior year unused
+credits attributable to the building (Step
+1 of the line 9 instruction above). Enter
+the result on line 13.
+Line 14. Form 1040, 1040-SR, and
+1040-NR filers report the recapture tax
+on Schedule 2 (Form 1040), line 16.
+Form 1120 filers report the recapture tax
+on Form 1120, Schedule J, line 9b.
+Line 15. Carry forward the low-income
+housing credit attributable to this building
+to the next tax year. See the Instructions
+for Form 3800 for details on how to
+report the carryforward of unused credits.
+Lines 16 and 17. Only section 42(j)(5)
+partnerships complete these lines. This
+is a partnership that has at least 35
+partners, unless the partnership elects
+(or has previously elected) not to be
+treated as a section 42(j)(5) partnership.
+For purposes of this definition, an
+individual and his or her spouse (and
+their estates) are treated as one partner.
+
+For purposes of determining the credit
+recapture amount, a section 42(j)(5)
+partnership is treated as the taxpayer to
+which the low-income housing credit
+was allowed and as if the amount of
+credit allowed was the entire amount
+allowable under section 42(a).
+See the instructions for line 11 to
+figure the interest on line 16. The
+partnership must attach Form 8611 to its
+Form 1065 and allocate this amount to
+each partner on Schedule K-1 (Form
+1065) in the same manner as the
+partnership’s taxable income is allocated
+to each partner.
+Paperwork Reduction Act Notice. We
+ask for the information on this form to
+carry out the Internal Revenue laws of
+the United States. You are required to
+give us the information. We need it to
+ensure that you are complying with these
+laws and to allow us to figure and collect
+the right amount of tax.
+You are not required to provide the
+information requested on a form that is
+subject to the Paperwork Reduction Act
+unless the form displays a valid OMB
+control number. Books or records
+relating to a form or its instructions must
+be retained as long as their contents
+may become material in the
+administration of any Internal Revenue
+law. Generally, tax returns and return
+information are confidential, as required
+by section 6103.
+The time needed to complete and file
+this form will vary depending on
+individual circumstances. The estimated
+burden for individual taxpayers filing this
+form is approved under OMB control
+number 1545-0074 and is included in the
+estimates shown in the instructions for
+their individual income tax return. The
+estimated burden for all other taxpayers
+who file this form is shown below.
+Recordkeeping .
+
+.
+
+.
+
+. 8 hr., 21 min.
+
+Learning about the
+law or the form . .
+
+.
+
+.
+
+.
+
+.
+
+. 1 hr.
+
+Preparing and sending
+the form to the IRS . . 1 hr., 10 min.
+If you have comments concerning the
+accuracy of these time estimates or
+suggestions for making this form
+simpler, we would be happy to hear from
+you. You can write to the IRS at the
+address listed in the instructions for the
+tax return with which this form is filed.
+
+

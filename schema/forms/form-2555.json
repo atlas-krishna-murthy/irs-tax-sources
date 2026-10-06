@@ -1,0 +1,219 @@
+{
+  "form": {
+    "id": "form-2555",
+    "form": "Form 2555",
+    "title": "Foreign Earned Income",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f2555--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/i2555--2025.pdf",
+    "lines": [
+      {
+        "line": "37",
+        "caption": "Maximum foreign earned income exclusion. Enter $130,000",
+        "type": "money"
+      },
+      {
+        "line": "42",
+        "caption": "Foreign earned income exclusion. Enter the smaller of line 40 or line 41. Also, complete Part VIII",
+        "type": "money"
+      },
+      {
+        "line": "43",
+        "caption": "Add lines 36 and 42",
+        "type": "money"
+      },
+      {
+        "line": "44",
+        "caption": "Deductions allowed in figuring your adjusted gross income (Form 1040 or 1040-SR, line 11) that are allocable to the excluded income. See instructions and attach computation",
+        "type": "money"
+      },
+      {
+        "line": "45",
+        "caption": "Subtract line 44 from line 43. Enter the result here and on Schedule 1 (Form 1040), line 8d. Complete the Foreign Earned Income Tax Worksheet in the Instructions for Form 1040 if you enter an amount on this line",
+        "type": "money"
+      },
+      {
+        "line": "46",
+        "caption": "Subtract line 36 from line 33",
+        "type": "money"
+      },
+      {
+        "line": "47",
+        "caption": "Subtract line 43 from line 27",
+        "type": "money"
+      },
+      {
+        "line": "48",
+        "caption": "Enter the smaller of line 46 or line 47",
+        "type": "money"
+      },
+      {
+        "line": "49",
+        "caption": "Housing deduction carryover from 2024 (from the Housing Deduction Carryover Worksheet in the instructions)",
+        "type": "money"
+      },
+      {
+        "line": "50",
+        "caption": "Housing deduction. Add lines 48 and 49. Enter the total here and on Schedule 1 (Form 1040), line 24j. Complete the Foreign Earned Income Tax Worksheet in the Instructions for Form 1040 if you enter an amount on this line",
+        "type": "money"
+      },
+      {
+        "line": "1",
+        "caption": "Your foreign address (including country)",
+        "type": "text"
+      },
+      {
+        "line": "2",
+        "caption": "Your occupation",
+        "type": "text"
+      },
+      {
+        "line": "3",
+        "caption": "Employer\u2019s name",
+        "type": "text"
+      },
+      {
+        "line": "4a",
+        "caption": "Employer\u2019s U.S. address",
+        "type": "text"
+      },
+      {
+        "line": "4b",
+        "caption": "Employer\u2019s foreign address",
+        "type": "text"
+      },
+      {
+        "line": "5",
+        "caption": "Employer is (check any that apply):",
+        "type": "checkbox"
+      },
+      {
+        "line": "6a",
+        "caption": "If you previously filed Form 2555 or Form 2555-EZ, enter the last year you filed the form.",
+        "type": "text"
+      },
+      {
+        "line": "6b",
+        "caption": "If you didn\u2019t previously file Form 2555 or Form 2555-EZ to claim either of the exclusions, check here",
+        "type": "checkbox"
+      },
+      {
+        "line": "6c",
+        "caption": "Have you ever revoked either of the exclusions?",
+        "type": "checkbox"
+      },
+      {
+        "line": "6d",
+        "caption": "If you answered \u201cYes,\u201d enter the type of exclusion and the tax year for which the revocation was effective.",
+        "type": "text"
+      },
+      {
+        "line": "7",
+        "caption": "Of what country are you a citizen/national?",
+        "type": "text"
+      },
+      {
+        "line": "8a",
+        "caption": "Did you maintain a separate foreign residence for your family because of adverse living conditions at your tax home? See Second foreign household in the instructions",
+        "type": "checkbox"
+      },
+      {
+        "line": "8b",
+        "caption": "If \u201cYes,\u201d enter city and country of the separate foreign residence. Also, enter the number of days during your tax year that you maintained a second household at that address.",
+        "type": "text"
+      },
+      {
+        "line": "9",
+        "caption": "List your tax home(s) during your tax year and date(s) established.",
+        "type": "text"
+      },
+      {
+        "line": "10",
+        "caption": "Date bona fide residence began",
+        "type": "date"
+      },
+      {
+        "line": "11",
+        "caption": "Kind of living quarters in foreign country:",
+        "type": "checkbox"
+      },
+      {
+        "line": "12a",
+        "caption": "Did any of your family live with you abroad during any part of the tax year?",
+        "type": "checkbox"
+      },
+      {
+        "line": "12b",
+        "caption": "If \u201cYes,\u201d who and for what period?",
+        "type": "text"
+      },
+      {
+        "line": "13a",
+        "caption": "Have you submitted a statement to the authorities of the foreign country where you claim bona fide residence that you aren\u2019t a resident of that country? See instructions",
+        "type": "checkbox"
+      },
+      {
+        "line": "13b",
+        "caption": "Are you required to pay income tax to the country where you claim bona fide residence? See instructions",
+        "type": "checkbox"
+      },
+      {
+        "line": "14",
+        "caption": "If you were present in the United States or its territories during the tax year, complete columns (a)\u2013(d) below. Don\u2019t include the income from column (d) in Part IV, but report it on Form 1040 or 1040-SR.",
+        "type": "text"
+      },
+      {
+        "line": "15a",
+        "caption": "List any contractual terms or other conditions relating to the length of your employment abroad.",
+        "type": "text"
+      },
+      {
+        "line": "15b",
+        "caption": "Enter the type of visa under which you entered the foreign country.",
+        "type": "text"
+      },
+      {
+        "line": "15c",
+        "caption": "Did your visa limit the length of your stay or employment in a foreign country? If \u201cYes,\u201d attach explanation",
+        "type": "checkbox"
+      },
+      {
+        "line": "15d",
+        "caption": "Did you maintain a home in the United States while living abroad?",
+        "type": "checkbox"
+      },
+      {
+        "line": "15e",
+        "caption": "If \u201cYes,\u201d enter address of your home, whether it was rented, the names of the occupants, and their relationship to you.",
+        "type": "text"
+      },
+      {
+        "line": "16",
+        "caption": "The physical presence test is based on the 12-month period from",
+        "type": "date"
+      },
+      {
+        "line": "17",
+        "caption": "Enter your principal country of employment during your tax year.",
+        "type": "text"
+      },
+      {
+        "line": "18",
+        "caption": "If you traveled abroad during the 12-month period entered on line 16, complete columns (a)\u2013(f) below.",
+        "type": "text"
+      },
+      {
+        "line": "29a",
+        "caption": "Enter location where housing expenses incurred. See instructions.",
+        "type": "text"
+      },
+      {
+        "line": "29b",
+        "caption": "Enter limit on housing expenses. See instructions",
+        "type": "money"
+      }
+    ],
+    "notes": "Only the lines this part routes are transcribed. Parts I-VII (the bona fide residence and physical presence tests and the housing exclusion) belong to the foreign income part."
+  }
+}

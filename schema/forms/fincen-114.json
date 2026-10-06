@@ -1,0 +1,14 @@
+{
+  "form": {
+    "id": "fincen-114",
+    "form": "FinCEN Form 114",
+    "title": "Report of Foreign Bank and Financial Accounts (FBAR)",
+    "kind": "form",
+    "revision": null,
+    "source_url": "https://bsaefiling.fincen.treas.gov/",
+    "instructions_url": "https://www.irs.gov/instructions/i1040sb",
+    "lines": [],
+    "question": "Did the aggregate value of your foreign financial accounts exceed $10,000 at any time during the tax year?",
+    "notes": "NOT AN IRS FORM AND NOT PART OF THE RETURN. Filed electronically with Treasury's Financial Crimes Enforcement Network. The Instructions for Schedule B say: 'If you checked the \u201cYes\u201d box to Question 2 on line 7a, you must electronically file FinCEN Form 114 with Treasury\u2019s Financial Crimes Enforcement Network. A U.S. person that has a financial interest in or signature authority over foreign financial accounts must file the form if the aggregate value of foreign financial accounts exceeds $10,000 at any time during 2025. Do not attach FinCEN Form 114 to your tax return.' Penalty, verbatim: 'you may have to pay a civil penalty up to $10,000. A person who willfully fails to report an account or provide account identifying information may be subject to a civil penalty equal to the greater of $100,000 or 50% of the balance in the account at the time of the violation.' It produces no 1040 line; Schedule B line 7a is the only place the return asks about it. No revision was read - this part did not fetch the FinCEN form."
+  }
+}

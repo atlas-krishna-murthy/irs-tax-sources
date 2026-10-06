@@ -1,0 +1,24 @@
+{
+  "rule": {
+    "id": "v3-n-8805-scht",
+    "title": "A Schedule T beneficiary claims Form 8805 line 13, not line 10",
+    "class": "document",
+    "years": [2025],
+    "acts_on": {"boxes": ["8805.10"]},
+    "inputs": [{"kind": "box", "ref": "8805.13"}],
+    "operator": "select",
+    "params": {
+      "select": "8805.13",
+      "when": {"box": "8805.13", "present": true}
+    },
+    "when_missing": {"behaviour": "pending"},
+    "order": {"after": [], "before": []},
+    "citation": {
+      "form": "Form 8805",
+      "line": "13",
+      "revision": "Rev. November 2019",
+      "wording": "Amount of tax credit on line 10 that the beneficiary is entitled to claim on its return",
+      "source_url": "https://www.irs.gov/pub/irs-pdf/f8805.pdf"
+    }
+  }
+}

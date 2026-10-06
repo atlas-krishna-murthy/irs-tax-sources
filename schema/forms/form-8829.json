@@ -1,0 +1,289 @@
+{
+  "form": {
+    "id": "form-8829",
+    "form": "Form 8829",
+    "title": "Expenses for Business Use of Your Home",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8829--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8829",
+    "lines": [
+      {
+        "line": "header",
+        "caption": "File only with Schedule C (Form 1040). Use a separate Form 8829 for each home you used for business during the year.",
+        "type": "text"
+      },
+      {
+        "line": "1",
+        "caption": "Area used regularly and exclusively for business, regularly for daycare, or for storage of inventory or product samples (see instructions)",
+        "type": "count"
+      },
+      {
+        "line": "2",
+        "caption": "Total area of home",
+        "type": "count"
+      },
+      {
+        "line": "3",
+        "caption": "Divide line 1 by line 2. Enter the result as a percentage",
+        "type": "percent"
+      },
+      {
+        "line": "4",
+        "caption": "Multiply days used for daycare during year by hours used per day",
+        "type": "count"
+      },
+      {
+        "line": "5",
+        "caption": "If you started or stopped using your home for daycare during the year, see instructions; otherwise, enter 8,760",
+        "type": "count"
+      },
+      {
+        "line": "6",
+        "caption": "Divide line 4 by line 5. Enter the result as a decimal amount",
+        "type": "percent",
+        "notes": "Entered as a DECIMAL amount (\"Enter the result as a decimal amount\"). Type percent is this map's ratio type, used for every decimal-entry line (Form 8606 line 10, Form 8839 lines 9/27, Form 6252 line 19)."
+      },
+      {
+        "line": "7",
+        "caption": "Business percentage. For daycare facilities not used exclusively for business, multiply line 6 by line 3 (enter the result as a percentage). All others, enter the amount from line 3",
+        "type": "percent"
+      },
+      {
+        "line": "8",
+        "caption": "Enter the amount from Schedule C, line 29, plus any gain derived from the business use of your home, minus any loss from the trade or business not derived from the business use of your home. See instructions.",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Casualty losses (see instructions)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "10",
+        "caption": "Deductible mortgage interest (see instructions)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "11",
+        "caption": "Real estate taxes (see instructions)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "12",
+        "caption": "Add lines 9, 10, and 11",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "13",
+        "caption": "Multiply line 12, column (b), by line 7",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Add line 12, column (a), and line 13",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Subtract line 14 from line 8. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Excess mortgage interest (see instructions)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "17",
+        "caption": "Excess real estate taxes (see instructions)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "18",
+        "caption": "Insurance",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "19",
+        "caption": "Rent",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "20",
+        "caption": "Repairs and maintenance",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "21",
+        "caption": "Utilities",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "22",
+        "caption": "Other expenses (see instructions)",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "23",
+        "caption": "Add lines 16 through 22",
+        "type": "money",
+        "columns": [
+          "a",
+          "b"
+        ]
+      },
+      {
+        "line": "24",
+        "caption": "Multiply line 23, column (b), by line 7",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Carryover of prior year operating expenses (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "26",
+        "caption": "Add line 23, column (a), line 24, and line 25",
+        "type": "money"
+      },
+      {
+        "line": "27",
+        "caption": "Allowable operating expenses. Enter the smaller of line 15 or line 26",
+        "type": "money"
+      },
+      {
+        "line": "28",
+        "caption": "Limit on excess casualty losses and depreciation. Subtract line 27 from line 15",
+        "type": "money"
+      },
+      {
+        "line": "29",
+        "caption": "Excess casualty losses (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "30",
+        "caption": "Depreciation of your home from line 42 below",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Carryover of prior year excess casualty losses and depreciation (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "32",
+        "caption": "Add lines 29 through 31",
+        "type": "money"
+      },
+      {
+        "line": "33",
+        "caption": "Allowable excess casualty losses and depreciation. Enter the smaller of line 28 or line 32",
+        "type": "money"
+      },
+      {
+        "line": "34",
+        "caption": "Add lines 14, 27, and 33",
+        "type": "money"
+      },
+      {
+        "line": "35",
+        "caption": "Casualty loss portion, if any, from lines 14 and 33. Carry amount to Form 4684. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "36",
+        "caption": "Allowable expenses for business use of your home. Subtract line 35 from line 34. Enter here and on Schedule C, line 30. If your home was used for more than one business, see instructions",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "37",
+        "caption": "Enter the smaller of your home\u2019s adjusted basis or its fair market value. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "38",
+        "caption": "Value of land included on line 37",
+        "type": "money"
+      },
+      {
+        "line": "39",
+        "caption": "Basis of building. Subtract line 38 from line 37",
+        "type": "money"
+      },
+      {
+        "line": "40",
+        "caption": "Business basis of building. Multiply line 39 by line 7",
+        "type": "money"
+      },
+      {
+        "line": "41",
+        "caption": "Depreciation percentage (see instructions)",
+        "type": "percent"
+      },
+      {
+        "line": "42",
+        "caption": "Depreciation allowable (see instructions). Multiply line 40 by line 41. Enter here and on line 30 above",
+        "type": "money"
+      },
+      {
+        "line": "43",
+        "caption": "Operating expenses. Subtract line 27 from line 26. If less than zero, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "44",
+        "caption": "Excess casualty losses and depreciation. Subtract line 33 from line 32. If less than zero, enter -0-",
+        "type": "money"
+      }
+    ],
+    "revision_printed_as": "Form 8829 (2025) Created 10/2/25"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "document": {
+    "id": "1099-G",
+    "title": "Certain Government Payments",
+    "kind": "information_return",
+    "revision": "Rev. March 2024",
+    "revision_printed_as": "Form 1099-G (Rev. 3-2024)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099g--2024.pdf",
+    "issued_by": "a federal, state or local government unit",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Unemployment compensation",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "State or local income tax refunds, credits, or offsets",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Box 2 amount is for tax year",
+        "type": "text"
+      },
+      {
+        "box": "4",
+        "label": "Federal income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "RTAA payments",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "Taxable grants",
+        "type": "money"
+      },
+      {
+        "box": "7",
+        "label": "Agriculture payments",
+        "type": "money"
+      },
+      {
+        "box": "8",
+        "label": "If checked, box 2 is trade or business income",
+        "type": "checkbox"
+      },
+      {
+        "box": "9",
+        "label": "Market gain",
+        "type": "money"
+      },
+      {
+        "box": "10a",
+        "label": "State",
+        "type": "text"
+      },
+      {
+        "box": "10b",
+        "label": "State identification no.",
+        "type": "text"
+      },
+      {
+        "box": "11",
+        "label": "State income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "9-interest-on-refund",
+        "label": "",
+        "type": "money",
+        "notes": "The unnumbered blank box beside box 9. Recipient instruction for box 2: 'the payer may include interest of less than $600 in the blank box next to box 9 on Form 1099-G.' The face prints no caption, so the label is empty."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed above the issuer's block on every copy. A corrected form replaces one furnished earlier; its figures are the ones to use, never counted beside the earlier form's."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed on Copy A (the issuer's filing copy) and the state copy; the recipient's Copy B does not print it."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "FR-016 mark. An account or other unique number the issuer assigned; identification only, never a figure."
+      }
+    ],
+    "notes": "The revision in force for tax year 2025 is Rev. March 2024; irs-prior/f1099g--2025.pdf returns 404. DO NOT take the box numbering from irs.gov/pub/irs-pdf/f1099g.pdf, which serves Rev. December 2026: that revision inserts a new box 10 'Family leave benefits' and renumbers the state boxes to 11a/11b/12. On the TY2025 form the state boxes are 10a, 10b and 11 and there is no family leave box. Confirmed against Publication 1179 (Rev. Proc. 2025-22), whose exhibit prints 'Form 1099-G (Rev. 3-2024)'. Parser note: the revision string is NOT on page 1 of this PDF - page 1 is the 'Copy A ... informational purposes only' cover and the form face is page 2."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099G",
+    "note": null
+  }
+}

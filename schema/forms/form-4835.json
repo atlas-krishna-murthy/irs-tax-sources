@@ -1,0 +1,268 @@
+{
+  "form": {
+    "id": "form-4835",
+    "form": "Form 4835",
+    "title": "Farm Rental Income and Expenses (Crop and Livestock Shares (Not Cash) Received by Landowner (or Sub-Lessor)) (Income Not Subject to Self-Employment Tax)",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f4835--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/f4835--2025.pdf",
+    "lines": [
+      {
+        "line": "A",
+        "caption": "Did you actively participate in the operation of this farm during 2025? See instructions",
+        "type": "checkbox"
+      },
+      {
+        "line": "1",
+        "caption": "Income from production of livestock, produce, grains, and other crops",
+        "type": "money"
+      },
+      {
+        "line": "2a",
+        "caption": "Cooperative distributions (Form(s) 1099-PATR)",
+        "type": "money"
+      },
+      {
+        "line": "2b",
+        "caption": "Cooperative distributions (Form(s) 1099-PATR): Taxable amount",
+        "type": "money"
+      },
+      {
+        "line": "3a",
+        "caption": "Agricultural program payments (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "3b",
+        "caption": "Agricultural program payments (see instructions): Taxable amount",
+        "type": "money"
+      },
+      {
+        "line": "4a",
+        "caption": "Commodity Credit Corporation (CCC) loans (see instructions): CCC loans reported under election",
+        "type": "money"
+      },
+      {
+        "line": "4b",
+        "caption": "Commodity Credit Corporation (CCC) loans (see instructions): CCC loans forfeited",
+        "type": "money"
+      },
+      {
+        "line": "4c",
+        "caption": "Commodity Credit Corporation (CCC) loans (see instructions): Taxable amount",
+        "type": "money"
+      },
+      {
+        "line": "5a",
+        "caption": "Crop insurance proceeds and federal crop disaster payments (see instructions): Amount received in 2025",
+        "type": "money"
+      },
+      {
+        "line": "5b",
+        "caption": "Crop insurance proceeds and federal crop disaster payments (see instructions): Taxable amount",
+        "type": "money"
+      },
+      {
+        "line": "5c",
+        "caption": "If election to defer to 2026 is attached, check here",
+        "type": "checkbox"
+      },
+      {
+        "line": "5d",
+        "caption": "Amount deferred from 2024",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Other income, including federal and state gasoline or fuel tax credit or refund (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Gross farm rental income. Add amounts in the right column for lines 1 through 6. Enter the total here and on Schedule E (Form 1040), line 42",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Car and truck expenses (see Schedule F (Form 1040) instructions). Also, attach Form 4562",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Chemicals",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Conservation expenses (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Custom hire (machine work)",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Depreciation and section 179 expense deduction not claimed elsewhere",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Employee benefit programs other than on line 21 (see Schedule F (Form 1040) instructions)",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Feed",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Fertilizers and lime",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Freight and trucking",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Gasoline, fuel, and oil",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "Insurance (other than health)",
+        "type": "money"
+      },
+      {
+        "line": "19a",
+        "caption": "Interest (see instructions): Mortgage (paid to banks, etc.)",
+        "type": "money"
+      },
+      {
+        "line": "19b",
+        "caption": "Interest (see instructions): Other",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Labor hired (less employment credits) (see Schedule F (Form 1040) instructions)",
+        "type": "money"
+      },
+      {
+        "line": "21",
+        "caption": "Pension and profit-sharing plans",
+        "type": "money"
+      },
+      {
+        "line": "22a",
+        "caption": "Rent or lease: Vehicles, machinery, and equipment (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "22b",
+        "caption": "Rent or lease: Other (land, animals, etc.)",
+        "type": "money"
+      },
+      {
+        "line": "23",
+        "caption": "Repairs and maintenance",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Seeds and plants",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Storage and warehousing",
+        "type": "money"
+      },
+      {
+        "line": "26",
+        "caption": "Supplies",
+        "type": "money"
+      },
+      {
+        "line": "27",
+        "caption": "Taxes",
+        "type": "money"
+      },
+      {
+        "line": "28",
+        "caption": "Utilities",
+        "type": "money"
+      },
+      {
+        "line": "29",
+        "caption": "Veterinary, breeding, and medicine",
+        "type": "money"
+      },
+      {
+        "line": "30a",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "30b",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "30c",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "30d",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "30e",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "30f",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "30g",
+        "caption": "Other expenses (specify):",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Total expenses. Add lines 8 through 30g. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "32",
+        "caption": "Net farm rental income or (loss). Subtract line 31 from line 7. If the result is income, enter it here and on Schedule E (Form 1040), line 40. If the result is a loss, you must go to line 34. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "33",
+        "caption": "Reserved for future use",
+        "type": "text"
+      },
+      {
+        "line": "34",
+        "caption": "If line 32 is a loss, check the box that describes your investment in this activity. See instructions: 34a All investment is at risk. 34b Some investment is not at risk.",
+        "type": "checkbox"
+      },
+      {
+        "line": "34c",
+        "caption": "You may have to complete Form 8582 to determine your deductible loss, regardless of which box you checked. If you checked box 34b, you must complete Form 6198 before going to Form 8582. In either case, enter the deductible loss here and on Schedule E (Form 1040), line 40. See instructions",
+        "type": "money"
+      }
+    ]
+  }
+}

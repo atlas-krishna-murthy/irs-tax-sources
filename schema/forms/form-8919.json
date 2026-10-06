@@ -1,0 +1,68 @@
+{
+  "form": {
+    "id": "form-8919",
+    "form": "Form 8919",
+    "title": "Uncollected Social Security and Medicare Tax on Wages",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8919--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/f8919--2025.pdf",
+    "lines": [
+      {
+        "line": "1f",
+        "caption": "Total wages received with no social security or Medicare tax withholding and not reported on Form W-2",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Total wages. Combine lines 1 through 5 in column (f). Enter here and on Form 1040, 1040-SR, or 1040-NR, line 1g",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Maximum amount of wages subject to social security tax",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Total social security wages and social security tips (total of boxes 3 and 7 on Form(s) W-2), railroad retirement (RRTA) compensation (subject to the 6.2% rate), and unreported tips subject to social security tax from Form 4137, line 10. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Subtract line 8 from line 7. If line 8 is more than line 7, enter -0- here and on line 10",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Wages subject to social security tax. Enter the smaller of line 6 or line 9",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Multiply line 10 by 0.062 (social security tax rate)",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Multiply line 6 by 0.0145 (Medicare tax rate)",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Add lines 11 and 12. Enter here. Include as tax on your annual tax return (Schedule 2 (Form 1040), line 6, or Form 1040-SS, Part I, line 6c). See the instructions there",
+        "type": "money"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "2",
+        "because": "'Schedule 2 (Form 1040), line 6' in line 13's caption and the 'Page 2' header \u2014 references, not a line of Form 8919"
+      },
+      {
+        "slot": "61",
+        "because": "'Attachment Sequence No. 61' in the form header, not a line"
+      }
+    ]
+  }
+}

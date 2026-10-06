@@ -1,0 +1,176 @@
+{
+  "form": {
+    "id": "form-8863",
+    "form": "Form 8863",
+    "title": "Education Credits (American Opportunity and Lifetime Learning Credits)",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8863--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8863",
+    "notes": "refundable: mixed \u2014 and this form is the clearest case in the map of why refundability matters. Part I produces the REFUNDABLE American opportunity credit, 40% of the allowable AOC, and line 8 goes straight to Form 1040 line 29 in the payments block. Part II produces the NONREFUNDABLE lifetime learning credit and the nonrefundable remainder of the AOC, and line 19 goes to Schedule 3 line 3 inside the tax computation. One form, two destinations, two kinds of credit. 2025 parameters read off the form's own face: AOC adjusted qualified education expenses capped at $4,000 (line 27); LLC expenses capped at $10,000 at 20% (lines 11 and 12); phase-out begins at $180,000 MFJ / $90,000 single, head of household, or qualifying surviving spouse (lines 2 and 13) over a range of $20,000 / $10,000 (lines 5 and 16). Printed revision: Form 8863 (2025), Created 9/23/25.",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "After completing Part III for each student, enter the total of all amounts from all Parts III, line 30",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Enter $180,000 if married filing jointly; or $90,000 if single, head of household, or qualifying surviving spouse",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Enter the amount from Form 1040 or 1040-SR, line 11b. But if you're filing Form 2555 or 4563, or you're excluding income from Puerto Rico, see Pub. 970 for the amount to enter instead",
+        "type": "money"
+      },
+      {
+        "line": "4",
+        "caption": "Subtract line 3 from line 2. If zero or less, stop; you can't take any education credit",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Enter $20,000 if married filing jointly; or $10,000 if single, head of household, or qualifying surviving spouse",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "If line 4 is: \u2022 Equal to or more than line 5, enter 1.000 on line 6; or \u2022 Less than line 5, divide line 4 by line 5. Enter the result as a decimal (rounded to at least three places).",
+        "type": "text"
+      },
+      {
+        "line": "7",
+        "caption": "Multiply line 1 by line 6. Caution: If you were under age 24 at the end of the year and meet the conditions described in the instructions, you can't take the refundable American opportunity credit; skip line 8, enter the amount from line 7 on line 9, and check this box",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Refundable American opportunity credit. Multiply line 7 by 40% (0.40). Enter the amount here and on Form 1040 or 1040-SR, line 29. Then go to line 9 below.",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "9",
+        "caption": "Subtract line 8 from line 7. Enter here and on line 2 of the Credit Limit Worksheet. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "After completing Part III for each student, enter the total of all amounts from all Parts III, line 31. If zero, skip lines 11 through 17, enter -0- on line 18, and go to line 19",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Enter the smaller of line 10 or $10,000",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Multiply line 11 by 20% (0.20)",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Enter $180,000 if married filing jointly; or $90,000 if single, head of household, or qualifying surviving spouse",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Enter the amount from Form 1040 or 1040-SR, line 11b. But if you're filing Form 2555 or 4563, or you're excluding income from Puerto Rico, see Pub. 970 for the amount to enter instead",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Subtract line 14 from line 13. If zero or less, skip lines 16 and 17, enter -0- on line 18, and go to line 19",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Enter $20,000 if married filing jointly; or $10,000 if single, head of household, or qualifying surviving spouse",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "If line 15 is: \u2022 Equal to or more than line 16, enter 1.000 on line 17 and go to line 18; or \u2022 Less than line 16, divide line 15 by line 16. Enter the result as a decimal (rounded to at least three places).",
+        "type": "text"
+      },
+      {
+        "line": "18",
+        "caption": "Multiply line 12 by line 17. Enter here and on line 1 of the Credit Limit Worksheet. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "Nonrefundable education credits. Enter the amount from line 7 of the Credit Limit Worksheet (see instructions) here and on Schedule 3 (Form 1040), line 3",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Student name (as shown on page 1 of your tax return)",
+        "type": "text"
+      },
+      {
+        "line": "21",
+        "caption": "Student social security number (as shown on page 1 of your tax return)",
+        "type": "tin"
+      },
+      {
+        "line": "22",
+        "caption": "Educational institution information (see instructions)",
+        "type": "text"
+      },
+      {
+        "line": "23",
+        "caption": "Has the American opportunity credit been claimed for this student for any 4 prior tax years? Yes\u2014Stop! Go to line 31 for this student. No\u2014Go to line 24.",
+        "type": "checkbox"
+      },
+      {
+        "line": "24",
+        "caption": "Was the student enrolled at least half-time for at least one academic period that began or is treated as having begun in 2025 at an eligible educational institution in a program leading toward a postsecondary degree, certificate, or other recognized postsecondary educational credential? See instructions. Yes\u2014Go to line 25. No\u2014Stop! Go to line 31 for this student.",
+        "type": "checkbox"
+      },
+      {
+        "line": "25",
+        "caption": "Did the student complete the first 4 years of postsecondary education before 2025? See instructions. Yes\u2014Stop! Go to line 31 for this student. No\u2014Go to line 26.",
+        "type": "checkbox"
+      },
+      {
+        "line": "26",
+        "caption": "Was the student convicted, before the end of 2025, of a felony for possession or distribution of a controlled substance? Yes\u2014Stop! Go to line 31 for this student. No\u2014Complete lines 27 through 30 for this student.",
+        "type": "checkbox"
+      },
+      {
+        "line": "27",
+        "caption": "Adjusted qualified education expenses (see instructions). Don't enter more than $4,000",
+        "type": "money"
+      },
+      {
+        "line": "28",
+        "caption": "Subtract $2,000 from line 27. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "29",
+        "caption": "Multiply line 28 by 25% (0.25)",
+        "type": "money"
+      },
+      {
+        "line": "30",
+        "caption": "If line 28 is zero, enter the amount from line 27. Otherwise, add $2,000 to the amount on line 29 and enter the result. Skip line 31. Include the total of all amounts from all Parts III, line 30, on Part I, line 1",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Adjusted qualified education expenses (see instructions). Include the total of all amounts from all Parts III, line 31, on Part II, line 10",
+        "type": "money"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "50",
+        "because": "'Attachment Sequence No. 50' in the form header, not a line"
+      }
+    ]
+  }
+}

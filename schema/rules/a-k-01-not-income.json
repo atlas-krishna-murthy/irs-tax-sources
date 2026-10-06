@@ -1,0 +1,43 @@
+{
+  "rule": {
+    "id": "a-k-01-not-income",
+    "title": "A Form 1099-K reported entirely in error, or for personal items sold at a loss, counts nothing",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-K.1a"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "form-1099-k-payments-were"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "form-1099-k-payments-were",
+        "is": "in_error_or_personal_loss"
+      }
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Schedule 1 (Form 1040)",
+      "line": "Form(s) 1099-K",
+      "revision": "2025",
+      "wording": "If the entire amount reported to you on Form(s) 1099-K was in error or for personal items sold at a loss, enter the total amount from Form(s) 1099-K, box 1(a), in the entry space at the top of Schedule 1.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "When only part of box 1a was in error, that part is entered at the top of Schedule 1 by the preparer; it is not applied here."
+  }
+}

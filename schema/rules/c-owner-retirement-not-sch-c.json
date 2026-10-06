@@ -1,0 +1,48 @@
+{
+  "rule": {
+    "id": "c-owner-retirement-not-sch-c",
+    "title": "The owner's own retirement contributions are not a Schedule C expense",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-business-income-and-expense-records.pension_and_profit_sharing_plans"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-owners-own-retirement-contribution"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-owners-own-retirement-contribution",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this item a retirement plan contribution made on the owner's own behalf as a self-employed person, rather than for employees?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule C (Form 1040)",
+      "line": "Line 19",
+      "revision": "2025",
+      "wording": "If the plan included you as a self-employed person, enter the contributions made as an employer on your behalf on Schedule 1 (Form 1040), line 16, not on Schedule C.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+    },
+    "open_point": "The figure is counted 0.00 on Schedule C and not moved: Schedule 1 line 16 (self-employed SEP, SIMPLE and qualified plans) is worked by the preparer's software.",
+    "research_ids": [
+      "c-owner-retirement-not-sch-c"
+    ]
+  }
+}

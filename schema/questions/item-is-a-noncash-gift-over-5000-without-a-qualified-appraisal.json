@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-a-noncash-gift-over-5000-without-a-qualified-appraisal",
+    "wording": "Is this a noncash gift (or group of similar items) claimed at over $5,000 with no qualified written appraisal, and none of the exceptions applies (a qualified vehicle with a written acknowledgment, certain inventory, publicly traded securities, certain intellectual property)?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 over $5,000, no qualified appraisal"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 $5,000 or less, appraised, or an exception applies"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this a noncash gift (or group of similar items) claimed at over $5,000 with no qualified written appraisal, and none of the exceptions applies (a qualified vehicle with a written acknowledgment, certain inventory, publicly traded securities, certain intellectual property)?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 526",
+        "line": "Deductions Over $5,000",
+        "revision": "2025",
+        "wording": "A qualified appraisal is not required for contributions of qualified vehicles for which you obtain a CWA, certain inventory, publicly traded securities, or certain intellectual property.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p526--2025.pdf"
+      }
+    }
+  }
+}

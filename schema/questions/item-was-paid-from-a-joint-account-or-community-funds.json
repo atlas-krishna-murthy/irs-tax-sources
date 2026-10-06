@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-was-paid-from-a-joint-account-or-community-funds",
+    "wording": "Was this paid out of a joint checking account both spouses have the same interest in, or out of community funds, with nothing showing one spouse alone paid it?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 joint account or community funds"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 paid by one spouse from their own funds"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Was this paid out of a joint checking account both spouses have the same interest in, or out of community funds, with nothing showing one spouse alone paid it?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 502",
+        "line": "Separate returns",
+        "revision": "2025",
+        "wording": "Any medical expenses paid out of a joint checking account in which you and your spouse have the same interest are considered to have been paid equally by each of you, unless you can show otherwise.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p502--2025.pdf"
+      }
+    }
+  }
+}

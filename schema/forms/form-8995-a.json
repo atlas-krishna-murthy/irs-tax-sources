@@ -1,0 +1,323 @@
+{
+  "form": {
+    "id": "form-8995-a",
+    "form": "Form 8995-A",
+    "title": "Qualified Business Income Deduction",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8995a--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8995a",
+    "lines": [
+      {
+        "line": "note",
+        "caption": "Use this form if your taxable income, before your qualified business income deduction, is above $197,300 ($394,600 if married filing jointly), or you\u2019re a patron of an agricultural or horticultural cooperative.",
+        "type": "text"
+      },
+      {
+        "line": "1",
+        "caption": "(a) Trade, business, or aggregation name (b) Check if specified service (c) Check if aggregation (d) Taxpayer identification number (e) Check if patron",
+        "type": "text",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "2",
+        "caption": "Qualified business income from the trade, business, or aggregation. See instructions",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE BUSINESSES, NOT THREE KINDS OF FIGURE \u2014 Part II has one column per trade, business or aggregation. An instance column is not part of an address."
+      },
+      {
+        "line": "3",
+        "caption": "Multiply line 2 by 20% (0.20). If your taxable income is $197,300 or less ($394,600 if married filing jointly), skip lines 4 through 12 and enter the amount from line 3 on line 13",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "4",
+        "caption": "Allocable share of W-2 wages from the trade, business, or aggregation",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "5",
+        "caption": "Multiply line 4 by 50% (0.50)",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "6",
+        "caption": "Multiply line 4 by 25% (0.25)",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "7",
+        "caption": "Allocable share of the unadjusted basis immediately after acquisition (UBIA) of all qualified property",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "8",
+        "caption": "Multiply line 7 by 2.5% (0.025)",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "9",
+        "caption": "Add lines 6 and 8",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "10",
+        "caption": "Enter the greater of line 5 or line 9",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "11",
+        "caption": "W-2 wage and UBIA of qualified property limitation. Enter the smaller of line 3 or line 10",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "12",
+        "caption": "Phased-in reduction. Enter the amount from line 26, if any",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "13",
+        "caption": "Qualified business income deduction before patron reduction. Enter the greater of line 11 or line 12",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "14",
+        "caption": "Patron reduction. Enter the amount from Schedule D (Form 8995-A), line 6, if any. See instructions",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "15",
+        "caption": "Qualified business income component. Subtract line 14 from line 13",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "16",
+        "caption": "Total qualified business income component. Add all amounts reported on line 15",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Enter the amounts from line 3",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "18",
+        "caption": "Enter the amounts from line 10",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "19",
+        "caption": "Subtract line 18 from line 17",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "20",
+        "caption": "Taxable income before qualified business income deduction",
+        "type": "money"
+      },
+      {
+        "line": "21",
+        "caption": "Threshold. Enter $197,300 ($394,600 if married filing jointly)",
+        "type": "money"
+      },
+      {
+        "line": "22",
+        "caption": "Subtract line 21 from line 20",
+        "type": "money"
+      },
+      {
+        "line": "23",
+        "caption": "Phase-in range. Enter $50,000 ($100,000 if married filing jointly)",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Phase-in percentage. Divide line 22 by line 23",
+        "type": "percent"
+      },
+      {
+        "line": "25",
+        "caption": "Total phase-in reduction. Multiply line 19 by line 24",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "26",
+        "caption": "Qualified business income after phase-in reduction. Subtract line 25 from line 17. Enter this amount here and on line 12, for the corresponding trade or business",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "line": "27",
+        "caption": "Total qualified business income component from all qualified trades, businesses, or aggregations. Enter the amount from line 16",
+        "type": "money"
+      },
+      {
+        "line": "28",
+        "caption": "Qualified REIT dividends and publicly traded partnership (PTP) income or (loss). See instructions",
+        "type": "money"
+      },
+      {
+        "line": "29",
+        "caption": "Qualified REIT dividends and PTP (loss) carryforward from prior years",
+        "type": "money"
+      },
+      {
+        "line": "30",
+        "caption": "Total qualified REIT dividends and PTP income. Combine lines 28 and 29. If less than zero, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "REIT and PTP component. Multiply line 30 by 20% (0.20)",
+        "type": "money"
+      },
+      {
+        "line": "32",
+        "caption": "Qualified business income deduction before the income limitation. Add lines 27 and 31",
+        "type": "money"
+      },
+      {
+        "line": "33",
+        "caption": "Taxable income before qualified business income deduction",
+        "type": "money"
+      },
+      {
+        "line": "34",
+        "caption": "Enter your net capital gain, if any, increased by any qualified dividends (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "35",
+        "caption": "Subtract line 34 from line 33. If zero or less, enter -0-",
+        "type": "money"
+      },
+      {
+        "line": "36",
+        "caption": "Income limitation. Multiply line 35 by 20% (0.20)",
+        "type": "money"
+      },
+      {
+        "line": "37",
+        "caption": "Qualified business income deduction before the domestic production activities deduction (DPAD) under section 199A(g). Enter the smaller of line 32 or line 36",
+        "type": "money"
+      },
+      {
+        "line": "38",
+        "caption": "DPAD under section 199A(g) allocated from an agricultural or horticultural cooperative. Don\u2019t enter more than line 33 minus line 37",
+        "type": "money"
+      },
+      {
+        "line": "39",
+        "caption": "Total qualified business income deduction. Add lines 37 and 38",
+        "type": "money",
+        "note": "The form does NOT name its destination. The 2025 Instructions for Form 8995-A do: \u201cEnter the amount from line 39 on Form 1040 or 1040-SR, line 13a; Form 1040-NR, line 13a; Form 1041, line 20; Form 1041-N, line 9; Form 990-T, Part I, line 9; S-corporation portion of an ESBT, line 11.\u201d"
+      },
+      {
+        "line": "40",
+        "caption": "Total qualified REIT dividends and PTP (loss) carryforward. Combine lines 28 and 29. If zero or greater, enter -0-",
+        "type": "money"
+      }
+    ]
+  }
+}

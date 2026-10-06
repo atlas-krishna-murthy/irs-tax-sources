@@ -1,0 +1,212 @@
+{
+  "form": {
+    "id": "schedule-d",
+    "form": "Schedule D (Form 1040)",
+    "title": "Capital Gains and Losses",
+    "kind": "schedule",
+    "revision": "2025",
+    "revision_printed_as": "Schedule D (Form 1040) 2025 Created 10/6/25",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040sd--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1040sd",
+    "lines": [
+      {
+        "line": "qof question",
+        "caption": "Did you dispose of any investment(s) in a qualified opportunity fund during the tax year? If \u201cYes,\u201d attach Form 8949 and see its instructions for additional requirements for reporting your gain or loss.",
+        "type": "checkbox"
+      },
+      {
+        "line": "1a",
+        "caption": "Totals for all short-term transactions reported on Form 1099-B or Form 1099-DA for which basis was reported to the IRS and for which you have no adjustments (see instructions). However, if you choose to report all these transactions on Form 8949, leave this line blank and go to line 1b",
+        "type": "money",
+        "columns": [
+          "d",
+          "e",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "line": "1b",
+        "caption": "Totals for all transactions reported on Form(s) 8949 with Box A or Box G checked",
+        "type": "money",
+        "columns": [
+          "d",
+          "e",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "line": "2",
+        "caption": "Totals for all transactions reported on Form(s) 8949 with Box B or Box H checked",
+        "type": "money",
+        "columns": [
+          "d",
+          "e",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "line": "3",
+        "caption": "Totals for all transactions reported on Form(s) 8949 with Box C or Box I checked",
+        "type": "money",
+        "columns": [
+          "d",
+          "e",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "line": "4",
+        "caption": "Short-term gain from Form 6252 and short-term gain or (loss) from Forms 4684, 6781, and 8824",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Net short-term gain or (loss) from partnerships, S corporations, estates, and trusts from Schedule(s) K-1",
+        "type": "money"
+      },
+      {
+        "line": "6",
+        "caption": "Short-term capital loss carryover. Enter the amount, if any, from line 8 of your Capital Loss Carryover Worksheet in the instructions",
+        "type": "money",
+        "net": "-",
+        "notes": "Printed in preprinted parentheses ( ): Short-term capital loss carryover is a loss."
+      },
+      {
+        "line": "7",
+        "caption": "Net short-term capital gain or (loss). Combine lines 1a through 6 in column (h). If you have any long-term capital gains or losses, go to Part II below. Otherwise, go to Part III on the back",
+        "type": "money"
+      },
+      {
+        "line": "8a",
+        "caption": "Totals for all long-term transactions reported on Form 1099-B or Form 1099-DA for which basis was reported to the IRS and for which you have no adjustments (see instructions). However, if you choose to report all these transactions on Form 8949, leave this line blank and go to line 8b",
+        "type": "money",
+        "columns": [
+          "d",
+          "e",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "line": "8b",
+        "caption": "Totals for all transactions reported on Form(s) 8949 with Box D or Box J checked",
+        "type": "money",
+        "columns": [
+          "d",
+          "e",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "line": "9",
+        "caption": "Totals for all transactions reported on Form(s) 8949 with Box E or Box K checked",
+        "type": "money",
+        "columns": [
+          "d",
+          "e",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "line": "10",
+        "caption": "Totals for all transactions reported on Form(s) 8949 with Box F or Box L checked",
+        "type": "money",
+        "columns": [
+          "d",
+          "e",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "line": "11",
+        "caption": "Gain from Form 4797, Part I; long-term gain from Forms 2439 and 6252; and long-term gain or (loss) from Forms 4684, 6781, and 8824",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Net long-term gain or (loss) from partnerships, S corporations, estates, and trusts from Schedule(s) K-1",
+        "type": "money"
+      },
+      {
+        "line": "13",
+        "caption": "Capital gain distributions. See the instructions",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Long-term capital loss carryover. Enter the amount, if any, from line 13 of your Capital Loss Carryover Worksheet in the instructions",
+        "type": "money",
+        "net": "-",
+        "notes": "Printed in preprinted parentheses ( ): Long-term capital loss carryover is a loss."
+      },
+      {
+        "line": "15",
+        "caption": "Net long-term capital gain or (loss). Combine lines 8a through 14 in column (h). Then, go to Part III on the back",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Combine lines 7 and 15 and enter the result",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Are lines 15 and 16 both gains? Yes. Go to line 18. No. Skip lines 18 through 21, and go to line 22.",
+        "type": "checkbox"
+      },
+      {
+        "line": "18",
+        "caption": "If you are required to complete the 28% Rate Gain Worksheet (see instructions), enter the amount, if any, from line 7 of that worksheet",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "If you are required to complete the Unrecaptured Section 1250 Gain Worksheet (see instructions), enter the amount, if any, from line 18 of that worksheet",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Are lines 18 and 19 both zero or blank and you are not filing Form 4952? Yes. Complete the Qualified Dividends and Capital Gain Tax Worksheet in the instructions for Form 1040, line 16. Don\u2019t complete lines 21 and 22 below. No. Complete the Schedule D Tax Worksheet in the instructions. Don\u2019t complete lines 21 and 22 below.",
+        "type": "checkbox"
+      },
+      {
+        "line": "21",
+        "caption": "If line 16 is a loss, enter here and on Form 1040, 1040-SR, or 1040-NR, line 7a, the smaller of: \u2022 The loss on line 16; or \u2022 ($3,000), or if married filing separately, ($1,500). Note: When figuring which amount is smaller, treat both amounts as positive numbers.",
+        "type": "money",
+        "net": "-",
+        "notes": "Printed in preprinted parentheses ( ): the loss limited to ($3,000) is a loss."
+      },
+      {
+        "line": "22",
+        "caption": "Do you have qualified dividends on Form 1040, 1040-SR, or 1040-NR, line 3a? Yes. Complete the Qualified Dividends and Capital Gain Tax Worksheet in the instructions for Form 1040, line 16. No. Complete the rest of Form 1040, 1040-SR, or 1040-NR.",
+        "type": "checkbox"
+      }
+    ],
+    "columns": [
+      {
+        "column": "d",
+        "caption": "Proceeds (sales price)"
+      },
+      {
+        "column": "e",
+        "caption": "Cost (or other basis)"
+      },
+      {
+        "column": "g",
+        "caption": "Adjustments to gain or loss from Form(s) 8949, Part I, line 2, column (g)"
+      },
+      {
+        "column": "h",
+        "caption": "Gain or (loss) Subtract column (e) from column (d) and combine the result with column (g)"
+      }
+    ],
+    "notes": "Part I is short-term (lines 1a-7), Part II long-term (lines 8a-15), Part III the summary (lines 16-22). THE RATE-WORKSHEET BRANCH: line 17 asks whether lines 15 and 16 are both gains; only then are lines 18 and 19 completed, and line 20 then chooses between the Qualified Dividends and Capital Gain Tax Worksheet (where 18 and 19 are both zero or blank and no Form 4952 is filed) and the Schedule D Tax Worksheet. Lines 6 and 14 come ONLY from the prior year's return through the Capital Loss Carryover Worksheet \u2014 no information return reports a carryover."
+  }
+}

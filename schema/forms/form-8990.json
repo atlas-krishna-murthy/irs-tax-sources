@@ -1,0 +1,292 @@
+{
+  "form": {
+    "id": "form-8990",
+    "form": "Form 8990",
+    "title": "Limitation on Business Interest Expense Under Section 163(j)",
+    "kind": "form",
+    "revision": "(Rev. December 2025)",
+    "revision_printed_as": "Form 8990 (Rev. 12-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8990--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/i8990--2025.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Current year business interest expense (not including floor plan financing interest expense), before the section 163(j) limitation",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "2",
+        "caption": "Disallowed business interest expense carryforwards from prior years. (Does not apply to a partnership)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "3",
+        "caption": "Partner\u2019s excess business interest expense treated as paid or accrued in current year (Schedule A, line 44, column (h))",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "4",
+        "caption": "Floor plan financing interest expense. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "5",
+        "caption": "Total business interest expense. Add lines 1 through 4",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "6",
+        "caption": "Tentative taxable income. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "7",
+        "caption": "Any item of loss or deduction that is not properly allocable to a trade or business of the taxpayer. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "8",
+        "caption": "Any business interest expense not from a pass-through entity. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "9",
+        "caption": "Amount of any net operating loss deduction under section 172",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "10",
+        "caption": "Amount of any qualified business income deduction allowed under section 199A",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "11",
+        "caption": "Deduction allowable for depreciation, amortization, or depletion attributable to a trade or business. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "12",
+        "caption": "Amount of any loss or deduction items from a pass-through entity. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "13",
+        "caption": "Other additions. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "14",
+        "caption": "Total current year partner\u2019s excess taxable income (Schedule A, line 44, column (f))",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "15",
+        "caption": "Total current year S corporation shareholder\u2019s excess taxable income (Schedule B, line 46, column (c))",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "16",
+        "caption": "Total. Add lines 7 through 15",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "17",
+        "caption": "Any item of income or gain that is not properly allocable to a trade or business of the taxpayer. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "18",
+        "caption": "Any business interest income not from a pass-through entity. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "19",
+        "caption": "Amount of any income or gain items from a pass-through entity. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "20",
+        "caption": "Other reductions. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "21",
+        "caption": "Total. Combine lines 17 through 20",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "22",
+        "caption": "Adjusted taxable income. Combine lines 6, 16, and 21. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "23",
+        "caption": "Current year business interest income. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "24",
+        "caption": "Excess business interest income from pass-through entities (total of Schedule A, line 44, column (g), and Schedule B, line 46, column (d))",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "25",
+        "caption": "Total. Add lines 23 and 24",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "26",
+        "caption": "Multiply the adjusted taxable income from line 22 by the applicable percentage. See instructions",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "27",
+        "caption": "Business interest income (line 25)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "28",
+        "caption": "Floor plan financing interest expense (line 4)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "29",
+        "caption": "Total. Add lines 26, 27, and 28",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "30",
+        "caption": "Total current year business interest expense deduction. See instructions",
+        "type": "money",
+        "part": "I",
+        "computed_by_software": true
+      },
+      {
+        "line": "31",
+        "caption": "Disallowed business interest expense. Subtract line 29 from line 5. (If zero or less, enter -0-.)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "32",
+        "caption": "Excess business interest expense. Enter amount from line 31",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "33",
+        "caption": "Subtract the sum of lines 4 and 25 from line 5. (If zero or less, enter -0-.)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "34",
+        "caption": "Subtract line 33 from line 26. (If zero or less, enter -0-.)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "35",
+        "caption": "Divide line 34 by line 26. Enter the result as a decimal. (If line 26 is zero, enter -0-.)",
+        "type": "percent",
+        "part": "II"
+      },
+      {
+        "line": "36",
+        "caption": "Excess taxable income. Multiply line 35 by line 22",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "37",
+        "caption": "Excess business interest income. Subtract the sum of lines 1, 2, and 3 from line 25. (If zero or less, enter -0-.)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "38",
+        "caption": "Subtract the sum of lines 4 and 25 from line 5. (If zero or less, enter -0-.)",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "39",
+        "caption": "Subtract line 38 from line 26. (If zero or less, enter -0-.)",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "40",
+        "caption": "Divide line 39 by line 26. Enter the result as a decimal. (If line 26 is zero, enter -0-.)",
+        "type": "percent",
+        "part": "III"
+      },
+      {
+        "line": "41",
+        "caption": "Excess taxable income. Multiply line 40 by line 22",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "42",
+        "caption": "Excess business interest income. Subtract the sum of lines 1, 2, and 3 from line 25. (If zero or less, enter -0-.)",
+        "type": "money",
+        "part": "III"
+      },
+      {
+        "line": "44",
+        "caption": "Total",
+        "type": "money",
+        "part": "Schedule A",
+        "notes": "Schedule A (Summary of Partner's Section 163(j) Excess Items) totals line 43's per-partnership rows by column (c)-(i)."
+      },
+      {
+        "line": "46",
+        "caption": "Total",
+        "type": "money",
+        "part": "Schedule B",
+        "notes": "Schedule B (Summary of S Corporation Shareholder's Excess Taxable Income and Excess Business Interest Income) totals line 45's per-corporation rows by column (c)-(d)."
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "43",
+        "because": "Schedule A's table rows, one per partnership; their column totals are line 44"
+      },
+      {
+        "slot": "45",
+        "because": "Schedule B's table rows, one per S corporation; their column totals are line 46"
+      }
+    ],
+    "notes": "Declared for spec 080 T052. A small business taxpayer (Part III of the Schedule C instructions' test) does not file it; where it applies, the deductible business interest (line 30) is a computation from adjusted taxable income and the pass-through excess items K-1s report."
+  }
+}

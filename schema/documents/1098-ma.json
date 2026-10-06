@@ -1,0 +1,62 @@
+{
+  "document": {
+    "id": "1098-MA",
+    "title": "Mortgage Assistance Payments",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1098-MA (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1098ma--2025.pdf",
+    "issued_by": "State Housing Finance Agency (HFA)",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "Marks this statement as correcting one already furnished for the same year."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a filer's mark, never a figure."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (optional)",
+        "type": "identifier",
+        "notes": "The filer's own account number; identification only."
+      },
+      {
+        "box": "filer-tin",
+        "label": "FILER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "homeowner-tin",
+        "label": "HOMEOWNER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "1",
+        "label": "Total State HFA and homeowner mortgage payments",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "State HFA mortgage assistance payments",
+        "type": "money"
+      },
+      {
+        "box": "3",
+        "label": "Homeowner mortgage payments",
+        "type": "money"
+      }
+    ],
+    "notes": "Box 1 = box 2 + box 3. The mortgage interest itself reaches the sheet from the servicer's Form 1098; under the safe harbor the homeowner may deduct only what the homeowner actually paid (box 3), capped by the Form 1098's boxes 1, 5 and 10 \u2014 so the HFA's share (box 2) must not be deducted. That limit is a rule, not a placement."
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

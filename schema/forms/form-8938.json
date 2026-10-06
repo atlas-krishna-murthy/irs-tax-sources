@@ -1,0 +1,215 @@
+{
+  "form": {
+    "id": "form-8938",
+    "form": "Form 8938",
+    "title": "Statement of Specified Foreign Financial Assets",
+    "kind": "form",
+    "revision": "Rev. November 2021",
+    "source_url": "https://www.irs.gov/pub/irs-pdf/f8938.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8938",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Name(s) shown on return",
+        "type": "text"
+      },
+      {
+        "line": "2",
+        "caption": "Taxpayer identification number (TIN)",
+        "type": "tin"
+      },
+      {
+        "line": "3",
+        "caption": "Type of filer",
+        "type": "checkbox"
+      },
+      {
+        "line": "4",
+        "caption": "If you checked box 3a, skip this line 4. If you checked box 3b or 3c, enter the name and TIN of the specified individual who closely holds the partnership or corporation.",
+        "type": "text"
+      },
+      {
+        "line": "5",
+        "caption": "Number of deposit accounts (reported in Part V)",
+        "type": "count"
+      },
+      {
+        "line": "6",
+        "caption": "Maximum value of all deposit accounts",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Number of custodial accounts (reported in Part V)",
+        "type": "count"
+      },
+      {
+        "line": "8",
+        "caption": "Maximum value of all custodial accounts",
+        "type": "money"
+      },
+      {
+        "line": "9",
+        "caption": "Were any foreign deposit or custodial accounts closed during the tax year?",
+        "type": "checkbox"
+      },
+      {
+        "line": "10",
+        "caption": "Number of foreign assets (reported in Part Vl)",
+        "type": "count"
+      },
+      {
+        "line": "11",
+        "caption": "Maximum value of all assets (reported in Part Vl)",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Were any foreign assets acquired or sold during the tax year?",
+        "type": "checkbox"
+      },
+      {
+        "line": "13",
+        "caption": "Foreign deposit and custodial accounts",
+        "type": "money"
+      },
+      {
+        "line": "14",
+        "caption": "Other foreign assets",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Number of Forms 3520",
+        "type": "count"
+      },
+      {
+        "line": "16",
+        "caption": "Number of Forms 3520-A",
+        "type": "count"
+      },
+      {
+        "line": "17",
+        "caption": "Number of Forms 5471",
+        "type": "count"
+      },
+      {
+        "line": "18",
+        "caption": "Number of Forms 8621",
+        "type": "count"
+      },
+      {
+        "line": "19",
+        "caption": "Number of Forms 8865",
+        "type": "count"
+      },
+      {
+        "line": "20",
+        "caption": "Type of account",
+        "type": "checkbox"
+      },
+      {
+        "line": "21",
+        "caption": "Account number or other designation",
+        "type": "identifier"
+      },
+      {
+        "line": "22",
+        "caption": "Check all that apply",
+        "type": "checkbox"
+      },
+      {
+        "line": "23",
+        "caption": "Maximum value of account during tax year",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Did you use a foreign currency exchange rate to convert the value of the account into U.S. dollars?",
+        "type": "checkbox"
+      },
+      {
+        "line": "25",
+        "caption": "If you answered \u201cYes\u201d to line 24, complete all that apply.",
+        "type": "text"
+      },
+      {
+        "line": "26a",
+        "caption": "Name of financial institution in which account is maintained",
+        "type": "text"
+      },
+      {
+        "line": "26b",
+        "caption": "Global Intermediary Identification Number (GIIN) (Optional)",
+        "type": "identifier"
+      },
+      {
+        "line": "27",
+        "caption": "Mailing address of financial institution in which account is maintained. Number, street, and room or suite no.",
+        "type": "text"
+      },
+      {
+        "line": "28",
+        "caption": "City or town, state or province, country, and ZIP or foreign postal code",
+        "type": "text"
+      },
+      {
+        "line": "29",
+        "caption": "Description of asset",
+        "type": "text"
+      },
+      {
+        "line": "30",
+        "caption": "Identifying number or other designation",
+        "type": "identifier"
+      },
+      {
+        "line": "31a",
+        "caption": "Date asset acquired during tax year, if applicable",
+        "type": "date"
+      },
+      {
+        "line": "31b",
+        "caption": "Date asset disposed of during tax year, if applicable",
+        "type": "date"
+      },
+      {
+        "line": "31c",
+        "caption": "Check if asset jointly owned with spouse",
+        "type": "checkbox"
+      },
+      {
+        "line": "31d",
+        "caption": "Check if no tax item reported in Part III with respect to this asset",
+        "type": "checkbox"
+      },
+      {
+        "line": "32",
+        "caption": "Maximum value of asset during tax year (check box that applies)",
+        "type": "checkbox"
+      },
+      {
+        "line": "33",
+        "caption": "Did you use a foreign currency exchange rate to convert the value of the asset into U.S. dollars?",
+        "type": "checkbox"
+      },
+      {
+        "line": "34",
+        "caption": "If you answered \u201cYes\u201d to line 33, complete all that apply.",
+        "type": "text"
+      },
+      {
+        "line": "35",
+        "caption": "If asset reported on line 29 is stock of a foreign entity or an interest in a foreign entity, enter the following information for the asset.",
+        "type": "text"
+      },
+      {
+        "line": "36",
+        "caption": "If asset reported on line 29 is not stock of a foreign entity or an interest in a foreign entity, enter the following information for the asset.",
+        "type": "text"
+      }
+    ],
+    "question": "Do you hold specified foreign financial assets whose total value exceeds the reporting threshold for your filing status and residence?",
+    "notes": "PRODUCES NO 1040 LINE. It is a disclosure attached to the return, triggered independently of the FBAR. Schedule B Part III states in its own margin: 'Additionally, you may be required to file Form 8938, Statement of Specified Foreign Financial Assets. See instructions.' The Instructions for Schedule B, Part III state: 'Regardless of whether you are required to file FinCEN Form 114 (FBAR), you may be required to file Form 8938, Statement of Specified Foreign Financial Assets, with your income tax return. Failure to file Form 8938 may result in penalties and extension of the statute of limitations.' Also pointed at by the FATCA filing requirement checkbox on Forms 1099-INT, 1099-OID and 1099-DIV. THE REPORTING THRESHOLDS WERE NOT READ for this part - they live in the Form 8938 instructions and vary by filing status and by whether the taxpayer lives abroad."
+  }
+}

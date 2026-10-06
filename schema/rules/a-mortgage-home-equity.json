@@ -1,0 +1,49 @@
+{
+  "rule": {
+    "id": "a-mortgage-home-equity",
+    "title": "Interest on loan proceeds not used to buy, build or improve the home is not home mortgage interest",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1098.1",
+        "taxpayer-mortgage-and-interest-records.home_mortgage_interest_not_reported_on_1098"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "loan-proceeds-used-to-buy-build-or-improve-the-home"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "loan-proceeds-used-to-buy-build-or-improve-the-home",
+        "is": "none"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "all",
+      "because": "A mortgage on a home bought, built or improved it unless a preparer says the proceeds went elsewhere"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "Line 8",
+      "revision": "2025",
+      "wording": "Interest paid on home mortgage proceeds used for other purposes isn\u2019t deductible on lines 8a or 8b.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "research_ids": [
+      "a-mortgage-home-equity"
+    ],
+    "open_point": "A loan whose proceeds were PARTLY used for the home is answered 'part' and stays counted as printed: the deductible share is Pub. 936's allocation, which the sheet does not compute. Interest on proceeds used for a business or investment may be deductible elsewhere; the excluded figure keeps its printed amount on the row."
+  }
+}

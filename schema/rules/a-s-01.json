@@ -1,0 +1,69 @@
+{
+  "rule": {
+    "id": "a-s-01",
+    "title": "Real property used in a trade or business is reported on Form 4797, not Schedule D",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "route_among",
+    "acts_on": {
+      "boxes": [
+        "1099-S.2"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "real-estate-sold-was"
+      }
+    ],
+    "params": {
+      "cases": [
+        {
+          "when": {
+            "answer": "real-estate-sold-was",
+            "is": "business_or_rental"
+          },
+          "to": {
+            "form": "form-4797",
+            "line": "1a"
+          }
+        },
+        {
+          "when": {
+            "any": [
+              {
+                "answer": "real-estate-sold-was",
+                "is": "main_home"
+              },
+              {
+                "answer": "real-estate-sold-was",
+                "is": "personal_or_investment"
+              }
+            ]
+          },
+          "to": {
+            "form": "form-1040",
+            "line": "7a"
+          }
+        }
+      ]
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 4797",
+      "line": "Purpose of Form",
+      "revision": "2025",
+      "wording": "Use Form 4797 to report the following. • The sale or exchange of: 1. Real property used in your trade or business;",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i4797--2025.pdf"
+    },
+    "open_point": "The main-home exclusion ($250,000 / $500,000, the 2-of-5-year ownership and use tests) is applied to a GAIN, which needs the basis no 1099-S prints — a computation, not applied here. A home also used for business may split between Schedule D and Form 4797; only an answer for the whole sale is applied."
+  }
+}

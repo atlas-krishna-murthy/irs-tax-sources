@@ -1,0 +1,1163 @@
+Instructions for Form 4255
+(Rev. December 2025)
+
+Certain Credit Recapture, Excessive Payments, and Penalties
+Section references are to the Internal Revenue Code unless
+otherwise noted.
+
+General Instructions
+
+Future Developments
+
+Purpose of Form
+
+For the latest information about developments related to Form
+4255 and its instructions, such as legislation enacted after they
+were published, go to IRS.gov/Form4255.
+
+What’s New
+Excessive Payments (EPs), Excessive Credit Transfers, and
+Penalties. This section was renamed, and columns (m), (n), (o),
+and (p) were expanded to allow more detailed reporting.
+Columns (m)(1) through (3) pertain to excessive credit transfers
+and credit transfer recaptures under section 6418. Columns (n)
+(1) through (3) pertain to excessive payments under section
+6417. Columns (o)(1) through (3) pertain to penalty amounts for
+failure to satisfy the prevailing wage requirements. Columns (p)
+(1) through (3) pertain to the penalty amounts for failure to satisfy
+the apprenticeship requirements.
+Prevailing wage and apprenticeship (PWA) requirements.
+Form 4255 may be used to report penalty amounts for failure to
+satisfy the PWA requirements for an increased credit or
+deduction claimed in the current year.
+Form 4255 may also be used to report PWA recapture under
+sections 48 and 48E for failure to satisfy the prevailing wage
+requirements with respect to alteration or repair during the 5-year
+period beginning on the date the project is placed in service. See
+Regulations sections 1.48E-3(e) and 1.48-13(c)(4).
+Emissions tier recapture for specified clean hydrogen production facility. Use Form 4255, Part III, to figure the emissions
+tier recapture amount. See Description of Emissions Tier
+Recapture, later.
+
+Reminders
+Notification of recapture. If you have made a transfer election
+under section 6418, you must notify the transferee taxpayer of a
+recapture event. See Notifying transferee taxpayer of recapture
+event, later.
+Line 1j, column (h). The instructions include text regarding
+emissions tier recapture and low-income communities bonus
+credit recapture. See Line 1j, column (h), later.
+Part I. Part I instructions include text regarding the reporting of
+investment credit recapture related to an elective payment
+election (EPE) (both gross EPE amounts and net EPE amounts)
+and a transfer election, an excessive credit transfer, section
+6418(g)(3) notification requirements, and excessive payment
+(EP) and penalty amounts for failure to satisfy the PWA
+requirements. See Part I. Summary, later.
+Partnerships and S corporations. Certain amounts from
+Form 4255 should be reported directly on the partnership or S
+corporation return. See Partnerships and S corporations, later.
+
+Dec 17, 2025
+
+Use Form 4255 to figure the increase in the amount due for
+certain credit recaptures, excessive payments, excessive credit
+transfers, and penalty amounts for failure to satisfy the PWA
+requirements.
+
+Investment Credit Recapture Requirements and
+Special Rules
+
+Generally, you must refigure the investment credit and may have
+to recapture all or part of it if any of the following apply. However,
+when a transfer election under section 6418 has been made, see
+Notifying transferee taxpayer of recapture event, at the end of
+this section.
+• You disposed of investment credit property before the end of 5
+full years after the property was placed in service (the recapture
+period).
+• You changed the use of the property before the end of the
+recapture period so that it no longer qualifies as investment
+credit property.
+• The business use of the property decreased before the end of
+the recapture period so that it no longer qualifies (in whole or in
+part) as investment credit property.
+• Any building to which section 47(d) applies will no longer be a
+qualified rehabilitated building when placed in service.
+• Any property to which progress expenditures under section
+48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), 48D(b)(5), or 48E applies
+will no longer qualify as investment credit property when placed
+in service.
+• A qualified facility for which you claimed a section 48E credit
+that has a greenhouse gas emissions rate (as determined under
+Regulations section 1.45Y-5) of greater than 10 grams of CO2e
+per kWh during the five-year period beginning on the date such
+qualified facility is originally placed in service (five-year recapture
+period). See Regulations section 1.48E-4(f), for more
+information.
+• Before the end of the recapture period, your proportionate
+interest was reduced by more than one-third in a partnership, S
+corporation, estate, or trust that allocated the cost or other basis
+of property to you for which you claimed a credit.
+• You returned leased property (on which you claimed a credit)
+to the lessor before the end of the recapture period.
+• In the case of a project under the Phase II or Phase III
+gasification program, failure at any time during the applicable
+recovery period (as defined in section 168(c)) to attain and
+maintain the separation and sequestration requirements in
+section 48B(d)(1)(B). For more information, see Notice 2009-23,
+2009-16 I.R.B. 802, available at IRS.gov/irb/
+2009-16_IRB#NOT-2009-23, as modified by Notice 2011-24,
+2011-14 I.R.B. 603, available at IRS.gov/irb/
+2011-14_IRB#NOT-2011-24; and amplified by Notice 2014-81,
+2014-53 I.R.B. 1001, available at IRS.gov/irb/
+2014-53_IRB#NOT-2014-81.
+• In the case of a project under the Phase II or Phase III
+qualifying advanced coal project program, failure during the
+applicable recovery period (as defined in section 168(c)) to
+attain and maintain the separation and sequestration
+requirements in section 48A(e)(1)(G). For more information, see
+
+Instructions for Form 4255 (Rev. 12-2025) Catalog Number 68759M
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+Notice 2009-24, 2009-16 I.R.B. 817, available at IRS.gov/irb/
+2009-16_IRB#NOT-2009-24, as modified by Notice 2011-24,
+and amplified by Notice 2012-51, 2012-33 I.R.B. 150, available
+at IRS.gov/irb/2012-33_IRB#NOT-2012-51; and Notice 2015-14,
+2015-10 I.R.B. 722, available at IRS.gov/irb/
+2015-10_IRB#NOT-2015-14; and Notice 2020-88, 2020-53
+I.R.B. 1795, available at IRS.gov/irb/
+2020-53_IRB#NOT-2020-88.
+• You engaged in an applicable transaction (involving the
+material expansion of semiconductor manufacturing capacity),
+as defined in section 50(a)(6)(D).
+• Any qualified solar or wind facility property that ceases to be
+property eligible for the low-income communities bonus credit
+under section 48(e). See Regulations section 1.48(e)-1(n) for
+more information.
+• A net increase in the amount of nonqualified nonrecourse
+financing occurred for any property to which section 49(a)(1)
+applied. For more details, see Section C—Recapture From
+Increase in Nonqualified Nonrecourse Financing, later.
+• Any property, project, facility, or technology under sections 48
+or 48E that you claimed the increased credit amount for
+satisfying the PWA requirements and you fail to satisfy the
+prevailing wage requirements with respect to alteration or repair
+during the 5-year period beginning on the date the property,
+project, facility, or technology is placed in service. See
+Regulations sections 1.48E-3(e) and 1.48-13(c)(4).
+• You must refigure the investment credit if an emissions tier
+recapture event occurred during the tax year. For more
+information, see Description of Emissions Tier Recapture, later.
+Notifying transferee taxpayer of recapture event. When a
+transfer election under section 6418 has been made, the rules
+require the transferee taxpayer, which is the taxpayer to which
+the credit was transferred, to be notified by the eligible taxpayer
+of a recapture event. The transferee taxpayer then must
+calculate and is subject to recapture on the recapture amount
+attributable to the transferred credit. The transferee taxpayer
+must also notify the eligible taxpayer of the recapture amount so
+that the eligible taxpayer can make any appropriate basis
+adjustments, as provided under section 50(c). If the eligible
+taxpayer didn’t transfer all of the credit, then the eligible taxpayer
+is subject to recapture on the retained portion of the credit. See
+section 6418(g)(3) and Regulations section 1.6418-5(d). There
+are also special rules for partnerships and S corporations in the
+case of indirect dispositions (for example, the disposition of a
+partnership interest by a partner as illustrated in Example 5)
+where the recapture that results doesn’t require notice or the
+transferee taxpayer to calculate a recapture amount. See
+Regulations section 1.6418-3(a)(6) for further information.
+Exceptions to recapture. Recapture of the investment credit
+doesn’t apply to the following.
+• A transfer because of the death of the taxpayer.
+• A transfer between spouses or incident to divorce under
+section 1041. However, a later disposition by the transferee is
+subject to recapture to the same extent as if the transferor had
+disposed of the property at the later date.
+• A transaction to which section 381(a) applies (relating to
+certain acquisitions of the assets of one corporation by another
+corporation).
+• A mere change in the form of conducting a trade or business
+if:
+1. The property is retained as investment credit property in
+that trade or business, and
+2. The taxpayer retains a substantial interest in that trade or
+business.
+A mere change in the form of conducting a trade or business
+includes a corporation that elects to be an S corporation and a
+corporation whose S election is revoked or terminated.
+2
+
+For more details on the recapture rules, see section 50(a).
+
+Carryover Adjustment on Recapture
+
+For property subject to investment credit recapture, reduce any
+remaining carryforwards and carrybacks from the property by the
+recapture percentage used for the property on Part II, line 15.
+
+Basis Adjustment on Recapture
+
+For property subject to investment credit recapture, increase the
+property’s basis as follows.
+• For rehabilitation credit property, qualifying advanced coal
+project property, qualifying gasification project property,
+qualifying advanced energy project property, or advanced
+manufacturing investment property, increase the basis by 100%
+of the amount, attributable to each such property, of the
+recapture tax, adjustments to carrybacks and carryforwards
+under section 39, or adjustments to disallowed passive activity
+credits.
+• For energy property or clean electricity investment property,
+increase the basis by 50% of the amount, attributable to each
+such property, of the recapture tax, adjustments to carrybacks
+and carryforwards under section 39, or adjustments to
+disallowed passive activity credits.
+If you are a partner or S corporation shareholder, adjust the
+basis of your interest in the partnership or stock in the S
+corporation to take into account the adjustment made to the
+basis of property held by the partnership or S corporation.
+For more information, see section 50(c) and Regulations
+section 1.469-3(f).
+
+Partnerships, S Corporations, Estates, and
+Trusts
+
+A partnership, S corporation, estate, or trust that allocated any or
+all of a qualified investment to its partners, shareholders, or
+beneficiaries must provide the information they need to refigure
+the credit. See Regulations sections 1.46-3(f), 1.47-4(a) and (c),
+1.47-5, and 1.47-6.
+
+Partners, Shareholders, and Beneficiaries
+
+If you are a partner, shareholder, or beneficiary and your
+Schedule K-1 shows recapture of investment credit claimed in an
+earlier year, you will need your copy of the original Form 3468,
+Investment Credit, to complete this form.
+
+Excessive Payment
+
+In the case of any elective payment amount that the IRS
+determines constitutes an excessive payment, the tax imposed
+on such entity, partnership, or S corporation, by chapter 1,
+regardless of whether such entity would otherwise be subject to
+chapter 1 tax, for the tax year in which such determination is
+made will be increased by an amount equal to the sum of the
+amount of such excessive payment (EP) plus an amount equal to
+20% of such EP (20% EP), if no reasonable cause. See
+Regulations sections 1.48D-6(f) and 1.6417-6(a) for details.
+
+Excessive Credit Transfer
+
+In the case of any portion of an eligible credit transferred to a
+transferee taxpayer that the IRS determines constitutes an
+excessive credit transfer, the tax imposed on the transferee
+taxpayer by chapter 1, regardless of whether such entity would
+otherwise be subject to chapter 1 tax, for the tax year in which
+such determination is made will be increased by an amount
+equal to the sum of the amount of such excessive credit transfer
+plus an amount equal to 20% of such excessive credit transfer, if
+no reasonable cause. See Regulations section 1.6418-5(a) for
+details.
+Instructions for Form 4255 (Rev. 12-2025)
+
+Penalty Payments for Failure To Satisfy the
+Prevailing Wage and Apprenticeship
+Requirements
+
+The prevailing wage and apprenticeship requirements generally
+apply to all construction, alteration, or repair work, including work
+by contractors and subcontractors. There are certain exceptions
+to these requirements. You are solely responsible for ensuring
+that these requirements are met for construction, alteration, or
+repair work. For more information, see Prevailing wage and
+apprenticeship requirements and Frequently asked questions
+about the prevailing wage and apprenticeship under the Inflation
+Reduction Act on IRS.gov.
+
+Prevailing Wage Requirements
+
+If you fail to meet the prevailing wage requirements, you will still
+be eligible for the increased amount of the particular tax
+incentive by making certain correction and penalty payments.
+The penalty payments are reported in Part I, columns (o)(1), (o)
+(2), and (o)(3).
+Under the prevailing wage requirements, you must ensure
+that all laborers and mechanics employed by you (or any
+contractor or subcontractor) are paid wages at rates not less
+than the applicable prevailing wage rate for work performed with
+respect to a qualified facility, property, project, technology,
+residence, or equipment (as applicable) for the particular tax
+incentive. See Form 7220, Prevailing Wage and Apprenticeship
+(PWA) Verification and Corrections, and its Instructions, for
+details.
+
+Apprenticeship Requirements
+
+If you fail to meet the labor hours requirement, and/or you (or any
+contractor or subcontractor) fail to meet the participation
+requirement, you will still be eligible for the increased amount of
+the particular tax incentive by making certain penalty payments.
+The penalty payments are reported in Part I, columns (p)(1), (p)
+(2), and (p)(3).
+The apprenticeship requirements consist of the labor hours
+requirement, ratio requirement, and participation requirement.
+The apprenticeship requirements only apply during construction
+of the qualified facility, property, project, technology, residence,
+or equipment (as applicable) for the particular tax incentive. See
+Form 7220 and its Instructions for details.
+
+Description of Emissions Tier Recapture
+
+The Inflation Reduction Act of 2022 (IRA 2022) added new
+section 45V to the Code to allow taxpayers a credit for the
+production of qualified clean hydrogen. IRA 2022 also amended
+section 48 to allow taxpayers to make an irrevocable election
+under section 48(a)(15) to claim an energy credit under section
+48 for the taxpayer’s basis in any qualified property that is part of
+a specified clean hydrogen production facility placed in service
+after 2022.
+
+Regulations section 1.48-15(f)(2) specifies that an emissions
+tier recapture event occurs when:
+• The taxpayer fails to obtain an annual verification report by the
+deadline for filing its federal income tax return (including
+extensions) for any tax year in which an annual verification report
+is required under Regulations section 1.48-15(e)(1);
+• The specified clean hydrogen production facility actually
+produced hydrogen through a process (or processes) that
+results in a lifecycle greenhouse gas (GHG) emissions rate that
+can only support a lower energy percentage than the energy
+percentage used to calculate the amount of the section 48 credit
+for such facility for the year in which the facility is placed in
+service; or
+• The specified clean hydrogen production facility actually
+produced hydrogen through a process (or processes) that
+Instructions for Form 4255 (Rev. 12-2025)
+
+results in a lifecycle GHG emissions rate of greater than 4
+kilograms of CO2e per kilogram of hydrogen.
+The emissions tier recapture amount is calculated by
+increasing the tax under chapter 1 of the Code for the tax year in
+which there is an emissions tier recapture event by an amount
+equal to 20% of the excess of the section 48 credit allowed to the
+taxpayer for the specified clean hydrogen production facility for
+the tax year in which the facility was placed in service over the
+section 48 credit amount that would have been allowed had the
+taxpayer used the energy percentage supported by the actual
+production to calculate the amount of the section 48 credit. Thus,
+up to 20% of the section 48 credit amount is potentially subject
+to recapture in each tax year of the emissions tier recapture
+period. Complete Form 4255, Part III, to figure the emissions tier
+recapture amount.
+
+Specific Instructions
+Part I. Summary
+
+Complete Parts II and III as applicable before completing Part I.
+Note: Part references are applicable for the 2024 general
+business credit (GBC) tax form on which the credit or deduction
+was determined.
+Lines 1 and 2. Enter credit or deduction information from
+form(s) listed on each credit line and Form 3800, General
+Business Credit, Part III (Parts V and VI, if applicable).
+Line 1g, column (h). Include in column (h) the recapture
+amount of the increased credit for failing to meet the prevailing
+wage requirements with respect to alterations or repairs during
+the five-year recapture period. See Regulations section
+1.48-13(c)(4) for more information. See Worksheet 3 to calculate
+the recapture amount.
+Line 1j, column (h). Include in column (h) the recapture
+amount from an emissions tier recapture event with respect to a
+specified clean hydrogen production facility. Complete Form
+4255, Part III, to figure the emissions tier recapture amount.
+Include in column (h) the recapture amount of low-income
+communities bonus credit for energy credit under section 48 that
+was originally calculated on Form 3468, Part VI, lines 3j, 11m,
+17j, and/or 23j.
+Include in column (h) the recapture amount of the increased
+credit for failing to meet the prevailing wage requirements with
+respect to alterations or repairs during the five-year recapture
+period. See Regulations section 1.48-13(c)(4) for more
+information. See Worksheet 3 to calculate the recapture amount.
+Line 3, column (q). Generally, enter the amount from Part I,
+line 3, column (q) (which is the amount that can be reduced by
+nonrefundable credits), on the appropriate line of your tax return.
+For example, if completing Form 1120, U.S. Corporation Income
+Tax Return, enter the amount from Part I, line 3, column (q), on
+Form 1120, Schedule J, line 1g.
+If you’re filing Form 1065 or Form 1120-S, see Partnerships
+and S corporations, later.
+Line 3, column (r). Enter the amount from Part I, line 3, column
+(r) (which is the amount that can’t be reduced by refundable
+credits), on the appropriate line of your tax return. For example, if
+completing Form 1120, enter the amount from Part I, line 3,
+column (r), on Form 1120, Schedule J, line 9a.
+If you’re filing Form 1065 or Form 1120-S, see Partnerships
+and S corporations, later.
+Partnerships and S corporations. Generally, partnerships
+and S corporations that allocated all or any of a qualified
+investment to partners or shareholders must provide to the
+3
+
+partners and shareholders the information they need to refigure
+their credit. However, certain amounts from Form 4255 get
+reported directly on the partnership or S corporation return.
+• Line 3, columns (m)(1) and (m)(2).
+• Line 3, columns (n)(1), (n)(2), and (n)(3).
+• Line 3, columns (o)(1), (o)(2), (o)(3), (p)(1), (p)(2), and (p)(3).
+If you’re filing Form 1065, report these amounts on Form
+1065, line 27, Other taxes.
+If you’re filing Form 1120-S, report these amounts on Form
+1120-S, line 23c, along with any other amounts included in the
+total for line 23c.
+
+Amounts From Prior Year(s) Returns
+Note: The PWA penalty payment may be reported for a credit or
+deduction claimed in the current tax year.
+Column (a). Enter credit or deduction claimed in prior year(s)
+(as adjusted, if applicable). See the Instructions for Form 3800.
+Column (b). Enter the gross elective payment election (EPE)
+amount included in column (a).
+Column (c). Enter gross EPE amount in column (b) applied
+against regular tax.
+Column (d). Subtract column (c) from column (b) for net EPE
+amount.
+Column (e). Enter non-EPE credit that was applied against
+regular tax.
+
+Column (o)(1). Enter penalty amounts for failure to satisfy the
+prevailing wage requirements related to a net EPE amount from
+Form 7220, Part IV, column (f).
+Column (o)(2). Enter penalty amounts for failure to satisfy the
+prevailing wage requirements related to a non-net EPE amount
+from Form 7220, Part IV, column (f).
+Column (o)(3). Enter penalty amounts for failure to satisfy the
+prevailing wage requirements not related to an EPE amount from
+Form 7220, Part IV, column (f).
+Column (p)(1). Enter penalty amounts for failure to satisfy the
+apprenticeship requirements related to a net EPE amount from
+Form 7220, Part III, column (i).
+Column (p)(2). Enter penalty amounts for failure to satisfy the
+apprenticeship requirements related to a non-net EPE amount
+from Form 7220, Part III, column (i).
+Column (p)(3). Enter penalty amounts for failure to satisfy the
+apprenticeship requirements not related to an EPE amount from
+Form 7220, Part III, column (i).
+Penalty ratio. The PWA penalties reported in columns (o)(1) (o)(3) and (p)(1) - (p)(3) must be apportioned based on the ratio
+of EPE, non-net EPE, and non-EPE amounts. If you do not have
+an EPE enter the full penalty amounts in columns (o)(3) and/or
+(p)(3). If you do have EPE amounts that must be apportioned,
+use the ratio equations below.
+
+Column (f). Subtract the sum of columns (b) and (e) from
+column (a) for the carryover amount.
+
+Net EPE ratio
+
+=
+
+Non-net EPE ratio
+
+=
+
+Non-EPE ratio
+
+=
+
+Part I, column (d)
+Part I, column (a)
+
+Recapture
+Column (g). Enter recapture percentage. See Line 15, later.
+Enter “N/A” if more than one recapture event on one line.
+
+Part I, column (c)
+Part I, column (a)
+
+Column (h). Enter amount of column (a) recaptured, including
+reduction of carryover. See Basis Adjustment on Recapture,
+earlier, and Worksheet 3, later.
+Column (i). Enter portion of column (h) reducing credit
+carryover in column (f).
+
+Part I, column (e)
+Part I, column (a)
+
+Column (j). Enter portion of column (h) recapturing non-EPE
+credit applied against regular tax in column (e).
+Column (k). Enter portion of column (h) recapturing gross EPE
+amount applied against regular tax from column (c).
+Column (l). Enter portion of column (h) recapturing net EPE
+amount from column (d).
+
+Example. A taxpayer has the following amounts on Form 4255,
+Part I.
+(a)
+Credit or
+deduction
+claimed in
+prior
+year(s) (as
+adjusted, if
+applicable)
+
+Excessive Payments (EPs), Excessive Credit
+Transfers, and Penalties (Including PWA Penalty
+Amounts)
+Column (m)(1). Enter section 6418(g)(2)(A)(i) excessive credit
+transfer.
+Column (m)(2). Enter section 6418(g)(2)(A)(ii) 20% of
+excessive credit transfer.
+Column (m)(3). Enter section 6418(g)(3) credit transfer
+recapture.
+See Regulations sections 1.6418-3 and 5 for more details.
+Column (n)(1). If you owe an EP related to a gross EPE in
+column (b), enter the EP portion related to a net EPE amount
+from column (d).
+Column (n)(2). If you owe an EP, enter the portion of the EP not
+in column (n)(1) (excluding any 20% EP).
+
+1c
+Form 7210
+
+$1,000
+
+(b)
+(c)
+(d)
+(e)
+Gross
+Gross EPE
+Net EPE
+Non-EPE
+elective
+amount in
+amount.
+credit
+payment column (b)
+Subtract
+(excess of
+election
+applied
+column (c) column (a)
+(EPE)
+against
+from
+over
+amount
+regular tax column (b) column (b))
+portion of
+(section
+that was
+column (a) 38(c) limit)
+applied
+against
+regular tax
+$1,000
+
+$300
+
+$700
+
+$0
+
+The taxpayer has a $5,000 penalty amount for failure to satisfy
+the prevailing wage requirements from Form 7220, Part IV,
+column (f) that must be apportioned. Using the ratios above,
+$3,500 (70% of $5,000) is entered in column (o)(1) and $1,500
+(30% of $5,000) in column (o)(2).
+
+Column (n)(3). If you owe an EP, enter any 20% EP you owe.
+4
+
+Instructions for Form 4255 (Rev. 12-2025)
+
+Note: See Regulations section 1.45-7(c)(1) for prevailing wage
+correction and penalty payment, and Regulations section
+1.45-8(f)(2) for apprenticeship cure provision.
+
+Totals by Type
+Caution: If you’re filing Form 1065 or Form 1120-S, certain
+amounts from column (q) and column (r) get reported directly on
+the partnership or S corporation return. Don’t report these same
+amounts using the Schedule K-1 of Form 1065 or Form 1120-S.
+See Partnerships and S corporations, earlier.
+Column (q). Enter amount that can be reduced by
+nonrefundable credits. Add amounts on:
+• Lines 1a through 2z in columns (n)(1), (n)(2), and (n)(3);
+• Lines 2a through 2z in columns (j), (k), and (l); and
+• Lines 1a through 2z in columns (m)(1) and (m)(2).
+Column (r). Enter amount that can’t be reduced by
+nonrefundable credits. Add amounts on:
+• Lines 1a through 2z in columns (o)(1), (o)(2), (o)(3), (p)(1), (p)
+(2), and (p)(3);
+• Lines 1a through 1z in columns (j), (k), and (l); and
+• Lines 1b, 1g, and 1j in column (m)(3).
+Column (s). Enter net EPE repaid. Add columns (l) and (n)(1).
+Column (t). Enter 20% EP in column (n)(3) plus penalty
+amounts for failure to satisfy the PWA requirements related to
+the net and non-net EPE amounts from columns (o)(1), (o)(2),
+(p)(1), and (p)(2). Add columns (n)(3), (o)(1), (o)(2), (p)(1), and
+(p)(2).
+
+Part II. Recapture Calculation
+Section A—Properties
+Lines A through D. Use lines A through D to describe the
+property(ies) for which you must refigure the credit. If you need
+to list additional properties, complete and attach additional
+Forms 4255 to list all the properties for which you must refigure
+the credit.
+
+Section B—Original Credit
+
+Use Section B to refigure the original credit.
+Line 1. Enter the rate you used to figure the original credit from
+the Form 3468 that you filed. For combined heat and power
+system property, enter the effective rate used to figure the
+original credit, taking into account the limit under section 48(c)(3)
+(B).
+Line 2. Enter the credit base (cost or other basis) that you used
+to figure the original credit.
+If section 49(a)(1) applied to the property and there was a net
+increase in nonqualified nonrecourse financing with respect to
+the property in previous tax years, enter the credit base you used
+to figure the original credit, reduced by the amount of that net
+increase. If there was a net decrease in nonqualified
+nonrecourse financing with respect to the property in previous
+tax years, enter the credit base you used to figure the original
+credit, increased by the amount of that net decrease. For more
+details, see the instructions for Section C.
+Line 3. If section 49(a)(1) didn’t apply to the property, enter -0-.
+If section 49(a)(1) applied to the property, enter the net change
+in nonqualified nonrecourse financing related to the property
+during the tax year. Enter a net increase in nonqualified
+nonrecourse financing as a positive number. Enter a net
+decrease in nonqualified nonrecourse financing as a negative
+number. For more information about section 49, see the
+instructions for Section C.
+Line 4. Subtract line 3 from line 2.
+Instructions for Form 4255 (Rev. 12-2025)
+
+Tip: If line 3 is negative, then the entry on line 4 will be larger
+than the entry on line 2.
+Line 5. Multiply line 1 by line 4. If the credit for the property for
+which you must refigure the credit was limited to a dollar amount
+(for example, by the kilowatt limit in section 48(c)(1)(B)), don’t
+enter more than the amount of the applicable limit on line 5.
+Line 6. Enter the total of all credits taken for the property on
+Form 3800, General Business Credit, in prior years. But don’t
+include the amount of any credit previously recaptured due to an
+increase in nonqualified nonrecourse financing.
+
+Section C—Recapture From Increase in
+Nonqualified Nonrecourse Financing
+
+Use Section C to figure any increase in tax for the recapture of
+an investment tax credit under section 49.
+Generally, section 49(a)(1) applies to property:
+
+• Placed in service by individuals or certain closely held
+
+corporations during a tax year in which they were engaged in
+activities described in section 465(c), and
+• Used in connection with an activity subject to the at-risk loss
+limitation under section 465.
+The credit base of this property for investment credit
+purposes may be limited if you borrowed against the property
+and are protected against loss, or if you borrowed money from a
+person who is related or who has an interest (other than as a
+creditor) in the business activity. The credit base must be
+reduced by the amount of any nonqualified nonrecourse
+financing related to the property at the end of the tax year.
+If, at the close of a tax year following the year property
+described in section 49(a)(1) was placed in service, the
+nonqualified nonrecourse financing for the property has
+increased or decreased, then the credit base for the property
+changes accordingly. The changes may result in an increased
+credit or a recapture of the credit in the year of the change. See
+sections 49 and 465 for details.
+Line 8. If the original credit had been figured using the
+current-year tax base in the year the property was first placed in
+service, you may have been able to use other general business
+credits instead. Use Worksheet 1 to calculate the amount of
+unused general business credits that would have been allowed
+under section 38.
+Tip: When completing Worksheet 1, include any general
+business credits that could have been carried forward or carried
+back to a year affected by the recapture of the original credit.
+Don’t include any credits that were previously recaptured. If you
+previously used the credit to offset the recapture of a credit on
+another property, treat it as a credit allowed in a previous tax
+year.
+Multiple recapture properties. If you are recapturing
+investment credits from multiple properties in Section C,
+complete Form 4255, Part II, Section C, line 7, for each property
+before using Worksheet 1. Then fill out Worksheet 1, reapplying
+any allowable investment credits as if no credit had been allowed
+for any of the properties in excess of the refigured credit for that
+property on line 5. As you complete the worksheet, separately
+identify the amount of unused general business credits that
+could have been used instead of the excess credit from each
+property. If an unused general business credit could have been
+used instead of the excess credit from more than one property
+(for example, the amount figured in Step 1 or Step 3 for a single
+year is attributable to more than one property), apply the unused
+credit to the property with the highest original credit rate on
+line 1. When completing Step 7, add the amounts from Steps 3
+and 6 separately by property and enter the results in the
+corresponding property column of line 8.
+5
+
+Worksheet 1
+Use Worksheet 1 to calculate the amount of unused general business credits that would have been allowed instead of the credit from
+the recapture property. If you need to account for more than 5 years, complete Steps 4 through 6 for those years on additional copies
+of the worksheet. Include the total for all years on Step 7.
+
+Steps
+
+First
+Year
+______
+
+Year
+______
+
+Year
+______
+
+Year
+______
+
+Year
+______
+
+Step 1. Identify the first year that the aggregate amount of credit
+allowed for the property was more than the amount on line 5.
+Enter the excess as a positive number . . . . . . . . . . . . . . . . . .
+______
+Step 2. Figure the amount of other general business credits that
+could have been used in that year had the amount in Step 1 not
+been allowed. Enter the result as a positive number . . . . . . . .
+______
+Step 3. Subtract any general business credits that were actually
+allowed in any previous tax year from the result of Step 2 . . . . .
+______
+Step 4. For the following year, figure the reduction in general business
+credits that would have been allowed for that year if:
+1. No amount on line 7 had been allowed as a credit, and
+2. Any other credits were used as calculated in Step 2 above . . . . . . . . . .
+______ ______ ______ ______
+Step 5. Figure the amount of other general business credits that would have
+been allowed to offset the reduction figured in Step 4 . . . . . . . . . . . . . . .
+______ ______ ______ ______
+Step 6. Subtract any general business credits that were actually allowed in
+any previous tax year from the result of Step 5 . . . . . . . . . . . . . . . . . . . .
+______ ______ ______ ______
+Step 7. Repeat Steps 4 through 6 above for each of the following tax years. Then add the amount from Step 3 to the
+amount from each iteration of Step 6. Enter the result on line 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Caution: In calculating the amount reported on line 8, the
+tentative minimum tax (TMT) limitation in section 38(c)(1)(A)
+applies to all GBCs except to the specified credits listed in
+section 38(c)(4)(B) and to any eligible small business credits
+from 2010 (ESBCs) under former section 38(c)(5). For specified
+credits and ESBCs, TMT in section 38(c)(1)(A) is deemed $0.
+
+Section D—Recapture From Disposition of
+Property, Cessation of Use as Qualified Credit
+Property, or Certain Expansions in Connection
+With Advanced Manufacturing Facilities
+Use Section D to figure any increase in tax for the recapture of
+an investment tax credit under section 50.
+
+Line 10. Enter the date (MM/DD/YYYY) on which the property
+was placed in service, using the first day of the month in which
+the property was placed in service. For example, if the property
+was placed in service on February 20, 2023, enter 02/01/2023
+on line 10. See Regulations section 1.47-1(c) for more
+information.
+Line 11. Generally, this will be the date you disposed of the
+property. For more details, see Regulations section 1.47-1(c).
+For recapture of the advanced manufacturing credit under
+section 48D, enter the date of the applicable transaction. See
+section 50(a)(3) and (6) and Regulations section 1.50-2.
+Line 12. Don’t enter partial years. If the property was held less
+than 12 months, enter -0-. In case of failure to attain or maintain
+the separation and sequestration requirements applicable to a
+Phase II or III gasification program or a Phase II or III advanced
+coal program, enter -0-. In case of an applicable transaction by
+an applicable taxpayer before the close of the 10-year period
+beginning on the date such taxpayer placed in service
+investment credit property that is eligible for the advanced
+manufacturing investment credit, enter -0-.
+Line 13. If you had never taken the recaptured credit, you may
+have been able to use other general business credits instead.
+6
+
+Total
+
+______
+
+______
+______
+
+Use Worksheet 2 to calculate the amount of unused general
+business credits that would have been allowed under section 38.
+Tip: When completing Worksheet 2, include any general
+business credits that could have been carried forward or carried
+back to a year affected by the recapture of the original credit.
+Don’t include any credits that were previously recaptured. If you
+previously used the credit to offset the recapture of a credit on
+another property, treat it as a credit allowed in a previous tax
+year.
+Multiple recapture properties. If you are recapturing
+investment credits from multiple properties in Section D,
+complete Form 4255, Part II, Section B, line 6, for each property
+before using Worksheet 2. Then fill out Worksheet 2, reapplying
+any allowable investment credits as if no credit had been allowed
+for any of the properties. As you complete the worksheet,
+separately identify the amount of unused general business
+credits that could have been used instead of the recaptured
+credit from each property. If an unused general business credit
+could have been used instead of a recaptured credit from more
+than one property (for example, the amount figured in Step 1 or
+Step 3 for a single year is attributable to more than one
+property), apply the unused credit first to the property with the
+highest recapture percentage on line 15. When completing Step
+7, add the amounts from Steps 3 and 6 separately by property
+and enter the results in the corresponding property column of
+line 13.
+Caution: In calculating the amount reported on line 13, the
+tentative minimum tax (TMT) limitation in section 38(c)(1)(A)
+applies to all GBCs except to the specified credits listed in
+section 38(c)(4)(B) and to any eligible small business credits
+from 2010 (ESBCs) under former section 38(c)(5). For specified
+credits and ESBCs, TMT in section 38(c)(1)(A) is deemed $0.
+Line 14. Subtract line 13 from line 6 to calculate the aggregate
+decrease in general business credits that would have been
+allowed under section 38 had there been no credit from this
+property.
+Instructions for Form 4255 (Rev. 12-2025)
+
+Worksheet 2
+Use Worksheet 2 to calculate the amount of unused general business credits that would have been allowed under section 38 had
+there been no credit from the recapture property. If you need to account for more than 5 years, complete Steps 4 through 6 for those
+years on additional copies of the worksheet. Include the total for all years on Step 7.
+First
+Year
+______
+
+Steps
+
+Year
+______
+
+Year
+______
+
+Year
+______
+
+Year
+______
+
+Step 1. Identify the first year that an amount from line 6 was
+allowed as a credit. Enter that amount as a positive number . . .
+______
+Step 2. Figure the amount of other general business credits that
+could have been used in that year had the amount in Step 1 not
+been allowed. Enter the result as a positive number . . . . . . . .
+______
+Step 3. Subtract any general business credits that were actually
+allowed in any previous tax year from the result of Step 2 . . . . .
+______
+Step 4. For the following year, figure the reduction in general business
+credits that would have been allowed for that year if:
+1. No amount on line 6 had been allowed as a credit, and
+2. Any other credits were used as calculated in Step 2 above . . . . . . . . . .
+______ ______ ______ ______
+Step 5. Figure the amount of other general business credits that would have
+been allowed to offset the reduction figured in Step 4 . . . . . . . . . . . . . . .
+______ ______ ______ ______
+Step 6. Subtract any general business credits that were actually allowed in
+any previous tax year from the result of Step 5 . . . . . . . . . . . . . . . . . . . .
+______ ______ ______ ______
+Step 7. Repeat Steps 4 through 6 above for each of the following tax years. Then add the amount from Step 3 to the
+amount from each iteration of Step 6. Enter the result on line 13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Line 15. Enter the recapture percentage from the following
+table. Enter 100 for certain expansions in connection with
+advanced manufacturing facilities. See section 50(a)(3)(A).
+IF the number of full years on
+line 12 of Form 4255 is . . .
+
+THEN the recapture percentage
+is . . .
+
+0
+1
+2
+3
+4
+5 or more
+
+100
+80
+60
+40
+20
+0
+
+Line 16. Multiply the amount on line 14 by the percentage on
+line 15 to calculate the recapture tax due to disposition or
+cessation of use as an investment credit property or an
+applicable transaction.
+Line 17. If applicable, enter the IRS-issued registration number
+for your facility with an EPE or credit transfer election.
+
+Part III. Emissions Tier Recapture for Property
+That Is Part of a Specified Clean Hydrogen
+Production Facility
+
+Use Part III to calculate the emissions tier recapture amount. See
+Description of Emissions Tier Recapture, earlier. Enter the total
+increase in tax resulting from emissions tier recapture in Part I,
+line 1j, column (h). See Line 1j, column (h), earlier.
+
+Examples
+Example 1. Investment credit recapture. In January of
+2023, you claimed an energy credit of $100,000 on property A.
+You used $20,000 of the credit to offset tax in 2023 and used
+$16,000 as a carryforward to offset tax in 2024. You had $64,000
+remaining carryforward for property A at the end of 2024. You
+have no other tax credits for other properties for any other years.
+Instructions for Form 4255 (Rev. 12-2025)
+
+Total
+
+______
+
+______
+______
+
+You disposed of the property in June of 2025. Your recapture
+percentage is 60%. Because you have no other credits for
+properties for other years, you enter -0- on line 13. You enter
+$36,000 on line 6 (the credit from property A used in 2023 and
+2024). Your total increase in tax for 2025 is $21,600 (60% of
+$36,000). Your remaining credit carryforward for property A is
+also reduced by the recapture percentage of 60%. Your
+remaining carryforward is $25,600 (40% of $64,000). You
+increase your basis for property A by $60,000 ($21,600 +
+$38,400).
+Example 2. Investment credit recapture. The facts are the
+same as in Example 1, except that you also claimed an energy
+credit on property B in 2023 of $12,000, which you didn’t use to
+offset your tax. As before, you disposed of property A in June of
+2025. You enter $36,000 on line 6 (the credit from property A
+used in 2023 and 2024). However, you could have used your
+$12,000 of unused credit from property B for 2023 against your
+2023 tax had no credit been available from property A.
+Therefore, you enter $12,000 on line 13 and $24,000 ($36,000 $12,000) on line 14. Your total increase in tax for 2025 is $14,400
+(60% of $24,000). Your remaining credit carryforward for
+property A is also reduced by the recapture percentage of 60%.
+Your remaining carryforward is $25,600 (40% of $64,000). You
+increase your basis for property A by $52,800 ($14,400 +
+$38,400).
+Example 3. Investment credit recapture. In January of
+2023, you claimed an energy credit of $100,000 from property A.
+You used all of the credit to offset $100,000 of tax in 2023. In
+2024, you claimed an energy credit of $75,000 from property B
+and used none of the credit to offset tax. In June of 2025,
+property A ceased to be investment credit property and you must
+refigure the credit from property A. Your recapture percentage is
+60%. You enter $100,000 on line 6. However, you could have
+carried the energy credit of $75,000 from property B back to
+2023 had no credit been available from property A. Therefore,
+you enter $75,000 on line 13 and $25,000 ($100,000 - $75,000)
+on line 14. Your total increase in tax for 2025 is $15,000 (60% of
+$25,000). You increase your basis in property A by $15,000.
+7
+
+Example 4. Investment credit recapture. In July of 2023,
+you claimed an energy credit of $100,000 from property A. You
+used $1,000 of the credit to offset tax in 2023 and used $99,000
+as a carryforward to offset tax in 2024. In 2025, you claimed an
+energy credit of $75,000 from property B and used none of the
+credit to offset tax.
+On February 1, 2025, property A ceased to be investment
+credit property and you must refigure the credit from property A.
+Your recapture percentage is 80%. You enter $100,000 on line 6.
+No carryback or carryforward credits are available for 2023 to
+offset the $1,000 credit used for property A. However, you could
+have carried the energy credit of $75,000 from property B back
+to 2024 had no credit been available from property A that year.
+Therefore, you enter $75,000 on line 13 and $25,000 ($100,000 $75,000) on line 14. Your total increase in tax for 2025 is $20,000
+(80% of $25,000). You increase your basis in property A by
+$20,000.
+Example 5. Transfer of eligible credits and recapture to a
+transferor partnership. A and B each contributed $150,000 of
+cash to AB partnership for the purpose of investing in energy
+property. The partnership agreement provides that A and B
+share equally in all items of income, gain, loss, deduction, and
+credit of AB partnership. AB partnership invests $300,000 in an
+energy property in accordance with section 48 and places the
+energy property in service on January 1, 2024. As of the end of
+2024, AB partnership has $90,000 of eligible credits under
+section 48 for the energy property. Before the due date for AB
+partnership's 2024 tax return (with extension), AB partnership
+transfers the $90,000 of eligible credits to an unrelated
+transferee taxpayer X for $80,000.
+In 2025, A reduces its proportionate interest in the general
+profits of AB partnership by 50%, causing a recapture event to A
+under Regulations section 1.47-6(a)(2). The energy property
+isn’t disposed of by the transferor partnership and continues to
+be energy property with respect to such transferor partnership.
+AB partnership should not provide notice of recapture to
+transferee taxpayer X as a result of the recapture event under
+
+8
+
+Regulations section 1.47-6(a)(2) for A’s sale and transferee
+taxpayer X isn’t liable for any recapture amount. A, however, is
+subject to recapture as provided in Regulations section 1.47-6(a)
+(2) and based on its share of the basis (or cost) of the energy
+property to which the eligible credits were determined under
+Regulations section 1.46-3(f)(2).
+Example 6. Basis reduction and recapture for EPE. In
+December 2023, G, a government entity, places in service P,
+which is energy property eligible for the energy credit determined
+under section 48 (section 48 credit). G properly completes the
+pre-filing registration in accordance with Regulations section
+1.6417-5 as an applicable entity to make an election under
+section 6417 for 2023. G timely files its 2023 Form 990-T in
+2024, properly making the EPE in accordance with Regulations
+section 1.6417-2 for a section 48 energy credit determined with
+respect to P. On its Form 990-T, G properly determines that the
+amount of section 48 credit determined with respect to P is
+$100,000 and that its net elective payment amount is $100,000.
+The IRS sends G a $100,000 refund. Pursuant to section 50(c),
+G reduces its basis in P by $50,000.
+In July 2025, P ceases to be investment credit property with
+respect to G. Because this occurs before the close of the
+recapture period set forth in section 50, section 50(a)(1)(A)
+provides that the tax under chapter 1 for 2025 is increased by
+the recapture percentage of the aggregate decrease in the
+credits allowed under section 38 for all prior tax years that would
+have resulted solely from reducing to zero any credit determined
+under subpart E of part IV of subchapter A of chapter 1 with
+respect to such property. Because P ceased to be investment
+credit property within 2 full years after P was placed in service,
+section 50(a)(1)(B) provides that the recapture percentage is
+80%. G must properly report the recapture event in 2025, paying
+an $80,000 tax. Because G is a government entity, G reports the
+recapture event on a Form 990-T or any Form provided in further
+guidance, along with supplemental forms such as Form 4255,
+Certain Credit Recapture, Excessive Payments, and Penalties.
+G's basis in P is increased by $40,000.
+
+Instructions for Form 4255 (Rev. 12-2025)
+
+Worksheet 3
+Use Worksheet 3 to calculate the recapture for any property, project, facility, or technology under sections 48 or 48E that you claimed
+the increased credit amount for satisfying the PWA requirements and you fail to satisfy the prevailing wage requirements with respect
+to alteration or repair during the 5-year period beginning on the date the property, project, facility, or technology was placed in service.
+Property, Project, Facility, or Technology
+Enter the type of property, project, facility, or technology and its address.
+A
+B
+C
+D
+
+Property, Project, Facility, or Technology
+A
+
+B
+
+C
+
+D
+
+1 Amount of section 48E or 48 credit that
+was originally calculated on Form 3468,
+Part V, lines 1c and/or 3c and/or Part VI,
+lines 1c, 3c, 5h, 7c, 9e, 11f, 13c, 15c, 17c,
+19c, 21c, 23c, 25c, 25f, 25i, and/or 25l.
+Don't include amounts for meeting the 1
+MW and/or beginning of construction
+exception . . . . . . . . . . . . . . . . . . . . . .
+2 Multiply line 1 by 0.80 . . . . . . . . . . . .
+3 Date property/project/facility/technology
+was placed in service . . . . . . . . . . . . .
+4 Date property/project/facility/technology
+failed prevailing wage requirements . . .
+5 Number of full years between the date on
+line 3 and the date on line 4 . . . . . . . . .
+6 Recapture percentage. See the table
+below . . . . . . . . . . . . . . . . . . . . . . . . .
+7 Multiply line 2 by the percentage on
+line 6 . . . . . . . . . . . . . . . . . . . . . . . . .
+8 IRS-issued registration number, if
+applicable . . . . . . . . . . . . . . . . . . . . .
+9 Total increase in tax. Add columns A through D, line 7. Enter here and on the applicable line(s) in Part I,
+column (h) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+IF the number of full years on
+line 5 is . . .
+
+THEN the recapture percentage
+is . . .
+
+0
+1
+2
+3
+4
+5 or more
+
+Instructions for Form 4255 (Rev. 12-2025)
+
+100
+80
+60
+40
+20
+0
+
+9
+
+Paperwork Reduction Act Notice. We ask for the information on this form to carry out the Internal Revenue laws of the United
+States. You are required to give us the information. We need it to ensure that you are complying with these laws and to allow us to
+figure and collect the right amount of tax.
+You are not required to provide the information requested on a form that is subject to the Paperwork Reduction Act unless the form
+displays a valid OMB control number. Books or records relating to a form or its instructions must be retained as long as their contents
+may become material in the administration of any Internal Revenue law. Generally, tax returns and return information are confidential,
+as required by section 6103.
+The time needed to complete and file this form will vary depending on individual circumstances. The estimated burden for individual
+and business taxpayers filing this form is approved under OMB control number 1545-0074 and 1545-0123 and is included in the
+estimates shown in the instructions for their individual and business income tax returns. The estimated burden for all other taxpayers
+who file this form is shown below.
+Recordkeeping . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6 hr., 27 min.
+
+Learning about the law or the form. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1 hr., 35 min.
+
+Preparing and sending the form to the IRS . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1 hr., 46 min.
+
+If you have comments concerning the accuracy of these time estimates or suggestions for making this form simpler, we would be
+happy to hear from you. See the instructions for the tax return with which this form is filed.
+
+10
+
+Instructions for Form 4255 (Rev. 12-2025)
+
+

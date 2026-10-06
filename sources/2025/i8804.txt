@@ -1,0 +1,661 @@
+Instructions for Forms 8804,
+                                                                                                Department of the Treasury
+                                                                                                Internal Revenue Service
+
+8805, and 8813
+(Rev. November 2022)
+Section references are to the Internal Revenue Code               Photographs of Missing Children
+unless otherwise noted.
+                                                                  The Internal Revenue Service is a proud partner with the
+                                                                  National Center for Missing & Exploited Children®
+Future Developments                                               (NCMEC). Photographs of missing children selected by
+For the latest information about developments related to          the Center can appear in instructions on pages that would
+Forms 8804, 8805, 8813, and their instructions, such as           otherwise be blank. You can help bring these children
+legislation enacted after they were published, go to              home by looking at the photographs and calling
+IRS.gov/Form8804, IRS.gov/Form8805, and IRS.gov/                  800-THE-LOST (800-843-5678) if you recognize a child.
+Form8813, respectively.
+                                                                  General Instructions
+What’s New
+                                                                  Purpose of Forms
+Continuous-use form and instructions. Form 8804                   Use Forms 8804, 8805, and 8813 to pay and report
+and these instructions have been converted from an                section 1446 withholding tax based on effectively
+annual revision to continuous use. Both the form and              connected taxable income (ECTI) allocable to foreign
+instructions will be updated as needed. For the most              partners (as defined in section 1446(e)).
+recent versions, go to IRS.gov/Form8804.
+                                                                     Use Form 8804 to report the total liability under section
+New lines on Form 8804. New lines 6f and 6g have                  1446 for the partnership's tax year. Form 8804 is also a
+been added for the partnership named on line 1(a) to              transmittal form for Form(s) 8805.
+report tax withheld from it under section 1446(f)(1) on the
+transfer of an interest in a partnership engaged in a trade          Use Form 8805 to show the amount of ECTI and the
+or business in the United States. The partnership will            total tax credit allocable to the foreign partner for the
+report this withheld tax on line 6f if the transferred interest   partnership's tax year.
+was in a non-publicly traded partnership (non-PTP) and               File a separate Form 8805 for each foreign partner.
+on line 6g if the transferred interest was in a publicly          See Reporting to Partners and the instructions for Line 8b
+traded partnership (PTP).                                         of Form 8805, later, to determine when Form 8805 is
+                                                                  required even if no section 1446 withholding tax was paid.
+Reminders                                                         Attach Copy A of each Form 8805 to the Form 8804 filed
+Cross-crediting section 1446(f)(1) withholding                    with the IRS.
+against section 1446(a) withholding. Since January 1,                Foreign partners must attach Form 8805 to their U.S.
+2018, a foreign partnership has been subject to                   income tax returns to claim a withholding credit for their
+withholding under section 1446(f)(1) on the transfer of an        shares of the section 1446 tax withheld by the partnership.
+interest in another partnership engaged in a U.S. trade or        Any U.S. person erroneously subjected to the withholding
+business (unless that interest is publicly traded) if:            tax would also receive Form 8805 from a partnership, and
+   1. The foreign partnership realized gain on the sale,          the Form 8805 should be attached to the U.S. person's
+and                                                               income tax return to claim a withholding credit. A
+   2. Any portion of the gain would be treated under              partnership that receives a Form 8805 from a lower-tier
+section 864(c)(8) as effectively connected with the               partnership should see Tiered Partnerships, later.
+conduct of a trade or business within the United States.             Form 8805 can also be completed, in some cases, by a
+    Under new regulations, for all transfers occurring since      foreign trust or estate. A foreign partner that is a foreign
+January 1, 2018, a partnership may claim a credit against         trust or estate must complete Schedule T of Form 8805 to
+its section 1446(a) tax liability for the amount withheld         report to the trust’s or estate's beneficiaries the section
+from it under section 1446(f)(1) to the extent that the           1446 withholding tax that can be claimed as a withholding
+amount is allocable to foreign partners. See T.D. 9919,           tax credit on the beneficiaries' income tax returns. See
+available at IRS.gov/IRB/2020-48_IRB#TD-9919, Gains               Schedule T—Beneficiary Information, later.
+from sales of interests in partnerships engaged in a trade          Use Form 8813 to pay the withholding tax under
+or business in the United States, later, and the instructions     section 1446 to the United States Treasury. Form 8813
+for Line 6f and Line 6g of Form 8804, later. For transfers        must accompany each payment of section 1446 tax made
+occurring on or after January 1, 2018, a partnership that         during the partnership's tax year.
+did not claim that credit against its section 1446(a) liability
+or file for a refund may file an amended return using Form        Taxpayer Identification Number (TIN)
+8804. See Amended Form 8804, later.                               To ensure proper crediting of the withholding tax when
+                                                                  reporting to the IRS, a partnership must provide a U.S.
+
+Oct 04, 2022                                             Cat. No. 10393W
+TIN for each foreign partner. The partnership should notify          permitted to file these forms on or before the 15th day of
+any of its foreign partners without such a number of the             the 6th month, check the box at the top of Form 8804.
+necessity of obtaining a U.S. TIN. An individual's TIN is
+the individual's social security number (SSN) or individual            If a due date falls on a Saturday, Sunday, or legal
+taxpayer identification number (ITIN). Certain individuals           holiday, file by the next business day.
+who don't have and aren't eligible to get an SSN can apply             File Forms 8804 and 8805 separately from Form 1065.
+for an ITIN on Form W-7. The application is available at
+IRS.gov/ITIN. The TIN for a partner other than an                       If you need more time, you can file Form 7004 to
+individual is its U.S. employer identification number (EIN).         request an extension of time to file Form 8804.
+
+Applying for an EIN                                                  Note. Filing a Form 7004 doesn't extend the time for
+Use EINs to identify estates, trusts, partnerships, and              payment of tax.
+corporations. If you are required to have an EIN, apply for
+one at IRS.gov/EIN. If the principal business was created
+                                                                     Form 8813
+or organized outside of the United States or U.S.                    File on or before the 15th day of the 4th, 6th, 9th, and 12th
+territories, you may also apply for an EIN by calling                months of the partnership's tax year for U.S. income tax
+267-941-1099 (toll call).                                            purposes.
+
+Who Must File                                                        Where To File
+Every partnership (other than a publicly traded partnership          File Forms 8804, 8805, and 8813 with:
+(PTP)) that has effectively connected gross income
+allocable to a foreign partner must file a Form 8804,                    Internal Revenue Service Center
+regardless of whether it had ECTI allocable to a foreign                 P.O. Box 409101
+partner. The partnership must also file a Form 8805 for                  Ogden, UT 84409
+each partner on whose behalf it paid section 1446 tax,
+regardless of whether the partnership made any                       Amended Form 8804
+distributions during its tax year. The partnership can               A partnership can file an amended Form 8804 to correct a
+designate a person to file the forms. The partnership, or            previously filed Form 8804. To do so, complete a new
+person it designates, must file these forms even if the              Form 8804 with the corrected information. Write
+partnership has no withholding tax liability under section           “Amended” in the top margin of the form and write
+1446.                                                                “Corrected” on any Forms 8805 attached to the Form
+                                                                     8804. File the amended form with the address shown
+Who Must Sign Form 8804                                              under Where To File, earlier.
+The partnership can designate a partner or limited liability
+company (LLC) member to sign Form 8804. The paid                        For the requirements for and the limits on obtaining a
+preparer's space should remain blank if the form is                  refund of the 1446 tax based on an amended Form 8804,
+completed by a partner or LLC member. If the form is                 see Regulations section 1.1446-3(d)(2)(iv).
+completed by a paid preparer with a valid preparer tax
+identification number (PTIN), the paid preparer should               Requirement To Make Withholding
+complete the paid preparer's section.                                Tax Payments
+Paid preparer. Generally, anyone who is paid to prepare              A foreign or domestic partnership that has ECTI allocable
+the return must do the following.                                    to a foreign partner must pay a withholding tax equal to
+• Sign the return in the space provided for the preparer's           the applicable percentage of the ECTI that is allocable to
+signature.                                                           its foreign partners. However, this requirement doesn't
+• Fill in the other blanks in the “Paid Preparer Use Only”           apply to a partnership treated as a corporation under the
+area of the return. A paid preparer cannot use a social              general rule of section 7704(a). ECTI and applicable
+security number (SSN) in the “Paid Preparer Use Only”                percentage are defined later.
+box. The paid preparer must use a PTIN.
+• Give the partnership a copy of the return in addition to           Withholding Agents
+the copy to be filed with the IRS.                                   For ease of reference, these instructions refer to various
+   A paid preparer may sign original or amended returns              requirements applicable to withholding agents as
+by rubber stamp, mechanical device, or computer                      requirements applicable to partnerships themselves.
+software program.                                                    Determining if a Partner Is a Foreign
+When To File                                                         Person
+                                                                     A partnership must determine if any partner is a foreign
+Forms 8804 and 8805                                                  partner subject to section 1446. A foreign partner (as
+Generally, file these forms on or before the 15th day of the         defined in section 1446(e)) is any partner who isn't a U.S.
+3rd month following the close of the partnership's tax year.         person, as defined in section 7701(a)(30). As such, a
+For partnerships that keep their records and books of                foreign person includes a nonresident alien individual,
+account outside the United States and Puerto Rico, the               foreign corporation, foreign partnership, foreign trust or
+due date is the 15th day of the 6th month following the              estate, or a foreign organization described in section
+close of the partnership's tax year. If the partnership is           501(c).
+
+                                                               -2-          Instr. for Forms 8804, 8805, and 8813 (Rev. 11-2022)
+   A partnership can determine a partner's foreign or                 See Regulations section 1.1446-1(c)(2)(iv) for more
+nonforeign status by relying on a W-8 form (for example,              details.
+Form W-8BEN), Form W-9, an acceptable substitute form,
+                                                                      Change in circumstances. A partner must provide a
+or by other means. See Form of certification and Use of               new withholding certificate when there is a change in
+Means Other Than Certification, later. Also, see
+                                                                      circumstances. The principles of Regulations section
+Regulations section 1.1446-1(c) for additional information.
+                                                                      1.1441-1(e)(4)(ii)(D) shall apply when a change in
+Certification of Nonforeign Status                                    circumstances has occurred (including situations where
+                                                                      the status of a U.S. person changes) that requires a
+In general, a partnership can determine that a partner isn't          partner to provide a new withholding certificate.
+a foreign person by obtaining a Form W-9 from the
+partner. A partnership that has obtained this certification           How long to keep the certifications. A partnership or
+can rely on it to establish the nonforeign status of a                nominee who has responsibility for paying the section
+partner. See Effect of certification, later.                          1446 withholding tax must retain each withholding
+                                                                      certificate, statement, and other information received from
+Form of certification. Generally, a partnership can                   its direct and indirect partners for as long as it can be
+determine a partner's foreign or nonforeign status by                 relevant to the determination of the withholding agent's
+obtaining one of the following withholding certificates from          section 1446 tax liability under section 1461 and the
+the partner.                                                          regulations thereunder.
+• Form W-8BEN.
+• Form W-8BEN-E.                                                      Use of Means Other Than Certification
+• Form W-8ECI.                                                        A partnership isn't required to obtain a Form W-9. It can
+• Form W-8EXP.                                                        rely on other means to learn the nonforeign status of the
+• Form W-8IMY.                                                        partner. But if the partnership relies on other means and
+• Form W-9.                                                           erroneously determines that the partner wasn’t a foreign
+• An acceptable substitute form (as described in                      person, the partnership will be held liable for payment of
+Regulations section 1.1446-1(c)(5)).                                  the tax, any applicable penalties, and interest. A
+• A statement required from a domestic grantor trust (as              partnership isn't required to rely on other means to
+described in Regulations section 1.1446-1(c)(2)(ii)(E))               determine the nonforeign status of a partner and can
+with the necessary documentation required for the trust               demand a Form W-9. If a certification isn't provided, the
+and the grantor.                                                      partnership can presume the partner is foreign and will be
+Effect of certification. Generally, a partnership that has            considered for purposes of sections 1461 through 1463 to
+obtained a withholding certificate (for example, a W-8                have been required to withhold section 1446 tax.
+form or Form W-9) according to the rules in these
+instructions can rely on the certification to determine               Effectively Connected Taxable
+whether the partner is a foreign or nonforeign partner for            Income (ECTI)
+purposes of figuring the section 1446 withholding tax, and
+if such partner is a foreign partner, to determine whether            Definition
+or not such partner is a corporation for U.S. tax purposes.           ECTI is the excess of the gross income of the partnership
+The partnership can also use the withholding certificate to           that is effectively connected under section 864(c), or
+determine that the partner isn't subject to withholding. A            treated as effectively connected with the conduct of a U.S.
+partnership can’t rely on a withholding certificate if it             trade or business, over the allowable deductions that are
+knows or has reason to know that any information                      connected to such income. See Pub. 519 for detailed
+provided on the withholding certificate is incorrect or               instructions regarding the calculation of ECTI. For
+unreliable, and based on that information the partnership             purposes of these instructions, figure this income with the
+should pay more section 1446 withholding tax. Under                   following statutory adjustments.
+those circumstances, the certificate isn't valid.
+                                                                          1. Section 703(a)(1) doesn't apply.
+    The partnership won't be subject to penalties for its
+failure to pay the section 1446 withholding tax prior to the              2. The partnership is allowed a deduction for depletion
+date that it knows or has reason to know that the                     of oil and gas wells, but the amount of the deduction must
+certificate isn't valid. However, the partnership is fully            be determined without regard to sections 613 and 613A.
+liable for section 1446 withholding tax for the year, as well             3. The partnership can’t take into account items of
+as penalties and interest, starting with the installment              income, gain, loss, or deduction allocable to any partner
+period or Form 8804 filing period during which it knows or            that isn't a foreign partner.
+has reason to know that the certificate isn't valid. See
+                                                                        See Regulations section 1.1446-2 for additional
+Regulations section 1.1446-1(c)(2)(iii).
+                                                                      adjustments that can be required.
+Requirements for certificates to be valid. Generally,
+the validity of a Form W-9 is determined under section                   A partnership's ECTI includes partnership income
+3406 and Regulations section 31.3406(h)-3(e). A W-8                   subject to a partner's election under section 871(d) or
+form is only valid if:                                                882(d) (election to treat real property income as income
+• Its validity period hasn't expired,                                 connected with a U.S. business). It also includes any
+• The partner submitting the form has signed it under                 partnership income treated as effectively connected with
+penalties of perjury, and                                             the conduct of a U.S. trade or business under section 897
+• It contains all the required information.                           (disposition of investment in U.S. real property), and other
+
+Instr. for Forms 8804, 8805, and 8813 (Rev. 11-2022)            -3-
+items of partnership income treated as effectively                    Amount of Withholding Tax
+connected under other provisions of the Internal Revenue
+Code, regardless of whether those amounts are taxable to              Figuring the Tax Payments
+the partner.
+                                                                      Under section 1446, a partnership must make four
+   See Regulations section 1.1446-2 for additional                    installment payments of withholding tax during the tax
+information for calculating ECTI.                                     year.
+Amount Allocable to Foreign Partners                                  Amount of each installment payment of withholding
+                                                                      tax. In general, the amount of a partnership's installment
+The amount of a partnership's ECTI for the partnership's              payment is equal to the sum of the installment payments
+tax year allocable to a foreign partner under section 704             for each of the partnership's foreign partners. A
+equals (a) the foreign partner's distributive share of                partnership will generally determine the amount of the
+effectively connected gross income of the partnership for             installment payment for each of its foreign partners by
+the partnership's tax year that is properly allocable to the          applying the principles of section 6655 and Regulations
+partner under section 704, minus (b) the foreign partner's            section 1.1446-3. To do so, use Form 8804-W.
+distributive share of deductions of the partnership for that
+year that are connected with that income under section                Applicable percentage. For all corporate partners, the
+873(a) or section 882(c) and that are properly allocable to           section 1446 applicable percentage is 21% (0.21).
+the partner under section 704. This income must be                        For all non-corporate foreign partners, the section 1446
+figured by taking into account any adjustments to the                 applicable percentage is generally 37% (0.37). However,
+basis of the partnership property described in section 743            in some circumstances, the partnership can consider the
+according to the partnership's election under section 754.            highest rate applicable to a particular type of income
+Also, a partnership's ECTI isn't allocable to a foreign               allocated to a non-corporate partner if such partner would
+partner to the extent the amounts are exempt from U.S.                be entitled to use a preferential rate on such income or
+tax for that partner by a treaty or reciprocal agreement, or          gain.
+a provision of the Code.                                                  The facts and circumstances of a partner that the
+Certification of Deductions and                                       partnership knows or has reason to know may determine
+                                                                      if the partner would be entitled to a preferential rate on
+Losses                                                                such income or gain. For example, the partner would not
+A foreign partner, in certain circumstances, can certify to           be entitled to a preferential rate if the partnership’s income
+the partnership that it has deductions and losses it                  that otherwise is long-term capital gain is a type that is
+reasonably expects to be available to reduce the partner's            treated with respect to the partner as short-term capital
+U.S. income tax liability on the partner's allocable share of         gain under section 1061.
+effectively connected income or gain from the partnership.                See Regulations section 1.1446-3(a)(2) for additional
+In certain circumstances, the partnership can consider                information.
+and rely on these deductions and losses to reduce the
+partnership's section 1446 tax.                                       When to make the payment. Make installment
+                                                                      payments of the withholding tax under section 1446 with
+Note. Foreign partners must submit all certificates                   Form 8813 by the applicable due dates during the tax year
+(including updated certificates) using Form 8804-C. See               of the partnership in which the income is earned. The
+Form 8804-C and its instructions, and Regulations section             partnership must generally make the installment
+1.1446-6 for additional information.                                  payments for each foreign partner on or before the 15th
+                                                                      day of the 4th, 6th, 9th, and 12th months of the
+Reductions for State and Local Taxes                                  partnership's tax year.
+In addition to any deductions and losses certified by a                  Generally, pay any additional amounts due when filing
+foreign partner to the partnership (see Certification of              Form 8804. However, if the partnership files Form 7004 to
+Deductions and Losses, earlier), the partnership can                  request an extension of time to file Form 8804, pay the
+consider as a deduction of such partner 90% (0.90) of any             balance of section 1446 withholding tax estimated to be
+state and local income taxes withheld and remitted by the             due with Form 7004 in order to avoid the late payment
+partnership on behalf of such partner with respect to the             penalty.
+partner's allocable share of partnership ECTI. The
+partnership can consider the amount of state and local                Coordination With Other Withholding Rules
+taxes of the foreign partner regardless of whether the                Interest, Dividends, etc.
+foreign partner submits a certificate to the partnership.
+                                                                      Fixed or determinable annual or periodical (FDAP) income
+Note. Don't deduct state and local taxes paid on behalf of
+                                                                      subject to tax under section 871(a) or 881 isn't included in
+the partnership. The partnership can only consider as a
+                                                                      the partnership's ECTI under section 1446. However,
+deduction of a partner the partner's own state and
+                                                                      these amounts are independently subject to withholding
+local income taxes the partnership withholds and remits
+                                                                      under the requirements of sections 1441 and 1442 and
+on the partner's behalf with respect to the partner's
+                                                                      their regulations.
+allocable share of partnership ECTI.
+
+
+
+
+                                                                -4-          Instr. for Forms 8804, 8805, and 8813 (Rev. 11-2022)
+Real Property Gains                                                   completed as described under Schedule T– Beneficiary
+                                                                      Information, later.
+Domestic partnerships. Domestic partnerships subject
+to the withholding requirements of section 1446 aren't                Interest and Penalties
+subject to the payment and reporting requirements of
+section 1445(e)(1) and its regulations for income from the            Interest
+disposition of a U.S. real property interest (USRPI). A               Interest is charged on taxes not paid by the due date,
+domestic partnership's compliance with the requirement                even if an extension of time to file is granted. Interest is
+to pay a withholding tax under section 1446 satisfies the             also charged on penalties imposed for failure to file,
+requirements under section 1445 for dispositions of                   negligence, fraud, and substantial understatements of tax
+USRPIs. However, a domestic partnership that would                    from the due date (including extensions) to the date of
+otherwise be exempt from section 1445 withholding by                  payment. The interest charge is figured at a rate
+operation of a nonrecognition provision must continue to              determined under section 6621.
+comply with the requirements of Regulations section
+1.1445-5(b)(2).                                                       Late Filing of Form 8804
+Foreign partnerships. A foreign partnership subject to                A partnership that fails to file Form 8804 when due
+withholding under section 1445(a) during a tax year will be           (including extensions of time to file) can generally be
+allowed to credit the amount withheld under section                   subject to a penalty of 5% (0.05) of the unpaid tax for each
+1445(a), to the extent such amount is allocable to foreign            month or part of a month the return is late, up to a
+partners, against its liability to pay the section 1446               maximum of 25% (0.25) of the unpaid tax. The penalty
+withholding tax for that year. This credit is allowed on              won't apply if the partnership can show reasonable cause
+line 6d or 6e of the Form 8804 filed by the foreign                   for filing late.
+partnership.                                                            If Form 8804 is filed more than 60 days late, the
+Gains from sales of interests in partnerships engag-                  minimum penalty will be $450, or the amount of any tax
+ed in a trade or business in the United States. A                     owed, whichever is smaller.
+foreign partnership subject to withholding under section                 If you receive a notice about penalty and interest after
+1446(f)(1) during a tax year will be allowed to credit the            you file Form 8804, send us an explanation and we will
+amount withheld under section 1446(f)(1), to the extent               determine if you meet reasonable-cause criteria. Don't
+that amount is allocable to foreign partners, against its             attach an explanation when you file Form 8804.
+liability to pay the section 1446 withholding tax for that
+year. This credit is allowed on line 6f or 6g of the Form             Late Filing of Correct Form 8805
+8804 filed by the foreign partnership.
+                                                                      A penalty can be imposed for failure to file each Form
+Reporting to Partners                                                 8805 when due (including extensions). The penalty can
+                                                                      also be imposed for failure to include all required
+When making an installment payment of the section 1446
+                                                                      information on Form 8805 or for furnishing incorrect
+withholding tax, a partnership must notify all foreign
+                                                                      information. The penalty is based on when a correct Form
+partners of their allocable shares of any section 1446
+                                                                      8805 is filed.
+withholding tax paid by the partnership. The partners use
+this information to adjust the amount of estimated tax that             The penalty for each failure to file a correct 2022 Form
+they must otherwise pay to the IRS. The notification to the           8805 is $290, with a maximum penalty of $3,532,500. See
+foreign partners must be provided within 10 days of the               section 3.57 of Rev. Proc. 2021-45, I.R.B. 2021-48 775,
+installment due date, or, if paid , the date the installment          available at IRS.gov/irb/2021-48_IRB#REV-
+payment is made. See Regulations section 1.1446-3(d)(1)               PROC-2021-45, for more information.
+(i) for information that must be included in the notification
+and for exceptions to the notification requirement.                      There are some situations where the penalty under
+                                                                      section 6721 is reduced or eliminated. This can apply if
+   If a partnership has gross effectively connected                   the partnership:
+income, it must file a separate Form 8805 for each partner            • Has average annual gross receipts of not more than $5
+for whom it paid section 1446 tax. In addition, if the                million during a specified period of time,
+partnership reduces ECTI for state and local income tax               • Corrects the failure to file within a specified period, or
+deductions permitted under Regulations section                        • Has a de minimis number of failures to file correct
+1.1446-6(c)(1)(iii) or relies on a Form 8804-C it receives            Forms 8805.
+from a partner to reduce its section 1446 tax, it must
+complete a Form 8805 for the partner even if no tax is paid               There can also be a higher penalty imposed when the
+on behalf of the partner. The foreign partner must also               failure is due to intentional disregard of the requirement to
+receive a copy of its Form 8805 by the due date of the                file timely correct information returns. For more
+partnership return (including extensions). The partnership            information, see Rev. Proc. 2021-45, section 3.57.
+must also issue a Form 8805 to any U.S. person                        Reasonable cause. A partnership can seek a waiver of
+erroneously subjected to withholding tax by the due date              the penalty if the partnership can establish it had
+of the partnership return (including extensions).                     reasonable cause for the failure.
+   A foreign partner that is a foreign trust or estate must
+provide to each of its beneficiaries a Form 8805
+
+
+Instr. for Forms 8804, 8805, and 8813 (Rev. 11-2022)            -5-
+Failure To Furnish Correct Form 8805 to                                  Amounts paid by the partnership under section 1446 on
+Recipient                                                             ECTI allocable to a partner are allowed to the partner as a
+                                                                      credit under section 33. The partner can’t claim an early
+A penalty can be imposed for each failure to furnish Form
+                                                                      refund of withholding tax paid under section 1446.
+8805 to the recipient when due. The penalty can also be
+imposed for each failure to give the recipient all required               Amounts paid by a partnership under section 1446 for a
+information on each Form 8805 or for furnishing incorrect             partner are to be treated as distributions made to that
+information.                                                          partner on the earliest of the following.
+  The penalty for each failure to furnish a correct 2022                  1. The day on which this tax was paid by the
+Form 8805 to the recipient is $290, with a maximum                    partnership.
+penalty of $3,532,500. For more information, see Rev.                     2. The last day of the partnership's tax year for which
+Proc. 2021-45, section 3.58.                                          the amount was paid.
+                                                                          3. The last day on which the partner owned an interest
+   There are some situations where the penalty under                  in the partnership during that year.
+section 6722 is reduced or eliminated. This can apply if
+the partnership:                                                         However, the amount of section 1446 withholding tax
+• Has average annual gross receipts of not more than $5               paid during a tax year by the partnership is generally
+million during a specified period of time,                            treated as an advance or draw under Regulations section
+• Corrects the failure to furnish within a specified period,          1.731-1(a)(1)(ii) to the extent of the partner's share of
+or                                                                    income for the partnership year. See Regulations section
+• Has a de minimis number of failures to furnish correct              1.1446-3(d)(2)(v) for more details.
+Forms 8805.
+                                                                         A partner that wishes to claim a credit against its U.S.
+    There can also be a higher penalty imposed when the               income tax liability for amounts withheld and paid under
+failure is due to intentional disregard of the requirement to         section 1446 must attach Copy C of Form 8805 to its U.S.
+furnish timely correct information returns. For more                  income tax return for the tax year in which it claims the
+information, see Rev. Proc. 2021-45, section 3.58.                    credit.
+Reasonable cause. A partnership can seek a waiver of                     See Regulations section 1.1446-3(d)(2) for additional
+the penalty if the partnership can establish it had                   information.
+reasonable cause for the failure.
+                                                                      Publicly Traded Partnerships (PTPs)
+Late Payment of Tax                                                   A PTP is any partnership whose interests are regularly
+The penalty for not paying tax when due is usually 1/2 of             traded on an established securities market (regardless of
+1% (0.005) of the unpaid tax for each month or part of a              the number of its partners). However, this doesn't include
+month the tax is unpaid. The penalty can’t exceed 25%                 a PTP treated as a corporation under the general rule of
+(0.25) of the unpaid tax. The penalty won't apply if the              section 7704(a).
+partnership can show reasonable cause for paying late.                   A PTP that has effectively connected income, gain, or
+   If you receive a notice about penalty and interest after           loss must withhold tax on distributions of that income
+you file Form 8804, send us an explanation and we will                made to its foreign partners. The rate is 37% (0.37) for
+determine if you meet reasonable-cause criteria. Don't                non-corporate foreign partners, and 21% (0.21) for
+attach an explanation when you file Form 8804.                        corporate partners. The PTP can’t consider preferential
+                                                                      rates when figuring the section 1446 withholding tax for a
+Failure To Withhold and Pay Over Tax                                  partner. The partnership uses Form 1042, Form 1042-S,
+                                                                      and Form 1042-T to report withholding from distributions
+Any person required to withhold, account for, and pay
+                                                                      instead of following these instructions. It must also comply
+over the withholding tax under section 1446, but who fails
+                                                                      with the regulations under section 1461 and Regulations
+to do so, can be subject to a civil penalty under section
+                                                                      section 1.6302-2.
+6672. The civil penalty is equal to the amount that should
+have been withheld and paid over.                                     Tiered Partnerships
+Other Penalties                                                       The term “tiered partnership” describes the situation in
+                                                                      which a partnership owns an interest in another
+Penalties can also be imposed, absent reasonable cause
+                                                                      partnership. The former is an “upper-tier partnership” and
+and good faith, for failing to accurately report the amount
+                                                                      the latter is a “lower-tier partnership.” An upper-tier
+of tax required to be shown on a return, if any portion of
+                                                                      partnership that owns a partnership interest in a lower-tier
+the resulting underpayment is attributable to negligence,
+                                                                      partnership is allowed a credit against its own section
+substantial understatement of income tax, valuation
+                                                                      1446 withholding tax liability for any section 1446
+misstatement, or fraud. See sections 6662 and 6663.
+                                                                      withholding tax paid by the lower-tier partnership for that
+Treatment of Partners                                                 partnership interest.
+A partnership's payment of section 1446 withholding tax                 If an upper-tier partnership provides appropriate
+on ECTI allocable to a foreign partner generally relates to           documentation to a lower-tier partnership, the lower-tier
+the partner's U.S. income tax liability for the partner's tax         partnership can look through the partnership to the
+year in which the partner is subject to U.S. tax on that              partners of such upper-tier partnership in determining its
+income.                                                               section 1446 withholding tax due. The look-through can
+
+                                                                -6-          Instr. for Forms 8804, 8805, and 8813 (Rev. 11-2022)
+apply only with respect to the portion of the upper-tier               Enter the total ECTI allocable to foreign partners (by
+partnership's allocation that is allocable to partners of              income type) on lines 4a, 4e, 4i, 4m, and 4q. With respect
+such partnership for which appropriate documentation                   to lines 4i, 4m, and 4q, enter the specified types of income
+has been received by the lower-tier partnership. For more              allocable to non-corporate partners if appropriate
+information, see Regulations section 1.1446-5(c) for                   documentation is received and such partners would be
+upper-tier foreign partnerships and Regulations section                entitled to use a preferential rate on such income or gain.
+1.1446-5(e) for upper-tier domestic partnerships. See                  See Regulations section 1.1446-3(a)(2) for additional
+Regulations section 1.1446-5(b) for reporting                          information.
+requirements.
+                                                                          If the partnership has net ordinary loss, net short-term
+Note. The look-through rules, referred to above, apply                 capital loss, or net 28% rate loss, each net loss should be
+only for purposes of the lower-tier partnership's                      netted against the appropriate categories of income and
+calculation of its section 1446 withholding tax liability. It          gain to determine the amounts of income and gain to be
+doesn't affect the upper-tier partnership's reporting                  entered on lines 4a, 4e, 4i, 4m, and 4q, respectively.
+requirements with respect to Forms 8804 and 8805 as set                Don't enter a negative number on lines 4a, 4e, 4i, 4m, and
+forth in the next paragraph and elsewhere in these                     4q. See section 1(h) and Notice 97-59, 1997-45 I.R.B. 7,
+instructions.                                                          available at IRS.gov/pub/irs-irbs/irb97-45.pdf, for the rules
+    An upper-tier partnership that has had section 1446                for netting gains and losses.
+withholding tax payments made on its behalf by a                       Note. If the partnership relied on a certificate the partner
+lower-tier partnership will receive a copy of Form 1042-S              submitted under Regulations section 1.1446-6(c)(1)(ii) to
+or Form 8805 from the lower-tier partnership. The                      determine that the partnership is not required to pay any
+upper-tier partnership must in turn file these forms with its          section 1446 withholding tax with respect to that partner,
+Form 8804 and treat the amount withheld by the lower-tier              reduce the ECTI on line 4 of Form 8804 by any amount
+partnership as a credit against its own liability to withhold          allocable to that foreign partner. See Form 8804-C, Part
+under section 1446. This credit is allowed on line 6b or               III.
+line 6c of the Form 8804 filed by the upper-tier
+partnership. The upper-tier partnership must also provide              Note. Partnership ECTI on which a foreign partner is
+to its partners the information described in Reporting to              exempt from U.S. tax by a treaty or other reciprocal
+Partners, earlier. These statements and forms will enable              agreement isn't allocable to that partner and is exempt
+those partners to obtain appropriate credit for tax withheld           from withholding under section 1446. However, this
+under section 1446.                                                    exemption from section 1446 withholding must be
+   See Regulations section 1.1446-5 for additional                     reported on Form 8805. See the instructions for Line 8b of
+information.                                                           Form 8805, later.
+
+                                                                       Lines 4b, 4f, 4j, 4n, and 4r
+Specific Instructions                                                  Enter the reduction amounts for state and local taxes
+                                                                       under Regulations section 1.1446-6(c)(1)(iii). See
+Address                                                                Reductions for State and Local Taxes, earlier, for
+When providing a U.S. address on Form 8804, 8805, or                   additional information. The netting rules under section
+8813, include the suite, room, or other unit number after              1(h) and Notice 97-59 must be considered in determining
+the street address. If the post office doesn't deliver mail to         the category of income the reduction amounts offset.
+the street address and the partnership (or withholding
+agent) has a P.O. box, show the box number instead of                  Lines 4c, 4g, 4k, 4o, and 4s
+the street address. If the partnership (or withholding                 Enter the reduction amounts resulting from certified
+agent) receives its mail in care of a third party (such as an          partner-level items received from foreign partners using
+accountant or an attorney), enter on the street address                Form 8804-C. See Certification of Deductions and
+line “c/o” followed by the third party's name and street               Losses, earlier, for additional information. The netting
+address or P.O. box.                                                   rules under section 1(h) and Notice 97-59 must be
+   When providing a foreign address on Form 8804, 8805,                considered in determining the category of income the
+or 8813, enter the number and street, city or town, state or           reduction amounts offset.
+province, the name of the country, and ZIP or foreign
+                                                                       Line 5f
+postal code. Follow the foreign country's practice in
+placing the postal code in the address. Don't abbreviate               Add lines 5a through 5e.
+the country name.
+                                                                       Line 6
+Form 8804                                                              If the partnership is claiming a credit on lines 6b through
+                                                                       6g related to a form it received, the partnership must
+Lines 1c, 1d, 2c, and 2d                                               attach that form to its Form 8804 to obtain that credit.
+See Address, earlier.
+                                                                       Line 6b
+Lines 4a, 4e, 4i, 4m, and 4q                                           If the partnership is an upper-tier partnership in one or
+Figure the partnership's ECTI using the definition, earlier,           more lower-tier partnerships, enter on line 6b the amount
+under Effectively Connected Taxable Income (ECTI).                     of section 1446 tax withheld on ECTI by lower-tier
+
+Instr. for Forms 8804, 8805, and 8813 (Rev. 11-2022)             -7-
+partnerships with respect to ECTI allocable to the                    Schedule A (Form 8804). For more information, see the
+upper-tier partnership (see Tiered Partnerships, earlier).            Instructions for Schedule A (Form 8804).
+The amount withheld will be shown on line 10 of the Form
+8805 the partnership receives from the lower-tier                     Line 12
+partnership.                                                          If the partnership has an overpayment on line 11, it can
+                                                                      allocate some or all of that amount to its partners. Enter
+Line 6c                                                               the amount of the overpayment it wishes to allocate to its
+Enter on line 6c the amount of section 1446 tax withheld              partners on line 12. Include the amount allocated to each
+on ECTI by a lower-tier PTP that is reported to the                   partner in the amount reported on line 10 of Form 8805.
+partnership on Form 1042-S. On Form 1042-S, box 7a will
+show the amount withheld, and box 1 will show income                  Paid Preparer
+code 27.                                                              Generally, anyone you pay to prepare Form 8804 must
+                                                                      sign it and include their PTIN in the space provided. See
+Line 6d                                                               Who Must Sign Form 8804, earlier.
+Line 6d applies to partnerships treated as foreign persons
+that are subject to withholding under section 1445(a) or              Form 8805
+1445(e)(1) upon the disposition of a USRPI.
+                                                                      Line 1b
+   Enter on line 6d the amount of tax withheld from the               A partnership must pay the withholding tax for a foreign
+partnership under section 1445(a), but only to the extent             partner even if it doesn't have a U.S. TIN for that partner.
+that the amount is allocable to foreign partners, or                  See Taxpayer Identification Number (TIN), earlier, for
+withheld by the partnership under section 1445(e)(1). On              details.
+Form 8288-A, box 4 will show the amount withheld, and
+box 5a will be checked.                                               Line 1c
+Line 6e                                                               See Address, earlier.
+Enter on line 6e the amount of section 1445(e) tax                    Line 3
+withheld on a distribution by a domestic trust to the                 Enter the type of partner (for example, individual,
+partnership with respect to the disposition of a USRPI by             corporation, partnership, trust, estate).
+the trust. On Form 1042-S, box 7a will show the amount
+withheld that the partnership received from the trust, and            Line 4
+box 1 will show income code 25 or 26.
+                                                                      Enter the applicable two-letter code from the list at
+Line 6f                                                               IRS.gov/CountryCodes for the country of which the
+                                                                      partner is a resident for tax purposes. These codes are
+Enter on line 6f the amount of section 1446(f)(1) tax                 used by the IRS to provide information to all tax treaty
+withheld from the partnership on a transfer of an interest in         countries for purposes of their tax administration.
+a non-PTP engaged in the conduct of a U.S. trade or
+business, but only to the extent that the amount is                   Line 5c
+allocable to foreign partners. On Form 8288-A, box 4 will
+                                                                      See Address, earlier.
+show the amount withheld, and box 5b will be checked.
+                                                                      Line 8b
+Line 6g
+                                                                      Check the box on this line if any of the partnership's ECTI
+Enter on line 6g the amount of section 1446(f)(1) tax
+                                                                      is treated as not allocable to the foreign partner identified
+withheld from the partnership on a transfer of an interest in
+                                                                      on line 1a and therefore exempt from section 1446
+a PTP engaged in the conduct of a U. S. trade or
+                                                                      withholding because the income is exempt from U.S. tax
+business, but only to the extent that the amount is
+                                                                      for that foreign partner by a treaty, reciprocal exemption,
+allocable to foreign partners. On Form 1042-S, box 7a will
+                                                                      or a provision of the Internal Revenue Code.
+show the amount withheld, and box 1 will show income
+code 57.                                                              Line 9
+Line 8                                                                Enter the partnership ECTI allocable to the foreign partner
+                                                                      (before considering any state and local income tax
+If Schedule A (Form 8804) is attached, check the box on
+                                                                      reduction permitted under Regulations section
+line 8 and enter the amount of any penalty on this line.
+                                                                      1.1446-6(c)(1)(iii) or any reduction amounts resulting from
+Failure to pay withholding as required. A penalty will                certified partner-level items received from foreign partners
+be imposed if the partnership failed to make its four                 using Form 8804-C).
+installment payments of withholding during the tax year as
+required. If a penalty is due, the partnership should figure             The partnership must provide a statement (generally,
+the penalty using Schedule A (Form 8804) and enter it on              Schedule K-1 (Form 1065)) to the foreign partner that lists
+line 8. If the partnership failed to pay withholding tax as           each type of ECTI included on line 9. The types of ECTI
+required, and a completed Schedule A (Form 8804) is not               that can be included on line 9 are:
+attached to the return, the IRS will figure the penalty               • Ordinary income;
+without regard to any exceptions that may apply on                    • 28% rate gains;
+                                                                      • Unrecaptured section 1250 gains; and
+
+                                                                -8-          Instr. for Forms 8804, 8805, and 8813 (Rev. 11-2022)
+• Adjusted net capital gain, including qualified dividend                Schedule T for each of its beneficiaries and must provide
+income and net section 1231 gains.                                       that Schedule T information to each beneficiary.
+   The partnership must also provide any additional                         The foreign trust or estate can provide all of the
+information to foreign partners that they may reasonably                 information listed in the previous paragraph on a single
+need to complete Schedule P (Form 1120-F).                               Form 8805 for each of its beneficiaries. In this case, the
+                                                                         information provided in boxes 1a through 10 will be the
+Line 10                                                                  same for all of the beneficiaries, but the information
+To figure the total tax credit allowed to a foreign partner              provided on Schedule T can vary from beneficiary to
+under section 1446, subtract from each type of ECTI                      beneficiary, depending on the ownership interests of the
+allocable to the foreign partner the amount of any state                 respective beneficiaries.
+and local income tax reduction permitted under                           Form 1040-NR. A foreign trust or estate must attach to
+Regulations section 1.1446-6(c)(1)(iii) and any reduction                the Form 1040-NR it files any Form(s) 8805 it receives
+amounts resulting from certified partner-level items                     and copies of the Form(s) 8805 it must furnish to its
+received from foreign partners, using Form 8804-C, that                  beneficiaries with the Schedule(s) T completed.
+the partnership considered in determining that partner's
+portion of the section 1446 withholding tax due. Then,                   Line 11c
+multiply each net amount by the applicable percentage                    See Address, earlier.
+(see Applicable percentage, earlier). Finally, total the
+resulting amounts.                                                       Line 12
+Note. If the partnership relied on a certificate the partner             Enter the amount of ECTI on line 9 to be included in the
+submitted under Regulations section 1.1446-6(c)(1)(ii) to                beneficiary's gross income. The foreign trust or estate
+determine that the partnership isn't required to pay any                 must provide a statement to each of its beneficiaries that
+section 1446 withholding tax with respect to that partner,               lists each type of ECTI included on line 12. The types of
+enter -0- on line 10. See Form 8804-C, Part III.                         ECTI that can be included on line 12 are:
+                                                                         • Ordinary income;
+Attachments                                                              • 28% rate gains;
+The partnership is required to attach to Form 8805 the                   • Unrecaptured section 1250 gains; and
+calculation described in the first paragraph of these                    • Adjusted net capital gain, including qualified dividend
+line 10 instructions. Furthermore, if the total section 1446             income and net section 1231 gains.
+withholding tax paid for a partner has been reduced as a
+                                                                         Line 13
+result of the state and local income tax reduction
+permitted under Regulations section 1.1446-6(c)(1)(iii) or               To determine the total tax credit allowed to a beneficiary
+as a result of relying in whole or in part on a partner's                under section 1446, multiply each type of ECTI on line 12
+Form 8804-C, then the documentation described below                      by the applicable percentage (see Applicable percentage,
+must also be attached to the Form 8805 for that partner.                 earlier).
+• If the total section 1446 withholding tax paid for the                 Form 8813
+partner has been reduced because the partnership relied
+on a Form 8804-C, attach that Form 8804-C to the                         Line 1
+partner's Form 8805.
+• A statement showing the calculation of the tax due                     A partnership without a U.S. EIN must obtain one and
+relating to the partner if any Forms 8804-C were relied on.              must pay any section 1446 withholding tax due (see
+See Regulations section 1.1446-6(d)(3)(i).                               Applying for an EIN, earlier). If the partnership hasn't
+• If the total section 1446 withholding tax paid for the                 received an EIN by the time it files Form 8813, indicate on
+partner has been reduced based on the state and local                    line 1 of Form 8813 the date the partnership applied for its
+income tax reduction permitted under Regulations section                 EIN. On receipt of its EIN, the partnership must
+1.1446-6(c)(1)(iii), attach a statement showing the                      immediately send that number to the IRS using the
+calculation of the tax due.                                              address as shown under Where To File, earlier. Failure to
+                                                                         provide an EIN can delay processing of payments on
+Note. With respect to the last two bulleted items, a                     behalf of the partners.
+statement showing one calculation for both items is
+permitted.                                                               Line 2
+                                                                         See Amount of each installment payment of withholding
+        A partnership must attach all applicable items                   tax, earlier, for information on figuring the amount of the
+  !     referred to above to reduce its section 1446                     payment.
+CAUTION withholding tax due by either of the reductions
+
+referred to above.                                                       Line 3
+                                                                         See Address, earlier.
+Schedule T—Beneficiary Information
+If the foreign partner is a foreign trust or estate, the foreign         Attachments
+trust or estate must provide to each of its beneficiaries a              If the total section 1446 withholding tax paid for an
+copy of the Form 8805 furnished by the partnership. In                   installment period has been reduced as a result of the
+addition, the foreign trust or estate must complete                      state and local income tax reduction permitted under
+
+Instr. for Forms 8804, 8805, and 8813 (Rev. 11-2022)               -9-
+Regulations section 1.1446-6(c)(1)(iii) or as a result of         • A statement showing the calculation of the tax due
+relying in whole or in part on a partner's Form 8804-C,           relating to each partner whose Form 8804-C it relied on.
+then the documentation described later must be attached           See Regulations section 1.1446-6(d)(3)(i).
+to all Forms 8813 starting with the first installment period      • If the partnership reduced an installment payment
+in which the certificate was considered. Under these              based on state and local income tax deductions permitted
+circumstances, a partnership must file Form 8813 for an           under Regulations section 1.1446-6(c)(1)(iii), attach a
+installment period even if no section 1446 withholding tax        statement showing the calculation of the tax due.
+is due.
+                                                                  Note. With respect to the last two bulleted items, a
+   The required documentation is as follows.                      statement showing one calculation for both items is
+• If the partnership reduced an installment payment               permitted.
+because it relied on Forms 8804-C, attach all such Forms
+8804-C to Form 8813. If the same Form 8804-C for a
+                                                                          A partnership must attach all applicable items
+partner is used in a subsequent installment period, see
+                                                                      !   referred to above to reduce its section 1446
+Regulations section 1.1446-6(d)(3)(i) for a substitute to
+                                                                  CAUTION withholding tax due by either of the reductions
+attaching that Form 8804-C to the Form 8813 for
+                                                                  referred to above.
+subsequent installment periods.
+
+Paperwork Reduction Act Notice. We ask for the information on these forms to carry out the Internal Revenue laws of
+the United States. You are required to give us the information. We need it to ensure that you are complying with these
+laws and to allow us to figure and collect the right amount of tax.
+   You aren't required to provide the information requested on a form that is subject to the Paperwork Reduction Act
+unless the form displays a valid OMB control number. Books or records relating to a form or its instructions must be
+retained as long as their contents can become material in the administration of any Internal Revenue law. Generally, tax
+returns and return information are confidential, as required by section 6103.
+   The time needed to complete and file this form will vary depending on individual circumstances. The estimated burden
+for business taxpayers filing this form is approved under OMB control number 1545-0123.
+  If you have comments concerning the accuracy of these time estimates or suggestions for making this form simpler,
+we’d be happy to hear from you. You can send us comments from IRS.gov/FormComments. Or you can write to: Internal
+Revenue Service, Tax Forms and Publications, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224. Don't
+send the tax forms to this address. Instead, see Where To File, earlier.
+
+
+
+
+                                                               -10-       Instr. for Forms 8804, 8805, and 8813 (Rev. 11-2022)
+

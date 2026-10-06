@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "social-security-benefits-belong-to-the-taxpayer",
+    "wording": "Do the benefits on this Form SSA-1099 belong to the taxpayer or spouse (rather than, say, a child paid in a parent's name)?",
+    "scope": "document",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 the taxpayer's or the spouse's"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 they belong to someone else"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "yes",
+      "because": "Benefits on a statement in the taxpayer's name are theirs unless a preparer says otherwise"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 915",
+        "line": "Who is taxed",
+        "revision": "2025",
+        "wording": "Benefits are included in the taxable income (to the extent they are taxable) of the person who has the legal right to receive the benefits.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p915--2025.pdf"
+      }
+    }
+  }
+}

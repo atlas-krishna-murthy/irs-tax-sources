@@ -1,0 +1,87 @@
+{
+  "document": {
+    "id": "3922",
+    "title": "Transfer of Stock Acquired Through an Employee Stock Purchase Plan Under Section 423(c)",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 3922 (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f3922--2025.pdf",
+    "issued_by": "corporation (or its transfer agent) recording the first transfer of ESPP stock",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "Marks this statement as correcting one already furnished for the same year."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a filer's mark, never a figure."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier",
+        "notes": "The filer's own account number; identification only."
+      },
+      {
+        "box": "corporation-tin",
+        "label": "CORPORATION\u2019S federal identification number",
+        "type": "tin"
+      },
+      {
+        "box": "employee-tin",
+        "label": "EMPLOYEE\u2019S identification number",
+        "type": "tin"
+      },
+      {
+        "box": "1",
+        "label": "Date option granted",
+        "type": "date"
+      },
+      {
+        "box": "2",
+        "label": "Date option exercised",
+        "type": "date"
+      },
+      {
+        "box": "3",
+        "label": "Fair market value per share on grant date",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Fair market value per share on exercise date",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Exercise price paid per share",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "No. of shares transferred",
+        "type": "count"
+      },
+      {
+        "box": "7",
+        "label": "Date legal title transferred",
+        "type": "date"
+      },
+      {
+        "box": "8",
+        "label": "Exercise price per share determined as if the option was exercised on the date shown in box 1",
+        "type": "money"
+      }
+    ],
+    "notes": "Basis information, not income: 'No income is recognized when you exercise an option under an employee stock purchase plan.' Gain or loss \u2014 and any ordinary-income part of a disposition \u2014 is figured in the year the stock is sold."
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

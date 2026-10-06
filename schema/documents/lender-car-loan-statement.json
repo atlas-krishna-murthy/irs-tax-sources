@@ -1,0 +1,140 @@
+{
+  "document": {
+    "id": "lender-car-loan-statement",
+    "title": "Lender's statement of interest on a passenger vehicle loan",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Lender's statement (Notice 2025-57)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040s1a--2025.pdf",
+    "issued_by": "the lender on a loan to buy a passenger vehicle",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "interest",
+        "label": "Interest for this loan",
+        "type": "money"
+      },
+      {
+        "box": "vin",
+        "label": "Vehicle identification number (VIN)",
+        "type": "text"
+      },
+      {
+        "box": "borrower-name",
+        "label": "the name and address of the individual from whom the interest was received",
+        "type": "text"
+      },
+      {
+        "box": "origination-date",
+        "label": "the date of origination of such loan",
+        "type": "date",
+        "note": "Schedule 1-A's first requirement is a loan originated after December 31, 2024; this date is the evidence."
+      },
+      {
+        "box": "outstanding-principal",
+        "label": "the amount of outstanding principal on the specified passenger vehicle loan as of the beginning of such calendar year",
+        "type": "money"
+      },
+      {
+        "box": "vehicle-year-make-model",
+        "label": "the year, make, model",
+        "type": "text"
+      }
+    ],
+    "notes": "There is no IRS information return for 2025: Notice 2025-57 lets a lender furnish its own statement. The two boxes are the two things Schedule 1-A line 22 asks for, in its own words \u2014 the VIN and the interest for the loan. KIND, CITED: Notice 2025-57 section 3 lets a lender 'satisfy the reporting obligations under section 6050AA' for 2025 'by making a statement available to the individual' - so this statement IS the section 6050AA payee statement for 2025, which is why it is declared an information return rather than a taxpayer record. Section 6050AA(b) names what the return carries: the borrower, the interest, the outstanding principal at the beginning of the year, the date of origination and the vehicle's year, make, model and VIN - declared below; a 2025 statement may carry only the interest.",
+    "face_not_boxes": [
+      {
+        "slot": "3",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "5",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "6",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "7",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "8",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "9",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "10",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "11",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "12",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "13",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "14a",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "15",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "16",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "17",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "18",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "19",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "20",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      },
+      {
+        "slot": "21",
+        "because": "a line of Schedule 1-A (Form 1040) \u2014 the form this statement's interest is deducted on \u2014 not a box of the lender's statement, which prints no numbered boxes"
+      }
+    ]
+  },
+  "extraction": {
+    "model": "custom.lender-car-loan-statement",
+    "note": "No prebuilt model reads a lender's own statement; read by the declared custom model over the two boxes Schedule 1-A line 22 asks for. Unmeasured.",
+    "custom": {
+      "reads": "a lender's year-end statement of interest paid on a loan to buy a passenger vehicle.",
+      "sections": [
+        {
+          "document": "lender-car-loan-statement",
+          "boxes": [
+            "borrower-name",
+            "origination-date",
+            "outstanding-principal",
+            "vehicle-year-make-model",
+            "interest",
+            "vin"
+          ]
+        }
+      ]
+    }
+  }
+}

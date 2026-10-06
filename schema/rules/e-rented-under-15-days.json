@@ -1,0 +1,62 @@
+{
+  "rule": {
+    "id": "e-rented-under-15-days",
+    "title": "Used as a home and rented under 15 days: nothing on Schedule E",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-rental-income-and-expense-records.rents_received",
+        "taxpayer-rental-income-and-expense-records.advertising",
+        "taxpayer-rental-income-and-expense-records.auto_and_travel",
+        "taxpayer-rental-income-and-expense-records.cleaning_and_maintenance",
+        "taxpayer-rental-income-and-expense-records.commissions",
+        "taxpayer-rental-income-and-expense-records.insurance",
+        "taxpayer-rental-income-and-expense-records.legal_and_other_professional_fees",
+        "taxpayer-rental-income-and-expense-records.management_fees",
+        "taxpayer-rental-income-and-expense-records.mortgage_interest",
+        "taxpayer-rental-income-and-expense-records.other_interest",
+        "taxpayer-rental-income-and-expense-records.other_expenses",
+        "taxpayer-rental-income-and-expense-records.repairs",
+        "taxpayer-rental-income-and-expense-records.supplies",
+        "taxpayer-rental-income-and-expense-records.taxes",
+        "taxpayer-rental-income-and-expense-records.utilities"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "property-used-as-home-and-rented-under-15-days"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "property-used-as-home-and-rented-under-15-days",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "A rental is rented 15 days or more unless a preparer says otherwise"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule E (Form 1040)",
+      "line": "Line 2",
+      "revision": "2025",
+      "wording": "If you did use the unit as a home and rented the unit out for fewer than 15 days in 2025, do not report the rental income and do not deduct any rental expenses.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040se--2025.pdf"
+    },
+    "open_point": "Every figure of the property's own record is counted 0.00. The mortgage interest, taxes and casualty losses the same paragraph allows on Schedule A are not moved there: the record's rows offer no Schedule A line. A Form 1098 or 1099-MISC matched to the property is not acted on.",
+    "research_ids": [
+      "e-rented-under-15-days"
+    ]
+  }
+}

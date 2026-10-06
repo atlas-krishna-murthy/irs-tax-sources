@@ -1,0 +1,48 @@
+{
+  "rule": {
+    "id": "e-rental-income-inclusions",
+    "title": "A security deposit to be returned is not rent",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-rental-income-and-expense-records.rents_received"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-refundable-security-deposit"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-refundable-security-deposit",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Rent received is rent unless a preparer says it is a deposit to be returned"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Publication 527",
+      "line": "Security deposits",
+      "revision": "2025",
+      "wording": "Don\u2019t include a security deposit in your income when you receive it if you plan to return it to your tenant at the end of the lease.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p527--2025.pdf"
+    },
+    "open_point": "The other inclusions Publication 527 lists (advance rent, expenses a tenant pays, property or services received as rent) ADD to rent: the client's rent item already holds whatever they recorded, and no rule may create a figure, so they are not applied here.",
+    "research_ids": [
+      "e-rental-income-inclusions"
+    ]
+  }
+}

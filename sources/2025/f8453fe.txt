@@ -1,0 +1,129 @@
+Form   8453-FE                                           U.S. Estate or Trust Declaration
+                                                              for an IRS e-file Return
+                                                                                                                                                                      OMB No. 1545-0967
+
+
+
+
+Department of the Treasury
+                              For calendar year 2025, or fiscal year beginning                             , 2025, and ending
+                                          File electronically with the estate’s or trust’s return. Do not file paper copies.
+                                                                                                                                                         , 20
+                                                                                                                                                                        2025
+Internal Revenue Service                            Go to www.irs.gov/Form8453FE for the latest information.
+Name of estate or trust                                                                                                                                 Employer identification number
+
+
+Name and title of fiduciary
+
+
+
+ Part I        Tax Return Information
+
+
+   1 Total income (Form 1041, line 9) .                 .   .    .     .   .   .   .   .   .   .   .   .     .    .   .   .   .      .     .    .        1
+
+   2 Income distribution deduction (Form 1041, line 18) .                          .   .   .   .   .   .     .    .   .   .   .      .     .    .        2
+
+   3 Taxable income (Form 1041, line 23)                    .    .     .   .   .   .   .   .   .   .   .     .    .   .   .   .      .     .    .        3
+
+   4 Total tax (Form 1041, line 24) .               .   .   .    .     .   .   .   .   .   .   .   .   .     .    .   .   .   .      .     .    .        4
+
+   5 Tax due or overpayment (Form 1041, line 28 or 29) .                           .   .   .   .   .   .     .    .   .   .   .      .     .    .        5
+ Part II       Declaration of Fiduciary
+   6        I authorize the U.S. Treasury and its designated Financial Agent to initiate an ACH electronic funds withdrawal (direct debit) entry to the financial institution
+            account indicated in the tax preparation software for payment of the estate’s or trust’s taxes owed on this return, and the financial institution to debit the entry to
+            this account. To revoke a payment, I must contact the U.S. Treasury Financial Agent at 1-888-353-4537 no later than 2 business days prior to the payment
+            (settlement) date. I also authorize the financial institutions involved in the processing of the electronic payment of taxes to receive confidential information
+            necessary to answer inquiries and resolve issues related to the payment.
+
+Under penalties of perjury, I declare that the above amounts (or the amounts on the attached listing) agree with the amounts shown on the corresponding lines of the
+electronic portion of the 2025 U.S. Income Tax Return(s) for Estates and Trusts. I have also examined a copy of the return(s) being filed electronically with the IRS, and all
+accompanying schedules and statements. To the best of my knowledge and belief, they are true, correct, and complete. If I am not the transmitter, I consent that the return(s),
+including this declaration and accompanying schedules and statements, be sent to the IRS by the return transmitter. I also consent to the IRS’s sending the ERO and/or
+transmitter an acknowledgment of receipt of transmission and an indication of whether or not the return(s) is accepted, and, if rejected, the reason(s) for the rejection.
+
+Sign
+Here        Signature of fiduciary or officer representing fiduciary                                                                     Date
+
+Part III       Declaration of Electronic Return Originator (ERO) and Paid Preparer (see instructions)
+I declare that I have reviewed the above estate or trust return(s) and that the entries on Form 8453-FE are complete and correct to the best of my knowledge. If I am only a
+collector, I am not responsible for reviewing the return(s), and only declare that this form accurately reflects the data on the return(s). The fiduciary or an officer representing
+the fiduciary will have signed this form before I submit the return(s). I will give the fiduciary or officer representing the fiduciary a copy of all forms and information to be filed
+with the IRS, and have followed all other requirements described in Pub. 4164, Modernized e-File (MeF) Guide for Software Developers and Transmitters. If I am also the
+paid preparer, under penalties of perjury I declare that I have examined the above estate or trust return(s) and accompanying schedules and statements, and to the best of
+my knowledge and belief, they are true, correct, and complete. Declaration of preparer is based on all information of which the preparer has any knowledge.
+
+
+                  ERO’s                                                            Date                          Check if         Check if                ERO’s SSN or PTIN
+ERO’s             signature                                                                                      also paid        self-
+                                                                                                                 preparer         employed
+Use               Firm’s name (or yours                                                                                           EIN
+Only              if self-employed),
+                  address, and ZIP code                                                                                           Phone no.
+Under penalties of perjury, I declare that I have examined the above estate or trust return(s) and accompanying schedules and statements, and to the best of my knowledge
+and belief, they are true, correct, and complete. Declaration of preparer is based on all information of which the preparer has any knowledge.
+
+
+                  Preparer’s name                                      Preparer’s signature                                   Date                                      PTIN
+Paid                                                                                                                                                      Check if
+                                                                                                                                                          self-employed
+Preparer
+                  Firm’s name                                                                                                                       Firm’s EIN
+Use Only          Firm’s address                                                                                                                    Phone no.
+For Privacy Act and Paperwork Reduction Act Notice, see instructions.                                        Cat. No. 65092M                          Form 8453-FE (2025) Created 1/13/26
+Form 8453-FE (2025)                                                                                                                        Page 2
+
+
+Future Developments                                                          A paid preparer who is also the ERO checks the box in the ERO’s
+                                                                           Use Only section labeled “Check if also paid preparer.” A paid
+For the latest information about developments related to Form              preparer who is not the ERO must sign Form 8453-FE in the space
+8453-FE and its instructions, such as legislation enacted after they       for Paid Preparer Use Only.
+were published, go to www.irs.gov/Form8453FE.
+Caution: File electronically with the estate's or trust's return. Do not   Use of PTIN
+file paper copies.                                                         Paid preparers. Anyone who is paid to prepare the estate’s or
+                                                                           trust’s return must enter their preparer tax identification number
+Purpose of Form                                                            (PTIN) in Part III. For information on applying for and receiving a
+Use Form 8453-FE to:                                                       PTIN, see Form W-12, IRS Paid Preparer Tax Identification Number
+• Authenticate the electronic Form 1041, U.S. Income Tax Return            (PTIN) Application and Renewal, or go to www.irs.gov/PTIN.
+for Estates and Trusts;                                                    EROs who are not paid preparers. Only an ERO who is not the
+• Authorize the electronic filer to transmit via a third-party             paid preparer of the return has the option to enter their PTIN or their
+transmitter; and                                                           social security number in the ERO’s Use Only section of Part III. For
+                                                                           information on applying for and receiving a PTIN, see Form W-12 or
+• Authorize an electronic funds withdrawal for payment of federal          go to www.irs.gov/PTIN.
+taxes owed.
+                                                                           Privacy Act and Paperwork Reduction Act Notice. We ask for the
+When To File                                                               information on this form to carry out the Internal Revenue laws of
+An estate or trust must file its income tax return by the 15th day of      the United States. You are required to give us the information. We
+the 4th month following the close of its tax year. This filing date also   need it to ensure that you are complying with these laws. Internal
+applies to returns filed electronically.                                   Revenue Code (Code) section 6109 requires EROs to provide their
+                                                                           identifying numbers.
+Line 5
+                                                                              You are not required to provide the information requested on a
+Payment of the tax due on line 5 of this form can be made using            form that is subject to the Paperwork Reduction Act unless the form
+Electronic Federal Tax Payment System (EFTPS) or by ACH                    displays a valid OMB control number. Books or records relating to a
+electronic funds withdrawal (direct debit). If the payment is by ACH       form or its instructions must be retained as long as their contents
+electronic funds withdrawal (direct debit), be sure to check the box       may become material in the administration of any Internal Revenue
+on line 6.                                                                 law. Generally, tax returns and return information are confidential,
+   To get more information about EFTPS or to enroll in EFTPS, go to        as required by Code section 6103.
+www.EFTPS.gov or call 800-555-4477. To contact EFTPS using                    The time needed to complete this form will vary depending on
+Telecommunications Relay Services (TRS) for people who are deaf,           individual circumstances. The estimated average time is:
+hard of hearing, or have a speech disability, dial 711 and provide
+the TRS assistant the 800-555-4477 number above or                         Recordkeeping . . . . . . . . . . . . 2 hr., 37 min.
+800-733-4829. Additional information about EFTPS is also available         Learning about the law or the form . . . . . 0 hr., 12 min.
+in Pub. 966.                                                               Preparing and sending the form . . . . . . 0 hr., 15 min.
+Line 6                                                                     Comments and suggestions. We welcome your comments about
+                                                                           this publication and suggestions for future editions.
+Check the box only if you choose to pay the tax due by ACH
+electronic funds withdrawal (direct debit). Otherwise, leave the box          You can send us comments through www.irs.gov/
+blank.                                                                     FormComments. Or, you can write to the Internal Revenue Service,
+                                                                           Tax Forms and Publications, 1111 Constitution Ave. NW, IR-6526,
+Declaration of Electronic Return Originator                                Washington, DC 20224.
+(ERO) and Paid Preparer                                                       Although we can’t respond individually to each comment
+                                                                           received, we do appreciate your feedback and will consider your
+The ERO is one who deals directly with the fiduciary and either            comments and suggestions as we revise our tax forms, instructions,
+prepares tax returns or collects prepared tax returns, including           and publications. Don’t send tax questions, tax returns, or
+Forms 8453-FE, for fiduciaries who wish to have the return of the          payments to the above address.
+estate or trust electronically filed. The ERO’s signature is required
+by the IRS.
+

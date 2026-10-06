@@ -1,0 +1,72 @@
+{
+  "rule": {
+    "id": "a-c-01",
+    "title": "Canceled debt reaches the line its debt belongs to",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "route_among",
+    "acts_on": {
+      "boxes": [
+        "1099-C.2"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "canceled-debt-was"
+      }
+    ],
+    "params": {
+      "cases": [
+        {
+          "when": {
+            "answer": "canceled-debt-was",
+            "is": "sole_proprietorship"
+          },
+          "to": {
+            "form": "schedule-c",
+            "line": "6"
+          }
+        },
+        {
+          "when": {
+            "answer": "canceled-debt-was",
+            "is": "rental_real_estate"
+          },
+          "to": {
+            "form": "schedule-e",
+            "line": "3"
+          }
+        },
+        {
+          "when": {
+            "answer": "canceled-debt-was",
+            "is": "nonbusiness"
+          },
+          "to": {
+            "form": "form-1040",
+            "line": "8",
+            "sub_line": "8c"
+          }
+        }
+      ]
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 4681",
+      "line": "Form 1099-C",
+      "revision": "2025",
+      "wording": "You must report any taxable canceled debt as ordinary income on: • Schedule 1 (Form 1040), line 8c, if the debt is a nonbusiness debt; • Schedule C (Form 1040), line 6, if the debt is related to a nonfarm sole proprietorship; • Schedule E (Form 1040), line 3, if the debt is related to nonfarm rental of real property;",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p4681--2025.pdf"
+    },
+    "open_point": "Farm debt (Schedule F, Form 4835) is out of scope and offered no line. A partial exclusion (insolvency to the extent insolvent) is Form 982 arithmetic and is not applied."
+  }
+}

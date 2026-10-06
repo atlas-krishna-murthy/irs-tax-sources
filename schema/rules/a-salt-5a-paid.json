@@ -1,0 +1,45 @@
+{
+  "rule": {
+    "id": "a-salt-5a-paid",
+    "title": "Only state and local income taxes paid in 2025 reach Schedule A line 5a",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-tax-payment-records.state_and_local_income_taxes_paid"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "state-or-local-income-tax-paid-in-2025"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "state-or-local-income-tax-paid-in-2025",
+        "is": "no"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "yes",
+      "because": "A tax on the 2025 record was paid in 2025 unless a preparer says otherwise"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Schedule A (Form 1040)",
+      "line": "5a",
+      "revision": "2025",
+      "wording": "State and local income taxes paid in 2025 for a prior year, such as taxes paid with your 2024 state or local income tax return.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "open_point": "Penalties and interest are not taxes; an item that is one is the preparer's to remove."
+  }
+}

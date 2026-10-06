@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-not-medical-care",
+    "wording": "Is this something other than medical care \u2014 not for the diagnosis, cure, mitigation, treatment or prevention of disease or for affecting a part or function of the body (for example housework, general health items, cosmetic surgery)?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 not medical care"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 medical or dental care"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this something other than medical care \u2014 not for the diagnosis, cure, mitigation, treatment or prevention of disease or for affecting a part or function of the body (for example housework, general health items, cosmetic surgery)?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 502",
+        "line": "What Are Medical Expenses?",
+        "revision": "2025",
+        "wording": "Medical expenses are the costs of diagnosis, cure, mitigation, treatment, or prevention of disease and for the purpose of affecting any part or function of the body.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p502--2025.pdf"
+      }
+    }
+  }
+}

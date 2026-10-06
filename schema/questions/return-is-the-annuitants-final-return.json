@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "return-is-the-annuitants-final-return",
+    "wording": "Is this the final income tax return of the annuitant (the last annuitant to die) whose investment in the pension or annuity was not fully recovered?",
+    "scope": "engagement",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 the final return"
+      },
+      {
+        "value": "no",
+        "label": "No"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "This is not the annuitant's final return unless a preparer says so"
+    },
+    "basis": {
+      "citation": {
+        "form": "Pub. 575",
+        "line": "Exclusion limit",
+        "revision": "2025",
+        "wording": "If Bill and his spouse die before 310 payments are made, an itemized deduction will be allowed for the unrecovered cost on the final income tax return of the last to die.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p575--2025.pdf"
+      }
+    }
+  }
+}

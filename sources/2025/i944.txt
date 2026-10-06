@@ -1,0 +1,979 @@
+2025
+Instructions for Form 944
+Employer’s ANNUAL Federal Tax Return
+Section references are to the Internal Revenue Code              $25,000 of qualified tips received in occupations that
+unless otherwise noted.                                          customarily and regularly received tips on or before
+                                                                 December 31, 2024, on their income tax returns. Qualified
+Future Developments                                              tips are cash tips, which include voluntary cash or charged
+                                                                 tips received from customers or, in the case of employees,
+For the latest information about developments related to         through tip-sharing arrangements. Mandatory service
+Form 944 and its instructions, such as legislation enacted       charges added to the bill are not qualified tips. Employers
+after they were published, go to IRS.gov/Form944.                must use an employee’s updated Form W-4, Employee’s
+                                                                 Withholding Certificate, if one is submitted by the
+What’s New                                                       employee, and the federal income tax withholding
+                                                                 procedures in Pub. 15-T, Federal Income Tax Withholding
+Social security and Medicare taxes for 2025. The                 Methods, to allow the employee to account for their
+social security tax rate is 6.2% each for the employee and       expected deduction and receive more money in each
+employer. The social security wage base limit is $176,100.       paycheck instead of waiting until filing their income tax
+   The Medicare tax rate is 1.45% each for the employee          return to receive the full benefit of this deduction. Tips are
+and employer, unchanged from 2024. There is no wage              still generally subject to both the employer share and
+base limit for Medicare tax.                                     employee share of social security tax and Medicare tax if
+   Social security and Medicare taxes apply to the wages         the tips received are $20 or more per month.
+of household workers you pay $2,800 or more in cash                  Employers and other payers must file information
+wages in 2025. Social security and Medicare taxes apply          returns (for example, Forms W-2, 1099-MISC, and
+to election workers who are paid $2,400 or more in cash          1099-NEC) with the Social Security Administration (SSA)
+or an equivalent form of compensation in 2025.                   or the IRS, as applicable, and furnish statements to tip
+                                                                 recipients showing cash tips received and the Treasury
+Direct deposit of Form 944 refund is now available.              Tipped Occupation Code of the tip recipient. However, the
+Executive Order (EO) 14247, Modernizing Payments To              IRS has provided transition relief to employers and payers
+and From America’s Bank Account, issued on March 25,             for the tax year 2025 reporting requirements. For more
+2025, promotes operational efficiency by mandating the           information, see Notice 2025-62, 2025-48 I.R.B. 740,
+transition to electronic payments for all federal                available at IRS.gov/irb/2025-48_IRB#NOT-2025-62.
+disbursements. Accordingly, the IRS will now issue Form
+944 tax refunds by direct deposit. Direct deposit is a fast,     Withholding on qualified overtime compensation.
+simple, safe, and secure way to have your refund                 For tax years beginning after 2024, and ending before
+deposited automatically to your checking or savings              2029, P.L. 119-21 allows individuals (employees and other
+account. Instead of a direct deposit refund, you can still       workers not treated as employees) to deduct up to
+choose to have your Form 944 overpayment applied to              $12,500 ($25,000 if married filing jointly) of qualified
+your next return by checking the appropriate box on              overtime compensation on their income tax returns.
+line 12b. For more information, see the instructions for         Qualified overtime is compensation that exceeds the
+line 12b and Direct Deposit, later.                              regular rate of pay (such as the “half” portion of
+                                                                 time-and-a-half compensation) that is required to be paid
+Make balance due payments electronically. EO 14247               to an individual under section 7 of the Fair Labor
+also promotes operational efficiency by mandating the            Standards Act (FLSA) of 1938. The FLSA provides that
+transition to electronic payments for all payments made to       employers must generally pay covered, nonexempt
+the federal government. Therefore, pay your balance due          employees at least one-and-a-half times their regular rate
+on Form 944 electronically. There are several easy, safe,        of pay for hours worked over 40 hours per week. For more
+and secure ways to pay your balance due electronically.          information about overtime compensation, go to dol.gov/
+For more information, see the instructions for line 11, later.   agencies/whd/overtime. Employers must use an
+Form 944 return transcripts are now available elec-              employee’s updated Form W-4, if one is submitted by the
+tronically. You can now access your Form 944 return              employee, and the federal income tax withholding
+transcript for tax years 2023 and later using your IRS           procedures in Pub. 15-T to allow the employee to account
+business tax account. For more information, go to                for their expected deduction and receive more money in
+IRS.gov/BusinessTranscript. To access your IRS business          each paycheck instead of waiting until filing their income
+tax account, go to IRS.gov/BusinessAccount.                      tax return to receive the full benefit of this deduction.
+                                                                 Overtime compensation is still generally subject to both
+Withholding on qualified tips. For tax years beginning
+                                                                 the employer share and employee share of social security
+after 2024, and ending before 2029, P.L. 119-21,
+                                                                 tax and Medicare tax.
+commonly known as the One Big Beautiful Bill Act, allows
+employees and self-employed individuals to deduct up to
+                                   Instructions for Form 944 (2025) Catalog Number 39820A
+Nov 24, 2025                   Department of the Treasury Internal Revenue Service www.irs.gov
+   Employers and other payers must file information            credit amount that will be used against the employer’s
+returns (for example, Forms W-2, 1099-MISC, and                payroll taxes are made on Form 6765, Credit for
+1099-NEC) with the SSA or IRS, as applicable, and              Increasing Research Activities. The amount from Form
+furnish statements to overtime recipients showing              6765 must then be reported on Form 8974, Qualified
+qualified overtime compensation paid during the year.          Small Business Payroll Tax Credit for Increasing Research
+However, the IRS has provided transition relief to             Activities.
+employers and payers for the tax year 2025 reporting               Starting in the first quarter of 2023, the payroll tax credit
+requirements. For more information, see Notice 2025-62.        is first used to reduce the employer share of social
+Reminders                                                      security tax up to $250,000 per quarter and any remaining
+                                                               credit reduces the employer share of Medicare tax for the
+References applicable to other forms. Unless                   quarter. Any remaining credit, after reducing the employer
+otherwise noted, references throughout these instructions      share of social security tax and the employer share of
+to Form W-2 include Forms W-2AS, W-2CM, W-2GU,                 Medicare tax, is then carried forward to the next quarter.
+W-2VI, and 499R-2/W-2PR; references to Form W-2c               Form 8974 is used to determine the amount of the credit
+include Form 499R-2c/W-2cPR; references to Form W-3            that can be used in the current year. The amount from
+include Forms W-3SS and W-3 (PR); and references to            Form 8974, line 12 or, if applicable, line 17, is reported on
+Form W-3c include Form W-3C (PR).                              line 8. For more information about the payroll tax credit,
+                                                               see the Instructions for Form 8974 and go to IRS.gov/
+The COVID-19 related credit for qualified sick and
+                                                               ResearchPayrollTC. Also, see Adjusting tax liability for the
+family leave wages is limited to leave taken after
+                                                               qualified small business payroll tax credit for increasing
+March 31, 2020, and before October 1, 2021, and may
+                                                               research activities (line 8), later.
+no longer be claimed on Form 944. Generally, the
+credit for qualified sick and family leave wages, as           Forms 941-SS and 941-PR discontinued after 2023.
+enacted under the Families First Coronavirus Response          Form 941-SS, Employer’s QUARTERLY Federal Tax
+Act (FFCRA) and amended and extended by the                    Return—American Samoa, Guam, the Commonwealth of
+COVID-related Tax Relief Act of 2020, for leave taken after    the Northern Mariana Islands, and the U.S. Virgin Islands;
+March 31, 2020, and before April 1, 2021, and the credit       and Form 941-PR, Planilla para la Declaración Federal
+for qualified sick and family leave wages under sections       TRIMESTRAL del Patrono, were discontinued after the
+3131, 3132, and 3133 of the Internal Revenue Code, as          fourth quarter of 2023. Instead, employers in the U.S.
+enacted under the American Rescue Plan Act of 2021 (the        territories who weren’t notified to file Form 944 file Form
+ARP), for leave taken after March 31, 2021, and before         941 or, if you prefer your form and instructions in Spanish,
+October 1, 2021, have expired. However, employers that         you can file Form 941 (sp).
+pay qualified sick and family leave wages in 2025 for leave    Pubs. 51, 80, and 179 discontinued after 2023. Pub.
+taken after March 31, 2020, and before October 1, 2021,        51, Agricultural Employer’s Tax Guide; Pub. 80, Federal
+are eligible to claim a credit for qualified sick and family   Tax Guide for Employers in the U.S. Virgin Islands, Guam,
+leave wages in 2025. Effective for tax periods beginning       American Samoa, and the Commonwealth of the Northern
+after 2023, the lines used to claim the credit for qualified   Mariana Islands; and Pub. 179, Guía Contributiva Federal
+sick and family leave wages have been removed from             para Patronos Puertorriqueños, were discontinued for tax
+Form 944 because it would be extremely rare for an             years beginning after 2023. Instead, information specific
+employer to pay wages after 2023 for qualified sick and        to agricultural employers and employers in the U.S.
+family leave taken after March 31, 2020, and before            territories is included in Pub. 15. If you prefer Pub. 15 in
+October 1, 2021. Instead, if you’re eligible to claim the      Spanish, see Pub. 15 (sp).
+credit for qualified sick and family leave wages because
+you paid the wages in 2025 for an earlier applicable leave     Forms in Spanish. Many forms and instructions
+period, file Form 944-X, Adjusted Employer’s ANNUAL            discussed in these instructions have Spanish-language
+Federal Tax Return or Claim for Refund, after filing Form      versions available for employers and employees. Some
+944, to claim the credit for qualified sick and family leave   examples include Form 941 (sp), Form 944 (sp), Form
+wages paid in 2025. Filing a Form 944-X before filing a        SS-4 (sp), Form W-4 (sp), and Form W-9 (sp). Although
+Form 944 for the year may result in errors or delays in        these instructions don’t reference Spanish-language
+processing your Form 944-X.                                    forms and instructions in each instance that one is
+                                                               available, you can see Pub. 15 (sp) and go to IRS.gov/
+Qualified small business payroll tax credit for in-            SpanishForms to determine if a Spanish-language version
+creasing research activities. For tax years beginning          is available.
+before 2023, a qualified small business may elect to claim
+up to $250,000 of its credit for increasing research           Work opportunity tax credit for qualified tax-exempt
+activities as a payroll tax credit. The Inflation Reduction    organizations hiring qualified veterans. Qualified
+Act of 2022 (the IRA) increases the election amount to         tax-exempt organizations that hire eligible unemployed
+$500,000 for tax years beginning after 2022. The payroll       veterans may be able to claim the work opportunity tax
+tax credit election must be made on or before the due date     credit against their payroll tax liability using Form 5884-C.
+of the originally filed income tax return (including           For more information, go to IRS.gov/WOTC.
+extensions). The portion of the credit used against payroll    Employers can request to file quarterly Forms 941 in-
+taxes is allowed in the first calendar quarter beginning       stead of Form 944. Employers required to file Form 944,
+after the date that the qualified small business filed its     who want to file quarterly Forms 941 instead, must contact
+income tax return. The election and determination of the       the IRS to request to file quarterly Forms 941 and opt out
+
+2                                                                                           Instructions for Form 944 (2025)
+of filing Form 944. See Requesting To File Quarterly             than a Saturday, Sunday, or legal holiday. The term “legal
+Forms 941 Instead of Form 944, later.                            holiday” for deposit purposes includes only those legal
+                                                                 holidays in the District of Columbia. Legal holidays in the
+Correcting a previously filed Form 944. If you discover
+                                                                 District of Columbia are provided in Pub. 15.
+an error on a previously filed Form 944, make the
+correction using Form 944-X. Form 944-X is filed                 Electronic filing and payment. Businesses can enjoy
+separately from Form 944. For more information, see the          the benefits of filing tax returns and paying their federal
+Instructions for Form 944-X, section 13 of Pub. 15, or go to     taxes electronically. Whether you rely on a tax
+IRS.gov/CorrectingEmploymentTaxes.                               professional or handle your own taxes, the IRS offers you
+Federal tax deposits must be made by electronic                  convenient and secure programs to make filing and paying
+funds transfer (EFT). You must use EFT to make all               easier. Spend less time worrying about taxes and more
+federal tax deposits. An EFT can be made using the               time running your business. Use e-file and electronic
+Electronic Federal Tax Payment System (EFTPS) or your            payment options to your benefit.
+IRS business tax account. If you don’t want to use one of        • For e-file, go to IRS.gov/EmploymentEfile for more
+                                                                 information. A fee may be charged to file electronically.
+these methods, you can arrange for your tax professional,
+financial institution, payroll service, or other trusted third   • For electronic payment options, see the instructions for
+party to make electronic deposits on your behalf. Also, you      line 11, later, and go to IRS.gov/Pay.
+may arrange for your financial institution to initiate a         • For electronic filing of Forms W-2, Wage and Tax
+same-day wire payment on your behalf. EFTPS is a free            Statement, go to SSA.gov/employer. You may be required
+service provided by the Department of the Treasury.              to file Forms W-2 electronically. For details, see the
+Payments made using your IRS business tax account are            General Instructions for Forms W-2 and W-3. The SSA’s
+also free. Services provided by your tax professional,           Business Services Online (BSO) is an independent
+financial institution, payroll service, or other third party     program from the Government of Puerto Rico electronic
+may have a fee.                                                  filing system. Employers in Puerto Rico must go to
+                                                                 Hacienda.pr.gov for additional information.
+   For more information on depositing taxes, see section
+11 of Pub. 15. For more information about making                 Caution: If you’re filing your tax return or paying your
+payments through your IRS business tax account, go to            federal taxes electronically, a valid employer identification
+IRS.gov/BusinessAccount. For more information about              number (EIN) is required at the time the return is filed or
+EFTPS or to enroll in EFTPS, go to EFTPS.gov or call one         the payment is made. If a valid EIN isn’t provided, the
+of the following numbers.                                        return or payment won’t be processed. This may result in
+• 800-555-4477                                                   penalties. See Employer identification number (EIN), later,
+• 800-244-4829 (Spanish)                                         for information about applying for an EIN.
+• 303-967-5916 if you’re outside the United States (toll           Electronic funds withdrawal (EFW). If you file Form
+call)                                                            944 electronically, you can e-file and use EFW to pay the
+To contact EFTPS using Telecommunications Relay                  balance due in a single step using tax preparation
+Services (TRS) for people who are deaf, hard of hearing,         software or through a tax professional. However, don’t use
+or have a speech disability, dial 711 and then provide the       EFW to make federal tax deposits. For more information
+TRS assistant with the 800-555-4477 number above or              on paying your taxes using EFW, go to IRS.gov/EFW.
+800-733-4829.
+                                                                 Credit or debit card payments. You can pay the
+   Additional information about EFTPS is also available in       balance due shown on Form 944 by credit or debit card.
+Pub. 966.                                                        Your payment will be processed by a payment processor
+                                                                 who will charge a processing fee. Don’t use a credit or
+Caution: EFTPS accepts same-day payments of $1
+                                                                 debit card to make federal tax deposits. For more
+million or less if the payment is submitted before 3:00 p.m.
+                                                                 information on paying your taxes with a credit or debit
+Eastern time on a business day. If your payment is more
+                                                                 card, go to IRS.gov/PayByCard.
+than $1 million, you must submit the deposit by 8:00 p.m.
+Eastern time the day before the date the deposit is due.         Online payment agreement. You may be eligible to
+   Same-day wire payment option. If you fail to submit a         apply for an installment agreement online if you can’t pay
+timely deposit transaction on EFTPS, you can still make          the full amount of tax you owe when you file your return.
+your deposit on time by using the Federal Tax Collection         For more information, see What if you can’t pay in full,
+Service (FTCS) to make a same-day wire payment. To use           later.
+the same-day wire payment method, you will need to               Paid preparers. If you use a paid preparer to complete
+make arrangements with your financial institution ahead of       Form 944, the paid preparer must complete and sign the
+time. Check with your financial institution regarding            paid preparer’s section of the form.
+availability, deadlines, and costs. Your financial institution
+may charge you a fee for payments made this way. To              Outsourcing payroll duties. You’re responsible to
+learn more about the information you will need to give your      ensure that tax returns are filed and deposits and
+financial institution to make a same-day wire payment, go        payments are made, even if you contract with a third party
+to IRS.gov/SameDayWire.                                          to perform these acts. You remain responsible if the third
+   Timeliness of federal tax deposits. If a deposit is           party fails to perform any required action. Before you
+required to be made on a day that isn’t a business day, the      choose to outsource any of your payroll and related tax
+deposit is considered timely if it is made by the close of       duties (that is, withholding, reporting, and paying over
+the next business day. A business day is any day other           social security, Medicare, FUTA, and income taxes) to a
+
+Instructions for Form 944 (2025)                                                                                               3
+third-party payer, such as a payroll service provider or            For more information about annual employment tax
+reporting agent, go to IRS.gov/OutsourcingPayrollDuties         filing and tax deposit rules, see Treasury Decision 9566,
+for helpful information on this topic. For more information     2012-8 I.R.B. 389, at IRS.gov/irb/2012-08_IRB#TD-9566.
+on the different types of third-party payer arrangements,
+see section 16 of Pub. 15.                                      Who Must File Form 944?
+Where can you get telephone help? For answers to                In general, if the IRS has notified you to file Form 944, you
+your questions about completing Form 944 or tax deposit         must file Form 944 instead of quarterly Forms 941 to
+rules, call the IRS at one of the numbers listed below.         report the following amounts.
+• 800-829-4933 (Business and Specialty Tax Line) or
+800-829-4059 (TDD/TTY for persons who are deaf, hard            • Wages you have paid.
+of hearing, or have a speech disability), Monday–Friday         • Tips your employees reported to you.
+from 7:00 a.m. to 7:00 p.m. local time (Alaska and Hawaii       • Federal income tax you withheld.
+follow Pacific time; employers in Puerto Rico receive           • Both the employer and the employee share of social
+service from 8:00 a.m. to 8:00 p.m. local time).                security and Medicare taxes.
+• 267-941-1000 if you’re outside the United States (toll        • Additional Medicare Tax withheld from employees.
+call), Monday–Friday from 6:00 a.m. to 11:00 p.m. Eastern       • Current year’s adjustments to social security and
+time.                                                           Medicare taxes for fractions of cents, sick pay, tips, and
+                                                                group-term life insurance.
+Photographs of missing children. The IRS is a proud             • Qualified small business payroll tax credit for increasing
+partner with the National Center for Missing & Exploited        research activities.
+Children® (NCMEC). Photographs of missing children
+selected by the Center may appear in instructions on            Exceptions
+pages that would otherwise be blank. You can help bring         Special rules apply to some employers. The following
+these children home by looking at the photographs and           employers can’t file Form 944.
+calling 1-800-THE-LOST (1-800-843-5678) if you
+recognize a child.                                              • Household employers. If you employ only household
+                                                                employees, don’t file Form 944. For more information, see
+General Instructions                                            Pub. 926 and Schedule H (Form 1040).
+                                                                • Agricultural employers. If you employ only agricultural
+                                                                employees, don’t file Form 944. For more information, see
+Purpose of Form 944                                             Pub. 15 and Form 943.
+Form 944 is designed so the smallest employers (those           • Employers who were notified by the IRS to file
+whose annual liability for social security, Medicare, and       quarterly Forms 941. This includes if you requested and
+withheld federal income taxes is $1,000 or less) will file      received written confirmation from the IRS that your filing
+and pay these taxes only once a year instead of every           requirement was changed from Form 944 to Form 941.
+quarter. These instructions tell you who must file Form         • Employers who weren’t notified to file Form 944. If
+944, how to complete it line by line, and when and where        the IRS didn’t notify you to file Form 944, don’t file Form
+to file it.                                                     944. If you would like to file Form 944 instead of quarterly
+                                                                Forms 941, see Requesting To File Form 944 in 2026
+   If you want more in-depth information about payroll tax
+                                                                Instead of Quarterly Forms 941, later.
+topics relating to Form 944, see Pub. 15 and go to
+IRS.gov/EmploymentTaxes.                                        Caution: If the IRS notified you in writing to file Form 944,
+                                                                you must file Form 944 (and not quarterly Forms 941)
+Caution: References to federal income tax withholding
+                                                                even if your tax liability for 2025 exceeds $1,000. If you’re
+don’t apply to employers in American Samoa, Guam, the
+                                                                unsure of your current filing requirement, call
+Commonwealth of the Northern Mariana Islands (CNMI),
+                                                                800-829-4933. If you’re outside the United States, call
+the U.S. Virgin Islands (USVI), and Puerto Rico, unless
+                                                                267-941-1000 (toll call).
+you have employees who are subject to U.S. income tax
+withholding. Contact your local tax department for              Requesting To File Form 944 in 2026 Instead of
+information about income tax withholding.                       Quarterly Forms 941
+   Federal law requires you, as an employer, to withhold        If you haven’t received notification to file Form 944 for
+certain taxes from your employees’ pay. Each time you           2026 but estimate your employment tax liability for
+pay wages, you must withhold—or take out of your                calendar year 2026 will be $1,000 or less and would like to
+employees’ pay—certain amounts for federal income tax,          file Form 944 instead of Forms 941, you can contact the
+social security tax, and Medicare tax. You must also            IRS to request to file Form 944 for 2026. Based on current
+withhold Additional Medicare Tax from wages you pay to          tax rates, if you pay $5,000 or less in wages subject to
+an employee in excess of $200,000 in a calendar year.           social security and Medicare taxes and federal income tax
+Under the withholding system, taxes withheld from your          withholding during the calendar year, you’re generally
+employees are credited to your employees in payment of          likely to pay $1,000 or less in employment taxes. To file
+their tax liabilities.                                          Form 944 for calendar year 2026, you must call the IRS at
+   Federal law also requires you to pay any liability for the   800-829-4933 (267-941-1000 (toll call) if you’re outside
+employer share of social security tax and Medicare tax.         the United States) between January 1, 2026, and April 1,
+This share of social security tax and Medicare tax isn’t        2026, or send a written request postmarked between
+withheld from employees.                                        January 1, 2026, and March 16, 2026.
+
+4                                                                                           Instructions for Form 944 (2025)
+   The mailing addresses for written requests are                 • The new owner’s name (or the new name of the
+provided under Requesting To File Quarterly Forms 941             business).
+Instead of Form 944, later. The IRS will send you a written       • Whether the business is now a sole proprietorship,
+notice that your filing requirement has been changed to           partnership, or corporation.
+Form 944. If you don’t receive this notice, you must file         • The kind of change that occurred (a sale or transfer).
+quarterly Forms 941 for calendar year 2026.                       • The date of the change.
+                                                                  • The name of the person keeping the payroll records and
+Requesting To File Quarterly Forms 941 Instead                    the address where those records will be kept.
+of Form 944
+You must file Form 944 if the IRS has notified you to do so,      If Your Business Has Closed...
+unless the IRS notifies you to file quarterly Forms 941
+instead, or you contact the IRS to request to file those          If you permanently go out of business or stop paying
+forms. To request to file quarterly Forms 941 to report your      wages to your employees, you must file a final return. To
+social security, Medicare, and withheld federal income            tell the IRS that Form 944 for 2025 is your final return,
+taxes for the 2026 calendar year, call the IRS at                 check the box on line 14 and enter the final date you paid
+800-829-4933 (267-941-1000 (toll call) if you’re outside          wages. Attach a statement to your return showing the
+the United States) between January 1, 2026, and April 1,          name of the person keeping the payroll records and the
+2026, or send a written request postmarked between                address where those records will be kept.
+January 1, 2026, and March 16, 2026.
+                                                                     If you participated in a statutory merger or
+Where to send written requests. Written requests                  consolidation, or qualify for predecessor-successor status
+should be sent to:                                                due to an acquisition, you should generally file
+                                                                  Schedule D (Form 941), Report of Discrepancies Caused
+Department of the Treasury           Department of the Treasury   by Acquisitions, Statutory Mergers, or Consolidations. See
+Internal Revenue Service     or      Internal Revenue Service     the Instructions for Schedule D (Form 941) to determine
+Ogden, UT 84201-0038                 Cincinnati, OH 45999-0038    whether you should file Schedule D (Form 941) and when
+                                                                  you should file it.
+
+   If you would mail your return filed without a payment to
+                                                                  When Must You File?
+Ogden, as shown under Where Should You File, later,               For 2025, file Form 944 by February 2, 2026. However, if
+send your request to the Ogden address shown above. If            you made deposits on time in full payment of the taxes
+you would mail your return filed without a payment to             due for the year, you may file the return by February 10,
+Kansas City, send your request to the address for                 2026.
+Cincinnati shown above. After you contact the IRS, the
+IRS will send you a written notice that your filing                   File Form 944 only once for each calendar year. If you
+requirement has been changed. If you don’t receive this           filed Form 944 electronically, don’t file a paper Form 944.
+notice, you must file Form 944 for calendar year 2026. For        For more information about filing Form 944 electronically,
+more information about these procedures, see Rev. Proc.           see Electronic filing and payment, earlier.
+2009-51, 2009-45 I.R.B. 625, available at IRS.gov/irb/               If we receive Form 944 after the due date, we will treat
+2009-45_IRB#RP-2009-51.                                           Form 944 as filed on time if the envelope containing Form
+What if You Reorganized or Closed Your                            944 is properly addressed, contains sufficient postage,
+                                                                  and is postmarked by the U.S. Postal Service (USPS) on
+Business?                                                         or before the due date, or sent by an IRS-designated
+If You Sold or Transferred Your Business...                       private delivery service (PDS) on or before the due date. If
+                                                                  you don’t follow these guidelines, we will generally
+If you sold or transferred your business in 2025, you and         consider Form 944 filed when it is actually received. For
+the new owner must each file a Form 944 or 941,                   more information about PDSs, see Where Should You
+whichever is required, for the year in which the transfer         File, later.
+occurred. Report only the wages you paid.
+                                                                  How Should You Complete Form 944?
+    When two businesses merge, the continuing firm must           Enter your EIN, name, and address in the spaces
+file a return for the year in which the change took place         provided. Also, enter your name and EIN at the top of
+and the other firm should file a final return.                    page 2. Don’t use your social security number (SSN) or
+                                                                  individual taxpayer identification number (ITIN). Generally,
+   Changing from one form of business to another—such             enter the business (legal) name that you used when you
+as from a sole proprietorship to a partnership or                 applied for your EIN. For example, if you’re a sole
+corporation—is considered a transfer. If a transfer occurs,       proprietor, enter “Tyler Smith” on the Name line and
+you may need a new EIN. See Pub. 1635 and section 1 of            “Tyler’s Cycles” on the Trade name line. Leave the Trade
+Pub. 15 for more information.                                     name line blank if it is the same as your Name.
+
+   Attach a statement to your return with all the following         If you use a tax preparer to complete Form 944, make
+information.                                                      sure the preparer uses your correct business name and
+                                                                  EIN.
+
+Instructions for Form 944 (2025)                                                                                                5
+Employer identification number (EIN). To make sure                  entries to whole dollars. Always show an amount for cents,
+that businesses comply with federal tax laws, the IRS               even if it is zero.
+monitors tax filings and payments by using a numerical              • Leave blank any data field with a value of zero (except
+system to identify taxpayers. A unique nine-digit EIN is            line 9).
+assigned to all corporations, all partnerships, and some            • Enter negative amounts using a minus sign (if possible).
+sole proprietors. A business needing an EIN must apply              Otherwise, use parentheses.
+for a number and use it throughout the life of the business         • Enter your name and EIN on all pages.
+on all tax returns, payments, and reports.                          • Enter your name, your EIN, “Form 944,” and the tax year
+                                                                    on all attachments.
+   Your business should have only one EIN. If you have
+more than one and aren’t sure which one to use, write to
+                                                                    • Staple multiple sheets in the upper left corner when
+                                                                    filing.
+the IRS office where you file your returns (using the
+Without a payment address under Where Should You File,              Complete both pages. You must complete both pages
+later) or call the IRS at 800-829-4933. If you’re outside the       of Form 944 and sign on page 2. Failure to do so may
+United States, call 267-941-1000 (toll call).                       delay processing of your return.
+   If you don’t have an EIN, you may apply for one online
+                                                                    Required Notice to Employees About the Earned
+by going to IRS.gov/EIN. You may also apply for an EIN by
+faxing or mailing Form SS-4 to the IRS. If the principal            Income Credit (EIC)
+business was created or organized outside of the United             To notify employees about the EIC, you must give the
+States or U.S. territories, you may also apply for an EIN by        employees, except for employees in American Samoa,
+calling 267-941-1099 (toll call). If you have applied for an        Guam, Puerto Rico, the CNMI, and the USVI, one of the
+EIN but don’t have your EIN by the time a return is due, file       following items.
+a paper return and write “Applied For” and the date you             • Form W-2, which has the required information about the
+applied in the space shown for the number.                          EIC on the back of Copy B.
+                                                                    • A substitute Form W-2 with the same EIC information
+Caution: If you’re filing your tax return electronically, a         on the back of the employee’s copy that is on the back of
+valid EIN is required at the time the return is filed. If a valid   Copy B of the IRS Form W-2.
+EIN isn’t provided, the return won’t be accepted. This may          • Notice 797, Possible Federal Tax Refund Due to the
+result in penalties.                                                Earned Income Credit (EIC).
+   Always be sure the EIN on the form you file exactly              • Your written statement with the same wording as
+matches the EIN the IRS assigned to your business. Don’t            Notice 797.
+use your SSN or ITIN on forms that ask for an EIN. If you
+                                                                      For more information, see section 10 of Pub. 15, Pub.
+used an EIN (including a prior owner’s EIN) on Form 944
+                                                                    596, and IRS.gov/EIC.
+that is different from the EIN reported on Form W-3, see
+Box h—Other EIN used this year in the General                       Reconciling Form 944 With Form W-3
+Instructions for Forms W-2 and W-3. On Form W-3 (PR),
+                                                                    The IRS matches amounts reported on your Form 944
+“Other EIN used this year” is reported in box f. Filing a
+                                                                    with Form W-2 amounts totaled on your Form W-3. If the
+Form 944 with an incorrect EIN or using another
+                                                                    amounts don’t agree, you may be contacted by the IRS or
+business’s EIN may result in penalties and delays in
+                                                                    the SSA. The following amounts are reconciled.
+processing your return.
+If you change your business name, business ad-                      • Federal income tax withholding, if applicable.
+dress, or responsible party. Notify the IRS immediately             • Social security wages.
+if you change your business name, business address, or              • Social security tips.
+responsible party.                                                  • Medicare wages and tips.
+• Write to the IRS office where you file your returns (using
+the Without a payment address under Where Should You                  For more information, see section 12 of Pub. 15.
+File, later) to notify the IRS of any business name change.
+See Pub. 1635 to see if you need to apply for a new EIN.
+                                                                    Where Should You File?
+• Complete and mail Form 8822-B to notify the IRS of a              You’re encouraged to file Form 944 electronically. Go to
+business address or responsible party change. Don’t mail            IRS.gov/EmploymentEfile for more information on
+Form 8822-B with your Form 944. For a definition of                 electronic filing. If you file a paper return, where you file
+“responsible party,” see the Instructions for Form SS-4.            depends on whether you include a payment with Form
+                                                                    944. Mail your return to the address listed for your location
+Completing and Filing Form 944                                      in the table that follows.
+Make entries on Form 944 as follows to enable accurate
+processing.                                                             PDSs can’t deliver to P.O. boxes. You must use the
+                                                                    USPS to mail an item to a P.O. box address. Go to
+• Use 12-point Courier font (if possible) for all entries if        IRS.gov/PDS for the current list of PDSs. For the IRS
+you’re typing or using a computer to complete Form 944.
+                                                                    mailing address to use if you’re using a PDS, go to
+Portable Document Format (PDF) forms on IRS.gov have
+                                                                    IRS.gov/PDSstreetAddresses. Select the mailing address
+fillable fields with acceptable font specifications.
+                                                                    listed on the webpage that is in the same state as the
+• Don’t enter dollar signs and decimal points. Commas               address to which you would mail returns filed without a
+are optional. Report dollars to the left of the preprinted
+                                                                    payment, as shown next.
+decimal point and cents to the right of it. Don’t round
+
+6                                                                                               Instructions for Form 944 (2025)
+                                  Without a                               Federal Tax Deposit Requirements for Form 944
+If you’re in...                   payment...          With a payment...
+                                                                          Filers
+Connecticut       New Jersey     Department of the    Internal Revenue
+Delaware          New York       Treasury             Service
+District of       North Carolina Internal Revenue     P.O. Box 932100            If your tax liability is:      Your deposit requirement is:
+Columbia          Ohio           Service              Louisville, KY
+Georgia           Pennsylvania Kansas City, MO        40293-2100           Less than $2,500 for the year      No deposit required. You may pay
+Illinois          Rhode Island 64999-0044                                                                     the tax with your return. If you’re
+Indiana           South Carolina                                                                              unsure that your tax liability for the
+Kentucky          Tennessee                                                                                   year will be less than $2,500,
+Maine             Vermont                                                                                     deposit under the rules below.
+Maryland          Virginia
+Massachusetts     West Virginia                                            $2,500 or more for the year, but   You can deposit by the last day of
+Michigan          Wisconsin                                                less than $2,500 for the quarter   the month after the end of a
+New Hampshire                                                                                                 quarter. However, if your fourth
+                                                                                                              quarter tax liability is less than
+Alabama           Missouri        Department of the   Internal Revenue
+                                                                                                              $2,500, you may pay the fourth
+Alaska            Montana         Treasury            Service
+Arizona           Nebraska        Internal Revenue    P.O. Box 932100
+                                                                                                              quarter’s tax liability with Form
+Arkansas          Nevada          Service             Louisville, KY                                          944.
+California        New Mexico      Ogden, UT           40293-2100           $2,500 or more for the quarter     You must deposit monthly or
+Colorado          North Dakota    84201-0044
+                                                                                                              semiweekly depending on your
+Florida           Oklahoma
+Hawaii            Oregon
+                                                                                                              deposit schedule. But, if you
+Idaho             South Dakota                                                                                accumulate $100,000 or more of
+Iowa              Texas                                                                                       taxes on any day, you must
+Kansas            Utah                                                                                        deposit the tax by the next
+Louisiana         Washington                                                                                  business day. See section 11 of
+Minnesota         Wyoming                                                                                     Pub. 15.
+Mississippi
+
+No legal residence or principal   Internal Revenue    Internal Revenue      See section 11 of Pub. 15 for information about
+place of business in any state,   Service             Service             payments made under the accuracy of deposits rule.
+including employers in American   P.O. Box 409101     P.O. Box 932100
+Samoa, Guam, the CNMI, the        Ogden, UT 84409     Louisville, KY
+                                                                             When you make deposits depends on your deposit
+USVI, and Puerto Rico                                 40293-2100
+                                                                          schedule, which is either monthly or semiweekly,
+Special filing address for        Department of the   Internal Revenue    depending on the amount of your tax liability during the
+exempt organizations; federal,    Treasury            Service
+state, and local governmental     Internal Revenue    P.O. Box 932100
+                                                                          lookback period. The lookback period for Form 944 filers
+entities; and Indian tribal       Service             Louisville, KY      is different from the lookback period for Form 941 filers, so
+governmental entities,            Ogden, UT           40293-2100          your deposit schedule may have changed. For more
+regardless of location            84201-0044                              information, see section 11 of Pub. 15. If you’re a monthly
+                                                                          schedule depositor and accumulate a $100,000 tax
+                                                                          liability on any day during the deposit period, you become
+Caution: Your filing address may have changed from that                   a semiweekly schedule depositor on the next day and
+used to file your employment tax return in prior years.                   remain so for at least the rest of the calendar year and for
+Don’t send Form 944 or any payments to the SSA.                           the following calendar year. The $100,000 tax liability
+                                                                          threshold requiring a next-day deposit is determined
+Must You Deposit Your Taxes?                                              before you consider any reduction of your liability for
+                                                                          nonrefundable credits.
+If your total taxes after adjustments and nonrefundable
+credits (Form 944, line 9) are less than $2,500 for the year,             What About Penalties and Interest?
+you can pay the taxes with your return. To avoid a penalty,
+you should pay in full and file on time. You don’t have to                Avoiding Penalties and Interest
+deposit the taxes. However, you may choose to make                        You can avoid paying penalties and interest if you do all of
+deposits of these taxes even if your liability is less than               the following.
+$2,500. If your liability for these taxes is $2,500 or more,
+you’re generally required to deposit the taxes instead of                 • Deposit or pay your taxes when they are due.
+paying them when you file Form 944. See the Federal Tax                   • File your fully completed Form 944 on time.
+Deposit Requirements for Form 944 Filers chart, later. If                 • Report your tax liability accurately.
+you don’t deposit the taxes when required, you may be                     • Submit valid checks for tax payments.
+subject to penalties and interest.                                        • Give accurate Forms W-2 to employees.
+    The $2,500 threshold at which federal tax deposits                    • File Form W-3 and Copies A of Forms W-2 with the
+must be made is different from the amount of annual tax                   SSA on time and accurately. Go to SSA.gov/employer for
+liability ($1,000 or less) that makes an employer eligible to             information on how to file Forms W-2 electronically.
+file Form 944. Form 944 filers whose businesses grow                         Penalties and interest are charged on taxes paid late
+during the year may be required to make federal tax                       and returns filed late at a rate set by law. See sections 11
+deposits (see chart next), but they will still file Form 944              and 12 of Pub. 15 for details. Use Form 843 to request
+for the year.                                                             abatement of assessed penalties or interest. Don’t
+                                                                          request abatement of assessed penalties or interest on
+                                                                          any other form.
+
+Instructions for Form 944 (2025)                                                                                                                       7
+   If you receive a notice about a penalty after you file your    Caution: References to federal income tax withholding
+return, reply to the notice with an explanation and we will       don’t apply to employers in American Samoa, Guam, the
+determine if you meet reasonable-cause criteria. Don’t            CNMI, the USVI, and Puerto Rico, unless you have
+include an explanation when you file your return.                 employees who are subject to U.S. income tax
+                                                                  withholding.
+Caution: If federal income, social security, and Medicare
+taxes that must be withheld (that is, trust fund taxes) aren’t    3. If No Wages, Tips, and Other Compensation
+withheld or aren’t deposited or paid to the United States         Are Subject to Social Security or Medicare Tax...
+Treasury, the trust fund recovery penalty may apply. The          If no wages, tips, and other compensation on line 1 are
+penalty is 100% of the unpaid trust fund tax. If these            subject to social security or Medicare tax, check the box
+unpaid taxes can’t be immediately collected from the              on line 3 and go to line 5. If this question doesn’t apply to
+employer or business, the trust fund recovery penalty may         you, leave the box blank. For more information about
+be imposed on all persons who are determined by the IRS           exempt wages, see section 15 of Pub. 15. For religious
+to be responsible for collecting, accounting for, or paying       exemptions, see section 4 of Pub. 15-A. For information
+over these taxes, and who acted willfully in not doing so.        on the employment tax treatment of fringe benefits, see
+For more information, see section 11 of Pub. 15. The trust        Pub. 15-B.
+fund recovery penalty won’t apply to any amount of trust
+fund taxes an employer holds back in anticipation of any          4a–4e. Taxable Social Security and Medicare
+credits to which they’re entitled.                                Wages and Tips
+                                                                    4a. Taxable social security wages. Enter the total
+Specific Instructions                                             wages, sick pay, and taxable fringe benefits subject to
+                                                                  social security taxes that you paid to your employees
+Part 1: Answer These Questions for                                during the year. For this purpose, sick pay includes
+This Year                                                         payments made by an insurance company to your
+                                                                  employees for which you received timely notice from the
+Caution: Employers in American Samoa, Guam, the                   insurance company. See section 6 of Pub. 15-A for more
+CNMI, the USVI, and Puerto Rico must skip lines 1 and 2,          information about sick pay reporting. See the instructions
+unless you have employees who are subject to U.S.                 for line 6, later, for an adjustment that you may need to
+income tax withholding.                                           make on Form 944 for sick pay.
+1. Wages, Tips, and Other Compensation                               Enter the amount before payroll deductions. Don’t
+Enter amounts on line 1 that would also be included in            include tips on this line. For information on types of wages
+box 1 of your employees’ Forms W-2. See Box 1—Wages,              subject to social security taxes, see section 5 of Pub. 15.
+tips, other compensation in the General Instructions for             For 2025, the rate of social security tax on taxable
+Forms W-2 and W-3 for details. Include sick pay paid by           wages is 6.2% (0.062) each for the employer and
+your agent. Also include sick pay paid by a third party that      employee. Stop paying social security tax on and entering
+isn’t your agent (for example, an insurance company) if           an employee’s wages on line 4a when the employee’s
+you were given timely notice of the payments and the third        taxable wages and tips reach $176,100 for the year.
+party transferred liability for the employer’s taxes to you.      However, continue to withhold income and Medicare taxes
+                                                                  for the whole year on all wages and tips, even when the
+   If you’re a third-party payer of sick pay and not an agent     social security wage base limit of $176,100 has been
+of the employer, don’t include sick pay that you paid to          reached.
+policyholders’ employees here if you gave the
+policyholders timely notice of the payments. See section 6                                  line 4a (column 1)
+of Pub. 15-A, Employer’s Supplemental Tax Guide, for                                    x     0.124
+more information about sick pay reporting and the                                           line 4a (column 2)
+procedures for transferring the liability to the employer.
+
+2. Federal Income Tax Withheld From Wages,                           4b. Taxable social security tips. Enter all tips your
+Tips, and Other Compensation                                      employees reported to you during the year until the total of
+                                                                  the tips and taxable wages, including wages reported on
+Enter the federal income tax that you withheld (or were           line 4a, for an employee reaches $176,100 for the year.
+required to withhold) from your employees on this year’s          Include all tips your employees reported to you even if you
+wages, tips, taxable fringe benefits, and supplemental            were unable to withhold the 6.2% employee share of
+unemployment compensation benefits. Don’t include any             social security tax. You will reduce your total taxes by the
+income tax withheld by a third-party payer of sick pay even       amount of any uncollected employee share of social
+if you reported it on Forms W-2. You will reconcile this          security and Medicare taxes on tips later on line 6; see
+difference on Form W-3. For information on the                    Adjustments for tips and group-term life insurance, later.
+employment tax treatment of fringe benefits, see Pub.             Don’t include service charges on line 4b. For details about
+15-B. For information about supplemental unemployment             the difference between tips and service charges, see Rev.
+compensation benefits, see section 5 of Pub. 15-A.                Rul. 2012-18, 2012-26 I.R.B. 1032, available at
+   If you’re a third-party payer of sick pay, enter the federal   IRS.gov/irb/2012-26_IRB#RR-2012-18.
+income tax you withheld (or were required to withhold) on             Your employee must report cash tips to you by the 10th
+third-party sick pay here.                                        day of the month after the month the tips are received.
+
+8                                                                                               Instructions for Form 944 (2025)
+Cash tips include tips paid by cash, check, debit card, and       4e. Total social security and Medicare taxes. Add
+credit card. The report should include charged tips (for       the column 2 amounts on lines 4a–4d. Enter the result on
+example, credit and debit card charges) you paid over to       line 4e.
+the employee for charge customers, tips the employee
+received directly from customers, and tips received from       5. Total Taxes Before Adjustments
+other employees under any tip-sharing arrangement. Both        Add the total federal income tax withheld from wages, tips,
+directly and indirectly tipped employees must report tips to   and other compensation from line 2 and the total social
+you. No report is required for months when tips are less       security and Medicare taxes before adjustments from
+than $20. Employees may submit a written statement or          line 4e. Enter the result on line 5.
+electronic tip record.
+                                                               6. Current Year’s Adjustments
+                       line 4b (column 1)
+                                                               Enter tax amounts that result from current period
+                     x 0.124                                   adjustments. Use a minus sign (if possible) to show an
+                       line 4b (column 2)                      adjustment that decreases the total taxes shown on line 5.
+                                                               Otherwise, use parentheses.
+   For more information on tips, see section 6 of Pub. 15.         In certain cases, you must adjust the amounts you
+  4c. Taxable Medicare wages and tips. Enter all               entered as social security and Medicare taxes in column 2
+wages, tips, sick pay, and taxable fringe benefits that are    of lines 4a–4d to figure your correct tax liability for this
+subject to Medicare tax. Unlike social security wages,         year’s Form 944. See section 13 of Pub. 15.
+there is no limit on the amount of wages subject to               Adjustment for fractions of cents. Enter adjustments
+Medicare tax. See the instructions for line 6, later, for an   for fractions of cents (due to rounding) relating to the
+adjustment that you may need to make on Form 944 for           employee share of social security and Medicare taxes
+sick pay.                                                      withheld. The employee share of amounts shown in
+   The rate of Medicare tax is 1.45% (0.0145) each for the     column 2 of lines 4a–4d may differ slightly from amounts
+employer and employee. Include all tips your employees         actually withheld from employees’ pay due to rounding
+reported during the year, even if you were unable to           social security and Medicare taxes based on statutory
+withhold the employee tax of 1.45%.                            rates. This adjustment may be a positive or a negative
+                                                               adjustment.
+                         line 4c (column 1)                       Adjustment for sick pay. If your third-party payer of
+                     x     0.029                               sick pay that isn’t your agent (for example, an insurance
+                         line 4c (column 2)                    company) transfers the liability for the employer share of
+                                                               the social security and Medicare taxes to you, enter a
+                                                               negative adjustment on line 6 for the employee share of
+   4d. Taxable wages & tips subject to Additional              social security and Medicare taxes that were withheld and
+Medicare Tax withholding. Enter all wages, tips, sick          deposited by your third-party sick pay payer on the sick
+pay, and taxable fringe benefits that are subject to           pay. If you’re the third-party sick pay payer and you
+Additional Medicare Tax withholding. You’re required to        transferred the liability for the employer share of the social
+begin withholding Additional Medicare Tax in the pay           security and Medicare taxes to the employer, enter a
+period in which you pay wages in excess of $200,000 to         negative adjustment on line 6 for any employer share of
+an employee and continue to withhold it each pay period        these taxes required to be paid by the employer. The sick
+until the end of the calendar year. Additional Medicare Tax    pay should be included on line 4a, line 4c, and, if the
+is only imposed on the employee. There is no employer          withholding threshold is met, line 4d.
+share of Additional Medicare Tax. All wages that are
+                                                                   No adjustment is reported on line 6 for sick pay that is
+subject to Medicare tax are subject to Additional Medicare
+                                                               paid through a third party as an employer’s agent. An
+Tax withholding if paid in excess of the $200,000
+                                                               employer’s agent bears no insurance risk and is
+withholding threshold.
+                                                               reimbursed on a cost-plus-fee basis for payment of sick
+    For more information on what wages are subject to          pay and similar amounts. If an employer uses an agent to
+Medicare tax, see section 15 of Pub. 15. For more              pay sick pay, the employer reports the wages on line 4a,
+information on Additional Medicare Tax, go to IRS.gov/         line 4c, and, if the withholding threshold is met, line 4d,
+ADMTfaqs. See the instructions for line 6, later, for an       unless the employer has an agency agreement with the
+adjustment that you may need to make on Form 944 for           third-party payer that requires the third-party payer to do
+sick pay.                                                      the collecting, reporting, and/or paying or depositing
+    Once wages and tips exceed the $200,000 withholding        employment taxes on the sick pay. See section 6 of Pub.
+threshold, include all tips your employees reported during     15-A for more information about reporting sick pay.
+the year, even if you were unable to withhold the employee        Adjustments for tips and group-term life insurance.
+tax of 0.9%.                                                   Enter a negative adjustment for:
+                         line 4d (column 1)                    • Any uncollected employee share of social security and
+                     x     0.009
+                                                               Medicare taxes on tips, and
+                         line 4d (column 2)
+                                                               • The uncollected employee share of social security and
+                                                               Medicare taxes on group-term life insurance premiums
+                                                               paid for former employees.
+
+
+Instructions for Form 944 (2025)                                                                                           9
+   See the General Instructions for Forms W-2 and W-3            more under the instructions for line 9, earlier, for
+for information on how to report the uncollected employee        exceptions.
+share of social security and Medicare taxes on tips and             If you were required to make federal tax deposits, pay
+group-term life insurance on Form W-2.                           the amount shown on line 11 by EFT. If you weren’t
+Prior year’s adjustments. If you need to adjust any              required to make federal tax deposits (see the Federal Tax
+amount reported on line 6 from a previously filed Form           Deposit Requirements for Form 944 Filers chart, earlier)
+944, complete and file Form 944-X. Form 944-X is an              or you’re a monthly schedule depositor making a payment
+adjusted return or claim for refund and is filed separately      under the accuracy of deposits rule, pay the amount
+from Form 944. See section 13 of Pub. 15.                        shown on line 11 by EFT, credit card, debit card, check,
+                                                                 money order, or EFW. For more information on electronic
+7. Total Taxes After Adjustments                                 payment options, go to IRS.gov/Pay.
+Combine the amounts shown on lines 5 and 6 and enter                If you pay by EFT, credit card, or debit card, file your
+the result on line 7.                                            return using the Without a payment address under Where
+                                                                 Should You File, earlier. Don’t file Form 944-V, Payment
+8. Qualified Small Business Payroll Tax Credit                   Voucher.
+for Increasing Research Activities                                  If you pay by check or money order, make it payable to
+Enter the amount of the credit from Form 8974, line 12 or,       “United States Treasury.” Enter your EIN, “Form 944,” and
+if applicable, line 17. If you enter an amount on line 8, you    the tax year on your check or money order. Complete
+must attach Form 8974.                                           Form 944-V and enclose it with Form 944.
+9. Total Taxes After Adjustments and                             Caution: If you’re required to make deposits and instead
+Nonrefundable Credits                                            pay the taxes with Form 944, you may be subject to a
+Subtract line 8 from line 7 and enter the result on line 9.      penalty.
+The amount entered on line 9 can’t be less than zero.            What if you can’t pay in full? If you can’t pay the full
+• If line 9 is less than $2,500, you may pay the amount          amount of tax you owe, you can apply for an installment
+with Form 944 or you may deposit the amount.                     agreement online. You can apply for an installment
+• If line 9 is $2,500 or more, you must generally deposit        agreement online if:
+your tax liabilities by EFT. However, if you deposited all       • You can’t pay the full amount shown on line 11,
+taxes accumulated in the first 3 quarters of the year and        • The total amount you owe is $25,000 or less, and
+your fourth quarter liability is less than $2,500, you may       • You can pay the liability in full in 24 months.
+pay taxes accumulated during the fourth quarter with Form           To apply using the Online Payment Agreement
+944. Also, see section 11 of Pub. 15 for information about       Application, go to IRS.gov/OPA.
+payments made under the accuracy of deposits rule. The
+                                                                    Under an installment agreement, you can pay what you
+amount shown on line 9 must equal the amount shown on
+                                                                 owe in monthly installments. There are certain conditions
+line 13m or the “Total tax liability for the year” shown on
+                                                                 you must meet to enter into and maintain an installment
+line M of Form 945-A, Annual Record of Federal Tax
+                                                                 agreement, such as paying the liability within 24 months,
+Liability. For more information, see the line 13 instructions,
+                                                                 and making all required deposits and timely filing tax
+later.
+                                                                 returns during the length of the agreement.
+   For more information and rules about federal tax
+                                                                    If your installment agreement is accepted, you will be
+deposits, see Must You Deposit Your Taxes, earlier, and
+                                                                 charged a fee and you will be subject to penalties and
+section 11 of Pub. 15.
+                                                                 interest on the amount of tax not paid by the due date of
+Caution: If you’re a semiweekly schedule depositor, you          the return.
+must complete Form 945-A. If you fail to complete and
+                                                                 12a. Overpayment
+submit Form 945-A, the IRS may assess deposit penalties
+based on available information.                                  If line 10 is more than line 9, enter the amount on line 12a.
+                                                                 Never make an entry on both lines 11 and 12a.
+10. Total Deposits for This Year                                 12b. Choose to have your overpayment applied to
+Enter your deposits for this year, including any                 your next return or refunded. If you deposited more
+overpayment that you applied from filing Form 944-X,             than the correct amount for the year, you can choose to
+941-X, or 941-X (PR) in the current year. Also include in        have the IRS either refund the overpayment or apply it to
+the amount shown any overpayment from a previous                 your next return. Check only one box on line 12b. If you
+period that you applied to this return.                          don’t check either box or if you check both boxes, we will
+                                                                 generally apply the overpayment to your next return.
+11. Balance Due                                                  Regardless of any boxes you check or don’t check on
+If line 9 is more than line 10, enter the difference on          line 12b, we may apply your overpayment to any past due
+line 11. Otherwise, see the instructions for line 12a, later.    tax account that is shown in our records under your EIN. If
+Never make an entry on both lines 11 and 12a.                    you check the box to have your overpayment refunded but
+   You don’t have to pay if line 11 is less than $1.             you don’t complete lines 12c–12e for direct deposit, your
+Generally, you should have a balance due only if your total      refund may be delayed.
+taxes after adjustments and nonrefundable credits (line 9)           If line 12a is less than $1, we will send a refund or apply
+are less than $2,500. However, see If line 9 is $2,500 or        it to your next return only if you ask us in writing to do so.
+
+10                                                                                           Instructions for Form 944 (2025)
+Direct Deposit                                                   Part 2: Tell Us About Your Deposit
+The benefits of a direct deposit include a faster refund, the    Schedule and Tax Liability for This
+added security of a paperless payment, and the savings of
+tax dollars associated with the reduced processing costs.
+                                                                 Year
+To have your refund direct deposited, you must complete
+                                                                 13. Tax Liability
+lines 12c–12e.
+                                                                 If line 9 is less than $2,500, check the first box on line 13
+12c. Routing number. The routing number must be nine             and go to line 14.
+digits. The first two digits must be 01 through 12 or 21
+through 32. Verify that your financial institution will accept      If line 9 is $2,500 or more, check the second box on
+a direct deposit.                                                line 13. If you’re a monthly schedule depositor, enter your
+   Ask your financial institution for the correct routing        tax liability for each month and figure the total liability for
+number to enter on line 12c if:                                  the year. The amounts entered on line 13 are a summary
+                                                                 of your monthly tax liabilities, not a summary of deposits
+• The routing number on a deposit slip is different from         you made. The IRS gets deposit data from EFTs. Enter
+the routing number on your checks,
+                                                                 your tax liabilities in the month that corresponds to the
+• Your deposit is to a savings account that doesn’t allow        dates you paid wages to your employees, not the date
+you to write checks, or
+                                                                 payroll liabilities were accrued or deposits were made. If
+• Your checks state they’re payable through a financial          you don’t enter your tax liability for each month, the IRS
+institution different from the one at which you have your
+checking account.                                                won’t know when you should have made deposits and
+                                                                 may assess an “averaged” failure-to-deposit penalty. See
+12d. Type of account. Check the appropriate box for the          section 11 of Pub. 15. If your tax liability for any month is
+type of account. Don’t check more than one box. You must         negative after accounting for your adjustments reported
+check the correct box to ensure your deposit is accepted.        on line 6, don’t enter a negative amount for the month.
+If you’re unsure which box to check for the account you          Instead, enter zero for the month and subtract that
+wish the deposit to be applied to, consult your financial        negative amount from your tax liability for the next month.
+institution.
+                                                                 Caution: The amount shown on line 13m must equal the
+12e. Account number. The account number can be up
+                                                                 amount shown on line 9. If it doesn’t, your tax deposits
+to 17 characters (both numbers and letters). Include
+                                                                 and payments may not be counted as timely. Don’t
+hyphens but omit spaces and special symbols. Enter the
+                                                                 change your current-year tax liability reported on line 13
+number from left to right and leave any unused boxes
+                                                                 by adjustments reported on any Forms 944-X.
+blank.
+                                                                     If you’re a semiweekly schedule depositor or if you
+   If the direct deposit to your account is different from the   became one because you accumulated $100,000 or more
+amount you expected, you’ll receive an explanation in the        in tax liability on any day in a deposit period, you must
+mail about 2 weeks after your refund is deposited.               complete Form 945-A and file it with Form 944. See
+                                                                 $100,000 Next-Day Deposit Rule in section 11 of Pub. 15.
+Reasons Your Direct Deposit Request Will Be                      Don’t complete lines 13a–13m if you file Form 945-A.
+Rejected                                                         Adjusting tax liability for the qualified small business
+                                                                 payroll tax credit for increasing research activities
+If any of the following apply, your direct deposit request
+                                                                 (line 8). Monthly schedule depositors and semiweekly
+will be rejected and a check will be sent instead.
+                                                                 schedule depositors must account for the qualified small
+• The name on your account doesn’t match the name on             business payroll tax credit for increasing research
+the refund, and your financial institution won’t allow a
+                                                                 activities (line 8) when reporting their tax liabilities on
+refund to be deposited unless the name on the refund
+                                                                 line 13 or Form 945-A. The total tax liability for the year
+matches the name on the account.
+                                                                 must equal the amount reported on line 9. Failure to
+• Your business is a corporation and the receiving               account for the qualified small business payroll tax credit
+financial institution is a foreign bank or a foreign branch of
+                                                                 for increasing research activities on line 13 or Form 945-A
+a U.S. bank.
+                                                                 may cause line 13 or Form 945-A to report more than the
+• You haven’t given a valid account number.                      total tax liability reported on line 9. Don’t reduce your
+• Any numbers or letters on lines 12c–12e are crossed            monthly tax liability reported on lines 13a–13l or your daily
+out or whited out.
+                                                                 tax liability reported on Form 945-A below zero.
+Caution: The IRS isn’t responsible for a lost refund if you         Beginning with the first quarter of 2023, the qualified
+enter the wrong account information. Check with your             small business payroll tax credit for increasing research
+financial institution to get the correct routing and account     activities is first used to reduce the employer share of
+numbers and to make sure your direct deposit will be             social security tax (up to $250,000) for the quarter and any
+accepted.                                                        remaining credit is then used to reduce the employer
+                                                                 share of Medicare tax for the quarter until it reaches zero.
+                                                                 In completing line 13 or Form 945-A, you take into account
+                                                                 the payroll tax credit against the liability for the employer
+                                                                 share of social security tax starting with the first payroll
+                                                                 payment of the quarter that includes payments of wages
+                                                                 subject to social security tax to your employees until you
+
+Instructions for Form 944 (2025)                                                                                              11
+use up to $250,000 of credit against the employer share of       third quarter, the remainder would be treated as a payroll
+social security tax and you then take into account any           tax credit against its share of social security tax (up to
+remaining payroll tax credit against the liability for the       $250,000) and Medicare tax on wages paid in the fourth
+employer share of Medicare tax starting with the first           quarter. If the amount of the payroll tax credit remaining
+payroll payment of the quarter that includes payments of         exceeded Rose Co.’s share of social security tax (up to
+wages subject to Medicare tax to employees. Consistent           $250,000) and Medicare tax on wages paid in the fourth
+with the entries on line 13 or Form 945-A, the payroll tax       quarter, it could be carried forward and treated as a payroll
+credit should be taken into account in making deposits of        tax credit for the first quarter of 2026.
+employment tax. If any payroll tax credit is remaining at
+the end of the quarter that hasn’t been used completely          Part 3: Tell Us About Your Business
+because it exceeds $250,000 of the employer share of
+                                                                 In Part 3, answer question 14 only if it applies to your
+social security tax and the employer share of Medicare tax
+                                                                 business. If it doesn’t apply, leave it blank and go to Part 4.
+for the quarter, the excess credit may be carried forward to
+the succeeding quarter and allowed as a payroll tax credit       14. If Your Business Has Closed...
+for the succeeding quarter. The payroll tax credit may not
+                                                                 If you permanently go out of business or stop paying
+be taken as a credit against income tax withholding, the
+                                                                 wages, you must file a final return. To tell the IRS that 2025
+employee share of social security tax, or the employee
+                                                                 is your final return, check the box on line 14 and enter the
+share of Medicare tax.
+                                                                 date you last paid wages in the space provided. For
+   Also, the remaining payroll tax credit may not be carried     additional filing requirements, including information about
+back and taken as a credit against wages paid from               attaching a statement to your final return, see If Your
+preceding quarters that are reported on the same Form            Business Has Closed, earlier.
+944 or on Forms 944 for preceding years. If an amount of
+payroll tax credit is unused at the end of the calendar year     Part 4: May We Speak With Your
+because it is in excess of the applicable employer share of
+social security tax and employer share of Medicare tax on
+                                                                 Third-Party Designee?
+wages paid during the applicable quarters in the calendar        If you want to allow an employee, a paid tax preparer, or
+year, the remaining payroll tax credit may be carried            another person to discuss your Form 944 with the IRS,
+forward to the first quarter of the succeeding calendar          check the “Yes” box in Part 4. Enter the name, phone
+year as a payroll tax credit against the applicable              number, and five-digit personal identification number
+employer share of social security tax and employer share         (PIN) of the specific person to speak with—not the name
+of Medicare tax on wages paid in that quarter.                   of the firm that prepared your tax return. The designee
+    Example. Rose Co. is an employer with a calendar tax         may choose any five numbers as their PIN.
+year that filed its timely 2024 income tax return on April
+15, 2025. Rose Co. elected to take the qualified small             By checking “Yes,” you authorize the IRS to talk to the
+business payroll tax credit for increasing research              person you named (your designee) about any questions
+activities on Form 6765. The third quarter of 2025 is the        we may have while we process your return. You also
+first quarter that begins after Rose Co. filed the income tax    authorize your designee to do all of the following.
+return making the payroll tax credit election. Therefore, the    • Give us any information that is missing from your return.
+payroll tax credit applies against Rose Co.’s share of           • Call us for information about processing your return.
+social security tax (up to $250,000) and Medicare tax on         • Respond to certain IRS notices that you have shared
+wages paid to employees in the third quarter of 2025.            with your designee about math errors and return
+Rose Co. is a semiweekly schedule depositor. Rose Co.            preparation. The IRS won’t send notices to your designee.
+completes Form 945-A by reducing the amount of liability
+entered for the first payroll payment in the third quarter of       You’re not authorizing your designee to bind you to
+2025 that includes wages subject to social security tax by       anything (including additional tax liability) or to otherwise
+the lesser of (1) its share of social security tax (up to        represent you before the IRS. If you want to expand your
+$250,000) on the wages, or (2) the available payroll tax         designee’s authorization, see Pub. 947.
+credit. If the payroll tax credit elected is more than Rose
+Co.’s share of social security tax on the first payroll             The authorization will automatically expire 1 year after
+payment of the quarter, the excess payroll tax credit would      the due date (without regard to extensions) for filing your
+be carried forward to succeeding payroll payments in the         Form 944. If you or your designee wants to terminate the
+third quarter until it is used against up to $250,000 of Rose    authorization, write to the IRS office for your location using
+Co.’s share of social security tax for the quarter. If the       the Without a payment address under Where Should You
+amount of the payroll tax credit exceeds Rose Co.’s share        File, earlier.
+of social security tax (up to $250,000) on wages paid to its
+employees in the third quarter, any remaining credit is
+                                                                 Part 5: Sign Here (Approved Roles)
+used against Rose Co.’s share of Medicare tax on the first       Complete all information and sign Form 944. The following
+payroll payment of the quarter and then the excess payroll       persons are authorized to sign the return for each type of
+tax credit would be carried forward to succeeding payroll        business entity.
+payments in the third quarter until it is used against Rose      • Sole proprietorship—The individual who owns the
+Co.’s share of Medicare tax for the quarter. If Rose Co. still   business.
+has credit remaining after reducing its share of social          • Corporation (including a limited liability company
+security tax (up to $250,000) and Medicare tax for the           (LLC) treated as a corporation)—The president, the
+
+12                                                                                           Instructions for Form 944 (2025)
+vice president, or another principal officer duly authorized      If you’re a paid preparer, enter your preparer tax
+to sign.                                                       identification number (PTIN) in the space provided.
+• Partnership (including an LLC treated as a                   Include your complete address. If you work for a firm,
+partnership) or unincorporated organization—A                  enter the firm’s name and the EIN of the firm. You can
+responsible and duly authorized partner, member, or            apply for a PTIN online or by filing Form W-12. For more
+officer having knowledge of its affairs.                       information about applying for a PTIN online, go to
+• Single-member LLC treated as a disregarded entity            IRS.gov/PTIN. You can’t use your PTIN in place of the EIN
+for federal income tax purposes—The owner of the               of the tax preparation firm.
+LLC or a principal officer duly authorized to sign.
+                                                                   Generally, don’t complete this section if you’re filing the
+• Trust or estate—The fiduciary.                               return as a reporting agent and have a valid Form 8655 on
+   Form 944 may be signed by a duly authorized agent of        file with the IRS. However, a reporting agent must
+the taxpayer if a valid power of attorney has been filed.      complete this section if the reporting agent offered legal
+Alternative signature method. Corporate officers or            advice, for example, advising the client on determining
+duly authorized agents may sign Form 944 by rubber             whether its workers are employees or independent
+stamp, mechanical device, or computer software program.        contractors for federal tax purposes.
+For details and required documentation, see Rev. Proc.
+2005-39, 2005-28 I.R.B. 82, available at IRS.gov/irb/          How To Get Forms, Instructions, and
+2005-28_IRB#RP-2005-39.
+                                                               Publications
+Paid Preparer Use Only
+                                                               You can view, download, or print most of the forms,
+A paid preparer must sign Form 944 and provide the             instructions, and publications you may need at IRS.gov/
+information in the Paid Preparer Use Only section of Part 5    Forms. Otherwise, you can go to IRS.gov/OrderForms to
+if the preparer was paid to prepare Form 944 and isn’t an      place an order and have forms mailed to you.
+employee of the filing entity. Paid preparers must sign
+paper returns with a manual signature. The preparer must
+give you a copy of the return in addition to the copy to be
+filed with the IRS.
+
+
+
+
+Instructions for Form 944 (2025)                                                                                           13
+Privacy Act and Paperwork Reduction Act Notice. We ask for the information on these forms to carry out the
+Internal Revenue laws of the United States. You’re required to give us the information. We need it to ensure that you’re
+complying with these laws and to allow us to figure and collect the right amount of tax. Section 6011 requires you to
+provide the requested information if the tax is applicable to you. Section 6109 requires you to provide your identification
+number. You’re not required to provide the information requested on a form that is subject to the Paperwork Reduction
+Act unless the form displays a valid OMB control number. Books or records relating to a form or its instructions must be
+retained as long as their contents may become material in the administration of any Internal Revenue law. Generally, tax
+returns and return information are confidential, as required by section 6103. However, section 6103 allows or requires the
+IRS to disclose or give the information shown on your tax return to others as described in the Code. For example, we may
+disclose your tax information to the Department of Justice for civil and criminal litigation, and to cities, states, the District
+of Columbia, and U.S. commonwealths and territories for use in administering their tax laws. We may also disclose this
+information to other countries under a tax treaty, to federal and state agencies to enforce federal nontax criminal laws, or
+to federal law enforcement and intelligence agencies to combat terrorism.
+   Estimates of taxpayer burden. These estimates include forms in the Form 944 series, including attachments; Forms
+CT-1, CT-2, SS-8, W-2, W-3, 940, 945, 2032, 2678, 8027, 8027-T, 8453-EMP, 8850, 8879-EMP, 8922, 8952, and 8974,
+and their schedules; and all the forms employers attach to employment-related tax returns and related wage statements
+to employees.
+   The following tables show burden estimates based on current statutory requirements as of October 1, 2025, for
+employers filing employment tax reporting forms and wage statement forms. Time spent and out-of-pocket costs are
+presented separately. Time burden is the time spent to comply with employer reporting responsibilities, including
+recordkeeping, preparing and submitting forms, and preparing and providing wage statements to employees.
+Out-of-pocket costs include any expenses incurred to comply with employer reporting responsibilities. The amount of
+taxes paid isn’t included in reporting burden.
+   The time and money burdens reported below include all associated forms and schedules, across all tax return
+preparation methods and employer reporting. They are national averages and don’t necessarily reflect a “typical”
+employer’s reporting burden. Most employers experience lower than average burden, with burden varying considerably
+by the number of Forms W-2 that an employer files. For instance, the estimated average burden for an employer who
+issues four Forms W-2 is 63.6 hours (15.9 hours x 4) and $2,480 ($620 x 4). The estimated average burden for a large
+employer who issues 2,000 Forms W-2 is 800 hours (2,000 x 0.4) and $40,000 (2,000 x $20).
+
+
+Annual Average Burden
+                                          Total Time (hours)         Recordkeeping Time    Time Spent on W-2     All Other Time      Out-of-Pocket       Total Monetized
+            Type of Filer
+                                                                           (hours)          Activities (hours)       (hours)             Costs               Burden*
+        Filers with Form 941                       62                        18                     4                    40             $2,760                  $4,890
+        Filers with Form 943                       54                        15                     6                    33              $970                   $2,030
+        Filers with Form 944                       24                         4                     3                    18              $420                    $710
+ * Total monetized burden = monetized hours + out-of-pocket costs.
+
+
+
+
+Annual Average Burden per Employee by Number of Forms W-2 Filed
+              Number of Forms W-2 Filed                               Total Time (hours)                    Out-of-Pocket Costs                 Total Monetized Burden*
+                       All Employers                                         11                                    $440                                  $760
+                            1 to 5                                          15.9                                   $620                                 $1,070
+                            6 to 10                                          5.9                                   $280                                  $480
+                          11 to 25                                           4.4                                   $200                                  $350
+                          26 to 50                                           3.5                                   $130                                  $250
+                         51 to 100                                           2.6                                   $100                                  $190
+                        101 to 250                                           1.8                                   $90                                   $160
+                        251 to 500                                           1.2                                   $70                                   $120
+                       501 to 1,000                                          0.7                                   $50                                   $80
+                        Over 1,000                                           0.4                                   $20                                   $30
+ * Total monetized burden = monetized hours + out-of-pocket costs.
+
+
+
+Annual Average Burden per Employee by Primary Form Filed
+                   Primary Form Filed                                 Total Time (hours)                    Out-of-Pocket Costs                 Total Monetized Burden*
+                         Form 941                                           10.9                                   $440                                  $770
+                         Form 943                                           19.1                                   $300                                  $630
+                         Form 944                                           11.4                                   $220                                  $360
+ * Total monetized burden = monetized hours + out-of-pocket costs.
+
+
+
+14                                                                                                                                Instructions for Form 944 (2025)
+   Comments. If you have comments concerning the accuracy of these time estimates or suggestions for making Form
+944 simpler, we would be happy to hear from you. You can send us comments from IRS.gov/FormComments. Or you can
+send your comments to Internal Revenue Service, Tax Forms and Publications Division, 1111 Constitution Ave. NW,
+IR-6526, Washington, DC 20224. Don’t send Form 944 to this address. Instead, see Where Should You File, earlier.
+
+
+
+
+Instructions for Form 944 (2025)                                                                             15
+

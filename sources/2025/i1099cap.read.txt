@@ -1,0 +1,327 @@
+Instructions for Form
+1099-CAP
+(Rev. April 2025)
+
+Changes in Corporate Control and Capital Structure
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to
+Form 1099-CAP and its instructions, such as legislation
+enacted after they were published, go to IRS.gov/
+Form1099CAP.
+You can get the General Instructions for Certain
+Information Returns at IRS.gov/1099GeneralInstructions.
+
+Reminder
+
+In addition to these specific instructions, you should also
+use the current General Instructions for Certain
+Information Returns. Those general instructions include
+information about the following topics.
+• Who must file.
+• When and where to file.
+• Electronic reporting.
+• Corrected and void returns.
+• Statements to recipients.
+• Taxpayer identification numbers (TINs).
+• Backup withholding.
+• Penalties.
+• Other general topics.
+Continuous use revision. Use these instructions for tax
+year 2025 and subsequent years until a superseding
+revision is issued.
+E-filing Form 1099-CAP. The Taxpayer First Act of 2019
+authorized the Department of the Treasury and the IRS to
+issue regulations that reduce the 205-return e-file
+threshold. T.D. 9972, published February 23, 2023,
+lowered the e-file threshold to 10 (calculated by
+aggregating all information returns), effective for
+information returns required to be filed on or after January
+1, 2024. Go to IRS.gov/IRIS for e-file information.
+Online fillable form. Due to the very low volume of
+paper Forms 1099-CAP received and processed by the
+IRS each year, this form has been converted to an online
+fillable format. You may fill out the form, found online at
+IRS.gov/Form1099CAP, and send Copy B to the recipient.
+For filing with the IRS, follow your usual procedures for
+filing electronically if you are filing 10 or more forms. If you
+are filing this form on paper due to a low volume of
+recipients, for this form only, you may send in the
+black-and-white Copy A with a Form 1096 that you print
+from the IRS website.
+
+Specific Instructions
+
+File Form 1099-CAP, Changes in Corporate Control and
+Capital Structure, for shareholders of a corporation if
+Mar 19, 2025
+
+control of the corporation was acquired or it underwent a
+substantial change in capital structure. Form 1099-CAP is
+furnished to shareholders who receive cash, stock, or
+other property from an acquisition of control or a
+substantial change in capital structure.
+
+Who Must File
+Any broker who holds shares on behalf of a
+
+TIP customer in a corporation that the broker knows or
+
+has reason to know based on readily available
+information has engaged in a transaction of acquisition of
+control or substantial change in capital structure must file
+Form 1099-B unless the customer is an exempt recipient.
+Readily available information includes information from a
+clearing organization, such as the Depository Trust
+Company (DTC). Information is also published on the IRS
+website. Go to IRS.gov and enter keyword “Form 8806” in
+the upper right corner.
+
+A domestic corporation that is required to file Form
+8806, Information Return for Acquisition of Control or
+Substantial Change in Capital Structure, must file Form
+1099-CAP with the IRS and furnish a copy to each
+shareholder who receives cash, stock, or other property
+as a result of the acquisition of control or substantial
+change in capital structure and who is not an exempt
+recipient. However, if the corporation can reasonably
+determine that the receipt of such stock would not cause
+the shareholder to recognize gain, then the corporation is
+not required to report the fair market value (FMV) of any
+stock provided to a shareholder. Corporations do not file
+Form 1099-CAP under one of the following conditions.
+• The transaction involves the acquisition of control within
+an affiliated group or involves stock valued at less than
+$100 million.
+• The corporation makes the consent election on Form
+8806. Under the election, the corporation is not required to
+file Form 1099-CAP with respect to shares held by a
+clearing organization because it allows the IRS to publish
+information necessary for brokers to meet their reporting
+obligations.
+• The corporation properly reports the transaction under
+section 6043(a) on Form 966, Corporate Dissolution or
+Liquidation.
+• Information returns are filed under section 6042 (Form
+1099-DIV) or section 6045 (Form 1099-B), unless the
+corporation knows or has reason to know that such
+returns were not filed.
+
+Exempt Recipients
+The corporation is not required to file Form 1099-CAP for
+the following shareholders including brokers who are also
+exempt.
+
+Instructions for Form 1099CAP (Rev. 4-2025) Catalog Number 35150T
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+• Any shareholder who receives stock in an exchange
+that isn't subject to gain recognition under section 367(a)
+and the regulations.
+• Any shareholder whose amount of cash plus the FMV
+of any stock and other property does not exceed $1,000.
+• Any shareholder from whom the corporation has
+received a properly completed exemption certificate.
+• Any one of the following indicators:
+1. A corporation, except a subchapter S corporation.
+2. A tax-exempt organization.
+3. An individual retirement account (IRA).
+4. The U.S. Government or a state.
+5. A foreign government, an international organization,
+or a foreign central bank of issue.
+6. A real estate investment trust (REIT).
+7. A regulated investment company (RIC).
+8. A securities or commodities dealer.
+9. An entity registered under the Investment Company
+Act of 1940.
+10. A common trust fund.
+11. A financial institution such as a bank, savings and
+loan, credit union, or similar organization.
+• Any foreign person the corporation associates with a
+valid Form W-8BEN, Certificate of Foreign Status of
+Beneficial Owner for United States Tax Withholding and
+Reporting (Individuals), or other documentation upon
+which the corporation relies in order to treat the
+shareholder as a foreign beneficial owner or foreign
+payee. See Regulations section 1.6049-5(c) for more
+information.
+Corporations are not relieved of their withholding
+obligations on nonresident aliens under section
+CAUTION 1441.
+
+!
+
+Acquisition of Control
+An acquisition of control of a corporation (first corporation)
+occurs if, in a transaction or series of related transactions,
+before an acquisition of stock of the first corporation
+(directly or indirectly) by a second corporation, the second
+corporation does not have control of the first corporation;
+after the acquisition, the second corporation has control of
+the first corporation; the FMV of the stock acquired in the
+transaction and in any related transactions as of the date
+or dates on which the stock was acquired is $100 million
+or more; the shareholders of the first corporation receive
+stock or other property pursuant to the acquisition; and
+the first corporation or any of its shareholders is required
+to recognize gain under section 367(a) as a result of the
+transaction.
+For these purposes, control is defined as the ownership
+of stock possessing at least 50% of the total combined
+voting power of all classes of stock entitled to vote, or at
+least 50% of the total value of shares of all classes of
+stock.
+See Form 8806 and Regulations section 1.6043-4 for
+details and special rules with respect to constructive
+ownership of stock. Section 318(a) (relating to
+2
+
+constructive ownership of stock) will apply for purposes of
+determining control.
+Section 338 election. An acquisition of stock of a
+corporation under which a section 338 election is made is
+treated as an acquisition of stock and not as an
+acquisition of the assets of the corporation. See the
+instructions for the Form 8023 for more information.
+
+Substantial Change in Capital Structure
+A substantial change in capital structure occurs if a
+corporation:
+• Has a change in capital structure,
+• The amount of cash or other property provided to its
+shareholders is $100 million or more, and
+• The corporation or any of its shareholders is required to
+recognize gain under section 367(a) as a result of the
+transaction.
+A corporation has a change in capital structure if the
+corporation in a transaction or series of transactions:
+• Merges, consolidates, or otherwise combines with
+another corporation or transfers all or substantially all of its
+assets to one or more corporations;
+• Transfers all or part of its assets to another corporation
+under bankruptcy proceedings including distributing its
+stock or securities; or
+• Changes its identity, form, or place of organization.
+
+When To File
+
+See part C in the current General Instructions for Certain
+Information Returns and its Guide to Information Returns
+for filing and furnishing dates. But see the separate
+guidance for clearing organizations in Special reporting
+date–clearing organizations next.
+Special reporting date–clearing organizations. A
+corporation must file Form 1099-CAP and furnish a copy
+to each of its shareholders who receives any stock or
+other consideration in the transaction and who is not an
+exempt recipient. A clearing organization, such as the
+DTC, is not an exempt recipient. The corporation is
+therefore required to file and furnish a copy of Form
+1099-CAP to a clearing organization with respect to
+shares held by the clearing organization unless it makes a
+consent election, as discussed below. Furnish Form
+1099-CAP to the clearing organization by January 6,
+2025. For subsequent years, furnish Form 1099-CAP to
+the clearing organization by January 5th of the year
+following the calendar year in which the transaction took
+place. See Guide to Information Returns, in the General
+Instructions for Certain Information returns, available at
+IRS.gov/Form1099, for due dates that fall on a weekend or
+holiday. If you are furnishing the DTC with Forms
+1099-CAP, see also Notice 2004-9, 2004-04 I.R.B. 334,
+available at IRS.gov/irb/2004-04_IRB#NOT-2004-9.
+
+Penalties for Failure To File
+
+The penalties under section 6652(l) for failure to file
+information returns under section 6043(c) apply. For
+purposes of the section 6652(l) penalty, Form 8806 and all
+Forms 1099-CAP required to be filed are treated as one
+return. Thus, the penalty will not exceed $500 for each day
+the failure continues, up to a maximum of $100,000, for
+Instructions for Form 1099-CAP (Rev. 4-2025)
+
+any acquisition of control or any substantial change in
+capital structure. If a corporation (transferor) transfers all
+or substantially all of its assets to another entity
+(transferee) and is required to file Form 1099-CAP, the
+transferor must satisfy the reporting requirements. If the
+transferor fails to file Form 1099-CAP, then the transferee
+must meet the filing requirements. If the filing
+requirements are not met by either the transferor or
+transferee, then both are jointly and severally liable for the
+applicable penalties.
+
+Account Number
+
+Failure to file Forms 1099-CAP also includes the
+requirement to file electronically. For more information on
+penalties for failure to file electronically, see part F in the
+current General Instructions for Certain Information
+Returns. Criminal penalties under sections 7203, 7206,
+and 7207 may apply in appropriate cases.
+
+Generally, this will be the reporting corporation's
+information and EIN.
+
+Box 1. Date of Sale or Exchange
+
+Statement to Shareholder
+
+Box 2. Aggregate Amount Received
+
+If required to file Form 1099-CAP, you must furnish a
+statement to the shareholder. For more information about
+the requirement to furnish a statement to the shareholder,
+see part M in the current General Instructions for Certain
+Information Returns.
+Truncating recipient’s TIN. Under Regulations section
+301.6109-4, corporations required to file Form 1099-CAP
+may truncate a recipient’s TIN (social security number
+(SSN), individual taxpayer identification number (ITIN),
+adoption taxpayer identification number (ATIN), or
+employer identification number (EIN)) on payee
+statements. A filer's TIN may not be truncated on any
+form. Truncation is not allowed on any documents the filer
+files with the IRS. See part J in the current General
+Instructions for Certain Information Returns.
+
+Instructions for Form 1099-CAP (Rev. 4-2025)
+
+The account number is required if you have multiple
+accounts for a recipient for whom you are filing more than
+one Form 1099-CAP. Additionally, the IRS encourages you
+to designate an account number for all Forms 1099-CAP
+that you file. See part L in the current General Instructions
+for Certain Information Returns.
+
+Corporation’s Name, Address, Telephone
+Number, and Federal Identification Number
+
+Enter the trade date of the sale or exchange, actually or
+constructively received.
+Enter the aggregate amount of cash and the FMV of any
+stock and other property received in exchange for the
+number of shares exchanged in the reporting corporation.
+
+Box 3. No. of Shares Exchanged
+
+Enter the number of shares the shareholder exchanged in
+the reporting corporation for cash or other property
+received.
+
+Box 4. Classes of Stock Exchanged
+
+Enter the class or classes of stock (for example, preferred,
+common, etc.) exchanged in the reporting corporation for
+cash or other property received. Abbreviate the class to fit
+the entry. For example, you may enter “C” for common
+stock, “P” for preferred, or “O” for other. Also, abbreviate
+any subclasses.
+
+3
+
+

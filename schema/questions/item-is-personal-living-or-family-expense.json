@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-personal-living-or-family-expense",
+    "wording": "Is this item a personal, living or family expense rather than a business expense?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 personal, not deductible"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 an ordinary and necessary business expense"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this item a personal, living or family expense rather than a business expense?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule C (Form 1040)",
+        "line": "Line 48",
+        "revision": "2025",
+        "wording": "Do not include the cost of business equipment or furniture; replacements or permanent improvements to property; or personal, living, and family expenses.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+      }
+    }
+  }
+}

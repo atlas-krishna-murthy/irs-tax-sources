@@ -1,0 +1,90 @@
+{
+  "document": {
+    "id": "RRB-1099-R",
+    "title": "Annuities or Pensions by the Railroad Retirement Board",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form RRB-1099-R (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/p575--2025.pdf",
+    "issued_by": "the Railroad Retirement Board",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "3",
+        "label": "Employee Contributions",
+        "type": "money"
+      },
+      {
+        "box": "4",
+        "label": "Contributory Amount Paid",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Vested Dual Benefit",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "Supplemental Annuity",
+        "type": "money"
+      },
+      {
+        "box": "7",
+        "label": "Total Gross Paid",
+        "type": "money"
+      },
+      {
+        "box": "8",
+        "label": "Repayments",
+        "type": "money"
+      },
+      {
+        "box": "9",
+        "label": "Federal Income Tax Withheld",
+        "type": "money"
+      },
+      {
+        "box": "1",
+        "label": "Claim Number and Payee Code",
+        "type": "text"
+      },
+      {
+        "box": "2",
+        "label": "Recipient\u2019s Identification Number",
+        "type": "tin"
+      },
+      {
+        "box": "10",
+        "label": "Medicare Premium Total",
+        "type": "money",
+        "notes": "Copy B as Pub. 575 (2025) prints it numbers this box 10; the publication's prose calls it 'Box 12\u2014Medicare Premium Total' (the box layout shared with RRB-1042S). Shown here only where no Form RRB-1099 is required, so it never duplicates RRB-1099 box 11."
+      }
+    ],
+    "notes": "Issued by the Railroad Retirement Board, not the IRS, so its captions are cited from Pub. 575 (2025), which describes each box by number. Tier 2, the non-social-security-equivalent tier 1 portion, the vested dual benefit and the supplemental annuity \u2014 a PENSION, unlike Form RRB-1099 (the social-security-equivalent benefit)."
+  },
+  "extraction": {
+    "model": "custom.RRB-1099-R",
+    "note": "No Azure prebuilt model reads the Railroad Retirement Board's form; read by the declared custom model over the boxes this document declares. Unmeasured.",
+    "custom": {
+      "reads": "a Form RRB-1099-R, Annuities or Pensions by the Railroad Retirement Board.",
+      "sections": [
+        {
+          "document": "RRB-1099-R",
+          "boxes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    }
+  }
+}

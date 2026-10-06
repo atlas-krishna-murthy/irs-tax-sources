@@ -1,0 +1,63 @@
+{
+  "rule": {
+    "id": "a-wg-01",
+    "title": "Gambling winnings of a professional gambler are Schedule C receipts",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "route_among",
+    "acts_on": {
+      "boxes": [
+        "W-2G.1",
+        "W-2G.7"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "gambling-is-a-trade-or-business"
+      }
+    ],
+    "params": {
+      "cases": [
+        {
+          "when": {
+            "answer": "gambling-is-a-trade-or-business",
+            "is": "yes"
+          },
+          "to": {
+            "form": "schedule-c",
+            "line": "1"
+          }
+        },
+        {
+          "when": {
+            "answer": "gambling-is-a-trade-or-business",
+            "is": "no"
+          },
+          "to": {
+            "form": "form-1040",
+            "line": "8",
+            "sub_line": "8b"
+          }
+        }
+      ]
+    },
+    "when_missing": {
+      "behaviour": "pending"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Schedule 1 (Form 1040)",
+      "line": "8b",
+      "revision": "2025",
+      "wording": "Gambling. Enter gambling winnings not attributable to a trade or business.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "Losses not more than winnings is a sheet limit (Schedule A line 16), not this rule."
+  }
+}

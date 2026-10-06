@@ -1,0 +1,1546 @@
+2025
+Instructions for Form
+1040-SS
+U.S. Self-Employment Tax Return
+(Including the Additional Child Tax Credit for Bona Fide Residents of Puerto Rico)
+Section references are to the Internal Revenue Code             Optional methods to figure net earnings. For 2025,
+unless otherwise noted.                                         the maximum income for using the optional methods is
+                                                                $7,240.
+Future Developments
+For the latest information about developments related to        New option for scheduled appointments at Taxpayer
+Form 1040-SS and its instructions, such as legislation          Assistance Centers (TACs). Beginning in 2025,
+enacted after they were published, go to IRS.gov/               taxpayers with scheduled appointments at TACs may
+Form1040SS.                                                     choose to receive appointment confirmations, reminders,
+                                                                and cancellation notices directly via text message on their
+What’s New                                                      mobile devices.
+Changes to the Qualifying Children section. The                 Reminders
+Qualifying Children section now has numbered rows.
+                                                                Additional child tax credit. For tax year 2025:
+Write-in information. We expanded line 6 so that all tax         • The maximum additional child tax credit (ACTC)
+write-ins now have a dedicated entry space.                        amount is $1,700 for each qualifying child.
+Social Security Number required to claim the Addi-               • A child must be under age 17 at the end of 2025 to be
+tional Child Tax Credit (ACTC). Beginning in tax year              a qualifying child.
+2025, you must have a valid SSN to claim the ACTC. For          Due date of return. File Form 1040-SS by April 15,
+the ACTC, a valid SSN is one that is valid for employment       2026.
+and that is issued by the Social Security Administration
+before the due date of your 2025 return (including              Estimated tax payments. If you and your spouse expect
+extensions). If you are filing a joint return, only one filer   to owe self-employment (SE) tax of $1,000 or more for
+must have a valid SSN. The other filer must have either an      2026, you may need to make estimated tax payments.
+SSN or ITIN, and it must have been issued on or before          Use Form 1040-ES, Estimated Tax for Individuals, to
+the due date of the return (including extensions).              figure your required payments and for the vouchers to
+                                                                send with your payments.
+Death of a taxpayer. If you need to file a return for
+someone who died before filing a 2025 return, check the         Disaster tax relief. To find information on the most
+"Deceased" box at the top of Form 1040-SS and enter the         recent tax relief provisions for taxpayers affected by
+date of death in the designated entry space. For more           disaster situations, go to IRS.gov/Disaster. See Pub. 547,
+information, see Death of Taxpayer.                             Casualties, Disasters, and Thefts, for discussions on the
+                                                                special rules that apply to federally declared disaster
+Electronic payments and direct deposit. If you have             areas.
+access to U.S. banking services or electronic payment
+systems, you should use direct deposit for any refunds.         ACTC and bona fide residents of Puerto Rico. Bona
+The IRS recommends paying electronically whenever               fide residents of Puerto Rico are no longer required to
+possible. Options to pay electronically include using your      have three or more qualifying children to be eligible to
+bank account with DirectPay, your debit or credit card,         claim the ACTC. Bona fide residents of Puerto Rico may
+your digital wallet, or your online account. Go to IRS.gov/     be eligible to claim the ACTC if they have one or more
+Payments to see all your payment options. Also, see             qualifying children.
+IRS.gov/ModernPayments.                                         Qualifying child required to have an SSN. If you have
+Maximum income subject to social security tax for               a qualifying child who does not have a valid SSN, you
+2025. For 2025, the maximum amount of                           can’t use the child to claim the ACTC on either your
+self-employment income subject to social security tax is        original or an amended 2025 return.
+$176,100.                                                          For the ACTC, a valid SSN is one that is valid for
+Maximum income subject to social security tax for               employment and that is issued by the Social Security
+2026. For 2026, the maximum amount of                           Administration before the due date of your 2025 return
+self-employment income subject to social security tax is        (including extensions).
+$184,500.                                                          For information on how to obtain an SSN, go to Social
+                                                                Security number and card.
+
+
+                                Instructions for Form 1040-SS (2025) Catalog Number 26341Y
+Jan 7, 2026                   Department of the Treasury Internal Revenue Service www.irs.gov
+Refunds for returns that claim the ACTC. Refunds for                                 have self-employment income or are eligible to claim
+returns claiming the ACTC can’t be issued before                                     certain credits.
+mid-February 2026. For more information, see IRS.gov/                                   Use this form to report net earnings from
+Individuals/Refund-Timing. This applies to the entire                                self-employment (SE) to the United States and, if
+refund, not just the portion associated with the ACTC. For                           necessary, pay SE tax on that income. The Social Security
+more information on the status of your refund, see                                   Administration (SSA) uses this information to figure your
+IRS.gov/Refunds.                                                                     benefits under the social security program. SE tax applies
+Electronic filing. You can e-file Form 1040-SS. For                                  no matter how old you are and even if you are already
+general information about electronic filing, visit IRS.gov/                          receiving social security or Medicare benefits.
+Efile.                                                                                  Bona fide residents of Puerto Rico can also use this
+                                                                                     form to claim the ACTC, even if the bona fide resident of
+Farmers and ranchers affected by drought may be el-
+                                                                                     Puerto Rico does not have to pay SE tax.
+igible for extension of tax relief. Farmers and ranchers
+forced to sell certain livestock because of drought                                     See Who Must File, later, for additional uses of this
+conditions may have more time to replace their livestock                             form.
+and defer tax on any gains from the forced sales. See IRS                               You may also be required to file an income tax return
+extends relief to farmers and ranchers affected by drought                           with the government of Guam, American Samoa, the
+in 49 states, other regions.                                                         USVI, the CNMI, or Puerto Rico. See Pub. 570, Tax Guide
+Form 1040-SS redesign. Form 1040-PR has been                                         for Individuals With Income From U.S. Territories, and
+discontinued. For 2023 and later years, you will file Form                           contact your local territory tax office for more information.
+1040-SS.                                                                             How To Get Tax Help
+   Refer to Form 1040-SS Helpful Hints, later, for a                                 If you have questions about a tax issue, need help
+comprehensive discussion, including references to the                                preparing your tax return, or want to download free
+Instructions for Schedule C (Form 1040), Profit or Loss                              publications, forms, or instructions, see How To Get Tax
+From Business; Schedule F (Form 1040), Profit or Loss                                Help at the end of the instructions. You can find additional
+From Farming; and Schedule SE (Form 1040),                                           resources to help you right away at IRS.gov.
+Self-Employment Tax.
+                                                                                     Who Must File
+General Instructions                                                                 You must file Form 1040-SS if you meet all three
+                                                                                     requirements below.
+Purpose of Form                                                                       1. You (or your spouse if filing a joint tax return) had net
+This form is for residents of the U.S. Virgin Islands (USVI),                            earnings from self-employment of $400 or more (or
+Guam, American Samoa, the Commonwealth of the                                            you had church employee income of $108.28 or
+Northern Mariana Islands (CNMI), and Puerto Rico who                                     more—see Employees of Churches and Church
+are not required to file a U.S. income tax return but who                                Organizations, later). However, see Exceptions, later.
+
+Form 1040-SS Helpful Hints
+Use Schedule C (Form 1040), Profit or Loss From Business; Schedule F (Form 1040), Profit or Loss From Farming; or
+Schedule SE (Form 1040), Self-Employment Tax, to complete your return.
+You may only need to file Form 1040-SS and none of the schedules. However, if your return is more complicated (for
+example, you claim certain deductions or credits or owe additional taxes), you will need to complete one or more of the
+schedules. Below is a general guide to which schedule(s) you will need to file based on your circumstances. See the
+instructions for the schedules for more information. If you e-file your return, the software you use will generally determine
+which schedules you need.
+You will need the Instructions for Schedules C, F, and SE. Throughout these instructions, you are directed to go to
+the Instructions for Schedule C (Form 1040), Schedule F (Form 1040), or Schedule SE (Form 1040) for details on how to
+complete a line. But, in most instances, you will need to look at whether you must take exceptions into consideration
+when applying those instructions.
+ IF YOU . . .                                                                                            THEN USE . . .
+ Are a bona fide resident of Puerto Rico and have one or more qualifying children.                       Form 1040-SS, Part II
+ Have profit (loss) from a business you operated or a profession you practiced as a sole proprietor.     Schedule C (Form 1040)
+ Have (a) wages and expenses as a statutory employee; (b) income and deductions of certain qualified     Schedule C (Form 1040)
+ joint ventures; and (c) certain amounts shown on Form 1099, such as Form 1099-MISC, Form 1099-NEC,      Note. See the instructions on your Form 1099 for
+ and Form 1099-K.                                                                                        more information about what to report on
+                                                                                                         Schedule C (Form 1040).
+ Have farm income and expenses.                                                                          Schedule F (Form 1040)
+ Have net earnings from self-employment.                                                                 Schedule SE (Form 1040)
+
+
+
+
+2                                                                                                           Instructions for Form 1040-SS (2025)
+ 2. You do not have to file Form 1040 with the United         minister, a member of a religious order who has not taken
+    States.                                                   a vow of poverty, or a Christian Science practitioner. But, if
+                                                              you filed Form 4361, Application for Exemption From
+ 3. You are a bona fide resident of:
+                                                              Self-Employment Tax for Use by Ministers, Members of
+    a. Guam,                                                  Religious Orders and Christian Science Practitioners, and
+                                                              received IRS approval, you will be exempt from paying SE
+    b. American Samoa,                                        tax on those net earnings. If you had no other income
+    c. The USVI,                                              subject to SE tax and do not owe any of the taxes listed
+                                                              earlier under Who Must File, you aren’t required to file
+    d. The CNMI, or                                           Form 1040-SS. However, if you had other earnings of
+    e. Puerto Rico.                                           $400 or more subject to SE tax, see Schedule SE (Form
+                                                              1040), Part I, lines 4a through 4c.
+        Even if you have a loss or little income from
+ TIP self-employment, it may benefit you to file Form                 If you have ever filed Form 2031 to elect social
+        1040-SS and use either optional method on               !     security coverage on your earnings as a minister,
+                                                              CAUTION you cannot revoke that election.
+Schedule SE (Form 1040). See Schedule SE (Form
+1040), Part II—Optional Methods To Figure Net Earnings.
+                                                                 If you must pay SE tax on certain income, include this
+Exceptions. If (2) and (3) under Who Must File, earlier,      income on Schedule C (Form 1040), line 1. But do not
+apply, but (1) does not apply, you must file Form 1040-SS     report it on Schedule SE (Form 1040), Part I, line 5a; it
+to:                                                           isn’t considered church employee income.
+  • Report and pay household employment taxes;
+  • Report and pay employee social security and                 Also include on Schedule C (Form 1040), line 1:
+    Medicare tax on (a) unreported or uncollected tips, (b)    • The rental value of a home or allowance for a home
+    wages from an employer with no social security or             furnished to you (including payments for utilities); and
+    Medicare tax withheld, and (c) uncollected social          • The value of meals and lodging provided to you, your
+    security and Medicare tax on tips or group-term life          spouse, and your dependents for your employer’s
+    insurance (see Part I, line 6a, line 6b, line 6c, and         convenience.
+    line 6d, later);
+  • Report and pay the Additional Medicare Tax (Part I,          However, do not include on Schedule C (Form 1040),
+    Line 5, later);                                           line 1:
+  • Claim excess social security tax withheld; and              • Retirement benefits you received from a church plan
+  • Claim the ACTC.                                                after retirement, or
+                                                                • The rental value of or allowance for a home furnished
+Who Must Pay SE Tax                                                to you (including payments for utilities) after
+                                                                   retirement.
+Self-Employed Persons
+You must pay SE tax if you had net earnings of $400 or           If you were an ordained minister, a member of a
+more as a self-employed person. If you are in business        religious order who has not taken a vow of poverty, or a
+(nonfarm or farm) for yourself, you are self-employed.        Christian Science practitioner, and were employed by a
+                                                              church (congregation) for a salary, do not include that
+  You must also pay SE tax on your share of certain           income in Schedule C (Form 1040). Instead, figure your
+partnership income and your guaranteed payments. See          SE tax by completing Schedule SE (Form 1040), Part I,
+Partnership Income or Loss under the Instructions for         including this income and any rental (parsonage)
+Schedule SE (Form 1040), Part I.                              allowance or the value of meals and lodging provided to
+                                                              you on line 2. On the same line, subtract the allowable
+Employees of Churches and Church                              amount of any unreimbursed business expenses you
+Organizations                                                 incurred as a church employee. Attach an explanation. For
+If you had church employee income of $108.28 or more,         details, see Pub. 517, Social Security and Other
+you must pay SE tax on that income. Church employee           Information for Members of the Clergy and Religious
+income is wages you received as an employee (other than       Workers.
+as a minister or member of a religious order) of a church
+or qualified church-controlled organization that has a        Members of Certain Religious Sects
+certificate in effect electing exemption from employer        If you have conscientious objections to social security
+social security and Medicare taxes.                           insurance because of your membership in and belief in
+                                                              the teachings of a religious sect recognized as being in
+  If your only income subject to SE tax is church
+                                                              existence at all times since December 31, 1950, and
+employee income, skip lines 1a through 4b on
+                                                              which has provided a reasonable level of living for its
+Schedule SE (Form 1040), Part I. Enter zero on line 4c
+                                                              dependent members, you can request exemption from SE
+and go to line 5a.
+                                                              tax by filing Form 4029, Application for Exemption From
+Ministers, Members of Religious Orders, and                   Social Security and Medicare Taxes and Waiver of
+Christian Science Practitioners                               Benefits. If you filed Form 4029 and have received IRS
+                                                              approval, don’t file Form 1040-SS. See Pub. 517 for
+In most cases, you must pay self-employment (SE) tax on       details.
+salaries and other income for services you performed as a
+
+Instructions for Form 1040-SS (2025)                                                                                      3
+U. S. Citizen Employed by Foreign Governments                     (Form 1040) for each trade or business, and combine the
+or International Organizations                                    net earnings on a single Schedule SE (Form 1040).
+You must pay SE tax on income you earned as a U.S.                Joint returns. If both you and your spouse have
+citizen or a resident of Puerto Rico employed by a foreign        self-employment income from separate nonfarm or farm
+government (or, in certain cases, by a wholly owned               businesses, each of you must complete and file a
+instrumentality of a foreign government or an international       separate Schedule C (Form 1040) or Schedule F (Form
+organization under the International Organizations                1040). Be sure to enter at the top of each Schedule C
+Immunities Act) for services performed in the United              (Form 1040) or Schedule F (Form 1040) the name and
+States, Puerto Rico, Guam, American Samoa, the USVI,              SSN of the spouse who owns the business. Each of you
+or the CNMI. Report income from this employment on                must also complete a separate Schedule SE (Form 1040).
+Schedule C (Form 1040), line 1. Enter the net amount              Attach these pages to a single Form 1040-SS.
+from Schedule C (Form 1040), Part II, line 31, on
+Schedule SE (Form 1040), Part I, line 2. If you performed         Business Owned and Operated by
+services elsewhere as an employee of a foreign                    Spouses
+government or an international organization, those                If you and your spouse jointly own and operate an
+earnings are exempt from SE tax.                                  unincorporated business (nonfarm or farm) and share in
+Commonwealth or Territory Residents Living                        the profits and losses, you are partners in a partnership,
+                                                                  whether or not you have a formal partnership agreement.
+Abroad                                                            Do not use Schedule C (Form 1040) or Schedule F(Form
+In most cases, if you are a bona fide resident of Guam,           1040). Instead, file the appropriate partnership return.
+American Samoa, the USVI, the CNMI, or Puerto Rico
+living outside the territories or United States, you must still   Exception—Qualified joint venture (QJV). If you and
+pay any applicable SE tax.                                        your spouse materially participate (see Material
+                                                                  participation in the Instructions for Schedule C (Form
+Exception. The United States has social security                  1040)) as the only members of a jointly owned and
+agreements with many countries to eliminate dual taxes            operated business, and you file a joint Form 1040-SS for
+under two social security systems. Under these                    the tax year, you can make a joint election to be taxed as a
+agreements, in most cases, you must pay social security           QJV instead of a partnership.
+and Medicare taxes or foreign health insurance only to the
+                                                                     To make this election, you must divide all items of
+country you live in.
+                                                                  income, gain, loss, deduction, and credit attributable to
+        If you have questions about international social          the business between you and your spouse in accordance
+ TIP security agreements, visit the SSA International             with your respective interests in the venture. Each of you
+        Programs website at SSA.gov/international for             must file a separate Schedule C (Form 1040) or
+more information.                                                 Schedule F (Form 1040), as well as a separate
+                                                                  Schedule SE (Form 1040). On each line of your separate
+        Even if you don’t have to pay SE tax because of a         Schedule C (Form 1040) or Schedule F (Form 1040), you
+    !   social security agreement, you may still have to          must enter your share of the applicable income,
+CAUTION file a tax return with the IRS.                           deductions, and losses. For more information on this
+                                                                  election, see the Instructions for Schedule E (Form 1040).
+Chapter 11 Bankruptcy Cases                                          For more information on QJVs, go to IRS.gov/QJV.
+While you are a debtor in a chapter 11 bankruptcy case,              Rental real estate business. If you and your spouse
+your net profit or loss from self-employment will be              make the QJV election for your rental real estate business,
+included on the income tax return (Form 1041) of the              in most cases, the income isn’t subject to SE tax (for an
+bankruptcy estate. However, you (not the bankruptcy               exception, see item 3 under Other Income and Losses
+estate) are responsible for paying SE tax on your net             Included in Net Earnings From Self-Employment in the
+earnings from self-employment.                                    Instructions for Schedule SE (Form 1040)).
+   On the dotted line next to Schedule SE (Form 1040),               If the QJV election is made for a farm rental business
+Part I, line 3, enter “Chap. 11 bankruptcy income” and the        that isn’t included in self-employment, the income isn’t
+amount of your net profit or (loss). Combine that amount          subject to SE tax. Don’t include the income on Form
+with the total of lines 1a, 1b, and 2 (if any) and enter the      1040-SS. Depending on the source of the income
+result on line 3.                                                 (territory, U.S. source, or other foreign source), you may
+                                                                  need to file other tax forms. See Pub. 570 and Form 4835,
+  For other reporting requirements, see Chapter 11                Farm Rental Income and Expenses, for more information.
+Bankruptcy Cases in the Instructions for Form 1040.
+                                                                  Community income. If you and your spouse wholly own
+More Than One Business                                            an unincorporated business as community property under
+If you were a farmer and had at least one other business          the community property laws of a state, foreign country, or
+or you had two or more nonfarm businesses, your net               U.S. territory, the income and deductions are reported
+earnings from self-employment are the combined net                based on the following.
+earnings from all of your businesses. If you had a loss in          • If only one spouse participates in the business, all of
+one business, it reduces the income from another.                     the income from that business is the self-employment
+Complete and file only one Form 1040-SS for any 1 year.               earnings of the spouse who carried on the business.
+Attach a separate Schedule C (Form 1040) or Schedule F
+
+4                                                                                       Instructions for Form 1040-SS (2025)
+ • If both spouses participate, the income and                     Extension of Time To File
+   deductions are allocated to the spouses based on                If you can’t file Form 1040-SS by the due date, you can get
+   their distributive shares.                                      an extension of time to file the form. In some cases, you
+ • If either or both you and your spouse are partners in a         can get an extension of time to file and pay any tax due.
+   partnership, see Partnership Income or Loss in the
+   Instructions for Schedule SE (Form 1040).                       Bona fide residents of Puerto Rico. You can apply for
+ • If you and your spouse elected to treat the business as         an automatic 6-month extension of time to file Form
+   a QJV, see Exception—Qualified joint venture (QJV),             1040-SS (until October 15, 2026, for calendar year
+   earlier.                                                        taxpayers). To get this automatic extension, you must file
+                                                                   Form 4868, Application for Automatic Extension of Time
+Where To File                                                      To File U.S. Individual Income Tax Return, by the regular
+If you’re enclosing a payment, send your Form 1040-SS              due date of your return (April 15, 2026, for calendar year
+to:                                                                taxpayers). You can file Form 4868 either by paper or
+                                                                   electronically through IRS e-file. For details, see the Form
+    Internal Revenue Service                                       4868 instructions.
+    P.O. Box 1303
+                                                                            An automatic 6-month extension to file does not
+    Charlotte, NC 28201-1303
+                                                                     !      extend the time to pay your tax. Any interest due
+                                                                   CAUTION on unpaid taxes is calculated from the original due
+If you’re not enclosing a payment, send your Form                  date of the return.
+1040-SS to:
+                                                                   Bona fide residents of American Samoa, the CNMI,
+    Department of the Treasury
+                                                                   Guam, or the USVI. You can apply for the automatic
+    Internal Revenue Service
+                                                                   6-month extension described earlier, or you can receive
+    Austin, TX 73301-0215
+                                                                   an automatic 2-month extension and then apply for an
+                                                                   additional 4-month extension if you still need more time.
+Private Delivery Services                                             Automatic 2-month extension. You are allowed an
+If you choose to mail your return, you can use certain             automatic 2-month extension to file your return and pay
+private delivery services designated by the IRS to meet            your tax if you are outside the United States and Puerto
+the “timely mailing treated as timely filing/paying” rule for      Rico on the day Form 1040-SS is due (April 15, 2026, for
+tax returns and payments. These private delivery services          calendar year taxpayers). Although you have an extension
+include only the following.                                        of time to pay your tax, interest on any unpaid tax will be
+  • DHL Express 9:00, DHL Express 10:30, DHL Express               charged from the original due date of the tax return.
+     12:00, DHL Express Worldwide, DHL Express                        To get this automatic extension, you must file Form
+     Envelope, DHL Import Express 10:30, DHL Import                1040-SS by the extended due date (June 15, 2026, for
+     Express 12:00, and DHL Import Express Worldwide.              calendar year taxpayers) and attach a statement
+  • UPS Next Day Air Early A.M., UPS Next Day Air, UPS             explaining that on the regular due date of your tax return
+     Next Day Air Saver, UPS 2nd Day Air, UPS 2nd Day              you were a bona fide resident of American Samoa, the
+     Air A.M., UPS Worldwide Express Plus, and UPS                 CNMI, Guam, or the USVI.
+     Worldwide Express.
+                                                                      Additional 4-month extension. If you can’t file your
+  • FedEx First Overnight, FedEx Priority Overnight,               tax return within the automatic 2-month extension period,
+     FedEx Standard Overnight, FedEx 2 Day, FedEx
+                                                                   in most cases, you can get an additional 4 months to file
+     International Next Flight Out, FedEx International
+                                                                   your tax return, for a total of 6 months. File Form 4868 by
+     Priority, FedEx International First, and FedEx
+                                                                   the extended due date allowed by the 2-month extension
+     International Economy.
+                                                                   (June 15, 2026, for calendar year taxpayers). Follow the
+   To check for any updates to the list of designated              instructions for completing Form 4868, and be sure to
+private delivery services, go to IRS.gov/PDS. For the IRS          check the box on line 8.
+mailing address to use if you’re using a private delivery             Unlike the original 2-month extension, the additional 4
+service, go to IRS.gov/PDSStreetAddresses.                         months of time to file is not an extension of time to pay.
+                                                                   You must make an accurate estimate of your tax based on
+   The private delivery service can tell you how to get
+                                                                   the information available to you. If you find you can’t pay
+written proof of the mailing date.
+                                                                   the full amount due with Form 4868, you can still get the
+        Only the U.S. Postal Service can deliver to P.O.           extension. You will owe interest on the unpaid amount
+   !    boxes. You can’t use a private delivery service to         from the original due date of the tax return.
+CAUTION make tax payments required to be sent to a P.O.
+                                                                   Where to file extension. If you’re enclosing a payment,
+box.
+                                                                   send Form 4868 with your payment to:
+When To File                                                           Internal Revenue Service
+If you file on a calendar-year basis, file by April 15, 2026. If       P.O. Box 1303
+you file after this date, you may have to pay interest and             Charlotte, NC 28201-1303
+penalties. See Interest and Penalties, later.
+                                                                   If you’re not enclosing a payment, send Form 4868 to:
+   If you file on a fiscal year basis, file by the 15th day of
+the 4th month after the close of your fiscal year.
+
+Instructions for Form 1040-SS (2025)                                                                                          5
+     Department of the Treasury                                assets include non-fungible tokens (NFTs) and virtual
+     Internal Revenue Service                                  currencies, such as cryptocurrencies and stablecoins. If a
+     Austin, TX 73301-0215                                     particular asset has the characteristics of a digital asset, it
+                                                               will be treated as a digital asset for federal income tax
+Automatic 60-day extension for taxpayers affected by           purposes.
+federally declared disasters. Certain taxpayers                   Check the “Yes” box next to the question on digital
+affected by federally declared disasters may be eligible for   assets on page 1 of Form 1040-SS, if at any time during
+an automatic 60-day extension for filing tax returns, paying   2025, you (a) received (as a reward, award, or payment for
+taxes, and performing other tasks required by the IRS. For     property or services); or (b) sold, exchanged, or otherwise
+more information, see Pub. 547.                                disposed of a digital asset (or any financial interest in any
+                                                               digital asset).
+Specific Instructions                                            For example, check “Yes” if at any time during 2025
+                                                               you:
+Fiscal Year Filers                                              • Received digital assets as payment for property or
+If you are a fiscal year filer using a tax year other than        services provided;
+January 1 through December 31, 2025, enter the                  • Received digital assets as a result of a reward or
+beginning and ending months of your fiscal year in the            award;
+entry space provided at the top of page 1 of Form               • Received new digital assets as a result of mining,
+1040-SS. Use the tax rate and annual earnings limit that          staking, and similar activities;
+apply at the time the fiscal year begins. Don’t prorate the     • Received digital assets as a result of a hard fork;
+tax or annual earnings limit for a fiscal year that overlaps    • Disposed of digital assets in exchange for property or
+the date of a change in the tax or annual earnings limit.         services;
+                                                                • Disposed of a digital asset in exchange or trade for
+Name and SSN                                                      another digital asset;
+To ensure proper credit to your social security account,        • Sold a digital asset; or
+enter your name and SSN, and your spouse’s if filing a          • Otherwise disposed of any other financial interest in a
+joint tax return, exactly as shown on your social security        digital asset.
+card. If you do not have an SSN, you should get one. For
+information on how to obtain an SSN, go to SSA.gov/               You have a financial interest in a digital asset if you are
+ssnumber.                                                      the owner of record of a digital asset, or have an
+                                                               ownership stake in an account that holds one or more
+   If you are not eligible for an SSN, you must apply for an   digital assets, including the rights and obligations to
+ITIN. For more information on ITINs, go to IRS.gov/ITIN.       acquire a financial interest, or you own a wallet that holds
+Also, see Form W-7 and its instructions.                       digital assets.
+Name Change                                                      The following actions or transactions in 2025, alone,
+If you changed your name because of marriage, divorce,         generally don’t require you to check “Yes”:
+etc., be sure to report the change to the Social Security       • Holding a digital asset in a wallet or account;
+Administration (SSA) before filing your return. This            • Transferring a digital asset from one wallet or account
+prevents delays in processing your return and issuing             you own or control to another wallet or account that
+refunds. It also safeguards your future social security           you own or control; or
+benefits.                                                       • Purchasing digital assets using U.S. or other real
+                                                                  currency, including through the use of electronic
+Address Change                                                    platforms such as PayPal and Venmo.
+If you plan to move after filing your return, use Form 8822,     If you used a broker to effect the sale of a digital asset,
+Change of Address, to notify the IRS of your new address.      your broker should send you Form 1099-DA. You must
+P. O. Box                                                      answer the digital asset question on page 1 of Form
+                                                               1040-SS whether or not you received a Form 1099-DA.
+Enter your box number only if your U. S. Postal Service,
+post office doesn’t deliver mail to your home.                            Do not leave the question unanswered. You must
+                                                                 !        answer “Yes” or “No” by checking the appropriate
+Foreign Address                                                        ´
+                                                               PRECAUCION box. For more information, go to IRS.gov/
+If you have a foreign address, enter the city name on the      VirtualCurrencyFAQs.
+appropriate line. Don’t enter any other information on that
+line but do complete the spaces below that line (Foreign       How To Report Digital Asset Transactions
+country name, Foreign province/state/country, and
+                                                               If, in 2025, you disposed of any digital asset, which you
+Foreign postal code).
+                                                               held as a capital asset through a sale, trade, exchange,
+    Don’t abbreviate the country name.                         payment, or other transfer, check “Yes” and see Pub. 570
+                                                               for details on whether you have to file Form 1040 with the
+Digital Assets                                                 United States to report your capital gains or losses. If you
+Digital assets are any digital representations of value that   have to file Form 1040 with the United States, you cannot
+are recorded on a cryptographically secured distributed        file this form. If you have questions about how to report a
+ledger or any similar technology. For example, digital         digital asset transaction on your territory income tax
+
+6                                                                                      Instructions for Form 1040-SS (2025)
+return, contact your local territory tax office for more              However, you may qualify for innocent spouse relief
+information.                                                       from an existing tax liability on your joint tax return if:
+   If you received any digital assets as compensation for
+                                                                     • There is an understatement of the amount of tax
+                                                                       because your spouse omitted income or claimed false
+services, or disposed of any digital asset that you held for
+                                                                       deductions or credits;
+sale to customers in a trade or business, you must report
+the income as you would report other income of the same
+                                                                     • You are divorced, separated, or no longer living with
+                                                                       your spouse; or
+type on Schedule C (Form 1040) and/or Schedule F (Form
+1040).
+                                                                     • Given all the facts and circumstances, it wouldn’t be
+                                                                       fair to hold you liable for the tax.
+   If you disposed of any digital asset by gift, you may be            File Form 8857 to request innocent spouse relief. Some
+required to file Form 709, United States Gift (and                 requests for innocent spouse relief may need to be filed
+Generation-Skipping Transfer) Tax Return. See Who Must             within 2 years of the date on which the IRS first attempted
+File and Transfers Subject to the Gift Tax in the                  to collect the tax from you. Don’t file Form 8857 with your
+Instructions for Form 709 for more information.                    Form 1040-SS. For more information, go to IRS.gov/
+Part I—Total Tax and Credits                                       InnocentSpouse.
+                                                                      Nonresident aliens and dual-status aliens.
+Line 1                                                             Generally, a married couple can’t file a joint return if either
+                                                                   spouse is a nonresident alien at any time during the year.
+Check the filing status that applies to you.
+                                                                   However, you and your spouse can choose to be treated
+         More than one filing status can apply to you.             as U.S. residents for the entire year and file a joint return if
+ TIP Taxpayers who aren’t married will pay the same                one spouse was a nonresident alien at the end of the
+         tax under all filing statuses for which they qualify      taxable year (the nonresident spouse) and the other was a
+(single, head of household, and qualifying surviving               U.S. citizen or resident at the end of the taxable year. This
+spouse). However, married taxpayers who owe additional             choice remains in effect in subsequent years until
+Medicare tax on line 5 may pay less tax if they qualify for        terminated. You and your spouse can also choose to file
+and choose the head of household filing status instead of          as U.S. residents for the entire year if both of you are U.S.
+married filing separately. You can choose the one for              citizens or residents at the end of the year and either (or
+which you qualify that will give you the lowest tax.               both) of you were a nonresident at the beginning of the
+                                                                   year (the dual-status spouse(s)). You can only make this
+                                                                   choice for 1 year, and it does not apply to any future years.
+Single
+                                                                       If you and your spouse are making either of these
+You can check the “Single” box if, at the end of 2025, you         choices to be treated as U.S. residents for 2025, check
+were unmarried or legally separated from your spouse               the box in Part I, Line 1 under Filing Status section and
+according to your state law under a divorce or separate            enter the name of the nonresident spouse or dual-status
+maintenance decree.                                                spouse(s) (whichever applies to you) in the entry space.
+                                                                   Also check the box and enter their name if you and your
+Married Filing Jointly                                             nonresident spouse made the choice to be treated as
+                                                                   residents in a prior year and the choice remains in effect.
+You can choose this filing status if you were married at the                To make either choice for 2025, you and your
+end of 2025 and both you and your spouse agree to file a                    spouse must file a joint return and attach a
+joint tax return, even if you didn’t live with your spouse at
+                                                                     !
+                                                                   CAUTION statement, signed by both spouses, to your return.
+the end of 2025. You can also choose this filing status if         To find out what information must be included in the
+your spouse died in 2025 and you didn’t remarry in 2025.           statement, as well as more information on these choices,
+You can also choose this filing status if you and your             see Nonresident Spouse Treated as a Resident for
+spouse were married at the end of 2025 and your spouse             nonresident aliens and Choosing Resident Alien Status for
+died in 2026 before filing a 2025 return.                          dual-status aliens in Pub. 519.
+   If you choose to file a joint tax return, check the box for
+married filing jointly and include your spouse’s name and          Married Filing Separately
+SSN or ITIN on the lines provided below your name and
+SSN. If your spouse also had self-employment income,               Check the “Married filing separately” box if at the end of
+complete and attach a separate Schedule SE (Form                   2025 you were married, and file a separate tax return.
+1040), Part I, and, if applicable, Part II. If necessary, attach   Enter your spouse’s name in the entry space below the
+a separate Schedule C (Form 1040) and/or Schedule F                filing status checkboxes. Be sure to enter your spouse’s
+(Form 1040) for your spouse’s nonfarm and/or farm                  SSN or ITIN in the space for spouse’s SSN. If your spouse
+business.                                                          doesn’t have and isn’t required to have an SSN or ITIN,
+  Joint and several tax liability. If you file a joint tax         enter “NRA” next to their name in the entry space below
+return, both you and your spouse are generally                     the filing status checkboxes.
+responsible for the tax and any interest or penalties due
+on the tax return. This means that if one spouse doesn’t               For electronic filing, enter the spouse’s name or “NRA”
+pay the tax due, the other may have to. Or, if one spouse          if the spouse doesn’t have an SSN or ITIN in the entry
+doesn’t report the correct tax, both spouses may be                space below the filing status checkboxes.
+responsible for any additional taxes assessed by the IRS.
+
+Instructions for Form 1040-SS (2025)                                                                                             7
+   If you are married and file a separate tax return,            Married persons who live apart. Even if you weren’t
+generally, you are responsible only for the tax on your own      divorced or legally separated at the end of 2025, you are
+income. However, you will usually pay more tax than if you       considered unmarried if all of the following apply.
+use another filing status for which you qualify.                  • You lived apart from your spouse for the last 6 months
+        You may be able to file as head of household if              of 2025. Temporary absences for special
+ TIP you had a child living with you and you lived apart             circumstances, such as for business, medical care,
+        from your spouse during the last 6 months of                 school, or military service, count as time lived in the
+2025.                                                                home.
+                                                                  • You file a separate tax return from your spouse.
+                                                                  • You paid over half the cost of keeping up your home
+Head of Household                                                    for 2025.
+                                                                  • Your home was the main home of your child, stepchild,
+A head of household is someone who is unmarried (or is               or foster child for more than half of 2025. If the child
+considered unmarried) and provides a home for certain                didn’t live with you for the required time, see
+other persons.                                                       Temporary absences in Pub. 501.
+        If you owe Additional Medicare Tax on line 5, were        • You can claim this child as your dependent or could
+ TIP married at the end of 2025, but lived apart from                claim the child except that the child’s other parent can
+         your spouse for the last 6 months of 2025 and do            claim the child under the rule for Children of divorced
+not claim a qualifying child for the ACTC, see Head of               or separated parents (or parents who live apart) in
+Household in Pub. 501, Dependent, Standard Deduction,                Pub. 501.
+and Filing Information, for additional rules for this filing       Foster child. A foster child is any child placed with you
+status.                                                          by an authorized placement agency or by judgment,
+                                                                 decree, or other order of any court of competent
+    You can check the “Head of household” box if, at the         jurisdiction.
+end of 2025, you are unmarried (or are considered
+unmarried), claim a qualifying child for the ACTC, and paid      Qualifying Surviving Spouse
+over half the costs of keeping up a home in which you
+lived with your qualifying child.                                You can check the “Qualifying surviving spouse” box if all
+                                                                 of the following apply.
+   You are considered unmarried for this purpose if any of
+the following applies.                                            1. Your spouse died in 2023 or 2024 and you didn’t
+  • You were legally separated according to your state law           remarry before the end of 2025.
+    under a decree of divorce or separate maintenance at          2. You have a child or stepchild (not a foster child) whom
+    the end of 2025. But if, at the end of 2025, your                you can claim as a dependent or could claim as a
+    divorce wasn’t final (an interlocutory decree), you are          dependent except that, for 2025:
+    considered married.
+  • You are married but lived apart from your spouse for              a. The child had gross income of $5,200 or more,
+    the last 6 months of 2025 and you meet the other rules            b. The child filed a joint tax return, or
+    under Married persons who live apart, later.
+  • You are married and your spouse was a nonresident                 c. You could be claimed as a dependent on
+    alien at any time during the year and the election to                someone else’s tax return.
+    treat the alien spouse as a resident alien is not made.
+                                                                        If the child isn’t claimed as your dependent, enter
+Qualifying child. A child you claim for the ACTC is a                the child’s name in the entry space below the filing
+qualifying child for this filing status. Your adopted child is       status checkboxes. If you don’t enter the name, it will
+always treated as your own child. See Qualifying child,              take us longer to process your tax return.
+later. However, don’t include as your qualifying child for        3. This child lived in your home for all of 2025. If the child
+this filing status any child you claim for the ACTC because          didn’t live with you for the required time, see
+of the rule for Children of divorced or separated parents            Temporary absences in Pub. 501.
+(or parents who live apart) in Pub. 501 or under a multiple
+support agreement. See Qualifying Child of More Than              4. You paid over half the cost of keeping up your home.
+One Person in Pub. 501.
+                                                                  5. You could have filed a joint tax return with your spouse
+     The qualifying children you claim for the ACTC are              the year your spouse died, even if you didn’t actually
+ TIP those you list by name and SSN in the qualifying                do so.
+     children section on Part I, line 2, of Form 1040-SS.
+                                                                   If your spouse died in 2025, you can’t file as qualifying
+Keeping up a home. To find out what is included in the           surviving spouse. Instead, see Married Filing Jointly,
+cost of keeping up a home, see Keeping up a home in              earlier.
+Pub. 501.
+                                                                 Qualifying child. A child or stepchild (not a foster child)
+                                                                 you claim for the ACTC is a qualifying child for this filing
+                                                                 status. Your adopted child is always treated as your own
+                                                                 child. See Qualifying child, later. However, don’t include
+                                                                 as your qualifying child for this filing status any child you
+
+8                                                                                        Instructions for Form 1040-SS (2025)
+claim for the ACTC because of the rule for Children of          (from Form 4137, line 13). Attach a completed Form 4137
+divorced or separated parents (or parents who live apart)       to your return.
+in Pub. 501 or under a multiple support agreement. See
+Qualifying Child of More Than One Person in Pub. 501.           Line 6b
+     The qualifying children you claim for the ACTC are
+ TIP those you list by name and SSN in the qualifying           Uncollected employee social security and Medicare
+     children section on Part I, line 2, of Form 1040-SS.       tax on tips. If you didn’t have enough wages to cover the
+                                                                social security and Medicare tax due on tips you reported
+Dependent. To find out if someone is your dependent,            to your employer, the amount of tax due should be
+see Dependents in Pub. 501.                                     identified with codes A and B in box 12 of your Form
+                                                                W-2AS, W-2CM, W-2GU, or W-2VI; or entered in boxes
+Keeping up a home. To find out what is included in the
+                                                                25 and 26 of your Form 499R-2/W-2PR. On Part I, line 6b,
+cost of keeping up a home, see Keeping up a home in
+                                                                enter the amount of this tax.
+Pub. 501.
+
+Line 2                                                          Line 6c
+Enter the name and SSN for each qualifying child for
+which you are claiming the ACTC. See Qualifying for the         Uncollected employee social security and Medicare
+Credit under Part II—Bona Fide Residents of Puerto Rico         tax on wages. If you’re an employee who received wages
+Claiming Additional Child Tax Credit, later, to find if your    from an employer who didn’t withhold social security and
+child is a qualifying child.                                    Medicare tax from your wages, complete Form 8919 to
+                                                                figure your share of the unreported tax. On Part I, line 6c,
+         You cannot take the credit for other dependents        enter the amount of tax due (from Form 8919, line 13).
+  !      (ODC) on Form 1040-SS. Do not enter a person           Attach the completed Form 8919 to your return.
+ CAUTION who is a qualifying person for purposes of the
+
+credit for other dependents (ODC) on Part I, line 2.
+                                                                Line 6d
+Instead, see the instructions for Part II, Line 8, later, for
+more information.
+                                                                Uncollected employee social security and Medicare
+                                                                tax on group-term life insurance. If you had group-term
+Line 3                                                          life insurance through a former employer, you may have to
+Complete line 3 only if you (or your spouse if filing a joint   pay social security and Medicare tax on part of the cost of
+tax return) had net earnings from self-employment of $400       the life insurance. The amount of tax due should be
+or more (or church employee income of $108.28 or more).         identified with codes M and N in box 12 of your Form
+     Enter the amount from Schedule SE (Form 1040), Part        W-2AS, W-2CM, W-2GU, or W-2VI. If you are a bona fide
+I, line 12, and attach Schedule SE (Form 1040) to your          resident of Puerto Rico, contact your employer for this
+return. If applicable, also attach Schedule C (Form 1040)       amount. On Part I, line 6d, enter the amount of this tax.
+for nonfarm business and Schedule F (Form 1040) for             Line 8
+farm business. See Who Must Pay SE Tax, earlier.
+                                                                Enter any estimated federal income tax payments you
+Line 4                                                          made for 2025, including any overpayment from your 2024
+If either of the following applies, see Schedule H (Form        tax return that you applied to your 2025 estimated tax.
+1040) and its instructions to find out if you owe household        If you or your spouse made separate estimated tax
+employment taxes.                                               payments but are now filing a joint return, add the
+  • You paid any one household employee cash wages of           amounts you each paid and enter the total on line 8. If you
+      $2,800 or more in 2025.                                   and your spouse made joint estimated tax payments but
+  • You paid total cash wages of $1,000 or more in any          are now filing separate tax returns, you can divide the
+      calendar quarter of 2024 or 2025 to all household         amount paid in any way you choose as long as you both
+      employees.                                                agree. If you can’t agree, you must divide the payments in
+Line 5                                                          proportion to each spouse’s individual tax, as shown on
+                                                                your separate tax return for 2025. For an example of how
+Enter the total Additional Medicare Tax from Form 8959,         to do this, see Pub. 505, Tax Withholding and Estimated
+Part IV, line 18, and attach Form 8959 to your return. See      Tax. Show both SSNs in the space provided on the
+Form 8959 and its instructions for more information.            separate returns.
+Line 6a Through 6d                                              Divorced taxpayers. If you got divorced in 2025 and you
+                                                                made joint estimated tax payments with your former
+Line 6a
+                                                                spouse, enter your former spouse’s SSN in the space
+Employee social security and Medicare tax on tips               provided on line 8. If you were divorced and remarried in
+not reported to employer. Complete Form 4137 if you             2025, enter your present spouse’s SSN in the space
+received cash and charge tips of $20 or more in a               provided on the front of Form 1040-SS.
+calendar month and didn’t report all of those tips to your      Name change. If you changed your name and you made
+employer. On Part I, line 6a, enter the amount of tax due       estimated tax payments using your former name, attach a
+                                                                statement to the front of Form 1040-SS that explains all
+
+Instructions for Form 1040-SS (2025)                                                                                       9
+the payments you and your spouse made in 2025 and the            or other financial institution (such as a mutual fund,
+name(s) and SSN(s) under which you made them.                    brokerage firm, or credit union) in the United States.
+
+Line 9                                                           Injured Spouse
+If you got an automatic extension of time to file Form
+1040-SS by filing Form 4868 or by making a payment,              If you file a joint tax return and your spouse hasn’t paid
+enter the amount of the payment or any amount you paid           past-due federal tax, state income tax, state
+with Form 4868. If you paid by credit or debit card, don’t       unemployment compensation debts, child support,
+include the convenience fee you were charged.                    spousal support, or a federal nontax debt, such as a
+                                                                 student loan, part or all of the overpayment on line 13 may
+Line 10                                                          be used (offset) to pay the past-due amount. But your part
+Use Part II and its instructions for information on figuring     of the overpayment may be refunded to you if certain
+and claiming any additional child tax credit (ACTC) that         conditions apply and you complete Form 8379, Injured
+you may qualify to claim.                                        Spouse Allocation. For details, use Tax Topic 203 or see
+                                                                 Form 8379.
+     Enter the amount from Part II, line 19.
+                                                                 Lines 14a Through 14d
+Line 11a
+                                                                 Amount Refunded to You
+If you had Additional Medicare Tax withheld by your
+employer in 2025, enter the amount shown on Form 8959,           If you want to check the status of your refund, just use the
+line 24. Attach Form 8959 to your return. See Form 8959          IRS2Go app or go to IRS.gov/Refunds. Information about
+and its instructions for more information.                       your refund will generally be available within 24 hours after
+                                                                 the IRS receives your e-filed return, or 4 weeks after you
+Line 11b                                                         mail your paper return. If you filed Form 8379 with your
+If you (or your spouse if filing a joint tax return) had more    return, wait 14 weeks (11 weeks if you filed electronically).
+than one employer for 2025, and total wages of more than         Have your 2025 tax return handy so you can enter your
+$176,100, too much social security tax may have been             social security number, your filing status, and the exact
+withheld. You can take a credit on this line for the amount      whole dollar amount of your refund.
+withheld in excess of $10,918.20. But if any one employer
+withheld more than $10,918.20, you must ask that                   Where’s My Refund will provide a personalized refund
+employer to refund the excess to you. You can’t claim it on      date as soon as the IRS processes your tax return and
+Form 1040-SS. Figure this amount separately for you and          approves your refund.
+your spouse. You must attach Form W-2AS, W-2CM,                  Effect of refund on benefits. Any refund you receive
+W-2GU, W-2VI, or 499R-2/W-2PR to your return. See                can’t be counted as income when determining if you or
+Pub. 505 for more information.                                   anyone else is eligible for benefits or assistance, or how
+Line 13                                                          much you or anyone else can receive, under any federal
+                                                                 program or under any state or local program financed in
+Amount Overpaid                                                  whole or in part with federal funds. These programs
+                                                                 include Temporary Assistance for Needy Families (TANF),
+If line 13 is under $1, we will send a refund only on written    Medicaid, Supplemental Security Income (SSI), Medicaid,
+request.                                                         and Supplemental Nutrition Assistance Program (formerly
+                                                                 food stamps). In addition, when determining eligibility, the
+Refund Offset                                                    refund can’t be counted as a resource for at least 12
+                                                                 months after you receive it. Check with your local benefit
+If you owe past-due federal tax, state income tax, state         coordinator to find out if your refund will affect your
+unemployment compensation debts, child support,                  benefits.
+spousal support, or certain federal nontax debts, such as
+student loans, all or part of the overpayment on line 13          DIRECT DEPOSIT
+may be used (offset) to pay the past-due amount. Offsets              Simple. Safe. Secure.
+for federal taxes are made by the IRS. All other offsets are     Have your refund deposited automatically to your checking or savings
+made by the Treasury Department’s Bureau of the Fiscal           account, including an individual retirement arrangement (IRA).
+Service. For federal tax offsets, you will receive a notice
+from the IRS. For all other offsets, you will receive a notice
+from the Fiscal Service. To find out if you may have an
+offset or if you have any questions about it, contact the           Starting in October 2025, the IRS will generally stop
+agency to which you owe the debt.                                issuing paper checks for federal disbursements, including
+                                                                 tax refunds, unless an exception applies. For more
+                                                                 information, go to IRS.gov/ModernPayments.
+Deposit Refund into Multiple Accounts
+                                                                   To directly deposit the amount shown on line 14a to
+If you want your refund to be split and direct deposited into    your checking or savings account at a U.S. bank or other
+more than one account, file Form 8888, Allocation of
+Refund. Use Form 8888 to direct deposit your refund (or
+part of it) to one or more accounts in your name at a bank
+
+10                                                                                            Instructions for Form 1040-SS (2025)
+U.S. financial institution (such as a mutual fund, brokerage    and special symbols. Enter the number from left to right
+firm, or credit union):                                         and leave any unused boxes blank. Don’t include the
+  • Complete lines 14b through 14d if you want your             check number.
+    refund deposited to only one account, or
+                                                                    If the direct deposit to your account(s) is different from
+  • Check the box on line 14a and attach Form 8888 if you       the amount you expected, you will receive an explanation
+    want to split the direct deposit of your refund into more
+                                                                in the mail about 2 weeks after your refund is deposited.
+    than one account.
+Account must be in your name. Don’t request a                   Reasons Your Direct Deposit Will Be Rejected
+deposit of your refund to an account that isn’t in your         If any of the following apply, your direct deposit request
+name, such as your tax preparer’s own account. Although         will be rejected and your refund may be delayed.
+you may owe your tax return preparer a fee for preparing          • You are asking to have a joint refund deposited to an
+your return, don’t have any part of your refund deposited            individual account, and your financial institution(s)
+into the preparer’s account to pay the fee.                          won’t allow this. The IRS isn’t responsible if a financial
+   The number of refunds that can be directly deposited to           institution rejects a direct deposit.
+a single account or prepaid debit card is limited to three a      • The name on your account doesn’t match the name
+year. Learn more at IRS.gov/DepositLimit.                            on the refund, and your financial institution(s) won’t
+                                                                     allow a refund to be deposited unless the name on the
+Benefits of direct deposit                                           refund matches the name on the account.
+ • You get your refund faster by direct deposit than you          • Three direct deposits of tax refunds already have been
+   do by check.                                                      made to the same account or prepaid debit card.
+ • Payment is more secure. There is no check that can             • You haven’t given a valid account number.
+   get lost or stolen.                                            • Any numbers or letters on lines 14b through 14d are
+ • It is more convenient. You don’t have to make a trip to           crossed out or whited out.
+   the bank to deposit your check.
+ • It saves tax dollars. It costs the government less to                The IRS isn’t responsible for a lost refund if you
+   refund by direct deposit.                                      !     enter the wrong account information. Check with
+                                                                CAUTION your financial institution to get the correct routing
+ • It’s proven itself. Nearly 98% of social security and
+   veterans’ benefits are sent electronically using direct      and account numbers to make sure your direct deposit will
+   deposit.                                                     be accepted.
+
+Form 8888. You can have your refund directly deposited          Line 15
+into more than one account. See the instructions for Form
+8888 for more details.                                          Applied to Your 2026 Estimated Tax
+        Your refund can be split and directly deposited         Enter on line 15 the amount, if any, of the overpayment on
+ TIP into up to three different accounts in your name on        line 13 you want applied to your 2026 estimated tax.
+        Form 8888.
+                                                                        The election to apply part or all of the overpaid
+   You can’t have your refund deposited into more than            !     amount to your 2026 estimated tax can’t be
+                                                                CAUTION changed later.
+one account if you file Form 8379, Injured Spouse
+Allocation.
+                                                                Line 16
+Line 14b
+The routing number for your financial institution must be       Amount You Owe
+nine digits. The first two digits must be 01 through 12 or 21
+through 32.                                                             To avoid interest and penalties, pay your taxes in
+                                                                 TIP full by April 15, 2026. You don’t have to pay if
+  Ask your financial institution for the correct routing                line 16 is under $1.
+number to enter on line 14b if:
+ • The routing number on a deposit slip is different from          Don’t include any estimated tax payment for 2025 in
+   the routing number on your checks,                           this payment. Instead, make the estimated tax payment
+ • Your deposit is to a savings account that doesn’t allow      separately.
+   you to write checks, or
+ • Your checks state they are payable through a financial         The IRS offers several payment options. Go to IRS.gov/
+   institution different from the one at which you have         ModernPayments to see your options. Also, see How To
+   your checking account.                                       Get Tax Help, later.
+Line 14c                                                        Pay Online
+Check the appropriate box for the type of account. Don’t
+check more than one box. You must check the correct box         Paying online is convenient and secure and helps make
+to ensure your deposit is accepted.                             sure we get your payments on time. To pay your taxes
+                                                                online or for more information, go to IRS.gov/
+Line 14d
+The account number can be up to 17 characters (both
+numbers and letters). Include hyphens but omit spaces
+
+Instructions for Form 1040-SS (2025)                                                                                        11
+ModernPayments. You can pay using any of the following           Pay by Mobile Device
+methods.
+ • Your Online Account. You can now make tax                     To pay through your mobile device, download the IRS2Go
+   payments through your online account, including               app.
+   balance payments, estimated tax payments, or other
+   types of payments. You can also see your payment              Pay by Cash
+   history and other tax records there. Go to IRS.gov/
+   Account.                                                      You can pay your taxes in cash. To find out about the
+ • IRS Direct Pay. For online transfers directly from your       different cash payment methods, go to IRS.gov/PayCash.
+   checking or savings account at no cost to you.                Don’t send cash payments through the mail.
+ • Pay by Card or Digital Wallet. To pay by debit or
+   credit card, or digital wallet, go to IRS.gov/Payments.       Pay by Check or Money Order
+   A fee is charged by these service providers. You can
+   also pay by phone with a debit or credit card. See            Before submitting a payment through the mail, please
+   Debit or credit card under Pay by Phone, later.               consider alternative methods. One of our safe, quick, and
+ • Electronic Funds Withdrawal (EFW) is an integrated            easy electronic payment options might be right for you. If
+   e-file/e-pay option offered when filing your federal          you choose to mail a tax payment, attach Form 1040-V.
+   taxes electronically using tax return preparation             For the most up-to-date information on Form 1040-V, go to
+   software or through a tax professional or the IRS at          IRS.gov/Form1040V.
+   IRS.gov/Payments.
+                                                                 Extension of time to pay due to an undue hardship. If
+ • Online Payment Agreement. If you can’t pay in full            paying the tax when it is due would cause you an undue
+   by the due date of your tax return, you can apply for an
+                                                                 hardship, you can ask for an extension of time to pay by
+   online monthly installment agreement at IRS.gov/OPA.
+                                                                 filing Form 1127, Application for Extension of Time for
+   Once you complete the online process, you will
+                                                                 Payment of Tax Due to Undue Hardship, by April 15, 2026.
+   receive immediate notification of whether your
+                                                                 In most cases, an extension won’t be granted for more
+   agreement has been approved. A user fee is charged.
+                                                                 than 6 months. You will be charged interest on the tax not
+ • Electronic Federal Tax Payment System (EFTPS).                paid by April 15, 2026. You must pay the tax before the
+   Allows you to pay your taxes online or by phone
+                                                                 extension runs out. If you do not pay the tax by the
+   directly from your checking or savings account. There
+                                                                 extended due date, penalties and interest will be imposed
+   is no fee for this service. You must be enrolled either
+                                                                 until taxes are paid in full. For the most up-to-date
+   online or have an enrollment form mailed to you. See
+                                                                 information on Form 1127, go to IRS.gov/Form1127.
+   EFTPS under Pay by Phone, later.
+                                                                 Third Party Designee
+Pay by Phone                                                     If you want to allow your preparer, a friend, a family
+                                                                 member, or any other person you choose to discuss your
+Paying by phone is another safe and secure method of
+                                                                 2025 tax return with the IRS, check the “Yes” box in the
+paying electronically. Use one of the following methods:
+                                                                 “Third Party Designee” area on page 2 of your return. Also,
+(1) call one of the debit or credit card service providers, or
+                                                                 enter the designee’s name, phone number, and any five
+(2) use the Electronic Federal Tax Payment System
+                                                                 digits the designee chooses as their personal
+(EFTPS) to pay directly from your checking or savings
+                                                                 identification number (PIN).
+account.
+                                                                    If you check the “Yes” box, you (and your spouse if filing
+Debit or credit card. To make a payment by phone, call
+                                                                 a joint tax return) are authorizing the IRS to call the
+one of our service providers. Each charges a fee that
+                                                                 designee to answer any questions that may arise during
+varies by provider, card type, and payment amount.
+                                                                 the processing of your return. You are also authorizing the
+    Link2Gov Corporation                                         designee to:
+    888-PAY-1040™                                                  • Give the IRS any information that is missing from your
+    (888-729-1040)                                                    return;
+    www.PAY1040.com                                                • Call the IRS for information about the processing of
+     ACI Payments, Inc.                                               your return or the status of your refund or payment(s);
+     888-UPAY-TAX™                                                 • Receive copies of notices or transcripts related to your
+     (888-872-9829)                                                   return, upon request; and
+     fed.acipayonline.com                                          • Respond to certain IRS notices about math errors,
+                                                                      offsets, and return preparation.
+EFTPS. To get more information about EFTPS or to enroll
+in EFTPS, visit EFTPS.gov or call 800-555-4477. To                  You aren’t authorizing the designee to receive any
+contact EFTPS using Telecommunications Relay Services            refund check, bind you to anything (including any
+(TRS) for people who are deaf, hard of hearing, or have a        additional tax liability), or otherwise represent you before
+speech disability, dial 711 and then provide the TRS             the IRS. If you want to expand the designee’s
+assistant the 800-555-4477 number above or                       authorization, see Pub. 947, Practice Before the IRS and
+800-733-4829. Additional information about EFTPS is also         Power of Attorney.
+available in Pub. 966.                                              The authorization will automatically end no later than
+                                                                 the due date (without regard to extensions) for filing your
+                                                                 2026 tax return. This is April 15, 2027, for most people.
+
+12                                                                                      Instructions for Form 1040-SS (2025)
+Sign Your Return                                                  1040 or 1040-SR, enter zero. You, and your spouse if filing
+Form 1040-SS isn’t considered a valid return unless you           jointly, may each use your own prior-year PIN to verify your
+sign it in accordance with the requirements in these              identity if you filed electronically last year. If you use your
+instructions. If you are filing a joint return, your spouse       prior-year PIN or enter your IP PIN, you are not required to
+must also sign. If your spouse can’t sign the return, see         enter your prior-year AGI. The prior-year PIN is the
+Pub. 501. Be sure to date your return. If you have                five-digit PIN you used to electronically sign your 2024
+someone prepare your return, you are still responsible for        return.
+the correctness of the return. If your return is signed by a              You can’t use the Self-Select PIN method if you
+representative for you, you must have a power of attorney            !    are a first-time filer under age 16 at the end of
+attached that specifically authorizes the representative to       CAUTION 2025.
+
+sign your return. To do this, you can use Form 2848,
+Power of Attorney and Declaration of Representative. If           Practitioner PIN. The Practitioner PIN method allows
+you are filing a joint return with your spouse who died in        you to authorize your tax practitioner to enter or generate
+2025, see Death of a Taxpayer, later.                             your PIN. Your electronic return is considered a validly
+                                                                  signed return only when it includes your PIN; last name;
+Requirements for a Paper Return                                   date of birth; and IP PIN, if applicable. If you’re filing jointly,
+You must handwrite your signature on your return if you file      your electronic return must also include your spouse’s
+it on paper. Digital, electronic, or typed-font signatures are    PIN; last name; date of birth; and IP PIN, if applicable, in
+not valid signatures for Form 1040-SS filed on paper.             order to be considered validly signed. The practitioner can
+                                                                  provide you with details.
+Requirements for an Electronic Return
+To file your return electronically, you must sign the return      Daytime Phone Number
+electronically using a personal identification number (PIN)       Providing your daytime phone number can help speed the
+and provide the information described below. If you are           processing of your return. If we have questions about
+filing online using software, you must use a Self-Select          items on your return and you can answer our questions
+PIN. If you are filing electronically using a tax practitioner,   over the phone, we may be able to continue processing
+you can use a Self-Select PIN or a Practitioner PIN.              your return without mailing you a letter. If you are filing a
+                                                                  joint return, you can enter either your or your spouse’s
+   If we issued you an identity protection personal               daytime phone number.
+identification number (IP PIN) (as described in more detail
+below), all six digits of your IP PIN must appear in the IP       Identity Protection PIN
+PIN spaces provided for your electronic signature to be
+complete. Failure to include an issued IP PIN on the                       All taxpayers are now eligible for an Identity
+electronic return will result in an invalid signature and a        TIP Protection Personal Identification Number (IP
+rejected return. If you are filing a joint return and both                PIN). For more information, see Pub. 5477. To
+taxpayers were issued IP PINs, enter both IP PINs in the          apply for an IP PIN, go to IRS.gov/IPPIN and use the Get
+spaces provided.                                                  an IP PIN tool.
+Self-Select PIN. The Self-Select PIN method allows you              If you received an IP PIN from the IRS, enter it in the IP
+to create your own PIN. If you are married filing jointly, you    PIN spaces provided next to your daytime phone number.
+and your spouse will each need to create a PIN and enter          You must correctly enter all six numbers of your IP PIN. If
+these PINs as your electronic signatures.                         you didn’t receive an IP PIN, leave these spaces blank.
+    A PIN is any combination of five digits you choose                    New IP PINs are generated every year. They will
+except five zeros. If you use a PIN, there is nothing to sign        !    generally be sent out by mid-January 2026. Use
+and nothing to mail—not even your Forms W-2.                      CAUTION this IP PIN on your 2025 return as well as any
+
+
+    Your electronic return signed with a Self-Select PIN is       prior-year returns you file in 2026.
+considered a validly signed return only when it includes
+your PIN, last name, date of birth, IP PIN, if applicable,           If you are filing a joint return and both taxpayers receive
+and your adjusted gross income (AGI) from your originally         IP PINs, enter both IP PINs in the spaces provided.
+filed 2024 federal income tax return, if applicable. If you’re       If you need more information, including how to retrieve
+filing jointly, your electronic return must also include your     your IP PIN online, go to IRS.gov/IPPIN. If you’re unable to
+spouse’s PIN; last name; date of birth; IP PIN, if                retrieve your IP PIN online, call 800-908-4490.
+applicable, and AGI, if applicable, in order to be
+considered validly signed. Don’t use your AGI from an             Understanding identity theft. Go to IRS.gov/Identity-
+amended return (Form 1040-X) or a math error correction           Theft-Central for information and videos.
+made by the IRS.                                                  Paid Preparer Must Sign Your Return
+    AGI is the amount shown on your 2024 Form 1040, U.S.          Generally, anyone you pay to prepare your return must
+Individual Income Tax Return or 1040-SR, U.S. Income              sign it and include their Preparer Tax Identification
+Tax Return for Seniors, line 11. If you don’t have your 2024      Number (PTIN) in the space provided. The preparer must
+income tax return, you can access your transcript through         give you a copy of the return for your records. Someone
+your online account at IRS.gov/Account. You can also visit        who prepares your return but doesn’t charge you shouldn’t
+IRS.gov/Transcript or call the IRS at 800-908-9946 to get a       sign your return.
+free transcript of your return. If you didn’t file a 2024 Form
+
+Instructions for Form 1040-SS (2025)                                                                                              13
+   If your paid preparer is self-employed, then the paid         Certain Credits After Disallowance, and its instructions for
+preparer should check the “self-employed” checkbox.              more information including whether an exception applies.
+Part II—Bona Fide Residents of                                            Refunds for returns claiming the ACTC can’t be
+                                                                  TIP issued before mid-February 2026. This delay
+Puerto Rico Claiming Additional Child                                   applies to the entire refund, not just the portion
+Tax Credit                                                       associated with the ACTC.
+
+         To claim the additional child tax credit, you must      Qualifying for the Credit
+     !   have a valid SSN, which means it must be valid for
+ CAUTION employment and issued by the Social Security
+                                                                 You may be able to claim the ACTC for 2025 if all of the
+Administration before the due date of your return                following apply.
+(including extensions). If you are filing a joint return, only     • You were a bona fide resident of Puerto Rico (see
+one spouse is required to have a valid SSN to be eligible             Pub. 570).
+for ACTC. The other spouse must have either an SSN or              • Social security and Medicare taxes were withheld from
+ITIN, and it must have been issued on or before the due               your wages or you paid SE tax.
+date of the return (including extensions).                         • You can’t be claimed as a dependent on someone
+                                                                      else’s U.S. income tax return.
+  The additional child tax credit (ACTC) is available to           • You had one or more qualifying children (defined
+bona fide residents of Puerto Rico with one or more                   under Qualifying child next).
+qualifying children.                                               • You, or your spouse, if filing jointly, have a valid SSN.
+                                                                      On a joint return, the other spouse may have a valid
+    Generally, you were a bona fide resident of Puerto Rico           ITIN.
+if, during 2025, you:
+  • Met the presence test,                                       Qualifying child. Each qualifying child you use for the
+  • Did not have a tax home outside of Puerto Rico, and          ACTC must have a valid SSN. A valid SSN is one that is
+  • Did not have a closer connection to the United States        valid for employment and that is issued by the Social
+     or to a foreign country than you have to Puerto Rico.       Security Administration before the due date of your 2025
+                                                                 tax return (including extensions). If you have a qualifying
+  For more information on bona fide resident status, see         child who does not have the required SSN, you cannot
+Pub. 570.                                                        use the child to claim the ACTC on either your original or
+                                                                 an amended 2025 tax return.
+   To figure the amount of your ACTC, regardless of the
+number of children you have, list each qualifying child                   If your qualifying child was born and died in 2025
+(defined later) in Part I, line 2 and complete Part II.            !      and you do not have an SSN for the child, enter
+                                                                 CAUTION “Died” on row (c) of Part I, line 2, and include a
+         Not a bona fide resident of Puerto Rico in              copy of the child’s birth certificate, death certificate, or
+     !   2025. An individual who was not a bona fide             hospital records. The document must show the child was
+ CAUTION resident of Puerto Rico in 2025 may have to file
+                                                                 born alive.
+tax returns with both Puerto Rico and the United States.
+For more information, see Not a Bona Fide Resident of              A qualifying child for purposes of the ACTC is a child
+Puerto Rico in Pub. 570. You will figure the credit on           who meets all of the following requirements.
+Schedule 8812 (Form 1040) and claim the credit by filing
+Form 1040 or 1040-SR instead of Form 1040-SS.                     1. Is your son, daughter, stepchild, foster child, brother,
+                                                                     sister, stepbrother, stepsister, half brother, half sister,
+         Bona fide residents of American Samoa, the                  or a descendant of any of them (for example, your
+ TIP CNMI, Guam, or the USVI may be able to claim                    grandchild, niece, or nephew). A foster child is any
+        the ACTC on their territory income tax return.               child placed with you by an authorized placement
+Contact your territory tax agency for details. For more              agency or by a judgment, decree, or other order of
+information, see Pub. 570.                                           any court of competent jurisdiction.
+
+Improper claims. If you erroneously claim the ACTC and                 Note. Your adopted child is always treated as your
+it’s later determined that your error was due to reckless or           own child. A child lawfully placed for legal adoption is
+intentional disregard of the ACTC rules, you will not be               treated the same as an adopted child.
+allowed to claim the child tax credit (CTC), the credit for       2. Was under age 17 at the end of 2025.
+other dependents (ODC), or the ACTC for 2 years even if
+you are otherwise eligible to do so.                              3. Was younger than you (or your spouse, if filing jointly)
+                                                                     or was permanently and totally disabled (see Age Test
+    If it’s determined that your error was due to fraud, you
+                                                                     in Pub. 501).
+will not be allowed to claim the CTC, the ODC, or the
+ACTC for 10 years. You may also have to pay penalties.            4. Didn’t provide over half of their own support for 2025.
+   Form 8862 may be required. If your CTC (refundable
+                                                                  5. Lived with you for more than half of 2025. If the child
+or nonrefundable, depending on the tax year) or ACTC for
+                                                                     didn’t live with you for the required time, see
+any year after 2015 was denied or reduced for any reason
+                                                                     Residency Test in Pub. 501.
+other than a math or clerical error, you must attach Form
+8862 to your tax return to claim the ACTC, unless an              6. Isn’t filing a joint tax return for 2025 or is filing a joint
+exception applies. See Form 8862, Information To Claim               tax return for 2025 only to claim a refund of estimated
+
+14                                                                                       Instructions for Form 1040-SS (2025)
+      or withheld taxes. See the examples under Joint                If you have a child who is age 17 or older that was not
+      Return Test (To Be a Qualifying Child) in Pub. 501.         reported on line 2, you may be able to include that child in
+                                                                  the calculation of line 8.
+ 7. Was a U.S. citizen, U.S. national, or a U.S. resident
+    alien.                                                        Line 8
+      Note. If you are a U.S. citizen or U.S. national and        Enter the number of other dependents who meet
+      your adopted child lived with you all year as a member      additional criteria (defined next), including children who
+      of your household, that child meets an exception and        are 17 or older, and multiply by $500.
+      may be a qualifying child although the child is a               If you include dependents on line 8, you must attach a
+      nonresident alien. See Pub. 570 for more information.       statement to your Form 1040-SS, which provides the
+                                                                  following information for each person included on line 8
+Line 2                                                            who is a qualifying person for purposes of the credit for
+Enter the number of qualifying children from Part I, line 2       other dependents.
+and multiply by $1,700.                                             • First and last name.
+Line 3                                                             • Tax identification number (SSN, ITIN, or adoption
+                                                                      taxpayer identification number (ATIN)).
+For purposes of figuring the ACTC, you must report all of
+your income, including income derived from sources                 • Relationship to the person(s) filing Form 1040-SS.
+within Puerto Rico that is excluded from U.S. tax because         Qualifying person for the credit for other depend-
+you were a bona fide resident of Puerto Rico.                     ents. A qualifying person for purposes of the credit for
+   Your modified adjusted gross income (AGI) includes             other dependents is a person who:
+items such as wages, interest, dividends, unemployment             1. Qualifies as a dependent for purposes of being
+compensation, alimony received (see Caution, below),                  claimed as a dependent on a U.S. federal tax return.
+and taxable pensions and annuities. Include any profit or             See Pub. 501 for more information about claiming
+(loss) from Schedule C (Form 1040), line 31, and/or                   someone as a dependent.
+Schedule F (Form 1040), line 34. Also, include your
+taxable social security benefits. Use Worksheet 1 in Pub.          2. Cannot be reported on Part I, line 2, and Part II, lines 2
+915, Social Security and Equivalent Railroad Retirement               and 7, of Form 1040-SS.
+Benefits, to see if any of your benefits are taxable.              3. Was a U.S. citizen, U.S. national, or U.S. resident
+                                                                      alien. For more information, see Pub. 519, U.S. Tax
+   For more information on these and other types of                   Guide for Aliens. If the person is your adopted child,
+income to include on line 3, see the Instructions for Form            see Adopted child next.
+1040. Also, see Pub. 570 for the rules to use in
+determining your Puerto Rico source income.                          Adopted child. Your adopted child is always treated as
+                                                                  your own child. An adopted child includes a child lawfully
+         Only include amounts received as alimony or
+                                                                  placed with you for legal adoption. If you are a U.S. citizen
+  !      separate maintenance pursuant to a divorce or
+CAUTION separation agreement entered into on or before
+                                                                  or U.S. national and your adopted child lived with you all
+                                                                  year as a member of your household in 2025, that child
+December 31, 2018, unless that agreement was changed
+                                                                  meets requirement 3, above.
+after December 31, 2018, to expressly provide that
+alimony received isn’t included in your income. For more             Taxpayer identification number requirements for
+details, see Pub. 504, Divorced or Separated Individuals.         the credit for other dependents. In addition to being a
+                                                                  qualifying person for the credit for other dependents, the
+                                                                  person must have an SSN, ITIN, or ATIN issued on or
+Line 4                                                            before the due date of your 2025 Form 1040-SS (including
+The ACTC may be limited if your income derived from               extensions). If the person has not been issued an SSN,
+sources within Puerto Rico exceeds the amounts shown              ITIN, or ATIN by that date, do not include the person on
+on line 4. Calculate the CTC on line 7 and the ODC on             line 8.
+line 8 as part of figuring the limitation, if any, of your ACTC       If the person applies for an ITIN or ATIN on or before
+even though you cannot take the CTC or ODC on Form                the due date of your 2025 return (including extensions)
+1040-SS.                                                          and the IRS issues the person an ITIN or ATIN as a result
+                                                                  of the application, the IRS will consider the ITIN or ATIN as
+Line 5
+                                                                  issued on or before the due date of your return.
+If you checked “No” leave line 5 blank, enter the amount
+from line 2 on line 11, and go to lines 12a, 12b, and 12c.
+                                                                  Additional Information
+   If you checked “Yes” subtract line 4 from line 3 (enter
+the amount in multiples of $1,000), and go to line 6. For         Corrected Returns
+example, if your result is $425, increase it to $1,000. If        File a new Form 1040-SS to change a Form 1040-SS you
+your result is $1,025, increase it to $2,000.                     already filed. If you filed Form 1040-SS but should have
+                                                                  filed Form 1040, file a corrected return on Form 1040. In
+Line 7                                                            either case, at the top of page 1 of the corrected return,
+Multiply the number of qualifying children entered on line 2      enter “CORRECTED” in dark bold letters followed by the
+by $2,200.                                                        date. In most cases, an amended Form 1040-SS (or Form
+
+Instructions for Form 1040-SS (2025)                                                                                           15
+1040, if applicable) must be filed within 3 years after the      for 2025, you can file a joint return. A joint return should
+date on which the original return was filed or within 2 years    show your spouse’s 2025 income before death and your
+after the tax was paid, whichever is later.                      income for all of 2025. Check the "Deceased" box at the
+                                                                 top of page 1 of Form 1040-SS and enter the date your
+Can I File My Corrected Return Electronically?                   spouse died in the entry spaces after "Spouse". (Enter
+                                                                 “Filing as surviving spouse” in the area where you sign the
+ 1. If you need to correct your 2023-2025 Form 1040-SS,          return.) If someone other than you is the personal
+    you can now file electronically using available tax          representative, they must also sign the return.
+    software products.
+                                                                    Failure to complete this section may delay the
+ 2. If correcting a prior-year return, and the original return   processing of the return.
+    for that year was filed on paper during the current
+    processing year, then the corrected return must be              The surviving spouse or personal representative should
+    filed on paper.                                              promptly notify all payers of income, including financial
+                                                                 institutions, of the taxpayer’s death. This will ensure the
+                                                                 proper reporting of income earned by the taxpayer’s
+How Do I File My Corrected Return Electronically?                estate or heirs. A deceased taxpayer’s SSN should not be
+                                                                 used for tax years after the year of death, except for estate
+You should contact your preferred tax software provider to
+                                                                 tax return purposes.
+verify their participation and for specific instructions
+needed to submit your corrected return and to answer any
+questions.                                                       Claiming a Refund for a Deceased Taxpayer
+
+                                                                 If you are filing a joint return with your deceased spouse,
+How Many Corrected Returns Can Be Filed                          you only need to file the tax return to claim the refund. If
+Electronically?                                                  you are a court-appointed representative, file the return
+                                                                 and include a copy of the certificate that shows your
+You are allowed to electronically file up to three “accepted”    appointment. All other filers requesting the deceased
+corrected returns. After the third accepted corrected            taxpayer’s refund must file the return and attach Form
+return, you must file the corrected return on paper.             1310, Statement of Person Claiming Refund Due a
+                                                                 Deceased Taxpayer.
+Will Filing My Corrected Return Be Processed
+Faster When Filed Electronically?                                  For more details, use Tax Topic 356 or see Pub. 559,
+                                                                 Survivors, Executors, and Administrators.
+Currently, the normal processing time of up to 16 weeks
+also applies to electronically filed corrected returns.          Interest and Penalties
+                                                                 You don’t have to figure the amount of any interest or
+When Is a New Form 8879 Required?                                penalties you may owe. The IRS will send you a bill for any
+                                                                 amount due.
+A new Form 8879, IRS e-file Signature Authorization, is
+required each time a corrected Form 1040-SS is                   Interest
+electronically filed using a tax practitioner.
+                                                                 The IRS will charge you interest on taxes not paid by their
+Electronically filing corrected Form 1040-SS, fre-
+                                                                 due date, even if an extension of time to file is granted.
+quently asked questions. Go to IRS.gov/filing/
+                                                                 The IRS will also charge you interest on penalties
+amended-return-frequently-asked-questions for answers
+                                                                 imposed for failure to file, negligence, fraud, substantial or
+to your questions.
+                                                                 gross valuation misstatements, substantial
+Death of a Taxpayer                                              understatements of tax, and reportable transaction
+                                                                 understatements. Interest is charged on the penalty from
+If a taxpayer died before filing a return for 2025, the          the due date of the return (including extensions).
+taxpayer’s spouse or personal representative may have to
+file and sign a return for that taxpayer. A personal
+representative can be an executor, administrator, or             Penalties
+anyone who is in charge of the deceased taxpayer’s               Late filing. If you don’t file your return by the due date
+property. If the deceased taxpayer didn’t have to file a         (including extensions), the penalty is usually 5% of the
+return but had tax withheld, a return must be filed to get a     amount due for each month or part of a month your return
+refund. The person who files the return must check the           is late, unless you have a reasonable explanation. If you
+"Deceased" box at the top of page 1 of Form 1040-SS.             have a reasonable explanation for filing late, include it with
+They must also enter the date of death in the entry              your return. The penalty can be as much as 25% of the tax
+spaces .If a return is being filed for both spouses who died     due. The penalty is 15% per month, up to a maximum of
+in 2025, the person who files the return must check the          75%, if the failure to file is fraudulent. If your return is more
+"Deceased" box and enter the date of death for both the          than 60 days late, the minimum penalty will be $525 or the
+primary taxpayer and the spouse.                                 amount of any tax you owe, whichever is smaller.
+  If your spouse died in 2025 and you didn’t remarry in          Late payment of tax. If you pay your taxes late, the
+2025, or if your spouse died in 2026 before filing a return      penalty is usually 1/2 of 1% of the unpaid amount for each
+
+16                                                                                       Instructions for Form 1040-SS (2025)
+month or part of a month the tax isn’t paid. The penalty             VITA, download the free IRS2Go app, or call
+can be as much as 25% of the unpaid amount. It applies               800-906-9887 for information on free tax return
+to any unpaid tax on the return. This penalty is in addition         preparation.
+to interest charges on late payments.                              • TCE. The Tax Counseling for the Elderly (TCE)
+Frivolous return. In addition to any other penalties, the            program offers free tax help for all taxpayers,
+law imposes a penalty of $5,000 for filing a frivolous               particularly those who are 60 years of age and older.
+return. A frivolous return is one that doesn’t contain               TCE volunteers specialize in answering questions
+information needed to figure the correct tax or shows a              about pensions and retirement-related issues unique
+substantially incorrect tax because you take a frivolous             to seniors. Go to IRS.gov/TCE or download the free
+                                                                     IRS2Go app for information on free tax return
+position or desire to delay or interfere with the tax laws.
+                                                                     preparation.
+This includes altering or striking out the preprinted
+language above the space where you sign. For a list of             • MilTax. Members of the U.S. Armed Forces and
+                                                                     qualified veterans may use MilTax, a free tax service
+positions identified as frivolous, see Notice 2010-33,
+                                                                     offered by the Department of Defense through Military
+2010-17 I.R.B. 609, available at IRS.gov/irb/
+                                                                     OneSource. For more information, go to
+2010-17_IRB#NOT-2010-33.
+                                                                     MilitaryOneSource (MilitaryOneSource.mil/MilTax).
+Other. Other penalties can be imposed for, among other
+                                                                    Also, the IRS offers Free Fillable Forms, which can be
+things, negligence, substantial understatement of tax,
+                                                                  completed online and then e-filed regardless of income.
+reportable transaction understatements, filing an
+erroneous refund claim, and fraud. Criminal penalties may         Using online tools to help prepare your return. Go to
+be imposed for willful failure to file, tax evasion, making a     IRS.gov/Tools for the following.
+false statement, or identity theft. See Pub. 17, Your              • The Earned Income Tax Credit Assistant (IRS.gov/
+Federal Income Tax (For Individuals) for details on some             EITCAssistant) determines if you’re eligible for the
+of these penalties.                                                  earned income credit (EITC).
+                                                                   • The Online EIN Application (IRS.gov/EIN) helps you
+How To Get Tax Help                                                  get an employer identification number (EIN) at no
+                                                                     cost.
+If you have questions about a tax issue; need help                 • The Tax Withholding Estimator (IRS.gov/W4app)
+preparing your tax return; or want to download free                  makes it easier for you to estimate the federal income
+publications, forms, or instructions, go to IRS.gov to find          tax you want your employer to withhold from your
+resources that can help you right away.                              paycheck. This is tax withholding. See how your
+Tax reform. Tax reform legislation impacting federal                 withholding affects your refund, take-home pay, or tax
+taxes, credits, and deductions was enacted in P.L. 119-21,           due.
+commonly known as the One Big Beautiful Bill Act on July           • The Sales Tax Deduction Calculator (IRS.gov/
+4, 2025. Go to IRS.gov/OBBB for more information and                 SalesTax) figures the amount you can claim if you
+updates on how this legislation affects your taxes.                  itemize deductions on Schedule A (Form 1040).
+Preparing and filing your tax return. After receiving all                Getting answers to your tax questions. On
+your wage and earnings statements (Forms W-2, W-2G,                      IRS.gov, you can get up-to-date information on
+1099-R, 1099-MISC, 1099-NEC, etc.); unemployment                         current events and changes in tax law.
+compensation statements (by mail or in a digital format) or        • IRS.gov/Help: A variety of tools to help you get
+other government payment statements (Form 1099-G);                   answers to some of the most common tax questions.
+and interest, dividend, and retirement statements from             • IRS.gov/ITA: The Interactive Tax Assistant, a tool that
+banks and investment firms (Forms 1099), you have                    will ask you questions and, based on your input,
+several options to choose from to prepare and file your tax          provide answers on a number of tax topics.
+return. You can prepare the tax return yourself, see if you        • IRS.gov/Forms: Find forms, instructions, and
+qualify for free tax preparation, or hire a tax professional to      publications. You will find details on the most recent
+prepare your return.                                                 tax changes and interactive links to help you find
+Free options for tax preparation. Your options for                   answers to your questions.
+preparing and filing your return online or in your local           • You may also be able to access tax information in your
+community, if you qualify, include the following.                    e-filing software.
+ • Free File. This program lets you prepare and file your
+   federal individual income tax return for free using            Need someone to prepare your tax return? There are
+   software or Free File Fillable Forms. However, state           various types of tax return preparers, including enrolled
+   tax preparation may not be available through Free File.        agents, certified public accountants (CPAs), accountants,
+   Go to IRS.gov/FreeFile to see if you qualify for free          and many others who don’t have professional credentials.
+   online federal tax preparation, e-filing, and direct           If you choose to have someone prepare your tax return,
+   deposit or payment options.                                    choose that preparer wisely. A paid tax preparer is:
+ • VITA. The Volunteer Income Tax Assistance (VITA)                 • Primarily responsible for the overall substantive
+   program offers free tax help to people with                         accuracy of your return,
+   low-to-moderate incomes, persons with disabilities,              • Required to sign the return, and
+   and limited-English-speaking taxpayers who need                  • Required to include their preparer tax identification
+   help preparing their own tax returns. Go to IRS.gov/                number (PTIN).
+
+
+Instructions for Form 1040-SS (2025)                                                                                      17
+         Although the tax preparer always signs the return,    receive certain types of written correspondence in the
+     !   you’re ultimately responsible for providing all the   following formats.
+ CAUTION information required for the preparer to accurately     • Standard Print.
+prepare your return and for the accuracy of every item           • Large Print.
+reported on the return. Anyone paid to prepare tax returns       • Braille.
+for others should have a thorough understanding of tax           • Audio (MP3).
+matters. For more information on how to choose a tax             • Plain Text File (TXT).
+preparer, go to Tips for Choosing a Tax Preparer on              • Braille-Ready File (BRF).
+IRS.gov.
+                                                               Disasters. Go to IRS.gov/DisasterRelief to review the
+Employers can register to use Business Services On-            available disaster tax relief.
+line. The Social Security Administration (SSA) offers          Getting tax forms and publications. Go to IRS.gov/
+online service at SSA.gov/employer for fast, free, and         Forms to view, download, or print all the forms,
+secure online W-2 filing options to CPAs, accountants,         instructions, and publications you may need. Or you can
+enrolled agents, and individuals who process Form W-2,         go to IRS.gov/OrderForms to place an order.
+Wage and Tax Statement; and Form W-2c, Corrected
+Wage and Tax Statement.                                        Mobile-friendly forms. You’ll need an IRS Online
+                                                               Account (OLA) to complete mobile-friendly forms that
+Business tax account. If you are a sole proprietor, a          require signatures. You’ll have the option to submit your
+partnership, an S corporation, a C corporation, or a           form(s) online or download a copy for mailing. You’ll need
+single-member limited liability company (LLC), you can         scans of your documents to support your submission. Go
+view your tax information on record with the IRS and do        to IRS.gov/MobileFriendlyForms for more information.
+more with a business tax account. Go to IRS.gov/
+BusinessAccount for more information.                          Getting tax publications and instructions in eBook
+                                                               format. Download and view most tax publications and
+IRS social media. Go to IRS.gov/SocialMedia to see the         instructions (including the Instructions for Form 1040) on
+various social media tools the IRS uses to share the latest    mobile devices as eBooks at IRS.gov/eBooks.
+information on tax changes, scam alerts, initiatives,
+                                                                  IRS eBooks have been tested using Apple’s iBooks for
+products, and services. At the IRS, privacy and security
+                                                               iPad. Our eBooks haven’t been tested on other dedicated
+are our highest priority. We use these tools to share public
+                                                               eBook readers, and eBook functionality may not operate
+information with you. Don’t post your social security
+                                                               as intended.
+number (SSN) or other confidential information on social
+media sites. Always protect your identity when using any       Access your online account (individual taxpayers on-
+social networking site.                                        ly). Go to IRS.gov/Account to securely access
+   The following IRS YouTube channels provide short,           information about your federal tax account.
+informative videos on various tax-related topics in English,     • View the amount you owe and a breakdown by tax
+Spanish, and ASL.                                                  year.
+  • Youtube.com/irsvideos.                                       • See payment plan details or apply for a new payment
+  • Youtube.com/irsvideosASL.                                      plan.
+                                                                 • Make a payment or view 5 years of payment history
+Online tax information in other languages. You can                 and any pending or scheduled payments.
+find information on IRS.gov/MyLanguage if English isn’t          • Access your tax records, including key data from your
+your native language.                                              most recent tax return, and transcripts.
+Over-the-Phone Interpreter (OPI) Service. The IRS                • View digital copies of select notices from the IRS.
+offers the OPI service to taxpayers needing language             • Approve or reject authorization requests from tax
+                                                                   professionals.
+interpretation. The OPI Service is available at Taxpayer
+Assistance Centers (TACs), most IRS offices, and every         Get a transcript of your return. With an online account,
+VITA/TCE tax return site. This service is available in         you can access a variety of information to help you during
+Spanish, Mandarin, Cantonese, Korean, Vietnamese,              the filing season. You can get a transcript, review your
+Russian, and Haitian Creole.                                   most recently filed tax return, and get your adjusted gross
+Accessibility Helpline available for taxpayers with            income. Create or access your online account at IRS.gov/
+disabilities. Taxpayers who need information about             Account.
+accessibility services can call 833-690-0598. The              Tax Pro Account. This tool lets your tax professional
+Accessibility Helpline can answer questions related to         submit an authorization request to access your individual
+current and future accessibility products and services         taxpayer IRS OLA. For more information, go to IRS.gov/
+available in alternative media formats (for example,           TaxProAccount.
+braille-ready, large print, audio, etc.). The Accessibility
+Helpline does not have access to your IRS account. For         Using direct deposit. The safest and easiest way to
+help with tax law, refunds, or account-related issues, go to   receive a tax refund is to e-file and choose direct deposit,
+IRS.gov/LetUsHelp.                                             which securely and electronically transfers your refund
+                                                               directly into your financial account. Direct deposit also
+Alternative media preference. Form 9000, Alternative           avoids the possibility that your check could be lost, stolen,
+Media Preference, or Form 9000(SP) allows you to elect to      destroyed, or returned undeliverable to the IRS. Eight in
+                                                               10 taxpayers use direct deposit to receive their refunds. If
+
+18                                                                                    Instructions for Form 1040-SS (2025)
+you don’t have a bank account, go to IRS.gov/                    • Same-Day Wire: You may be able to do same-day
+DirectDeposit for more information on where to find a bank          wire from your financial institution. Contact your
+or credit union that can open an account online.                    financial institution for availability, cost, and time
+                                                                    frames.
+Reporting and resolving your tax-related identity
+theft issues.                                                   Note: The IRS uses the latest encryption technology to
+ • Tax-related identity theft happens when someone              ensure that the electronic payments you make online, by
+    steals your personal information to commit tax fraud.       phone, or from a mobile device using the IRS2Go app are
+    Your taxes can be affected if your SSN is used to file a    safe and secure. Paying electronically is quick and easy.
+    fraudulent return or to claim a refund or credit.           .
+ • The IRS doesn’t initiate contact with taxpayers by
+    email, text messages (including shortened links),           What if I can’t pay now? Go to IRS.gov/Payments for
+    telephone calls, or social media channels to request        more information about your options.
+    or verify personal or financial information. This            • Apply for an online payment agreement (IRS.gov/
+    includes requests for personal identification numbers          OPA) to meet your tax obligation in monthly
+    (PINs), passwords, or similar information for credit           installments if you can’t pay your taxes in full today.
+    cards, banks, or other financial accounts.                     Once you complete the online process, you will
+ • Go to IRS.gov/IdentityTheft, the IRS Identity Theft             receive immediate notification of whether your
+    Central webpage, for information on identity theft and         agreement has been approved.
+    data security protection for taxpayers, tax                  • Use the Offer in Compromise Pre-Qualifier to see if
+    professionals, and businesses. If your SSN has been            you can settle your tax debt for less than the full
+    lost or stolen or you suspect you’re a victim of               amount you owe. For more information on the Offer in
+    tax-related identity theft, you can learn what steps you       Compromise program, go to IRS.gov/OIC.
+    should take.                                                Understanding an IRS notice or letter you’ve re-
+ • Get an Identity Protection PIN (IP PIN). IP PINs are         ceived. Go to IRS.gov/Notices to find additional
+    six-digit numbers assigned to taxpayers to help             information about responding to an IRS notice or letter.
+    prevent the misuse of their SSNs on fraudulent federal
+    income tax returns. When you have an IP PIN, it             IRS Document Upload Tool. You may be able to use the
+    prevents someone else from filing a tax return with         Document Upload Tool to respond digitally to eligible IRS
+    your SSN. To learn more, go to IRS.gov/IPPIN.               notices and letters by securely uploading required
+                                                                documents online through IRS.gov. For more information,
+Ways to check on the status of your refund.                     go to IRS.gov/DUT.
+ • Go to IRS.gov/Refunds.
+ • Download the official IRS2Go app to your mobile              Schedule LEP. You can use Schedule LEP (Form 1040),
+   device to check your refund status.                          Request for Change in Language Preference, to state a
+ • Call the automated refund hotline at 800-829-1954.           preference to receive notices, letters, or other written
+                                                                communications from the IRS in an alternative language.
+         The IRS can’t issue refunds before mid-February        You may not immediately receive written communications
+  !      for returns that claimed the additional child tax      in the requested language. The IRS’s commitment to LEP
+CAUTION credit (ACTC). This applies to the entire refund,
+                                                                taxpayers is part of a multi-year timeline that began
+not just the portion associated with the credit.                providing translations in 2023. You will continue to receive
+                                                                communications, including notices and letters, in English
+Making a tax payment. The IRS recommends paying                 until they are translated to your preferred language.
+electronically whenever possible. Options to pay
+electronically are included in the list below. Payment of       Contacting your local TAC. Keep in mind, many
+U.S. tax must be remitted to the IRS in U.S. dollars. Digital   questions can be answered on IRS.gov without visiting a
+assets are not accepted. Go to IRS.gov/Payments for             TAC. Go to IRS.gov/LetUsHelp for the topics people ask
+information on how to make a payment using any of the           about most. If you still need help, TACs provide tax help
+following options.                                              when a tax issue can’t be handled online or by phone. All
+  • IRS Direct Pay: Pay taxes from your bank account. It’s      TACs now provide service by appointment, so you’ll know
+     free and secure, and no sign-in is required. You can       in advance that you can get the service you need without
+     change or cancel within two days of scheduled              long wait times. Before you visit, go to IRS.gov/TAC to find
+     payment.                                                   the nearest TAC and to check hours, available services,
+  • Debit Card, Credit Card, or Digital Wallet: Choose an       and appointment options. Or, on the IRS2Go app, under
+     approved payment processor to pay online or by             the Stay Connected tab, choose the Contact Us option
+     phone.                                                     and click on “Local Offices.”
+  • Electronic Funds Withdrawal: Schedule a payment                ————————————————————————
+     when filing your federal taxes using tax return              Below is a message to you from the Taxpayer Advocate
+     preparation software or through a tax professional.        Service, an independent organization established by
+  • Electronic Federal Tax Payment System: Best option          Congress.
+     for businesses. Enrollment is required.
+  • Check or Money Order: Mail your payment to the
+     address listed on the notice or instructions.
+  • Cash: You may be able to pay your taxes with cash at
+     a participating retail store.
+
+Instructions for Form 1040-SS (2025)                                                                                         19
+The Taxpayer Advocate Service (TAS) Is Here To                   American Samoa Government
+Help You                                                         Tax Office
+                                                                 Executive Office Building
+                                                                 Pago Pago, AS 96799
+What Is the Taxpayer Advocate Service?
+The Taxpayer Advocate Service (TAS) is an independent                You can order forms and publications by calling
+organization within the Internal Revenue Service (IRS).              684-633-4181.
+TAS helps taxpayers resolve problems with the IRS,
+makes administrative and legislative recommendations to              You can download forms by going to
+prevent or correct the problems, and protects taxpayer               americansamoa.gov/tax-office.
+rights. We work to ensure that every taxpayer is treated
+fairly and that you know and understand your rights under
+the Taxpayer Bill of Rights. We are Your Voice at the IRS.    CNMI
+
+                                                                 CNMI
+How Can TAS Help Me?                                             Division of Revenue and Taxation
+                                                                 P.O. Box 5234 CHRB
+TAS can help you resolve problems that you haven’t been
+                                                                 Dandan Commercial Center
+able to resolve with the IRS on your own. Always try to
+                                                                 Saipan, MP 96950
+resolve your problem with the IRS first, but if you can’t,
+then come to TAS. Our services are free.
+                                                                     You can order forms and publications by calling
+  • TAS helps all taxpayers (and their representatives),             670-664-1040.
+    including individuals, businesses, and exempt
+    organizations. You may be eligible for TAS help if your
+    IRS problem is causing financial difficulty, if you’ve           You can download forms by going to
+    tried and been unable to resolve your issue with the             Finance.gov.mp/forms.php.
+    IRS, or if you believe an IRS system, process, or
+    procedure just isn’t working as it should.
+                                                              Guam
+  • To get help any time with general tax topics, visit
+    www.TaxpayerAdvocate.IRS.gov. The site can help              Department of Revenue and Taxation
+    you with common tax issues and situations, such as           Taxpayer Services Division
+    what to do if you make a mistake on your return or if        P.O. Box 23607
+    you get a notice from the IRS.                               Barrigada, Guam 96921
+  • TAS works to resolve large-scale (systemic) problems
+    that affect many taxpayers. You can report systemic              For a list of services, go to MyGuamtax.com.
+    issues at www.IRS.gov/SAMS. (Be sure not to include
+    any personal identifiable information.)
+
+How Do I Contact TAS?                                                You can order forms and publications by calling
+                                                                     671-635-1840 or 671-635-1841.
+TAS has offices in every state, the District of Columbia,
+and Puerto Rico. To find your local advocate’s number:        Puerto Rico
+ • Go to www.TaxpayerAdvocate.IRS.gov/Contact-Us,
+ • Check your local directory, or                                U.S. Internal Revenue Service
+ • Call TAS toll free at 877-777-4778.                           48 Carr 165 km.1.2
+                                                                 City View Plaza II Bldg.
+What Are My Rights as a Taxpayer?                                Guaynabo, PR 00968-8000
+
+The Taxpayer Bill of Rights describes ten basic rights that          To pay, call 787-620-2323, option 3.
+all taxpayers have when dealing with the IRS. Go to
+www.TaxpayerAdvocate.IRS.gov/Taxpayer-Rights for
+more information about the rights, what they mean to you,
+and how they apply to specific situations you may                   Departamento de Hacienda
+encounter with the IRS. TAS strives to protect taxpayer             Negociado de Asistencia Contributiva
+rights and ensure the IRS is administering the tax law in a         P.O. Box 9024140
+fair and equitable way.                                          San Juan, PR 00902-4140
+
+Territory Resources                                                  For a list of services, go to Hacienda.pr.gov.
+Addresses of walk-in sites in each territory and other ways
+to get forms and publications are listed below.
+American Samoa                                                USVI
+
+
+
+
+20                                                                                 Instructions for Form 1040-SS (2025)
+    USVI Bureau of Internal Revenue (STT)                        We may also have to disallow any exclusions, credits,
+    6115 Estate Smith Bay                                        deductions, or adjustments shown on the tax return. This
+    Suite 225                                                    could make the tax higher or delay any refund, and the
+    St. Thomas, VI 00802                                         calculation of your social security benefits may be
+                                                                 affected. Interest may also be charged.
+    USVI Bureau of Internal Revenue (STJ)                           Generally, tax returns and return information are
+    P.O. Box 8305                                                confidential, as stated in section 6103. However, section
+    St. John, VI 00831                                           6103 allows or requires the IRS to disclose or give the
+                                                                 information shown on your tax return to others as
+    USVI Bureau of Internal Revenue (STX)                        described in the Code. For example, we may disclose your
+    4008 Estate Diamond, Plot 7B                                 tax information to the SSA for use in calculating your
+    Christiansted, VI 00820-4421                                 social security benefits; to the Department of Justice to
+                                                                 enforce the tax laws, both civil and criminal; and to cities,
+        You can order forms and publications by calling          states, the District of Columbia, and U.S. commonwealths
+        340-715-1040 (STT), 340-777-1446 (STJ), and              or territories to carry out their tax laws.
+        340-773-1040 (STX).
+                                                                    We may disclose your tax information to other persons
+        You can get forms and publications at the Virgin         as necessary to obtain information needed to determine
+        Islands Bureau of Internal Revenue at bir.vi.gov/        the amount of or to collect the tax you owe. We may
+        form.                                                    disclose your tax information to the Comptroller General of
+                                                                 the United States to permit the Comptroller General to
+                                                                 review the Internal Revenue Service. We may disclose
+Note. The addresses and phone numbers indicated
+                                                                 your tax information to Committees of Congress; federal,
+above for the territories are subject to change.
+                                                                 state, and local child support agencies; and to other
+Disclosure, Privacy Act, and Paperwork Reduction                 federal agencies for the purposes of determining
+Act Notice. The IRS Restructuring and Reform Act of              entitlement for benefits or the eligibility for and the
+1998, the Privacy Act of 1974, and the Paperwork                 repayment of loans. We may also disclose this information
+Reduction Act of 1980 require that when we ask you for           to other countries under a tax treaty, or to federal and state
+information, we must first tell you our legal right to ask for   agencies to enforce federal nontax criminal laws, or to
+the information, why we are asking for it, and how it will be    federal law enforcement and intelligence agencies to
+used. We must also tell you what could happen if we do           combat terrorism.
+not receive it and whether your response is voluntary,              Keep this notice with your records. It may help you if we
+required to obtain a benefit, or mandatory under the law.        ask you for other information. If you have questions about
+                                                                 the rules for filing and giving information, call or visit any
+   This notice applies to all records and other material (in     IRS office.
+paper or electronic format) you file with us, including this
+tax return. It also applies to any questions we need to ask         Estimates of taxpayer burden. The table below
+you so we can complete, correct, or process your return;         shows burden estimates as of October 1, 2025, for
+figure your tax; and collect tax, interest, or penalties.        taxpayers filing a 2025 Form 1040-SS tax return.
+   Our legal right to ask for information is Internal Revenue
+                                                                                               Average Time
+Code sections 6001, 6011, and 6012(a), and their                           Form                Burden (Hours)   Average Cost*
+regulations. They say that you must file a return or
+statement with the IRS and pay to the United States                      1040-SS                          7         $40
+Treasury any tax for which you are liable. Your response is       * Dollars rounded to the nearest $10.
+mandatory under these sections. Section 6109 requires
+you to provide your identifying number on the return. This
+is so we know who you are, and can process your return              Reported time and cost burdens are national averages
+and other papers. You must fill in all parts of the tax form     and do not necessarily reflect a “typical” case. Most
+that apply to you.                                               taxpayers experience lower than average burden, with
+   You are not required to provide the information               taxpayer burden varying considerably by taxpayer type.
+requested on a form that is subject to the Paperwork             The estimated average time burden for all taxpayers filing
+Reduction Act unless the form displays a valid OMB               a Form 1040-SS is 7 hours, with an average cost of $40
+control number. Books or records relating to a form or its       per return. This average includes all related forms and
+instructions must be retained as long as their contents          schedules, across all preparation methods and taxpayer
+may become material in the administration of any Internal        activities. Within these estimates there is significant
+Revenue law.                                                     variation in taxpayer activity.
+                                                                    Out-of-pocket costs include any expenses incurred by
+   We ask for return information to carry out the tax laws of
+                                                                 taxpayers to prepare and submit their tax returns.
+the United States. We need it to figure and collect the right
+                                                                 Examples include tax return preparation and submission
+amount of tax.
+                                                                 fees, postage and photocopying costs, and tax
+  If you do not file a return, do not provide the information    preparation software costs. Tax preparation fees vary
+we ask for, or provide fraudulent information, you may be        widely depending on the tax situation of the taxpayer, the
+charged penalties and be subject to criminal prosecution.        type of professional preparer, and the geographic area.
+
+Instructions for Form 1040-SS (2025)                                                                                            21
+   We try to create forms and instructions that can be         send your comments to Internal Revenue Service, Tax
+easily understood. Often this is difficult to do because our   Forms and Publications Division, 1111 Constitution Ave.
+tax laws are very complex. For some people with income         NW, IR-6526, Washington, DC 20224. Don’t send your
+mostly from wages, filling in the forms is easy. For others    return to this address. Instead, see Where To File, earlier.
+who have businesses, pensions, stocks, rental income, or
+                                                                  Although we can’t respond individually to each
+other investments, it is more difficult.
+                                                               comment received, we do appreciate your feedback and
+  If you have suggestions for making these forms simpler,      will consider your comments as we revise our tax forms
+we would be happy to hear from you. You can send us            and instructions.
+comments through IRS.gov/FormComments. Or you can
+
+
+
+
+22                                                                                    Instructions for Form 1040-SS (2025)
+Index
+
+                                         Foreign address 6                                   Employees of churches and church
+A                                        Free tax help 17                                       organizations 3
+                                                                                             Members of certain religious sects 3
+Address change 6                                                                             Ministers, members of religious orders, and
+Amount you owe 11                        H
+                                                                                                christian science practitioners
+                                         How to get tax help 2, 17                           Self-employed persons 3
+B                                                                                            U. S. Citizens employed by foreign
+Bona Fide residents of Puerto Rico       I                                                      governments or international
+                                                                                                organizations 4
+  Claiming the Additional Child Tax      Identity protection PIN 13
+  Credit:                                                                                    Who must pay SE tax 3
+                                         Injured spouse 10
+  Qualifying for the credit 14           Interest and penalties:
+Business:                                   Interest 16
+                                                                                         T
+  Business owned and operated by            Penalties 16                                 Tax help 17
+     spouses 4                                                                           Taxpayer Advocate Service (TAS) 20
+  More than one business 4                                                               Territory resources 20
+                                         N
+                                                                                         Third Party Designee 12
+C                                        Name and SSN 6
+                                         Name change 6
+Chapter 11 bankruptcy cases 4                                                            W
+Corrected Returns 15                                                                     What’s new:
+  Can I File My Corrected Return
+                                         P
+                                                                                           Maximum income subject to social security
+     Electronically? 16                  Part I—Total tax and credits 7                       tax for 2025. 1
+  Frequently asked questions 16          Part II—Bona Fide Residents of Puerto             Maximum income subject to social security
+                                            Rico Claiming the Additional Child Tax            tax for 2026 1
+D                                           Credit 14                                      Optional methods to figure net earnings 1
+                                         Pay taxes electronically 11
+Digital assets 6                                                                         When to file:
+                                         Private delivery services 5
+Direct deposit of refund 10                                                                Additional 4-month extension. 5
+Disclosure, Privacy Act, and Paperwork                                                     Automatic 2-month extension. 5
+   Reduction Act Notice 21
+                                         R                                                 Bona fide residents of American Samoa,
+                                         Reminders:                                           the CNMI, Guam, or the USVI. 5
+E                                          Estimated tax payments 1                        Bona fide residents of Puerto Rico. 5
+                                                                                           Extension of time to file 5
+Electronic filing 2                                                                        Where to file extension requests. 5
+                                         S
+                                                                                         Where to file 5
+F                                        Self-employment tax:                            Who must file 2
+                                            Commonwealth or territory residents living
+Fiscal year filers 6                           abroad 4
+
+
+
+
+                                                                                                                                     23
+

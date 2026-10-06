@@ -1,0 +1,225 @@
+{
+  "form": {
+    "id": "form-8997",
+    "form": "Form 8997",
+    "title": "Initial and Annual Statement of Qualified Opportunity Fund (QOF) Investments",
+    "kind": "form",
+    "revision": "2025",
+    "revision_printed_as": "Form 8997 (2025) Created 12/23/25",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8997--2025.pdf",
+    "instructions_url": "https://www.irs.gov/pub/irs-prior/f8997--2025.pdf",
+    "notes": "The QOF INVESTOR's statement, filed every year a deferral is held. It does not compute gain: the deferral itself is reported on Form 8949 \u2014 its own row in Part I (box C or I) or Part II (box F or L) with code \"Z\" in column (f) and the deferred gain as a negative number in column (g); an inclusion is reported with code \"Y\" and the previously deferred gain as a positive number (i8949, \"How To Report an Election To Defer Tax on Eligible Gain Invested in a QOF\"). So a K-1 or 1099 deferral reaches 1040 7a through Form 8949, and Form 8997 is the inventory beside it. Its instructions are printed on the form itself (pages 3-4).",
+    "face_not_boxes": [
+      {
+        "slot": "3",
+        "because": "a page number in the page header (\"Page 2\"), not a line"
+      },
+      {
+        "slot": "4",
+        "because": "a page number in the page header (\"Page 2\"), not a line"
+      }
+    ],
+    "lines": [
+      {
+        "line": "rows (part i)",
+        "caption": "Total QOF Investment Holdings Due to Deferrals Prior to Beginning of Tax Year",
+        "type": "money",
+        "part": "I",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "column_captions": {
+          "a": "(a) QOF EIN",
+          "b": "(b) Date QOF investment acquired (MM/DD/YYYY)",
+          "c": "(c) Description of QOF investment (for example, 100 shares or 25% interest)",
+          "d": "(d) Special gain code",
+          "e": "(e) Amount of short-term deferred gain remaining in QOF",
+          "f": "(f) Amount of long-term deferred gain remaining in QOF"
+        },
+        "rows_are": "instances",
+        "notes": "One row per QOF investment (instances). Column types: (a) tin, (b) date, (c) text, (d) code, (e)/(f) money."
+      },
+      {
+        "line": "1 (part i)",
+        "caption": "Enter the totals, if any, from continuation sheet",
+        "type": "money",
+        "part": "I",
+        "columns": [
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "2 (part i)",
+        "caption": "Enter the totals from columns (e) and (f).",
+        "type": "money",
+        "part": "I",
+        "columns": [
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "rows (part ii)",
+        "caption": "Current Tax Year Capital Gains Deferred by Investing in QOF",
+        "type": "money",
+        "part": "II",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "column_captions": {
+          "a": "(a) QOF EIN",
+          "b": "(b) Date QOF investment acquired (MM/DD/YYYY)",
+          "c": "(c) Description of interest acquired (for example, 100 shares or 25% interest)",
+          "d": "(d) Special gain code",
+          "e": "(e) Amount of short-term deferred gain remaining in QOF",
+          "f": "(f) Amount of long-term deferred gain remaining in QOF"
+        },
+        "rows_are": "instances",
+        "notes": "One row per QOF investment (instances). Column types: (a) tin, (b) date, (c) text, (d) code, (e)/(f) money."
+      },
+      {
+        "line": "1 (part ii)",
+        "caption": "Enter the totals, if any, from continuation sheet",
+        "type": "money",
+        "part": "II",
+        "columns": [
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "2 (part ii)",
+        "caption": "Enter the totals from columns (e) and (f). See instructions for reporting on Form 8949",
+        "type": "money",
+        "part": "II",
+        "columns": [
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "rows (part iii)",
+        "caption": "Inclusion Events and Certain Other Transfers During the Current Tax Year",
+        "type": "money",
+        "part": "III",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "column_captions": {
+          "a": "(a) QOF EIN",
+          "b": "(b) Date of event (MM/DD/YYYY)",
+          "c": "(c) Description of event (for example, sale of 100 shares, gift of 25% interest, or distribution of $1,000, etc.)",
+          "d": "(d) Special gain code",
+          "e": "(e) Amount of previously deferred short-term gain now included in taxable income",
+          "f": "(f) Amount of previously deferred long-term gain now included in taxable income"
+        },
+        "rows_are": "instances",
+        "notes": "One row per QOF investment (instances). Column types: (a) tin, (b) date, (c) text, (d) code, (e)/(f) money."
+      },
+      {
+        "line": "1 (part iii)",
+        "caption": "Enter the totals, if any, from continuation sheet",
+        "type": "money",
+        "part": "III",
+        "columns": [
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "2 (part iii)",
+        "caption": "Enter the totals from columns (e) and (f). See instructions for reporting on Form 8949",
+        "type": "money",
+        "part": "III",
+        "columns": [
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "rows (part iv)",
+        "caption": "Total QOF Investments Due to Deferrals at Year End (see instructions)",
+        "type": "money",
+        "part": "IV",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "column_captions": {
+          "a": "(a) QOF EIN",
+          "b": "(b) Date QOF investment acquired (MM/DD/YYYY)",
+          "c": "(c) Description of interest acquired (for example, 100 shares or 25% interest)",
+          "d": "(d) Special gain code",
+          "e": "(e) Amount of short-term deferred gain invested in QOF",
+          "f": "(f) Amount of long-term deferred gain invested in QOF"
+        },
+        "rows_are": "instances",
+        "notes": "One row per QOF investment (instances). Column types: (a) tin, (b) date, (c) text, (d) code, (e)/(f) money."
+      },
+      {
+        "line": "1 (part iv)",
+        "caption": "Enter the totals, if any, from continuation sheet",
+        "type": "money",
+        "part": "IV",
+        "columns": [
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "2 (part iv)",
+        "caption": "Enter the totals from columns (e) and (f).",
+        "type": "money",
+        "part": "IV",
+        "columns": [
+          "e",
+          "f"
+        ]
+      },
+      {
+        "line": "foreign-eligible-taxpayer",
+        "caption": "Are you a foreign eligible taxpayer? See instructions for more information.",
+        "type": "checkbox",
+        "columns": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "line": "treaty-waiver",
+        "caption": "Do you hereby irrevocably waive any benefits available under an applicable U.S. income tax convention that would exempt gains that you are deferring by investing in a QOF from being subject to federal income tax at the time of inclusion?",
+        "type": "checkbox",
+        "columns": [
+          "yes",
+          "no"
+        ]
+      },
+      {
+        "line": "no-1099-b",
+        "caption": "Check this box if you disposed of any investment(s) and didn\u2019t receive a Form 1099-B reporting the disposition from the QOF or other third party.",
+        "type": "checkbox",
+        "part": "III"
+      }
+    ]
+  }
+}

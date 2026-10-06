@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "id": "c-personal-expenses",
+    "title": "Personal, living and family expenses are not Schedule C other expenses",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-business-income-and-expense-records.other_expenses"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-personal-living-or-family-expense"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-personal-living-or-family-expense",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this item a personal, living or family expense rather than a business expense?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule C (Form 1040)",
+      "line": "Line 48",
+      "revision": "2025",
+      "wording": "Do not include the cost of business equipment or furniture; replacements or permanent improvements to property; or personal, living, and family expenses.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sc--2025.pdf"
+    },
+    "research_ids": [
+      "c-personal-expenses"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "salt-5a-elects-general-sales-taxes",
+    "wording": "Does the taxpayer elect to deduct state and local general sales taxes instead of state and local income taxes on Schedule A line 5a?",
+    "scope": "engagement",
+    "options": [
+      {
+        "value": "income_taxes",
+        "label": "No — deduct state and local income taxes"
+      },
+      {
+        "value": "general_sales_taxes",
+        "label": "Yes — deduct general sales taxes instead (check the box on line 5a)"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "income_taxes",
+      "because": "Schedule A line 5a takes state and local income taxes unless the taxpayer elects general sales taxes; no election has been recorded."
+    },
+    "basis": {
+      "citation": {
+        "form": "Schedule A (Form 1040)",
+        "line": "5a",
+        "revision": "2025",
+        "wording": "If you don't elect to deduct general sales taxes, include on line 5a the state and local income taxes listed next.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

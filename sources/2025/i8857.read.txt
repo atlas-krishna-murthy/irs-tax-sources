@@ -1,0 +1,786 @@
+Instructions for Form 8857
+
+Department of the Treasury
+Internal Revenue Service
+
+(Rev. June 2021)
+
+Request for Innocent Spouse Relief
+Section references are to the Internal Revenue Code unless
+otherwise noted.
+
+General Instructions
+Note. In these instructions, the term “your spouse or former
+spouse” means the person who was your spouse for the year(s)
+you want relief. This is the person whose name you enter on
+line 6.
+
+Future Developments
+
+For the latest information about developments related to Form
+8857 and its instructions, such as legislation enacted after they
+were published, go to IRS.gov/Form8857.
+
+Reminders
+Scope of review. If you petition the Tax Court to review your
+request for relief, the Tax Court may only be allowed to consider
+information you or the person on line 6 provided us before we
+made our final determination, additional information we included
+in our administrative file about your request for relief, and any
+information that is newly discovered or previously unavailable.
+Therefore, it is important that you provide us with information you
+want us or the Tax Court to consider.
+Victims of abuse. The IRS has issued Rev. Proc. 2013-34,
+available at IRS.gov/irb/2013-43_IRB#RP-2013-34. This
+revenue procedure expands how the IRS will take into account
+abuse and financial control by the nonrequesting spouse in
+determining whether equitable relief is warranted. It also
+broadens the availability of refunds in cases involving
+deficiencies. See the instructions for line 25, later.
+
+Purpose of Form
+
+When you file a joint income tax return, the law makes both you
+and your spouse responsible for the entire tax liability. This is
+called joint and several liability. Joint and several liability applies
+not only to the tax liability you show on the return but also to any
+additional tax liability the IRS determines to be due, even if the
+additional tax is due to the income, deductions, or credits of your
+spouse or former spouse. You remain jointly and severally liable
+for taxes, and the IRS can still collect them from you, even if you
+later divorce and the divorce decree states that your former
+spouse will be solely responsible for the tax.
+If you believe, taking into account all the facts and
+circumstances, only your spouse or former spouse should be
+held responsible for all or part of the tax, you should request
+relief from the tax liability, including related penalties and
+interest. To request relief, you must file Form 8857. The IRS will
+use the information you provide on the form, and any
+attachments you submit, to determine if you are eligible for relief.
+The IRS will contact you if additional information is needed.
+Married people who did not file joint returns, but who lived in
+community property states may request relief from liability for tax
+attributable to an item of community income. Community
+property states are Arizona, California, Idaho, Louisiana,
+Nevada, New Mexico, Texas, Washington, and Wisconsin. See
+Community Property Laws, later.
+
+Jul 29, 2021
+
+Note. We recognize that some of the questions on the form
+involve sensitive subjects. However, we need this information to
+evaluate the circumstances of your case and properly determine
+whether you qualify for relief.
+
+Situations in Which You Should Not File Form
+8857
+
+Do not file Form 8857 for any tax year to which the following
+situations apply, even if you checked “Yes” on line 1.
+• In a final decision, a court considered whether to grant you
+relief from the joint liability and decided not to do so.
+• In a final decision, a court did not consider whether to grant
+you relief from the joint liability, but you meaningfully participated
+in the proceeding and could have asked for relief.
+• You entered into an offer in compromise with the IRS.
+• You entered into a closing agreement with the IRS that
+disposed of the same liability for which you want to seek relief.
+However, see Pub. 971, Innocent Spouse Relief, for an
+exception that applies to TEFRA partnership proceedings.
+• You checked “No” on line 1.
+
+When To File
+
+You should file Form 8857 as soon as you become aware of a
+tax liability for which you believe only your spouse or former
+spouse should be held responsible. The following are some of
+the ways you may become aware of such a liability.
+• The IRS is examining your tax return and proposing to
+increase your tax liability.
+• The IRS sends you a notice.
+
+However, you must generally file Form 8857 no later than 2
+years after the first IRS attempt to collect the tax from you. (But
+see the exceptions below for different filing deadlines that
+apply.) For this reason, do not delay filing because you do not
+have all the required documentation.
+Collection activities that may start the 2-year period include
+the following.
+• The IRS offset your income tax refund against an amount you
+owed on a joint return for another year and the IRS informed you
+about your right to file Form 8857.
+• The filing of a claim by the IRS in a court proceeding in which
+you were a party or the filing of a claim in a proceeding that
+involves your property. This includes the filing of a proof of claim
+in a bankruptcy proceeding.
+• The filing of a suit by the United States against you to collect
+the joint liability.
+• The issuance of a section 6330 notice, which notifies you of
+the IRS's intent to levy and your right to a collection due process
+(CDP) hearing. The IRS usually sends a section 6330 notice by
+issuing a Letter 11 or Letter 1058.
+Exception for equitable relief. The amount of time to request
+equitable relief depends on whether you are seeking relief from a
+balance due, seeking a credit or refund, or both.
+• Balance Due—Generally, you must file your request within the
+time period the IRS has to collect the tax. Generally, the IRS has
+10 years from the date the tax liability was assessed to collect
+the tax. In certain cases, the 10-year period is suspended. The
+amount of time the suspension is in effect will extend the time
+the IRS has to collect the tax. See Pub. 594, The IRS Collection
+Process, for details.
+
+Cat. No. 24646K
+
+• Credit or Refund—Generally, you must file your request within
+3 years after the date the original return was filed or within 2
+years after the date the tax was paid, whichever is later. But you
+may have more time to file if you live in a federally declared
+disaster area or you are physically or mentally unable to manage
+your financial affairs. See Pub. 556, Examination of Returns,
+Appeal Rights, and Claims for Refund, for details.
+• Both a Balance Due and a Credit or Refund—If you are
+seeking a refund of amounts you paid and relief from a balance
+due over and above what you have paid, the time period for
+credit or refund will apply to any payments you have made, and
+the time period for collection of a balance due amount will apply
+to any unpaid liability.
+
+If you are requesting relief from joint and several liability on a
+joint return, the IRS must also inform him or her of its preliminary
+and final determinations regarding your requested relief.
+To protect your privacy, the IRS will not disclose your
+personal information (such as your current name, address,
+phone number(s), or information about your employer, your
+income, or your assets). Any other information you provide that
+the IRS uses to make a determination about your request for
+relief from liability could be disclosed to the person you list on
+line 6. If you have concerns about your privacy or the privacy of
+others, you should redact or black out personal information in
+the material you submit.
+If you petition the Tax Court (explained later under What
+Happens After You File Form 8857), your spouse or
+CAUTION former spouse may see your personal information,
+unless you ask the Tax Court to withhold it.
+
+Exception for relief from liability for tax attributable to an
+item of community income. If you are requesting relief from
+liability for tax attributable to an item of community income (other
+than equitable relief), a different filing deadline applies. See
+Relief from liability for tax attributable to an item of community
+income, discussed later under Community Property Laws. The
+time in which to request equitable relief from liability for tax
+attributable to an item of community income follows the rules for
+equitable relief, earlier.
+
+!
+
+Types of Relief
+
+Where To File
+
+Do not file Form 8857 with your tax return or the Tax Court.
+Instead, mail it to one of the following addresses.
+
+Four types of relief are available. They are:
+1. Innocent spouse relief,
+2. Separation of liability relief,
+3. Equitable relief, and
+4. Relief from liability for tax attributable to an item of
+community income. (See Community Property Laws, later).
+
+If using the U.S. Postal Service:
+
+Innocent Spouse Relief
+
+You may be allowed innocent spouse relief only if all of the
+following apply.
+• You filed a joint return for the year(s) entered on line 3.
+• There is an understated tax on the return(s) that is due to
+erroneous items (defined below) of the person with whom you
+filed the joint return.
+• You can show that when you signed the return(s) you did not
+know and had no reason to know that the understated tax
+existed (or the extent to which the understated tax existed).
+• Taking into account all the facts and circumstances, it would
+be unfair to hold you liable for the understated tax.
+
+Internal Revenue Service
+P.O. Box 120053
+Covington, KY 41012
+If using a private delivery service:
+Internal Revenue Service
+7940 Kentucky Drive, Stop 840F
+Florence, KY 41042
+Alternatively, you can fax the form and attachments to the IRS at
+855-233-8558.
+For a list of private delivery services you can use to meet the
+“timely mailing as timely filing” rule for filing Form 8857 by the
+deadline, go to IRS.gov/PDS.
+Write your name and social security number (SSN) on any
+attachments.
+Send it to one of the above addresses or fax it to the above
+number even if you are communicating with an IRS employee
+because of an examination, examination appeal, or collection.
+If you received an IRS notice of deficiency, you should also
+file a petition with the Tax Court before the end of the 90-day
+period, as explained in the notice. In your petition, you should
+raise innocent spouse relief as a defense to the deficiency. By
+doing so, you preserve your rights if the IRS is unable to properly
+consider your request before the end of the 90-day period.
+Include the information that supports your position, including
+when and why you filed Form 8857 with the IRS, in your petition
+to the Tax Court. The time for filing with the Tax Court is not
+extended while the IRS is considering your request.
+
+Understated tax. You have an understated tax if the IRS
+determined that your total tax should be more than the amount
+actually shown on the return.
+Example. You and your former spouse filed a joint return
+showing $5,000 of tax, which was fully paid. The IRS later
+examines the return and finds $10,000 of income that your
+former spouse earned but did not report. With the additional
+income, the total tax becomes $6,500. The understated tax is
+$1,500, for which you and your former spouse are both liable.
+Erroneous items. Any income, deduction, credit, or basis is an
+erroneous item if it is omitted from or incorrectly reported on the
+joint return.
+Partial innocent spouse relief. If you knew about any of the
+erroneous items, but not the full extent of the item(s), you may
+be allowed relief for the part of the understatement you did not
+know about.
+Additional information. For additional information on innocent
+spouse relief, see Pub. 971.
+
+Separation of Liability Relief
+
+The IRS Must Contact Your Spouse or
+Former Spouse
+
+You may be allowed separation of liability relief for any
+understated tax (defined above) shown on the joint return(s) if
+the person with whom you filed the joint return is deceased or
+you and that person:
+• Are now divorced,
+• Are now legally separated, or
+
+By law, the IRS must contact your spouse or former spouse.
+There are no exceptions, even for victims of spousal abuse or
+domestic violence.
+We will inform your spouse or former spouse that you filed
+Form 8857 and will allow him or her to participate in the process.
+
+-2-
+
+Instructions for Form 8857 (Rev. 06-2021)
+
+• Have lived apart at all times during the 12-month period prior
+to the date you file Form 8857.
+
+You must file Form 8857 no later than 6 months before the
+expiration of the period of limitations on assessment (including
+extensions) against your spouse or former spouse for the tax
+year for which you are requesting relief. However, if the IRS
+begins an examination of your return during that 6-month period,
+the latest time for requesting relief is 30 days after the date of the
+IRS's initial contact letter to you. The period of limitations on
+assessment is the amount of time, generally 3 years, that the
+IRS has from the date you filed the return to assess taxes that
+you owe.
+
+See Pub. 504, Divorced or Separated Individuals, for details
+on divorce and separation.
+Exception. If, at the time you signed the joint return, you knew
+about any item that resulted in part or all of the understated tax,
+then your request will not apply to that part of the understated
+tax.
+Additional information. For additional information on
+separation of liability relief, see Pub. 971.
+
+2. Equitable relief. If you do not qualify for the relief described
+in (1) above and are now liable for an unpaid or understated tax
+you believe should be paid only by your spouse or former
+spouse, you may request equitable relief. See Equitable Relief,
+earlier.
+
+Equitable Relief
+
+You may be allowed equitable relief if both of the following
+conditions are met.
+• You have an understated tax (defined earlier) or unpaid tax
+(defined next).
+• Taking into account all the facts and circumstances, the IRS
+determines it would be unfair to hold you liable for the
+understated or unpaid tax.
+
+What Happens After You File Form
+8857
+
+We will review your form for completeness and contact your
+spouse or former spouse to ask if he or she wants to participate
+in the process. Generally, once we have all of the necessary
+information to make a decision, we will send a preliminary
+determination letter to you and your spouse or former spouse. If
+neither of you appeals the decision, we will issue a final
+determination letter to both of you. If either or both of you appeal
+to the IRS Independent Office of Appeals, Appeals will issue a
+final determination letter to both of you after consideration of
+your appeal.
+
+Equitable relief is the only type of relief available for an unpaid
+tax.
+Unpaid tax. An unpaid tax is tax that is properly shown on your
+return but has not been paid.
+Example. You and your former spouse filed a joint return
+that properly reflects your income and deductions but showed an
+unpaid balance due of $5,000. The unpaid tax is $5,000. You
+gave your former spouse $2,500 and he or she promised to pay
+the full $5,000, but paid nothing. There is still an unpaid tax of
+$5,000, for which you and your former spouse are both liable.
+
+Note. If you did not file a joint return for the year you are
+requesting relief, we will send the determination letters only to
+you.
+
+Additional information. For additional information on equitable
+relief, see Pub. 971 and Rev. Proc. 2013-34.
+
+Tax Court review of request. You may be able to petition
+(ask) the Tax Court to review your request for relief (other than a
+request for relief from liability for tax attributable to an item of
+community income) if:
+• The IRS sends you a final determination letter regarding your
+request for relief, or
+• You do not receive a final determination letter from the IRS
+within 6 months from the date you filed Form 8857.
+
+Community Property Laws
+
+Generally, you must follow community property laws when filing
+a tax return if you are married and live in a community property
+state. Community property states are Arizona, California, Idaho,
+Louisiana, Nevada, New Mexico, Texas, Washington, and
+Wisconsin. Generally, community property laws provide that you
+and your spouse are both entitled to one-half of your total
+community income and expenses. If you and your spouse filed a
+joint return in a community property state, you are both jointly
+and severally liable for the total liability on the return. If you
+request relief from joint and several liability, state community
+property laws are not taken into account in determining whether
+an item belongs to you or your spouse or former spouse.
+
+The petition must be filed no later than the 90th day after
+the date the IRS mails you a final determination letter. If you do
+not file a petition, or if you file it late, the Tax Court cannot review
+your request for relief. See Pub. 971 for details on petitioning the
+Tax Court.
+
+Collection Statute of Limitations
+
+Generally, the IRS has 10 years to collect an amount you owe.
+This is the collection statute of limitations. By law, the IRS is not
+allowed to collect from you after the 10-year period ends.
+
+If you were a married resident of a community property state,
+but did not file a joint return and are now liable for an unpaid or
+understated tax, check “Yes” on line 1. You have the following
+two ways to get relief.
+
+If you request relief for any tax year, the IRS cannot collect
+from you for that year while your request is pending. But interest
+and penalties continue to accrue. Your request is generally
+considered pending from the date the IRS receives your Form
+8857 until the date your request is resolved. This includes the
+time the Tax Court is considering your request.
+
+1. Relief from liability for tax attributable to an item of community income. You are not responsible for the tax related to
+an item of community income if all of the following conditions
+exist.
+• You did not file a joint return for the tax year.
+• You did not include the item in gross income on your separate
+return.
+• Under section 879(a), the item was income that belonged to
+your spouse or former spouse. For details, see Community
+Property Laws in Pub. 971.
+• You establish that you did not know of, and had no reason to
+know of, that item.
+• Under all facts and circumstances, it would not be fair to
+include the item in your gross income.
+If you meet the above conditions, complete this form.
+Instructions for Form 8857 (Rev. 06-2021)
+
+After your case is resolved, the IRS can begin or resume
+collecting from you any tax for which you are determined to
+remain responsible. The 10-year period will be increased by the
+amount of time your request for relief was pending plus 60 days.
+
+How To Get Help
+
+See Pub. 971, Innocent Spouse Relief. To get Pub. 971 and
+other IRS forms and publications, go to IRS.gov/Forms.
+
+-3-
+
+The Taxpayer Advocate Service (TAS) Is Here
+To Help You
+What Is TAS?
+
+Use Form 2848, Power of Attorney and Declaration of
+Representative, to authorize someone else to represent you
+before the IRS.
+
+Specific Instructions
+
+TAS is an independent organization within the IRS that helps
+taxpayers and protects taxpayer rights. Their job is to ensure
+that every taxpayer is treated fairly and that you know and
+understand your rights under the Taxpayer Bill of Rights.
+
+Note. If you need more room to write your answer for any
+question, attach more pages. Be sure to write your name and
+SSN on the top of all pages you attach.
+Also write your name and SSN on the top of any other
+documents and statements you attach.
+
+How Can You Learn About Your Taxpayer Rights?
+The Taxpayer Bill of Rights describes 10 basic rights that all
+taxpayers have when dealing with the IRS. Go to
+TaxpayerAdvocate.IRS.gov to help you understand what these
+rights mean to you and how they apply. These are your rights.
+Know them. Use them.
+
+Line 1
+
+Complete line 1 to determine if you should file Form 8857.
+Whether you check “Yes” or “No,” you should go to line 2
+(discussed next) to find out if you should file another form (Form
+8379, Injured Spouse Allocation) to request injured spouse
+relief. Injured spouse relief is different from innocent spouse
+relief and you cannot request it by filing Form 8857. You must file
+Form 8379. For example, if you check “Yes” on line 1 and “Yes”
+on line 2, you will have to file both Forms 8857 and 8379.
+
+What Can TAS Do For You?
+TAS can help you resolve problems that you can’t resolve with
+the IRS. And their service is free. If you qualify for their
+assistance, you will be assigned to one advocate who will work
+with you throughout the process and will do everything possible
+to resolve your issue. TAS can help you if:
+• Your problem is causing financial difficulty for you, your
+family, or your business;
+• You face (or your business is facing) an immediate threat of
+adverse action; or
+• You’ve tried repeatedly to contact the IRS but no one has
+responded, or the IRS hasn’t responded by the date promised.
+
+Line 2
+
+Complete line 2 to determine if you should file Form 8379.
+Check “Yes” for any tax year to which all of the following
+apply.
+• You filed a joint return.
+• At the time you filed the joint return, your spouse owed
+past-due federal tax, state income tax, state unemployment
+compensation debts, child support, spousal support, or federal
+nontax debt, such as a student loan.
+• The IRS used (offset) the refund to pay your spouse's
+past-due amount.
+
+How Can You Reach TAS?
+TAS has offices in every state, the District of Columbia, and
+Puerto Rico. Your local advocate’s number is in your local
+directory and at TaxpayerAdvocate.IRS.gov/Contact-Us. You
+can also call them at 877-777-4778.
+
+If all three of the above apply, you may be able to get back
+your share of the refund for that tax year if you file Form 8379.
+
+How Else Does TAS Help Taxpayers?
+
+If you checked “Yes” on line 1, and all three of the above do
+not apply, check “No” and go to line 3.
+
+TAS works to resolve large-scale problems that affect many
+taxpayers. If you know of one of these broad issues, please
+report it to them at IRS.gov/SAMS.
+
+Example 1. You and your spouse filed your joint tax return
+showing a refund of $3,200. At the time you filed the return, your
+spouse owed $2,400 in back child support. The IRS used $2,400
+of your refund to pay your spouse's back child support and
+refunded the remaining $800 to you and your spouse. You check
+“Yes” on line 2 because you meet all of the conditions listed
+above. If you want to get back your share of the $2,400 refund
+that the IRS used to pay your spouse's back child support, you
+must file Form 8379.
+
+TAS for Tax Professionals
+TAS can provide a variety of information for tax professionals,
+including tax law updates and guidance, TAS programs, and
+ways to let TAS know about systemic problems you’ve seen in
+your practice.
+
+Low Income Taxpayer Clinics (LITCs)
+
+Example 2. The facts are the same as in Example 1, but the
+IRS audited your return and disallowed a $5,000 alimony
+deduction, which was actually child support paid by your
+spouse. Child support is not deductible. The disallowance
+resulted in additional tax, interest, and penalties. As explained
+earlier under Innocent Spouse Relief, this deduction is an
+erroneous item attributable to your spouse. You believe you
+meet the other requirements in that discussion for getting
+innocent spouse relief. You check “Yes” on line 1. In addition to
+Form 8379, you should also file Form 8857.
+
+LITCs are independent from the IRS. LITCs represent
+individuals whose income is below a certain level and need to
+resolve tax problems with the IRS, such as audits, appeals, and
+tax collection disputes. In addition, clinics can provide
+information about taxpayer rights and responsibilities in different
+languages for individuals who speak English as a second
+language. Services are offered for free or a small fee for eligible
+taxpayers. To find a clinic near you, visit
+TaxpayerAdvocate.IRS.gov/About-Us/Low-Income-TaxpayerClinics-LITC or see IRS Pub. 4134, Low Income Taxpayer Clinic
+List.
+
+Line 5
+
+Enter your current name, SSN, current mailing address
+(including county), and best or safest daytime phone number
+(between 6 a.m. and 5 p.m. Eastern time) to call you. We will call
+you if we need more information.
+
+Representation
+
+You may either represent yourself or, with proper written
+authorization, have someone else represent you. Your
+representative must be someone who is allowed to practice
+before the IRS, such as an attorney, certified public accountant,
+or enrolled agent (a person enrolled to practice before the IRS).
+
+Note. If you and/or the person on line 6 has an individual
+taxpayer identification number (ITIN), enter it in the location(s)
+where the form asks for an SSN.
+-4-
+
+Instructions for Form 8857 (Rev. 06-2021)
+
+IRS or another third party such as a creditor, former spouse, or
+business partner.
+
+If your current name is different from your name as shown on
+your tax return for any year for which you are requesting relief,
+enter your former name in parentheses after your current name.
+For example, enter “Jane Maple (formerly Jane Oak).”
+
+For more information about transfers of property, see Pub.
+971.
+
+Foreign address. Enter the information in the following order:
+City, province, county, or state, and country. Follow the country's
+practice for entering the postal code. Do not abbreviate the
+country name.
+
+Fair market value (FMV). FMV is the price at which property
+would change hands between a willing buyer and a willing seller
+when both have reasonable knowledge of the relevant facts and
+neither has to buy or sell. FMV is not necessarily the cost of
+replacing the item.
+
+Change of address. If you checked the box labeled “Address
+where you wish to be contacted” on line 5, the IRS will send all
+future correspondence to you at that address. However, if you
+do not check this box, the IRS will send the initial
+correspondence about Form 8857 to the address you enter on
+line 5, but is required to send all other correspondence to the
+most recent address it has for you in its records. This is usually
+the address shown on your most recently filed tax return or
+amended return. If you want us to update our records to use the
+address you entered on line 5 for all correspondence, including
+legal notices, you will have to check the box on line 5. Generally,
+it takes 4 to 6 weeks to process your change of address.
+Providing a new address on Form 8857 and checking the box
+on line 5 will not change the address where the IRS will send
+mail, including legal notices, to any other individual with whom
+you have filed a joint return.
+If you later move, or otherwise wish to change the address
+where the IRS sends mail to you, you should file Form 8822,
+Change of Address. Send Form 8822 to the address shown in
+the instructions for that form. Do not send it to either of the
+addresses shown in these Form 8857 instructions. You may also
+change your address by calling 800-829-1040 and speaking with
+an IRS customer service representative.
+
+Line 20
+
+See the instructions for line 19 for the definition of fair market
+value.
+
+Line 23a
+
+If you wish to have the code removed from your account, call us
+at 855-851-2009 or write us at either of the addresses or the fax
+number listed earlier under Where To File. Please include your
+SSN on your written request.
+
+Line 25
+
+You must indicate that you want a refund of any payments you
+made in order for the IRS to consider whether you are entitled to
+it. Payments include refunds from another tax year applied to
+this tax liability. If you are granted relief, refunds are:
+• Permitted under innocent spouse relief and equitable relief as
+explained below under Limit on Amount of Refund.
+• Not permitted under separation of liability relief.
+
+Proof Required
+
+The IRS will only refund payments you made with your own
+money. However, you must provide proof that you made the
+payments with your own money. Examples of proof are a copy of
+your bank statement or a canceled check. No proof is required if
+your individual refund was used by the IRS to pay a tax you
+owed on a joint tax return for another year.
+
+Line 6
+
+Enter the current name and SSN (if known) of the person to
+whom you were married at the end of the year(s) listed on
+line 3.
+
+P.O. box. Enter the box number only if:
+• You do not know the street address, or
+• The post office does not deliver mail to the street address.
+
+Limit on Amount of Refund
+
+You are not eligible for refunds of payments made with the joint
+return, joint payments, or payments that the person on line 6
+made. For example, withholding tax and estimated tax payments
+cannot be refunded because they are considered made with the
+joint return. However, you may be entitled to a refund of your
+portion of a joint overpayment from another year that was
+applied to the joint tax for a different year. You will need to show
+your portion of the joint overpayment.
+
+Foreign address. See the instructions for line 5, earlier.
+
+Line 11
+
+By law, if a person's name is signed to a return, it is presumed to
+be signed by that person, unless that person proves otherwise. If
+you believe your signature was forged or you signed under
+duress, explain in the space provided.
+If your signature was forged or you signed under duress, the
+election to file jointly is not valid and you have no valid joint
+return. If we determine your signature was not valid, then you will
+be removed from the account and you will no longer be liable for
+any taxes owed for that return.
+
+The amount of your refund is limited. Read the chart below to
+find out the limit.
+IF you file Form 8857 . . .
+
+THEN the refund cannot be more
+than . . .
+
+If it is ultimately determined that a valid joint return was filed,
+the IRS will then consider whether you would be entitled to
+innocent spouse relief.
+
+within 3 years after filing your return
+
+the part of the tax paid within the 3
+years (plus any extension of time for
+filing your return) before you filed
+Form 8857.
+
+Line 19
+
+after the 3-year period, but within
+the tax you paid within the 2 years
+2 years from the time you paid the tax immediately before you filed Form
+8857.
+
+You may not be entitled to relief if either of the following applies.
+• Your spouse (or former spouse) transferred property (or the
+right to property) to you for the main purpose of avoiding tax or
+payment of tax. A transfer will be presumed to meet this
+condition if the transfer is made after the date that is 1 year
+before the date on which the IRS sent its first letter of proposed
+deficiency.
+• The IRS proves that you and your spouse (or former spouse)
+transferred property to one another as part of a fraudulent
+scheme. A fraudulent scheme includes a scheme to defraud the
+Instructions for Form 8857 (Rev. 06-2021)
+
+Sign Form 8857
+
+If you do not sign Form 8857, the IRS cannot consider your
+request and will return it to you. Also be sure to date it.
+Keep a copy of the completed form for your records.
+-5-
+
+Paid Preparer Must Sign
+
+form displays a valid OMB control number. Books or records
+relating to a form or its instructions must be retained as long as
+their contents may become material in the administration of any
+Internal Revenue law. Generally, tax returns and return
+information are confidential, as required by Code section 6103.
+
+Generally, anyone you pay to prepare Form 8857 must sign it
+and include their Preparer Tax Identification Number (PTIN) in
+the space provided. The preparer must give you a copy of Form
+8857 for your records. Someone who prepares Form 8857 but
+does not charge you should not sign it.
+
+The time needed to complete and file this form will vary
+depending on individual circumstances. The estimated average
+time is:
+
+Privacy Act and Paperwork Reduction Act Notice. We ask
+for the information on this form to carry out the Internal Revenue
+laws of the United States. We need it to determine the amount of
+liability, if any, of which you may be relieved. Internal Revenue
+Code sections 66(c) and 6015 allow relief from liability.
+Requesting relief from liability is voluntary. If you request relief
+from liability, you must give us the information requested on this
+form. Code section 6109 requires you to provide your SSN.
+Routine uses of this information include giving it to the
+Department of Justice for civil and criminal litigation, and to
+cities, states, the District of Columbia, and U.S. commonwealths
+and possessions for use in administering their tax laws. We may
+also disclose this information to other countries under a tax
+treaty, to federal and state agencies to enforce federal nontax
+criminal laws, or to federal law enforcement and intelligence
+agencies to combat terrorism. If you do not provide all the
+information in a timely manner, we may not be able to process
+your request.
+You are not required to provide the information requested on
+a form that is subject to the Paperwork Reduction Act unless the
+
+Learning about the law or the form . . . . . . . . . . . .
+Preparing the form . . . . . . . . . . . . . . . . . . . . . .
+Copying, assembling, and sending the form to the
+IRS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1 hr., 9 min.
+2 hr., 36 min.
+1 hr., 3 min.
+
+If you have comments concerning the accuracy of this time
+estimate or suggestions for making this form simpler, we would
+be happy to hear from you. You can send your comments from
+IRS.gov/FormComments. Or you can send your comments to
+the Internal Revenue Service, Tax Forms and Publications, 1111
+Constitution Ave. NW, IR-6526, Washington, DC 20224. Do not
+send the form to this address. Instead, see Where To File,
+earlier.
+
+-6-
+
+Instructions for Form 8857 (Rev. 06-2021)
+
+

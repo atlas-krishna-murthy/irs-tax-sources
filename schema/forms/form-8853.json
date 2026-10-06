@@ -1,0 +1,182 @@
+{
+  "form": {
+    "id": "form-8853",
+    "form": "Form 8853",
+    "title": "Archer MSAs and Long-Term Care Insurance Contracts",
+    "kind": "form",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8853--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8853",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Total employer contributions to your Archer MSA(s) for 2025",
+        "type": "money"
+      },
+      {
+        "line": "6a",
+        "caption": "Total distributions you and your spouse received in 2025 from all Archer MSAs (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "6b",
+        "caption": "Distributions included on line 6a that you rolled over to another Archer MSA or a health savings account. Also include any excess contributions (and the earnings on those excess contributions) included on line 6a that were withdrawn by the unextended due date of your return. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "6c",
+        "caption": "Subtract line 6b from line 6a",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Unreimbursed qualified medical expenses (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "8",
+        "caption": "Taxable Archer MSA distributions. Subtract line 7 from line 6c. If zero or less, enter -0-. Also include this amount in the total on Schedule 1 (Form 1040), line 8e",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Gross LTC payments received on a per diem or other periodic basis. Enter the total of the amounts from box 1 of all Forms 1099-LTC you received with respect to the insured on which the \u201cPer diem\u201d box in box 3 is checked",
+        "type": "money"
+      },
+      {
+        "line": "18",
+        "caption": "Enter the part of the amount on line 17 that is from qualified LTC insurance contracts",
+        "type": "money"
+      },
+      {
+        "line": "19",
+        "caption": "Accelerated death benefits received on a per diem or other periodic basis. Don't include any amounts you received because the insured was terminally ill. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Add lines 18 and 19",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Per diem limitation. Subtract line 24 from line 23",
+        "type": "money"
+      },
+      {
+        "line": "26",
+        "caption": "Taxable payments. Subtract line 25 from line 20. If zero or less, enter -0-. Also include this amount in the total on Schedule 1 (Form 1040), line 8e, or, for taxpayers filing Form 1040-NR, on Schedule NEC (Form 1040-NR), line 12. For taxpayers filing Form 1040-NR, on Schedule NEC (Form 1040-NR), line 12, enter \u201cLTC\u201d and the amount",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "2",
+        "caption": "Archer MSA contributions you made for 2025, including those made in 2026 by the unextended due date of your return that were for 2025. Don\u2019t include rollovers. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "5",
+        "caption": "Archer MSA deduction. Enter the smallest of line 2, 3, or 4 here. Also include this amount on Schedule 1 (Form 1040), line 23",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "3",
+        "caption": "Limitation from the Line 3 Limitation Chart and Worksheet in the instructions",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "4",
+        "caption": "Compensation (see instructions) from the employer maintaining the high deductible health plan. (If self-employed, enter your earned income from the trade or business under which the high deductible health plan was established.)",
+        "type": "money"
+      },
+      {
+        "line": "9a",
+        "caption": "If any of the distributions included on line 8 meet any of the Exceptions to the Additional 20% Tax (see instructions), check here",
+        "type": "checkbox"
+      },
+      {
+        "line": "9b",
+        "caption": "Additional 20% tax (see instructions). Enter 20% (0.20) of the distributions included on line 8 that are subject to the additional 20% tax. Also include this amount in the total on Schedule 2 (Form 1040), line 17e",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "10",
+        "caption": "Total distributions you received in 2025 from all Medicare Advantage MSAs (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "11",
+        "caption": "Unreimbursed qualified medical expenses (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Taxable Medicare Advantage MSA distributions. Subtract line 11 from line 10. If zero or less, enter -0-. Also include this amount in the total on Schedule 1 (Form 1040), line 8e",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "13a",
+        "caption": "If any of the distributions included on line 12 meet any of the Exceptions to the Additional 50% Tax (see instructions), check here",
+        "type": "checkbox"
+      },
+      {
+        "line": "13b",
+        "caption": "Additional 50% tax. Enter 50% (0.50) of the distributions included on line 12 that are subject to the additional 50% tax. See instructions for the amount to enter if you had a Medicare Advantage MSA at the end of 2024. Also include this amount in the total on Schedule 2 (Form 1040), line 17f",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "14a",
+        "caption": "Name of insured",
+        "type": "text"
+      },
+      {
+        "line": "14b",
+        "caption": "Social security number of insured",
+        "type": "tin"
+      },
+      {
+        "line": "15",
+        "caption": "In 2025, did anyone other than you receive payments on a per diem or other periodic basis under a qualified LTC insurance contract covering the insured or receive accelerated death benefits under a life insurance policy covering the insured?",
+        "type": "checkbox"
+      },
+      {
+        "line": "16",
+        "caption": "Was the insured a terminally ill individual?",
+        "type": "checkbox"
+      },
+      {
+        "line": "21",
+        "caption": "Multiply $420 by the number of days in the LTC period",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "22",
+        "caption": "Costs incurred for qualified LTC services provided for the insured during the LTC period (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "23",
+        "caption": "Enter the larger of line 21 or line 22",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "24",
+        "caption": "Reimbursements for qualified LTC services provided for the insured during the LTC period",
+        "type": "money"
+      }
+    ],
+    "face_not_boxes": [
+      {
+        "slot": "39",
+        "because": "'Attachment Sequence No. 39' in the form header, not a line"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "document": {
+    "id": "1099-DA",
+    "title": "Digital Asset Proceeds From Broker Transactions",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form 1099-DA (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099da--2025.pdf",
+    "issued_by": "digital asset broker",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "applicable checkbox on form 8949",
+        "label": "Applicable checkbox on Form 8949",
+        "type": "code"
+      },
+      {
+        "box": "1a",
+        "label": "Code for digital asset",
+        "type": "code"
+      },
+      {
+        "box": "1b",
+        "label": "Name of digital asset",
+        "type": "text"
+      },
+      {
+        "box": "1c",
+        "label": "Number of units",
+        "type": "count"
+      },
+      {
+        "box": "1d",
+        "label": "Date acquired",
+        "type": "date"
+      },
+      {
+        "box": "1e",
+        "label": "Date sold or disposed",
+        "type": "date"
+      },
+      {
+        "box": "1f",
+        "label": "Proceeds",
+        "type": "money"
+      },
+      {
+        "box": "1g",
+        "label": "Cost or other basis",
+        "type": "money"
+      },
+      {
+        "box": "1h",
+        "label": "Accrued market discount",
+        "type": "money"
+      },
+      {
+        "box": "1i",
+        "label": "Wash sales loss disallowed",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Check if basis reported to IRS",
+        "type": "checkbox"
+      },
+      {
+        "box": "3a",
+        "label": "Reported to IRS: Gross proceeds / Net proceeds",
+        "type": "checkbox",
+        "codes": [
+          {
+            "code": "gross",
+            "label": "Gross proceeds"
+          },
+          {
+            "code": "net",
+            "label": "Net proceeds"
+          }
+        ]
+      },
+      {
+        "box": "3b",
+        "label": "Check if proceeds from: Reserved for future use / QOF",
+        "type": "checkbox",
+        "codes": [
+          {
+            "code": "reserved",
+            "label": "Reserved for future use"
+          },
+          {
+            "code": "qof",
+            "label": "QOF"
+          }
+        ]
+      },
+      {
+        "box": "4",
+        "label": "Federal income tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Check if loss is not allowed based on amount in 1f",
+        "type": "checkbox"
+      },
+      {
+        "box": "6",
+        "label": "Gain or loss: Short-term / Long-term / Ordinary",
+        "type": "checkbox",
+        "codes": [
+          {
+            "code": "short-term",
+            "label": "Short-term"
+          },
+          {
+            "code": "long-term",
+            "label": "Long-term"
+          },
+          {
+            "code": "ordinary",
+            "label": "Ordinary"
+          }
+        ]
+      },
+      {
+        "box": "7",
+        "label": "Check if 1f is only cash",
+        "type": "checkbox"
+      },
+      {
+        "box": "8",
+        "label": "Check if broker relied on customer-provided acquisition information",
+        "type": "checkbox"
+      },
+      {
+        "box": "9",
+        "label": "Check if digital asset is a noncovered security",
+        "type": "checkbox"
+      },
+      {
+        "box": "10",
+        "label": "Reserved for future use",
+        "type": "text"
+      },
+      {
+        "box": "11a",
+        "label": "Check if gross proceeds reported in 1f is an aggregate amount for: Qualifying stablecoins / Specified NFTs",
+        "type": "checkbox",
+        "codes": [
+          {
+            "code": "stablecoins",
+            "label": "Qualifying stablecoins"
+          },
+          {
+            "code": "nfts",
+            "label": "Specified NFTs"
+          }
+        ]
+      },
+      {
+        "box": "11b",
+        "label": "If 11a checked, number of transactions",
+        "type": "count"
+      },
+      {
+        "box": "11c",
+        "label": "For aggregate reporting of specified NFTs, aggregate gross proceeds reported in 1f that are attributable to first sales by creator or minter",
+        "type": "money"
+      },
+      {
+        "box": "12a",
+        "label": "Number of units transferred in",
+        "type": "count"
+      },
+      {
+        "box": "12b",
+        "label": "If transferred in, provide transfer-in date",
+        "type": "date"
+      },
+      {
+        "box": "13",
+        "label": "Reserved for future use",
+        "type": "text"
+      },
+      {
+        "box": "14",
+        "label": "State name",
+        "type": "text"
+      },
+      {
+        "box": "15",
+        "label": "State identification no.",
+        "type": "text"
+      },
+      {
+        "box": "16",
+        "label": "State tax withheld",
+        "type": "money"
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed above the issuer's block on every copy. A corrected form replaces one furnished earlier; its figures are the ones to use, never counted beside the earlier form's."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "FR-016 mark. Printed on Copy A (the issuer's filing copy) and the state copy; the recipient's Copy B does not print it."
+      },
+      {
+        "box": "account-number",
+        "label": "Account number",
+        "type": "identifier",
+        "notes": "FR-016 mark. An account or other unique number the issuer assigned; identification only, never a figure."
+      },
+      {
+        "box": "cusip-number",
+        "label": "CUSIP number",
+        "type": "identifier",
+        "notes": "Recipient instruction: 'Shows the CUSIP (Committee on Uniform Security Identification Procedures) number or other applicable identifying number, if applicable to the digital assets disposed.' Identification only."
+      }
+    ],
+    "notes": "NEW for tax year 2025. THE BASIS RULE IS THE TRAP: the form's own Instructions for Recipient say of box 1g \u2014 'If box 1g is blank, you will need to determine your basis based on your own books and records. If box 1g has any entry, including zero, the information within that box has been reported to the IRS as basis.' So BLANK means UNKNOWN and must never be read as zero; and a printed 0 is a real assertion of zero basis, not a missing value. Box 9 (noncovered) says boxes 1d, 1g, 1h, 1i, 2 and 6 may all be blank. Box 11c is NOT a component of box 1f \u2014 box 1f's own instruction says it 'does not include the gross proceeds from the first sale of any specified NFTs you created or minted, which are reported in box 11c', so the two are disjoint and 11c is additional, not inside."
+  },
+  "extraction": {
+    "model": "custom.1099-DA",
+    "note": "Azure ships no prebuilt-tax model for this form, so it reached the generic reader \u2014 which emits no field bearing these box names, so every cited route out of this document was dead while looking implemented (spec 075 US1/W42). Read by the declared custom model over the boxes this document declares. The `applicable checkbox on form 8949` is read as a box of its own because it addresses every row beneath it.",
+    "custom": {
+      "reads": "a Form 1099-DA, Digital Asset Proceeds From Broker Transactions, and its per-transaction detail. The checkbox printed at the head of the form applies to every row beneath it, so read it as a box of its own.",
+      "sections": [
+        {
+          "document": "1099-DA",
+          "boxes": [
+            "applicable checkbox on form 8949",
+            "1a",
+            "1b",
+            "1c",
+            "1d",
+            "1e",
+            "1f",
+            "1g",
+            "1h",
+            "1i",
+            "2",
+            "3a",
+            "3b",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11a",
+            "11b",
+            "11c",
+            "12a",
+            "12b",
+            "13",
+            "14",
+            "15",
+            "16"
+          ]
+        }
+      ]
+    }
+  }
+}

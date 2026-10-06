@@ -1,0 +1,95 @@
+{
+  "document": {
+    "id": "1099-LTC",
+    "title": "Long-Term Care and Accelerated Death Benefits",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-LTC (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099ltc--2025.pdf",
+    "issued_by": "the insurance company or viatical settlement provider",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Gross long-term care benefits paid",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Accelerated death benefits paid",
+        "type": "money"
+      },
+      {
+        "box": "3-per-diem",
+        "label": "Check one: Per diem",
+        "type": "checkbox"
+      },
+      {
+        "box": "3-reimbursed",
+        "label": "Check one: Reimbursed amount",
+        "type": "checkbox"
+      },
+      {
+        "box": "4",
+        "label": "Qualified contract (optional)",
+        "type": "checkbox"
+      },
+      {
+        "box": "5-chronically-ill",
+        "label": "Check, if applicable (optional): Chronically ill",
+        "type": "checkbox"
+      },
+      {
+        "box": "5-terminally-ill",
+        "label": "Check, if applicable (optional): Terminally ill",
+        "type": "checkbox"
+      },
+      {
+        "box": "5-date-certified",
+        "label": "Date certified",
+        "type": "date"
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a recipient's copy never carries it. Declared because the face prints it (FR-016)."
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox"
+      },
+      {
+        "box": "account-number",
+        "label": "Account number (see instructions)",
+        "type": "identifier"
+      },
+      {
+        "box": "policyholder-name",
+        "label": "POLICYHOLDER\u2019S name",
+        "type": "text"
+      },
+      {
+        "box": "policyholder-tin",
+        "label": "POLICYHOLDER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "insured-name",
+        "label": "INSURED\u2019S name",
+        "type": "text"
+      },
+      {
+        "box": "insured-tin",
+        "label": "INSURED\u2019S TIN",
+        "type": "tin"
+      }
+    ],
+    "notes": "Box 3 decides whether any of this is reportable at all. A REIMBURSED amount (actual expenses reimbursed under a qualified LTC contract) is excludable and reaches no line. A PER DIEM amount is subject to a daily limitation computed on Form 8853 Section C, and only the excess over that limitation is income. Form 8853 line 17 names this document and this checkbox in its own caption, which is the citation for the route."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1099LTC",
+    "note": "The note that stood here \u2014 \"Azure ships no prebuilt-tax model for this form\" \u2014 was STALE, and re-verified as stale twice (2026-09-24 and 2026-09-29) against Azure-Samples `schema/2024-11-30-ga/us-tax/`. v4.0 (2024-11-30 GA) publishes this model. Boxes 1 and 2 answer as `Box<n>`. **NO `fields` MAP YET, and that is a gap rather than an omission:** boxes 3 and 5 are selections, and the VALUE NAMES Azure returns for them have not been read off the published field list. Writing the map from a guess would file a per-diem benefit as a reimbursed one, which is the difference between a figure that reaches Form 8853 line 17 and one that reaches line 19. Until the values are read, boxes 1 and 2 are read and 3/5 are not."
+  }
+}

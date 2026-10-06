@@ -1,0 +1,57 @@
+{
+  "document": {
+    "id": "1099-SB",
+    "title": "Seller\u2019s Investment in Life Insurance Contract",
+    "kind": "information_return",
+    "revision": "Rev. April 2025",
+    "revision_printed_as": "Form 1099-SB (Rev. 4-2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1099sb--2025.pdf",
+    "issued_by": "issuer of the life insurance contract",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "corrected",
+        "label": "CORRECTED (if checked)",
+        "type": "checkbox",
+        "notes": "Marks this statement as correcting one already furnished for the same year."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "notes": "Printed on Copy A only; a filer's mark, never a figure."
+      },
+      {
+        "box": "account-number",
+        "label": "Policy number",
+        "type": "identifier",
+        "notes": "The filer's own account number; identification only."
+      },
+      {
+        "box": "issuer-tin",
+        "label": "ISSUER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "seller-tin",
+        "label": "SELLER\u2019S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "1",
+        "label": "Investment in contract",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Surrender amount",
+        "type": "money"
+      }
+    ],
+    "notes": "Basis information for a life insurance contract sold in a reportable policy sale (the sale itself is on Form 1099-LS). 'Policy number' is declared as the account-number mark."
+  },
+  "extraction": {
+    "model": null,
+    "note": "No structured model is bound: no Azure prebuilt-tax model for this form is recorded anywhere in this repo (schema, notes or the 068 model re-verification), and a model name is never guessed. The page is read by the generic reader."
+  }
+}

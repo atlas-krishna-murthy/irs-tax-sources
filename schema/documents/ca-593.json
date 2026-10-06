@@ -1,0 +1,34 @@
+{
+  "document": {
+    "id": "CA-593",
+    "title": "Real Estate Withholding Statement",
+    "kind": "information_return",
+    "jurisdiction": "US-CA",
+    "revision": "2025",
+    "revision_printed_as": "Form 593 (2025)",
+    "issued_by": "remitter (escrow, title company or buyer)",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "escrow-or-exchange-no",
+        "label": "Escrow or Exchange No.",
+        "type": "identifier"
+      },
+      {
+        "box": "total-sales-price",
+        "label": "Total sales price",
+        "type": "money"
+      },
+      {
+        "box": "amount-withheld-from-this-seller",
+        "label": "Amount withheld from this seller",
+        "type": "money"
+      }
+    ],
+    "notes": "California Franchise Tax Board, not the IRS. It accompanies a real-estate sale and is read beside the settlement statement \u2014 the withholding it reports is a CALIFORNIA payment, and putting it on a federal line is the category error E19 exists to refuse. The federal consequence of the same sale arrives on Form 1099-S, which this map does declare and does route. Box ids here are slugs rather than printed line numbers: the 2025 form's Part VI line numbering was not read against the printed form for this build, and inventing a line number would be a claim this map cannot support. The labels ARE what the form prints."
+  },
+  "extraction": {
+    "model": null,
+    "note": "Out of this map's jurisdiction (US-CA). Classifiable so it can be named and held; deliberately not extracted federally."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rule": {
+    "id": "a-div-01",
+    "title": "A dividend on stock held less than 61 days of the 121-day period is not a qualified dividend",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "1099-DIV.1b"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "qualified-dividend-holding-period-met"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "qualified-dividend-holding-period-met",
+        "is": "no"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "yes",
+      "because": "Dividends the payer reports as qualified are qualified unless a preparer says the holding period was not met"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 1040",
+      "line": "3a",
+      "revision": "2025",
+      "wording": "Dividends you received on any share of stock that you held for less than 61 days during the 121-day period that began 60 days before the ex-dividend date.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf"
+    },
+    "open_point": "Box 1a (line 3b) is unchanged: the dividend stays ordinary. When only some lots fail the test the disqualified part is an amount the form does not print; only an answer covering the whole box is applied."
+  }
+}

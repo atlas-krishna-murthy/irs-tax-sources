@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-bond-premium-line-16-does-not-take",
+    "wording": "Is this amortizable bond premium NOT one line 16 takes \u2014 that is, not a bond premium carryforward and not on a bond acquired before October 23, 1986 (premium on a later bond offsets the bond's interest instead)?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 offsets interest instead"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 a carryforward or a bond acquired before October 23, 1986"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this amortizable bond premium NOT one line 16 takes \u2014 that is, not a bond premium carryforward and not on a bond acquired before October 23, 1986 (premium on a later bond offsets the bond's interest instead)?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Line 16",
+        "revision": "2025",
+        "wording": "A deduction for amortizable bond premium (for example, a deduction allowed for a bond premium carryforward or a deduction for amortizable bond premium on bonds acquired before October 23, 1986).",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

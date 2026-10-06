@@ -1,0 +1,47 @@
+{
+  "rule": {
+    "id": "a-charity-cash-11",
+    "title": "A cash gift with no bank record or written record is not deducted",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-charitable-contribution-records.gifts_by_cash_or_check"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-a-cash-gift-without-a-bank-record-or-written-record"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-a-cash-gift-without-a-bank-record-or-written-record",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this a gift of cash or by check for which the taxpayer keeps neither a bank record nor a written record from the charity?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Pub. 526",
+      "line": "Cash Contributions",
+      "revision": "2025",
+      "wording": "You can\u2019t deduct a cash contribution, regardless of the amount, unless you keep one of the following.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/p526--2025.pdf"
+    },
+    "research_ids": [
+      "a-charity-cash-11"
+    ]
+  }
+}

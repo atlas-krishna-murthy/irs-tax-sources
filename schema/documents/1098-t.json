@@ -1,0 +1,103 @@
+{
+  "document": {
+    "id": "1098-T",
+    "title": "Tuition Statement",
+    "kind": "information_return",
+    "revision": "2025",
+    "revision_printed_as": "Form 1098-T (2025)",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1098t--2025.pdf",
+    "issued_by": "the eligible educational institution",
+    "container_of": null,
+    "boxes": [
+      {
+        "box": "1",
+        "label": "Payments received for qualified tuition and related expenses",
+        "type": "money"
+      },
+      {
+        "box": "2",
+        "label": "Reserved",
+        "type": "text"
+      },
+      {
+        "box": "3",
+        "label": "Reserved",
+        "type": "text"
+      },
+      {
+        "box": "4",
+        "label": "Adjustments made for a prior year",
+        "type": "money"
+      },
+      {
+        "box": "5",
+        "label": "Scholarships or grants",
+        "type": "money"
+      },
+      {
+        "box": "6",
+        "label": "Adjustments to scholarships or grants for a prior year",
+        "type": "money"
+      },
+      {
+        "box": "7",
+        "label": "Checked if the amount in box 1 includes amounts for an academic period beginning January-March 2026",
+        "type": "checkbox"
+      },
+      {
+        "box": "8",
+        "label": "Checked if at least half-time student",
+        "type": "checkbox"
+      },
+      {
+        "box": "9",
+        "label": "Checked if a graduate student",
+        "type": "checkbox"
+      },
+      {
+        "box": "10",
+        "label": "Ins. contract reimb./refund",
+        "type": "money"
+      },
+      {
+        "box": "corrected",
+        "label": "CORRECTED",
+        "type": "checkbox",
+        "note": "A corrected form REPLACES the one it corrects for the same account: the two are never both counted. Which copy stands is a person's call, made by reading the two side by side."
+      },
+      {
+        "box": "void",
+        "label": "VOID",
+        "type": "checkbox",
+        "note": "Printed on Copy A (the IRS's copy) only; a recipient's copy carries no VOID box. Declared so a Copy A that reaches the packet is recognised for what it is - a form that reports nothing."
+      },
+      {
+        "box": "account-number",
+        "label": "Service Provider/Acct. No. (see instr.)",
+        "type": "identifier",
+        "note": "The service provider's or institution's account number for the student - what tells two of one filer's forms apart."
+      },
+      {
+        "box": "student-name",
+        "label": "STUDENT'S name",
+        "type": "text",
+        "note": "Whose credit: the education credit is claimed by whoever claims this student."
+      },
+      {
+        "box": "student-tin",
+        "label": "STUDENT'S TIN",
+        "type": "tin"
+      },
+      {
+        "box": "filer-ein",
+        "label": "FILER'S employer identification no.",
+        "type": "tin"
+      }
+    ],
+    "notes": "Boxes 2 and 3 are reserved: the Instructions for Forms 1098-E and 1098-T (2025) say of each 'This box is reserved for future use.' This document is declared here for its boxes only. Its ROUTING - to Form 8863 (American Opportunity and Lifetime Learning credits) and to the tuition provisions - belongs to the education-credits part of this map and is deliberately not duplicated here. Note the deduction/credit trap: box 1 must be reduced by box 5 scholarships before it supports any education benefit, and box 7 warns that box 1 may include a term that falls in the NEXT tax year."
+  },
+  "extraction": {
+    "model": "prebuilt-tax.us.1098T",
+    "note": null
+  }
+}

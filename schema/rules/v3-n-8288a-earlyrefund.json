@@ -1,0 +1,44 @@
+{
+  "rule": {
+    "id": "v3-n-8288a-earlyrefund",
+    "title": "Form 8288-A withholding refunded early is not claimed again on the return",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "8288-A.4"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "form-8288-a-early-refund-requested"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "form-8288-a-early-refund-requested",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "No early refund was requested unless a preparer says so"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Form 8288-A",
+      "line": "4",
+      "revision": "2025",
+      "wording": "To receive credit for any federal income tax withheld shown in box 4, attach Form 8288-A to your tax return, unless you make a request for early refund.",
+      "source_url": "https://www.irs.gov/pub/irs-pdf/f8288a.pdf"
+    }
+  }
+}

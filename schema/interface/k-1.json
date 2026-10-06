@@ -1,0 +1,2647 @@
+{
+  "interface": "schedule-k-1",
+  "version": "1",
+  "tax_year": 2025,
+  "purpose": "THE SHAPE OF A SCHEDULE K-1, DECLARED ONCE. This file says what a K-1 *can say* - its boxes, its code tables, its revision. It says nothing about where any figure goes, because that depends on which return is being prepared: the same box is an INPUT to a 1040 and an OUTPUT of a Form 1065. Routes belong to a map; shape belongs here.",
+  "why_it_is_separate": "The three K-1s carry 408 of the 828 routes in the 1040 map - half of it is K-1 consumption. A second map (Form 1065) would declare the same 443 codes again, and two independent declarations of a 443-code table diverge. This project has already drifted on exactly that three times: three id conventions for one K-1 (k1-1065 / k-1-1065 / schedule-k-1), four declared facts for one foreign-tax election, and two address forms ('12 code B' against '12.B') that blinded the double-count guard. The divergence is invisible until a figure lands on the wrong line.",
+  "the_seam": "A Form 1065 map PRODUCES these documents; the 1040 map CONSUMES them. That is the only thing that crosses between the two returns, and it is why the boundary is drawn here rather than anywhere else.",
+  "consumed_as": "document (an input with boxes) - the 1040 map",
+  "produced_as": "form (an output with computed lines) - a Form 1065 / 1120-S / 1041 map",
+  "documents": [
+    {
+      "id": "k-1-1065",
+      "title": "Schedule K-1 (Form 1065), Partner's Share of Income, Deductions, Credits, etc.",
+      "kind": "information_return",
+      "revision": "2025",
+      "revision_printed_as": "Schedule K-1 (Form 1065) 2025",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1065sk1--2025.pdf",
+      "issued_by": "partnership",
+      "container_of": null,
+      "boxes": [
+        {
+          "box": "8",
+          "label": "Net short-term capital gain (loss)",
+          "type": "money"
+        },
+        {
+          "box": "9a",
+          "label": "Net long-term capital gain (loss)",
+          "type": "money"
+        },
+        {
+          "box": "9b",
+          "label": "Collectibles (28%) gain (loss)",
+          "type": "money"
+        },
+        {
+          "box": "9c",
+          "label": "Unrecaptured section 1250 gain",
+          "type": "money"
+        },
+        {
+          "box": "D",
+          "label": "Check if this is a publicly traded partnership (PTP)",
+          "type": "checkbox"
+        },
+        {
+          "box": "G",
+          "label": "General partner or LLC member-manager / Limited partner or other LLC member",
+          "type": "checkbox"
+        },
+        {
+          "box": "I1",
+          "label": "What type of entity is this partner?",
+          "type": "text"
+        },
+        {
+          "box": "I2",
+          "label": "If this partner is a retirement plan (IRA/SEP/Keogh/etc.), check here",
+          "type": "checkbox"
+        },
+        {
+          "box": "K3",
+          "label": "Check if any of the above liability is subject to guarantees or other payment obligations by the partner. See instructions",
+          "type": "checkbox"
+        },
+        {
+          "box": "1",
+          "label": "Ordinary business income (loss)",
+          "type": "money"
+        },
+        {
+          "box": "2",
+          "label": "Net rental real estate income (loss)",
+          "type": "money"
+        },
+        {
+          "box": "3",
+          "label": "Other net rental income (loss)",
+          "type": "money"
+        },
+        {
+          "box": "4a",
+          "label": "Guaranteed payments for services",
+          "type": "money"
+        },
+        {
+          "box": "4b",
+          "label": "Guaranteed payments for capital",
+          "type": "money"
+        },
+        {
+          "box": "4c",
+          "label": "Total guaranteed payments",
+          "type": "money"
+        },
+        {
+          "box": "5",
+          "label": "Interest income",
+          "type": "money"
+        },
+        {
+          "box": "6a",
+          "label": "Ordinary dividends",
+          "type": "money"
+        },
+        {
+          "box": "6b",
+          "label": "Qualified dividends",
+          "type": "money"
+        },
+        {
+          "box": "6c",
+          "label": "Dividend equivalents",
+          "type": "money"
+        },
+        {
+          "box": "7",
+          "label": "Royalties",
+          "type": "money"
+        },
+        {
+          "box": "10",
+          "label": "Net section 1231 gain (loss)",
+          "type": "money"
+        },
+        {
+          "box": "11",
+          "label": "Other income (loss)",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Other portfolio income (loss)"
+            },
+            {
+              "code": "B",
+              "label": "Involuntary conversions"
+            },
+            {
+              "code": "C",
+              "label": "Section 1256 contracts and straddles"
+            },
+            {
+              "code": "D",
+              "label": "Mining exploration costs recapture"
+            },
+            {
+              "code": "E",
+              "label": "Cancellation of debt"
+            },
+            {
+              "code": "F",
+              "label": "Section 743(b) positive income adjustments"
+            },
+            {
+              "code": "G",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "H",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "I",
+              "label": "Gain (loss) from disposition of oil, gas, geothermal, or other mineral properties (section 59(e))"
+            },
+            {
+              "code": "J",
+              "label": "Recoveries of tax benefit items"
+            },
+            {
+              "code": "K",
+              "label": "Gambling gains and losses"
+            },
+            {
+              "code": "L",
+              "label": "Any income, gain, or loss to the partnership from a distribution under section 751(b)"
+            },
+            {
+              "code": "M",
+              "label": "Gain eligible for section 1045 rollover (replacement stock purchased by partnership)"
+            },
+            {
+              "code": "N",
+              "label": "Gain eligible for section 1045 rollover (replacement stock not purchased by the partnership)"
+            },
+            {
+              "code": "O",
+              "label": "Sale or exchange of QSB stock with section 1202 exclusion"
+            },
+            {
+              "code": "P",
+              "label": "Gain or loss on disposition of farm recapture property and other items to which section 1252 applies"
+            },
+            {
+              "code": "Q",
+              "label": "Gain or loss on Fannie Mae or Freddie Mac qualified preferred stock"
+            },
+            {
+              "code": "R",
+              "label": "Specially allocated ordinary gain (loss)"
+            },
+            {
+              "code": "S",
+              "label": "Non-portfolio capital gain (loss)"
+            },
+            {
+              "code": "T",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "U",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "V",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "W",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "X",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "ZZ",
+              "label": "Other"
+            }
+          ],
+          "codes_source": "Partner's Instructions for Schedule K-1 (Form 1065) (2025), \"List of Codes for Schedule K-1 (Form 1065)\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf"
+        },
+        {
+          "box": "12",
+          "label": "Section 179 deduction",
+          "type": "money"
+        },
+        {
+          "box": "13",
+          "label": "Other deductions",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Cash contributions (60%)"
+            },
+            {
+              "code": "B",
+              "label": "Cash contributions (30%)"
+            },
+            {
+              "code": "C",
+              "label": "Noncash contributions (50%)"
+            },
+            {
+              "code": "D",
+              "label": "Noncash contributions (30%)"
+            },
+            {
+              "code": "E",
+              "label": "Capital gain property to a 50% organization (30%)"
+            },
+            {
+              "code": "F",
+              "label": "Capital gain property (20%)"
+            },
+            {
+              "code": "G",
+              "label": "Contributions (100%)"
+            },
+            {
+              "code": "H",
+              "label": "Investment interest expense"
+            },
+            {
+              "code": "I",
+              "label": "Deductions\u2014royalty income"
+            },
+            {
+              "code": "J",
+              "label": "Section 59(e)(2) expenditures"
+            },
+            {
+              "code": "K",
+              "label": "Excess business interest expense (EBIE)"
+            },
+            {
+              "code": "L",
+              "label": "Deductions\u2014portfolio income (other)"
+            },
+            {
+              "code": "M",
+              "label": "Amounts paid for medical insurance"
+            },
+            {
+              "code": "N",
+              "label": "Educational assistance benefits"
+            },
+            {
+              "code": "O",
+              "label": "Dependent care benefits"
+            },
+            {
+              "code": "P",
+              "label": "Preproductive period expenses"
+            },
+            {
+              "code": "Q",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "R",
+              "label": "Pensions and IRAs"
+            },
+            {
+              "code": "S",
+              "label": "Reforestation expense deduction"
+            },
+            {
+              "code": "T",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "U",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "V",
+              "label": "Section 743(b) negative income adjustments"
+            },
+            {
+              "code": "W",
+              "label": "Soil and water conservation"
+            },
+            {
+              "code": "X",
+              "label": "Qualified film, television, theatrical, and sound recording production expenses"
+            },
+            {
+              "code": "Y",
+              "label": "Expenditures for removal of barriers"
+            },
+            {
+              "code": "Z",
+              "label": "Itemized deductions"
+            },
+            {
+              "code": "AA",
+              "label": "Contributions to a capital construction fund (CCF)"
+            },
+            {
+              "code": "AB",
+              "label": "Penalty on early withdrawal of savings"
+            },
+            {
+              "code": "AC",
+              "label": "Interest expense allocated to debt-financed distributions"
+            },
+            {
+              "code": "AD",
+              "label": "Interest expense on working interest in oil or gas"
+            },
+            {
+              "code": "AE",
+              "label": "Deductions\u2014portfolio income"
+            },
+            {
+              "code": "AF",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AG",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AH",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AI",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AJ",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "ZZ",
+              "label": "Other"
+            }
+          ],
+          "codes_source": "Partner's Instructions for Schedule K-1 (Form 1065) (2025), \"List of Codes for Schedule K-1 (Form 1065)\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf"
+        },
+        {
+          "box": "14",
+          "label": "Self-employment earnings (loss)",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Net earnings (loss) from self-employment"
+            },
+            {
+              "code": "B",
+              "label": "Gross farming or fishing income"
+            },
+            {
+              "code": "C",
+              "label": "Gross nonfarm income"
+            }
+          ],
+          "codes_source": "Partner's Instructions for Schedule K-1 (Form 1065) (2025), \"List of Codes for Schedule K-1 (Form 1065)\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf"
+        },
+        {
+          "box": "15",
+          "label": "Credits",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Zero-emission nuclear power production credit"
+            },
+            {
+              "code": "B",
+              "label": "Credit for production from advanced nuclear power facilities"
+            },
+            {
+              "code": "C",
+              "label": "Low-income housing credit (section 42(j)(5)) from post-2007 buildings"
+            },
+            {
+              "code": "D",
+              "label": "Low-income housing credit (other) from post-2007 buildings"
+            },
+            {
+              "code": "E",
+              "label": "Qualified rehabilitation expenditures (rental real estate)"
+            },
+            {
+              "code": "F",
+              "label": "Other rental real estate credits"
+            },
+            {
+              "code": "G",
+              "label": "Other rental credits"
+            },
+            {
+              "code": "H",
+              "label": "Undistributed capital gains credit"
+            },
+            {
+              "code": "I",
+              "label": "Biofuel producer credit"
+            },
+            {
+              "code": "J",
+              "label": "Work opportunity credit"
+            },
+            {
+              "code": "K",
+              "label": "Disabled access credit"
+            },
+            {
+              "code": "L",
+              "label": "Empowerment zone employment credit"
+            },
+            {
+              "code": "M",
+              "label": "Credit for increasing research activities"
+            },
+            {
+              "code": "N",
+              "label": "Credit for employer social security and Medicare taxes"
+            },
+            {
+              "code": "O",
+              "label": "Backup withholding"
+            },
+            {
+              "code": "P",
+              "label": "Unused investment credit from the qualifying advanced coal project credit or qualifying gasification project credit allocated from cooperatives"
+            },
+            {
+              "code": "Q",
+              "label": "Unused investment credit from the qualifying advanced energy project credit allocated from cooperatives"
+            },
+            {
+              "code": "R",
+              "label": "Unused investment credit from the advanced manufacturing investment credit allocated from cooperatives"
+            },
+            {
+              "code": "S",
+              "label": "Unused investment credit from the clean electricity investment credit allocated from cooperatives"
+            },
+            {
+              "code": "T",
+              "label": "Unused investment credit from the energy credit allocated from cooperatives"
+            },
+            {
+              "code": "U",
+              "label": "Unused investment credit from the rehabilitation credit allocated from cooperatives"
+            },
+            {
+              "code": "V",
+              "label": "Advanced manufacturing production credit"
+            },
+            {
+              "code": "W",
+              "label": "Clean electricity production credit"
+            },
+            {
+              "code": "X",
+              "label": "Clean fuel production credit"
+            },
+            {
+              "code": "Y",
+              "label": "Clean hydrogen production credit"
+            },
+            {
+              "code": "Z",
+              "label": "Orphan drug credit"
+            },
+            {
+              "code": "AA",
+              "label": "Enhanced oil recovery credit"
+            },
+            {
+              "code": "AB",
+              "label": "Renewable electricity production credit"
+            },
+            {
+              "code": "AC",
+              "label": "Biodiesel, renewable diesel, or sustainable aviation fuels credit"
+            },
+            {
+              "code": "AD",
+              "label": "New markets credit"
+            },
+            {
+              "code": "AE",
+              "label": "Small employer pension plan startup costs credit and contributions credit"
+            },
+            {
+              "code": "AF",
+              "label": "Small employer auto-enrollment credit"
+            },
+            {
+              "code": "AG",
+              "label": "Small employer military spouse participation credit"
+            },
+            {
+              "code": "AH",
+              "label": "Credit for employer-provided childcare facilities and services"
+            },
+            {
+              "code": "AI",
+              "label": "Low sulfur diesel fuel production credit"
+            },
+            {
+              "code": "AJ",
+              "label": "Qualified railroad track maintenance credit"
+            },
+            {
+              "code": "AK",
+              "label": "Credit for oil and gas production from marginal wells"
+            },
+            {
+              "code": "AL",
+              "label": "Distilled spirits credit"
+            },
+            {
+              "code": "AM",
+              "label": "Energy efficient home credit"
+            },
+            {
+              "code": "AN",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AO",
+              "label": "Alternative fuel vehicle refueling property credit"
+            },
+            {
+              "code": "AP",
+              "label": "Clean renewable energy bond credit"
+            },
+            {
+              "code": "AQ",
+              "label": "New clean renewable energy bond credit"
+            },
+            {
+              "code": "AR",
+              "label": "Qualified energy conservation bond credit"
+            },
+            {
+              "code": "AS",
+              "label": "Qualified zone academy bond credit"
+            },
+            {
+              "code": "AT",
+              "label": "Qualified school construction bond credit"
+            },
+            {
+              "code": "AU",
+              "label": "Build America bond credit"
+            },
+            {
+              "code": "AV",
+              "label": "Credit for employer differential wage payments"
+            },
+            {
+              "code": "AW",
+              "label": "Carbon oxide sequestration credit"
+            },
+            {
+              "code": "AX",
+              "label": "Carbon oxide sequestration credit recapture"
+            },
+            {
+              "code": "AY",
+              "label": "New clean vehicle credit"
+            },
+            {
+              "code": "AZ",
+              "label": "Credit for qualified commercial clean vehicles"
+            },
+            {
+              "code": "BA",
+              "label": "Credit for small employer health insurance premiums"
+            },
+            {
+              "code": "BB",
+              "label": "Employer credit for paid family and medical leave"
+            },
+            {
+              "code": "BC",
+              "label": "Eligible credits from transferor(s) under section 6418"
+            },
+            {
+              "code": "BD",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "BE",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "BF",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "BG",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "ZZ",
+              "label": "Other"
+            }
+          ],
+          "codes_source": "Partner's Instructions for Schedule K-1 (Form 1065) (2025), \"List of Codes for Schedule K-1 (Form 1065)\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf"
+        },
+        {
+          "box": "16",
+          "label": "Schedule K-3 is attached if checked",
+          "type": "checkbox"
+        },
+        {
+          "box": "17",
+          "label": "Alternative minimum tax (AMT) items",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Post-1986 depreciation adjustment"
+            },
+            {
+              "code": "B",
+              "label": "Adjusted gain or loss"
+            },
+            {
+              "code": "C",
+              "label": "Depletion (other than oil & gas)"
+            },
+            {
+              "code": "D",
+              "label": "Oil, gas, & geothermal\u2014gross income"
+            },
+            {
+              "code": "E",
+              "label": "Oil, gas, & geothermal\u2014deductions"
+            },
+            {
+              "code": "F",
+              "label": "Other AMT items"
+            }
+          ],
+          "codes_source": "Partner's Instructions for Schedule K-1 (Form 1065) (2025), \"List of Codes for Schedule K-1 (Form 1065)\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf"
+        },
+        {
+          "box": "18",
+          "label": "Tax-exempt income and nondeductible expenses",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Tax-exempt interest income"
+            },
+            {
+              "code": "B",
+              "label": "Other tax-exempt income"
+            },
+            {
+              "code": "C",
+              "label": "Nondeductible expenses"
+            }
+          ],
+          "codes_source": "Partner's Instructions for Schedule K-1 (Form 1065) (2025), \"List of Codes for Schedule K-1 (Form 1065)\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf"
+        },
+        {
+          "box": "19",
+          "label": "Distributions",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Cash and marketable securities"
+            },
+            {
+              "code": "B",
+              "label": "Distribution subject to section 737"
+            },
+            {
+              "code": "C",
+              "label": "Other property"
+            },
+            {
+              "code": "D",
+              "label": "Deemed distributions of money\u2014decreases in partner\u2019s share of liabilities"
+            },
+            {
+              "code": "E",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "F",
+              "label": "Distributions of cash or marketable securities for performing services"
+            },
+            {
+              "code": "G",
+              "label": "Distributions of property other than cash or marketable securities for performing services"
+            }
+          ],
+          "codes_source": "Partner's Instructions for Schedule K-1 (Form 1065) (2025), \"List of Codes for Schedule K-1 (Form 1065)\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf"
+        },
+        {
+          "box": "20",
+          "label": "Other information",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Investment income"
+            },
+            {
+              "code": "B",
+              "label": "Investment expenses"
+            },
+            {
+              "code": "C",
+              "label": "Fuel tax credit information"
+            },
+            {
+              "code": "D",
+              "label": "Qualified rehabilitation expenditures (other than rental real estate)"
+            },
+            {
+              "code": "E",
+              "label": "Basis of energy property"
+            },
+            {
+              "code": "F",
+              "label": "Recapture of low-income housing credit for section 42(j)(5) partnerships"
+            },
+            {
+              "code": "G",
+              "label": "Recapture of low-income housing credit for other partnerships"
+            },
+            {
+              "code": "H",
+              "label": "Recapture of investment credit"
+            },
+            {
+              "code": "I",
+              "label": "Recapture of other credits"
+            },
+            {
+              "code": "J",
+              "label": "Look-back interest\u2014completed long-term contracts"
+            },
+            {
+              "code": "K",
+              "label": "Look-back interest\u2014income forecast method"
+            },
+            {
+              "code": "L",
+              "label": "Dispositions of property with section 179 deductions"
+            },
+            {
+              "code": "M",
+              "label": "Recapture of section 179 deduction"
+            },
+            {
+              "code": "N",
+              "label": "Business interest expense (BIE)"
+            },
+            {
+              "code": "O",
+              "label": "Section 453(l)(3) information"
+            },
+            {
+              "code": "P",
+              "label": "Section 453A(c) information"
+            },
+            {
+              "code": "Q",
+              "label": "Section 1260(b) information"
+            },
+            {
+              "code": "R",
+              "label": "Interest allocable to production expenditures"
+            },
+            {
+              "code": "S",
+              "label": "Capital construction fund (CCF) nonqualified withdrawals"
+            },
+            {
+              "code": "T",
+              "label": "Depletion information\u2014oil and gas"
+            },
+            {
+              "code": "U",
+              "label": "Section 743(b) basis adjustment"
+            },
+            {
+              "code": "V",
+              "label": "Unrelated business taxable income"
+            },
+            {
+              "code": "W",
+              "label": "Precontribution gain (loss)"
+            },
+            {
+              "code": "X",
+              "label": "Payment obligations including guarantees and deficit obligations (DROs)"
+            },
+            {
+              "code": "Y",
+              "label": "Net investment income (NII)"
+            },
+            {
+              "code": "Z",
+              "label": "Section 199A information"
+            },
+            {
+              "code": "AA",
+              "label": "Section 704(c) information"
+            },
+            {
+              "code": "AB",
+              "label": "Section 751 gain (loss)"
+            },
+            {
+              "code": "AC",
+              "label": "Section 1(h)(5) collectibles gain"
+            },
+            {
+              "code": "AD",
+              "label": "Section 1(h)(6) unrecaptured section 1250 gain"
+            },
+            {
+              "code": "AE",
+              "label": "Excess taxable income"
+            },
+            {
+              "code": "AF",
+              "label": "Excess business interest income"
+            },
+            {
+              "code": "AG",
+              "label": "Gross receipts for section 448(c)"
+            },
+            {
+              "code": "AH",
+              "label": "Noncash charitable contributions"
+            },
+            {
+              "code": "AI",
+              "label": "Interest and tax on deferred compensation to partners"
+            },
+            {
+              "code": "AJ",
+              "label": "Excess business loss limitation"
+            },
+            {
+              "code": "AK",
+              "label": "Gain from mark-to-market election"
+            },
+            {
+              "code": "AL",
+              "label": "Section 721(c) partnership"
+            },
+            {
+              "code": "AM",
+              "label": "Section 1061 information"
+            },
+            {
+              "code": "AN",
+              "label": "Farming and fishing business"
+            },
+            {
+              "code": "AO",
+              "label": "PTP information"
+            },
+            {
+              "code": "AP",
+              "label": "Inversion gain"
+            },
+            {
+              "code": "AQ",
+              "label": "Conservation reserve program payments"
+            },
+            {
+              "code": "AR",
+              "label": "IRA disclosure"
+            },
+            {
+              "code": "AS",
+              "label": "Qualifying advanced coal project property and qualifying gasification project property"
+            },
+            {
+              "code": "AT",
+              "label": "Qualifying advanced energy project property"
+            },
+            {
+              "code": "AU",
+              "label": "Advanced manufacturing investment property"
+            },
+            {
+              "code": "AV",
+              "label": "Clean electricity investment property"
+            },
+            {
+              "code": "AW",
+              "label": "Reportable transactions"
+            },
+            {
+              "code": "AX",
+              "label": "Corporate alternative minimum tax (CAMT)"
+            },
+            {
+              "code": "AY",
+              "label": "Foreign partners, Form 8990, Schedule A"
+            },
+            {
+              "code": "AZ",
+              "label": "Reimbursement of preformation expenditures"
+            },
+            {
+              "code": "BA",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "BB",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "BC",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "BD",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "ZZ",
+              "label": "Other"
+            }
+          ],
+          "codes_source": "Partner's Instructions for Schedule K-1 (Form 1065) (2025), \"List of Codes for Schedule K-1 (Form 1065)\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf"
+        },
+        {
+          "box": "21",
+          "label": "Foreign taxes paid or accrued",
+          "type": "money"
+        },
+        {
+          "box": "22",
+          "label": "More than one activity for at-risk purposes*",
+          "type": "checkbox"
+        },
+        {
+          "box": "23",
+          "label": "More than one activity for passive activity purposes*",
+          "type": "checkbox"
+        },
+        {
+          "box": "F",
+          "label": "Name, address, city, state, and ZIP code for partner entered in E",
+          "type": "identifier",
+          "note": "WHO THIS K-1 BELONGS TO. Item E is the SSN or TIN and is deliberately NOT declared: matching on a name is sufficient and nothing here needs the number (Principle VII). The 1120-S and 1041 K-1s print the recipient's name as their own item F too."
+        },
+        {
+          "box": "H2",
+          "label": "If the partner is a disregarded entity (DE), enter the partner's: Name",
+          "type": "identifier",
+          "note": "A single-member LLC's K-1 names the LLC here and its OWNER in E/F - the form prints 'Do not use TIN of a disregarded entity' on E - so a DE owned by the taxpayer is already this return by item F. 1065-only."
+        },
+        {
+          "box": "final-k-1",
+          "label": "Final K-1",
+          "type": "checkbox"
+        },
+        {
+          "box": "amended-k-1",
+          "label": "Amended K-1",
+          "type": "checkbox"
+        },
+        {
+          "box": "tax-year-beginning",
+          "label": "For calendar year 2025, or tax year beginning",
+          "type": "date"
+        },
+        {
+          "box": "tax-year-ending",
+          "label": "ending",
+          "type": "date"
+        },
+        {
+          "box": "A",
+          "label": "Partnership\u2019s employer identification number",
+          "type": "identifier",
+          "note": "The entity key: Schedule E line 28 column (d), and the once-per-entity passive answer."
+        },
+        {
+          "box": "B",
+          "label": "Partnership\u2019s name, address, city, state, and ZIP code",
+          "type": "identifier",
+          "note": "Schedule E line 28 column (a)."
+        },
+        {
+          "box": "H1",
+          "label": "Domestic partner / Foreign partner",
+          "type": "checkbox"
+        },
+        {
+          "box": "J-profit-beginning",
+          "label": "Partner\u2019s share of profit, loss, and capital: Profit \u2014 Beginning",
+          "type": "percent"
+        },
+        {
+          "box": "J-profit-ending",
+          "label": "Partner\u2019s share of profit, loss, and capital: Profit \u2014 Ending",
+          "type": "percent"
+        },
+        {
+          "box": "J-loss-beginning",
+          "label": "Partner\u2019s share of profit, loss, and capital: Loss \u2014 Beginning",
+          "type": "percent"
+        },
+        {
+          "box": "J-loss-ending",
+          "label": "Partner\u2019s share of profit, loss, and capital: Loss \u2014 Ending",
+          "type": "percent"
+        },
+        {
+          "box": "J-capital-beginning",
+          "label": "Partner\u2019s share of profit, loss, and capital: Capital \u2014 Beginning",
+          "type": "percent"
+        },
+        {
+          "box": "J-capital-ending",
+          "label": "Partner\u2019s share of profit, loss, and capital: Capital \u2014 Ending",
+          "type": "percent"
+        },
+        {
+          "box": "J-sale",
+          "label": "Check if decrease is due to: Sale",
+          "type": "checkbox"
+        },
+        {
+          "box": "J-exchange",
+          "label": "Check if decrease is due to: Exchange of partnership interest",
+          "type": "checkbox"
+        },
+        {
+          "box": "K1-nonrecourse-beginning",
+          "label": "Partner\u2019s share of liabilities: Nonrecourse \u2014 Beginning",
+          "type": "money"
+        },
+        {
+          "box": "K1-nonrecourse-ending",
+          "label": "Partner\u2019s share of liabilities: Nonrecourse \u2014 Ending",
+          "type": "money"
+        },
+        {
+          "box": "K1-qualified-nonrecourse-beginning",
+          "label": "Partner\u2019s share of liabilities: Qualified nonrecourse financing \u2014 Beginning",
+          "type": "money"
+        },
+        {
+          "box": "K1-qualified-nonrecourse-ending",
+          "label": "Partner\u2019s share of liabilities: Qualified nonrecourse financing \u2014 Ending",
+          "type": "money"
+        },
+        {
+          "box": "K1-recourse-beginning",
+          "label": "Partner\u2019s share of liabilities: Recourse \u2014 Beginning",
+          "type": "money"
+        },
+        {
+          "box": "K1-recourse-ending",
+          "label": "Partner\u2019s share of liabilities: Recourse \u2014 Ending",
+          "type": "money"
+        },
+        {
+          "box": "K2",
+          "label": "Check this box if item K1 includes liability amounts from lower-tier partnerships",
+          "type": "checkbox"
+        },
+        {
+          "box": "L-beginning",
+          "label": "Beginning capital account",
+          "type": "money"
+        },
+        {
+          "box": "L-contributed",
+          "label": "Capital contributed during the year",
+          "type": "money"
+        },
+        {
+          "box": "L-current-year",
+          "label": "Current year net income (loss)",
+          "type": "money"
+        },
+        {
+          "box": "L-other",
+          "label": "Other increase (decrease) (attach explanation)",
+          "type": "money"
+        },
+        {
+          "box": "L-withdrawals",
+          "label": "Withdrawals and distributions",
+          "type": "money"
+        },
+        {
+          "box": "L-ending",
+          "label": "Ending capital account",
+          "type": "money"
+        },
+        {
+          "box": "M",
+          "label": "Did the partner contribute property with a built-in gain (loss)?",
+          "type": "checkbox"
+        },
+        {
+          "box": "N-beginning",
+          "label": "Partner\u2019s Share of Net Unrecognized Section 704(c) Gain or (Loss): Beginning",
+          "type": "money"
+        },
+        {
+          "box": "N-ending",
+          "label": "Partner\u2019s Share of Net Unrecognized Section 704(c) Gain or (Loss): Ending",
+          "type": "money"
+        }
+      ],
+      "notes": "PARTIAL DECLARATION \u2014 only the capital boxes. Every other box belongs to the pass-through part of the map. Boxes 9b and 9c are rate-character breakouts of the long-term gain and feed the rate worksheets, not Schedule D's net \u2014 see aggregate 'k1-1065.9a'. **A K-1 ORDINARILY BELONGS ON THE RECIPIENT'S RETURN** - the entity issues it, the partner reports it - and `belongs_to_this_return` is for the exception: a K-1 in the packet whose recipient is somebody else. One measured packet held a trust's K-1 for 5,475 beside the taxpayer's own for 5,476, one dollar apart, and rental income doubled. The hold is declared on the DOCUMENT and not on each route: the 414 K-1 routes would each carry an identical conjunct, 414 places that must agree, and a route added later without it places another person's money.",
+      "produced_by": {
+        "entity_return": "Form 1065",
+        "entity": "partnership",
+        "issued_to": "each partner",
+        "due": "15th day of the 3rd month after year end (March 15 for a calendar year)"
+      },
+      "belongs_to_this_return": {
+        "unless_fact": "k1_partner_is_this_return",
+        "identity_box": "F",
+        "held_because": "belongs_to_another_return",
+        "reads": [
+          "F",
+          "G",
+          "H2",
+          "I1",
+          "I2"
+        ]
+      }
+    },
+    {
+      "id": "k-1-1120s",
+      "title": "Schedule K-1 (Form 1120-S), Shareholder's Share of Income, Deductions, Credits, etc.",
+      "kind": "information_return",
+      "revision": "2025",
+      "revision_printed_as": "Schedule K-1 (Form 1120-S) 2025",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1120ssk--2025.pdf",
+      "issued_by": "S corporation",
+      "container_of": null,
+      "boxes": [
+        {
+          "box": "7",
+          "label": "Net short-term capital gain (loss)",
+          "type": "money"
+        },
+        {
+          "box": "8a",
+          "label": "Net long-term capital gain (loss)",
+          "type": "money"
+        },
+        {
+          "box": "8b",
+          "label": "Collectibles (28%) gain (loss)",
+          "type": "money"
+        },
+        {
+          "box": "8c",
+          "label": "Unrecaptured section 1250 gain",
+          "type": "money"
+        },
+        {
+          "box": "F3",
+          "label": "What type of entity is this shareholder?",
+          "type": "text"
+        },
+        {
+          "box": "G",
+          "label": "Current year allocation percentage",
+          "type": "percent"
+        },
+        {
+          "box": "1",
+          "label": "Ordinary business income (loss)",
+          "type": "money"
+        },
+        {
+          "box": "2",
+          "label": "Net rental real estate income (loss)",
+          "type": "money"
+        },
+        {
+          "box": "3",
+          "label": "Other net rental income (loss)",
+          "type": "money"
+        },
+        {
+          "box": "4",
+          "label": "Interest income",
+          "type": "money"
+        },
+        {
+          "box": "5a",
+          "label": "Ordinary dividends",
+          "type": "money"
+        },
+        {
+          "box": "5b",
+          "label": "Qualified dividends",
+          "type": "money"
+        },
+        {
+          "box": "6",
+          "label": "Royalties",
+          "type": "money"
+        },
+        {
+          "box": "9",
+          "label": "Net section 1231 gain (loss)",
+          "type": "money"
+        },
+        {
+          "box": "10",
+          "label": "Other income (loss)",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Other portfolio income (loss)"
+            },
+            {
+              "code": "B",
+              "label": "Involuntary conversions"
+            },
+            {
+              "code": "C",
+              "label": "Section 1256 contracts and straddles"
+            },
+            {
+              "code": "D",
+              "label": "Mining exploration costs recapture"
+            },
+            {
+              "code": "E",
+              "label": "Section 951A(a) income inclusions"
+            },
+            {
+              "code": "F",
+              "label": "Inclusions of subpart F income"
+            },
+            {
+              "code": "G",
+              "label": "Section 951(a)(1)(B) inclusions"
+            },
+            {
+              "code": "H",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "I",
+              "label": "Gain (loss) from disposition of oil, gas, geothermal, or other mineral properties"
+            },
+            {
+              "code": "J",
+              "label": "Recoveries of tax benefit items"
+            },
+            {
+              "code": "K",
+              "label": "Gambling gains and losses"
+            },
+            {
+              "code": "L",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "M",
+              "label": "Gain eligible for section 1045 rollover (replacement stock purchased by the corporation)"
+            },
+            {
+              "code": "N",
+              "label": "Gain eligible for section 1045 rollover (replacement stock not purchased by the corporation)"
+            },
+            {
+              "code": "O",
+              "label": "Sale or exchange of QSB stock with section 1202 exclusion"
+            },
+            {
+              "code": "P",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "Q",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "R",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "S",
+              "label": "Non-portfolio capital gain (loss)"
+            },
+            {
+              "code": "T",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "U",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "V",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "W",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "X",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "ZZ",
+              "label": "Other income (loss)"
+            }
+          ],
+          "codes_source": "Instructions for Schedule K-1 (Form 1120-S) (2025), \"List of Codes\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1120ssk--2025.pdf"
+        },
+        {
+          "box": "11",
+          "label": "Section 179 deduction",
+          "type": "money"
+        },
+        {
+          "box": "12",
+          "label": "Other deductions",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Cash contributions (60%)"
+            },
+            {
+              "code": "B",
+              "label": "Cash contributions (30%)"
+            },
+            {
+              "code": "C",
+              "label": "Noncash contributions (50%)"
+            },
+            {
+              "code": "D",
+              "label": "Noncash contributions (30%)"
+            },
+            {
+              "code": "E",
+              "label": "Capital gain property to a 50% limit organization (30%)"
+            },
+            {
+              "code": "F",
+              "label": "Capital gain property (20%)"
+            },
+            {
+              "code": "G",
+              "label": "Contributions (100%)"
+            },
+            {
+              "code": "H",
+              "label": "Investment interest expense"
+            },
+            {
+              "code": "I",
+              "label": "Deductions\u2014royalty income"
+            },
+            {
+              "code": "J",
+              "label": "Section 59(e)(2) expenditures"
+            },
+            {
+              "code": "K",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "L",
+              "label": "Deductions\u2014portfolio income (other)"
+            },
+            {
+              "code": "M",
+              "label": "Preproductive period expenses"
+            },
+            {
+              "code": "N",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "O",
+              "label": "Reforestation expense deduction"
+            },
+            {
+              "code": "P",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "Q",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "R",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "S",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "T",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "U",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "V",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "W",
+              "label": "Soil and water conservation"
+            },
+            {
+              "code": "X",
+              "label": "Film, television, theatrical, and qualified sound recording production expenditures"
+            },
+            {
+              "code": "Y",
+              "label": "Expenditures for removal of barriers"
+            },
+            {
+              "code": "Z",
+              "label": "Itemized deductions"
+            },
+            {
+              "code": "AA",
+              "label": "Contributions to a capital construction fund (CCF)"
+            },
+            {
+              "code": "AB",
+              "label": "Penalty on early withdrawal of savings"
+            },
+            {
+              "code": "AC",
+              "label": "Interest expense allocated to debt-financed distributions"
+            },
+            {
+              "code": "AD",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AE",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AF",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AG",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AH",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AI",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AJ",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "ZZ",
+              "label": "Other deductions"
+            }
+          ],
+          "codes_source": "Instructions for Schedule K-1 (Form 1120-S) (2025), \"List of Codes\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1120ssk--2025.pdf"
+        },
+        {
+          "box": "13",
+          "label": "Credits",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Zero-emission nuclear power production credit"
+            },
+            {
+              "code": "B",
+              "label": "Credit for production from advanced nuclear power facilities"
+            },
+            {
+              "code": "C",
+              "label": "Low-income housing credit (section 42(j)(5)) from post-2007 buildings"
+            },
+            {
+              "code": "D",
+              "label": "Low-income housing credit (other) from post-2007 buildings"
+            },
+            {
+              "code": "E",
+              "label": "Qualified rehabilitation expenditures (rental real estate)"
+            },
+            {
+              "code": "F",
+              "label": "Other rental real estate credits"
+            },
+            {
+              "code": "G",
+              "label": "Other rental credits"
+            },
+            {
+              "code": "H",
+              "label": "Undistributed capital gains credit"
+            },
+            {
+              "code": "I",
+              "label": "Biofuel producer credit"
+            },
+            {
+              "code": "J",
+              "label": "Work opportunity credit"
+            },
+            {
+              "code": "K",
+              "label": "Disabled access credit"
+            },
+            {
+              "code": "L",
+              "label": "Empowerment zone employment credit"
+            },
+            {
+              "code": "M",
+              "label": "Credit for increasing research activities"
+            },
+            {
+              "code": "N",
+              "label": "Credit for employer social security and Medicare taxes"
+            },
+            {
+              "code": "O",
+              "label": "Backup withholding"
+            },
+            {
+              "code": "P",
+              "label": "Unused investment credit from the qualifying advanced coal project credit or qualifying gasification project credit allocated from cooperatives"
+            },
+            {
+              "code": "Q",
+              "label": "Unused investment credit from the qualifying advanced energy project credit allocated from cooperatives"
+            },
+            {
+              "code": "R",
+              "label": "Unused investment credit from the advanced manufacturing investment credit allocated from cooperatives"
+            },
+            {
+              "code": "S",
+              "label": "Unused investment credit from clean electricity credit allocated from cooperatives"
+            },
+            {
+              "code": "T",
+              "label": "Unused investment credit from the energy credit allocated from cooperatives"
+            },
+            {
+              "code": "U",
+              "label": "Unused investment credit from the rehabilitation credit allocated from cooperatives"
+            },
+            {
+              "code": "V",
+              "label": "Advanced manufacturing production credit"
+            },
+            {
+              "code": "W",
+              "label": "Clean electricity production credit"
+            },
+            {
+              "code": "X",
+              "label": "Clean fuel production credit"
+            },
+            {
+              "code": "Y",
+              "label": "Clean hydrogen production credit"
+            },
+            {
+              "code": "Z",
+              "label": "Orphan drug credit"
+            },
+            {
+              "code": "AA",
+              "label": "Enhanced oil recovery credit"
+            },
+            {
+              "code": "AB",
+              "label": "Renewable electricity production credit"
+            },
+            {
+              "code": "AC",
+              "label": "Biodiesel, renewable diesel, or sustainable aviation fuels credit"
+            },
+            {
+              "code": "AD",
+              "label": "New markets credit"
+            },
+            {
+              "code": "AE",
+              "label": "Credit for small employer pension plan startup costs"
+            },
+            {
+              "code": "AF",
+              "label": "Credit for small employer auto-enrollment"
+            },
+            {
+              "code": "AG",
+              "label": "Credit for military spouse participation"
+            },
+            {
+              "code": "AH",
+              "label": "Credit for employer-provided childcare facilities and services"
+            },
+            {
+              "code": "AI",
+              "label": "Low sulfur diesel fuel production credit"
+            },
+            {
+              "code": "AJ",
+              "label": "Qualified railroad track maintenance credit"
+            },
+            {
+              "code": "AK",
+              "label": "Credit for oil and gas production from marginal wells"
+            },
+            {
+              "code": "AL",
+              "label": "Distilled spirits credit"
+            },
+            {
+              "code": "AM",
+              "label": "Energy efficient home credit"
+            },
+            {
+              "code": "AN",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AO",
+              "label": "Alternative fuel vehicle refueling property credit"
+            },
+            {
+              "code": "AP",
+              "label": "Clean renewable energy bond credit"
+            },
+            {
+              "code": "AQ",
+              "label": "New clean renewable energy bond credit"
+            },
+            {
+              "code": "AR",
+              "label": "Qualified energy conservation bond credit"
+            },
+            {
+              "code": "AS",
+              "label": "Qualified zone academy bond credit"
+            },
+            {
+              "code": "AT",
+              "label": "Qualified school construction bond credit"
+            },
+            {
+              "code": "AU",
+              "label": "Build America bond credit"
+            },
+            {
+              "code": "AV",
+              "label": "Credit for employer differential wage payments"
+            },
+            {
+              "code": "AW",
+              "label": "Carbon oxide sequestration credit"
+            },
+            {
+              "code": "AX",
+              "label": "Carbon oxide sequestration credit recapture"
+            },
+            {
+              "code": "AY",
+              "label": "New clean vehicle credit"
+            },
+            {
+              "code": "AZ",
+              "label": "Qualified commercial clean vehicle credit"
+            },
+            {
+              "code": "BA",
+              "label": "Credit for small employer health insurance premiums"
+            },
+            {
+              "code": "BB",
+              "label": "Employer credit for paid family and medical leave"
+            },
+            {
+              "code": "BC",
+              "label": "Eligible credits from transferor(s) under section 6418"
+            },
+            {
+              "code": "BD",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "BE",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "BF",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "BG",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "ZZ",
+              "label": "Other credits"
+            }
+          ],
+          "codes_source": "Instructions for Schedule K-1 (Form 1120-S) (2025), \"List of Codes\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1120ssk--2025.pdf"
+        },
+        {
+          "box": "14",
+          "label": "Schedule K-3 is attached if checked",
+          "type": "checkbox"
+        },
+        {
+          "box": "15",
+          "label": "Alternative minimum tax (AMT) items",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Post-1986 depreciation adjustment"
+            },
+            {
+              "code": "B",
+              "label": "Adjusted gain or loss"
+            },
+            {
+              "code": "C",
+              "label": "Depletion (other than oil & gas)"
+            },
+            {
+              "code": "D",
+              "label": "Oil, gas, & geothermal\u2014gross income"
+            },
+            {
+              "code": "E",
+              "label": "Oil, gas, & geothermal\u2014deductions"
+            },
+            {
+              "code": "F",
+              "label": "Other AMT items"
+            }
+          ],
+          "codes_source": "Instructions for Schedule K-1 (Form 1120-S) (2025), \"List of Codes\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1120ssk--2025.pdf"
+        },
+        {
+          "box": "16",
+          "label": "Items affecting shareholder basis",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Tax-exempt interest income"
+            },
+            {
+              "code": "B",
+              "label": "Other tax-exempt income"
+            },
+            {
+              "code": "C",
+              "label": "Nondeductible expenses"
+            },
+            {
+              "code": "D",
+              "label": "Distributions"
+            },
+            {
+              "code": "E",
+              "label": "Repayment of loans from shareholders"
+            },
+            {
+              "code": "F",
+              "label": "Foreign taxes paid or accrued"
+            }
+          ],
+          "codes_source": "Instructions for Schedule K-1 (Form 1120-S) (2025), \"List of Codes\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1120ssk--2025.pdf"
+        },
+        {
+          "box": "17",
+          "label": "Other information",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Investment income"
+            },
+            {
+              "code": "B",
+              "label": "Investment expenses"
+            },
+            {
+              "code": "C",
+              "label": "Qualified rehabilitation expenditures (other than rental real estate)"
+            },
+            {
+              "code": "D",
+              "label": "Basis of energy property"
+            },
+            {
+              "code": "E",
+              "label": "Recapture of low-income housing credit (section 42(j)(5))"
+            },
+            {
+              "code": "F",
+              "label": "Recapture of low-income housing credit (other)"
+            },
+            {
+              "code": "G",
+              "label": "Recapture of investment credit"
+            },
+            {
+              "code": "H",
+              "label": "Recapture of other credits"
+            },
+            {
+              "code": "I",
+              "label": "Look-back interest\u2014completed long-term contracts"
+            },
+            {
+              "code": "J",
+              "label": "Look-back interest\u2014income forecast method"
+            },
+            {
+              "code": "K",
+              "label": "Dispositions of property with section 179 deductions"
+            },
+            {
+              "code": "L",
+              "label": "Recapture of section 179 deduction"
+            },
+            {
+              "code": "M",
+              "label": "Section 453(l)(3) information"
+            },
+            {
+              "code": "N",
+              "label": "Section 453A(c) information"
+            },
+            {
+              "code": "O",
+              "label": "Section 1260(b) information"
+            },
+            {
+              "code": "P",
+              "label": "Interest allocable to production expenditures"
+            },
+            {
+              "code": "Q",
+              "label": "Capital construction fund (CCF) nonqualified withdrawals"
+            },
+            {
+              "code": "R",
+              "label": "Depletion information\u2014oil and gas"
+            },
+            {
+              "code": "S",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "T",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "U",
+              "label": "Net investment income"
+            },
+            {
+              "code": "V",
+              "label": "Section 199A information"
+            },
+            {
+              "code": "W",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "X",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "Y",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "Z",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AA",
+              "label": "Excess taxable income"
+            },
+            {
+              "code": "AB",
+              "label": "Excess business interest income"
+            },
+            {
+              "code": "AC",
+              "label": "Gross receipts for section 448(c)"
+            },
+            {
+              "code": "AD",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AE",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AF",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AG",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AH",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AI",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AJ",
+              "label": "Excess business loss limitation"
+            },
+            {
+              "code": "AK",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AL",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AM",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AN",
+              "label": "Farming and fishing income"
+            },
+            {
+              "code": "AO",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AP",
+              "label": "Inversion gain"
+            },
+            {
+              "code": "AQ",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AR",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AS",
+              "label": "Qualifying advanced coal project property and qualifying gasification project property"
+            },
+            {
+              "code": "AT",
+              "label": "Qualifying advanced energy project property"
+            },
+            {
+              "code": "AU",
+              "label": "Advanced manufacturing investment property"
+            },
+            {
+              "code": "AV",
+              "label": "Clean electricity investment property"
+            },
+            {
+              "code": "AW",
+              "label": "Reportable transactions"
+            },
+            {
+              "code": "AX",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AY",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "AZ",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "BA",
+              "label": "Domestic research and experimental expenditures"
+            },
+            {
+              "code": "BB",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "BC",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "BD",
+              "label": "Reserved for future use"
+            },
+            {
+              "code": "ZZ",
+              "label": "Other information"
+            }
+          ],
+          "codes_source": "Instructions for Schedule K-1 (Form 1120-S) (2025), \"List of Codes\"",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/i1120ssk--2025.pdf"
+        },
+        {
+          "box": "18",
+          "label": "More than one activity for at-risk purposes*",
+          "type": "checkbox"
+        },
+        {
+          "box": "19",
+          "label": "More than one activity for passive activity purposes*",
+          "type": "checkbox"
+        },
+        {
+          "box": "F1",
+          "label": "Shareholder\u2019s name, address, city, state, and ZIP code",
+          "type": "identifier"
+        },
+        {
+          "box": "F2",
+          "label": "If the shareholder is a disregarded entity, a trust, an estate, or a nominee or similar person, enter the individual or entity responsible for reporting: Name",
+          "type": "identifier"
+        },
+        {
+          "box": "final-k-1",
+          "label": "Final K-1",
+          "type": "checkbox"
+        },
+        {
+          "box": "amended-k-1",
+          "label": "Amended K-1",
+          "type": "checkbox"
+        },
+        {
+          "box": "tax-year-beginning",
+          "label": "For calendar year 2025, or tax year beginning",
+          "type": "date"
+        },
+        {
+          "box": "tax-year-ending",
+          "label": "ending",
+          "type": "date"
+        },
+        {
+          "box": "A",
+          "label": "Corporation\u2019s employer identification number",
+          "type": "identifier",
+          "note": "The entity key: Schedule E line 28 column (d), and the once-per-entity passive answer."
+        },
+        {
+          "box": "B",
+          "label": "Corporation\u2019s name, address, city, state, and ZIP code",
+          "type": "identifier",
+          "note": "Schedule E line 28 column (a)."
+        },
+        {
+          "box": "D-beginning",
+          "label": "Corporation\u2019s total number of shares: Beginning of tax year",
+          "type": "count"
+        },
+        {
+          "box": "D-ending",
+          "label": "Corporation\u2019s total number of shares: End of tax year",
+          "type": "count"
+        },
+        {
+          "box": "H-beginning",
+          "label": "Shareholder\u2019s number of shares: Beginning of tax year",
+          "type": "count"
+        },
+        {
+          "box": "H-ending",
+          "label": "Shareholder\u2019s number of shares: End of tax year",
+          "type": "count"
+        },
+        {
+          "box": "I-beginning",
+          "label": "Loans from shareholder: Beginning of tax year",
+          "type": "money",
+          "note": "Debt basis."
+        },
+        {
+          "box": "I-ending",
+          "label": "Loans from shareholder: End of tax year",
+          "type": "money",
+          "note": "Debt basis."
+        }
+      ],
+      "notes": "PARTIAL DECLARATION \u2014 only the capital boxes. Boxes 8b and 8c are rate-character breakouts of box 8a \u2014 see aggregate 'k1-1120s.8a'.",
+      "produced_by": {
+        "entity_return": "Form 1120-S",
+        "entity": "S corporation",
+        "issued_to": "each shareholder",
+        "due": "15th day of the 3rd month after year end (March 15 for a calendar year)"
+      },
+      "belongs_to_this_return": {
+        "unless_fact": "k1_partner_is_this_return",
+        "identity_box": "F1",
+        "held_because": "belongs_to_another_return",
+        "reads": [
+          "F1",
+          "F2",
+          "F3"
+        ]
+      }
+    },
+    {
+      "id": "k-1-1041",
+      "title": "Schedule K-1 (Form 1041), Beneficiary's Share of Income, Deductions, Credits, etc.",
+      "kind": "information_return",
+      "revision": "2025",
+      "revision_printed_as": "Schedule K-1 (Form 1041) 2025",
+      "source_url": "https://www.irs.gov/pub/irs-prior/f1041sk1--2025.pdf",
+      "issued_by": "estate or trust",
+      "container_of": null,
+      "boxes": [
+        {
+          "box": "3",
+          "label": "Net short-term capital gain",
+          "type": "money"
+        },
+        {
+          "box": "4a",
+          "label": "Net long-term capital gain",
+          "type": "money"
+        },
+        {
+          "box": "4b",
+          "label": "28% rate gain",
+          "type": "money"
+        },
+        {
+          "box": "4c",
+          "label": "Unrecaptured section 1250 gain",
+          "type": "money"
+        },
+        {
+          "box": "E",
+          "label": "Check if this is the final Form 1041 for the estate or trust",
+          "type": "checkbox"
+        },
+        {
+          "box": "H",
+          "label": "Domestic beneficiary / Foreign beneficiary",
+          "type": "checkbox"
+        },
+        {
+          "box": "1",
+          "label": "Interest income",
+          "type": "money"
+        },
+        {
+          "box": "2a",
+          "label": "Ordinary dividends",
+          "type": "money"
+        },
+        {
+          "box": "2b",
+          "label": "Qualified dividends",
+          "type": "money"
+        },
+        {
+          "box": "5",
+          "label": "Other portfolio and nonbusiness income",
+          "type": "money"
+        },
+        {
+          "box": "6",
+          "label": "Ordinary business income",
+          "type": "money"
+        },
+        {
+          "box": "7",
+          "label": "Net rental real estate income",
+          "type": "money"
+        },
+        {
+          "box": "8",
+          "label": "Other rental income",
+          "type": "money"
+        },
+        {
+          "box": "9",
+          "label": "Directly apportioned deductions",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Depreciation"
+            },
+            {
+              "code": "B",
+              "label": "Depletion"
+            },
+            {
+              "code": "C",
+              "label": "Amortization"
+            }
+          ],
+          "codes_source": "Schedule K-1 (Form 1041) 2025, page 2 \u2014 the form's own printed code list, beside its \"Report on\" column",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/f1041sk1--2025.pdf"
+        },
+        {
+          "box": "10",
+          "label": "Estate tax deduction",
+          "type": "money"
+        },
+        {
+          "box": "11",
+          "label": "Final year deductions",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Excess deductions \u2013 Section 67(e) expenses"
+            },
+            {
+              "code": "B",
+              "label": "Excess deductions \u2013 Non-miscellaneous itemized deductions"
+            },
+            {
+              "code": "C",
+              "label": "Short-term capital loss carryover"
+            },
+            {
+              "code": "D",
+              "label": "Long-term capital loss carryover"
+            },
+            {
+              "code": "E",
+              "label": "Net operating loss carryover \u2014 regular tax"
+            },
+            {
+              "code": "F",
+              "label": "Net operating loss carryover \u2014 minimum tax"
+            }
+          ],
+          "codes_source": "Schedule K-1 (Form 1041) 2025, page 2 \u2014 the form's own printed code list, beside its \"Report on\" column",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/f1041sk1--2025.pdf"
+        },
+        {
+          "box": "12",
+          "label": "Alternative minimum tax adjustment",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Adjustment for minimum tax purposes"
+            },
+            {
+              "code": "B",
+              "label": "AMT adjustment attributable to qualified dividends"
+            },
+            {
+              "code": "C",
+              "label": "AMT adjustment attributable to net short-term capital gain"
+            },
+            {
+              "code": "D",
+              "label": "AMT adjustment attributable to net long-term capital gain"
+            },
+            {
+              "code": "E",
+              "label": "AMT adjustment attributable to unrecaptured section 1250 gain"
+            },
+            {
+              "code": "F",
+              "label": "AMT adjustment attributable to 28% rate gain"
+            },
+            {
+              "code": "G",
+              "label": "Accelerated depreciation"
+            },
+            {
+              "code": "H",
+              "label": "Depletion"
+            },
+            {
+              "code": "I",
+              "label": "Amortization"
+            },
+            {
+              "code": "J",
+              "label": "Exclusion items"
+            }
+          ],
+          "codes_source": "Schedule K-1 (Form 1041) 2025, page 2 \u2014 the form's own printed code list, beside its \"Report on\" column",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/f1041sk1--2025.pdf"
+        },
+        {
+          "box": "13",
+          "label": "Credits and credit recapture",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Credit for estimated taxes"
+            },
+            {
+              "code": "B",
+              "label": "Credit for backup withholding"
+            },
+            {
+              "code": "C",
+              "label": "Low-income housing credit"
+            },
+            {
+              "code": "D",
+              "label": "Advanced manufacturing production credit"
+            },
+            {
+              "code": "E",
+              "label": "Clean electricity production credit"
+            },
+            {
+              "code": "F",
+              "label": "Work opportunity credit"
+            },
+            {
+              "code": "G",
+              "label": "Credit for small employer health insurance premiums"
+            },
+            {
+              "code": "H",
+              "label": "Biofuel producer credit"
+            },
+            {
+              "code": "I",
+              "label": "Credit for increasing research activities"
+            },
+            {
+              "code": "J",
+              "label": "Renewable electricity production credit"
+            },
+            {
+              "code": "K",
+              "label": "Empowerment zone employment credit"
+            },
+            {
+              "code": "L",
+              "label": "Clean fuel production credit"
+            },
+            {
+              "code": "M",
+              "label": "Orphan drug credit"
+            },
+            {
+              "code": "N",
+              "label": "Credit for employer-provided childcare facilities and services"
+            },
+            {
+              "code": "O",
+              "label": "Biodiesel and renewable diesel fuels credit"
+            },
+            {
+              "code": "P",
+              "label": "Credit to holders of tax credit bonds"
+            },
+            {
+              "code": "Q",
+              "label": "Credit for employer differential wage payments"
+            },
+            {
+              "code": "R",
+              "label": "Recapture of credits"
+            },
+            {
+              "code": "S",
+              "label": "Credit for production from advanced nuclear power facilities"
+            },
+            {
+              "code": "T",
+              "label": "Zero-emission nuclear power production credit"
+            },
+            {
+              "code": "ZZ",
+              "label": "Other credits"
+            }
+          ],
+          "codes_source": "Schedule K-1 (Form 1041) 2025, page 2 \u2014 the form's own printed code list, beside its \"Report on\" column",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/f1041sk1--2025.pdf"
+        },
+        {
+          "box": "14",
+          "label": "Other information",
+          "type": "code",
+          "codes": [
+            {
+              "code": "A",
+              "label": "Tax-exempt interest"
+            },
+            {
+              "code": "B",
+              "label": "Foreign taxes"
+            },
+            {
+              "code": "C",
+              "label": "Qualified rehabilitation expenditures"
+            },
+            {
+              "code": "D",
+              "label": "Basis of energy property"
+            },
+            {
+              "code": "E",
+              "label": "Net investment income"
+            },
+            {
+              "code": "F",
+              "label": "Gross farm and fishing income"
+            },
+            {
+              "code": "G",
+              "label": "Foreign trading gross receipts (Section 942(a))"
+            },
+            {
+              "code": "H",
+              "label": "Adjustment for section 1411 net investment income or deductions"
+            },
+            {
+              "code": "I",
+              "label": "Section 199A information"
+            },
+            {
+              "code": "J",
+              "label": "Qualifying advanced coal project property and qualifying gasification project property"
+            },
+            {
+              "code": "K",
+              "label": "Qualifying advanced energy project property"
+            },
+            {
+              "code": "L",
+              "label": "Advanced manufacturing investment property"
+            },
+            {
+              "code": "M",
+              "label": "Clean electricity investment credit"
+            },
+            {
+              "code": "ZZ",
+              "label": "Other information"
+            }
+          ],
+          "codes_source": "Schedule K-1 (Form 1041) 2025, page 2 \u2014 the form's own printed code list, beside its \"Report on\" column",
+          "codes_source_url": "https://www.irs.gov/pub/irs-prior/f1041sk1--2025.pdf"
+        },
+        {
+          "box": "G",
+          "label": "Beneficiary\u2019s name, address, city, state, and ZIP code",
+          "type": "identifier"
+        },
+        {
+          "box": "final-k-1",
+          "label": "Final K-1",
+          "type": "checkbox"
+        },
+        {
+          "box": "amended-k-1",
+          "label": "Amended K-1",
+          "type": "checkbox"
+        },
+        {
+          "box": "tax-year-beginning",
+          "label": "For calendar year 2025, or tax year beginning",
+          "type": "date"
+        },
+        {
+          "box": "tax-year-ending",
+          "label": "ending",
+          "type": "date"
+        },
+        {
+          "box": "A",
+          "label": "Estate\u2019s or trust\u2019s employer identification number",
+          "type": "identifier",
+          "note": "The entity key: Schedule E line 33 column (b)."
+        },
+        {
+          "box": "B",
+          "label": "Estate\u2019s or trust\u2019s name",
+          "type": "identifier",
+          "note": "Schedule E line 33 column (a)."
+        },
+        {
+          "box": "D",
+          "label": "Check if Form 1041-T was filed and enter the date it was filed",
+          "type": "checkbox",
+          "note": "Box 13 code A (credit for estimated taxes) depends on it."
+        },
+        {
+          "box": "D-date",
+          "label": "Check if Form 1041-T was filed and enter the date it was filed: date",
+          "type": "date"
+        }
+      ],
+      "notes": "PARTIAL DECLARATION \u2014 only the capital boxes. THIS K-1 PRINTS ITS OWN DESTINATIONS: page 2 carries a 'Report on' column reading '3. Net short-term capital gain \u2014 Schedule D, line 5' and '4a. Net long-term capital gain \u2014 Schedule D, line 12'. That is why the routes out of this document carry authority 'source'. Boxes 4b and 4c are rate-character breakouts of box 4a \u2014 see aggregate 'k1-1041.4a'.",
+      "produced_by": {
+        "entity_return": "Form 1041",
+        "entity": "estate or trust",
+        "issued_to": "each beneficiary",
+        "due": "15th day of the 4th month after year end (April 15 for a calendar year)"
+      },
+      "self_describing": "This form prints its own 'Report on' column on page 2, naming the destination line for every box and code. It is the only K-1 that does, and it is the only one that came back with ZERO routing errors under independent re-derivation. The other two hide their destinations in a separate 36-page instruction PDF and carried fifteen errors between them. Distance from the printed word is the variable.",
+      "belongs_to_this_return": {
+        "unless_fact": "k1_partner_is_this_return",
+        "identity_box": "G",
+        "held_because": "belongs_to_another_return",
+        "reads": [
+          "G",
+          "H"
+        ]
+      }
+    }
+  ],
+  "frozen": {
+    "version": "1.3.0",
+    "frozen_at": "2026-10-03",
+    "sha256": "d7285a4dfc5484de9dfa67e877c41cf3ce899ae07791071e756e32fddf5b9b70",
+    "covers": "the `documents` array \u2014 133 boxes, 443 codes",
+    "verified": {
+      "box_numbers": "84/84",
+      "box_labels": "84/84",
+      "live_codes": "363/363",
+      "reserved_markings": "80/80",
+      "by": "verify_interface.py \u2014 every box number, every box label, every code letter and every Reserved marking searched for in both renderings of the form and of its instructions",
+      "sources": [
+        "https://www.irs.gov/pub/irs-prior/f1065sk1--2025.pdf",
+        "https://www.irs.gov/pub/irs-prior/i1065sk1--2025.pdf",
+        "https://www.irs.gov/pub/irs-prior/f1120ssk--2025.pdf",
+        "https://www.irs.gov/pub/irs-prior/i1120ssk--2025.pdf",
+        "https://www.irs.gov/pub/irs-prior/f1041sk1--2025.pdf",
+        "https://www.irs.gov/pub/irs-prior/i1041sk1--2025.pdf"
+      ]
+    },
+    "how_to_change": "Edit, re-run verify_interface.py until clean, then `python3 freeze_interface.py <next version>`. build.py errors (E15) on a changed shape with an unchanged hash, so a silent edit cannot reach a consumer."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-a-cash-gift-without-a-bank-record-or-written-record",
+    "wording": "Is this a gift of cash or by check for which the taxpayer keeps neither a bank record nor a written record from the charity?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 no bank record and no written record"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 a bank record or written record is kept"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this a gift of cash or by check for which the taxpayer keeps neither a bank record nor a written record from the charity?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Line 11",
+        "revision": "2025",
+        "wording": "For any contribution made in cash, regardless of the amount, you must maintain as a record of the contribution a bank record (such as a canceled check or credit card statement) or a written record from the charity.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

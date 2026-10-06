@@ -1,0 +1,1808 @@
+Instructions for Form 1040-X
+(Rev. December 2025)
+
+Amended U.S. Individual Income Tax Return
+(Use With the December 2025 Revision of Form 1040-X)
+Section references are to the Internal Revenue Code unless
+otherwise noted.
+Contents
+
+Page
+
+Future Developments . . . . . . . . . . . . . . . . . . . . . . . . 1
+What’s New . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Reminders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+General Instructions . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Purpose of Form . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Which Revision To Use . . . . . . . . . . . . . . . . . . . . 3
+Interest and Penalties . . . . . . . . . . . . . . . . . . . . . 3
+When To File . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Special Situations . . . . . . . . . . . . . . . . . . . . . . . . 4
+Tracking Your Amended Return . . . . . . . . . . . . . . 5
+Specific Instructions . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Calendar or Fiscal Year . . . . . . . . . . . . . . . . . . . . 6
+Name, Current Address, and Social Security
+Number (SSN) . . . . . . . . . . . . . . . . . . . . . . . . 6
+Presidential Election Campaign . . . . . . . . . . . . . . 6
+Amended Return Filing Status . . . . . . . . . . . . . . . 6
+Lines 1 Through 30—Which Lines To
+Complete . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Columns A Through C . . . . . . . . . . . . . . . . . . . . . 7
+Income and Deductions . . . . . . . . . . . . . . . . . . . 7
+Line 1—Adjusted Gross Income . . . . . . . . . . . 7
+Line 2—Itemized Deductions or Standard
+Deduction . . . . . . . . . . . . . . . . . . . . . . . . 8
+Line 4b—Deductions for Tips, Overtime,
+Car Loan Interest, and Seniors From
+Schedule 1-A (Form 1040) . . . . . . . . . . . . 8
+Line 5—Taxable Income . . . . . . . . . . . . . . . . 8
+Tax Liability . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Line 6—Tax . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Line 7—Nonrefundable Credits . . . . . . . . . . . 8
+Line 10—Other Taxes . . . . . . . . . . . . . . . . . . 9
+Payments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Line 12—Withholding . . . . . . . . . . . . . . . . . . 9
+Line 13—Estimated Tax Payments . . . . . . . . . 9
+Line 14—Earned Income Credit (EIC) . . . . . . . 9
+Line 15—Refundable Credits . . . . . . . . . . . . . 9
+Line 16—Amount Paid With Extension or
+Tax Return . . . . . . . . . . . . . . . . . . . . . . . . 9
+Line 17—Total Payments . . . . . . . . . . . . . . . . 9
+Refund or Amount You Owe . . . . . . . . . . . . . . . . . 9
+Line 18—Overpayment . . . . . . . . . . . . . . . . 10
+Line 19—Amount Available To Pay
+Additional Tax . . . . . . . . . . . . . . . . . . . . . 10
+Line 20—Amount You Owe . . . . . . . . . . . . . 10
+
+Feb 27, 2026
+
+Contents
+
+Page
+
+Line 22—Overpayment Received as
+Refund . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Line 23—Overpayment Applied to
+Estimated Tax . . . . . . . . . . . . . . . . . . . . 10
+Part I—Dependents . . . . . . . . . . . . . . . . . . . . . . . . 10
+Part II—Explanation of Changes . . . . . . . . . . . . . . . 10
+Part III—Direct Deposit (for E-Filed Form 1040-X
+Only) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Sign Your Return . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Paid Preparer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Assembling Your Return . . . . . . . . . . . . . . . . . . . . . 11
+Where To File . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Low Income Taxpayer Clinics Help Taxpayers . . . . . . 13
+Paperwork Reduction Act Notice . . . . . . . . . . . . . . . 13
+
+Future Developments
+
+For the latest information about developments related to Form
+1040-X and its instructions, such as legislation enacted after
+they were published, go to IRS.gov/Form1040X.
+
+What’s New
+New attachment requirement. For paper-filed Forms 1040-X,
+you must attach, to your completed Form 1040-X, a completed
+and updated Form 1040, 1040-SR, or 1040-NR, with your
+changes. See Assembling Your Return, later.
+Form 4547, Trump Account Election(s). Do not attach Form
+4547 to Form 1040-X. See the Instructions for Form 4547 for
+more information on how to file Form 4547 after your return has
+been filed or go to trumpaccounts.gov.
+Line 4a and Line 4b. The qualified business income deduction
+is now discussed in Line 4a, later. Line 4b, later, discusses the
+new deductions for tips, overtime, car loan interest, and seniors
+on new Schedule 1-A (Form 1040).
+Form 8379, Injured Spouse Allocation. Form 8379 may be
+filed electronically by attaching it to an electronically filed Form
+1040-X even if the filer is not amending their tax return.
+State-declared disasters. If you were affected by a qualified
+State-declared disaster, you may have additional time to file a
+claim for credit or refund on your amended return. See
+State-declared disasters, later.
+Lookback period. The lookback period for claiming refunds
+and credits has been extended in certain situations. See Filing
+limits due to lookback period, later.
+Time to file for a refund or credit if you reported certain
+qualified wildfire relief payments as taxable income. The
+Federal Disaster Tax Relief Act of 2023 extended the time for
+certain taxpayers to amend their returns with respect to qualified
+wildfire relief payments they received and reported as income in
+tax years 2020 and 2021. Taxpayers only had until December
+12, 2025, or until the expiration of the period of limitations on
+filing a refund claim under section 6511 of the Internal Revenue
+
+Instructions for Form 1040-X (Rev. 12-2025) Catalog Number 11362H
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+Code for the relevant year, whichever is later, to file amended
+returns claiming a credit or refund. For tax years 2022 through
+2025, to claim a refund of any taxes paid on qualified wildfire
+relief payments, individuals have until the expiration of the period
+of limitations on filing a refund claim under section 6511(a) for
+the relevant year. See Q5 and A5 of Wildlife Relief Payments and
+Casualty Losses frequently asked questions at IRS.gov.
+Domestic research and experimental expenditures. P.L.
+119-21, commonly known as the One Big Beautiful Bill Act
+(OBBBA), added section 174A, Domestic Research or
+Experimental Expenditures. Under this new section, certain
+small business taxpayers have the option to elect to deduct
+certain unamortized amounts paid or incurred in tax years
+beginning after 2021 and before 2025. If you have already filed a
+tax return for the year, you will need to amend your return. The
+deadline for making the election is July 6, 2026. See Rev. Proc.
+2025-28 for more information.
+
+Reminders
+When to use these instructions. These instructions can be
+used with the December 2025 and later revisions of Form
+1040-X, unless later instructions state otherwise.
+Form 1040-X and its instructions were converted from an
+annual revision to continuous use in tax year 2021. The form and
+instructions will each be updated as required. For the most
+recent version, go to IRS.gov/Form1040X. See the forms,
+schedules, instructions, and publications for the year of the tax
+return you are amending for guidance on specific topics.
+Electronic filing available for Form 1040-X. You can file Form
+1040-X electronically with tax filing software to amend Forms
+1040, 1040-SR, and 1040-NR. Go to IRS.gov/Filing/AmendedReturn-Frequently-Asked-Questions for more information.
+Use these instructions with both the paper-filed Form
+
+TIP 1040-X and the electronically filed Form 1040-X.
+
+Extended time to file a claim for refund or credit. Under
+certain circumstances, you may have additional time to file an
+amended return to claim a refund or credit. For details, see
+Federally declared disasters, State-declared disasters, and
+Combat zones and contingency operations, later.
+
+General Instructions
+If you discover an error after filing your return, you may need to
+amend your return. Use Form 1040-X to correct a previously filed
+Form 1040, 1040-SR, or 1040-NR, or to change amounts
+previously adjusted by the IRS. You can also use Form 1040-X to
+make a claim for a carryback due to a loss or unused credit or
+make certain elections after the deadline.
+Many find the easiest way to figure the entries for Form
+TIP 1040-X is to first make the changes in the margin of the
+return they are amending.
+Completing Form 1040-X. On Form 1040-X, enter your
+income, deductions, and credits from your return as originally
+filed or as previously adjusted by either you or the IRS, the
+changes you are making, and the corrected amounts. Then,
+figure the tax on the corrected amount of taxable income and the
+amount you owe or your refund. File a separate Form 1040-X for
+each tax year you are amending.
+To complete Form 1040-X, you will need:
+• Form 1040-X and these separate instructions;
+• A copy of the return you are amending (for example, 2024
+Form 1040), including supporting forms, schedules, and any
+worksheets you completed;
+2
+
+• Additional supporting forms and schedules, and any
+worksheets for the return you are amending that you will need to
+complete to show your changes;
+• If applicable, a new Form 1040, 1040-SR, or 1040-NR for the
+return you are amending (see Resident and nonresident aliens
+below);
+• Notices from the IRS on any adjustments to that return; and
+• Instructions for the return you are amending. If you don't have
+the instructions, you can find them online at IRS.gov/Forms. To
+obtain the instructions for a prior year return, go to IRS.gov/
+Forms and click on the link for prior year instructions under
+“Other options.” You can also order paper copies of the
+instructions for your return at IRS.gov/OrderForms or by calling
+800-829-3676.
+
+Purpose of Form
+
+Use Form 1040-X to do the following.
+• Correct Form 1040, 1040-SR, or 1040-NR.
+• Make certain elections after the prescribed deadline (see
+Regulations sections 301.9100-1 through -3 for details).
+• Change amounts previously adjusted by the IRS. However,
+don’t include any interest or penalties on Form 1040-X; they will
+be adjusted accordingly.
+• Make a claim for a carryback due to a loss or unused credit.
+However, you may be able to use Form 1045, Application for
+Tentative Refund, instead of Form 1040-X. For more information,
+see Loss or credit carryback under When To File, later, and the
+discussion on carryback claims under Special Situations, later.
+File a separate Form 1040-X for each year you are amending.
+If you are changing your federal return, you may also need to
+change your state return.
+Resident and nonresident aliens. Use Form 1040-X to
+amend Form 1040-NR. Also use Form 1040-X if you should have
+filed Form 1040 instead of Form 1040-NR, or vice versa.
+If you are filing Form 1040-X on paper to amend Form
+1040-NR, or to file the correct return, do the following.
+• Enter your name, current address, and social security number
+(SSN) or individual taxpayer identification number (ITIN) on the
+front of Form 1040-X.
+• Don’t enter any other information on page 1. Also don’t
+complete Part I on page 2 of Form 1040-X.
+• Enter in Part II—Explanation of Changes the reason you are
+filing Form 1040-X.
+• Complete a new or corrected return (Form 1040, 1040-SR,
+1040-NR, etc.).
+• Across the top of the new or corrected return, write
+“Amended.”
+• Attach the new or corrected return to the back of Form
+1040-X.
+The above instructions apply to paper filing only. If you
+are electronically filing Form 1040-X to amend Form
+CAUTION 1040-NR, you must complete the Form 1040-X in its
+entirety.
+
+!
+
+If you file Form 1040-X claiming a refund or credit for
+more than the correct amount, you may be subject to a
+CAUTION penalty of 20% of the disallowed amount. See Penalty
+for erroneous claim for refund or credit under Interest and
+Penalties, later.
+
+!
+
+Don’t file Form 1040-X if you are requesting only a refund of
+penalties and interest or an addition to tax that you have already
+paid. Instead, file Form 843, Claim for Refund and Request for
+Abatement.
+Don’t file Form 1040-X to request a refund of your share of a
+joint overpayment that was offset against a past-due obligation
+of your spouse. Instead, file Form 8379, Injured Spouse
+Allocation. But if you are filing Form 1040-X to request an
+Instructions for Form 1040-X (Rev. December 2025)
+
+additional refund after filing Form 8379, see Injured spouse claim
+under Special Situations, later.
+
+Which Revision To Use
+
+Use these instructions with both the paper-filed Form 1040-X
+and the electronically filed amended return.
+
+Interest and Penalties
+Interest. The IRS will charge you interest on taxes not paid by
+their due date, even if you had an extension of time to file. The
+IRS will also charge you interest on penalties imposed for failure
+to file, negligence, fraud, substantial valuation misstatements,
+substantial understatements of income tax, and reportable
+transaction understatements. Interest is charged on the penalty
+from the due date of the return (including extensions).
+Penalty for late payment of tax. If you don’t pay the additional
+tax due on Form 1040-X within 21 calendar days from the date of
+notice and demand for payment (10 business days from that
+date if the amount of tax is $100,000 or more), the penalty is
+usually 1/2 of 1% of the unpaid amount for each month or part of
+a month the tax isn’t paid. The penalty can be as much as 25%
+of the unpaid amount and applies to any unpaid tax on the
+return. This penalty is in addition to interest charges on late
+payments. You won’t have to pay the penalty if you can show
+reasonable cause for not paying your tax on time.
+Penalty for erroneous claim for refund or credit. If you file a
+claim for refund or credit in excess of the correct amount, you
+may have to pay a penalty equal to 20% of the disallowed
+amount, unless you had reasonable cause for the claim. The
+penalty won’t be figured on any part of the disallowed amount of
+the claim on which accuracy-related or fraud penalties are
+charged.
+Penalty for frivolous return. In addition to any other penalties,
+the law imposes a penalty of $5,000 for filing a frivolous return. A
+frivolous return is one that doesn’t contain information needed to
+figure whether the reported tax is substantially correct or shows
+a substantially incorrect tax because you take a frivolous position
+or desire to delay or interfere with the tax laws. This includes
+altering or striking out the preprinted language above the space
+where you sign. For a list of positions identified as frivolous, see
+Notice 2010-33, 2010-17 I.R.B. 609, available at IRS.gov/irb/
+2010-17_IRB#NOT-2010-33.
+Other penalties. Other penalties can be imposed for
+negligence, substantial understatement of income tax,
+reportable transaction understatements, and fraud. See Pub. 17,
+Your Federal Income Tax, for more information.
+
+When To File
+
+File Form 1040-X only after you have filed your original return.
+You may amend your original return by filing Form 1040-X more
+than once, as long as each Form 1040-X is filed timely.
+Generally, for a credit or refund, you must file Form 1040-X within
+3 years (including extensions) after the date you filed your
+original return or within 2 years after the date you paid the tax,
+whichever is later. If you filed your original return early (for
+example, March 1 for a calendar year return), your return is
+considered filed on the due date (generally April 15). However, if
+you had an extension of time to file (for example, until October
+15) but you filed earlier and we received it on July 1, your return
+is considered filed on July 1. The time limit for filing a claim for
+credit or refund on a Form 1040-X can be suspended for certain
+people who are physically or mentally unable to manage their
+financial affairs. For details, see Pub. 556, Examination of
+Returns, Appeal Rights, and Claims for Refund.
+
+Instructions for Form 1040-X (Rev. December 2025)
+
+After the due date for an original return has passed,
+don't file any additional original returns for the same
+CAUTION year, even if you haven't received your refund or haven't
+heard from the IRS since you filed. Filing an additional original
+return after the due date or sending in more than one copy of the
+same return (unless we ask you to do so) could delay your
+refund.
+
+!
+
+Federally declared disasters. If you were affected by a
+federally declared disaster, you may have additional time to file a
+claim for credit or refund on your amended return. See Pub. 556
+and IRS.gov/Businesses/Small-Businesses-Self-Employed/
+Disaster-Assistance-and-Emergency-Relief-for-Individuals-andBusinesses for details. Also, see Filing limits due to lookback
+period below.
+State-declared disasters. If you were affected by a qualified
+State-declared disaster, you may have additional time to file a
+claim for credit or refund on your amended return. For these
+purposes, “State” includes the District of Columbia, Puerto Rico,
+the U.S. Virgin Islands, Guam, American Samoa, and the
+Northern Mariana Islands. This change applies to declarations
+made after July 24, 2025. See the Filing Relief for Natural
+Disasters Act for details. Also, see Filing limits due to lookback
+period below.
+Filing limits due to lookback period. The amount of a credit
+or refund on your amended return is limited to the amount of tax
+paid within a specified period immediately preceding the filing of
+the claim for credit or refund. That specified period is called the
+lookback period. When a taxpayer files a claim within 3 years of
+filing the taxpayer's return, the lookback period is equal to 3
+years plus the period of any "extension" of time for filing the
+return. Otherwise, the lookback period is the 2 years
+immediately preceding the filing of the claim for credit or refund.
+Income tax withheld and estimated tax are considered paid on
+the due date of the return (generally April 15th for calendar-year
+taxpayers).
+Special rules for certain claims filed after December 26,
+2025. The Disaster Related Extension of Deadlines Act,
+enacted December 26, 2025, recharacterizes “postponements”
+under section 7508A due to federally declared disasters,
+qualified State-declared disasters, significant fire, or terroristic or
+military actions, as extensions of time for filing the return. Thus, if
+a taxpayer has received a postponement under section 7508A
+due to a federally declared disaster, qualified State-declared
+disaster, significant fire, or terroristic or military action, the
+lookback period is equal to 3 years plus the period of that
+postponement. This recharacterization applies to claims filed
+after December 26, 2025.
+Notice 2023-21. For the following affected taxpayers, Notice
+2023-21 increases the lookback period when amending 2020
+returns to claim a credit or refund of taxes. Affected taxpayers
+are individual taxpayers whose returns were due on April 15,
+2021, and who did not receive a filing extension. An affected
+taxpayer who filed their 2020 return after April 15, 2021, but on
+or before May 17, 2021, because of the postponement provided
+by Notice 2021-21 may be refunded all income tax payments for
+2020 if they file their claim for refund within 3 years of the date
+they filed their original return. An affected taxpayer who filed their
+2020 return after May 17, 2021, may be refunded all income tax
+payments for 2020 if they file their claim for refund by Friday, May
+17, 2024.
+The additional time, provided in Notice 2023-21, to file an
+amended return is automatic. Taxpayers do not need to contact
+the IRS, file any form, or send letters or other documents to
+receive this relief.
+Time to file for a refund or credit if you reported certain
+qualified wildfire relief payments as taxable income. The
+Federal Disaster Tax Relief Act of 2023 extended the time for
+3
+
+certain taxpayers to amend their returns with respect to qualified
+wildfire relief payments they received and reported as income in
+tax years 2020 and 2021. Taxpayers only had until December
+12, 2025, or until the expiration of the period of limitations on
+filing a refund claim under section 6511 of the Internal Revenue
+Code for the relevant year, whichever is later, to file amended
+returns claiming a credit or refund. For tax years 2022 through
+2025, to claim a refund of any taxes paid on qualified wildfire
+relief payments, individuals have until the expiration of the period
+of limitations on filing a refund claim under section 6511(a) for
+the relevant year. See Q5 and A5 of Wildlife Relief Payments and
+Casualty Losses frequently asked questions, at IRS.gov. Also,
+see the 2025 Instructions for Form 4684, Casualties and Thefts;
+and the 2025 Pub. 547, Casualties, Disasters, and Thefts.
+Combat zones and contingency operations. The due date
+for claiming a credit or refund on your amended return may be
+automatically extended when you are in, or are hospitalized as a
+result of injuries sustained in, a combat zone or contingency
+operation. For more details, see Pub. 3, Armed Forces' Tax
+Guide.
+Bad debt or worthless security. A Form 1040-X to claim a
+credit or refund based on a bad debt or worthless security must
+generally be filed within 7 years after the due date of the return
+for the tax year in which the debt or security became worthless.
+For more details, see section 6511.
+Foreign tax credit or deduction. A Form 1040-X to claim a
+foreign tax credit or to change from claiming a deduction to
+claiming a credit for foreign income taxes must generally be filed
+within 10 years from the due date for filing the return (without
+regard to any extension of time to file) for the year in which the
+foreign income taxes were actually paid or accrued. A Form
+1040-X to claim a deduction or to change from claiming a credit
+to claiming a deduction for foreign income taxes must generally
+be filed within 3 years after the date you filed your original return
+or within 2 years after the date you paid the tax, whichever is
+later. The period for filing a Form 1040-X to claim or change an
+election to claim a foreign tax credit or deduction may be
+extended by an agreement. You make or change your election
+on your Form 1040-X for the year your election is to be effective.
+For details, see Pub. 514, Foreign Tax Credit for Individuals. The
+extended 10-year period for filing Form 1040-X to claim a foreign
+tax credit or to change from claiming a deduction to claiming a
+credit applies only to amounts affected by changes in your
+foreign tax credit. P.L. 119-21, section 70311, has modified the
+foreign tax credit. See the Instructions for Form 1116, Foreign
+Tax Credit, for more information.
+If you are filing Form 1040-X to carry back your unused
+foreign tax credit, follow the procedures under Loss or credit
+carryback next.
+Loss or credit carryback. File either Form 1040-X or Form
+1045 to apply for a refund based on either an overpayment of tax
+due to a claim of right adjustment under section 1341(b)(1) or
+the carryback of a net operating loss (NOL) (but see Net
+operating losses, later), a foreign tax credit, an unused general
+business credit, or a net section 1256 contracts loss. If you use
+Form 1040-X, see the special instructions for carryback claims in
+these instructions under Special Situations, later. File Form
+1040-X for each tax year to which an NOL, a capital loss
+carryback, a credit carryback, or a foreign tax credit is carried.
+Write or type “Carryback Claim” at the top of page 1. Form
+1040-X must generally be filed within 3 years after the due date
+of the return (including extensions) for the tax year in which the
+NOL, capital loss, or unused credit arose (within 10 years after
+the due date of the return (without extensions) for the tax year in
+which the foreign tax credit arose). If you use Form 1045, you
+must file the claim within 1 year after the end of the year in which
+
+4
+
+the loss, credit, or claim of right adjustment arose. For more
+details, see the Instructions for Form 1045.
+Net operating losses (NOLs). An individual must file Form
+1040-X instead of Form 1045 to carry back:
+• Any items to a section 965 year,
+• A prior year foreign tax credit released due to an NOL or net
+capital loss carryback, or
+• A prior year general business credit released because of the
+release of the foreign tax credit.
+See section 172 and Pub. 536 for information about NOLs.
+See Pub. 225, Farmer’s Tax Guide, for information on farming
+losses.
+
+Special Situations
+
+!
+
+You must attach all appropriate forms and schedules to
+Form 1040-X or it will be returned.
+
+CAUTION
+
+Many amended returns deal with situations that have special
+qualifications or special rules that must be followed. The items
+that follow give you this specialized information so your amended
+return can be filed and processed correctly.
+Only the special procedures are given here. Unless
+otherwise stated, you must still complete all appropriate
+CAUTION lines on Form 1040-X, as discussed under Line
+Instructions, later.
+
+!
+
+Additional Medicare Tax. If your Medicare wages, RRTA
+compensation, or self-employment income is adjusted, you may
+need to correct your liability, if any, for Additional Medicare Tax.
+When correcting Additional Medicare Tax liability, attach to Form
+1040-X a corrected Form 8959, and, if correcting Medicare
+wages or RRTA compensation, attach Form W-2, Wage and Tax
+Statement, or Form W-2c, Corrected Wage and Tax Statement.
+For more information, see the Instructions for Form 8959.
+Bipartisan Budget Act of 2015 (BBA) Partner Modification
+Amended Return. A partner in a BBA Partnership that has
+requested modification type “Amended Returns of Partners
+Under IRC Section 6225(c)(2)(A)” files a partner modification
+amended return. A partner modification amended return
+includes a partner amended return for the partner's first affected
+year and any prior or subsequent tax years impacted as a result
+of taking the partnership adjustments into account in the
+partner's first affected year. Such returns must include the
+payment of all tax, penalties, additions to tax, and interest due as
+a result of taking into account all partnership adjustments
+properly allocated to the partner, and including adjustments to
+any tax attributes affected by taking into account the partnership
+adjustments. You must write “BBA Partner Modification
+Amended Return” at the top of page 1 of all partner modification
+amended returns being filed (for e-filed amended returns, attach
+a statement). See Form 8982 for additional information and
+instructions.
+Attach a statement to each partner modification amended
+return that contains the following information.
+• Name of source partnership (which is the audited partnership
+requesting modification and from which you are receiving
+adjustments).
+• Taxpayer Identification number (TIN) of the source
+partnership.
+• Audit control number—obtain this number from the
+partnership representative of the source partnership.
+BBA Partner non-income tax changes reported on Form
+8986. Although the Form 8978 is used to figure changes to a
+partner's income tax as reported to them on Form 8986, any
+non-income tax changes that are related to the income tax
+adjustments on the Form 8986 received by the partner, such as
+self-employment tax or net investment income tax, should be
+Instructions for Form 1040-X (Rev. December 2025)
+
+reflected on an amended return for the partner's first affected
+year. Do not include the income tax changes on the Form
+1040-X. Instead, the Form 1040-X should reflect the original and
+correct amounts as originally reported (or as previously
+amended) on the Form 1040 such that there is no change
+between the original and correct amounts on lines 1–8.
+Complete any applicable forms for the non-income taxes such as
+the Schedule SE (Form 1040) (for self-employment taxes) or
+Form 8960 (for net investment income tax) including the
+adjustments reflected on the Form 8986 and figure the adjusted
+non-income taxes using the adjusted numbers. Report the
+corrected non-income taxes on line 10 of the Form 1040-X and
+figure the additional amount owed. The amended return should
+include a statement that explains how the change to non-income
+tax was figured, and the source of the adjustment in Part II of the
+Form 1040-X. See Form 8978 for additional information and
+instructions.
+Qualified Opportunity Investment. Attach to the back of Form
+1040-X any Form 8997, Initial and Annual Statement of Qualified
+Opportunity Fund (QOF) Investments, that supports changes
+made on this return if qualified investments were held during the
+year.
+Carryback claim—NOL. Write or type “Carryback Claim” at the
+top of page 1 of Form 1040-X. Attach a computation of your NOL
+using Schedule A (Form 1045) and a computation of any NOL
+carryover using Schedule B (Form 1045). A refund based on an
+NOL doesn’t include a refund of self-employment tax reported
+on Form 1040-X, line 10. Generally, interest won’t be paid on any
+NOL refund shown on an amended return processed within 45
+days of receipt. For details, see Pub. 536, Net Operating Losses
+(NOLs) for Individuals, Estates, and Trusts.
+Carryback claim—credits and other losses. Write or type
+“Carryback Claim” at the top of page 1 of Form 1040-X. Attach
+copies of the following.
+• Both pages of Form 1040 and Schedules A and D, if
+applicable, for the year in which the loss or credit originated.
+Write or type “Attachment to Form 1040-X—Copy Only—Do Not
+Process” at the top of these forms.
+• Any Schedules K-1 or K-3 you received from any partnership,
+S corporation, estate, or trust for the year of the loss or credit that
+contributed to the loss or credit carryback.
+• Any form or schedule from which the carryback results, such
+as Form 3800, General Business Credit; Form 1116; Form 6781,
+Gains and Losses From Section 1256 Contracts and Straddles;
+Form 4684, Casualties and Thefts; or Schedule C or F (Form
+1040).
+• Forms or schedules for items refigured in the carryback year,
+such as Form 6251, Alternative Minimum Tax—Individuals; Form
+3800; Schedule A (Form 1040); Schedule A (Form 1040-NR); or
+Form 8962, Premium Tax Credit.
+Carryback claim—change in filing status. If you were
+married and you didn’t have the same filing status (married filing
+jointly or married filing separately) for all of the years involved in
+figuring the loss or credit carryback, you may have to allocate
+income, deductions, and credits. For details, see the publication
+for the type of carryback you are claiming. For example, for NOL
+carrybacks, see Pub. 536.
+Section 174A. P.L. 119-21 added section 174A, which pertains
+to domestic research and experimental expenditures. Section
+174A(f)(2) allows an election to deduct certain unamortized
+amounts paid or incurred in tax years beginning after 2021 and
+before 2025. For more information about section 174A, see
+Revenue Procedure 2025-28.
+Casualty loss from a federally declared disaster. If you have
+a casualty loss attributable to a federally declared disaster, you
+may be able to elect to deduct the loss in the tax year
+immediately before the tax year the loss was sustained. The
+Instructions for Form 1040-X (Rev. December 2025)
+
+election must be made by filing your return or amended return for
+the preceding year, and claiming your disaster loss on it, no later
+than 6 months after the due date for filing your original return
+(without extensions) for the year in which the loss was sustained.
+For more information about this election, see the Instructions for
+Form 4684; and Rev. Proc. 2016-53, 2016-44 I.R.B. 530,
+available at IRS.gov/irb/2016-44_IRB#RP-2016-53.
+Deceased taxpayer. If filing Form 1040-X for a deceased
+taxpayer, write or type “Deceased,” the deceased taxpayer's
+name, and the date of death across the top of Form 1040-X,
+page 1.
+If you originally filed a joint return and you are filing Form
+1040-X to claim a refund with respect to that joint return as a
+surviving spouse, sign the return and enter “Filing as surviving
+spouse” in the area where you sign the return. If someone else is
+the personal representative, they must also sign.
+Claiming a refund for a deceased taxpayer. If you are filing
+a joint return as a surviving spouse, you only need to file Form
+1040-X to claim the refund. If you are a court-appointed personal
+representative or any other person claiming the refund, file Form
+1040-X and attach Form 1310, Statement of Person Claiming
+Refund Due a Deceased Taxpayer, and any other information
+required by its instructions. For more details, see Pub. 559,
+Survivors, Executors, and Administrators.
+Household employment taxes. If you are correcting an error
+in the employment taxes for household employees that you
+reported on a Schedule H previously filed with Form 1040,
+1040-SR, 1040-NR, or 1040-SS, attach a corrected Schedule H
+and include in Part II of Form 1040-X the date the error was
+discovered. If you filed Formulario 1040-PR, file a Form 1040-X
+and attach a corrected Anexo H-PR. If you owe tax, pay in full
+with this return. If you are changing the wages paid to an
+employee for whom you filed Form W-2, you must also file Form
+W-2c, and Form W-3c, Transmittal of Corrected Wage and Tax
+Statements, with the Social Security Administration. For more
+information, see Pub. 926 for the appropriate year.
+Injured spouse claim. If you filed a Form 8379 and are filing a
+Form 1040-X to request an additional refund, and you don’t want
+your portion of the overpayment to be applied (offset) against
+your spouse's past-due obligation(s), complete and attach
+another Form 8379 to allocate the additional refund.
+Signing your minor child's return. If your minor child can’t
+sign the return, either parent can sign the child's name in the
+space provided. Enter “By (your signature), parent for minor
+child.”
+Tax shelters. If you are amending your return to disclose
+information for a reportable transaction in which you participated,
+attach Form 8886, Reportable Transaction Disclosure
+Statement.
+Wrongfully incarcerated individuals. Certain amounts you
+receive due to wrongful incarceration may be excluded from
+gross income. If you included these amounts in income in a prior
+year, you may be able to amend your return to claim a refund or
+credit against your tax. For the latest information, go to IRS.gov/
+newsroom/irs-updates-frequently-asked-questions-related-towrongful-incarceration.
+
+Tracking Your Amended Return
+
+You should generally allow 8 to 12 weeks for Form 1040-X to be
+processed. However, in some cases, processing could take up
+to 16 weeks. Go to Where's My Amended Return on IRS.gov to
+track the status of your amended return. It can take up to 3
+weeks from the date you mail it to show up in our system. You will
+need to provide the following information.
+• Your TIN (for most taxpayers, that is their SSN).
+• Your date of birth.
+5
+
+• Your ZIP code or postal code.
+
+Specific Instructions
+Line Instructions
+Calendar or Fiscal Year
+
+Determine the calendar year or fiscal year of the return you are
+amending.
+Above your name, enter, as applicable, that calendar year or
+fiscal year you are amending.
+
+Name, Current Address, and Social Security
+Number (SSN)
+
+If you and your spouse are amending a joint return, list your
+names and SSNs in the same order as shown on the original
+return. If you are changing from a separate to a joint return and
+your spouse didn’t file an original return, enter your name and
+SSN first.
+Change of address. If you have moved since you filed your
+original return, enter your current address on Form 1040-X.
+
+P.O. box. Enter your box number only if your post office doesn’t
+deliver mail to your home.
+Foreign address. If you have a foreign address, enter the city
+name on the appropriate line. Don’t enter any other information
+on that line, but also complete the spaces below that line. Don’t
+abbreviate the country name. Follow the country's practice for
+entering the postal code and the name of the province, county, or
+state.
+ITINs for aliens. If you don’t have an SSN, but you already
+have an ITIN, enter it instead of an SSN. If you are a nonresident
+or resident alien and you don’t have or aren’t eligible to get an
+SSN, you must apply for an ITIN. It takes about 7 weeks to get
+an ITIN. For more information on ITINs, including application,
+expiration, and renewal, see Form W-7 and its instructions.
+
+Presidential Election Campaign
+
+You can use Form 1040-X to designate $3 to the Presidential
+Election Campaign Fund if you, or your spouse if filing jointly,
+didn't previously want $3 to go to this fund but now do. Checking
+a checkbox for the Presidential Election Campaign Fund will not
+change your tax or refund. This designation must be done within
+201/2 months after the original due date for filing the return. A
+previous designation of $3 to the fund can’t be changed.
+
+Amended Return Filing Status
+
+Check the box that corresponds to your filing status on this
+return. You must check one box even if you are not changing
+your filing status. If this is a change from the filing status on your
+original return, the following information may apply to you.
+For information about marital status, see Pub. 501,
+
+TIP Dependents, Standard Deduction, and Filing
+Information.
+
+In general, you can’t change your filing status from a joint
+return to separate returns after the due date of the
+CAUTION original return.
+
+!
+
+Changing from a separate to a joint return. If you are
+married and file a separate return, you generally report only your
+own income, deductions, and credits. Generally, you are
+responsible only for the tax on your own income. If you file a joint
+return, both you and your spouse (or former spouse) are
+generally responsible for the tax and interest or penalties due on
+6
+
+the return. This means that if one spouse doesn't pay the tax
+due, the other may have to. Or, if one spouse doesn't report the
+correct tax, both spouses may be responsible for any additional
+taxes assessed by the IRS. However, you may qualify for
+innocent spouse relief. For details about innocent spouse relief,
+see Form 8857, Request for Innocent Spouse Relief; or Pub.
+971, Innocent Spouse Relief. If you are changing from a
+separate to a joint return, in Part II of Form 1040-X, you should
+enter “Changing the filing status” as a reason for amending your
+Form 1040 or 1040-SR. See You are changing from a separate
+to a joint return under Lines 1 Through 30—Which Lines To
+Complete, later, for more details.
+Changing to head of household filing status. If the
+qualifying person is a child but not your dependent, enter the
+child’s name in the space provided under the filing status
+checkboxes. In Part II of Form 1040-X, you should state
+“Changing the filing status” as a reason for amending your Form
+1040 or 1040-SR.
+
+!
+
+Generally, married people can’t file as head of
+household. But, for an exception, see Pub. 501.
+
+CAUTION
+
+Changing to married filing separately or qualifying surviving spouse filing status. If you check the box for married filing
+separately, enter your spouse's name in the space provided
+below the filing status checkboxes. If your spouse doesn't have
+and isn't required to have an SSN or ITIN, enter “NRA” next to
+their name in the entry space below the filing status checkboxes.
+If you check the box for qualifying surviving spouse, and the
+qualifying person is a child but not your dependent, enter the
+child's name in the space provided under the filing status
+checkboxes. Do not enter the child’s name anywhere else on the
+form. In Part II of Form 1040-X, you should state “Changing the
+filing status” as a reason for amending your Form 1040 or
+1040-SR.
+For 2022 and later, the filing status qualifying widow(er)
+
+TIP is called qualifying surviving spouse. The rules for the
+
+filing status have not changed. The same rules that
+applied to qualifying widow(er) apply to qualifying surviving
+spouse.
+
+Lines 1 Through 30—Which Lines To Complete
+
+Before looking at the instructions for specific lines, the following
+information may point you in the right direction for completing
+Form 1040-X.
+
+You need information about income, deductions, etc. If you
+have questions such as what income is taxable or what
+expenses are deductible, the instructions for the form you are
+amending should help. Also use those instructions to find the
+method you should use to figure the correct tax. To get prior year
+forms, schedules, instructions, or publications, download them
+from IRS.gov/FormsPubs or call 800-829-3676.
+You are only changing information. If you aren’t changing
+any dollar amounts you originally reported, but are changing
+information and the rules in Resident and nonresident aliens,
+earlier, don’t apply, do the following on your Form 1040-X.
+• Enter the calendar year or fiscal year you are amending.
+• Complete name, current address, and SSN (or ITIN, if
+applicable).
+• Check a box in Presidential Election Campaign, if applicable.
+• Complete Part I—Dependents, on page 2, if you are changing
+your dependent.
+• Complete Part II—Explanation of Changes.
+You are changing from a separate to a joint return. If you
+and your spouse are changing from separate returns to a joint
+return, follow these steps.
+Instructions for Form 1040-X (Rev. December 2025)
+
+1. Enter in column A the amounts from your return as
+originally filed or as previously adjusted (either by you or the
+IRS).
+2. To determine the amounts to enter in column B, combine
+the amounts from your spouse’s return as originally filed (or as
+previously adjusted) with any other changes you or your spouse
+is making. If your spouse didn’t file an original return, include
+your spouse’s income, deductions, credits, other taxes, etc., in
+the amounts you enter in column B.
+3. Read the instructions for column C to figure the amounts
+to enter in that column.
+4. Both of you must sign and date Form 1040-X.
+You are changing amounts on your original return or as
+previously adjusted by the IRS. Because Form 1040-X can
+be used for so many purposes, it is sometimes difficult to know
+which part(s) of the form to fill out. Unless other specific
+instructions or rules apply to your return, such as those under
+Resident and nonresident aliens, earlier, applicable to paper
+filers, follow the rules below when completing your Form 1040-X.
+• Always complete the top of page 1 through Amended return
+filing status.
+• Check a box in Presidential Election Campaign, if applicable.
+• Complete the lines shown in the charts under Columns A
+Through C below according to what you are changing.
+• Complete Part II—Explanation of Changes.
+• Sign and date the form.
+
+Columns A Through C
+Column A. Enter the amounts from your original return, unless
+any of the following apply.
+1. You previously amended that return.
+2. You were audited and changes were made to your
+originally filed return.
+3. You received a notice from the IRS advising they made
+changes to your return.
+In any of these cases, column A needs to reflect the amount to
+which your originally filed return was adjusted.
+Example. If the IRS changed your taxable income by
+unreported income of $10,000, making your taxable income
+$100,000, then column A taxable income should be $100,000,
+not the originally filed amount.
+Column B. Enter the net increase or decrease for each line that
+you are changing.
+Explain each change in Part II. If you need more space, attach
+a statement. Attach any schedule or form relating to the change.
+For example, attach Schedule A (Form 1040) if you are
+amending a 2024 Form 1040 to itemize deductions. If you are
+amending your return because you received another Form W-2,
+attach a copy of the new Form W-2. Don’t attach items unless
+required to do so.
+Column C. To figure the amounts to enter in this column:
+• Add the increase in column B to the amount in column A, or
+• Subtract the decrease in column B from the amount in
+column A.
+For any item you don’t change, enter the amount from column
+A in column C.
+Note. Show any negative numbers (losses or decreases) in
+column A, B, or C in parentheses.
+Example. You originally reported $21,000 as your adjusted
+gross income on your 2024 Form 1040. You received another
+Form W-2 for $500 after you filed your return. Line 1 of Form
+1040-X should be completed as follows.
+Instructions for Form 1040-X (Rev. December 2025)
+
+A. Original
+amount
+
+B. Net change
+
+C. Correct
+amount
+
+21,000
+
+500
+
+21,500
+
+Line 1
+
+You would also report any additional federal income tax
+withheld on line 12 in column B.
+See the tax return for the year you are amending to find the
+corresponding lines on your original return.
+IF you are changing only...
+
+THEN complete Form 1040-X...
+
+filing status
+
+lines 1–23.
+
+income
+
+lines 1–23.
+
+adjustments to income
+
+lines 1–23.
+
+itemized or standard deductions
+
+lines 1–23.
+
+qualified business income
+deduction
+
+lines 4a–23.
+
+deductions for tips, overtime, car
+loan interest, or seniors from
+Schedule 1-A (Form 1040)
+
+lines 4a–23.
+
+tax before credits
+
+lines 5–23.
+
+nonrefundable credits
+
+lines 6–23.
+
+other taxes
+
+lines 6–23.
+
+payments and refundable credits
+
+lines 11–23.
+
+Income and Deductions
+Line 1—Adjusted Gross Income
+Enter your adjusted gross income (AGI), which is the total of your
+income minus certain deductions (adjustments). Any change to
+the income or adjustments on the return you are amending will
+be reflected on this line.
+A change you make to your AGI can cause other amounts to
+increase or decrease. For example, depending on the tax year,
+changing your AGI can change your:
+• Credit for child and dependent care expenses, child tax credit,
+education credits, retirement savings contributions credit, or
+premium tax credit;
+• Allowable charitable contributions deduction or the taxable
+amount of social security benefits; or
+• Total itemized deductions.
+If you change your AGI, refigure the items listed above (if
+applicable), and any other deduction or credit you are claiming
+that has a limit based on AGI.
+Complete and attach any applicable forms and schedules to
+support the amounts you refigured.
+Correcting your wages or other employee compensation.
+Attach a copy of all additional or corrected Forms W-2 you
+received after you filed your original return. Also attach any
+additional or corrected Forms 1099-R, Distributions From
+Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs,
+Insurance Contracts, etc., that show federal income tax withheld.
+7
+
+Changing your IRA deduction. In Part II of Form 1040-X,
+enter “IRA deduction” and the amount of the increase or
+decrease. If changing from a deductible to a nondeductible IRA
+contribution, also complete and attach Form 8606,
+Nondeductible IRAs.
+
+Line 2—Itemized Deductions or Standard
+Deduction
+
+Line 5—Taxable Income
+If the taxable income on the return you are amending is $0 and
+you have made changes on Form 1040-X, line 1, 2, or 4b, enter
+on line 5, column A, the actual taxable income instead of $0.
+Enclose a negative amount in parentheses. The amounts in
+columns A and B can be less than zero. However, if the result for
+column C is zero or less, you must enter -0- in column C.
+
+Itemized deductions. If you itemized your deductions, enter in
+column A the total from your original Schedule A or your
+deduction as previously adjusted by the IRS. If you are now
+itemizing your deductions instead of using the standard
+deduction, or you have changed the amount of any deduction, or
+your AGI limitations have changed any deduction, attach a copy
+of the corrected Schedule A to this amended return.
+
+Example. You showed $0 taxable income on your original
+return, even though you actually had a loss of $1,000. You later
+discovered you had additional income of $2,000. Your Form
+1040-X, line 5, would show ($1,000) in column A, $2,000 in
+column B, and $1,000 in column C. If you failed to take into
+account the loss you actually had on your original return, you
+would report $2,000 in column C and possibly overstate your tax
+liability.
+
+Standard deduction. If you are using the standard deduction,
+enter the amount for your filing status for the year you are
+amending. Remember that the standard deduction for all years
+can be increased for the age and/or blindness of the taxpayer(s).
+
+Tax Liability
+Line 6—Tax
+
+Charitable deduction. If you are taking the standard deduction
+in 2021, you (or you and your spouse if filing jointly) may be able
+to claim a charitable deduction for certain cash contributions. For
+amended 2021 returns, any adjustments to this deduction
+should be made to your standard deduction amount on line 2.
+For adjustments to the cash charitable deduction for any year,
+refer to the tax return instructions for the year of the return you
+are amending to determine the limits on amounts of cash
+contributions you can claim for that year. See Pub. 526 (for the
+year of the return you are amending) for the definition of what
+qualifies as a cash contribution and for information on the types
+of organizations that qualify. Also see Pub. 526 (for the year of
+the return you are amending) for information on whether this
+deduction is available on your amended return.
+If you had a net qualified disaster loss and you elect to
+
+TIP increase your standard deduction by the amount of your
+
+net qualified disaster loss, use Schedule A to figure your
+standard deduction. Qualified disaster loss refers to losses
+arising from certain disasters. For more information, see the
+Instructions for Form 4684 and the Instructions for Schedule A
+filed with your original return for the tax year of the return you are
+amending.
+
+Line 4a—Qualified Business Income Deduction
+See the instructions for the year of the form you are amending.
+Also see the instructions for Forms 8995 and 8995-A for more
+information for figuring and reporting your qualified business
+income deduction.
+
+Line 4b—Deductions for Tips, Overtime, Car Loan
+Interest, and Seniors From Schedule 1-A (Form
+1040)
+If claiming any of these deductions, attach your Schedule 1-A.
+See the instructions for Schedule 1-A (Form 1040) found in the
+Instructions for Form 1040 for the year of the form you are
+amending.
+Schedule 1-A and these deductions were introduced in
+
+TIP 2025.
+
+!
+
+Include on line 6 the amount you reported on Schedule 2
+(Form 1040), line 3, for the year you are amending.
+
+CAUTION
+
+Figure the tax on your taxable income shown on line 5,
+column C. Generally, you will use the method(s) you used to
+figure the tax on your original return. However, you may need to
+change to a different method if, for example, you amend your
+return to include or change the amount of certain types of
+income, such as capital gains or qualified dividends.
+See the instructions for the income tax return you are
+amending to find the appropriate method(s), tax table, and
+worksheet, if necessary. Indicate the method(s) you used to
+figure the tax entered on line 6, as shown in the chart below.
+Attach the schedule or form(s), if any, that you used to figure
+your revised tax. Don’t attach worksheets.
+
+IF you figured the corrected tax using...
+
+THEN enter on the
+dotted line on
+line 6...
+
+Tax Table
+
+Table.
+
+Tax Computation Worksheet
+
+TCW.
+
+Schedule D Tax Worksheet
+
+Sch D.
+
+Schedule J (Form 1040)
+
+Sch J.
+
+Qualified Dividends and Capital Gain
+Tax Worksheet
+
+QDCGTW.
+
+Foreign Earned Income Tax Worksheet
+
+FEITW.
+
+Form 8615, Tax for Certain Children Who
+Have Unearned Income
+
+F8615.
+
+Any changes you made to Form 1040-X, lines 1 through
+6, may affect the amount of or cause you to owe
+CAUTION alternative minimum tax. See the instructions for the
+form and year you are amending.
+
+!
+
+Line 7—Nonrefundable Credits
+Enter your total nonrefundable credits in column A.
+Nonrefundable credits are those that reduce your tax, but any
+excess isn’t refunded to you.
+8
+
+Instructions for Form 1040-X (Rev. December 2025)
+
+If you made any changes to Form 1040-X, lines 1 through 6,
+be sure to refigure your original credits. Attach the appropriate
+forms for the credits you are adding or changing.
+Credit for qualifying children and other dependents. If you
+are amending a return with a retroactive claim of the child tax
+credit, you must have an SSN valid for employment issued for
+the child before the due date for filing the return you are
+amending, including extensions. If you are amending a return
+with a retroactive claim of the credit for other dependents, the
+dependent you claim must have been issued an SSN, ITIN, or
+adoption taxpayer identification number (ATIN) on or before the
+due date for filing the return you are amending, including
+extensions. Your child tax credit may be refundable. For
+additional information, see Schedule 8812 (Form 1040) and its
+instructions for the year of the tax return you are amending.
+
+SSN required. If you didn't have an SSN on or before the due
+date of your return for the tax year being amended (including
+extensions), you can't claim the EIC on your amended return.
+Also, if a child didn't have an SSN on or before the due date of
+your return for the tax year being amended (including
+extensions), you can't count that child as a qualifying child in
+figuring the amount of the EIC on your amended return.
+
+Line 15—Refundable Credits
+
+Line 9—Reserved for Future Use
+
+A refundable credit can give you a refund for any part of a credit
+that is more than your total tax. Enter, in column A, the total of
+the refundable credits from Schedule 8812 (Form 1040), Form
+8863, the recovery rebate (as applicable), and Schedule 3 (Form
+1040) for the year you are amending. Check as applicable the
+boxes for Schedule 8812 (Form 1040), and Forms 2439, 4136,
+8885, 8863, and 8962.
+
+This line is reserved for future use. Do not enter an amount on
+this line.
+
+If you are amending your return to claim or change a
+refundable credit, attach the appropriate schedule(s) or form(s).
+
+Line 10—Other Taxes
+
+In addition, in the blank area after “other (specify),” list all of
+your refundable credits for which there is not a checkbox. Include
+the form number for the credit if there is one.
+
+Enter in column A the amount you reported on the line for total
+other taxes from Schedule 2 (Form 1040) for the year you are
+amending.
+If you made any changes to Form 1040-X, lines 1 through 6,
+you may need to refigure other taxes that were included in the
+same section on your original return.
+
+Payments
+Line 12—Withholding
+In column A, enter from the return you are amending any federal
+income tax withheld and any excess social security and tier 1
+RRTA tax withheld (SS/RRTA).
+If you are changing your withholding or excess SS/RRTA,
+attach to the front of Form 1040-X a copy of all additional or
+corrected Forms W-2 you received after you filed your original
+return. Also attach additional or corrected Forms 1099-R that
+show any federal income tax withheld.
+
+Line 13—Estimated Tax Payments
+In column A, enter the estimated tax payments you claimed on
+your original return. If you filed Form 1040-C, U.S. Departing
+Alien Income Tax Return, include on this line the amount you
+paid as the balance due with that return. Also include any of your
+prior year's overpayment that you elected to apply to estimated
+tax payments for the year you are amending.
+
+SSN required. If you are amending a return with a retroactive
+claim of the refundable child tax credit or the additional child tax
+credit, you must have an SSN valid for employment issued for
+the child before the due date for filing the return, including
+extensions. For additional information, see Schedule 8812 (Form
+1040) and its instructions for the year of the tax return you are
+amending.
+
+Line 16—Amount Paid With Extension or Tax
+Return
+On this line, enter the total of the following amounts.
+• Any amount paid with your request for an extension on Form
+4868, Application for Automatic Extension of Time To File U.S.
+Individual Income Tax Return; or Form 2350, Application for
+Extension of Time To File U.S. Income Tax Return. Also include
+any amount paid electronically in connection with an extension of
+time to file, but don’t include the convenience fee you were
+charged.
+• The amount you paid with your original return, regardless of
+method. Also include any additional payments you made after it
+was filed. However, don’t include payments of interest or
+penalties, or the convenience fee you were charged.
+Example. You are filing Form 1040-X to amend your 2024
+tax return. You sent a check for $1,500 with your original return,
+reflecting a payment of $1,400 in taxes and a $100 estimated tax
+penalty. When completing Form 1040-X, enter $1,400 on line 16
+(the check sent with the original return minus the $100 penalty).
+
+Line 14—Earned Income Credit (EIC)
+
+Line 17—Total Payments
+
+Enter the amount you reported on the line for the EIC on Form
+1040 or 1040-SR for the year you are amending in column A. If
+you are amending your return to claim the EIC and you have a
+qualifying child, attach Schedule EIC (Form 1040). If you
+changed the amount on line 1 or line 5, the amount of any EIC
+you claimed on your original return may change. For more
+information regarding the EIC, see Pub. 596 for the year you are
+amending.
+
+Include any amounts from Form 8689, Allocation of Individual
+Income Tax to the U.S. Virgin Islands, that are being included in
+the total payments line on your Form 1040 or 1040-SR. For
+additional information, see Form 8689 for the year of the tax
+return you are amending.
+
+If you are amending your EIC based on a nontaxable combat
+pay election, enter “nontaxable combat pay” and the amount in
+Part II of Form 1040-X.
+Instructions for Form 1040-X (Rev. December 2025)
+
+Refund or Amount You Owe
+
+The purpose of this section is to figure the additional tax you owe
+or excess amount you have paid (overpayment). All of your
+payments (for the tax year you are amending) received up to the
+date of this amended return are taken into account, as well as
+any overpayment on your original return or after adjustment by
+9
+
+the IRS. It is as if you were using the new information to
+complete your original return. If the results show a larger
+overpayment than before, the difference between the two
+becomes your new overpayment. You can choose to receive the
+refund or apply it to your estimated tax for the following year. In
+either case, it can be used by the IRS to pay other federal or
+state debts that still exist. If the results show that you owe, it is
+because you don’t have enough additional withholding or
+because filing your original return with the information you have
+now would have resulted in a smaller overpayment or a balance
+due.
+
+Line 18—Overpayment
+
+Line 23—Overpayment Applied to Estimated Tax
+Enter on line 23 the amount, if any, from line 21 you want applied
+to your estimated tax for next year. Also enter that tax year in the
+space provided. No interest will be paid on this amount.
+If you owe past-due federal or state debts, all or part of your
+overpayment will be used to pay the past-due amounts. You will
+receive a notice if any of your overpayment has been applied to
+past-due amounts, so you will know how much was applied to
+your estimated tax.
+
+!
+
+You can’t change your election to apply part or all of the
+overpayment on line 21 to next year's estimated tax.
+
+CAUTION
+
+Enter the overpayment from your original return. If your original
+return was changed by the IRS and the result was an additional
+overpayment of tax, also include that amount on line 18. Don’t
+include interest you received on any refund. Any additional
+refund you are entitled to on Form 1040-X will be sent separately
+from any refund you haven’t yet received from your original
+return.
+
+Part I—Dependents
+
+Line 19—Amount Available To Pay Additional Tax
+
+Line 30—Dependents
+
+If line 18 is larger than line 17, line 19 will be negative. You will
+owe additional tax. To figure the amount owed, treat the amount
+on line 19 as positive and add it to the amount on line 11. Enter
+the result on line 20.
+
+Line 20—Amount You Owe
+The IRS recommends paying the amount due on line 20
+electronically whenever possible. If you file Form 1040-X
+electronically, you can simultaneously authorize the Treasury to
+make an electronic withdrawal (direct debit) for the balance due.
+You can also make a secure payment:
+
+• Online using Direct Pay, cash, or your IRS online account; or
+• Online or by phone using the Electronic Federal Tax Payment
+
+System (EFTPS), a debit card, a credit card, or a digital wallet
+such as Click to Pay, PayPal, or Venmo.
+
+Go to www.irs.gov/Payments/pay-by-check-or-money-order
+for details on paying by check or money order.
+See the Amount you owe section in your income tax return
+instructions or go to IRS.gov/Payments for additional details on
+payment options.
+If you elected to apply any part of an overpayment on
+your original return to your next year's estimated tax, you
+CAUTION can’t reverse that election on your amended return.
+
+!
+
+Line 22—Overpayment Received as Refund
+The refund amount on line 22 will be sent separately from any
+refund you claimed on your original return (see Line 18, earlier).
+We will figure any interest and include it in your refund.
+You will receive a check for any refund due to you. A refund
+on a paper-filed amended return can’t be deposited directly to
+your bank account.
+If you owe past-due federal or state debts, all or part of your
+overpayment will be used to pay the past-due amounts. You will
+receive a notice if any of your overpayment has been applied to
+past-due amounts.
+10
+
+Lines 24, 26, 28, and 29—Reserved for Future
+Use
+
+These lines are reserved for future use. Do not enter an amount
+on these lines.
+
+List all dependents claimed on this amended return. This
+includes:
+• Dependents claimed on your original return who are still being
+claimed on this return, and
+• Dependents not claimed on your original return who are being
+added to this return.
+See Dependents, in the instructions for the tax return for the
+year you are amending, for more information.
+
+Part II—Explanation of Changes
+
+The IRS needs to know why you are filing Form 1040-X. For
+example, you:
+• Received another Form W-2 after you filed your return,
+• Forgot to claim the child tax credit or the credit for other
+dependents,
+• Changed your filing status from qualifying surviving spouse to
+head of household,
+• Are carrying a credit to an earlier year,
+• Are claiming a tax benefit from recently enacted legislation for
+disaster relief, or
+• Are filing Form 8379 electronically by attaching it to an
+electronically filed Form 1040-X, even though you are not
+amending your tax return.
+
+Part III—Direct Deposit (for E-Filed
+Form 1040-X Only)
+Form 8379 may be filed electronically by attaching it to
+
+TIP an electronically filed Form 1040-X even if the filer is not
+amending their tax return.
+
+Beginning in February 2023, if you electronically file a Form
+1040-X for tax year 2021 or later, you may request your refund
+be directly deposited into your checking or savings account.
+If you want us to directly deposit the amount shown on line 22
+to your checking or savings account at a bank or other financial
+institution (such as a credit union) in the United States:
+• Complete lines 31 through 33 on Form 1040-X (if you want
+your refund deposited to only one account); or
+• Check the box on Form 1040, 1040-SR, or 1040-NR, line 35a,
+and attach Form 8888, Allocation of Refund, if you want to split
+the direct deposit into more than one account.
+The account must be in your name. Don't request a deposit of
+your refund to an account, such as your tax return preparer's
+Instructions for Form 1040-X (Rev. December 2025)
+
+account, that isn't in your name. For example, although you may
+owe your tax return preparer a fee for preparing your return, you
+should not have any part of your refund deposited into the
+preparer's account to pay the fee.
+A direct deposit will be issued using the banking information
+on Form 1040-X. Do not complete lines 35b through 35d on
+Form 1040, 1040-SR, or 1040-NR.
+If an account issue prevents a direct deposit, a refund will be
+issued by paper check to the most recent address.
+
+Sign Your Return
+
+Form 1040-X isn't considered a valid return unless you sign it in
+accordance with the requirements in these instructions. If you
+are filing an amended joint return, your spouse must also sign. If
+your spouse can't sign the return, see Pub. 501. Be sure to date
+your return and enter your occupation(s). If you have someone
+prepare your amended return, you are still responsible for the
+correctness of the amended return. If your amended return is
+signed by a representative for you, you must have a power of
+attorney attached that specifically authorizes the representative
+to sign your amended return. To do this, you can use Form 2848.
+If you are filing an amended joint return as a surviving spouse,
+see Death of a Taxpayer in the instructions for your original tax
+return.
+Identity Protection Personal Identification Number (IP PIN).
+If you received an IP PIN from the IRS, enter it in the IP PIN
+spaces provided next to the box for your occupation on your
+Form 1040-X. You must correctly enter all six numbers of your IP
+PIN. If you didn't receive an IP PIN, leave these spaces blank.
+All taxpayers are now eligible for an IP PIN. For more
+TIP information, see Pub. 5477. To apply for an IP PIN, go to
+IRS.gov/IPPIN and use the Get an IP PIN tool.
+If you are filing an amended joint return and each taxpayer will
+receive an IP PIN, enter your IP PIN in the space provided next
+to the box for your occupation on your Form 1040-X. Enter the
+spouse's IP PIN in the space provided next to the box for the
+spouse's occupation.
+If you need more information, including how to retrieve your IP
+PIN online, go to IRS.gov/IPPIN. If you are unable to retrieve your
+IP PIN online, call 800-908-4490.
+New IP PINs are generated every year. They will
+generally be sent out by mid-January. Use this IP PIN on
+CAUTION any Form 1040-X you file.
+
+!
+
+Requirements for a Paper Return
+
+You must handwrite your signature on your return if you file it on
+paper. Digital, electronic, or typed-font signatures are not valid
+signatures for Forms 1040-X filed on paper.
+
+Requirements for an Electronic Return
+
+To file your return electronically, you must sign the return
+electronically using a personal identification number (PIN) and
+provide the information described below. If you are filing online
+using software, you must use a Self-Select PIN. If you are filing
+electronically using a tax practitioner, you can use a Self-Select
+PIN or a Practitioner PIN. If we issued you an IP PIN for the year,
+all six digits of your IP PIN must appear in the IP PIN spaces
+provided next to the space for your occupation for your electronic
+signature to be complete. Do not use an IP PIN from a prior year,
+even if amending a return filed in a prior year. Failure to include
+an issued IP PIN on the electronic return will result in an invalid
+signature and a rejected return. If you are filing a joint return and
+both taxpayers were issued IP PINs, enter both IP PINs in the
+spaces provided.
+Instructions for Form 1040-X (Rev. December 2025)
+
+Self-Select PIN. The Self-Select PIN method allows you to
+create your own PIN. If you are married filing jointly, you and your
+spouse will each need to create a PIN and enter these PINs as
+your electronic signatures.
+A PIN is any combination of five digits you choose except five
+zeros. If you use a PIN, there is nothing to sign and nothing to
+mail—not even your Forms W-2.
+Your electronic return is considered a validly signed return
+only when it includes your PIN; last name; date of birth; IP PIN, if
+applicable; and AGI from your originally filed prior year federal
+income tax return, if applicable. If you're filing jointly, your
+electronic return must also include your spouse's PIN; last name;
+date of birth; IP PIN, if applicable; and AGI, if applicable, in order
+to be considered validly signed. Don't use your AGI from an
+amended return (Form 1040-X) or a math error correction made
+by the IRS. Your AGI from your prior year return is generally the
+amount shown on the federal income tax return you filed last
+year that was due last year. For example, when filing an
+amended return in 2023, enter the amount from your 2021 Form
+1040 ,1040-SR, or 1040-NR, line 11, that you filed in 2022. If you
+didn't file a prior year income tax return, or we have not yet
+processed or only recently processed your prior year tax return,
+enter “$0” as the prior year AGI verification. If you don't have your
+prior year income tax return, call the IRS at 800-908-9946 to get
+a free transcript of your return or go to IRS.gov/Transcript. If you
+filed electronically last year, you, and your spouse if filing jointly,
+may use your prior year PIN to verify your identity instead of your
+prior year AGI. The prior year PIN is the five-digit PIN you used to
+electronically sign your prior year return.
+Practitioner PIN. The Practitioner PIN method allows you to
+authorize your tax practitioner to enter or generate your PIN.
+Your electronic return is considered a validly signed return only
+when it includes your PIN; last name; date of birth; and IP PIN, if
+applicable. If you're filing jointly, your electronic return must, in
+order to be considered validly signed, also include your spouse's
+PIN; last name; date of birth; and IP PIN, if applicable. The
+practitioner can provide you with details.
+
+Paid Preparer
+
+Generally, anyone you pay to prepare your amended return must
+sign it and include their Preparer Tax Identification Number
+(PTIN) in the space provided. The preparer must give you a copy
+of the amended return for your records. Someone who prepares
+your amended return but doesn’t charge you shouldn’t sign.
+
+Assembling Your Return
+For e-filed Forms 1040-X, your software will continue to
+
+TIP select the order of your forms and attachments. For
+paper-filed Forms 1040-X, see below.
+
+You must place behind your completed paper-filed Form
+1040-X a completed and updated Form 1040, 1040-SR, or
+1040-NR with the changes you are submitting.
+For paper-filed Forms 1040-X, assemble any new or changed
+schedules and forms behind your completed, updated Form
+1040, 1040-SR, or 1040-NR in the order of the “Attachment
+Sequence No.” shown in the upper-right corner of the schedule
+or form. If you have supporting statements, arrange them in the
+same order as the schedules or forms they support and attach
+them last. Don’t attach a copy of your original return,
+correspondence, or other items unless required to do so.
+Attach to the front of Form 1040-X:
+
+• A copy of any Form W-2; Form W-2c; or Form 2439, Notice to
+
+Shareholder of Undistributed Long-Term Capital Gains, that
+supports changes made on this return;
+
+11
+
+• A copy of any Form W-2G, Certain Gambling Winnings; or
+Form 1099-R that supports changes made on this return, but
+only if tax was withheld; and
+• A copy of any Form 1042-S, Foreign Person's U.S. Source
+Income Subject to Withholding; Form SSA-1042S, Social
+Security Benefit Statement (Nonresident Aliens); Form
+RRB-1042S, Payments by the Railroad Retirement Board
+(Nonresident Aliens); or Form 8288-A, Statement of Withholding
+on Dispositions by Foreign Persons of U.S. Real Property
+Interests, that supports changes made on this return.
+Attach to the back of Form 1040-X any Form 8805, Foreign
+Partner's Information Statement of Section 1446 Withholding
+Tax, that supports changes made on this return.
+If you owe tax and you don’t want to pay electronically,
+enclose (don’t attach) your check or money order in the
+envelope with your amended return. See Line 20, earlier.
+
+Where To File
+
+You can file Form 1040-X electronically with tax filing software to
+amend Forms 1040, 1040-SR, and 1040-NR. Go to IRS.gov/
+Filing/Amended-Return-Frequently-Asked-Questions for more
+information.
+If you are amending your return on paper because of any of
+the situations listed next, use the corresponding address.
+IF you are filing
+Form 1040-X...
+in response to a notice you
+received from the IRS
+with Form 1040-NR or
+1040-NR-EZ
+
+THEN mail Form 1040-X
+and attachments to...
+the address shown
+in the notice.
+Department of the Treasury
+Internal Revenue Service
+Austin, TX 73301-0215
+
+If none of the situations listed above apply to you, mail your
+amended return to the Internal Revenue Service Center shown
+next that applies to you.
+
+IF you live in...
+
+THEN mail Form 1040-X
+and attachments to...
+
+Alabama, Arkansas, Florida,
+Georgia, Louisiana, Mississippi,
+Oklahoma, or Texas
+
+Department of the Treasury
+Internal Revenue Service
+Austin, TX 73301-0052
+
+Alaska, Arizona, California,
+Colorado, Hawaii, Idaho, Iowa,
+Kansas, Michigan, Montana,
+Nebraska, Nevada, New Mexico,
+North Dakota, Ohio, Oregon,
+South Dakota, Utah, Washington,
+or Wyoming
+
+Department of the Treasury
+Internal Revenue Service
+Ogden, UT 84201-0052
+
+Connecticut, Delaware, District of
+Columbia, Illinois, Indiana,
+Kentucky, Maine, Maryland,
+Massachusetts, Minnesota,
+Missouri, New Hampshire, New
+Jersey, New York, North Carolina,
+Pennsylvania, Rhode Island,
+South Carolina, Tennessee,
+Vermont, Virginia, West Virginia, or
+Wisconsin
+
+Department of the Treasury
+Internal Revenue Service
+Kansas City, MO 64999-0052
+
+A foreign country, U.S. territory;* or
+use an APO or FPO address, or
+file Form 2555 or 4563, or are a
+dual-status alien
+
+Department of the Treasury
+Internal Revenue Service
+Austin, TX 73301-0215
+
+*If you live in American Samoa, Puerto Rico, Guam, the U.S. Virgin Islands, or
+the Commonwealth of the Northern Mariana Islands, see Pub. 570.
+
+Private delivery services (PDSs). Taxpayers can use certain
+PDSs designated by the IRS to meet the “timely mailing as timely
+filing” rule for tax returns. Go to IRS.gov/PDS for the current list
+of designated services.
+The PDS can tell you how to get written proof of the mailing
+date.
+For the IRS mailing address to use if you’re using a PDS, go
+to IRS.gov/PDSStreetAddresses.
+PDSs can’t deliver items to P.O. boxes. You must use the
+U.S. Postal Service to mail any item to an IRS P.O. box
+CAUTION address.
+
+!
+
+————————————————————————
+Below is a message to you from the Taxpayer Advocate
+Service, an independent organization established by Congress.
+
+The Taxpayer Advocate Service (TAS) Is Here To
+Help You
+What Is the Taxpayer Advocate Service?
+The Taxpayer Advocate Service (TAS) is an independent
+organization within the Internal Revenue Service (IRS). TAS
+helps taxpayers resolve problems with the IRS, makes
+administrative and legislative recommendations to prevent or
+correct the problems, and protects taxpayer rights. We work to
+ensure that every taxpayer is treated fairly and that you know and
+understand your rights under the Taxpayer Bill of Rights. We are
+Your Voice at the IRS.
+
+How Can TAS Help Me?
+TAS can help you resolve problems that you haven’t been able to
+resolve with the IRS on your own. Always try to resolve your
+problem with the IRS first, but if you can’t, then come to TAS.
+Our services are free.
+12
+
+Instructions for Form 1040-X (Rev. December 2025)
+
+• TAS helps all taxpayers (and their representatives), including
+individuals, businesses, and exempt organizations. You may be
+eligible for TAS help if your IRS problem is causing financial
+difficulty, if you’ve tried and been unable to resolve your issue
+with the IRS, or if you believe an IRS system, process, or
+procedure just isn’t working as it should.
+• To get help any time with general tax topics, visit
+www.TaxpayerAdvocate.IRS.gov.The site can help you with
+common tax issues and situations, such as what to do if you
+make a mistake on your return or if you get a notice from the IRS.
+• TAS works to resolve large-scale (systemic) problems that
+affect many taxpayers. You can report systemic issues at
+www.IRS.gov/SAMS. (Be sure not to include any personal
+identifiable information.)
+How Do I Contact TAS?
+TAS has offices in every state, the District of Columbia, and
+Puerto Rico. To find your local advocate’s number:
+• Go to www.TaxpayerAdvocate.IRS.gov/Contact-Us,
+• Check your local directory, or
+• Call TAS toll free at 877-777-4778.
+
+What Are My Rights as a Taxpayer?
+The Taxpayer Bill of Rights describes ten basic rights that all
+taxpayers have when dealing with the IRS. Go to
+www.TaxpayerAdvocate.IRS.gov/Taxpayer-Rights for more
+information about the rights, what they mean to you, and how
+they apply to specific situations you may encounter with the IRS.
+TAS strives to protect taxpayer rights and ensure the IRS is
+administering the tax law in a fair and equitable way.
+
+Low Income Taxpayer Clinics Help
+Taxpayers
+
+Low Income Taxpayer Clinics (LITCs) are independent from the
+Internal Revenue Service (IRS) and the Taxpayer Advocate
+Service (TAS). LITCs represent individuals whose income is
+below a certain level and who need to resolve tax problems with
+the IRS. LITCs can represent taxpayers in audits, appeals, and
+tax collection disputes before the IRS and in court. In addition,
+LITCs can provide information about taxpayer rights and
+responsibilities in different languages for individuals who speak
+English as a second language. Services are offered for free or a
+small fee. For more information or to find an LITC near you, see
+the LITC page at TaxpayerAdvocate.IRS.gov/LITCmap or IRS
+Publication 4134, Low Income Taxpayer Clinic List. This
+publication is available online at IRS.gov/FormsPubs or by
+calling the IRS toll free at 800-TAX-FORM (800-829-3676).
+
+the information. We need it to ensure that you are complying with
+these laws and to allow us to figure and collect the right amount
+of tax.
+You are not required to provide the information requested on
+a form that is subject to the Paperwork Reduction Act unless the
+form displays a valid OMB control number. Books or records
+relating to a form or its instructions must be retained as long as
+their contents may become material in the administration of any
+Internal Revenue law. Generally, tax returns and return
+information are confidential, as required by section 6103.
+We welcome comments on forms. If you have comments
+concerning the accuracy of the time estimates or suggestions for
+making this form simpler, we would be happy to hear from you.
+You can send us comments from IRS.gov/FormComments. Or
+you can send your comments to the Internal Revenue Service,
+Tax Forms and Publications Division, 1111 Constitution Ave.
+NW, IR-6526, Washington, DC 20224. Don’t send your Form
+1040-X to this office.
+
+Estimates of Taxpayer Burden
+
+The table below shows burden estimates as of November 2022
+for taxpayers filing a Form 1040-X tax return.
+Reported time and cost burden is a national average and
+does not necessarily reflect a “typical” case. Most taxpayers
+experience lower than average burden, with taxpayer burden
+varying considerably by taxpayer type. The estimated average
+time burden for all taxpayers filing a Form 1040-X is 9 hours, with
+an average cost of $200 per return. This average includes all
+associated forms and schedules, across all preparation methods
+and taxpayer activities. There is significant variation in taxpayer
+activity within these estimates.
+Out-of-pocket costs include any expenses incurred by
+taxpayers to prepare and submit their tax returns. Examples
+include tax return preparation and submission fees, postage and
+photocopying costs, and tax preparation software costs. Tax
+preparation fees vary widely depending on the tax situation of
+the taxpayer, the type of professional preparer, and the
+geographic area.
+If you have comments concerning the time and cost estimates
+below, you can contact us at either one of the addresses shown
+under We welcome comments on forms, earlier.
+Estimates of Taxpayer Burden
+All 1040-X
+Taxpayers
+
+Average Time Burden
+(Hours)
+
+Average Cost
+(Dollars)
+
+9
+
+$230
+
+Paperwork Reduction Act Notice
+
+We ask for the information on this form to carry out the Internal
+Revenue laws of the United States. You are required to give us
+
+Instructions for Form 1040-X (Rev. December 2025)
+
+13
+
+

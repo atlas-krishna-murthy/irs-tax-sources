@@ -1,0 +1,786 @@
+{
+  "form": {
+    "id": "schedule-e",
+    "form": "Schedule E (Form 1040)",
+    "title": "Supplemental Income and Loss",
+    "kind": "schedule",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040se--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1040se",
+    "face_totals": {
+      "total_income": {
+        "after": "4",
+        "caption": "Total income (rents and royalties)"
+      },
+      "total_expenses": "20",
+      "net": "21",
+      "_why": "The CPA (2026-10-04): income at the top, a total income, the expenses, a total expenses, the net at the bottom. Names which of the form's own lines are those totals; the sheet computes none of them."
+    },
+    "lines": [
+      {
+        "line": "3",
+        "caption": "Rents received",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "rents_received",
+          "schedule_c_equivalent": "1"
+        },
+        "sources": {
+          "grain": "activity",
+          "whole": "client_record",
+          "parts_are": "included_in_whole",
+          "check": "parts_le_whole",
+          "tolerance": {
+            "default": "0.00",
+            "whole_dollar_source": "0.99"
+          },
+          "on_check_fail": "hold",
+          "without_whole": "hold",
+          "citation": {
+            "form": "Instructions for Schedule E (Form 1040)",
+            "line": "Line 3",
+            "revision": "2025",
+            "wording": "If you received rental income from real estate (including personal property leased with real estate), report the income on line 3. Use a separate column (A, B, or C) for each rental property. Include income received for renting a room or other space. Any other income should be included and reported on line 3, with a statement attached to your return.",
+            "source_url": "https://www.irs.gov/pub/irs-prior/i1040se--2025.pdf"
+          },
+          "note": "HOLD, not `sum_parts`, and this is the one line where they differ. Rent a tenant pays directly is reported by no information return at all, and a property manager's 1099-MISC box 1 covers only what the MANAGER collected \u2014 so a 1099 is a floor that can be far below the truth, and stating it as the year's rent understates the property with every total footing. `Any other income should be included` is the instruction's own way of saying the form is not the measure."
+        },
+        "section": "Income",
+        "net": "+"
+      },
+      {
+        "line": "4",
+        "caption": "Royalties received",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "royalties_received",
+          "schedule_c_equivalent": null
+        },
+        "sources": {
+          "grain": "activity",
+          "whole": "client_record",
+          "parts_are": "included_in_whole",
+          "check": "parts_le_whole",
+          "tolerance": {
+            "default": "0.00",
+            "whole_dollar_source": "0.99"
+          },
+          "on_check_fail": "hold",
+          "without_whole": "sum_parts",
+          "citation": {
+            "form": "Instructions for Schedule E (Form 1040)",
+            "line": "Line 4",
+            "revision": "2025",
+            "wording": "If you received $10 or more in royalties during 2025, the payer should send you a Form 1099-MISC or similar statement by January 31, 2026, showing the amount you received. Report this amount on line 4.",
+            "source_url": "https://www.irs.gov/pub/irs-prior/i1040se--2025.pdf"
+          },
+          "note": "`sum_parts` where rent holds, because the instruction names the form as the measure \u2014 *report this amount on line 4* \u2014 and a royalty has a payer who must report it, where a tenant has not. The figure summed is the GROSS: severance tax and depletion are deductions taken further down, not reasons to report less than box 2."
+        },
+        "section": "Income",
+        "net": "+",
+        "rules": [],
+        "no_rule_because": {
+          "form": "Instructions for Schedule E (Form 1040)",
+          "line": "Line 4",
+          "revision": "2025",
+          "wording": "Enter on line 4 the gross amount of royalty income, even if state or local taxes were withheld from oil or gas payments you received.",
+          "source_url": "https://www.irs.gov/pub/irs-prior/i1040se--2025.pdf"
+        }
+      },
+      {
+        "line": "26",
+        "caption": "Total rental real estate and royalty income or (loss). Combine lines 24 and 25. Enter the result here. If Parts II, III, and IV, and line 40 on page 2 do not apply to you, also enter this amount on Schedule 1 (Form 1040), line 5. Otherwise, include this amount in the total on line 41 on page 2",
+        "type": "money"
+      },
+      {
+        "line": "41",
+        "caption": "Total income or (loss). Combine lines 26, 32, 37, 39, and 40. Enter the result here and on Schedule 1 (Form 1040), line 5",
+        "type": "money"
+      },
+      {
+        "line": "A",
+        "caption": "Did you make any payments in 2025 that would require you to file Form(s) 1099? See instructions",
+        "type": "checkbox",
+        "identity_item": [
+          {
+            "box": "payments_requiring_1099",
+            "label": "Did you make any payments in 2025 that would require you to file Form(s) 1099? See instructions",
+            "type": "checkbox"
+          }
+        ]
+      },
+      {
+        "line": "B",
+        "caption": "If \u201cYes,\u201d did you or will you file required Form(s) 1099?",
+        "type": "checkbox",
+        "identity_item": [
+          {
+            "box": "filed_required_1099s",
+            "label": "If \u201cYes,\u201d did you or will you file required Form(s) 1099?",
+            "type": "checkbox"
+          }
+        ]
+      },
+      {
+        "line": "1a",
+        "caption": "Physical address of each property (street, city, state, ZIP code)",
+        "type": "text",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "identity_item": [
+          {
+            "box": "property_address",
+            "label": "Physical address of each property (street, city, state, ZIP code)",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "line": "1b",
+        "caption": "Type of Property (from list below)",
+        "type": "code",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "note": "Type of Property: 1 Single Family Residence, 2 Multi-Family Residence, 3 Vacation/Short-Term Rental, 4 Commercial, 5 Land, 6 Royalties, 7 Self-Rental, 8 Other (describe)",
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "identity_item": [
+          {
+            "box": "property_type",
+            "label": "Type of Property (from list below)",
+            "type": "code"
+          }
+        ]
+      },
+      {
+        "line": "2",
+        "caption": "For each rental real estate property listed above, report the number of fair rental and personal use days. Check the QJV box only if you meet the requirements to file as a qualified joint venture. See instructions.",
+        "type": "count",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "note": "Three sub-columns: Fair Rental Days, Personal Use Days, QJV.",
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "identity_item": [
+          {
+            "box": "fair_rental_days",
+            "label": "Fair Rental Days",
+            "type": "integer",
+            "fact": "fair_rental_days"
+          },
+          {
+            "box": "personal_use_days",
+            "label": "Personal Use Days",
+            "type": "integer",
+            "fact": "personal_use_days"
+          },
+          {
+            "box": "qjv",
+            "label": "QJV",
+            "type": "checkbox",
+            "fact": "qualified_joint_venture"
+          }
+        ]
+      },
+      {
+        "line": "5",
+        "caption": "Advertising",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "advertising",
+          "schedule_c_equivalent": "8"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "6",
+        "caption": "Auto and travel (see instructions)",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "auto_and_travel",
+          "schedule_c_equivalent": "9"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "7",
+        "caption": "Cleaning and maintenance",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "cleaning_and_maintenance",
+          "schedule_c_equivalent": "21"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "8",
+        "caption": "Commissions",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "commissions",
+          "schedule_c_equivalent": "10"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "9",
+        "caption": "Insurance",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "insurance",
+          "schedule_c_equivalent": "15"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "10",
+        "caption": "Legal and other professional fees",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "legal_and_other_professional_fees",
+          "schedule_c_equivalent": "17"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "11",
+        "caption": "Management fees",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "management_fees",
+          "schedule_c_equivalent": "10"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "12",
+        "caption": "Mortgage interest paid to banks, etc. (see instructions)",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "mortgage_interest",
+          "schedule_c_equivalent": "16a"
+        },
+        "sources": {
+          "grain": "activity",
+          "whole": "client_record",
+          "parts_are": "included_in_whole",
+          "check": "parts_le_whole",
+          "tolerance": {
+            "default": "0.00",
+            "whole_dollar_source": "0.99"
+          },
+          "on_check_fail": "hold",
+          "without_whole": "sum_parts",
+          "citation": {
+            "form": "Instructions for Schedule E (Form 1040)",
+            "line": "Lines 12 and 13, How to report",
+            "revision": "2025",
+            "wording": "If you paid $600 or more in interest on a mortgage during 2025, the recipient should send you a Form 1098 or similar statement by January 31, 2026, showing the total interest received from you. If you paid more mortgage interest than is shown on your Form 1098 or similar statement, see Pub. 334 regarding deduction limits to find out if you can deduct part or all of the additional interest.",
+            "source_url": "https://www.irs.gov/pub/irs-prior/i1040se--2025.pdf"
+          },
+          "note": "THE INSTRUCTION ANTICIPATES BOTH SIDES OF THE CHECK. The 1098 shows *the total interest received from you*, so it is a part of the client's own figure \u2014 and the paragraph then contemplates the client having paid MORE than the form shows, which is the check holding rather than failing. Two loans on one property are two Forms 1098 and one record line; summing all three states the interest nearly twice."
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "13",
+        "caption": "Other interest",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "other_interest",
+          "schedule_c_equivalent": "16b"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "14",
+        "caption": "Repairs",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "repairs",
+          "schedule_c_equivalent": "21"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "15",
+        "caption": "Supplies",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "supplies",
+          "schedule_c_equivalent": "22"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "16",
+        "caption": "Taxes",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "taxes",
+          "schedule_c_equivalent": "23"
+        },
+        "sources": {
+          "grain": "activity",
+          "whole": "client_record",
+          "parts_are": "included_in_whole",
+          "check": "parts_le_whole",
+          "tolerance": {
+            "default": "0.00",
+            "whole_dollar_source": "0.99"
+          },
+          "on_check_fail": "hold",
+          "without_whole": "sum_parts",
+          "citation": {
+            "form": "Schedule E (Form 1040)",
+            "line": "16",
+            "revision": "2025",
+            "wording": "Taxes",
+            "source_url": "https://www.irs.gov/pub/irs-prior/f1040se--2025.pdf"
+          },
+          "note": "THE CITATION IS THE LINE'S OWN PRINTED CAPTION, and that is a finding rather than a shortcut: the 2025 Schedule E instructions carry no paragraph for line 16 at all, so there is no instruction text to quote and inventing one would be the opposite of FR-030. The parts are the escrowed real estate tax a lender reports in Form 1098 box 10 and the county's own bill; the whole is what the client recorded paying."
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "17",
+        "caption": "Utilities",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "utilities",
+          "schedule_c_equivalent": "25"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "18",
+        "caption": "Depreciation expense or depletion",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "depreciation_or_depletion",
+          "question": "Is this a computed depreciation figure (Form 4562), rather than the cost of improvements made this year?",
+          "schedule_c_equivalent": "13"
+        },
+        "section": "Expenses",
+        "net": "-",
+        "identity_item": [
+          {
+            "box": "capital_item_description",
+            "label": "A capital item bought for the rental property: its description",
+            "type": "text"
+          },
+          {
+            "box": "capital_item_placed_in_service_date",
+            "label": "A capital item bought for the rental property: month and year placed in service",
+            "type": "date"
+          }
+        ]
+      },
+      {
+        "line": "19",
+        "caption": "Other (list)",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address.",
+        "client_item": {
+          "box": "other_expenses",
+          "schedule_c_equivalent": "48"
+        },
+        "section": "Expenses",
+        "net": "-"
+      },
+      {
+        "line": "20",
+        "caption": "Total expenses. Add lines 5 through 19",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address."
+      },
+      {
+        "line": "21",
+        "caption": "Subtract line 20 from line 3 (rents) and/or 4 (royalties). If result is a (loss), see instructions to find out if you must file Form 6198",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address."
+      },
+      {
+        "line": "22",
+        "caption": "Deductible rental real estate loss after limitation, if any, on Form 8582 (see instructions)",
+        "type": "money",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "notes": "COLUMNS A/B/C ARE THREE PROPERTIES, NOT THREE KINDS OF FIGURE. Part I is transposed against every other table in this map: here the LINES are the fields (rents, insurance, repairs) and the columns are the instances, where on line 28 the columns are the fields and each row is an entity. A route cannot name which property a 1099-MISC belongs to \u2014 that is a grouping made at build time from the documents in hand \u2014 so an instance column is not part of an address."
+      },
+      {
+        "line": "23a",
+        "caption": "Total of all amounts reported on line 3 for all rental properties",
+        "type": "money"
+      },
+      {
+        "line": "23b",
+        "caption": "Total of all amounts reported on line 4 for all royalty properties",
+        "type": "money"
+      },
+      {
+        "line": "23c",
+        "caption": "Total of all amounts reported on line 12 for all properties",
+        "type": "money"
+      },
+      {
+        "line": "23d",
+        "caption": "Total of all amounts reported on line 18 for all properties",
+        "type": "money"
+      },
+      {
+        "line": "23e",
+        "caption": "Total of all amounts reported on line 20 for all properties",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Income. Add positive amounts shown on line 21. Do not include any losses",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Losses. Add royalty losses from line 21 and rental real estate losses from line 22. Enter total losses here",
+        "type": "money"
+      },
+      {
+        "line": "27",
+        "caption": "Are you reporting any loss not allowed in a prior year due to the at-risk or basis limitations, a prior year unallowed loss from a passive activity (if that loss was not reported on Form 8582), or unreimbursed partnership expenses? If you answered \u201cYes,\u201d see instructions before completing this section",
+        "type": "checkbox"
+      },
+      {
+        "line": "28",
+        "short": "Partnerships and S corporations (Schedule K-1)",
+        "caption": "(a) Name (b) Enter P for partnership; S for S corporation (c) Check if foreign partnership (d) Employer identification number (e) Check if basis computation is required (f) Check if any amount is not at risk",
+        "type": "text",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "k"
+        ],
+        "note": "Columns (g) Passive loss allowed (attach Form 8582 if required); (h) Passive income from Schedule K-1; (i) Nonpassive loss allowed (see Schedule K-1); (j) Section 179 expense deduction from Form 4562; (k) Nonpassive income from Schedule K-1. Columns (g) and (h) are the passive side; (i), (j) and (k) the nonpassive side.",
+        "column_captions": {
+          "g": "Passive loss allowed",
+          "h": "Passive income",
+          "i": "Nonpassive loss allowed",
+          "j": "Section 179 expense deduction",
+          "k": "Nonpassive income"
+        }
+      },
+      {
+        "line": "29a",
+        "caption": "Totals",
+        "type": "money",
+        "columns": [
+          "h",
+          "k"
+        ]
+      },
+      {
+        "line": "29b",
+        "caption": "Totals",
+        "type": "money",
+        "columns": [
+          "g",
+          "i",
+          "j"
+        ]
+      },
+      {
+        "line": "30",
+        "caption": "Add columns (h) and (k) of line 29a",
+        "type": "money"
+      },
+      {
+        "line": "31",
+        "caption": "Add columns (g), (i), and (j) of line 29b",
+        "type": "money"
+      },
+      {
+        "line": "32",
+        "caption": "Total partnership and S corporation income or (loss). Combine lines 30 and 31",
+        "type": "money"
+      },
+      {
+        "line": "33",
+        "caption": "(a) Name (b) Employer identification number",
+        "type": "text",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f"
+        ],
+        "note": "Columns (c) Passive deduction or loss allowed (attach Form 8582 if required); (d) Passive income from Schedule K-1; (e) Deduction or loss from Schedule K-1; (f) Other income from Schedule K-1. Columns (c) and (d) are the passive side; (e) and (f) the nonpassive side."
+      },
+      {
+        "line": "34a",
+        "caption": "Totals",
+        "type": "money",
+        "columns": [
+          "d",
+          "f"
+        ]
+      },
+      {
+        "line": "34b",
+        "caption": "Totals",
+        "type": "money",
+        "columns": [
+          "c",
+          "e"
+        ]
+      },
+      {
+        "line": "35",
+        "caption": "Add columns (d) and (f) of line 34a",
+        "type": "money"
+      },
+      {
+        "line": "36",
+        "caption": "Add columns (c) and (e) of line 34b",
+        "type": "money"
+      },
+      {
+        "line": "37",
+        "caption": "Total estate and trust income or (loss). Combine lines 35 and 36",
+        "type": "money"
+      },
+      {
+        "line": "38",
+        "caption": "(a) Name (b) Employer identification number (c) Excess inclusion from Schedules Q, line 2c (see instructions) (d) Taxable income (net loss) from Schedules Q, line 1b (e) Income from Schedules Q, line 3b",
+        "type": "text",
+        "columns": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      {
+        "line": "39",
+        "caption": "Combine columns (d) and (e) only. Enter the result here and include in the total on line 41 below",
+        "type": "money"
+      },
+      {
+        "line": "40",
+        "caption": "Net farm rental income or (loss) from Form 4835. Also, complete line 42 below",
+        "type": "money"
+      },
+      {
+        "line": "42",
+        "caption": "Reconciliation of farming and fishing income. Enter your gross farming and fishing income reported on Form 4835, line 7; Schedule K-1 (Form 1065), box 14, code B; Schedule K-1 (Form 1120-S), box 17, code AN; and Schedule K-1 (Form 1041), box 14, code F. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "43",
+        "caption": "Reconciliation for real estate professionals. If you were a real estate professional (see instructions), enter the net income or (loss) you reported anywhere on Form 1040, Form 1040-SR, or Form 1040-NR from all rental real estate activities in which you materially participated under the passive activity loss rules",
+        "type": "money"
+      },
+      {
+        "line": "1b-other",
+        "caption": "Other (describe)",
+        "type": "text",
+        "columns": [
+          "A",
+          "B",
+          "C"
+        ],
+        "columns_are": "instances",
+        "identity_item": [
+          {
+            "box": "property_type_other_description",
+            "label": "Other (describe)",
+            "type": "text"
+          }
+        ],
+        "notes": "The description that property type code 8 requires: \"Enter code \u201c8\u201d if the property is not one of the other types listed on the form. Attach a statement to your return describing the property.\" (i1040se)."
+      }
+    ],
+    "client_item_note": "`schedule_c_equivalent` is the Schedule C line a client's item goes to instead when the activity's `rent_character` is `significant_services` or `personal_property_business` \u2014 a bed-and-breakfast or an equipment-hire business is a TRADE, and its income and costs belong on Schedule C with self-employment tax, not on Schedule E without it. `null` on line 4 (royalties) because a royalty is not a rental and its own character fork is declared on the 1099-MISC. Two Schedule E lines map onto one Schedule C line \u2014 8 and 11 both to commissions and fees, 7 and 14 both to repairs and maintenance \u2014 because Schedule C draws the line in fewer places; that is the form's own doing, not a collision.",
+    "paths": [
+      {
+        "line": "26",
+        "expression": "21 - 22",
+        "note": "WHERE A PART I FIGURE GOES, which is not what the face prints (research R3). Lines 24, 25 and 26 are all true of the form and none of them is a path: one expense on line 21 reaches line 26 through 24 as a subtraction AND through 25 as a subtraction of a subtraction, which is an addition \u2014 so the walk found two chains carrying opposite signs and `_more_direct` kept one by sorting hop ids. The sign of a real figure decided by which route id sorted first.\n\nWhich of the two a figure actually takes turns on whether the PROPERTY is a gain or a loss, and that is a fact about the activity's sum. So the printed arithmetic is marked `walk: false` and evaluated per activity by the ledger, and this one edge carries the figure: every Part I figure reaches line 26 once, by one chain, with one sign.\n\nLINE 22 IS ON THE PATH TOO, and SUBTRACTS. It is *'Deductible rental real estate loss after limitation, if any, on Form 8582'* \u2014 a loss, printed as a positive magnitude, which line 25 adds to the losses and line 26 then takes away. Left off the path it reached the face by nothing at all: it fed only line 25, and line 25 is presentation. A figure allowed by the passive limitation, absent from the return."
+      }
+    ],
+    "sections_source_url": "https://www.irs.gov/pub/irs-pdf/f1040se.pdf",
+    "face_not_boxes": [
+      {
+        "slot": "1",
+        "because": "the property-type legend (\"1 Single Family Residence\") and references to Schedule 1 line 5, not a line; 1a/1b are declared"
+      }
+    ],
+    "revision_printed_as": "Schedule E (Form 1040) 2025 Created 5/6/25"
+  }
+}

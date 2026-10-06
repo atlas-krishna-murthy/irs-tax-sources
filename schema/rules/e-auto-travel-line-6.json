@@ -1,0 +1,53 @@
+{
+  "rule": {
+    "id": "e-auto-travel-line-6",
+    "title": "Schedule E line 6 takes 50% of meals while traveling for the rental",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "share",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-rental-income-and-expense-records.auto_and_travel"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-meals-while-traveling"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-meals-while-traveling",
+        "is": "yes"
+      }
+    },
+    "amounts": {
+      "all": {
+        "share": 0.5
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Is this item a meal eaten while traveling away from home for the rental activity?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule E (Form 1040)",
+      "line": "Line 6",
+      "revision": "2025",
+      "wording": "You can deduct ordinary and necessary auto and travel expenses related to your rental activities, including 50% of meal expenses incurred while traveling away from home.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040se--2025.pdf"
+    },
+    "open_point": "Only the meals half is applied. The standard mileage rate (miles x 70 cents) is a computation from a mileage count, and the choice between actual expenses and the standard rate is the preparer's.",
+    "research_ids": [
+      "e-auto-travel-line-6"
+    ]
+  }
+}

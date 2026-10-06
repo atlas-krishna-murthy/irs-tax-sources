@@ -1,0 +1,75 @@
+{
+  "form": {
+    "id": "ws-simplified-method",
+    "form": "Simplified Method Worksheet",
+    "title": "Simplified Method Worksheet\u2014Lines 5a and 5b",
+    "kind": "worksheet",
+    "revision": "2025",
+    "revision_printed_as": "2025 Instructions for Form 1040",
+    "source_url": "https://www.irs.gov/pub/irs-prior/i1040gi--2025.pdf",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Enter the total pension or annuity payments from Form 1099-R, box 1",
+        "type": "money"
+      },
+      {
+        "line": "2",
+        "caption": "Enter your cost in the plan at the annuity starting date",
+        "type": "money"
+      },
+      {
+        "line": "3",
+        "caption": "Enter the appropriate number from Table 1 below",
+        "type": "number"
+      },
+      {
+        "line": "4",
+        "caption": "Divide line 2 by the number on line 3",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "5",
+        "caption": "Multiply line 4 by the number of months for which this year\u2019s payments were made",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "6",
+        "caption": "Enter the amount, if any, recovered tax free in years after 1986",
+        "type": "money"
+      },
+      {
+        "line": "7",
+        "caption": "Subtract line 6 from line 2",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "8",
+        "caption": "Enter the smaller of line 5 or line 7",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "9",
+        "caption": "Taxable amount. Subtract line 8 from line 1",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "10",
+        "caption": "Add lines 6 and 8. This is the amount you have recovered tax free through 2025",
+        "type": "money",
+        "computed_by_software": true
+      },
+      {
+        "line": "11",
+        "caption": "Balance of cost to be recovered. Subtract line 10 from line 2",
+        "type": "money",
+        "computed_by_software": true
+      }
+    ]
+  }
+}

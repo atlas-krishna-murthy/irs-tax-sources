@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-for-a-person-whose-medical-expenses-cannot-be-included",
+    "wording": "Was this paid for someone who was none of the following when the care was given or paid for: the taxpayer, the spouse, a dependent claimed, a child of divorced or separated parents, or a person who could have been claimed but for $5,200 of gross income, a joint return, or being someone else's dependent?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 none of those people"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 one of those people"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Was this paid for someone who was none of the following when the care was given or paid for: the taxpayer, the spouse, a dependent claimed, a child of divorced or separated parents, or a person who could have been claimed but for $5,200 of gross income, a joint return, or being someone else's dependent?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Line 1",
+        "revision": "2025",
+        "wording": "You can include medical and dental bills you paid in 2025 for anyone who was one of the following either when the services were provided or when you paid for them.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

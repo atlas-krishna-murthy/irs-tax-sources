@@ -1,0 +1,229 @@
+{
+  "form": {
+    "id": "schedule-a-8936",
+    "form": "Schedule A (Form 8936)",
+    "title": "Clean Vehicle Credit Amount",
+    "kind": "schedule",
+    "revision": "2025",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f8936sa--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i8936",
+    "notes": "refundable: false. One of these is filed PER VEHICLE \u2014 'Complete a separate Schedule A (Form 8936) for each clean vehicle placed in service during the tax year' \u2014 and it is where every clean vehicle figure is actually computed; Form 8936 only totals them. Declared here because Schedule 2 lines 1b and 1c name it outright as the source of a repayment, and a route may not leave from a Part. THE TERMINATION DATE IS ON THIS FORM'S OWN FACE, which is better evidence than the instructions: line 5 asks whether the VIN 'belong[s] to a new clean vehicle acquired before October 1, 2025', line 6 'a previously owned clean vehicle acquired after 2022 and before October 1, 2025', line 7 'a qualified commercial clean vehicle acquired after 2022 and before October 1, 2025'. 2025 figures read off this schedule: previously owned credit is 30% of sales price capped at $4,000 (lines 15, 16) with the vehicle's sales price capped at $25,000 (line 13e); commercial credit is 15% of basis net of section 179, or 30% if not also gas or diesel powered, capped at the incremental cost and at $7,500 \u2014 '$40,000 if the vehicle's gross vehicle weight rating (see line 18e) is 14,000 pounds or more' (lines 22, 24, 25). Printed revision: Schedule A (Form 8936) 2025, Created 8/21/25.",
+    "lines": [
+      {
+        "line": "1a",
+        "caption": "Year",
+        "type": "text"
+      },
+      {
+        "line": "1b",
+        "caption": "Make",
+        "type": "text"
+      },
+      {
+        "line": "1c",
+        "caption": "Model",
+        "type": "text"
+      },
+      {
+        "line": "2",
+        "caption": "Vehicle identification number (VIN) (see instructions)",
+        "type": "code"
+      },
+      {
+        "line": "3",
+        "caption": "Enter date vehicle was placed in service (MM/DD/YYYY)",
+        "type": "date"
+      },
+      {
+        "line": "4a",
+        "caption": "Did you transfer the credit to the dealer at the time of sale? Yes. Enter the transferred amount shown on the seller's report. No. Go to line 5.",
+        "type": "money"
+      },
+      {
+        "line": "4b",
+        "caption": "If line 4a is \u201cYes,\u201d complete line 8 or line 13, as applicable, and check here if directed to do so by line 8a, 8d, 13a, or 13c",
+        "type": "checkbox"
+      },
+      {
+        "line": "5",
+        "caption": "Does the VIN entered on line 2 belong to a new clean vehicle acquired before October 1, 2025 and placed in service during the tax year? See instructions for definitions. Yes. Go to Part II. No. Go to line 6.",
+        "type": "checkbox"
+      },
+      {
+        "line": "6",
+        "caption": "Does the VIN entered on line 2 belong to a previously owned clean vehicle acquired after 2022 and before October 1, 2025 and placed in service during the tax year? See instructions for definitions. Yes. Go to Part IV. No. Go to line 7.",
+        "type": "checkbox"
+      },
+      {
+        "line": "7",
+        "caption": "Does the VIN entered on line 2 belong to a qualified commercial clean vehicle acquired after 2022 and before October 1, 2025 and placed in service during the tax year? See instructions for definitions. Yes. Go to Part V. No. Stop here. You can't use this schedule to figure a credit amount for a vehicle not described on line 5, 6, or 7.",
+        "type": "checkbox"
+      },
+      {
+        "line": "8a",
+        "caption": "Did you resell the vehicle within 30 days of the placed-in-service date shown on line 3? Yes. Stop here. You can't claim a clean vehicle credit for this vehicle. If line 4a is \u201cYes,\u201d check the box on line 4b and report the amount from line 4a on Schedule 2 (Form 1040), line 1b. No. Go to line 8b.",
+        "type": "checkbox"
+      },
+      {
+        "line": "8b",
+        "caption": "Are you filing this form with an individual income tax return? Yes. Go to line 8c. No. Skip lines 8c and 8d and go to line 8e.",
+        "type": "checkbox"
+      },
+      {
+        "line": "8c",
+        "caption": "Complete Form 8936, lines 1 and 2. Is line 2 more than the \u201cPart II/III limits\u201d amount shown on the chart below line 5, Form 8936 for your 2025 filing status? Yes. Go to line 8d. No. If you transferred the credit amount to the dealer at the time of sale, stop here and see instructions. Otherwise, skip line 8d and go to line 8e.",
+        "type": "checkbox"
+      },
+      {
+        "line": "8d",
+        "caption": "Complete Form 8936, lines 3, 4, and 5. Is line 4 more than the \u201cPart II/III limits\u201d amount shown on the chart below line 5, Form 8936 for your 2024 filing status? See instructions if your 2025 return is a joint return. Yes. Stop here. You can't claim a clean vehicle credit for this vehicle. If line 4a is \u201cYes,\u201d check the box on line 4b and report the amount from line 4a on Schedule 2 (Form 1040), line 1b. No. If you transferred the credit amount to the dealer at the time of sale, stop here and see instructions. Otherwise, go to line 8e.",
+        "type": "checkbox"
+      },
+      {
+        "line": "8e",
+        "caption": "Did you acquire the vehicle for use or to lease to others, and not for resale? Answer \u201cNo\u201d if you are leasing the vehicle from another person. Yes. No. Stop here. You can't claim a credit amount for a vehicle you didn't acquire for use or to lease to others, or acquired for resale.",
+        "type": "checkbox"
+      },
+      {
+        "line": "9",
+        "caption": "Tentative credit amount (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "10",
+        "caption": "Business/investment use percentage (see instructions)",
+        "type": "percent"
+      },
+      {
+        "line": "11",
+        "caption": "Multiply line 9 by line 10. Include this credit amount on line 6 in Part II of Form 8936. If you entered 100% on line 10, stop here. Otherwise, go to Part III below",
+        "type": "money"
+      },
+      {
+        "line": "12",
+        "caption": "Subtract line 11 from line 9 in Part II. Stop here and include this credit amount on line 9 in Part III of Form 8936",
+        "type": "money"
+      },
+      {
+        "line": "13a",
+        "caption": "Did you resell the vehicle within 30 days of the placed-in-service date shown on line 3? Yes. Stop here. You can't claim a clean vehicle credit for this vehicle. If line 4a is \u201cYes,\u201d check the box on line 4b and report the amount from line 4a on Schedule 2 (Form 1040), line 1c. No. Go to line 13b.",
+        "type": "checkbox"
+      },
+      {
+        "line": "13b",
+        "caption": "Complete Form 8936, lines 1 and 2. Is line 2 more than the \u201cPart IV limits\u201d amount shown on the chart below line 5, Form 8936 for your 2025 filing status? Yes. Go to line 13c. No. If you transferred the credit amount to the dealer at the time of sale, stop here and see instructions. Otherwise, skip line 13c and go to line 13d.",
+        "type": "checkbox"
+      },
+      {
+        "line": "13c",
+        "caption": "Complete Form 8936, lines 3, 4, and 5. Is line 4 more than the \u201cPart IV limits\u201d amount shown on the chart below line 5, Form 8936 for your 2024 filing status? See instructions if your 2025 return is a joint return. Yes. Stop here. You can't claim a clean vehicle credit for this vehicle. If line 4a is \u201cYes,\u201d check the box on line 4b and report the amount from line 4a on Schedule 2 (Form 1040), line 1c. No. If you transferred the credit amount to the dealer at the time of sale, stop here and see instructions. Otherwise, go to line 13d.",
+        "type": "checkbox"
+      },
+      {
+        "line": "13d",
+        "caption": "Have you claimed a previously owned clean vehicle credit for another vehicle purchased in the 3-year period ending on the date you purchased the vehicle identified in Part I? See instructions if you are filing a joint return.",
+        "type": "checkbox"
+      },
+      {
+        "line": "13e",
+        "caption": "Is the sales price of the vehicle more than $25,000? Yes. Stop here. The vehicle doesn't qualify for the Part IV credit. No.",
+        "type": "checkbox"
+      },
+      {
+        "line": "13f",
+        "caption": "Did you acquire the vehicle for use and not for resale? Answer \u201cNo\u201d if you are leasing the vehicle from another person.",
+        "type": "checkbox"
+      },
+      {
+        "line": "13g",
+        "caption": "Can you be claimed as a dependent on another person's tax return, such as your parent's return? Yes. Stop here. You can't claim a credit amount if you can be claimed as a dependent. No.",
+        "type": "checkbox"
+      },
+      {
+        "line": "14",
+        "caption": "Enter the sales price of the vehicle",
+        "type": "money"
+      },
+      {
+        "line": "15",
+        "caption": "Multiply line 14 by 30% (0.30)",
+        "type": "money"
+      },
+      {
+        "line": "16",
+        "caption": "Maximum vehicle credit amount ($4,000)",
+        "type": "money"
+      },
+      {
+        "line": "17",
+        "caption": "Enter the smaller of line 15 or line 16. Stop here and include this credit amount on line 14 in Part IV of Form 8936",
+        "type": "money"
+      },
+      {
+        "line": "18a",
+        "caption": "If making an elective payment election, enter the IRS-issued registration number for the vehicle",
+        "type": "code"
+      },
+      {
+        "line": "18b",
+        "caption": "Is the vehicle of a character subject to the allowance for depreciation? Answer \u201cYes\u201d if the exception for certain tax-exempt entities discussed in the instructions applies.",
+        "type": "checkbox"
+      },
+      {
+        "line": "18c",
+        "caption": "Did you acquire the vehicle for use or to lease to others, and not for resale? Answer \u201cNo\u201d if you are leasing the vehicle from another person.",
+        "type": "checkbox"
+      },
+      {
+        "line": "18d",
+        "caption": "Is the vehicle also powered in part by gas or diesel? See instructions.",
+        "type": "checkbox"
+      },
+      {
+        "line": "18e",
+        "caption": "Enter the vehicle's gross vehicle weight rating (GVWR)",
+        "type": "count"
+      },
+      {
+        "line": "19",
+        "caption": "Enter the cost or other basis of the vehicle. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "20",
+        "caption": "Section 179 expense deduction (see instructions)",
+        "type": "money"
+      },
+      {
+        "line": "21",
+        "caption": "Subtract line 20 from line 19",
+        "type": "money"
+      },
+      {
+        "line": "22",
+        "caption": "Multiply line 21 by 15% (0.15) (30% (0.30) if the answer on line 18d above is \u201cNo\u201d)",
+        "type": "money"
+      },
+      {
+        "line": "23",
+        "caption": "Enter the incremental cost of the vehicle. See instructions",
+        "type": "money"
+      },
+      {
+        "line": "24",
+        "caption": "Enter the smaller of line 22 or line 23",
+        "type": "money"
+      },
+      {
+        "line": "25",
+        "caption": "Maximum credit. Enter $7,500 ($40,000 if the vehicle's gross vehicle weight rating (see line 18e) is 14,000 pounds or more)",
+        "type": "money"
+      },
+      {
+        "line": "26",
+        "caption": "Enter the smaller of line 24 or line 25. Include this credit amount on line 19 in Part V of Form 8936",
+        "type": "money"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-refundable-security-deposit",
+    "wording": "Is this item a security deposit the taxpayer plans to return to the tenant at the end of the lease?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 a deposit to be returned, not rent"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 rent, or a deposit kept or applied as rent"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Rent received is rent unless a preparer says it is a deposit to be returned"
+    },
+    "basis": {
+      "citation": {
+        "form": "Publication 527",
+        "line": "Security deposits",
+        "revision": "2025",
+        "wording": "Don\u2019t include a security deposit in your income when you receive it if you plan to return it to your tenant at the end of the lease.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/p527--2025.pdf"
+      }
+    }
+  }
+}

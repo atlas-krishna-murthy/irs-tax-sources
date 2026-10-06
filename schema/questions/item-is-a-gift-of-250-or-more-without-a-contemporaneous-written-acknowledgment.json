@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-is-a-gift-of-250-or-more-without-a-contemporaneous-written-acknowledgment",
+    "wording": "Is this a single gift of $250 or more (separate donations are not combined) for which the taxpayer has no contemporaneous written acknowledgment from the charity?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 $250 or more, no acknowledgment"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 under $250, or an acknowledgment is held"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Is this a single gift of $250 or more (separate donations are not combined) for which the taxpayer has no contemporaneous written acknowledgment from the charity?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Line 11",
+        "revision": "2025",
+        "wording": "In figuring whether a gift is $250 or more, don't combine separate donations.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}

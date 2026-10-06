@@ -1,0 +1,370 @@
+{
+  "form": {
+    "id": "schedule-2",
+    "form": "Schedule 2 (Form 1040)",
+    "title": "Additional Taxes",
+    "kind": "schedule",
+    "revision": "2025",
+    "revision_printed_as": "Schedule 2 (Form 1040) 2025 Created 5/8/25",
+    "source_url": "https://www.irs.gov/pub/irs-prior/f1040s2--2025.pdf",
+    "instructions_url": "https://www.irs.gov/instructions/i1040gi",
+    "lines": [
+      {
+        "line": "1",
+        "caption": "Additions to tax:",
+        "type": "text",
+        "part": "I"
+      },
+      {
+        "line": "1a",
+        "caption": "Excess advance premium tax credit repayment. Attach Form 8962",
+        "type": "money",
+        "part": "I",
+        "computed_by_software": true
+      },
+      {
+        "line": "1b",
+        "caption": "Repayment of new clean vehicle credit(s) transferred to a registered dealer from Schedule A (Form 8936), Part II. Attach Form 8936 and Schedule A (Form 8936)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "1c",
+        "caption": "Repayment of previously owned clean vehicle credit(s) transferred to a registered dealer from Schedule A (Form 8936), Part IV. Attach Form 8936 and Schedule A (Form 8936)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "1d",
+        "caption": "Recapture of net EPE from Form 4255, line 2a, column (l)",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "1e",
+        "caption": "Excessive payments (EPs) on gross EPE from Form 4255. Check applicable box and enter amount. See instructions. (i) Line 1a (ii) Line 1c (iii) Line 1d (iv) Line 2a",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "1f",
+        "caption": "20% EP from Form 4255. Check applicable box and enter amount. See instructions. (i) Line 1a (ii) Line 1c (iii) Line 1d (iv) Line 2a",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "1y",
+        "caption": "Other additions to tax (see instructions):",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "1z",
+        "caption": "Add lines 1a through 1y",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "2",
+        "caption": "Alternative minimum tax. Attach Form 6251",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "3",
+        "caption": "Add lines 1z and 2. Enter here and on Form 1040, 1040-SR, or 1040-NR, line 17",
+        "type": "money",
+        "part": "I"
+      },
+      {
+        "line": "4",
+        "caption": "Self-employment tax. Attach Schedule SE. Check if any exemption from (see instructions): 1 4361 2 4029 3",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      },
+      {
+        "line": "5",
+        "caption": "Social security and Medicare tax on unreported tip income. Attach Form 4137",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "6",
+        "caption": "Uncollected social security and Medicare tax on wages. Attach Form 8919",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "7",
+        "caption": "Total additional social security and Medicare tax. Add lines 5 and 6",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "8",
+        "caption": "Additional tax on IRAs or other tax-favored accounts. Attach Form 5329 if required. If not required, check here",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "9",
+        "caption": "Household employment taxes. Attach Schedule H",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "10",
+        "caption": "Reserved for future use",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "11",
+        "caption": "Additional Medicare Tax. Attach Form 8959",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      },
+      {
+        "line": "12",
+        "caption": "Net investment income tax. Attach Form 8960",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      },
+      {
+        "line": "13",
+        "caption": "Uncollected social security and Medicare or RRTA tax on tips or group-term life insurance from Form W-2, box 12",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "14",
+        "caption": "Interest on tax due on installment income from the sale of certain residential lots and timeshares",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "15",
+        "caption": "Interest on the deferred tax on gain from certain installment sales with a sales price over $150,000",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "16",
+        "caption": "Recapture of low-income housing credit. Attach Form 8611",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17",
+        "caption": "Other additional taxes:",
+        "type": "text",
+        "part": "II"
+      },
+      {
+        "line": "17a",
+        "caption": "Recapture of other credits. List type, form number, and amount:",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17b",
+        "caption": "Recapture of federal mortgage subsidy. If you sold your home, see instructions",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17c",
+        "caption": "Additional tax on HSA distributions. Attach Form 8889",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17d",
+        "caption": "Additional tax on an HSA because you didn\u2019t remain an eligible individual. Attach Form 8889",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17e",
+        "caption": "Additional tax on Archer MSA distributions. Attach Form 8853",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17f",
+        "caption": "Additional tax on Medicare Advantage MSA distributions. Attach Form 8853",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17g",
+        "caption": "Recapture of a charitable contribution deduction related to a fractional interest in tangible personal property",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17h",
+        "caption": "Income you received from a nonqualified deferred compensation plan that fails to meet the requirements of section 409A",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      },
+      {
+        "line": "17i",
+        "caption": "Compensation you received from a nonqualified deferred compensation plan described in section 457A",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17j",
+        "caption": "Section 72(m)(5) excess benefits tax",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17k",
+        "caption": "Golden parachute payments",
+        "type": "money",
+        "part": "II",
+        "computed_by_software": true
+      },
+      {
+        "line": "17l",
+        "caption": "Tax on accumulation distribution of trusts",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17m",
+        "caption": "Excise tax on insider stock compensation from an expatriated corporation",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17n",
+        "caption": "Look-back interest under section 167(g) or 460(b) from Form 8697 or 8866",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17o",
+        "caption": "Tax on non-effectively connected income for any part of the year you were a nonresident alien from Form 1040-NR",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17p",
+        "caption": "Any interest from Form 8621, line 16f, relating to distributions from, and dispositions of, stock of a section 1291 fund",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17q",
+        "caption": "Any interest from Form 8621, line 24",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "17z",
+        "caption": "Any other taxes. List type and amount:",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "18",
+        "caption": "Total additional taxes. Add lines 17a through 17z",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "19",
+        "caption": "Recapture of net EPE from Form 4255, line 1d, column (l)",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "20",
+        "caption": "Section 965 net tax liability installment from Form 965-A",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "21",
+        "caption": "Add lines 4, 7 through 16, 18, and 19. These are your total other taxes. Enter here and on Form 1040 or 1040-SR, line 23; or Form 1040-NR, line 23b",
+        "type": "money",
+        "part": "II"
+      },
+      {
+        "line": "1e-box",
+        "caption": "Check applicable box and enter amount. See instructions.",
+        "type": "checkbox",
+        "part": "I",
+        "columns": [
+          "i",
+          "ii",
+          "iii",
+          "iv"
+        ],
+        "column_captions": {
+          "i": "Line 1a",
+          "ii": "Line 1c",
+          "iii": "Line 1d",
+          "iv": "Line 2a"
+        },
+        "notes": "The four checkboxes (i)-(iv) printed in line 1e's caption, naming the Form 4255 line the amount comes from."
+      },
+      {
+        "line": "1f-box",
+        "caption": "Check applicable box and enter amount. See instructions.",
+        "type": "checkbox",
+        "part": "I",
+        "columns": [
+          "i",
+          "ii",
+          "iii",
+          "iv"
+        ],
+        "column_captions": {
+          "i": "Line 1a",
+          "ii": "Line 1c",
+          "iii": "Line 1d",
+          "iv": "Line 2a"
+        },
+        "notes": "The four checkboxes (i)-(iv) printed in line 1f's caption, naming the Form 4255 line the amount comes from."
+      },
+      {
+        "line": "4-exemption",
+        "caption": "Check if any exemption from (see instructions):",
+        "type": "checkbox",
+        "part": "II",
+        "columns": [
+          "1",
+          "2",
+          "3"
+        ],
+        "column_captions": {
+          "1": "4361",
+          "2": "4029",
+          "3": "write-in (unlabelled third box)"
+        }
+      },
+      {
+        "line": "8-not-required",
+        "caption": "If not required, check here",
+        "type": "checkbox",
+        "part": "II",
+        "notes": "Line 8: \"Attach Form 5329 if required. If not required, check here\"."
+      }
+    ],
+    "notes": "Part I Tax (lines 1-3); Part II Other Taxes (lines 4-21). Line 1 has sub-lines a-f, y and z. Line 17 has sub-lines a-q and z. Line 10 is 'Reserved for future use' for 2025; for 2024 it was the repayment of the first-time homebuyer credit (Form 5405). That obligation was RETIRED, not moved: the 15-year repayment period for 2008 purchases ended with the TY2024 return, and Form 5405 is no longer revised. There is no 2025 destination for it anywhere on the return. Line 20 (section 965 installment) is NOT included in the line 21 total.",
+    "face_not_boxes": [
+      {
+        "slot": "02",
+        "because": "the Attachment Sequence No. printed in the form header, not a line"
+      }
+    ]
+  }
+}

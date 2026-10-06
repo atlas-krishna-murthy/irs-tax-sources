@@ -1,0 +1,157 @@
+Form   8874
+(Rev. November 2021)
+                                                              New Markets Credit
+                                                                  ▶ Attach to your tax return.
+                                                                                                                                            OMB No. 1545-1804
+
+
+                                                                                                                                            Attachment
+Department of the Treasury                         ▶ Go to www.irs.gov/Form8874 for the latest information.                                 Sequence No. 127
+Internal Revenue Service
+Name(s) shown on return                                                                                                          Identifying number
+
+
+                             (a)                                       (b)                   (c)                    (d)              (e)              (f)
+               Name and address of the qualified              Employer identification   Date of initial    Amount of qualified     Credit      Credit ((d) × (e))
+              community development entity (CDE)                number of CDE            investment         equity investment       rate
+
+   1
+                                                                                                                                       %
+
+
+                                                                                                                                       %
+
+
+                                                                                                                                       %
+
+
+                                                                                                                                       %
+
+
+                                                                                                                                       %
+
+
+                                                                                                                                       %
+
+
+   2     New markets credit from partnerships and S corporations . . . . . . . . . . . . . .                                          2
+   3     Add lines 1 and 2. Partnerships and S corporations, report this amount on Schedule K. All others,
+         report this amount on Form 3800, Part III, line 1i . . . . . . . . . . . . . . . . .                                         3
+For Paperwork Reduction Act Notice, see instructions.                                    Cat. No. 31663N                              Form 8874 (Rev. 11-2021)
+Form 8874 (Rev. 11-2021)                                                                                                             Page 2
+
+
+General Instructions                                                    Exceptions. An equity investment in an entity that otherwise
+                                                                        qualifies as a qualified equity investment or a non-real estate
+Section references are to the Internal Revenue Code unless              qualified equity investment is eligible to be designated as a
+otherwise noted.                                                        qualified equity investment if made prior to an allocation
+                                                                        agreement, but only if the following applies.
+Future Developments
+                                                                        • The equity investment was made on or after the date the CDFI
+For the latest information about developments related to Form           Fund publishes a Notice of Allocation Availability (NOAA) in the
+8874 and its instructions, such as legislation enacted after they       Federal Register, and the designation of the equity investment
+were published, go to www.irs.gov/Form8874.                             as a qualified equity investment is made for a credit allocation
+                                                                        received under an allocation application submitted to the CDFI
+What’s New                                                              Fund under that NOAA. If the entity in which the equity
+The new markets credit allocation has been extended for                 investment is made does not receive an allocation under that
+calendar years through 2025.                                            NOAA, the equity investment will not be eligible to be
+                                                                        designated as a qualified equity investment. For details, see
+Purpose of Form                                                         Regulations sections 1.45D-1(c)(3)(ii)(B) and 1.45D-1(c)(3)(iii).
+Use Form 8874 to claim the new markets credit for qualified                The maximum amount of equity investments so designated by
+equity investments made in qualified community development              the qualified CDE cannot exceed the amount of the allocation it
+entities (CDEs). This credit is part of the general business credit.    received from the CDFI Fund. The names and addresses of
+  Taxpayers that are not partnerships or S corporations, and            qualified CDEs that have received an allocation for each
+whose only source of this credit is from those pass-through             allocation round and the amount of that allocation are listed on
+entities, are not required to complete or file this form. Instead,      the CDFI Fund website at www.cdfifund.gov.
+they can report this credit directly on Form 3800, Part III, line 1i.   Non-Real Estate Qualified Equity Investment
+Definitions                                                             If a qualified equity investment is designated as a non-real
+                                                                        estate qualified equity investment, then the qualified equity
+Qualified CDE                                                           investment may only satisfy the substantially-all requirement if
+A qualified CDE is a domestic corporation or partnership that           the CDE makes qualified low-income community investments
+meets the following requirements.                                       that are directly traceable (including investments made through
+                                                                        one or more CDEs) to non-real estate qualified active low-
+• Its primary mission is serving, or providing investment capital       income community businesses. The proceeds of a non-real
+for, low-income communities or persons.                                 estate qualified equity investment cannot be used for
+• It maintains accountability to residents of low-income                transactions involving a qualified active low-income community
+communities through their representation on any governing               business that is not a non-real estate qualified active low-
+board or advisory board of the entity.                                  income community business. See Regulations section
+• It is certified as a qualified CDE by the Community                   1.45D-1(d) for details about qualified low-income community
+Development Financial Institutions (CDFI) Fund of the                   investments.
+Department of the Treasury.
+                                                                        How To Figure the Credit
+   Qualified CDEs also include specialized small business
+investment companies and community development financial                A credit is generally allowed to the holder of the qualified equity
+institutions. See section 45D(c)(2).                                    investment on each of 7 credit allowance dates. The credit
+                                                                        allowance dates are the date you make the initial investment
+Qualified Equity Investment                                             and each of the next 6 anniversary dates. The credit is equal to
+A qualified equity investment is an interest in a qualified CDE in      the qualified equity investment multiplied by 5% (6% for the
+the form of stock (other than nonqualified preferred stock) in a        fourth through seventh years). However, the credit is not
+corporation or a capital interest in a partnership that meets all of    allowed for a credit allowance date if the investment is not a
+the following requirements.                                             qualified equity investment on that date.
+• You acquired the investment solely for cash at its original           Recapture of the Credit
+issue (or from a taxpayer for whom the investment was a
+qualified equity investment). The cash may be from borrowed             You may have to increase your tax by a credit recapture
+funds, including a nonrecourse loan. For details, see Rev. Rul.         amount if at any time within 7 years from the date of the original
+2003-20 and Rev. Rul. 2010-17.                                          issuance of the qualified equity investment:
+• Substantially all (at least 85%) of the cash is used to make          • The entity ceases to be a qualified CDE,
+qualified low-income community investments. The 85%                     • Substantially all of the proceeds of the investment cease to
+requirement is reduced to 75% for the seventh year of the               be used to make qualified low-income community investments,
+7-year credit period.                                                   or
+• The investment was designated as a qualified equity                   • The investment is redeemed or otherwise cashed out by the
+investment or a non-real estate qualified equity investment by          entity.
+the CDE on its books and records for purposes of the new                Exception. If a CDE fails to use substantially all of the proceeds
+markets credit.                                                         of a qualified equity investment to make qualified low-income
+   Generally, a qualified CDE can designate an equity investment        community investments, the CDE may avoid recapture of the
+as a qualified equity investment or a non-real estate qualified         credit if it corrects the failure within 6 months after the date it
+equity investment only if it applied for and received a new             becomes aware (or reasonably should have become aware) of
+markets credit allocation and entered into an allocation                the failure. Only one correction is permitted for each qualified
+agreement with the CDFI Fund before the equity investment               equity investment during the 7-year credit period.
+was made.                                                                  See section 45D(g) and Regulations section 1.45D-1(e) for
+            Qualified CDEs must provide taxpayers holding a             details, including how to figure the credit recapture amount.
+  TIP qualified       equity investment with a completed Form
+            8874-A when a qualified equity investment is
+                                                                        Generally, include the credit recapture amount on the line for
+                                                                        recapture taxes on your income tax return for the year in which
+            acquired.                                                   the recapture event occurs. For example, the credit recapture
+Form 8874 (Rev. 11-2021)                                                                                                           Page 3
+
+amount on a 2021 Form 1040 is reported on Schedule 2 (Form                 If you need more space, attach a statement showing all the
+1040), line 17a, and the amount on a 2021 Form 1120 is                  information requested for each qualified equity investment. On
+reported on Schedule J, line 9g (Other taxes).                          the last row on line 1, write “See attached” in column (a) and
+  You are not subject to recapture of the credit solely because         enter the total of the credit amounts from the attached
+you sell or otherwise dispose of your investment. However, you          statement in column (f).
+cannot claim the credit for any credit allowance date after the
+disposition.                                                            Paperwork Reduction Act Notice. We ask for the information
+                                                                        on this form to carry out the Internal Revenue laws of the
+           Qualified CDEs must provide taxpayers holding a              United States. You are required to give us the information. We
+  TIP qualified     equity investment with a completed Form
+           8874-B when a recapture event occurs.
+                                                                        need it to ensure that you are complying with these laws and to
+                                                                        allow us to figure and collect the right amount of tax.
+                                                                           You are not required to provide the information requested on
+Basis Reduction                                                         a form that is subject to the Paperwork Reduction Act unless
+You must reduce your basis in your qualified equity investment          the form displays a valid OMB control number. Books or
+by the amount of the new markets credits allowed (even if part          records relating to a form or its instructions must be retained as
+or all of the credit is not allowed for the current year and is         long as their contents may become material in the
+carried forward). However, do not reduce your basis for                 administration of any Internal Revenue law. Generally, returns
+purposes of figuring the exclusion of gain for:                         and return information are confidential, as required by section
+                                                                        6103.
+• Qualified small business stock under section 1202,
+                                                                           The time needed to complete and file this form will vary
+• Certain DC zone assets under section 1400B (as in effect              depending on individual circumstances. The estimated burden
+before its repeal on March 23, 2018), or                                for individual and business taxpayers filing this form is approved
+• Certain qualified community assets under section 1400F (as in         under OMB control number 1545-0074 and 1545-0123 and is
+effect before its repeal on March 23, 2018).                            included in the estimates shown in the instructions for their
+                                                                        individual and business income tax return. The estimated
+Additional Information                                                  burden for all other taxpayers who file this form is shown below.
+For more details, see section 45D, Regulations section 1.45D-1,         Recordkeeping        . . . . . . . . . . . 6 hr., 13 min.
+or www.cdfifund.gov.                                                    Learning about the
+                                                                        law or the form      . . . . . . . . . . . 1 hr., 12 min.
+Specific Instructions                                                   Preparing and sending
+Line 1                                                                  the form to the IRS . . . . . . . . . . 1 hr., 20 min.
+Enter the information requested for each qualified equity                  If you have comments concerning the accuracy of these time
+investment held directly by you on a credit allowance date in           estimates or suggestions for making this form simpler, we would
+the current tax year. In column (e), enter the credit rate. Enter       be happy to hear from you. See the instructions for the tax
+“5” for the first, second, or third year of the 7-year credit period.   return with which this form is filed.
+For any later year, enter “6.”
+

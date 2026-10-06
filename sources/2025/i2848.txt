@@ -1,0 +1,631 @@
+Instructions for Form 2848
+                                                                                                               Department of the Treasury
+                                                                                                               Internal Revenue Service
+
+(Rev. September 2021)
+Power of Attorney and Declaration of Representative
+Section references are to the Internal Revenue Code unless                 names the eligible individual(s) as representative(s) for the
+otherwise noted.                                                           person or entity. Because the fiduciary stands in the position of
+                                                                           the person or entity, the fiduciary must sign the power of attorney
+        For faster processing of certain authorizations, use the
+                                                                           on behalf of the person or entity.
+ TIP all-digital Tax Pro Account at IRS.gov/TaxProAccount.
+        Most requests record immediately to the Centralized                   Address information provided on Form 2848 will not change
+Authorization File (CAF).                                                  your last known address with the IRS. To change your last
+                                                                           known address, use Form 8822, Change of Address, for your
+
+General Instructions
+                                                                           home address and Form 8822-B, Change of Address or
+                                                                           Responsible Party—Business, to change your business
+                                                                           address. Both forms are available at IRS.gov.
+Future Developments                                                                   Authorizing someone to represent you does not relieve
+For the latest information about developments related to Form                         you of your tax obligations.
+2848 and its instructions, go to IRS.gov/Form2848.
+                                                                              !
+                                                                            CAUTION
+
+
+Purpose of Form                                                            How To File
+Use Form 2848 to authorize an individual to represent you                  If you check the box on line 4, mail or fax Form 2848 to the
+before the IRS. See Substitute Form 2848, later, for information           IRS office handling the specific matter.
+about using a power of attorney other than a Form 2848 to
+authorize an individual to represent you before the IRS. The                  If you did not check the box on line 4, you can choose how to
+individual you authorize must be eligible to practice before the           submit your Form 2848 from the options below.
+IRS. Form 2848, Part II, Declaration of Representative, lists                       If you use an electronic signature (see Electronic
+eligible designations in items (a)–(r). Your authorization of an                    Signatures below), you must submit your Form 2848
+eligible representative will also allow that individual to inspect            !
+                                                                            CAUTION online.
+and/or receive your confidential tax information.
+Form 8821. Use Form 8821, Tax Information Authorization, if                • Online. Submit your Form 2848 securely at IRS.gov/
+you want to authorize an individual or organization to inspect             Submit2848.
+and/or receive your confidential tax return information, but do not        Note. You will need to have a Secure Access account to submit
+want to authorize an individual to represent you before the IRS.           your Form 2848 online. For more information on Secure Access,
+                                                                           go to IRS.gov/SecureAccess.
+Form 56. Use Form 56, Notice Concerning Fiduciary
+Relationship, to notify the IRS of the existence of a fiduciary
+                                                                           • Fax. Fax your Form 2848 to the IRS fax number in the Where
+                                                                           To File Chart.
+relationship. A fiduciary (trustee, executor, administrator,
+receiver, or guardian) stands in the position of a taxpayer and
+                                                                           • Mail. Mail your Form 2848 directly to the IRS address in the
+                                                                           Where To File Chart.
+acts as the taxpayer, not as a representative. A fiduciary may
+authorize an individual to represent or perform certain acts on
+behalf of the person or entity by filing a power of attorney that
+
+Where To File Chart
+
+                       IF you live in...                                      THEN use this address...                      Fax number*
+ Alabama, Arkansas, Connecticut, Delaware, District of
+ Columbia, Florida, Georgia, Illinois, Indiana, Kentucky,                     Internal Revenue Service
+ Louisiana, Maine, Maryland, Massachusetts, Michigan,                             5333 Getwell Road
+                                                                                                                            855-214-7519
+ Mississippi, New Hampshire, New Jersey, New York,                                    Stop 8423
+ North Carolina, Ohio, Pennsylvania, Rhode Island, South                         Memphis, TN 38118
+ Carolina, Tennessee, Vermont, Virginia, or West Virginia
+ Alaska, Arizona, California, Colorado, Hawaii, Idaho, Iowa,
+ Kansas, Minnesota, Missouri, Montana, Nebraska,                             Internal Revenue Service
+ Nevada, New Mexico, North Dakota, Oklahoma, Oregon,                      1973 Rulon White Blvd., MS 6737                   855-214-7522
+ South Dakota, Texas, Utah, Washington, Wisconsin, or                            Ogden, UT 84201
+ Wyoming
+ All APO and FPO addresses, American Samoa, the                               Internal Revenue Service                      855-772-3156
+ Commonwealth of the Northern Mariana Islands, Guam,                           International CAF Team
+ the U.S. Virgin Islands, Puerto Rico, a foreign country, or                      2970 Market Street                        304-707-9785
+ otherwise outside the United States.                                              MS: 4-H14.123.                         (Outside the United
+                                                                                Philadelphia, PA 19104                          States)
+ * These numbers may change without notice. For updates, go to IRS.gov/Form2848 and search under “Recent Developments.”
+
+
+
+
+Sep 02, 2021                                                    Cat. No. 11981U
+Electronic Signatures                                                         relationship between the entity taxpayer and the individual
+                                                                              signing on behalf of the taxpayer, unless the third party has
+Forms 2848 with an electronic signature image or digitized                    personal knowledge allowing the third party to authenticate this
+image of a handwritten signature may only be submitted to the                 information (for example, through a previous business
+IRS online at IRS.gov/Submit2848.                                             relationship; a personal relationship, such as an immediate
+    Electronic signatures appear in many forms. Acceptable                    family member; or a similar relationship, such as between an
+electronic signature methods include:                                         employer and an employee).
+ • A typed name that is typed into the signature block;                       Authority Granted
+ • A scanned or digitized image of a handwritten signature that
+is attached to an electronic record;                                          Except as specified below or in other IRS guidance, this power
+ • A handwritten signature input onto an electronic signature                 of attorney authorizes the listed representative(s) to inspect
+pad;                                                                          and/or receive confidential tax information and to perform all acts
+ • A handwritten signature, mark, or command input on a display               (that is, sign agreements, consents, waivers, or other
+screen with a stylus device; or                                               documents) that you can perform with respect to matters
+ • A signature created using third-party software.                            described in the power of attorney. Representatives are not
+                                                                              authorized to endorse or otherwise negotiate any check
+Note. If the taxpayer electronically signs Form 2848 in a remote              (including directing or accepting payment by any means,
+transaction, a third party submitting Form 2848 to the IRS on                 electronic or otherwise, into an account owned or controlled by
+behalf of the taxpayer must attest that he or she has                         the representative or any firm or other entity with whom the
+authenticated the taxpayer’s identity. A remote transaction for an            representative is associated) issued by the government in
+electronic signature occurs when the taxpayer is electronically               respect of a federal tax liability. Additionally, unless specifically
+signing the form and the third-party submitter isn’t physically               provided in the power of attorney, this authorization does not
+present with the taxpayer.                                                    include the power to substitute or add another representative,
+                                                                              the power to sign certain returns, the power to execute a request
+    To authenticate an individual taxpayer’s identity for remote              for disclosure of tax returns or return information to a third party,
+transactions, the third party must:                                           or to access IRS records via an Intermediate Service Provider.
+    1. Inspect a valid government-issued photo identification                 Representatives are not authorized to sign Form 907,
+(ID) and compare the photo to the taxpayer via a self-taken                   Agreement to Extend the Time to Bring Suit, unless language to
+picture of the taxpayer or video conferencing. Examples of                    cover the signing is added on line 5a. See Line 5a. Additional
+government-issued photo ID include a driver’s license, employer               Acts Authorized, later, for more information regarding specific
+ID, school ID, state ID, military ID, national ID, voter ID, visa, or         authorities.
+passport;
+    2. Record the name, social security number (SSN) or                       Note. The power to sign tax returns may be granted only in
+individual taxpayer identification number (ITIN), address, and                limited situations. See Line 5a. Additional Acts Authorized, later,
+date of birth of the taxpayer; and                                            for more information.
+    3. Verify the taxpayer’s name, address, and SSN or ITIN                   Special Rules and Requirements for Unenrolled
+through secondary documentation, such as a federal or state tax
+return, IRS notice or letter, social security card, or credit card or
+                                                                              Return Preparers
+utility statement. For example, if a taxpayer changed their                   An unenrolled return preparer is an individual other than an
+address in 2020, a 2019 tax return can be used to verify the                  attorney, CPA, enrolled agent, enrolled retirement plan agent, or
+taxpayer’s name and taxpayer identification number, and a                     enrolled actuary who prepares and signs a taxpayer's return as
+recent utility statement to verify the taxpayer’s address.                    the paid preparer, or who prepares a return but is not required
+                                                                              (by the instructions to the return or regulations) to sign the return.
+    To authenticate a business entity taxpayer's identity for
+remote transactions, the third party must:                                    Limited representation rights. Unenrolled return preparers
+                                                                              may only represent taxpayers before revenue agents, customer
+    1. Confirm through documentation that the individual who is               service representatives, or similar officers and employees of the
+signing the form has authority to sign on behalf of the taxpayer.             Internal Revenue Service (including the Taxpayer Advocate
+See Line 7. Taxpayer Declaration and Signature, later, to                     Service) during an examination of the tax period covered by the
+determine who has this authority.                                             tax return they prepared and signed (or prepared if there is no
+    2. Inspect a valid government-issued photo ID of the                      signature space on the form). Unenrolled return preparers
+individual authorized to sign on behalf of the taxpayer (for                  cannot represent taxpayers, regardless of the circumstances
+example, corporate officer, partner, guardian, tax matters                    requiring representation, before appeals officers, revenue
+partner, partnership representative (PR) (or designated                       officers, attorneys from the Office of Chief Counsel, or similar
+individual (DI), if applicable), executor, receiver, administrator,           officers or employees of the Internal Revenue Service or the
+trustee) and compare the photo to the authorized individual via a             Department of the Treasury. Unenrolled return preparers cannot
+self-taken picture of the authorized individual or video                      execute closing agreements, extend the statutory period for tax
+conferencing. Examples of a government-issued photo ID                        assessments or collection of tax, execute waivers, execute
+include a driver's license, employer ID, school ID, state ID,                 claims for refund, or sign any document on behalf of a taxpayer.
+military ID, national ID, voter ID, visa, or passport.
+                                                                              Representation requirements. Unenrolled return preparers
+    3. Record the name, employer identification number (EIN),                 must possess a valid and active Preparer Tax Identification
+and address of the business entity taxpayer.                                  Number (PTIN) to represent a taxpayer before the IRS, and must
+    4. Verify the business entity taxpayer's name, EIN, and                   have been eligible to sign the return or claim for refund under
+address through secondary documentation, such as a tax                        examination.
+information reporting form (for example, W-2, 1099, etc.), IRS                   For returns prepared and signed after December 31, 2015,
+notice or letter, or utility statement.                                       the unenrolled return preparer must also possess (1) a valid
+If Form 2848 is electronically signed in a remote transaction, the            Annual Filing Season Program Record of Completion for the
+third party must authenticate the signing individual's identity and,          calendar year in which the tax return or claim for refund was
+in the case of an entity taxpayer, must authenticate the                      prepared and signed, and (2) a valid Annual Filing Season
+
+                                                                        -2-                       Instructions for Form 2848 (Rev. 09-2021)
+Program Record of Completion for the year or years in which the             representative's signature to the location where you filed the
+representation occurs. (An Annual Filing Season Program                     Form 2848.
+Record of Completion is not required for returns prepared and
+signed before January 1, 2016.)                                             Additional Information
+     If an unenrolled return preparer does not meet all of the              For additional information concerning practice before the IRS,
+representation requirements, you may authorize the unenrolled               see:
+return preparer to inspect and/or receive your tax information by           • Treasury Department Circular No. 230, Regulations
+filing a Form 8821. Filing a Form 8821 will not authorize the               Governing Practice before the Internal Revenue Service
+unenrolled return preparer to represent you.                                (Circular 230); and
+     For more information about the IRS Annual Filing Season                • Pub. 216, Conference and Practice Requirements.
+Program, go to IRS.gov/Tax-Professionals/Annual-Filing-                     For general information about taxpayer rights, see Pub. 1, Your
+Season-Program. Also see Pub. 947, Practice Before the IRS                  Rights as a Taxpayer, or visit IRS.gov/TBOR.
+and Power of Attorney.                                                         Low Income Taxpayer Clinics (LITCs) are independent from
+                                                                            the IRS and may be able to help you. LITCs represent
+Revocation of Power of Attorney/                                            low-income taxpayers before the IRS and in court. LITCs can
+Withdrawal of Representative                                                help taxpayers who speak English as a second language.
+                                                                            Services are provided for free or a small fee to eligible
+Revocation of a power of attorney. If you want to revoke a                  taxpayers. To find a clinic near you, visit
+previously executed power of attorney and do not want to name               TaxpayerAdvocate.IRS.gov/litcmap or see Pub. 4134, Low
+a new representative, you must write “REVOKE” across the top                Income Taxpayer Clinic List.
+of the first page with a current signature and date below this
+annotation. You must then mail or fax a copy of the power of
+attorney with the revocation annotation to the IRS, using the               Specific Instructions
+Where To File Chart, or if the power of attorney is for a specific
+matter, to the IRS office handling the matter.                              Part I. Power of Attorney
+     If you do not have a copy of the power of attorney you want to
+revoke, you must send the IRS a statement of revocation that                Line 1. Taxpayer Information
+indicates the authority of the power of attorney is revoked, lists          Enter the information requested about you. Do not enter
+the matters and years/periods, and lists the name and address               information about any other person, including your spouse,
+of each recognized representative whose authority is revoked.               except as stated in the specific instructions below.
+You must sign and date this statement. If you are completely
+revoking authority, write "revoke all years/periods" instead of                Address information provided on Form 2848 will not change
+listing the specific matters and years/periods.                             your last known address with the IRS. To change your last
+                                                                            known address, use Form 8822 for your home address and
+Withdrawal by representative. If your representative wants to               Form 8822-B to change your business address.
+withdraw from representation, he or she must write
+“WITHDRAW” across the top of the first page of the power of                 Individuals. Enter your name, SSN, ITIN, and/or employer
+attorney with a current signature and date below the annotation.            identification number (EIN), if applicable, and your street
+Then, he or she must provide a copy of the power of attorney                address or post office box. Do not enter your representative's
+with the withdrawal annotation to the IRS in the same manner                address or post office box. If you file a tax return that includes a
+described in Revocation of a power of attorney, earlier.                    sole proprietorship business (Schedule C (Form 1040)) and you
+                                                                            are authorizing the listed representative(s) to represent you for
+   If your representative does not have a copy of the power of              your individual and business tax matters, including employment
+attorney he or she wants to withdraw, he or she must send the               tax liabilities, enter both your SSN (or ITIN) and your business
+IRS a statement of withdrawal that indicates the authority of the           EIN as your taxpayer identification numbers. If you, your spouse,
+power of attorney is withdrawn, lists the matters and years/                or former spouse are submitting powers of attorney in
+periods, and lists the name, taxpayer identification number, and            connection with a joint return that you filed, you must each
+address (if known) of the taxpayer. The representative must sign            submit separate Forms 2848 even if you are authorizing the
+and date this statement.                                                    same representative(s) to represent you.
+Substitute Form 2848                                                        Partnerships subject to the Centralized Partnership Audit
+The IRS will accept a power of attorney other than Form 2848                Regime under BBA. Enter the name of the PR of the BBA
+provided the document satisfies the requirements for a power of             partnership executing the power of attorney to reflect the PR's
+attorney. See Pub. 216, Conference and Practice Requirements,               relationship to the BBA partnership entity. Also, enter the
+and 26 CFR 601.503(a). These alternative powers of attorney                 address and TIN of the BBA partnership. Do not enter the TIN of
+cannot, however, be recorded on the CAF unless you attach a                 the PR or DI.
+completed Form 2848. See Line 4. Specific Use Not Recorded                     The following examples demonstrate how line 1 should be
+on the CAF, later, for more information. You are not required to            completed.
+sign Form 2848 when you attach it to an alternative power of                  Example 1: John Fox is an individual and the PR for ABC
+attorney that you have signed, but your representative must sign            Partnership. John Fox as partnership representative for:
+the form in Part II, Declaration of Representative. See Pub. 216            ABC Partnership
+and 26 CFR 601.503(b)(2).                                                   1000 Main Street, Anytown, NY 00000
+  For more information, see Non-IRS powers of attorney under                   Example 2: XYZ, LLC, an entity, is the PR with an
+When Is a Power of Attorney Required? in Pub. 947.                          appointed DI as required for ABC Partnership. XYZ, LLC as
+                                                                            partnership representative for:
+Representative Address Change                                               ABC Partnership
+If the representative's address has changed, the IRS does not               1000 Main Street, Anytown, NY 00000
+require a new Form 2848. The representative can send a written
+notification that includes the new information and the
+
+Instructions for Form 2848 (Rev. 09-2021)                             -3-
+   In all instances, the TIN block should be completed with the            representative. The CAF number is a unique nine-digit
+TIN of the partnership, and not that of the partnership                    identification number (not the SSN, EIN, PTIN, or enrollment
+representative or designated individual.                                   card number) that the IRS assigns to representatives. The CAF
+                                                                           number is not an indication of authority to practice. The
+Corporations, associations, or partnerships (not subject to
+                                                                           representative should use the assigned CAF number on all
+TEFRA or BBA). Enter the name, EIN, and business address. If
+                                                                           future powers of attorney. The IRS will not assign CAF numbers
+you are preparing this form for corporations filing a consolidated
+                                                                           for employee plan status determinations or exempt organization
+tax return (Form 1120) and the representation concerns matters
+                                                                           application requests.
+related to the consolidated return, do not attach a list of
+subsidiaries to this form. Only the parent corporation information            If your representative cannot remember his or her CAF
+is required on line 1. Also, for line 3 list only Form 1120 in the         number, they may contact the Practitioner Priority Service (PPS)
+“Tax Form Number” column. A subsidiary must file its own Form              at 866-860-4259. PPS will assist your representative in retrieving
+2848 for returns that must be filed separately from the                    the assigned CAF number.
+consolidated return, such as Form 720, Quarterly Federal Excise
+Tax Return; Form 940, Employer's Annual Federal                                Enter the PTIN, if applicable, for each representative. If the
+Unemployment (FUTA) Tax Return; and Form 941, Employer's                   IRS has not assigned a PTIN, but the representative has applied
+QUARTERLY Federal Tax Return.                                              for one, write “applied for” on the line. Unenrolled return
+                                                                           preparers must possess a valid PTIN to represent a taxpayer
+Exempt organizations. Enter the name, address, and EIN of                  before the IRS.
+the exempt organization.
+                                                                              Check the appropriate box to indicate if the representative's
+Trusts. Enter the name, title, and address of the trustee, and             address, telephone number, or fax number is new since the IRS
+the name and EIN of the trust.                                             issued the CAF number.
+Deceased individuals. For Form 1040, enter the name and
+                                                                              The post-employment restrictions in 18 U.S.C. 207 and
+SSN (or ITIN) of the decedent and the name, title, and address
+                                                                           Circular 230, section 10.25, apply to a representative who is a
+of the decedent's executor or personal representative.
+                                                                           former employee of the federal government. The Treasury
+Estates. Enter the name of the decedent and the name, title,               Inspector General for Tax Administration may enforce criminal
+and address of the decedent's executor or personal                         penalties for violations of the restrictions, and the Office of
+representative. For Forms 706, enter the decedent's SSN (or                Professional Responsibility may take disciplinary action against
+ITIN) for the taxpayer identification number. For all other IRS            the practitioner.
+forms, enter the estate's EIN for the taxpayer identification
+                                                                           Qualifying students or law graduates in LITCs and STCPs.
+number, or, if the estate does not have an EIN, enter the
+                                                                           You must list the lead attorney or CPA as a representative. List
+decedent's SSN (or ITIN).
+                                                                           the lead attorney or CPA first on line 2, then the student or law
+Gifts. Enter the name, address, and SSN (or ITIN) of the donor.            graduate on the next line. Also see Part II. Declaration of
+                                                                           Representative, later.
+Employee plans. Enter the name, address, and EIN or SSN of
+the plan sponsor. Also, enter the three-digit plan number. If the
+plan's trust is under examination, see Trusts above. If both the
+                                                                           Line 3. Acts Authorized
+plan and trust are authorizing the same representative, separate           In order for the power of attorney to be valid, you must enter the
+Forms 2848 are required.                                                   description of the matter, the tax form number (where
+                                                                           applicable), and the year(s) or period(s) (where applicable). For
+Tax-advantaged bonds. Enter the bond issuer's name and                     example, you may list “Income, 1040” for calendar year “2019”
+address. For others (for example, a conduit borrower), follow the          and “Excise, 720” for “2019” (this entry covers all quarters in
+form instructions. For additional instructions specific to                 2019). You may list consecutive multiple years or a series of
+third-party authorization forms regarding tax-advantaged bonds,            inclusive periods, including quarterly periods, by using “through,”
+go to IRS.gov/Forms2848and8821.                                            “thru,” or a hyphen. For example, “2018 thru 2020” or “2nd 2018–
+                                                                           3rd 2019.” For fiscal years, enter the ending year and month,
+Line 2. Representative(s)                                                  using the YYYYMM format. For a short tax period, enter the
+Enter the full name and mailing address of your                            beginning and ending dates of the short period (for example,
+representative(s). You may only name individuals who are                   01/01/2017–02/05/2017). Do not use a general reference such
+eligible to practice before the IRS as representatives. Use the            as “All years,” “All periods,” or “All taxes.” The IRS will return any
+identical full name on all submissions and correspondence. If              power of attorney with a general reference.
+you want to name more than four representatives, write “See
+attached for additional representatives” in the space to the right             Representation only applies for the years or periods listed on
+of line 2 and attach an additional Form(s) 2848.                           line 3. List on line 3 only tax forms directly related to the taxpayer
+                                                                           listed on line 1.
+   If you want to authorize your representative to receive copies
+of all notices and communications sent to you by the IRS, you                  You may list the current year/period and any tax years or
+must check the box provided under the representative's name                periods that have already ended as of the date you sign the
+and address. You may not designate more than two                           power of attorney. You may also list future tax years or periods.
+representatives on Form 2848 (or designees on a Form                       However, the IRS will not record on the CAF system future
+8821) to receive copies of notices and communications                      tax years or periods listed that exceed 3 years from
+sent to you by the IRS for the same matter(s). Do not check                December 31 of the year that the IRS receives the power of
+the box if you do not want copies of notices and communications            attorney. You must enter the description of the matter, the tax
+sent to your representative(s).                                            form number, and the future year(s) or period(s). If the matter
+                                                                           relates to estate tax, enter the decedent's date of death instead
+Note. Representatives will not receive forms, publications, and            of the year or period. If the matter relates to an employee plan,
+other related materials with the correspondence.                           include the plan number in the description of the matter.
+   Enter the nine-digit CAF number for each representative. If                If the matter is not a tax matter, or if the tax form number or
+the IRS has not assigned a CAF number to the representative,               years or periods do not apply to the matter (for example,
+enter “None,” and the IRS will issue one directly to the                   representation for a penalty; filing a request for a ruling or
+
+                                                                     -4-                       Instructions for Form 2848 (Rev. 09-2021)
+determination letter; Application for Award for Original                       If you are authorizing your representative to represent you
+Information under section 7623; Closing Agreement on Final                  only with respect to penalties and interest due on the penalties,
+Determination Covering Specific Classification Settlement                   enter “Civil Penalty” in the “Description of Matter” column and the
+Program (CSP); Form 8952, Application for Voluntary                         year(s) or period(s) to which the penalty applies in the “Year(s)
+Classification Settlement Program (VCSP); Report of Foreign                 or Period(s)” column. Enter “Not Applicable” in the “Tax Form
+Bank and Financial Accounts (FBAR); or Freedom of Information               Number” column. You do not have to enter the specific penalty.
+Act (FOIA)), specifically describe the matter to which the power               Note. If the taxpayer is subject to penalties related to an
+of attorney pertains (including, if applicable, the name of the             individual retirement account (IRA) (for example, a penalty for
+employee benefit plan) and enter “Not Applicable” in the                    excess contributions), enter “IRA Civil Penalty” on line 3.
+appropriate column(s).
+   Centralized Partnership Audit Regime (BBA). For powers                   Representation for joint tax returns matters. Spouses who
+of attorney related to the centralized partnership audit regime,            filed a joint individual income tax return (or returns) must execute
+enter “Centralized Partnership Audit Regime (BBA)” in the                   their own separate power of attorney on Form 2848. If the matter
+“Description of Matter” column on line 3, then enter the form               described on line 3 is your joint income tax liability, but you also
+number (for example, 1065) and tax year in the appropriate                  want your representative to represent you for any separate
+column(s).                                                                  matter(s), you must describe the other matter(s) on line 3 (for
+                                                                            example, a gift tax matter).
+    Partnerships under the Centralized Partnership Audit Regime
+                                                                                Innocent spouse relief. For joint returns, section 6015
+are required to designate a partnership representative for each
+                                                                            provides relief from joint and several liability. If you want to
+tax year. The designation must be made on the partnership
+                                                                            authorize your representative to represent you for innocent
+return for the partnership tax year to which the designation
+                                                                            spouse relief, you must specify your intention, such as by
+relates. Form 2848 is not used to designate a partnership
+                                                                            entering “Innocent Spouse Relief” in the “Description of Matter”
+representative. For more information on designating a
+                                                                            column on line 3, entering “Form 8857” in the “Tax Form
+partnership representative, see Form 8979, Partnership
+                                                                            Number” column, or attaching an executed Form 8857, Request
+Representative Revocation, Designation, and Resignation, and
+                                                                            for Innocent Spouse Relief, to Form 2848. For example, if you
+its instructions. Form 2848 is used by the PR to appoint a power
+                                                                            and your spouse or former spouse filed joint returns (Forms
+of attorney to act on its behalf in its capacity as the PR of the
+                                                                            1040) for tax years 2018 and 2019, and you want your
+BBA partnership. Because a partnership representative is
+                                                                            representative to represent you for your income tax liability
+required to be designated for each tax year, it is recommended
+                                                                            generally and for innocent spouse relief for both tax years, you
+that a separate Form 2848 be completed for each tax year a
+                                                                            may list “Income” (as the matter), “Forms 1040 and 8857” (as the
+particular PR would like to appoint a power of attorney.
+                                                                            tax form numbers), and “2018, 2019” (as the applicable tax
+    Note. A Form 2848 for a future year will not be allowed                 years).
+because a partnership representative would not have been
+                                                                                 If you describe innocent spouse relief on line 3, your
+designated in a filed Form 1065.
+                                                                            representative may sign Form 8857 for you. If you do not
+Partnerships that are not subject to TEFRA or have elected                  describe innocent spouse relief on line 3, and Form 8857 is
+out of the BBA and S corporations. For powers of attorney                   attached to Form 2848, you must sign Form 8857; your
+related to a return of partnership income or S corporation                  representative may not sign the form for you.
+income, enter “Income including pass-through items” in the                       Note. If you did not file a joint return, innocent spouse relief
+“Description of Matter” column on line 3, then enter the form               may also be available under section 66, if you were a resident of
+number (for example, 1065 or 1120-S) and tax year in the                    a community property state and you believe you should not be
+appropriate columns.                                                        responsible for the tax attributable to an item of community
+Civil penalty representation (including the trust fund re-                  income. Use Form 8857 to request this type of innocent spouse
+covery penalty) and representation for certain health-                      relief. Follow the instructions above for completing line 3 of Form
+care-related payments. Unless you specifically provide                      2848 and for signing Form 8857.
+otherwise on line 5b, your authorization of tax matters on line 3                For more information about completing Form 2848 in joint
+includes representation for penalties, payments, and interest               return situations, see How Do I Fill Out Form 2848? in Pub. 947.
+related to a specific tax return. However, if the penalty or                For more information about innocent spouse relief, go to
+payment is not related to a return, you must enter “Civil Penalty,”         IRS.gov/Businesses/Small-Businesses-Self-Employed/
+“Section 4980H Shared Responsibility Payment,” or otherwise                 Innocent-Spouse-Relief. Also see Pub. 971, Innocent Spouse
+describe the specific penalty or payment for which you are                  Relief.
+authorizing representation in the “Description of Matter” column
+on line 3.                                                                  Line 4. Specific Use Not Recorded on the CAF
+   Example 1. Joann prepares Form 2848 authorizing Margaret                 Generally, the IRS records powers of attorney on the CAF
+to represent her before the IRS in connection with the                      system. The CAF system is a computer file system containing
+examination of her 2018 and 2019 Forms 1040. Margaret is                    information regarding the authority of individuals appointed
+authorized to represent Joann regarding the accuracy-related                under powers of attorney. The system gives IRS personnel
+penalty that the revenue agent is proposing for the 2018 tax                quicker access to authorization information without requesting
+year.                                                                       the original document from the taxpayer or representative.
+   Example 2. Diana authorizes John to represent her in                     However, a specific-use power of attorney is a one-time or
+connection with her Forms 941 and W-2 for 2019. John is                     specific-issue grant of authority to a representative or is a power
+authorized to represent her in connection with the penalty for              of attorney that does not relate to a specific tax period (except
+failure to file Forms W-2 that the revenue agent is proposing for           for civil penalties) that the IRS does not record on the CAF.
+2019.                                                                       Examples of specific uses not recorded include but are not
+   Example 3. Diana only authorizes John to represent her in                limited to:
+connection with her Form 1040 for 2019. John is not authorized               • Requests for a private letter ruling or technical advice (see
+to represent Diana when the revenue agent proposes a trust                  Rev. Proc. 2021-1, or the latest annual update, available on
+fund recovery penalty against her in connection with the                    IRS.gov);
+employment taxes owed by her closely held corporation.                       • Applications for an EIN;
+
+Instructions for Form 2848 (Rev. 09-2021)                             -5-
+• Claims filed on Form 843, Claim for Refund and Request for                appropriate IRS office with a copy of your written permission or
+Abatement;                                                                  the original Form 2848 that delegated the authority to substitute
+• Corporate dissolutions;                                                   or add another representative.
+• Circular 230 Disciplinary Investigations and Proceedings;                 Disclosure of returns to a third party. A representative
+• Requests to change accounting methods or periods;                         cannot execute consents that will allow the IRS to disclose your
+• Applications for recognition of exemption under sections                  tax return or return information to a third party unless you
+501(c)(3), 501(a), or 521 (Forms 1023, 1024, or 1028);
+                                                                            specifically delegate this authority to the representative by
+• Request for a determination of the qualified status of an                 checking the box on line 5a.
+employee benefit plan (Forms 5300, 5307, 5316, or 5310);
+• Applications for an ITIN filed on Form W-7, Application for IRS           Authority to sign your return. Treasury Regulations section
+Individual Taxpayer Identification Number;                                  1.6012-1(a)(5) permits another person to sign an income tax
+• Applications for an exemption from self-employment tax filed              return for you only in these circumstances:
+on Form 4361, Application for Exemption From Self-Employment                (a) Disease or injury,
+Tax for Use by Ministers, Members of Religious Orders and                   (b) Continuous absence from the United States (including
+Christian Science Practitioners;                                            absence from Puerto Rico) for a period of at least 60 days prior
+• Application for Award for Original Information under section              to the date required by law for filing the return, or
+7623;                                                                       (c) Specific permission is requested of and granted by the IRS
+• Voluntary submissions under the Employee Plans                            for other good cause.
+Compliance Resolution System (EPCRS); and                                   The IRS may grant authority to sign your income tax return to (1)
+• Freedom of Information Act (FOIA) requests.                               your representative, or (2) an agent (a person other than your
+                                                                            representative).
+   Briefly and clearly describe the specific-use issue or matter
+                                                                               Authorizing your representative. Check the box on line 5a
+on line 3, using the above list (if applicable) as a guide. For
+                                                                            authorizing your representative to sign your income tax return
+example, if the matter is an EIN application, you may list "EIN
+                                                                            and include the following statement on the lines provided: “This
+Application" in the “Description of Matter” column of line 3, "Form
+                                                                            power of attorney is being filed pursuant to 26 CFR 1.6012-1(a)
+SS-4" in the “Tax Form Number” column, and “Not Applicable” in
+                                                                            (5), which requires a power of attorney to be attached to a return
+the “Year(s) or Period(s)” column.
+                                                                            if a return is signed by an agent by reason of [enter the specific
+   Check the box on line 4 if the power of attorney is for a                reason listed under (a), (b), or (c) under Authority to sign your
+specific use or issue that the IRS will not record on the CAF. If           return above].”
+you check the box on line 4, the representative should mail or fax             Authorizing an agent. To authorize an agent who is not your
+the power of attorney to the IRS office handling the matter.                representative, you must do all four of the following.
+Otherwise, the representative should bring a copy of the power                  1. Complete lines 1–3.
+of attorney to each meeting with the IRS.
+                                                                                2. Check the box on line 4.
+    A specific-use power of attorney will not revoke any prior
+                                                                                3. Check the box on line 5a titled “Sign a return” and write
+powers of attorney recorded on the CAF or provided to the IRS
+                                                                            the following statement on the lines provided:
+in connection with an unrelated specific matter.
+                                                                                “This power of attorney is being filed pursuant to 26 CFR
+Line 5a. Additional Acts Authorized                                         1.6012-1(a)(5), which requires a power of attorney to be
+                                                                            attached to a return if a return is signed by an agent by reason of
+Use line 5a to modify the acts that your named representative(s)
+                                                                            [enter the specific reason listed under (a), (b), or (c) under
+can perform. Check the box for the additional acts authorized
+                                                                            Authority to sign your return above]. No other acts on behalf of
+and provide details in the space provided (if applicable).
+                                                                            the taxpayer are authorized.”
+Authority to access electronic IRS records via Intermediate                     4. Sign and date the form. If your agent e-files your return,
+Service Providers. Your representative is not authorized to use             he or she should attach Form 2848 to Form 8453, U.S. Individual
+an Intermediate Service Provider to retrieve your confidential tax          Income Tax Transmittal for an IRS e-file Return, and mail it to the
+information indirectly from the IRS unless you check the box                address in the instructions for Form 8453. If your agent files a
+on line 5a. If you do not authorize the use of an Intermediate              paper return, he or she should attach Form 2848 to your return.
+Service Provider, your representative can obtain your tax                   See Line 7. Taxpayer Declaration and Signature, later, for more
+information directly from the IRS by using the IRS e-Services               information on signatures. The agent does not complete Part II of
+Transcript Delivery System.                                                 Form 2848.
+    Intermediate Service Providers are privately owned
+companies that offer subscriptions to their software and/or                 Other. List any other acts you want your representative to be
+services that your authorized representative can use to retrieve,           able to perform on your behalf.
+store, and display your tax return data (personal or business)                       For partnership tax years beginning after December 31,
+instead of your representative obtaining your tax information                        2017, the Bipartisan Budget Act of 2015, which repealed
+directly from the IRS through the IRS e-Services Transcript                   !
+                                                                             CAUTION the TEFRA partnership audit and litigation procedures
+Delivery System. Intermediate Service Providers are                         and the rules applicable to electing large partnerships and
+independent of, and not affiliated in any way with, the IRS. The            replaced them with a new centralized partnership audit regime,
+IRS has no involvement in your representative’s preference to               has eliminated the role of “tax matters partner” and replaced it
+obtain your tax information directly from the IRS or use an                 with “partnership representative.” Pursuant to Treasury
+Intermediate Service Provider to indirectly obtain your tax                 Regulations section 301.9100-22, certain partnerships can elect
+information from the IRS.                                                   to have the new regime apply to partnership returns for tax years
+Substituting or adding a representative. Your representative                beginning after November 2, 2015, and before January 1, 2018.
+cannot substitute or add another representative unless you
+provide your written permission or specifically delegate this               Tax matters partner (TMP). For partnership tax years
+authority to your representative by checking the box on line 5a. If         beginning prior to January 1, 2018, the TMP is authorized to
+authorized, your representative can send in a new Form 2848 to              perform various acts under TEFRA. The following are examples
+substitute or add another representative(s). Your representative            of acts the TMP cannot delegate to the representative.
+must sign the new Form 2848 on your behalf, and submit it to the
+
+                                                                      -6-                      Instructions for Form 2848 (Rev. 09-2021)
+• Binding nonnotice partners to a settlement agreement under                   representative. For taxpayer individuals who are under 18 years
+section 6224 (as in effect on December 31, 2017, prior to repeal)              of age and cannot sign, the individual's parent or
+and, under certain circumstances, binding all partners to a                    court-appointed guardian (with court documents) may sign on
+settlement agreement under Tax Court Rule 248.                                 their behalf. Other individuals may sign for the taxpayer if a Form
+• Filing a request for administrative adjustment on behalf of the              2848 has been signed by the parent or court-appointed guardian
+partnership under section 6227.                                                authorizing them to sign on behalf of the taxpayer individual.
+Partnership representative. For tax years beginning after                      Corporations or associations. An officer with the legal
+December 31, 2017, unless the partnership is an eligible                       authority to bind the corporation or association must sign and
+partnership that has elected out of the centralized partnership                enter his or her exact title.
+audit regime, the partnership is required to designate a
+                                                                               Partnerships. All partners must sign and enter their exact titles.
+partnership representative. The partnership representative (as
+                                                                               If one partner is authorized to act in the name of the partnership,
+defined in section 6223(a)) has the sole authority to act on behalf
+                                                                               only that partner is required to sign and enter his or her title. A
+of the partnership under the centralized partnership audit
+                                                                               partner is authorized to act in the name of the partnership if,
+regime. This authority includes agreeing to settlements and
+                                                                               under state law, the partner has authority to bind the partnership.
+notices of final partnership adjustment, making elections under
+                                                                               A copy of such authorization must be attached.
+section 6226, and agreeing to an extension of the period for
+adjustments under section 6235. The partnership representative                     For purposes of executing Form 2848 in the case of a TEFRA
+does not have to be a partner; however, his or her actions will                partnership audit, the TMP must sign the Form 2848. See Tax
+bind the partnership and all partners of such partnership in                   matters partner (TMP), earlier.
+dealings with the IRS under the centralized partnership audit                      For matters related to the centralized partnership audit
+regime.                                                                        regime, the partnership representative (or designated individual,
+                                                                               if applicable) must sign the Form 2848. The title must be entered
+Line 5b. Specific Acts Not Authorized                                          as “Partnership Representative” if the PR is an individual. If the
+List the act or acts you do not want your representative(s) to                 designated individual is signing on behalf of an entity partnership
+perform on your behalf.                                                        representative, “Designated Individual of [name of Partnership
+                                                                               Representative]” should be entered.
+Line 6. Retention/Revocation of Prior Power(s)                                     For dissolved partnerships, see 26 CFR 601.503(c)(6) (this
+of Attorney                                                                    does not apply to Forms 2848 executed by the PR or TMP under
+If the IRS records this power of attorney on the CAF system, it                BBA or TEFRA, respectively).
+will generally revoke any earlier power of attorney previously                 Estates. If there is more than one executor, only one
+recorded on the system for the same matter. If this power of                   co-executor having the authority to bind the estate is required to
+attorney is for a specific use or is not recorded on the CAF, this             sign. See 26 CFR 601.503(d).
+power of attorney will only revoke an earlier power of attorney
+that is on file with the same office and for the same matters.                 Employee plans. If the plan is listed as the taxpayer on line 1, a
+                                                                               duly authorized individual with the authority to bind the plan must
+    Example. You previously provided the IRS Office of Chief
+                                                                               sign and enter that individual's exact title. If the trust is the
+Counsel with a power of attorney authorizing Attorney A to
+                                                                               taxpayer on line 1, a trustee having the authority to bind the trust
+represent you in a Private Letter Ruling (PLR) matter. Now,
+                                                                               must sign with the title of trustee entered. Complete and attach
+several months later you decide you want to have Attorney B
+                                                                               Form 56, Notice Concerning Fiduciary Relationship, to identify
+handle this matter for you. By providing the IRS Office of Chief
+                                                                               the current trustee.
+Counsel with a power of attorney designating Attorney B to
+handle the same PLR matter, you are revoking the earlier power                 All others. If the taxpayer is a dissolved corporation, deceased
+of attorney authorizing Attorney A to represent you.                           individual, insolvent, or a person for whom or by whom a
+    If you do not want to revoke any existing power(s) of attorney,            fiduciary (a trustee, guarantor, receiver, executor, or
+check the box on line 6 and attach a copy of the power(s) of                   administrator) has been appointed, see 26 CFR 601.503(d).
+attorney. Filing Form 2848 will not revoke any Form 8821 that is               Note. Generally, the taxpayer signs first, granting the authority
+in effect.                                                                     and then the representative signs, accepting the authority
+                                                                               granted. In this situation, for domestic authorizations, the
+Note. If a newly designated PR for a BBA partnership wants to                  representative must sign within 45 days from the date the
+appoint a person as power of attorney to represent the PR in its               taxpayer signed (60 days for authorizations from taxpayers
+capacity of PR for the BBA partnership, it must submit a Form                  residing abroad).
+2848. This must be done even if that person was previously
+                                                                                  If the representative signs first, the taxpayer does not have a
+appointed power of attorney by a prior PR of the same
+                                                                               required time limit for signing.
+partnership and year. Therefore, a new PR that wants to retain a
+prior power of attorney should not check the box on line 6 and
+should submit a new Form 2848 appointing the prior power of
+                                                                               Part II. Declaration of Representative
+attorney.                                                                      The representative(s) you name must sign and date this
+                                                                               declaration and enter the designation (for example, items (a)–(r))
+Line 7. Taxpayer Declaration and Signature                                     under which he or she is authorized to practice before the IRS.
+                                                                               Representatives must sign in the order listed in line 2. In
+         You must handwrite your signature on Form 2848 if you                 addition, the representative(s) must list the following in the
+   !     file it by mail or by fax. Digital, electronic, or typed-font         “Licensing jurisdiction (State) or other licensing authority" and
+CAUTION signatures are not valid signatures for Forms 2848 filed               "Bar, license, certification, registration, or enrollment number”
+by mail or by fax. If you use an electronic signature (see                     columns unless noted otherwise.
+Electronic Signatures, earlier), you must submit your Form 2848
+online (see How To File, earlier).
+
+Individuals. You must sign and date the power of attorney. If
+you filed a joint return, your spouse must execute his or her own
+power of attorney on a separate Form 2848 to designate a
+
+Instructions for Form 2848 (Rev. 09-2021)                                -7-
+ a Attorney—Enter the two-letter abbreviation for the state (for               Representative's powers of attorney recorded on the CAF.
+   example, “NY” for New York) in which admitted to practice and               Representatives may receive a list of their powers of attorney
+   associated bar or license number, if any.                                   recorded on the CAF by following the instructions for submitting
+                                                                               requests at IRS.gov/FOIAguidelines and then clicking on
+ b Certified Public Accountant—Enter the two-letter abbreviation               “Sample CAF Client Listing Request.”
+   for the state (for example, “CA” for California) in which licensed
+   to practice and associated certification or license number, if              Privacy Act and Paperwork Reduction Act Notice. We ask
+   any.                                                                        for the information on this form to carry out the Internal Revenue
+ c Enrolled Agent—Enter the enrollment card number in the block                laws. Form 2848 is provided by the IRS for your convenience
+   provided.                                                                   and its use is voluntary. If you choose to designate a
+                                                                               representative to act on your behalf, you must provide the
+ d Officer—Enter the title of the officer (for example, President,             requested information. Section 6109 requires you to provide
+   Vice President, or Secretary).                                              your identifying number; section 7803 authorizes us to collect
+ e Full-Time Employee—Enter title or position (for example,                    the other information. We use this information to properly identify
+   Comptroller or Accountant).                                                 you and your designated representative and determine the
+                                                                               extent of the representative's authority. Failure to provide the
+ f Family Member—Enter the relationship to the taxpayer (must                  information requested may delay or prevent honoring your power
+   be a spouse, parent, child, brother, sister, grandparent,                   of attorney designation; providing false or fraudulent information
+   grandchild, step-parent, step-child, step-brother, or step-sister).         may subject you to penalties.
+ g Enrolled Actuary—Enter the enrollment card number issued by                     The IRS may provide this information to the Department of
+   the Joint Board for the Enrollment of Actuaries.                            Justice for civil and criminal litigation, and to cities, states, the
+ h Unenrolled Return Preparer—Enter your PTIN.                                 District of Columbia, and U.S. possessions to carry out their tax
+                                                                               laws. We may also disclose this information to other countries
+ k Qualifying Student or Law Graduate—Enter “LITC” or “STCP.”                  under a tax treaty, to federal and state agencies to enforce
+ r Enrolled Retirement Plan Agent—Enter the enrollment card                    federal nontax criminal laws, or to federal law enforcement and
+   number issued by the Return Preparer Office.                                intelligence agencies to combat terrorism.
+                                                                                  You are not required to provide the information requested on
+                                                                               a form that is subject to the Paperwork Reduction Act unless the
+                                                                               form displays a valid OMB control number. Books or records
+Qualifying students or law graduates in LITCs and STCPs.                       relating to a form or its instructions must be retained as long as
+You must receive permission to represent taxpayers before the                  their contents may become material in the administration of any
+IRS by virtue of your status as a law, business, or accounting                 Internal Revenue law.
+student working in an LITC or STCP under section 10.7(d) of
+Circular 230. Law graduates in an LITC or STCP may also                           The time needed to complete and submit a Power of Attorney
+represent taxpayers under the “k” designation in Part II of Form               and Declaration of Representative will vary depending on
+2848. Be sure to attach a copy of the letter from the Taxpayer                 individual circumstances. The estimated average time is:
+Advocate Service authorizing practice before the IRS.                          Recordkeeping, 6 min.; Learning about the law or
+                                                                               authorization, 31 min.; Preparing and sending the form to
+    For information on the requirements for law graduates
+                                                                               the IRS, 80 min.
+working in an LITC or STCP, see Delegation Order 25-18 at
+IRS.gov/Tax-Professionals/Delegation-Orders-Related-to-                            If you have comments concerning the accuracy of these time
+Practice-Before-the-IRS.                                                       estimates or suggestions for making Form 2848 simpler, we
+    Note. Students and law graduates who have been granted                     would be happy to hear from you. You can send your comments
+the ability to practice by a special appearance authorization                  from IRS.gov/FormComments. Or you can send your comments
+under section 10.7(d) of Circular 230 may, subject to any                      to the Internal Revenue Service, Tax Forms and Publications,
+limitations set forth in the letter from the Taxpayer Advocate                 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224.
+Service, fully represent taxpayers before any IRS office and are               Do not send Form 2848 to this office. Instead, see How To File,
+eligible to perform any and all acts listed on a properly executed             earlier.
+Form 2848.
+    For each separate representation, at the end of 130 days
+after the taxpayer's signature date, the CAF will automatically
+purge the student or law graduate practitioner as the taxpayer's
+representative.
+        Any individual may represent an individual or entity
+ TIP before personnel of the IRS when such representation
+        occurs outside the United States. Individuals acting as
+representatives must sign and date the declaration; leave the
+“Licensing jurisdiction (State) or other licensing authority”
+column blank. See section 10.7(c)(1)(vii) of Circular 230.
+
+
+
+
+                                                                         -8-                        Instructions for Form 2848 (Rev. 09-2021)
+

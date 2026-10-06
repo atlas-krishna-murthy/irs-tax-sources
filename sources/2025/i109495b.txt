@@ -1,0 +1,491 @@
+2025
+Instructions for Forms
+1094-B and 1095-B
+Section references are to the Internal Revenue Code unless                Minimum essential coverage includes government-sponsored
+otherwise noted.                                                      programs, eligible employer-sponsored plans, individual market
+                                                                      plans, and other coverage the Department of Health and Human
+Future Developments                                                   Services designates as minimum essential coverage. Minimum
+For the latest information about developments relating to Forms       essential coverage is described in more detail under Who Must
+1094-B, Transmittal of Health Coverage Information Returns, and       File, later.
+1095-B, Health Coverage, and their instructions, such as              Tip: Minimum essential coverage doesn’t include coverage
+legislation enacted after they were published, go to IRS.gov/         consisting solely of excepted benefits. Excepted benefits include
+Form1094B and IRS.gov/Form1095B.                                      vision and dental coverage not part of a comprehensive health
+                                                                      insurance plan, workers’ compensation coverage, and coverage
+What’s New                                                            limited to a specified disease or illness.
+Alternative manner of furnishing statements. Employers no
+longer have to automatically send Form 1095-B to individuals.         Who Must File
+The requirement for furnishing the statement is met if the entity     Every person who provides minimum essential coverage to an
+responsible for providing the statements provides clear,              individual during a calendar year must file an information return
+conspicuous, and accessible notice on its website that an             reporting the coverage. Filers will use Form 1094-B (transmittal)
+individual may request a copy of their statement and the copy is      to submit Forms 1095-B (returns).
+timely furnished. For this purpose, the statement is timely
+                                                                          Employers (including government employers) subject to the
+furnished if provided to the individual no later than the later of
+                                                                      employer shared responsibility provisions sponsoring
+January 31, 2026, or 30 days after the date of the request. For
+                                                                      self-insured group health plans, including individual coverage
+additional guidance, see Notice 2025-15 at IRS.gov/irb/
+                                                                      health reimbursement arrangements (HRAs), will generally
+2025-11_IRB#NOT-2025-15.
+                                                                      report information about the coverage in Part III of Form 1095-C
+Additional Information                                                instead of on Form 1095-B. However, employers that offer
+                                                                      employer-sponsored self-insured health coverage to
+For information relating to the Affordable Care Act, visit IRS.gov/   nonemployees who enroll in the coverage may use Form
+ACA.                                                                  1095-B, rather than Form 1095-C, Part III, to report coverage for
+   For the final regulations relating to Form 1095-B reporting,       those individuals and other family members. In general,
+see Treasury Decision. 9660, 2014-13 I.R.B., at IRS.gov/IRB/          employers with 50 or more full-time employees (including
+2014-13_IRB/AR08.html and Treasury Decision. 9970, 2023-02            full-time equivalent employees) during the prior calendar year
+I.R.B. 311, at IRS.gov/irb/2023-02_IRB.                               are subject to the employer shared responsibility provisions. See
+                                                                      the Instructions for Forms 1094-C and 1095-C for more
+    For additional guidance and proposed regulatory changes           information about who must file Forms 1094-C and 1095-C and
+relating to Form 1095-B reporting, including the requirement to       for more information about reporting coverage for
+solicit the taxpayer identification number (TIN) of each covered      nonemployees. Small employers that aren’t subject to the
+individual for purposes of the reporting of health coverage           employer shared responsibility provisions sponsoring
+information, see Proposed Regulations section 1.6055-1(h) and         self-insured group health plans will use Forms 1094-B and
+Regulations section 301.6724-1.                                       1095-B to report information about covered individuals.
+                                                                      Insured coverage. Health insurance issuers and carriers must
+   For additional information relating to reporting by providers of
+                                                                      file Form 1095-B for most health insurance coverage, including
+minimum essential coverage, go to IRS.gov/Affordable-Care-Act/
+                                                                      individual market coverage and insured coverage sponsored by
+Employers/Information-Reporting-by-Providers-of-Minimum-
+                                                                      employers. However, health insurance issuers and carriers don’t
+Essential-Coverage.
+                                                                      report coverage under the Children’s Health Insurance Program
+   For information relating to filing Forms 1094-B and 1095-B         (CHIP), Medicaid, Medicare (including Medicare Advantage), or
+electronically, visit IRS.gov/For-Tax-Pros/Software-Developers/       the Basic Health Program provided through health insurance
+Information-Returns/Affordable-Care-Act-Information-Return-Air-       companies. These types of coverage are reported by the
+Program.                                                              government sponsors of those programs.
+                                                                          In addition, health insurance issuers and carriers aren’t
+                                                                      required to file Form 1095-B to report coverage in individual
+General Instructions for Forms                                        market qualified health plans that individuals enroll in through
+1094-B and 1095-B                                                     Health Insurance Marketplaces. This coverage is generally
+                                                                      reported by Marketplaces on Form 1095-A. However, health
+Purpose of Form                                                       insurance issuers are required to file Form 1095-B to report on
+                                                                      coverage for employees obtained through the Small Business
+Form 1095-B is used to report certain information to the IRS and      Health Options Program (SHOP). For coverage in 2025 (filing in
+to taxpayers about individuals who are covered by minimum             2026), health insurance issuers and carriers are encouraged
+essential coverage. Eligibility for certain types of minimum          (but not required) to report coverage in catastrophic health plans
+essential coverage can affect a taxpayer’s eligibility for the        enrolled in through the Marketplace.
+premium tax credit.
+
+                                Instructions for Form 1094-B and Form 1095-B (2025) Catalog Number 63017B
+Oct 22, 2025                          Department of the Treasury Internal Revenue Service www.irs.gov
+Eligible Employer-Sponsored Plans                                         4. The TRICARE program, except for the following options.
+Eligible employer-sponsored plans are minimum essential                       a. Coverage on a space-available basis in a military
+coverage and include the following.                                              treatment facility for individuals who aren’t eligible for
+                                                                                 TRICARE coverage for private sector care.
+    1. Group health insurance coverage for employees under the
+       following.                                                             b. Coverage for a line-of-duty-related injury, illness, or
+                                                                                 disease for individuals who have left active duty.
+          a. A governmental plan, such as the Federal Employees
+             Health Benefits program.                                     5. Coverage administered by the Department of Veterans
+          b. An insured plan or coverage offered in the small or large       Affairs that is:
+             group market within a state.                                     a. Coverage consisting of the medical benefits package for
+          c. A grandfathered health plan offered in a group market.              eligible veterans,
+
+    2. A self-insured group health plan for employees. Generally,             b. CHAMPVA, or
+       an HRA, including an individual coverage HRA, is a                     c. Comprehensive health care for children suffering from
+       self-insured group health plan.                                           spina bifida who are the children of Vietnam veterans
+                                                                                 and veterans of covered service in Korea.
+   As noted earlier, minimum essential coverage doesn’t include
+coverage consisting solely of excepted benefits. Excepted                 6. Coverage for Peace Corps volunteers.
+benefits include vision and dental coverage not part of a
+comprehensive health insurance plan, workers’ compensation                7. The Nonappropriated Fund Health Benefits Program of the
+coverage, and coverage limited to a specified disease or illness.            Department of Defense.
+
+    Health insurance issuers or carriers will file Form 1095-B for           In general, the government agency sponsoring the program
+all insured employer coverage. Plan sponsors are responsible for         will file Form 1095-B. The state agency that administers a
+reporting self-insured employer coverage. Plan sponsors that are         Medicaid or CHIP program will file Form 1095-B for coverage
+employers subject to the employer shared responsibility                  under those programs. However, Medicaid and CHIP agencies
+provisions must generally report the coverage on Form 1095-C             in U.S. territories (American Samoa, the Commonwealth of the
+and other plan sponsors (such as employers not subject to the            Northern Mariana Islands, Guam, Puerto Rico, and the U.S.
+employer shared responsibility provisions and sponsors of                Virgin Islands) aren’t required to report Medicaid or CHIP
+multiemployer plans) report the coverage on Form 1095-B.                 coverage on Form 1095-B.
+
+        Plan sponsors of self-insured employer coverage include:            When coverage under the Nonappropriated Fund Health
+    • Each participating employer (for its own covered individuals)      Benefits Program of the Department of Defense or TRICARE is
+         in a plan or arrangement established or maintained by more      reported on Form 1095-B, Part I, line 8, filers should use code C
+         than one employer;                                              (government-sponsored program).
+    •    The association, committee, joint board of trustees, or
+                                                                         Coverage designated as minimum essential coverage. The
+         similar group of representatives who establish or maintain a
+                                                                         Department of Health and Human Services has designated the
+         multiemployer plan;
+                                                                         following health benefit plans or arrangements as minimum
+    •    The employee organization for a plan or arrangement
+                                                                         essential coverage.
+         maintained solely by an employee organization; and
+    •    Each participating employer (for its own employees) for a        1. Medicare Part C (Medicare Advantage).
+         plan or arrangement maintained by a Multiple Employer
+         Welfare Arrangement.                                             2. Refugee Medical Assistance.
+
+    A government employer may designate another government                3. Coverage provided to a business owner under a plan that is
+entity to report coverage of its employees. Generally, a                     eligible employer-sponsored coverage with respect to at
+designated government entity will file Form 1095-B on behalf of a            least one employee.
+government employer that sponsors or maintains a self-insured             4. Coverage under a group health plan provided through
+group health plan for its employees only if that government                  insurance regulated by a foreign government if:
+employer isn’t subject to the employer shared responsibility
+provisions, which would require reporting on Form 1095-C. The                 a. A covered individual is physically absent from the
+Instructions for Forms 1094-C and 1095-C contain further                         United States for at least 1 day during the month, or
+information on reporting options for government entities.                     b. A covered individual is physically present in the United
+                                                                                 States for a full month and the coverage provides health
+Government-Sponsored Programs                                                    benefits within the United States while the individual is
+The following government-sponsored programs are minimum                          outside the United States.
+essential coverage.
+                                                                          5. The Basic Health Program.
+    1. Medicare Part A.
+                                                                          6. Coverage of pregnancy-related services that consists of full
+    2. Medicaid, except for the following programs.                          Medicaid benefits.
+          a. Optional coverage of family planning services.               7. Coverage under a section 1115 demonstration waiver
+                                                                             program.
+          b. Optional coverage of tuberculosis-related services.
+                                                                          8. Specific programs listed at CMS.gov/CCIIO/Programs-and-
+          c. Coverage of pregnancy-related services.
+                                                                             Initiatives/Health-Insurance-Market-Reforms/Minimum-
+          d. Coverage of medical emergency services.                         Essential-Coverage.html (click on the link for “Approved
+                                                                             Plans”).
+          e. Coverage of medically needy individuals.
+                                                                            Providers of these and later designated programs will file
+           f. Coverage of COVID-19 testing and diagnostic services.
+                                                                         Form 1095-B. The sponsor for the Basic Health Program is the
+    3. The Children’s Health Insurance Program (CHIP).                   state government agency administering the program.
+
+2                                                                                   Instructions for Forms 1094-B and 1095-B (2025)
+Coverage in More Than One Minimum Essential                           due date for the Forms 1094-B and 1095-B. Form 8809 may be
+                                                                      submitted on paper or through the FIRE System either as a fill-in
+Coverage Plan or Program
+                                                                      form or an electronic file. No signature or explanation is required
+If, for any month, an individual is covered by more than one          for the extension. However, you must file Form 8809 by the due
+minimum essential coverage plan or program that is provided by        date of the returns in order to get the 30-day extension. Under
+the same provider, the provider is required to report only one of     certain hardship conditions, you may apply for an additional
+the plans or programs for that month. For example, if an              30-day extension. See Form 8809 and its instructions for more
+individual is covered by a self-insured major medical plan and an     information about extensions of time to file.
+HRA provided by the same employer for a month, the employer
+is the provider of both types of coverage and is therefore            How to apply. File Form 8809 as soon as you know that a
+required to report the coverage of the individual under only one      30-day extension of time to file is needed. Follow the instructions
+of the arrangements for that month.                                   on Form 8809, which provide information on where to fax or mail
+                                                                      your Form 8809. You can also submit the extension request
+   Generally, reporting is also not required for an individual’s      online through the FIRE System. You are encouraged to submit
+minimum essential coverage for a month if that minimum                requests using the online fill-in form. See Pub. 1220 for more
+essential coverage is offered only to individuals who are also        information on filing online or electronically. See the instructions
+covered by other minimum essential coverage for which                 for Form 8809 for more information.
+reporting is required. For example, an insurance company
+offering a Medicare or TRICARE supplement for which only              Where To File
+individuals enrolled in Medicare or TRICARE are eligible is not
+required to report coverage under the Medicare or TRICARE             Send all information returns filed on paper to the following.
+supplement.
+   Under this rule, a state Medicaid agency is not required to           If your principal business,
+report Medicaid coverage for which only individuals enrolled in           office or agency, or legal
+                                                                                                           Use the following address:
+other minimum essential coverage, such as employer-sponsored            residence in the case of an
+coverage or a qualified health plan, are eligible.                         individual, is located in:
+                                                                                       ▼                                ▼
+    This second rule applies to eligible employer-sponsored
+coverage only if both types of coverage (the supplemental              Alabama, Arizona, Arkansas,
+coverage and the eligible employer-sponsored coverage for              Connecticut, Delaware, Florida,
+which section 6055 reporting is required) are offered by the           Georgia, Kentucky, Louisiana,
+same employer. For example, if an employer offers both an              Maine, Massachusetts,               Department of the Treasury
+insured group health plan and an HRA that an employee is               Mississippi, New Hampshire,          Internal Revenue Service
+eligible for if the employee enrolls in the insured group health       New Jersey, New Mexico, New                    Center
+plan, and an employee enrolls in both, the employer is not             York, North Carolina, Ohio,               Austin, TX 73301
+required to report the employee’s coverage under the HRA for           Pennsylvania, Rhode Island,
+the months in which the employee is enrolled in both plans. If,        Texas, Vermont, Virginia,
+however, an individual is covered by an HRA sponsored by one           West Virginia
+employer, including an individual coverage HRA, and a non-HRA
+group health plan sponsored by another employer (such as               Alaska, California, Colorado,
+spousal coverage) or an individual is covered by an individual         District of Columbia, Hawaii,
+coverage HRA, each employer (or the health insurance issuer or         Idaho, Illinois, Indiana, Iowa,
+carrier, if the plan is insured) must report the coverage the                                              Department of the Treasury
+                                                                       Kansas, Maryland, Michigan,
+employer (or issuer or carrier) provides.                                                                  Internal Revenue Service
+                                                                       Minnesota, Missouri, Montana,
+                                                                                                                     Center
+   For more information on the reporting of supplemental               Nebraska, Nevada, North
+                                                                                                                P.O. Box 219256
+coverage, including the rule on when different entities are treated    Dakota, Oklahoma, Oregon,
+                                                                                                          Kansas City, MO 64121-9256
+as a single employer for purposes of the second rule, see              South Carolina, South Dakota,
+Proposed Regulations section 1.6055-1(d)(2) and (3).                   Tennessee, Utah, Washington,
+                                                                       Wisconsin, Wyoming
+When To File
+Generally, the return and transmittal form must be filed with the
+IRS on or before February 28 if filing on paper (March 31 if filing
+electronically) of the year following the calendar year of               If your legal residence or principal place of business or
+coverage.                                                             principal office or agency is outside the United States, file with
+                                                                      the Department of the Treasury, Internal Revenue Service
+   You will meet the requirement to file if the form is properly      Center, Austin, TX 73301.
+addressed and mailed on or before the due date. If the regular
+due date falls on a Saturday, Sunday, or legal holiday, file by the   How To File
+next business day. A business day is any day that isn’t a
+Saturday, Sunday, or legal holiday.                                   Filing Paper Returns With the IRS
+   For forms filed in 2026 reporting coverage provided in             Shipping and mailing. If you’re filing on paper, send the forms
+calendar year 2025, Forms 1094-B and 1095-B are required to           to the IRS in a flat mailing (not folded) and don’t staple or
+be filed by March 2, 2026, or March 31, 2026, if filing               paperclip the forms together. If you’re sending many forms, you
+electronically.                                                       may send them in conveniently sized packages. On each
+   See Statements Furnished to Individuals, later, for information    package, write your name, and number the packages
+on when Form 1095-B must be furnished.                                consecutively. Place Form 1094-B in package number one and a
+                                                                      copy of Form 1094-B in each additional package. Postal
+Extension of Time To File                                             regulations require forms and packages to be sent by first-class
+You can get an automatic 30-day extension of time to file by          mail. Returns filed with the IRS must be printed in landscape
+completing Form 8809 and filing it with the IRS on or before the      format.
+
+Instructions for Forms 1094-B and 1095-B (2025)                                                                                            3
+Keeping copies. Generally, keep copies of information returns            Corrected Form 1095-B
+you filed with the IRS or maintain the ability to reconstruct the        For information about filing corrections for electronically filed
+data for at least 3 years, from the due date of the returns.             forms, see section 7.1 of Pub. 5165. A corrected return should
+                                                                         be filed as soon as possible after an error is discovered. File
+Electronic Filing                                                        corrected returns as follows.
+                        If you’re required to file 10 or more              • Form 1095-B: Fully complete Form 1095-B and enter an “X”
+                        information returns, you must file                    in the “CORRECTED” checkbox. File a Form 1094-B
+                        electronically. The 10-or-more requirement            Transmittal with the corrected Forms 1095-B. (Do not file a
+applies in the aggregate to certain information returns.                      corrected Form 1094-B.)
+Accordingly, a filer may be required to file fewer than 10 Forms           • Recipient’s statement: A copy of the corrected Form 1095-B
+1094-B and 1095-B, but still have an electronic filing obligation             must be furnished to the individual who received the original
+based on other kinds of information returns filed. The electronic             Form 1095-B.
+filing requirement does not apply if you request and receive a
+                                                                         Note. Enter an “X” in the “CORRECTED” checkbox only when
+hardship waiver. The IRS encourages you to file electronically
+                                                                         correcting a Form 1095-B previously filed with the IRS. If you are
+even if you’re filing fewer than 10 returns.
+                                                                         correcting a Form 1095-B that was previously furnished to a
+Waiver. To receive a waiver from the required filing of                  recipient, but not filed with the IRS, write, print, or type
+information returns electronically, submit Form 8508. You are            “CORRECTED” on the new Form 1095-B furnished to the
+encouraged to file Form 8508 at least 45 days before the due             recipient.
+date of the return but no later than the due date of the return. The     Tip: See the next chart for examples of errors and step-by-step
+IRS doesn’t process waiver requests until January 1 of the               instructions for filing corrected returns.
+calendar year the returns are due. You can’t apply for a waiver for
+more than 1 tax year at a time. If you need a waiver for more than         Original Form 1095-B Filed With the IRS and Furnished to the
+1 tax year, you must reapply at the appropriate time each year.                                     Recipient
+An approved waiver for original returns will cover corrections only       IF any of the following are       THEN ...
+for the same type of return. If you receive an approved waiver,           incorrect ...
+don’t send a copy of it to the Service Center where you file your
+paper returns. Keep the waiver for your records only.                     Name of responsible individual    1. Fully complete a new Form
+                                                                          (Part I)                          1095-B and enter an “X” in the
+    If you are required to file electronically but fail to do so, and                                       “CORRECTED” checkbox.
+you don’t have an approved waiver, you may be subject to a
+                                                                                                            2. File a Form 1094-B Transmittal
+penalty of up to $340 per return unless you establish reasonable
+                                                                                                            with the corrected Form 1095-B.
+cause. However, you can file up to 10 returns on paper; those
+                                                                          Origin of the Health Coverage     3. Furnish a copy of the corrected
+returns will not be subject to a penalty for failure to file
+                                                                          (Part I)                          Form 1095-B to the person
+electronically.
+                                                                                                            identified as the responsible
+    Pub. 5165, Guide for Electronically Filing Affordable Care Act                                          individual.
+(ACA) Information Returns for Software Developers and
+Transmitters, specifies the communication procedures,                     Social security number (SSN) or
+transmission formats, business rules, and validation procedures,          taxpayer identification number
+and explains when a return will be accepted, accepted with                (TIN) (Part I)
+errors, or rejected for returns filed electronically for calendar year
+2025 through the ACA Information Return (AIR) system. To                  Information About Certain
+develop software for use with the AIR system, software                    Employer-Sponsored Coverage
+developers, transmitters, and issuers, including employers filing         (Part II)
+their own Forms 1094-B and 1095-B, should use the guidelines
+provided in Pub. 5165, along with the Extensible Markup                   Issuer or Other Coverage
+Language (XML) Schemas published on IRS.gov.                              Provider (Part III)
+
+Reminder. The formatting directions in these instructions are for         Covered Individuals (Part IV)
+the preparation of paper returns. When filing forms electronically,
+the formatting set forth in the XML Schemas and Business Rules
+published on IRS.gov must be followed rather than the formatting
+directions in these instructions. For more information regarding
+electronic filing, see Pubs. 5164 and 5165.                              Caution: You must file a corrected return to report retroactive
+                                                                         changes in coverage.
+Substitute Returns Filed With the IRS                                       Example 1. Tim enrolls in health insurance with Ace
+See Pub. 5223, General Rules and Specifications for Affordable           Insurance Company in January 2025. Tim fails to pay the
+Care Act Substitute Forms 1095-A, 1094-B, 1095-B, 1094-C,                premiums for November and December 2025 and January 2026.
+and 1095-C, for specifications for private printing of substitute        Ace sends Tim a Form 1095-B on January 30, 2026, reporting
+information returns. You may not request special consideration.          coverage for every month in 2025. On February 2, 2026, Ace
+Only forms that conform to the official form and the specifications      cancels Tim’s coverage effective November 3, 2025. Ace must
+in Pub. 5223 are acceptable for filing with the IRS. Substitute          send Tim a corrected Form 1095-B reporting that Tim was
+returns filed with the IRS must be printed in landscape format.          covered only for January through October 2025. If Ace filed the
+                                                                         Form 1095-B with the IRS, it must file a corrected Form 1095-B
+Void Box                                                                 with the IRS reporting coverage only for January through
+Don’t use this box on Form 1095-B.                                       October 2025.
+
+                                                                            Example 2. Sharon is enrolled in Medicaid for January
+                                                                         through September 2025. The Medicaid agency files a Form
+                                                                         1095-B and furnishes a statement to Sharon reporting coverage
+
+4                                                                                     Instructions for Forms 1094-B and 1095-B (2025)
+for January through September 2025. In April 2026, Sharon is                a provider’s website provides a clear and conspicuous
+approved for Medicaid coverage beginning on November 3,                     notice if it (1) includes a statement on the main page—or a
+2025. The Medicaid agency must file a corrected Form 1095-B                 link on the main page, reading “Tax Information,” to a
+with the IRS and furnish Sharon a corrected statement reporting             secondary page that includes a statement—in capital
+coverage for January through September and November through                 letters, “IMPORTANT HEALTH COVERAGE TAX
+December 2025.                                                              DOCUMENTS;” (2) explains how responsible individuals
+                                                                            may request a copy of Form 1095-B, Health Coverage (or,
+Statements Furnished to Individuals                                         for an applicable large employer member that sponsors a
+Filers of Form 1095-B must furnish a copy by March 2, 2026, to              self-insured group health plan and makes a return in
+the person identified as the "responsible individual" on the form           accordance with Regulations section 1.6055-1(f)(2)(i),
+for coverage in 2025. However, a provider of minimum essential              explains how non-full-time employees and nonemployees
+coverage will be treated as timely furnishing Form 1095-B to                who are enrolled in the plan may request a copy of Form
+individuals if the form is made available through the provider’s            1095-C, Employer-Provided Health Insurance Offer and
+website and certain conditions are met. See Alternative manner              Coverage); and (3) includes the provider’s email address,
+of furnishing statements, later.                                            mailing address, and telephone number;
+    The “responsible individual” is the person who, based on a           • The provider must post the notice on its website by March 3,
+relationship to the covered individuals, the primary name on the            2025, and retain the notice in the same location on its
+coverage, or some other circumstances, should receive the                   website through October 15, 2025; and
+statement. Generally, the statement recipient should be the              • The provider must furnish the statement to a requesting
+primary taxpayer, if that person is known. A statement recipient            responsible individual within 30 days of the date the request
+may be a parent if only minor children are covered individuals, a           is received. To satisfy this requirement, the provider may
+primary subscriber for insured coverage, an employee or former              furnish the statement electronically if the recipient
+employee in the case of employer-sponsored coverage, a                      affirmatively consents.
+uniformed services sponsor for TRICARE, or another individual
+                                                                        Effective January 31, 2024, employers no longer have to
+who should receive the statement. Filers may, but aren’t required
+                                                                        automatically send Form 1095-B to individuals. Employers can
+to, furnish a statement to more than one recipient.
+                                                                        now post a notice on its website informing individuals that they
+   Copies of Form 1095-B furnished to recipients may include a          may request a copy of the statement. The requirement to provide
+truncated SSN or other TIN, if applicable, of the statement             the statement is met as long as the notice satisfies the
+recipient and covered individuals by showing only the last four         requirements set forth and above is:
+digits of the SSN or other TIN and replacing the first five digits        • Clear, conspicuous, and reasonably accessible to all
+with asterisks (*) or Xs. Copies of Form 1095-B furnished to                 responsible individuals;
+recipients may also truncate the employer identification number
+                                                                         • Timely posted, which for tax year 2025 is by March 2, 2026,
+(EIN) of an employer reported in Part II, if any. The filer’s EIN may       and retained until October 15 of the filing year; and
+not be truncated on the statement furnished to recipients.
+Truncation of TINs, including EINs, is not allowed on returns filed      • Furnished to the individual no later than the later of January
+with the IRS.                                                               31, 2026, or 30 days after the date of the request.
+   In general, statements must be furnished on paper by mail (or               For additional guidance, see IRS.gov/irb/
+hand delivered), unless the recipient affirmatively consents to             2025-11_IRB#NOT-2025-15.
+receive the statement in an electronic format. If mailed, the           Consent to furnish statement electronically. Except as
+statement must be sent to the recipient’s last known permanent          provided below, a filer is required to obtain affirmative consent to
+address, or, if no permanent address is known, to the recipient’s       furnish a statement electronically. The requirement to obtain
+temporary address.                                                      affirmative consent to furnish a statement electronically ensures
+Alternative manner of furnishing statements. A provider of              that statements are sent electronically only to individuals who
+minimum essential coverage will be treated as timely furnishing         are able to access them. The consent must relate specifically to
+Form 1095-B to individuals if the provider uses the alternative         receiving Form 1095-B electronically. A recipient may consent on
+manner of furnishing statements described in Regulations                paper or electronically, such as by email. If consent is on paper,
+section 1.6055-1(g). If the provider is an applicable large             the recipient must confirm the consent electronically. A
+employer (as defined under Regulations section 54.4980H-1(a)            statement may be furnished electronically by email or by
+(4)) that offers employer-sponsored self-insured health                 informing the recipient how to access the statement on the filer’s
+coverage, the employer may use the alternative manner of                website. Statements reporting coverage under an expatriate
+furnishing for statements to non-full-time employees and                health plan, however, may be furnished electronically unless the
+nonemployees who are enrolled in the self-insured health                recipient has explicitly refused to consent to receive the
+coverage. See Who Must File, earlier. To use the alternative            statement in an electronic format.
+manner of furnishing statements, the following conditions must          Extension of time to furnish statement to recipients. The
+be met. In addition:                                                    due date for furnishing Form 1095-B is automatically extended
+  • The provider must provide clear and conspicuous notice, in          from February 2, 2026, to March 2, 2026. Thus, no additional
+     a location on its website that is reasonably accessible to all     extensions will be granted.
+     responsible individuals, stating that responsible individuals
+     may receive a copy of their statement upon request. The            Substitute Statements to Recipients
+     notice must include an email address, a physical address to
+     which a request for a statement may be sent, and a                 If you aren’t using the official IRS form to furnish statements to
+     telephone number that responsible individuals may use to           recipients, see Pub. 5223, which explains the requirements for
+     contact the provider with any questions. A notice posted on        format and content of substitute statements to recipients. You
+     a provider’s website must be written in plain, non-technical       may develop them yourself or buy them from a private printer.
+     terms and with letters of a font size large enough, including
+     any visual clues or graphical figures, to call to a viewer’s
+                                                                        Information Reporting Penalties
+     attention that the information pertains to tax statements          A provider of minimum essential coverage that fails to comply
+     reporting that individuals had health coverage. For example,       with the information reporting requirements may be subject to
+
+Instructions for Forms 1094-B and 1095-B (2025)                                                                                              5
+penalties for failure to file correct information returns and failure   Line 8. Enter the letter identifying the Origin of the Health
+to furnish correct payee statements. For returns required to be         Coverage. See Who Must File, earlier, to determine which types
+filed and statements required to be furnished for 2025 tax year         of coverage fall under each category listed below.
+returns, the following apply.                                           A. Small Business Health Options Program (SHOP).
+   • The penalty for failure to file a correct information return is    B. Employer-sponsored coverage, except for an individual
+     $340 for each return for which the failure occurs, with the        coverage HRA.
+     total penalty for a calendar year not to exceed $4,098,500.        C. Government-sponsored program.
+   • The penalty for failure to provide a correct payee statement       D. Individual market insurance.
+     is $340 for each statement for which the failure occurs, with      E. Multiemployer plan.
+     the total penalty for a calendar year not to exceed                F. Other designated minimum essential coverage.
+     $4,098,500.                                                        G. Employer-sponsored coverage that is an individual coverage
+   • There are lower annual maximums applicable to small                HRA.
+     businesses with average gross receipts of $5 million or less.
+   • The penalty per return increases to $680 with no annual            Line 9. For 2025, leave this line blank.
+     maximum limitation if there is intentional disregard of the
+     requirement to file the returns and furnish payee statements.      Part II—Information About Certain
+                                                                        Employer-Sponsored Coverage
+Waiver of Penalties                                                     This part is completed only by issuers or carriers of insured
+                                                                        group health plans, including coverage purchased through the
+The penalties may be waived if the failure was due to reasonable        SHOP.
+cause and not willful neglect. See section 6724, Regulations
+                                                                        Tip: Insurance companies entering code A or B on line 8 will
+section 301.6724-1, and Regulations section 1.6055-1(h). For
+                                                                        complete Part II. Employers reporting self-insured group health
+additional information, see Pub. 1586.
+                                                                        plan coverage on Form 1095-B, except for an individual
+                                                                        coverage HRA, enter code B on line 8, but don’t complete Part II.
+Specific Instructions for Form 1094-B                                   If you entered code B for self-insured coverage, skip Part II and
+                                                                        go to Part III.
+Line 1. Enter the filer’s complete name.
+                                                                        Lines 10–15. Enter the name, EIN, and complete mailing
+Line 2. Enter the filer’s nine-digit employer identification number     address for the employer sponsoring the coverage. If mail isn’t
+(EIN). If you don’t have an EIN, you may apply for one online at        delivered to the street address and the employer has a P.O. box,
+IRS.gov/EIN. You may also apply by faxing or mailing Form SS-4,         enter the box number instead of the street address. See
+Application for Employer Identification Number, to the IRS. See         Statements Furnished to Individuals, earlier, for information on
+the Instructions for Form SS-4 and Pub. 1635 for more                   truncating the employer’s EIN. If the employer is a member of a
+information.                                                            controlled group, enter information for the specific controlled
+Lines 3 and 4. Enter the name and telephone number,                     group member that is the covered employee’s employer. If the
+including area code, of the person to contact who is responsible        coverage is provided through an association or a Multiple
+for answering any questions from the IRS regarding the filing of        Employer Welfare Arrangement, enter information for the
+or information reported on Form 1094-B or 1095-B.                       participating employer of the covered employee. Don’t complete
+                                                                        Part II if the coverage is provided through a multiemployer plan.
+Lines 5–8. Enter the filer’s complete address where all
+correspondence will be sent. If mail is delivered to a P.O. box and     Part III—Issuer or Other Coverage Provider
+not a street address, enter the box number instead of the street
+address.                                                                Lines 16–22. Enter your name, EIN, and complete mailing
+                                                                        address. The provider of the coverage is the issuer or carrier of
+Line 9. Enter the total number of Forms 1095-B that are                 insured coverage, sponsor of a self-insured employer plan,
+transmitted with Form 1094-B.                                           government agency providing government-sponsored coverage,
+                                                                        or other coverage sponsor. Enter on line 18 the telephone
+Specific Instructions for Form 1095-B                                   number that an individual seeking additional information may call
+                                                                        to speak to a person.
+Part I—Responsible Individual
+                                                                        Part IV—Covered Individuals
+Line 1. Enter the name of the responsible individual (statement
+recipient). See the description of who is a “responsible                Column (a). Enter the name of each covered individual.
+individual” under Statements Furnished to Individuals, earlier.         Column (b). Enter the nine-digit SSN or other TIN for each
+Line 2. Enter the nine-digit social security number (SSN) of the        covered individual (111-11-1111). The field may be left blank if
+responsible individual (111-11-1111). If the responsible                the covered individual doesn’t have a TIN. See Statements
+individual doesn’t have an SSN, enter the responsible                   Furnished to Individuals, earlier, for information on truncating the
+individual’s other TIN. No SSN or other TIN is required if the          SSN or other TIN.
+responsible individual isn’t a covered individual identified in Part    Column (c). Enter a date of birth (YYYY/MM/DD) for the
+IV. See Statements Furnished to Individuals, earlier, for               covered individual only if an SSN or other TIN isn’t entered in
+information on truncating the SSN or other TIN.                         column (b).
+Line 3. Enter the responsible individual’s date of birth                Column (d). Check this box if the individual was covered for at
+(YYYY/MM/DD) only if line 2 is blank.                                   least 1 day per month for all 12 months of the calendar year.
+Lines 4–7. Enter the complete mailing address of the                    Column (e). If the individual wasn’t covered for all 12 months,
+responsible individual. If mail isn’t delivered to the street address   check the applicable box(es) for the month(s) in which the
+and the responsible individual has a P.O. box, enter the box            individual was covered for at least 1 day.
+number instead of the street address.                                       If there are more than six covered individuals, complete this
+                                                                        information for the additional covered individuals on Part IV,
+
+6                                                                                   Instructions for Forms 1094-B and 1095-B (2025)
+Continuation Sheet(s). Do not count the Continuation Sheet(s)         their contents may become material in the administration of any
+as additional Forms 1095-B in the count of forms submitted with       Internal Revenue law. Generally, tax returns and return
+the accompanying Form 1094-B.                                         information are confidential, as required by section 6103.
+
+Privacy Act and Paperwork Reduction Act Notice. We ask                   The time needed to complete the following forms will vary
+for the information on these forms to carry out the Internal          depending on individual circumstances. The estimated average
+Revenue laws of the United States and the Patient Protection          time is:
+and Affordable Care Act. Our legal right to ask for the information
+on this form is Internal Revenue Code section 6055 and its             Form 1094-B . . . . . . . . . . . . . . .              10 min.
+regulations. Providing false or fraudulent information may subject
+you to penalties. We may disclose this information to the              Form 1095-B . . . . . . . . . . . . . . .               1 min.
+Department of Justice for civil or criminal investigation, and to
+cities, states, and the District of Columbia for use in
+administering their tax laws. We may also disclose this
+information to other countries under a tax treaty, to federal and        If you have comments concerning the accuracy of these time
+state agencies to enforce federal nontax criminal laws, or to         estimates or suggestions for making this form simpler, we would
+federal law enforcement and intelligence agencies to combat           be happy to hear from you. You can send us comments from
+terrorism.                                                            IRS.gov/FormComments. Or you can write to the Internal
+                                                                      Revenue Service, Tax Forms and Publications Division, 1111
+    You aren’t required to provide the information requested on a
+                                                                      Constitution Ave. NW, IR-6526, Washington, DC 20224. Don’t
+form that is subject to the Paperwork Reduction Act unless the
+                                                                      send the form to this office.
+form displays a valid OMB control number. Books or records
+relating to a form or its instructions must be retained as long as
+
+
+
+
+Instructions for Forms 1094-B and 1095-B (2025)                                                                                         7
+

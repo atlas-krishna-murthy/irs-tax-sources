@@ -1,0 +1,436 @@
+Instructions for Form 1098-Q
+(Rev. April 2025)
+
+Qualifying Longevity Annuity Contract Information
+Section references are to the Internal Revenue Code unless
+otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to
+Form 1098-Q and its instructions, such as legislation enacted
+after they were published, go to IRS.gov/Form1098Q.
+You can get the General Instructions for Certain
+Information Returns at IRS.gov/1099GeneralInstructions.
+
+What’s New
+Annual inflation adjustments to dollar limitations on
+premiums. For the inflation adjusted amount, see the dollar
+limitation on premiums paid for a QLAC, visit Annual
+adjustment for maximum contributions and benefit limitations
+for certain retirement plans (for the tax year of the return
+being filed).
+New regulations affect Qualifying Longevity Annuity
+Contracts (QLAC). Final regulations under section 401(a)
+(9) were published in TD 10001, effective date of September
+17, 2024. The final regulations under section 401(a)(9) apply
+for distribution calendar years beginning on or after January
+1, 2025.
+
+Reminders
+
+In addition to these specific instructions, you should also use
+the current General Instructions for Certain Information
+Returns. Those general instructions include information
+about the following topics.
+• Who must file.
+• When and where to file.
+• Electronic reporting.
+• Corrected and void returns.
+• Statements to recipients.
+• Taxpayer identification numbers (TINs).
+• Backup withholding.
+• Penalties.
+• Other general topics.
+Continuous use revision. Use these instructions for tax
+year 2025 and subsequent years until a superseding revision
+is issued.
+Divorce guidelines. A divorce that occurs after the
+purchase of a qualifying longevity annuity contract with joint
+and survivor annuity benefits will not affect the permissibility
+of the benefits payable under the contract, provided that
+certain requirements are met. See Divorce guidelines under
+Death of Employee, later.
+Online fillable Copy B. To ease statement furnishing
+requirements, Copy B of Form 1098-Q is fillable online in a
+PDF format, available at IRS.gov/Forms1098Q. You can
+complete this copy online for furnishing statements to
+recipients and for retaining in your own files.
+Repeal of 25% premium limit. Premiums are no longer
+limited to 25% of an individual's retirement account balance.
+See QLACs Purchased Before December 29, 2022, later.
+Mar 12, 2025
+
+Short free look period permitted. The right to rescind a
+contract within 90 days following the date of purchase will not
+cause the contract to fail to be a QLAC. See Specific
+Instructions, later.
+
+Specific Instructions
+
+File Form 1098-Q, Qualifying Longevity Annuity Contract
+Information, if you issue any contract that is intended to be a
+qualifying longevity annuity contract (QLAC). Prior to
+annuitization, the value of a QLAC is excluded from the
+account balance that is used to determine required minimum
+distributions. A QLAC is an annuity contract that is purchased
+from an insurance company for an employee under any plan,
+annuity, or account described in section 401(a), 403(a),
+403(b), or 408 (other than a Roth IRA) or eligible
+governmental plan under section 457(b), and that satisfies
+each of the following requirements.
+• Premiums for the contract satisfy the dollar limitation
+described later under Limitation on Premiums—Plans or
+Limitation on Premiums—IRAs, as applicable.
+• The contract provides that distributions under the contract
+must begin no later than a specified annuity starting date that
+is no later than the first day of the month after the employee's
+85th birthday.
+• The contract provides that, after distributions under the
+contract begin, those distributions must satisfy the
+requirements of Regulations section 1.401(a)(9)-6 (other
+than the requirement that annuity payments begin on or
+before the required beginning date).
+• After the required beginning date, the contract does not
+make available any commutation benefit, cash surrender
+right, or other similar feature (other than a right to rescind the
+contract within a period not exceeding 90 days from the date
+of purchase).
+• No benefits are provided under the contract after the death
+of the employee other than the benefits described in
+paragraph (q)(3) of Regulations section 1.401(a)(9)-6.
+• When the contract is issued, the contract (or a rider or
+endorsement with respect to that contract) states that the
+contract is intended to be a QLAC, and
+• The contract is not a variable contract under section 817,
+an indexed contract, or similar contract, except to the extent
+provided by the Commissioner in published guidance.
+An employee includes the owner of an IRA (other than a
+Roth IRA), where applicable.
+
+Limitation on Premiums—Plans
+
+The premiums paid with respect to the contract on a date
+satisfy the limitation requirement if they do not exceed the
+limitation amount. For 2025, the limitation amount is
+$200,000. This amount is adjusted for inflation for calendar
+years beginning on or after January 1, 2025, with increases
+rounded to the next lowest multiple of $10,000. For the
+inflation adjusted amount, see the dollar limitation on
+premiums paid for a QLAC by visiting the applicable annual
+notice at Annual adjustment for maximum contributions and
+
+Instructions for Form 1098Q (Rev. 4-2025) Catalog Number 67096Y
+Department of the Treasury Internal Revenue Service www.irs.gov
+
+benefit limitations for certain retirement plans for the tax year
+of the return being filed.
+For purposes of the dollar limitation on premiums, unless
+the plan administrator has actual knowledge to the contrary,
+the plan administrator may rely on an employee’s
+representation, made in writing or such other form as outlined
+in published guidance, of the amount of the premiums paid
+for any other contract intended to be a QLAC, but only with
+respect to premiums that are not paid under a plan, annuity,
+or contract that is maintained by the employer or an entity
+that is treated as a single employer with the employer under
+section 414(b), (c), (m), or (o).
+
+Limitation on Premiums—Traditional IRAs
+
+The premiums paid with respect to the contract on a date
+satisfy the limitation requirement if they do not exceed the
+limitation amount. For 2025, the limitation amount is
+$200,000. This amount is adjusted for inflation for calendar
+years beginning on or after January 1, 2025, with increases
+rounded to the next lowest multiple of $10,000. For the
+inflation adjusted amount, see the dollar limitation on
+premiums paid for a QLAC by visiting the applicable annual
+notice at Annual adjustment for maximum contributions and
+benefit limitations for certain retirement plans for the tax year
+of the return being filed.
+For purposes of the dollar limitation on premiums, unless
+the trustee, custodian, or issuer of an IRA has actual
+knowledge to the contrary, the trustee, custodian, or issuer
+may rely on the IRA owner’s representation, made in writing
+or in such other form as outlined in published guidance, of
+the amount of premiums paid for any other contract intended
+to be a QLAC and that are not paid under the IRA, and the
+account balance of any other IRA. A contract that is
+purchased under a Roth IRA is not treated as a contract that
+is intended to be a QLAC for purposes of applying the dollar
+limitation rule.
+
+Exchange of Insurance Contract for QLAC
+
+With respect to the dollar limitation on premiums (adjusted for
+inflation), if an insurance contract is exchanged for a contract
+intended to be a QLAC, the FMV of the exchanged contract is
+treated as a premium paid for the QLAC. However, if an
+insurance contract is surrendered for its cash value, the
+surrender extinguishes all benefits and other characteristics
+of the contract, and the cash is used to purchase a QLAC,
+then only the cash from the surrendered contract is treated
+as a premium paid for the QLAC.
+
+QLACs Purchased Before December 29, 2022
+
+Prior to December 29, 2022, a percentage limitation and a
+lower dollar limitation was applied to QLAC premiums. If
+additional premiums are paid under a contract after
+December 29, 2022, those premiums are subject to the new
+premium limitation described above, provided that the
+premiums paid for the contract through December 28, 2022,
+satisfied the premium limitations that applied prior to
+December 29, 2022. The existing contract need not be
+exchanged for another annuity contract on or after that date
+in order for the employee to take advantage of the higher
+premium limits.
+
+QLACs Purchased After December 28, 2022
+
+For contracts purchased or received on or after December
+29, 2022, the 25% limit is repealed, and the dollar limitation
+for QLACs has been adjusted for inflation.
+2
+
+Consequences of Excess Premiums
+
+If an annuity contract fails to be a QLAC solely because a
+premium for a contract exceeds the limitation on premiums
+described earlier, then the contract is not a QLAC beginning
+on the date that premium payment is made unless the excess
+premium is returned to the non-QLAC portion of the
+employee’s account in accordance with Regulations section
+1.401(a)(9)-6(q)(4)(i)(B). If the contract fails to be a QLAC,
+then the value of the contract may not be disregarded under
+Regulations section 1.401(a)(9)-5(b)(4) as of the date on
+which the contract ceases to be a QLAC.
+If the excess premium is returned to the non-QLAC portion
+of the employee’s account by the end of the calendar year
+following the calendar year in which the excess premium was
+originally paid, then the contract will not be treated as
+exceeding the premium limitation at any time, and the value
+of the contract will not be included in the employee’s account
+balance under Regulations section 1.401(a)(9)-5(b)(4).
+If the excess premium is returned to the non-QLAC portion
+of the employee’s account after the last valuation date for the
+calendar year in which the excess premium was originally
+paid, then the employee’s account balance for that calendar
+year must be increased to reflect the excess premium in the
+same manner as an employee’s account balance is
+increased under Regulations section 1.401(a)(9)-7(b) to
+reflect a rollover received after the last valuation date.
+If the excess premium is returned to the non-QLAC portion
+of the employee’s account, as described above, it will not be
+treated as a violation of the requirement that the contract not
+provide a commutation benefit.
+
+Death of Employee
+Surviving spouse is the sole beneficiary. If the employee
+dies on or after the annuity starting date for the contract, the
+only benefit allowed to be paid (except as provided in
+Regulations section 1.401(a)(9)-6(q)(3)(v)) after the
+employee's death is a life annuity payable to the surviving
+spouse where the annuity payment is not in excess of 100%
+of the annuity payment that is payable to the employee.
+If the employee dies before the annuity starting date, the
+only benefit allowed (except as provided in Regulations
+section 1.401(a)(9)-6(q)(3)(v)) is a life annuity payable to the
+surviving spouse where the annuity payment is not in excess
+of 100% of the annuity payment that would have been
+payable to the employee as of the date that benefits to the
+surviving spouse start. However, the annuity is permitted to
+exceed 100% of the annuity payment that would have been
+payable to the employee to the extent necessary to satisfy
+the requirement to provide a qualified preretirement survivor
+annuity (as defined under section 417(c)(2) or ERISA section
+205(e)(2)) pursuant to section 401(a)(11)(A)(ii) or ERISA
+section 205(a)(2).
+Any annuity payable to the surviving spouse of an
+employee who dies before the annuity starting date must
+start no later than the date on which the annuity payable to
+the employee would have started under the contract if the
+employee had not died.
+Surviving spouse is not the sole beneficiary. If the
+employee dies on or after the annuity starting date for the
+contract, the only benefit allowed (except as provided in
+Regulations section 1.401(a)(9)-6(q)(3)(v)) after death is a
+life annuity payable to the designated beneficiary where the
+annuity payment is not in excess of the applicable
+Instructions for Form 1098-Q (Rev. 4-2025)
+
+percentage (determined under Regulations section 1.401(a)
+(9)-6(q)(3)(iii)) of the annuity payment that is payable to the
+employee.
+When the employee dies before the annuity starting date,
+the only benefit allowed to be paid (except as provided in
+Regulations section 1.401(a)(9)-6(q)(3)(v)) is a life annuity
+payable to the designated beneficiary where the annuity
+payment is not in excess of the applicable percentage
+(determined under Regulations section 1.401(a)(9)-6(q)(3)
+(iii)) of the annuity payment that would have been payable to
+the employee as of the date that benefits to the designated
+beneficiary start.
+In any case where the employee dies before the annuity
+starting date, any life annuity payable to a designated
+beneficiary must begin by the last day of the calendar year
+immediately following the year of the employee's death.
+Multiple beneficiaries. If an employee has more than one
+designated beneficiary under a QLAC, the rules in
+Regulations section 1.401(a)(9)-8(a) apply for purposes of
+Regulations section 1.401(a)(9)-6(q)(3)(i) and (ii).
+Divorce guidelines. If there is a divorce after a purchase of
+a QLAC, the payment of survivor benefits to an employee's
+former spouse will not cause the contract to fail to be treated
+as a QLAC, if the divorce or separation instrument, or
+qualified domestic relations order under section 414(p):
+• Provides that the former spouse is entitled to survivor
+benefits under the contract,
+• Provides that the former spouse is treated as the surviving
+spouse for purposes of the contract,
+• Does not modify the former spouse's status as beneficiary
+entitled to survivor benefits under the contract, or
+• Does not modify the former spouse as the measuring life
+for survivor benefits under the contract.
+
+Return of Premiums
+In general, in lieu of a life annuity payable to a designated
+beneficiary under Regulations section 1.401(a)(9)-6(q)(3)(i)
+or (ii), a QLAC is permitted to provide for a benefit paid to a
+beneficiary after the death of the employee in an amount
+equal to the excess of the premium payments made with
+respect to the QLAC over the payments already made under
+the QLAC.
+If a QLAC is providing or will provide a life annuity to a
+surviving spouse under Regulations section 1.401(a)(9)-6(q)
+(3)(i), it is also permitted to provide for a benefit paid to a
+beneficiary after the death of both the employee and the
+spouse in an amount equal to the excess of the premium
+payments made with respect to the QLAC over the payments
+already made under the QLAC.
+A return of premium payment under Regulations section
+1.401(a)(9)-6(q)(3)(v) must be paid no later than the end of
+the calendar year following the calendar year in which the
+employee dies. If the employee’s death is after the required
+beginning date, the return of premium payment is treated as
+a required minimum distribution (RMD) for the year in which it
+is paid and is not eligible for rollover. See the Instructions for
+Forms 1099-R and 5498 for further information regarding
+rollovers and RMDs.
+If the return of premium payment is paid after the death of
+a surviving spouse who is receiving a life annuity (or after the
+death of a surviving spouse who has not yet begun receiving
+Instructions for Form 1098-Q (Rev. 4-2025)
+
+a life annuity after the death of the employee), the return of
+premium payment must be made no later than the end of the
+calendar year following the calendar year in which the
+surviving spouse dies. If the surviving spouse’s death is after
+the required beginning date for the surviving spouse, then the
+return of premium payment is treated as an RMD for the year
+in which it is paid and is not eligible for rollover.
+
+Who Must File
+
+Any person who issues a contract intended to be a QLAC
+that is purchased or held under any plan; annuity; account
+described in section 401(a), 403(a), 403(b), or 408 (other
+than a Roth IRA); or eligible governmental plan under section
+457(b) must file Form 1098-Q.
+
+Furnishing Statements to Participants
+
+If you are required to file Form 1098-Q, you must furnish a
+statement to the participant annually. For more information
+about the requirement to furnish a statement to each
+participant, see part M in the current General Instructions for
+Certain Information Returns.
+
+Truncating participant's TIN on payee statements.
+Pursuant to Regulations section 301.6109-4, all filers of this
+form may truncate a participant's TIN (social security number
+(SSN), individual taxpayer identification number (ITIN),
+adoption taxpayer identification number (ATIN), or employer
+identification number (EIN)) on payee statements. Truncation
+is not allowed on any documents the filer files with the IRS. A
+filer's TIN may not be truncated on any form. See part K in
+the current General Instructions for Certain Information
+Returns.
+Manner and time for filing. You must file Form 1098-Q with
+the IRS and furnish a statement to the individual in whose
+name the contract has been purchased for each calendar
+year beginning with the year in which the premiums for a
+contract are first paid and ending with the earlier of the year
+in which the individual in whose name the contract has been
+purchased reaches age 85 or dies. If the individual dies and
+the sole beneficiary under the contract is the individual's
+spouse (in which case the spouse's annuity would not be
+required to begin until the individual would have started
+benefits under the contract had the individual survived), you
+must file Form 1098-Q and provide a statement annually to
+the spouse until the year in which the distributions to the
+spouse begin or the year in which the spouse dies, if earlier.
+
+Issuer's Name, Address, Telephone Number,
+and TIN Boxes
+
+Enter the name, address (including street address, city or
+town, state or province, country, and ZIP or foreign postal
+code), and telephone number of the entity with the filing
+requirement (issuer) in the box in the upper left corner. The
+telephone number must allow a participant to reach a person
+knowledgeable about the information reported on the form.
+
+Account Number
+
+The account number is required if you have multiple accounts
+for a recipient for whom you are filing more than one Form
+1098-Q. Additionally, the IRS encourages you to designate
+an account number for all Forms 1098-Q that you file. See
+part L in the current General Instructions for Certain
+Information Returns.
+
+3
+
+Plan Number, Name of Plan, and Employer
+Identification Number
+
+If the contract was purchased under a plan, enter the name of
+the plan, the plan number, and the EIN of the plan sponsor.
+
+Box 1a. Annuity Amount on Start Date
+
+If the payments have not yet started, enter the amount of the
+periodic annuity payable on the start date.
+
+Box 1b. Annuity Start Date
+
+If the payments have not yet started, enter the annuity
+starting date on which the annuity is scheduled to start.
+
+Box 3. Total Premiums
+
+Enter the cumulative total amount of all premiums paid for the
+contract through the end of the calendar year.
+
+Box 4. FMV of QLAC
+
+Enter the fair market value (FMV) of the QLAC as of the close
+of the calendar year.
+
+Boxes 5a Through 5l
+
+Enter the amount of each premium paid for the contract and
+the date of the premium payment.
+
+Box 2. Check if Start Date May Be Accelerated
+
+Check the box if payments have not yet started and the start
+date may be accelerated.
+
+4
+
+Instructions for Form 1098-Q (Rev. 4-2025)
+
+

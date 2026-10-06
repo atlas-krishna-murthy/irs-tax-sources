@@ -1,0 +1,48 @@
+{
+  "rule": {
+    "id": "e-med-03",
+    "title": "Only the medical expenses of the people the instructions list",
+    "class": "answer",
+    "years": [
+      2025
+    ],
+    "operator": "exclude_when",
+    "acts_on": {
+      "boxes": [
+        "taxpayer-medical-expense-records.medical_and_dental_expenses_paid",
+        "taxpayer-medical-expense-records.qualified_long_term_care_insurance_premiums"
+      ]
+    },
+    "inputs": [
+      {
+        "kind": "question",
+        "ref": "item-is-for-a-person-whose-medical-expenses-cannot-be-included"
+      }
+    ],
+    "params": {
+      "when": {
+        "answer": "item-is-for-a-person-whose-medical-expenses-cannot-be-included",
+        "is": "yes"
+      }
+    },
+    "when_missing": {
+      "behaviour": "assume",
+      "assume": "no",
+      "because": "Taken as no unless a preparer says so: Was this paid for someone who was none of the following when the care was given or paid for: the taxpayer, the spouse, a dependent claimed, a child of divorced or separated parents, or a person who could have been claimed but for $5,200 of gross income, a joint return, or being someone else's dependent?"
+    },
+    "order": {
+      "after": [],
+      "before": []
+    },
+    "citation": {
+      "form": "Instructions for Schedule A (Form 1040)",
+      "line": "Line 1",
+      "revision": "2025",
+      "wording": "You can include medical and dental bills you paid in 2025 for anyone who was one of the following either when the services were provided or when you paid for them.",
+      "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+    },
+    "research_ids": [
+      "e-med-03"
+    ]
+  }
+}

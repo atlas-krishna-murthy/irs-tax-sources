@@ -1,0 +1,882 @@
+Instructions for Form 9465
+
+Department of the Treasury
+Internal Revenue Service
+
+(Rev. July 2024)
+
+Installment Agreement Request
+(For use with Form 9465 (Rev. September 2020))
+
+Future Developments
+
+installment agreement, later, for more information. In
+certain circumstances, you can have longer to pay or you
+can establish an agreement for an amount that is less than
+the amount of tax you owe.
+
+What's New
+
+However, before requesting a payment plan, you should
+consider other alternatives, such as getting a bank loan or
+using available credit, which may be less costly. If you
+have any questions about this request, call 800-829-1040.
+
+Section references are to the Internal Revenue Code
+unless otherwise noted.
+For the latest developments related to Form 9465 and its
+instructions, such as legislation enacted after they were
+published, go to IRS.gov/Form9465.
+
+Reduction in user fees for certain installment agreements. New installment agreement fees are effective July
+1, 2024. See Installment agreement user fees, later, for
+more information.
+
+Who should use this form? Use Form 9465 if you’re an
+individual:
+
+Reminders
+
+penalty;
+• Who owes employment taxes (for example, as reported
+on Forms 941, 943, or 940) related to a sole proprietor
+business that is no longer in operation; or
+• Who owes an individual shared responsibility payment
+under the Affordable Care Act (this payment isn’t
+assessed for months beginning after December 31,
+2018). See section 5000A.
+
+User fees for certain reinstated or restructured installment agreements. The user fee is $10 for
+installment agreements reinstated or restructured through
+an online payment agreement (OPA). You must have
+established the reinstatement or restructuring of the
+installment agreement through an OPA to qualify for the
+reduced user fee. Low-income taxpayers may be
+reimbursed this fee under certain conditions. See
+Requests to modify or terminate an installment
+agreement, later.
+Apply online at reduced fee. If the total amount you
+owe isn't more than $50,000 (including any amounts you
+owe from prior years), you may not need to file Form 9465;
+you can request an installment agreement online for a
+reduced fee. For more information, see Applying online for
+an installment agreement and other payment plans, later.
+Waiver and reimbursement of user fees for low-income taxpayers. For installment agreements entered
+into by taxpayers with adjusted gross income, for the most
+recent tax year available, at or below 250% of the federal
+poverty guidelines, the IRS will waive or reimburse user
+fees if certain conditions are met. For details, see
+Low-income taxpayer user fee waivers and
+reimbursements, later.
+Financial statement may be required. See Line 11b,
+later, for more information about when a Form 433-F is
+required. A Form 433-F, Collection Information Statement,
+may be downloaded at IRS.gov/Forms-Instructions.
+
+General Instructions
+Purpose of Form
+
+Use Form 9465 to request a monthly installment
+agreement (payment plan) if you can’t pay the full amount
+you owe shown on your tax return (or on a notice we sent
+you). Most installment agreements meet our streamlined
+installment agreement criteria. See Streamlined
+Apr 18, 2024
+
+• Who owes income tax on Form 1040 or 1040-SR;
+• Who is or may be responsible for a trust fund recovery
+
+Who should not use this form? Don’t use Form 9465 if:
+
+• You can pay the full amount you owe within 180 days (if
+you plan to pay the taxes, interest, and penalties due in full
+within 180 days, you can save the cost of the user
+fee—see Can you pay in full within 180 days? next);
+• You want to request a payment plan online, including an
+installment agreement (see Applying online for an
+installment agreement and other payment plans, later); or
+• Your business is still operating and owes employment or
+unemployment taxes. Instead, call the telephone number
+on your most recent notice to request an installment
+agreement.
+Can you pay in full within 180 days? If you can pay the
+full amount you owe within 180 days, you can avoid paying
+the fee to set up an installment agreement by calling the
+IRS at 800-829-1040. If you owe $100,000 or less, you
+can apply for a short-term payment plan, if you can pay in
+full within 180 days, by using the OPA application at
+IRS.gov/OPA.
+Applying online for an installment agreement and
+other payment plans. If your balance due isn’t more
+than $50,000, you can apply online for a payment plan
+instead of filing Form 9465. To do that, go to IRS.gov/OPA.
+If you establish your installment agreement using the OPA
+application, the user fee that you pay will be lower than it
+would be otherwise.
+Guaranteed installment agreement. You’re eligible for
+a guaranteed installment agreement if the tax you owe
+isn’t more than $10,000 and:
+• During the past 5 tax years, you (and your spouse if
+filing a joint return) have timely filed all income tax returns
+
+Cat. No. 58607N
+
+and paid any income tax due, and haven’t entered into an
+installment agreement for the payment of income tax;
+• You agree to pay the full amount you owe within 3 years
+and to comply with the tax laws while the agreement is in
+effect; and
+• You’re financially unable to pay the liability in full when
+due.
+
+Note. When you request an installment agreement, with
+certain exceptions the IRS is generally prohibited from
+levying and the IRS's time to collect is suspended or
+prolonged while the installment agreement is pending.
+See IRS.gov/filing/time-irs-can-collect-tax and Tax Topic
+No. 202, Tax Payment Options, at IRS.gov/TaxTopics/
+TC202 for additional information.
+
+Streamlined installment agreement. Generally, you're
+eligible for a streamlined installment agreement if:
+• Your assessed tax liability is $25,000 or less (for an
+individual, in-business with income tax only, or an
+out-of-business taxpayer); or
+• Your assessed tax liability is $25,001 to $50,000 (for an
+individual or an out-of-business sole proprietorship) and
+you agree to pay by direct debit or payroll deduction.
+Your proposed payment amount must pay in full the
+assessed tax liability within 72 months or satisfy the
+liability in full by the Collection Statute Expiration Date
+(CSED), whichever is less. The CSED is normally 10
+years from the date of the assessment. However, it may
+be suspended or extended for various reasons. For more
+information on the CSED, go to IRS.gov/filing/time-irs-cancollect-tax.
+Generally, a streamlined installment agreement does
+not require a financial statement or a Notice of Federal Tax
+Lien to be filed.
+
+After approving your request. Each month, we will
+send you a notice showing the remaining amount you
+owe, and the due date and amount of your next payment.
+But if you choose to have your payments automatically
+withdrawn from your checking account (also known as a
+direct debit), you won’t receive a notice. Your checking
+account statement is your record of payment. We will send
+you an annual statement showing the amount you owed at
+the beginning of the year, all payments made during the
+year, and the amount you owe at the end of the year.
+
+Partial payment installment agreement (PPIA). An
+installment agreement that will not pay in full the entire
+balance before the CSED is called a PPIA. You will be
+required to complete a financial statement and provide
+supporting financial information for a PPIA. If a PPIA is
+approved, your agreement is subject to future reviews to
+confirm if your financial situation has changed. You may
+be required to provide a new financial statement and
+supporting financial information during this review. The
+financial information you provide may result in a reduction,
+an increase, or no change to your monthly installment
+agreement amount.
+More on types of installment agreements and payment options. For more information about types of
+installment agreements, see Tax Topic No. 202, Tax
+Payment Options, at IRS.gov/TaxTopics/TC202. Also go to
+IRS.gov/Payments for more information on payment
+options.
+Bankruptcy or offer in compromise. If you’re in
+bankruptcy or have a pending or accepted offer in
+compromise, don’t file this form. Instead, call
+800-829-1040 to get the number of your local IRS
+Insolvency function for bankruptcy or to get the number of
+the office to contact regarding your offer in compromise.
+
+How the Installment Agreement
+Works
+
+Requesting an installment agreement. We will usually
+let you know within 30 days after we receive your request
+whether it is approved or denied. However, if this request
+is for tax due on a return you filed after March 31, it may
+take us longer than 30 days to reply. If we approve your
+request, we will send you a notice detailing the terms of
+your agreement and requesting a user fee.
+2
+
+By approving your request, we agree to let you pay the
+tax you owe in monthly installments instead of
+immediately paying the amount in full. In return, you agree
+to make your monthly payments on time. You also agree to
+meet all your future tax obligations. This means that you
+must have enough withholding or estimated tax payments
+so that your tax obligation for future years is paid in full
+when you timely file your return. Your request for an
+installment agreement will be denied if any required tax
+returns haven’t been filed. Any refund will be applied
+against the amount you owe even if you have an
+installment agreement. If your refund is applied to your
+balance, you’re still required to make your regular monthly
+installment payment.
+Installment agreement user fees. We charge a user
+fee to set up an installment agreement. The amount of the
+user fee can vary depending on whether you use the
+online payment application and how you propose to make
+your monthly payments. For details, see the table below
+with the fees in effect as of July 1, 2024.
+Applicable Fee
+Payment Method
+
+Using the online
+payment application
+
+Not using the online
+payment application
+
+Direct debit
+
+$22*
+
+$107*
+
+Check, money order,
+credit card, or debit
+card
+
+$69*
+
+$178*
+
+* Low-income taxpayers should see Low-income taxpayer reduced
+installment agreement user fee and Low-income taxpayer user fee waivers
+and reimbursements, later.
+
+Note. If you request a payroll deduction agreement using
+Form 2159, Payroll Deduction Agreement, your user fee
+will be $178 beginning July 1, 2024. If you’re a low-income
+taxpayer, see Low-income taxpayer reduced installment
+agreement user fee next for more details.
+Low-income taxpayer reduced installment agreement
+user fee. If you establish an installment agreement that is
+not paid by direct debit, you may qualify to pay a reduced
+fee of $43 or for a reimbursement of your fee if you are a
+low-income taxpayer, as defined below. See Low-income
+Instructions for Form 9465 (Rev. 7-2024)
+
+taxpayer user fee waivers and reimbursements next. The
+IRS will let you know whether you qualify for the reduced
+fee. If the IRS doesn’t say you qualify for the reduced fee,
+you can request that the IRS consider you for
+“low-income” status using Form 13844, Application For
+Reduced User Fee For Installment Agreements.
+Low-income taxpayer user fee waivers and reimbursements. For installment agreements entered into on
+or after April 10, 2018, by low-income taxpayers, defined
+next, the IRS will waive or reimburse the user fees if
+certain conditions are met. If you’re a low-income taxpayer
+and you agree to make electronic payments through a
+debit instrument by entering into a direct debit installment
+agreement (DDIA), the IRS will waive the user fees for the
+installment agreement. See Lines 13a, 13b, and 13c, later,
+for further details. If you’re a low-income taxpayer and
+you’re unable to make electronic payments through a debit
+instrument by entering into a DDIA, the IRS will reimburse
+the reduced $43 user fee that you paid for the installment
+agreement upon completion of the installment agreement.
+See Line 13c, later, for more details.
+Definition of low-income taxpayer. A low-income
+taxpayer is a taxpayer with adjusted gross income, for the
+most recent tax year available, at or below 250% of the
+federal poverty guidelines. For more information on how to
+determine if your adjusted gross income is at or below
+250% of the federal poverty guidelines, see the
+instructions for Form 13844.
+The only payment option that will qualify the
+low-income taxpayer for a waiver of the installment
+CAUTION agreement user fee is their agreement to make
+electronic payments through a debit instrument by
+entering into a DDIA. See Lines 13a, 13b, and 13c, later,
+for more details.
+
+!
+
+Other costs. You will be charged interest and a late
+payment penalty on any tax not paid by its due date, even
+if your request to pay in installments is granted. Interest
+and any applicable penalties will be charged until the
+balance is paid in full. But see Topic 653, IRS Notices and
+Bills, Penalties, and Interest Charges, at IRS.gov/
+TaxTopics/TC653 for additional information. To limit
+interest and penalty charges, file your return on time and
+pay as much of the tax as possible with your return or
+notice. All payments received under the installment
+agreement will be applied to your account in the best
+interests of the United States.
+What happens if the taxpayer owes a shared responsibility payment (SRP)? The SRP amount that you owe
+is the assessed payment for not having minimum essential
+health coverage for you and, if applicable, your
+dependents per section 5000A. The SRP isn’t assessed
+for months beginning after December 31, 2018. However,
+even after that date, you may continue to owe the SRP
+assessed for months that began before December 31,
+2018. The SRP amount that you owe isn’t subject to
+penalties or to Notice of Federal Tax Lien (NFTL) or levy
+enforcement actions. However, interest will continue to
+accrue until you pay the total SRP balance due. We may
+apply your federal tax refunds to the SRP amount that you
+owe until it’s paid in full.
+Instructions for Form 9465 (Rev. 7-2024)
+
+Payment methods. You can make your payments by
+direct debit, check or money order, credit card, debit card,
+or one of the other accepted payment methods. To be
+charged a lower fee, you may want to set up an OPA
+and/or agree to make your payments by direct debit. For
+more information on the accepted payment methods, go
+to IRS.gov/Payments, see your tax return instructions, or
+call 800-829-1040.
+Requests to modify or terminate an installment
+agreement. After an installment agreement is approved,
+you may submit a request to modify or terminate your
+installment agreement. You may modify your payment
+amount or due date by going to IRS.gov/OPA. You may
+also call 800-829-1040 to modify or terminate your
+agreement.
+Generally, the fee is $89 to modify your installment
+agreement ($43 if you are a low-income taxpayer).
+However, the user fee is $10 for installment agreements
+reinstated or restructured through an OPA. This user fee
+applies only if the reinstatement or restructuring of the
+installment agreement is completed through an OPA.
+The IRS will waive or reimburse the fee for low-income
+taxpayers if certain conditions are met. See Low-income
+taxpayer user fee waivers and reimbursements, earlier.
+By approving your request, we agree to let you pay the
+tax you owe in monthly installments instead of
+immediately paying the amount in full. In return, you agree
+to make your monthly payments on time. You agree to
+provide updated financial information when requested.
+You also agree to meet all your future tax obligations.
+This means that you must have enough withholding or
+estimated tax payments so that your tax obligation for
+future years is paid in full when payment is due. And you
+agree to timely file your return.
+What happens if the taxpayer doesn’t comply with
+the terms of the installment agreement? If you don’t
+make your payments on time or don’t timely pay a balance
+due on a return you file later, you will be in default on your
+agreement and we may terminate the agreement. Before
+we terminate the agreement, you may be entitled to file an
+appeal under the Collection Appeals Program (CAP). We
+may take enforcement actions, such as filing an NFTL or
+issuing an IRS levy, to collect the entire amount you owe.
+To ensure that your payments are made timely, you should
+consider making them by direct debit. See Lines 13a, 13b,
+and 13c, later.
+An installment agreement may be terminated if
+you provide materially incomplete or inaccurate
+CAUTION information in response to an IRS request for a
+financial update or if you provide such information to
+obtain the installment agreement. For more information
+about what you need to do if your installment agreement is
+terminated, go to IRS.gov/CP523.
+
+!
+
+Note. We may have filed an NFTL against your property.
+If so, you may be able to get the notice of lien withdrawn.
+To learn more about lien withdrawals and to see if you
+qualify, go to IRS.gov/businesses/small-businesses-selfemployed/understanding-a-federal-tax-lien.
+
+3
+
+An NFTL may be filed to protect the government’s
+interests until you pay in full. However, an NFTL
+CAUTION generally isn’t filed with a guaranteed installment
+agreement or streamlined installment agreement, but can
+be in certain situations. We won’t file an NFTL for the
+individual shared responsibility payment under the
+Affordable Care Act.
+
+!
+
+You may be entitled to file an appeal through the CAP
+before and after the NFTL is filed. You are entitled to file
+an appeal regarding an NFTL filing through Collection Due
+Process (CDP) only for the first filing of an NFTL for the
+unpaid tax liabilities shown on that NFTL.
+IRS collection process and taxpayer rights. For
+additional information on the IRS collection process and
+what to do if you cannot pay your taxes in full, see Pub.
+594, The IRS Collection Process. You can find more
+information about the collection process, taxpayer rights,
+and appealing a collection decision at IRS.gov/
+businesses/small-businesses-self-employed/collectionprocedures-for-taxpayers-filing-and-or-paying-late.
+Taxpayer Advocate Service (TAS). TAS is an
+independent organization within the IRS that helps
+taxpayers and protects taxpayer rights. TAS strives to
+ensure that every taxpayer is treated fairly and that you
+know and understand your rights under the Taxpayer Bill
+of Rights. TAS can help you if your tax problem is causing
+a financial difficulty; you've tried and been unable to
+resolve your issue with the IRS; or you believe an IRS
+system, process, or procedure isn’t working as it should.
+The service is free. Your local advocate’s number is at
+TaxpayerAdvocate.IRS.gov/Contact-Us and in your local
+directory. You can also call TAS toll free at 877-777-4778.
+For more information about TAS and your rights under the
+Taxpayer Bill of Rights, go to TaxpayerAdvocate.IRS.gov.
+
+Where To File
+
+Attach Form 9465 to the front of your return and send it to
+the address shown in your tax return booklet. If you have
+already filed your return or you’re filing this form in
+response to a notice, file Form 9465 by itself with the
+Internal Revenue Service Center using the address in the
+table below that applies to you.
+
+4
+
+For all taxpayers except those filing Form 1040 or 1040-SR with
+Schedule(s) C, E, or F for any tax year for which this installment
+agreement is being requested
+IF you live in . . .
+
+THEN use this address . . .
+
+Alaska, Arizona, Colorado,
+Connecticut, Delaware, District of
+Columbia, Hawaii, Idaho, Illinois,
+Maine, Maryland, Massachusetts,
+Montana, Nevada, New
+Hampshire, New Jersey, New
+Mexico, North Dakota, Oregon,
+Rhode Island, South Dakota,
+Tennessee, Utah, Vermont,
+Washington, Wisconsin, Wyoming
+
+Department of the Treasury
+Internal Revenue Service
+310 Lowell St.
+Stop 830
+Andover, MA 01810
+
+Alabama, Florida, Georgia,
+Kentucky, Louisiana, Mississippi,
+North Carolina, South Carolina,
+Texas, Virginia
+Arkansas, California, Indiana,
+Iowa, Kansas, Michigan,
+Minnesota, Missouri, Nebraska,
+New York, Ohio, Oklahoma,
+Pennsylvania, West Virginia
+
+Department of the Treasury
+Internal Revenue Service
+P.O. Box 47421
+Stop 74
+Doraville, GA 30362
+Department of the Treasury
+Internal Revenue Service
+Stop P-4 5000
+Kansas City, MO 64999-0250
+
+For taxpayers filing Form 1040 or 1040-SR with Schedule(s) C,
+E, or F for any tax year for which this installment agreement is
+being requested
+IF you live in . . .
+
+THEN use this address . . .
+
+Connecticut, Maine,
+Massachusetts, New Hampshire,
+New York, Rhode Island, Vermont
+
+Department of the Treasury
+Internal Revenue Service
+P.O. Box 480
+Stop 660
+Holtsville, NY 11742-0480
+
+Alabama, Arkansas, Georgia,
+Illinois, Indiana, Iowa, Kansas,
+Kentucky, Louisiana, Michigan,
+Minnesota, Mississippi, Missouri,
+Nebraska, New Jersey, North
+Dakota, Ohio, Oklahoma,
+Pennsylvania, South Dakota,
+Tennessee, Texas, West Virginia,
+Wisconsin
+
+Department of the Treasury
+Internal Revenue Service
+P.O. Box 69
+Stop 811
+Memphis, TN 38101-0069
+
+Alaska, Arizona, California,
+Colorado, Hawaii, Idaho,
+Montana, Nevada, New Mexico,
+Oregon, Utah, Washington,
+Wyoming
+
+Department of the Treasury
+Internal Revenue Service
+P.O. Box 9941
+Stop 5500
+Ogden, UT 84409
+
+District of Columbia, Delaware,
+Florida, Maryland, North Carolina,
+South Carolina, Virginia
+
+Department of the Treasury
+Internal Revenue Service
+Stop 4-N31.142
+Philadelphia, PA 19255-0030
+
+Instructions for Form 9465 (Rev. 7-2024)
+
+For all taxpayers living outside the 50 states, for any tax year for
+which the installment agreement is being requested
+IF you live in . . .
+
+THEN use this address . . .
+
+A foreign country, U.S. territory*,
+or use an APO or FPO address,
+or file Form 2555 or 4563, or are a
+dual-status alien
+
+Department of the Treasury
+Internal Revenue Service
+3651 South I-H 35
+5501AUSC
+Austin, TX 78741
+
+* For all taxpayers who are bona fide residents of American Samoa, Puerto
+Rico, Guam, the U.S. Virgin Islands, or the Northern Mariana Islands, see
+Pub. 570, Tax Guide for Individuals With Income From U.S. Territories.
+
+Specific Instructions
+Part I
+Line 1a
+
+If you’re making this request for a joint tax return, show the
+names and social security numbers (SSNs) in the same
+order as they appear on your tax return.
+If you have a foreign address, enter the city name on
+the appropriate line. Don’t enter any other information on
+that line, but also complete the spaces below that line.
+Don’t abbreviate the country name. Follow the country’s
+practice for entering the postal code and the name of the
+province, county, or state.
+
+Line 1b
+
+If the address you provided on line 1a is new since you
+filed your last tax return, check the box on line 1b.
+
+Line 2
+
+Show the name and employer identification number (EIN)
+of your business (which must no longer be operating).
+
+Line 5
+
+“United States Treasury.” Don’t send cash. Be sure to
+include the following.
+• Your name, address, SSN/EIN, and daytime phone
+number.
+• The tax year and tax return (for example, “2023 Form
+1040”) for which you’re making this request.
+
+Line 9
+
+Subtract line 8 from line 7 and enter the result.
+Generally, to qualify for a streamlined installment
+agreement, if the total amount you owe is greater
+CAUTION than $25,000 but not more than $50,000, you
+must either (1) complete lines 13a and 13b and agree to
+make payments by direct debit; or (2) check box 14 to
+make your payments by payroll deduction and attach a
+completed, signed Form 2159.
+
+!
+
+If the total amount you owe isn’t more than
+
+TIP $50,000 (including any amounts you owe from
+
+prior years), you don’t need to file Form 9465; you
+can request an installment agreement online. For more
+information, see Applying online for an installment
+agreement and other payment plans, earlier.
+
+Line 11a
+
+Enter on line 11a the amount you can pay each month.
+Make your payments as large as possible to limit interest
+and penalty charges. The charges will continue to accrue
+until you pay them in full. If you have an existing
+installment agreement, this amount should represent your
+total proposed monthly payment amount for all your
+liabilities. If no payment amount is listed on line 11a (or
+11b), a payment will be determined for you by dividing the
+balance due by 72 months. If the proposed payment
+amount entered does not pay in full the amount of tax
+owed by the CSED, your request may be considered for a
+PPIA. See Partial payment installment agreement, earlier,
+for more information.
+
+Enter the total amount you owe as shown on your tax
+return(s) or notice(s). The amount you owe could include
+amounts from more than 1 tax year.
+
+After we review your completed form, we may contact
+you for additional information. For example, we may
+request a Form 433-F to be completed.
+
+Line 6
+
+Line 11b
+
+If you have additional balances due that are not reflected
+on line 5, list the total here (even if they are included in an
+existing installment agreement). Any adjustments or other
+charges that are not reported on a tax return or notice
+should be listed on this line.
+
+Line 7
+
+Add lines 5 and 6 and enter the result.
+
+Line 8
+
+Even if you can’t pay the full amount you owe now, you
+should pay as much as possible to limit the penalty and
+interest charges. If you’re filing this form with your tax
+return, make the payment with your return. For details on
+how to pay, see your tax return instructions.
+
+If you’re filing this form by itself, such as in response to
+a notice, attach a check or money order made payable to
+Instructions for Form 9465 (Rev. 7-2024)
+
+Follow the steps in the bullet below that applies to you.
+• If the amount on line 11a is less than the amount on
+line 10 and you’re able to increase your payment to an
+amount that is equal to or greater than the amount on
+line 10, enter your revised monthly payment proposal on
+line 11b.
+• If the amount on line 11a is less than the amount on
+line 10 and you’re unable to increase your payment to the
+amount on line 10, check the box below the line 11b entry
+line and complete and attach Form 433-F.
+• If the amount on line 11a (or 11b, if applicable) is equal
+to or greater than the amount on line 10 but the amount
+you owe (line 9) is greater than $25,000 but not more than
+$50,000, you must complete either line 13 or 14 if you
+don’t want to complete Form 433-F.
+• If you have defaulted on an installment agreement
+within the last 12 months, the amount you owe is greater
+than $25,000 but not more than $50,000, and the amount
+5
+
+on line 11a (11b, if applicable) is less than the amount on
+line 10, you must complete Part II on page 2 of Form 9465.
+• If the amount on line 9 is greater than $50,000,
+complete and attach Form 433-F.
+
+Line 12
+
+You can choose the day of each month your payment is
+due. This can be on or after the 1st of the month, but no
+later than the 28th of the month. For example, if your rent
+or mortgage payment is due on the 1st of the month, you
+may want to make your installment payments on the 15th.
+When we approve your request, we will tell you the month
+and day that your first payment is due.
+If we haven’t replied by the date you chose for your first
+payment, you can send the first payment to the Internal
+Revenue Service Center at the address shown earlier that
+applies to you. See Line 8, earlier, for details on what to
+write on your payment. Or you can submit this payment
+electronically. Go to IRS.gov/Payments for payment
+options.
+
+Lines 13a, 13b, and 13c
+
+To pay by direct debit from your checking account at a
+bank or other financial institution (such as a mutual fund,
+brokerage firm, or credit union), fill in lines 13a and 13b.
+Check with your financial institution to make sure that a
+direct debit is allowed and to get the correct routing and
+account numbers.
+Making your payments by direct debit will help
+
+TIP ensure that your payments are made timely and
+you don’t default on this installment agreement.
+
+Low-income taxpayers who complete lines 13a and
+13b will receive a waiver of their installment agreement
+user fees. See Low-income taxpayer user fee waivers and
+reimbursements, earlier, for more information.
+Line 13a. The routing number must be nine digits. The
+first two digits of the routing number must be 01 through
+12 or 21 through 32. Use a check to verify the routing
+number. On the Sample Check, later, the routing number
+is 250250025. But, if your check is payable through a
+financial institution different from the one at which you
+have your checking account, don’t use the routing number
+on that check. Instead, contact your financial institution for
+the correct routing number.
+Line 13b. The account number can be up to 17
+characters (both numbers and letters). Include hyphens
+but omit spaces and special symbols. Enter the number
+from left to right and leave any unused boxes blank. On
+the Sample Check, later, the account number is
+20202086. Don’t include the check number.
+The direct debit from your checking account won’t
+be approved unless you (and your spouse if filing
+CAUTION a joint return) sign Form 9465.
+
+!
+
+Sample Check—Lines 13a and 13b
+Paul Maple
+Roberta Maple
+123 Pear Lane
+Anyplace, VA 20000
+PAY TO THE
+ORDER OF
+
+ANYPLACE BANK
+Anyplace, VA 20000
+
+1234
+
+SAMPLE
+Routing
+number
+(line 13a)
+
+Account
+number
+(line 13b)
+
+15-0000/0000
+
+$
+DOLLARS
+
+Don’t include
+the check number.
+
+For
+
+|:250250025 |
+
+:202020"'86".
+
+1234
+
+The routing and account numbers may be in
+
+TIP different places on your check.
+
+Line 13c. Low-income taxpayers who are unable to make
+electronic payments through a DDIA by providing their
+information on lines 13a and 13b are eligible to receive
+reimbursement of their installment agreement user fees. If
+you’re a low-income taxpayer and you checked the box on
+line 13c, your installment agreement user fee will be
+reimbursed upon completion of your installment
+agreement. See Low-income taxpayer user fee waivers
+and reimbursements, earlier, for more information.
+If you don’t check the box on line 13c (and don’t
+provide the information on lines 13a and 13b), you’re
+indicating that you’re able but choosing not to make
+electronic payments by establishing a DDIA. As such, your
+user fee is not eligible for reimbursement upon completion
+of your installment agreement.
+
+Line 14
+
+If you want to make your payments by payroll deduction,
+check the box on line 14 and attach a completed and
+signed Form 2159. Ask your employer to complete and
+sign the employer’s portion of your Form 2159.
+
+Part II
+
+If you have defaulted on an installment agreement within
+the last 12 months, the amount you owe is greater than
+$25,000 but not more than $50,000, and the amount on
+line 11a (line 11b, if applicable) is less than line 10,
+complete Part II on page 2 of Form 9465.
+
+Lines 21 and 22
+
+Complete lines 21 and 22 relating to income earned by
+your spouse if you are married and meet either of the
+following conditions.
+• You live with and share household expenses with your
+spouse. Even if only one spouse is liable for the taxes
+owed, the total household income and expenses are
+relevant in determining the liable spouse’s ability to pay
+the taxes owed.
+• You live in a community property state. In a community
+property state, the income of a non-liable spouse may be
+factored into the other spouse’s ability to pay the taxes
+owed.
+You should complete lines 21 and 22 whether your filing
+status is married filing jointly or married filing separately.
+Privacy Act and Paperwork Reduction Act Notice.
+Our legal right to ask for the information on this form is
+sections 6001, 6011, 6012(a), 6109, and 6159 and their
+
+6
+
+Instructions for Form 9465 (Rev. 7-2024)
+
+regulations. We will use the information to process your
+request for an installment agreement. The reason we
+need your name and social security number is to secure
+proper identification. We require this information to gain
+access to the tax information in our files and properly
+respond to your request. You aren’t required to request an
+installment agreement. If you do request an installment
+agreement, you’re required to provide the information
+requested on this form. Failure to provide this information
+may prevent processing your request; providing false
+information may subject you to fines and/or penalties.
+You aren’t required to provide the information requested
+on a form that is subject to the Paperwork Reduction Act
+unless the form displays a valid OMB control number.
+Books or records relating to a form or its instructions must
+be retained as long as their contents may become
+material in the administration of any Internal Revenue law.
+Generally, tax returns and return information are
+
+Instructions for Form 9465 (Rev. 7-2024)
+
+confidential, as required by section 6103. However, we
+may give this information to the Department of Justice for
+civil and criminal litigation, and to cities, states, the District
+of Columbia, and U.S. commonwealths and territories to
+carry out their tax laws. We may also disclose this
+information to other countries under a tax treaty, to federal
+and state agencies to enforce federal nontax criminal
+laws, or to federal law enforcement and intelligence
+agencies to combat terrorism.
+The average time and expenses required to complete
+and file this form will vary depending on individual
+circumstances. For the estimated averages, see the
+instructions for your income tax return.
+If you have suggestions for making this form simpler,
+we would be happy to hear from you. See the instructions
+for your income tax return.
+
+7
+
+

@@ -1,0 +1,598 @@
+Instructions for Form 8886
+                                                                                                          Department of the Treasury
+                                                                                                          Internal Revenue Service
+
+(Rev. October 2022)
+Reportable Transaction Disclosure Statement
+Section references are to the Internal Revenue
+Code unless otherwise noted.
+                                                 Definitions                                   during the course of a transaction is not
+                                                                                               required to file Form 8886 for any
+                                                 Transaction                                   transaction other than a listed
+Future Developments                              A transaction includes all of the factual     transaction (as defined below) or a
+                                                 elements relevant to the expected tax         transaction of interest (as defined later).
+For the latest information about
+developments related to Form 8886 and            treatment of any investment, entity,
+its instructions, such as legislation            plan, or arrangement and it includes any      Participation in a
+enacted after they were published, go to         series of steps carried out as part of a      Reportable Transaction
+IRS.gov/Form8886.                                plan.                                         A reportable transaction is a transaction
+                                                 Substantially Similar                         described in one or more of the
+General Instructions                             A transaction is substantially similar to
+                                                                                               following categories.
+Which form and instructions to use.              another transaction if it is expected to      Listed Transactions
+Use the latest Form 8886 with the latest         obtain the same or similar types of tax       A listed transaction is a transaction that
+Instructions for Form 8886 available on          consequences and is either factually          is the same as or substantially similar to
+IRS.gov.                                         similar or based on the same or similar       one of the types of transactions that the
+                                                 tax strategy. Receipt of an opinion           IRS has determined to be a tax
+Purpose of Form                                  regarding the tax consequences of the         avoidance transaction. These
+                                                 transaction is not relevant to the            transactions are identified by notice,
+Use Form 8886 to disclose information
+                                                 determination of whether the transaction      regulation, or other form of published
+for each reportable transaction in which
+                                                 is the same as or substantially similar to    guidance as a listed transaction. For
+you participated. See Participation in a
+                                                 another transaction. Further, the term        existing guidance, see Notice 2009-59,
+Reportable Transaction, later, to
+                                                 “substantially similar” must be broadly       2009-31 I.R.B. 170, available at
+determine if you participated in a
+                                                 construed in favor of disclosure. See         IRS.gov/pub/irs-irbs/irb09-31.pdf. For
+reportable transaction. For more
+                                                 Regulations section 1.6011-4(c)(4) for        updates to this list, go to the IRS web
+information on the disclosure rules, see
+                                                 examples.                                     page at IRS.gov/Businesses/
+Regulations section 1.6011-4.
+                                                 Tax Benefit                                   Corporations/Abusive-Tax-Shelters-
+    Generally, you must file a separate                                                        and-Transactions. The listed
+Form 8886 for each reportable                    A tax benefit includes deductions,
+                                                                                               transactions will also be periodically
+transaction. However, you may report             exclusions from gross income,
+                                                                                               updated in future issues of the Internal
+more than one transaction on one form            nonrecognition of gain, tax credits,
+                                                                                               Revenue Bulletin. You can find a notice
+if the transactions are the same or              adjustments (or the absence of
+                                                                                               or ruling in the Internal Revenue Bulletin
+substantially similar. See the definition        adjustments) to the basis of property,
+                                                                                               at IRS.gov/pub/irs-irbs/irbXX-YY.pdf,
+of substantially similar below.                  status as an entity exempt from federal
+                                                                                               where XX is the two-digit year and YY is
+                                                 income taxation, and any other tax
+   The fact that a transaction must be                                                         the two-digit bulletin number. For
+                                                 consequences that may reduce a
+reported on this form does not mean the                                                        example, you can find Notice 2009-59,
+                                                 taxpayer's federal tax liability by
+tax benefits from the transaction will be                                                      2009-31 I.R.B. 170, at IRS.gov/pub/irs-
+                                                 affecting the amount, timing, character,
+disallowed.                                                                                    irbs/irb09-31.pdf.
+                                                 or source of any item of income, gain,
+Prohibited tax shelter transactions.             expense, loss, or credit.                         You have participated in a listed
+Generally, the term "prohibited tax                                                            transaction if any of the following
+                                                 Tax Structure                                 applies.
+shelter transaction" means listed
+                                                 The tax structure of a transaction is any     • Your tax return reflects tax
+transactions, transactions with
+                                                 fact that may be relevant to                  consequences or a tax strategy
+contractual protection, or confidential
+                                                 understanding the purported or claimed        described in published guidance that
+transactions. See the definitions of
+                                                 federal income tax treatment of the           lists the transaction.
+these categories below. There may be
+                                                 transaction.                                  • You know or have reason to know
+additional disclosure requirements for
+tax-exempt entities with respect to these                                                      that tax benefits reflected on your tax
+types of transactions. If you are a              Who Must File                                 return are derived directly or indirectly
+tax-exempt entity and you are a party to         Any taxpayer, including an individual,        from such tax consequences or tax
+a prohibited tax shelter transaction, you        trust, estate, partnership, S corporation,    strategy.
+may be required to file Form 8886-T,             or other corporation, that participates in    • You are in a type or class of
+Disclosure by Tax-Exempt Entity                  a reportable transaction and is required      individuals or entities that published
+Regarding Prohibited Tax Shelter                 to file a federal tax return or information   guidance treats as participants in a
+Transaction, in addition to filing Form          return must file Form 8886. However, a        listed transaction.
+8886. For more information, see the              regulated investment company (RIC)
+                                                                                               Exception. If you participated in a
+Instructions for Form 8886-T.                    (as defined in section 851) or an
+                                                                                               transaction that is the same as or
+                                                 investment vehicle that is at least 95%
+                                                                                               substantially similar to the transaction
+                                                 owned by one or more RICs at all times
+                                                                                               described in Notice 2002-35, 2002-21
+
+Sep 27, 2022                                                  Cat. No. 34911S
+I.R.B. 992, available at IRS.gov/pub/irs-       fee, related parties (as described in         • For individuals, at least $2 million in
+irbs/irb02-21.pdf (tax avoidance using          section 267(b) or 707(b)) will be treated     any single tax year or $4 million in any
+notional principal contracts), solely as a      as the same individual or entity.             combination of tax years. (At least
+result of your direct or indirect interest in                                                 $50,000 for a single tax year if the loss
+                                                   You have participated in a
+a pass-through entity, you are not                                                            arose from a section 988 transaction
+                                                confidential transaction if your tax return
+required to disclose the transaction on                                                       defined in section 988(c)(1) (relating to
+                                                reflects a tax benefit from the
+Form 8886. For more information, see                                                          foreign currency transactions), whether
+                                                transaction and your disclosure of the
+Notice 2006-16, 2006-9 I.R.B. 538,                                                            or not the loss flows through from an S
+                                                tax treatment or tax structure of the
+available at IRS.gov/pub/irs-irbs/                                                            corporation or partnership).
+                                                transaction is limited as described
+irb06-09.pdf.
+                                                above. If disclosure by a pass-through        • For corporations (excluding S
+                                                                                              corporations), at least $10 million in any
+Confidential Transactions                       entity (partnership, S corporation, or
+                                                                                              single tax year or $20 million in any
+A confidential transaction is a                 trust) is limited, but disclosure by the
+                                                                                              combination of tax years.
+                                                partner, shareholder, or beneficiary is
+transaction that is offered to you or a
+                                                not limited, then the pass-through entity     • For partnerships with only
+related party (as described in section                                                        corporations (excluding S corporations)
+267(b) or 707(b)) under conditions of           (but not the partner, shareholder, or
+                                                                                              as partners (looking through any
+confidentiality and for which you or a          beneficiary) has participated in the
+                                                                                              partners that are also partnerships), at
+related party paid an advisor a minimum         confidential transaction.
+                                                                                              least $10 million in any single tax year or
+fee (defined below). A transaction is           Transactions With Contractual                 $20 million in any combination of tax
+considered to be offered under                  Protection                                    years, whether or not any losses flow
+conditions of confidentiality if the                                                          through to one or more partners.
+                                                A transaction with contractual protection
+advisor places a limitation on your
+                                                is a transaction for which you have, or a
+                                                                                              • For all other partnerships and S
+disclosure of the tax treatment or tax                                                        corporations, at least $2 million in any
+structure of the transaction and the            related party (as described in section
+                                                                                              single tax year or $4 million in any
+limitation on disclosure protects the           267(b) or 707(b)) has, the right to a full
+                                                                                              combination of tax years, whether or not
+confidentiality of the advisor's tax            refund or partial refund of fees if all or
+                                                                                              any losses flow through to one or more
+strategies. The transaction is treated as       part of the intended tax consequences
+                                                                                              partners or shareholders.
+                                                from the transaction are not sustained. It
+confidential even if the conditions of
+                                                also includes a transaction for which
+                                                                                              • For trusts, at least $2 million in any
+confidentiality are not legally binding on                                                    single tax year or $4 million in any
+you. See Regulations section                    fees are contingent on your realization
+                                                                                              combination of tax years, whether or not
+1.6011-4(b)(3) for more information.            of tax benefits from the transaction. For
+                                                                                              any losses flow through to one or more
+                                                exceptions and other details, see
+Minimum fee. For a corporation                                                                beneficiaries. (At least $50,000 for a
+                                                Regulations section 1.6011-4(b)(4) and
+(excluding S corporations), or a                                                              single tax year if the loss arose from a
+                                                Rev. Proc. 2007-20, 2007-7 I.R.B. 517,
+partnership or trust in which all of the                                                      section 988 transaction defined in
+                                                available at IRS.gov/pub/irs-irbs/
+owners or beneficiaries are corporations                                                      section 988(c)(1) (relating to foreign
+                                                irb07-07.pdf.
+(excluding S corporations), the                                                               currency transactions), whether or not
+minimum fee is $250,000. For all others,           You have participated in a                 the loss flows through from an S
+the minimum fee is $50,000.                     transaction with contractual protection if    corporation or partnership).
+                                                your tax return reflects a tax benefit from
+    The minimum fee includes all fees for       the transaction and, as described                 Section 165 loss. For purposes of
+a tax strategy, for advice (whether or not      above, you have the right to a full or        the above threshold amounts, a section
+tax advice), or for the implementation of       partial refund of fees or the fees are        165 loss is adjusted for any salvage
+a transaction. Fees include payment in          contingent. All facts and circumstances       value and for any insurance or other
+whatever form paid, whether in cash or          relating to the transaction will be           compensation received. However, a
+in kind, for services to analyze the            considered when determining whether a         section 165 loss does not take into
+transaction (whether or not related to          fee is refundable or contingent,              account offsetting gains, other income,
+the tax consequences of the                     including the right to reimbursements of      or limitations. The full amount of a loss
+transaction), for services to implement         amounts that the parties to the               is taken into account in the year it was
+the transaction, for services to                transaction have not designated as fees       sustained, regardless of whether all or
+document the transaction, and for               or any agreement to provide services          part of the loss enters into the
+services to prepare tax returns to the          without compensation. If a pass-through       computation of a net operating loss
+extent return preparation fees are              entity (partnership, S corporation, or        under section 172 or a net capital loss
+unreasonable. You are treated as                trust) has the right to a full or partial     under section 1212 that is a carryback
+paying fees to an advisor if you know or        refund of fees or has a contingent fee        or carryover to another year. A section
+should know that the amount you pay             arrangement, but the partner,                 165 loss does not include any portion of
+will be paid indirectly to the advisor,         shareholder, or beneficiary individually      a loss, attributable to a capital loss
+such as through a referral fee or               does not, then the pass-through entity        carryback or carryover from another
+fee-sharing arrangement. Fees do not            (but not the partner, shareholder, or         year, that is treated as a deemed capital
+include amounts paid to a person,               beneficiary) has participated in the          loss under section 1212.
+including an advisor, in that person's          transaction with contractual protection.          In determining whether a transaction
+capacity as a party to the transaction.                                                       results in a taxpayer claiming a loss that
+The IRS will scrutinize all of the facts        Loss Transactions                             meets the threshold amounts over a
+and circumstances in determining                A loss transaction is a transaction that      combination of tax years as described
+whether consideration received in               results in your claiming a loss under         above, only losses claimed in the tax
+connection with a confidential                  section 165 (described later) if the          year that the transaction is entered into
+transaction constitutes fees. For               amount of the section 165 loss is as
+purposes of determining the minimum             follows.
+
+                                                                    -2-              Instructions for Form 8886 (Rev. October 2022)
+and the 5 succeeding tax years are            transaction in the published guidance         suspended during the period that the
+combined.                                     describing the transaction of interest.       ruling request is pending.
+   The types of losses included in this       Exceptions to Reportable
+category are section 165 losses,                                                            Recordkeeping
+including amounts deductible under a
+                                              Transaction Categories,                       You must keep a copy of all documents
+provision that treats a transaction as a      Published Guidance                            and other records related to a reportable
+sale or other disposition or otherwise        A transaction is not considered a             transaction. See Regulations section
+results in a deduction under section          reportable transaction if the IRS makes       1.6011-4(g) for more details.
+165. However, this category does not          a determination in published guidance
+include losses described in Rev. Proc.        that it is not subject to the reporting       When and How To File
+2013-11.                                      requirements. See Rev. Proc. 2004-67;         Attach Form 8886 to your income tax
+   You have participated in a loss            Rev. Proc. 2004-68; Rev. Proc.                return or information return (including a
+transaction if your tax return reflects a     2007-20; and Rev. Proc. 2013-11 for           partnership, S corporation, or trust
+section 165 loss that equals or exceeds       more information. The IRS may also            return), including amended returns, for
+the applicable threshold amount. If you       determine by individual letter ruling that    each tax year in which you participated
+are a partner, shareholder, or                an individual letter ruling request           in a reportable transaction. If a
+beneficiary of a pass-through entity          satisfies the reporting requirements.         reportable transaction results in a loss
+(partnership, S corporation, or trust),       See Request for Ruling, later, for more       or credit carried back to a prior tax year,
+you have participated in a loss               information on submitting a letter ruling     attach Form 8886 to an application for
+transaction if your tax return reflects a     request.                                      tentative refund (Form 1045 or 1139) or
+section 165 loss allocable to you from        Shareholders of Foreign                       amended return for the carryback years.
+the pass-through entity (disregarding
+netting at the entity level) that equals or
+                                              Corporations                                  Initial year Form 8886 filers must file
+                                              Special rules apply to determine              exact copy with OTSA. You must file
+exceeds the applicable threshold                                                            (via mail or fax) an exact copy of an
+amount. For this purpose, a tax return is     whether a reporting shareholder of a
+                                              foreign corporation participated in a         initial Form 8886 with the Office of Tax
+deemed to reflect the full amount of the                                                    Shelter Analysis (OTSA).
+section 165 loss allocable to the             reportable transaction. A reporting
+taxpayer, regardless of whether all or        shareholder means a U.S. shareholder          Via mail. You may mail the exact copy
+part of the loss enters in the                in a controlled foreign corporation, or a     to:
+computation of a net operating loss           10% shareholder (by vote or value) of a
+under section 172 or net capital loss         qualified electing fund. For all                  Internal Revenue Service
+under section 1212 that the taxpayer          categories of reportable transactions             OTSA Mail Stop 4915
+may carry back or carry over to another       except transactions of interest, a                1973 Rulon White Blvd.
+year.                                         reporting shareholder participates in a           Ogden, UT 84201
+                                              reportable transaction if the foreign
+Transactions of Interest                      corporation would be considered to            Via fax. You may fax the exact copy to
+A transaction of interest is a transaction    participate in the transaction if it were a   844-253-2553.
+that is the same as or substantially          domestic corporation filing a tax return
+                                              reflecting items from the transaction. A          This fax number is not for general
+similar to one of the types of
+                                              reporting shareholder of a foreign            use; taxpayers should not use this
+transactions that the IRS has identified
+                                              corporation participates in a transaction     number for anything besides sending
+by notice, regulation, or other form of
+                                              of interest if the published guidance         the exact copy of Form 8886 (and
+published guidance as a transaction of
+                                              identifying the transaction includes the      accompanying materials). Other
+interest. It is a transaction that the IRS
+                                              reporting shareholder among the types         submissions received via this fax
+and Treasury Department believe has a
+                                              or classes of individuals or entities         number will not be processed
+potential for tax avoidance or evasion,
+but for which there is not enough             identified as participants. See                   Send only one exact copy of Form
+information to determine if the               Regulations section 1.6011-4(c)(3)(i)(G)      8886 per fax
+transaction should be identified as a tax     for details.                                      A maximum of 100 pages can be
+avoidance transaction. The requirement                                                      faxed to the fax number listed above.
+to disclose transactions of interest          Request for Ruling                                You must also file the original Form
+applies to transactions of interest           You may request a ruling from the IRS         8886 with your tax return.
+entered into after November 1, 2006.          to determine whether a transaction must
+For existing guidance, see Notice                                                               The IRS will not provide a
+                                              be disclosed. The request for a ruling
+2009-55, 2009-31 I.R.B. 170, available                                                      confirmation or receipt. Please check
+                                              must be submitted to the IRS by the
+at IRS.gov/pub/irs-irbs/irb09-31.pdf. For                                                   your fax transmission log to verify that
+                                              date Form 8886 would otherwise be
+updates to this list, go to the IRS web                                                     all the Form 8886 pages were sent.
+                                              required to be filed. See Regulations
+page at IRS.gov/Businesses/                                                                 Keep a copy of your fax transmission
+                                              section 1.6011-4(f). See Rev. Proc.
+Corporations/Transactions-of-Interest.                                                      log as your confirmation or receipt.
+                                              2022-1, as modified by Rev. Proc.
+The IRS may issue a new, or update the        2022-10, for procedures to obtain                 The fax cover sheet should include
+existing, notice, regulation, or other form   letter rulings. The procedures are            the following.
+of guidance that identifies a transaction     generally updated every year and              • Subject: Form 8886
+as a transaction of interest.                 you should consult the new Revenue            • Sender's name, title, phone number,
+                                              Procedure issued every year. The              address
+   You have participated in a
+transaction of interest if you are one of     potential obligation of the taxpayer to       • Taxpayer's name
+the types or classes of individuals or        disclose the transaction will not be          • Date
+entities identified as participants in the
+
+Instructions for Form 8886 (Rev. October 2022)                    -3-
+• Number of pages faxed (including            8886 to the first tax return you file after    penalty for failure to include information
+cover sheet)                                  the date the transaction became a listed       with respect to a reportable transaction
+Do not include sensitive information on       transaction. Also file Form 8886 with          is 75% of the reduction in the tax
+the cover sheet, such as employer             OTSA as provided in Initial year Form          reported on the income tax return as a
+identification number or social security      8886 filers must file exact copy with          result of participation in the transaction
+number.                                       OTSA, earlier.                                 or that would result if the transaction
+   See IRS.gov/Newsroom/Taxpayers-            • Listed transaction entered into              were respected for federal tax
+Can-Fax-the-Separate-Copy-of-                 after August 2, 2007. If you entered           purposes, but not less than $5,000 in
+Form-8886-Reportable-Transaction-             into a transaction after August 2, 2007,       the case of an individual and $10,000 in
+Disclosure-Statement-with-the-Office-         that later becomes a listed transaction,       any other case. The annual maximum
+of-Tax-Shelter-Analysis for more              then you must file Form 8886 with              penalty for failure to disclose a
+information.                                  OTSA within 90 days after the date on          reportable transaction, other than a
+                                              which the transaction became a listed          listed transaction, cannot exceed
+Electronic return filers. If you file your    transaction.                                   $10,000 in the case of an individual, and
+income tax return electronically, the         • Transaction of interest entered              $50,000 in any other case. The
+exact copy you send (mail or fax) to          into after November 1, 2006. If you            maximum annual penalty for failure to
+OTSA must show exactly the same               entered into a transaction after               include information with respect to a
+information, word for word, provided          November 1, 2006, that later becomes a         listed transaction is $100,000 in the
+with the electronically filed return and it   transaction of interest, then you must file    case of an individual and $200,000 in
+must be provided on the official IRS          Form 8886 with OTSA within 90 days             any other case. This penalty is in
+Form 8886 or an exact copy of the form.       after the date on which the transaction        addition to any other penalty that may
+If you use a computer-generated or            became a transaction of interest.              be imposed. For information, see
+substitute Form 8886, it must be an                                                          section 6707A and Regulations section
+                                                   However, the published guidance
+exact copy of the official IRS form. See                                                     301.6707A-1.
+                                              under which the transaction becomes a
+the instructions for your income tax
+                                              listed transaction or transaction of               If you have a reportable transaction
+return for information on electronic filing
+                                              interest may also provide the time for         understatement, an accuracy-related
+and substitute forms.
+                                              filing Form 8886. You must file Form           penalty may be imposed under section
+Special Filing Rules                          8886 in the time and in the manner             6662A. This penalty applies to the
+                                              stated above regardless of whether you         amount of the understatement that is
+60-Day OTSA Extension
+                                              participated in the transaction in the         attributable to any listed transaction and
+                                              year in which the transaction became a         any reportable transaction (other than a
+If you are a partner in a partnership,        listed transaction or transaction of           listed transaction) with a significant tax
+shareholder in an S corporation, or           interest.                                      avoidance purpose. The penalty
+beneficiary of a trust who receives a                                                        increases for transactions that are not
+timely Schedule K-1 less than 10                                                             disclosed on Form 8886 in accordance
+calendar days before your return due
+                                              Subsequent Loss Transactions
+                                                                                             with these instructions. If the transaction
+date (including extensions) and, based                                                       is not disclosed and a reportable
+on receipt of the timely Schedule K-1,        If a transaction becomes a loss
+                                              transaction because the losses equal or        transaction understatement exists, you
+you determine that you participated in a                                                     may not have a reasonable cause and
+reportable transaction, Form 8886 will        exceed the threshold amounts
+                                              described earlier in Loss Transactions,        good faith defense under section
+not be considered late if you file Form                                                      6664(d) with respect to the
+8886 with OTSA within 60 days after the       Form 8886 must be filed as an
+                                              attachment to your income tax return or        accuracy-related penalty under section
+due date of your return including                                                            6662A. For more information, see
+extensions.                                   information return for the first tax year in
+                                              which the threshold amount is reached          section 6662A and Notice 2005-12,
+                                              and to any subsequent income tax               2005-7 I.R.B. 494, available at
+Designation as a Listed                                                                      IRS.gov/pub/irs-irbs/irb05-07.pdf.
+                                              return or information return that reflects
+Transaction and/or Transaction of             any amount of section 165 loss from the            A penalty under section 6707A is
+Interest After Filing Tax Return              transaction.                                   assessed for each failure by any
+                                                                                             individual or entity required to file a
+If a transaction becomes a listed             Multiple Disclosures                           Form 8886 if the individual or entity (a)
+transaction or a transaction of interest                                                     fails to attach Form 8886 to the
+after you file a tax return (including an     If you are required to file Form 8886,         appropriate original return, amended
+amended return) reflecting your               you must do so regardless of whether           return, or application for tentative
+participation in the listed transaction or    you also plan to disclose the transaction      refund; (b) fails to file the form with
+transaction of interest and before the        under other published guidance, for            OTSA, if required; or (c) files a form that
+running of the period of limitations for      example, Regulations section                   fails to include all the information
+assessment of tax for any tax year in         1.6662-3(c)(2).                                required (or includes incorrect
+which you participated in the listed                                                         information). The Form 8886 must be
+transaction or transaction of interest,                                                      completed in its entirety with all required
+then you must file Form 8886 according
+                                              Penalties                                      attachments to be considered complete.
+to the following rules.                       There is a monetary penalty under              Do not enter “Information provided upon
+• Listed transaction entered into             section 6707A for the failure to include       request” or “Details available upon
+before August 3, 2007. If you entered         on any return or statement any                 request,” or any similar statement in the
+into a transaction before August 3,           information required to be disclosed           space provided. Inclusion of any such
+2007, that later becomes a listed             under section 6011 with respect to a           statements subjects you to penalty
+transaction, then you must attach Form        reportable transaction. Generally, the         under sections 6707A and 6662A.
+
+                                                                  -4-               Instructions for Form 8886 (Rev. October 2022)
+         If you are required to pay a        include the following statement signed         “See Attached” on the form and provide
+  !      penalty under section 6707A or      under penalties of perjury by the              all the information on an attached
+ CAUTION section 6662A, you may be           taxpayer and, if applicable, the paid          statement.
+required to disclose them on reports         preparer of Form 8886: “Under penalties
+filed with the Securities and Exchange       of perjury, I declare that I have              Item A
+Commission. If you do not disclose           examined this reportable transaction           If you file more than one Form 8886 with
+these penalties, you may incur               disclosure statement and, to the best of       your return, sequentially number each of
+additional penalties under section           my knowledge and belief, this                  these forms and enter the statement
+6707A(e). For more information, see          reportable transaction disclosure              number for this Form 8886 (for example,
+section 6707A(e) and Rev. Proc.              statement is true, correct, and complete.      statement number 1 of 3).
+2005-51, 2005-33 I.R.B. 296, available       Declaration of preparer (other than the
+at IRS.gov/pub/irs-irbs/irb05-33.pdf,        taxpayer) is based on all information of       Item B
+amplified by Rev. Proc. 2007-25,             which the preparer has any knowledge.”
+                                                                                            Enter the form number and year of the
+2007-12 I.R.B. 761, available at             Separate Forms 8886 and separate
+                                                                                            tax return with which this Form 8886 is
+IRS.gov/pub/irs-irbs/irb07-12.pdf.           cover letters must be submitted for each
+                                                                                            filed (for example, Form 1040). If the tax
+                                             tax year for which you participated in the
+                                                                                            return has a calendar tax year, enter the
+Previously Undisclosed Listed                undisclosed listed transaction. You
+                                                                                            year shown on the return (for example,
+Transactions                                 must also submit a copy of the form and
+                                                                                            2007). If it is a fiscal year return, enter
+                                             cover letter simultaneously to OTSA at
+If you are required to disclose a listed                                                    the date the fiscal year ends using the
+                                             the OTSA address under When and
+transaction and fail to do so within the                                                    MM/DD/YYYY format (for example,
+                                             How To File, earlier. See Rev. Proc.
+time and manner prescribed under                                                            06/30/2008).
+                                             2005-26 for additional guidance.
+section 6011 and the related
+regulations, then under section 6501(c)                                                     Item C
+(10) the period to assess any tax with       Specific Instructions                          Check all the box(es) that apply.
+respect to the listed transaction will be
+                                                                                            Initial year filer. If this is the first year
+extended beyond the normal                   How To Complete                                that you are filing a Form 8886 to
+assessment period until 1 year after the
+earlier of either:
+                                             Form 8886                                      disclose this transaction, check this box
+• The date you disclose the transaction      In order to be considered complete,            and file a duplicate copy of the form with
+by filing Form 8886 in the manner            Form 8886 must be completed in its             OTSA (see When and How To File,
+prescribed in Rev. Proc. 2005-26,            entirety with all required attachments.        earlier).
+2005-17 I.R.B. 965, available at             To be considered complete, the
+                                                                                            Protective disclosure. You may
+IRS.gov/pub/irs-irbs/irb05-17.pdf (or        information provided on the form must
+                                                                                            indicate that you are filing on a
+subsequently published guidance); or         describe the expected tax treatment
+                                                                                            protective basis by checking this box
+• The date that a material advisor           and all potential tax benefits expected to
+                                                                                            (under the option provided in
+provides the information required under      result from the transaction, describe any
+                                                                                            Regulations section 1.6011-4(f)).
+section 6112 in response to a request        tax result protection with respect to the
+                                                                                            Generally, the IRS will not treat a Form
+by the IRS under section 6112.               transaction, and identify and describe
+                                                                                            8886 filed on a protective basis any
+                                             the transaction in sufficient detail for the
+                                                                                            differently from other Forms 8886. An
+   Section 6501(c)(10) is effective for      IRS to be able to understand the tax
+                                                                                            incomplete form containing a statement
+tax years with respect to which the          structure of the reportable transaction
+                                                                                            that information will be provided on
+limitations period on assessment did not     and identify all parties involved in the
+                                                                                            request is not a complete disclosure
+expire prior to October 22, 2004.            transaction. A Form 8886 containing a
+                                                                                            statement. For a protective disclosure to
+Section 6501(c)(10) does not revive an       statement that information will be
+                                                                                            be effective, you must properly
+assessment period that expired prior to      provided upon request is not considered
+                                                                                            complete and file Form 8886 and
+October 22, 2004. For more information,      a complete disclosure statement. If
+                                                                                            provide all required information. See
+see Rev. Proc. 2005-26.                      Form 8886 is not completed in
+                                                                                            How To Complete Form 8886, earlier.
+                                             accordance with these instructions and
+   If you are filing Form 8886 to disclose   Regulations section 1.6011-4, you will
+a previously undisclosed listed              not be considered to have complied with        Line 1a
+transaction for purposes of section          the disclosure requirements. If you            Enter the name, if any, by which the
+6501(c)(10), submit the form and a           receive one or more reportable                 transaction is known or commonly
+cover letter to the Internal Revenue         transaction numbers for a reportable           referred to. If no name exists, provide a
+Service Center where your original tax       transaction, you must include the              short identifying description of this
+return was filed. Write across the top of    reportable transaction numbers on Form         transaction that distinguishes it from
+page 1 of each Form 8886 the following       8886.                                          other reportable transactions in which
+statement: “Section 6501(c)(10)                                                             you have participated (or may
+Disclosure” followed by the tax year and        If the information required exceeds         participate in the future). If you are
+tax return to which the disclosure           the space provided, complete as much           reporting more than one transaction and
+statement applies. For example, if the       information as possible in the available       the transactions have different names,
+Form 8886 relates to your Form 1040          space and attach the remaining                 enter all names in the space provided. If
+for the 2002 tax year, you must include      information on additional sheets. The          additional space is needed, write “See
+the following statement: “Section            additional sheets must be in the same          Additional List” and attach a list.
+6501(c)(10) Disclosure; 2002 Form            order as the lines to which they
+1040” on the form. The cover letter must     correspond. You must also include your
+identify the tax return to which the         name and identifying number at the top
+disclosure statement relates and             of each additional sheet. Do not write
+
+Instructions for Form 8886 (Rev. October 2022)                   -5-
+Line 1b                                      Line 3                                       advisor, in that person's capacity as a
+Enter the first year that you participated   Identify the notice, revenue ruling,         party to the transaction.
+in this transaction in year format           regulation, announcement, or other
+(YYYY). If you are reporting for more        published guidance that identified the       Line 7a
+than one transaction, enter all initial      transaction as a listed transaction or a     Please check the box representing the
+years in the space provided. If              transaction of interest. For listed          type of tax benefit the transaction will
+additional space is needed, write “See       transactions, identify the guidance as       reflect on your tax return. There may be
+Additional List” and attach a list.          shown in Notice 2009-59, or later IRS        more than one tax benefit to your
+                                             guidance.                                    transaction. A tax benefit includes, but is
+Note. This may not be the same as the                                                     not limited to, the following: deductions,
+year for which you are disclosing a          Line 4                                       exclusions from gross income,
+reportable transaction.                      Do not report more than one transaction      nonrecognition of gain, tax credits,
+                                             on this form unless the transactions are     adjustments (or absence of
+Line 1c                                      the same or substantially similar. See       adjustments) to the basis of property,
+Enter the 9-digit and/or 11-digit number     Substantially Similar, earlier.              status as an entity exempt from federal
+provided to you. This number may be                                                       income taxation, and any other tax
+                                                                                          consequences that may reduce a
+referred to as a registration number or      Line 5                                       taxpayer's federal income tax liability by
+reportable transaction number and may        If you participated in the transaction
+begin with the letters “MA.” Reportable                                                   affecting the amount, timing, character,
+                                             through other entities, indicate whether     or source of any item of income, gain,
+transactions can have more than one          each entity is a partnership, S
+number. If you have more than one                                                         expense, loss, or credit. Check the
+                                             corporation, or trust. In addition, if the   “Other” box for tax benefits not
+number for this transaction, include all     entity is foreign, check the box for
+numbers in the space provided. If                                                         specifically identified by a box and
+                                             “Foreign.” On line 5b, provide the full      identify the tax benefits in the space
+additional space is needed, write “See       name of the entity. On line 5c, enter the
+Additional List” and attach a list.                                                       provided (for example, status as an
+                                             entity's EIN (if known). Use hyphens         entity exempt from federal income
+   Reportable transaction numbers            when entering the EIN. On line 5d, enter     taxation). If you need more space,
+(formerly known as tax shelter               the date you received the Schedule K-1       follow the instructions under How To
+registration numbers or registration         from the entity. Enter “none” if             Complete Form 8886, earlier.
+numbers) are issued to material              Schedule K-1 was not received. If you
+advisors who file a statement disclosing     are reporting more than one entity, use      Line 7b
+a reportable transaction under section       a separate column for each entity.
+                                             Attach additional sheets for more than       Tax benefit(s) from the transaction is the
+6111. Material advisors are required to                                                   total anticipated dollar amount of all
+provide this number to investors/            two entities.
+                                                                                          items checked in line 7a, over the entire
+advisees.                                                                                 anticipated life of the transaction.
+                                             Line 6
+Line 2                                       Enter the name, address, and social          Line 7c
+Check the box(es) for all categories that    security number (SSN) or EIN (if known)
+                                             for each individual or entity to whom you    Enter the number of tax years you
+apply to the transaction being reported.                                                  anticipate it will take for you to claim the
+The reportable transaction categories        paid a fee with regard to the transaction
+                                             if that individual or entity promoted,       above total tax benefits from this
+are described under Participation in a                                                    transaction.
+Reportable Transaction, earlier.             solicited, or recommended your
+                                             participation in the transaction, or
+Note. The category for brief asset           provided tax advice related to the           Line 7d
+holding period has been eliminated for       transaction. Also, enter the approximate     Total investment or basis in the
+transactions entered into on or after        fees paid to each of the individuals or      transaction is the total of the amounts
+August 3, 2007. However, this does not       entities. These fees include payment in      you paid related to this transaction that
+relieve taxpayers of any disclosure          whatever form, whether in cash or in         includes cash, fair market value of
+obligations for brief asset holding          kind, for a tax strategy or for advice       property or services transferred or
+transactions that were entered into          (whether or not tax advice). Fees also       acquired, adjustments to basis,
+before August 3, 2007. The rules for         include consideration for services to:       valuation of notes, obligations, shares,
+brief asset holding period reportable        • Analyze the transaction (whether or        or other securities.
+transactions entered into before August      not related to the tax consequences of
+3, 2007, are contained in Regulations        the transaction),                            Line 7e
+section 1.6011-4 in effect prior to          • Implement the transaction,                 Describe the reportable transaction you
+August 3, 2007.                              • Document the transaction, or               entered into and the relevant facts and
+          If the transaction is a listed     • Prepare tax returns to the extent the      tax benefits for all affected years that
+                                             return preparation fees are                  caused the transaction to be reportable.
+  !       transaction or transaction of
+ CAUTION interest, you must check the
+                                             unreasonable.                                Describe each step of the transaction,
+listed transaction box or transaction of                                                  including all information known to you.
+                                                You are also treated as paying fees       Include in your description other parties
+interest box in addition to any others       to an advisor if you know or should
+that may apply.                                                                           to the transaction and, if known,
+                                             know that an amount you paid will be         assumptions of liabilities or other
+                                             paid indirectly to the advisor, such as      obligations, satisfaction of liabilities or
+                                             through a referral fee or fee-sharing        obligations, sales of property or
+                                             arrangement. A fee does not include          interests in property, the formation and
+                                             amounts paid to a person, including an
+
+                                                                -6-              Instructions for Form 8886 (Rev. October 2022)
+dissolution of entities, and any                If you checked box 2c, describe the       control number. Books or records
+agreements between or among parties          terms of the contractual protection. See     relating to a form or its instructions must
+to the transaction. Also describe any tax    Regulations section 1.6011-4(b)(4) for       be retained as long as their contents
+result protection with respect to the        more details.                                may become material in the
+transaction. The term “tax result                                                         administration of any Internal Revenue
+protection” includes insurance company         If you checked box 2d, explain how         law. Generally, tax returns and return
+and other third-party products               you calculated the basis of the asset for    information are confidential, as required
+commonly described as tax result             which there was a loss.                      by section 6103.
+insurance. Include, if known, the               If you need more space, follow the
+relevant dates and the amounts               instructions under How To Complete              The time needed to complete and file
+involved in the steps described.             Form 8886, earlier.                          this form will vary depending on
+Amounts involved include cash, fair                                                       individual circumstances. The estimated
+market value of property or services         Line 8                                       burden for individual taxpayers filing this
+transferred or acquired, adjustments to                                                   form is approved under OMB control
+                                             List all individuals involved in the         number 1545-0074 and is included in
+basis, valuation of notes, obligations,      transaction. List all tax-exempt, foreign,
+shares, or other securities. Describe, if                                                 the estimates shown in the instructions
+                                             or related entities involved in the          for their individual income tax return.
+known, the relationship between the          transaction. Check the applicable
+steps of the transaction and how each                                                     The estimated burden for all other
+                                             box(es) for the type of entity. Attach       taxpayers who file this form is shown
+step relates to why the transaction is       additional sheets where appropriate.
+reportable. Your description should                                                       below.
+                                             Provide all information, including the
+include the relevance, if known, of any      name, EIN or SSN (include hyphens),
+party (including but not limited to          and address, if known.                        Recordkeeping . . . . . . .        10 hr., 16 min.
+participants in the transaction) listed in
+                                                                                           Learning about the law or
+line 8.                                          Include a brief description of each       the form . . . . . . . . . . . .    4 hr., 50 min.
+                                             listed individual's and each entity's         Preparing, copying,
+   Describe the economic and business        involvement in the transaction                assembling, and sending
+reasons for the transaction and its          (purchaser, lender, seller, broker, etc.).    the form to the IRS . . . .         6 hr., 25 min.
+structure. Describe market or business       Provide the country of incorporation or
+conditions creating the tax benefit(s) or    existence for each foreign entity, if
+consequence(s) and the transaction's                                                         If you have comments concerning the
+                                             known. Describe the relationship             accuracy of these time estimates or
+financial reporting, if known.               between you and any related entity and       suggestions for making this form
+                                             between or among any related entities        simpler, we would be happy to hear
+   If you checked box 2b, explain how        (as described in section 267(b) or
+your disclosure of information                                                            from you. You can send us comments
+                                             707(b)).                                     from IRS.gov/FormComments. Or you
+concerning the transaction was limited
+(for example, by contract or verbal                                                       can write to the Internal Revenue
+                                             Paperwork Reduction Act Notice.              Service, Tax Forms and Publications,
+agreement) and the nature and extent of      You are not required to provide the
+the disclosure limitations. See                                                           1111 Constitution Ave. NW, IR-6526,
+                                             information requested on a form that is      Washington, DC 20224.
+Regulations section 1.6011-4(b)(3) for       subject to the Paperwork Reduction Act
+more details.                                unless the form displays a valid OMB
+
+
+
+
+Instructions for Form 8886 (Rev. October 2022)                   -7-
+

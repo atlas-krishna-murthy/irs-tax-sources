@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": "item-was-reimbursed-or-paid-by-others",
+    "wording": "Was this expense reimbursed, or paid by insurance, an HSA or MSA distribution, or anyone else?",
+    "scope": "item",
+    "options": [
+      {
+        "value": "yes",
+        "label": "Yes \u2014 reimbursed or paid by others"
+      },
+      {
+        "value": "no",
+        "label": "No \u2014 paid by the taxpayer and not reimbursed"
+      }
+    ],
+    "default": {
+      "behaviour": "assume",
+      "value": "no",
+      "because": "Taken as no unless a preparer says so: Was this expense reimbursed, or paid by insurance, an HSA or MSA distribution, or anyone else?"
+    },
+    "basis": {
+      "citation": {
+        "form": "Instructions for Schedule A (Form 1040)",
+        "line": "Line 1",
+        "revision": "2025",
+        "wording": "If you received a reimbursement in 2025 for medical or dental expenses you paid in 2025, reduce your 2025 expenses by this amount.",
+        "source_url": "https://www.irs.gov/pub/irs-prior/i1040sca--2025.pdf"
+      }
+    }
+  }
+}
